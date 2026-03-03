@@ -1,0 +1,563 @@
+{
+    "dialogue": [
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:20:36",
+            "content": "（こんばんは、本日はよろしくお願い致します。）",
+            "English": "(Good evening. Thank you for your time today.)"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:23:38",
+            "content": "(こんばんは。よろしくお願いいたします。)",
+            "English": "(Good evening. Thank you.)"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:30:08",
+            "content": "こんばんは、相談員です。年齢、性別、ご相談内容をお聞かせください。",
+            "English": "Good evening. I'm the counselor. Could you please tell me your age, gender, and what you'd like to discuss?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:30:26",
+            "content": "こんばんは。35歳。女性です。職場のことで悩んでいます。",
+            "English": "Good evening. I'm 35 years old and female. I'm having some trouble at work."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:30:54",
+            "content": "そうなんですね。もう少し詳しく聞かせてください。",
+            "English": "I see. Could you please tell me a little more about it?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:31:21",
+            "content": "病院の方針が合わないようで、職場の半数のスタッフが辞めてしまいました。",
+            "English": "It seems the hospital’s policies aren’t a good fit, and half of the staff have quit."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:31:33",
+            "content": "すみません。私は病院で働いています。",
+            "English": "I should mention, I work at a hospital."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:31:54",
+            "content": "教えていただいた先輩方も辞めてしまったので、私も辞めるか悩んでいますが",
+            "English": "The senior colleagues who trained me have also quit, so I'm wondering if I should quit too, but..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:32:21",
+            "content": "子育てもしている故、時短で働いていて、お給料もそこそこ良いので、今から移るとなるとパートになってしまうし悩んでいます。",
+            "English": "Because I’m also raising a child, I work reduced hours, and the pay is fairly good. If I were to change jobs now, I’d likely have to go part-time, so I’m conflicted."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:32:59",
+            "content": "やめるか残るか悩んでいます。",
+            "English": "I'm torn between quitting and staying."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:33:32",
+            "content": "そうなんですね。それは不安になりますね。会社の方針が合わないとのことですが、あなたもそう思っていますか？",
+            "English": "I understand. That must make you anxious. You mentioned the hospital's policies don't align—do you feel the same way?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:34:15",
+            "content": "そうですね…トップが独裁的だったので。今まで何人もの人が辞めている中で、今の部署の人たちだけは仲が良く助け合ってきたのでチームワークもできていました。",
+            "English": "Yes... The person at the top was dictatorial. Many people have quit over the years, but the people in my current department were always close and supportive of each other, so we had great teamwork."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:34:38",
+            "content": "その同じ部署の先輩方も、今回は我慢ができなかったようで、上半分が辞めてしまい、残っているのは上司1人と中堅から下になります。",
+            "English": "It seems that even my senior colleagues in the same department couldn't take it anymore this time. The upper half of the team has quit, and all that's left is one manager and the mid-level to junior staff."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:36:24",
+            "content": "そうなんですね。働きやすい環境が変わってしまうかもしれないと思うと焦る気持ちもあるかもしれないですね。",
+            "English": "I see. You might feel anxious thinking that the comfortable work environment could change."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:37:16",
+            "content": "そうですね。信頼している先輩たちが辞めて新しく入ってきた子たちが多くなったので、業務以外の時間で教えたりとかしてより忙しくなりました。",
+            "English": "That's right. The senior colleagues I trusted have left, and many new people have joined, so I've become busier, having to train them outside of my regular duties."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:38:50",
+            "content": "そうあったんですね。仕事を教える立場になって、働いててどうでしょうか？何か困っていることはありますか？",
+            "English": "I understand. Now that you're in a position to teach others, how has work been? Are you facing any difficulties?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:39:30",
+            "content": "子供を迎えに行かなきゃいけないのですが、少し時間が過ぎることがあったり、残っている唯一の上司も余裕がないようで、あまり相談ができません。",
+            "English": "I have to pick up my child, but sometimes I run late. The only remaining supervisor also seems overwhelmed, so I can’t consult with them much."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:39:55",
+            "content": "信頼できる良い先輩たちがいなくなってしまったので、きつく当たる同僚とかもいて環境が悪くなっている気がします。",
+            "English": "Now that the kind, reliable senior colleagues are gone, there are some colleagues who are harsh, and I feel the environment is getting worse."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:41:35",
+            "content": "そう感じることがあるのですね。お子さんを抱えて仕事をされているので、そういったことも気になるかと思います。",
+            "English": "So that's how you're feeling. Since you're working while raising a child, I can imagine those things are a concern for you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:42:25",
+            "content": "そうですね。家庭環境考えると、今のところが1番融通も聞いて良いのですが、1日の大半を過ごす職場がそんな環境で精神衛生上良い訳がない気がして…。",
+            "English": "Yes. Considering my family situation, my current workplace is the most flexible, but spending most of my day in such an environment can’t be good for my mental health…"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:42:46",
+            "content": "だからといって、みんなが辞めている中、私までも辞めれる感じでもなく…",
+            "English": "But then again, with everyone else leaving, I don't feel like I can just quit too..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:44:06",
+            "content": "そうなんですね。慣れている職場が子育てしている時は安心感があるかもしれないですね。転職を迷っている一番の原因は職場の空気感でしょうか？",
+            "English": "I see. A familiar workplace can provide a sense of security when you're raising a child. Would you say the main reason you're hesitant about changing jobs is the atmosphere at work?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:44:51",
+            "content": "みんなが辞めた喪失感と、やめて新しい環境に行くのをワクワクしていそうな先輩たちを見ると私の人生、これでいいのかなとも思ってしまいます。",
+            "English": "It's the sense of loss from everyone leaving, and when I see my former colleagues looking excited about leaving for a new environment, it makes me wonder if this is really the right path for my own life."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:47:50",
+            "content": "そうなんですね。人との出会いと別れは寂しく感じたり、焦る気持ち出るかもしれません。先ほどきつく当たる同僚の方がいるとおっしゃってましたが、その方は辞めたい原因になっていますか？",
+            "English": "I understand. Meeting and parting with people can make one feel lonely or rushed. You mentioned earlier that there's a colleague who is harsh. Is that person a reason you want to quit?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:48:27",
+            "content": "確かにそうですね。その人は私より後輩に風当たりが強いので見ているのが辛いです。",
+            "English": "That's true. That person is harsher on the junior staff than on me, and it's painful to watch."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:48:37",
+            "content": "辞めたい原因になってるかと言われると…そうでもないかもしれません。",
+            "English": "If you ask whether they’re the reason I want to quit… perhaps not necessarily."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:49:59",
+            "content": "そうなんですね。頼れる先輩が辞めたり、新しいところへいく先輩を見ると、辞めたいと迷ったりするのは自然な気持ちだと思います。",
+            "English": "I see. When reliable senior colleagues quit or you see them moving on to new places, I think it's natural to feel conflicted and consider quitting."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:50:16",
+            "content": "ありがとうございます。",
+            "English": "Thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:50:42",
+            "content": "あなたは後輩に仕事を教えたりしているとのことで、しっかりと仕事をこなしているように思いますが、どう感じていますか？",
+            "English": "You mentioned you're teaching the junior staff, and it sounds to me like you're handling your work very well. How do you feel about it?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:51:21",
+            "content": "そうですね。与えられた事はきちんとしたいタイプなので、そこは責任を果たそうと思ってはいます。それがしっかりこなしているかどうか分かりませんが…",
+            "English": "Well, I'm the type of person who wants to do what's assigned to me properly, so I do try to fulfill my responsibilities. But I'm not sure if I'm actually handling it all well..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:52:52",
+            "content": "加えて信頼していた先輩が辞める理由を大学院と言っていたのに、他の人からこの前辞めた先生の引き抜きのような感じで一緒に病院を開くようなことを聞きました。",
+            "English": "On top of that, a senior colleague I trusted told me they were leaving to go to graduate school, but then I heard from someone else that they were actually poached by a doctor who left earlier, and they're starting a new clinic together."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:53:12",
+            "content": "そういうのもあって、信頼していたのに、なんで話してくれなかったのかなと思う残念な気持ちもあって、モヤモヤ抱えて働いてるのもあるのかもしれません。",
+            "English": "Because of things like that, I have this disappointing feeling of, 'I trusted you, so why didn't you tell me?' Perhaps that's part of the unresolved frustration I'm working with."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:54:11",
+            "content": "そうなんですね。それはそのように思うのは当然だと思います。信頼していた人であればなおさらかと思います。",
+            "English": "I see. It's perfectly natural to feel that way. I can imagine that's especially true when it's someone you trusted."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:54:26",
+            "content": "本当に。",
+            "English": "It really is."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:54:42",
+            "content": "なぜ？という気持ちばかりです。",
+            "English": "I just keep asking myself why."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:56:21",
+            "content": "そうですね。信頼していた人なので、話してほしかったと思うのは当然です。",
+            "English": "Yes. Since it was someone you trusted, it's natural to wish they had told you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:57:13",
+            "content": "そうですね。",
+            "English": "Yes, it is."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:57:43",
+            "content": "次は誰が辞めるのかみたいな雰囲気もあって、早い者勝ちのような自分の感覚かとも思いますけど、なんだかそんな変な気持ちがあります。",
+            "English": "There's also this atmosphere of 'who's going to quit next,' and I have this strange feeling, maybe it's just me, that it's like a race to see who gets out first."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 20:58:19",
+            "content": "全てが卑屈になっている気がして、自分が嫌になります。",
+            "English": "I feel like I'm becoming cynical about everything, and I don't like myself for it."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:59:31",
+            "content": "そう思うのですね。あなたは喪失感やいろんな思いを抱えながら子育てもしてよくやっていると思います。",
+            "English": "That's how you feel. I think you are doing a great job, managing work and childcare while dealing with this sense of loss and all these other feelings."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 20:59:55",
+            "content": "そのような卑屈な気持ちになるのも無理もないと思います。",
+            "English": "It's completely understandable that you would feel cynical in this situation."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:00:20",
+            "content": "ありがとうございます。何もかも投げ出したくなるけど、子育てだけは投げ出せないし、自分がそういう気持ちになるような職場なら、やっぱり転職を考えたほうがいいのかなぁとか考えてしまいます。",
+            "English": "Thank you. I feel like giving up on everything, but I can't give up on raising my child. And if my workplace makes me feel this way, I start to think that maybe I should consider changing jobs after all."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:02:00",
+            "content": "責任感があるからこそ、今の状況でも自分のしっかり持ってやれているのだと思います。転職したい気持ちと残る気持ちの割合はどれくらいでしょうか？",
+            "English": "I think it's because of your sense of responsibility that you're able to hold your own and manage even in this situation. What would you say is the ratio of your desire to change jobs versus your desire to stay?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:02:46",
+            "content": "そうですね...考えれば考えるほどぐるぐる回り、回って割合がどれぐらいかも…思考能力が落ちてる感じですね。",
+            "English": "Well... the more I think about it, the more my thoughts just go in circles, and I can't even tell you the ratio... I feel like my ability to think clearly has declined."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:03:54",
+            "content": "そうなんですね。もしかして、あなたは職場で自分が必要とされていないのでは？と感じているのでしょうか？",
+            "English": "I see. Is it possible that you're feeling you're not needed at work?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:04:41",
+            "content": "いいえ、そういった感じでもないんです。1番上のオーナーというか、理事長はこれ以上人が辞めないのに必死で、だいぶ前に辞めた退職者にも声をかけているような感じです。",
+            "English": "No, it’s not really like that. The top owner—the director—is desperate to keep people from leaving, and it seems they’re even reaching out to people who left quite a while ago."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:05:00",
+            "content": "おそらく私まで辞められたと思っていると思います。",
+            "English": "I'm sure they think they would be in trouble if I were to quit too."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:05:57",
+            "content": "そうあったんですね。あなたはこれからどういう気持ちで仕事をしていきたいのでしょうか？",
+            "English": "I see. How would you like to feel about your work going forward?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:06:10",
+            "content": "ごめんなさい、おそらく私まで辞められたら困ると思っていると思います",
+            "English": "I'm sorry, I meant to say I'm sure they think they would be in trouble if I were to quit too."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:06:27",
+            "content": "できれば、前のようにみんなで笑い合いながら、楽しく仕事がしたいのです。",
+            "English": "If I could, I'd want to work happily, laughing with everyone like we used to."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:06:47",
+            "content": "先輩たちがいた時は、他の部署の人たちがきつい人がいても、みんなで乗り越えている感じがあって楽しかったです。忙しくても。",
+            "English": "When my senior colleagues were here, even if there were difficult people in other departments, it felt like we were overcoming it together, and it was enjoyable. Even when it was busy."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:08:10",
+            "content": "そうなんですね。忙しくても楽しい仲間がいれば乗り越えられますよね。",
+            "English": "I see. You can get through anything if you have fun colleagues, even when you're busy."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:08:27",
+            "content": "本当に。そうなんです。",
+            "English": "Exactly. That's right."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:08:36",
+            "content": "上が独裁的でもみんながいるから楽しく働くことができていました。",
+            "English": "Even with the dictatorial management, I was able to enjoy my work because everyone was there."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:08:55",
+            "content": "信頼している先輩方が辞めてしまって、環境は変わってしまって、それが悲しいのかもしれません。",
+            "English": "My trusted senior colleagues have left, the environment has changed, and maybe that's what's making me sad."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:09:41",
+            "content": "そうですね。環境が変わるのは悲しいと思います。そういった状況をあなたが、これから作っていくことができると考えたことはありますか？",
+            "English": "Yes, I can imagine that a change in environment is sad. Have you ever considered that you might be able to create that kind of positive situation yourself going forward?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:10:06",
+            "content": "私も考えてみたのですが…今は気力がありません。",
+            "English": "I've thought about it... but right now, I just don't have the energy."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:10:54",
+            "content": "毎月1人ずつ先輩を見送って、後輩たちも疲れています。",
+            "English": "We've been seeing a senior colleague leave every month, and the junior staff are exhausted too."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:12:23",
+            "content": "そうあったんですね。あなたは十分頑張っていると思います。今はそういった気持ちになれないのは当然だと思います。ご家族にはこういった相談をされていますか？",
+            "English": "I see. I think you're already doing more than enough. It's completely understandable that you don't feel up to it right now. Have you talked to your family about this?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:13:00",
+            "content": "主人は忙しくて私のしたいようにしていいよという感じで、あまり相談という感じはできていません。",
+            "English": "My husband is busy and has a 'do whatever you want' attitude, so I haven't really been able to talk to him about it in a meaningful way."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:13:30",
+            "content": "一気に人が辞める前に、1年以上前に普通に同僚が辞めたのですが、その同僚が今は少し良い相談相手です。",
+            "English": "Before the big wave of resignations, a colleague left in a more ordinary way over a year ago, and that colleague is now a fairly good sounding board."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:14:54",
+            "content": "そうあったんですね。ご主人も忙しいとのことで、あなたの話を聞いてくれる人がいてよかったです。先ほど思考能力が低下してるをお話してくれましたが、あなたの体調面はどうでしょうか？",
+            "English": "I see. With your husband being busy, I'm glad you have someone who will listen to you. You mentioned earlier that your ability to think clearly has declined. How are you feeling physically?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:15:54",
+            "content": "毎日疲れが取れなくて、子育てもしなきゃいけないので、ぼーっとしてしまっています。眠れてはいるのですが..",
+            "English": "I can’t seem to shake the fatigue every day, and since I have to take care of my child too, I end up spacing out. I am sleeping, but…"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:18:05",
+            "content": "そうあったんですね。責任感がおありなので、全力で活動されていると感じます。心も疲れているかと思います。転職されるかどうかは、少し落ち着いてから考えるのはどうでしょうか？",
+            "English": "I understand. You have a strong sense of responsibility, so I feel you're giving it your all in everything you do. I imagine your mind is tired as well. How about waiting until you've had a chance to calm down a bit before thinking about whether to change jobs?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:18:33",
+            "content": "それがいいのかもしれませんね…やっぱり心が疲れている気がします。決断力に欠けている気がして。",
+            "English": "That might be a good idea... I really do feel mentally exhausted. I feel like I lack decisiveness."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:18:42",
+            "content": "少し休息をとって、気分転換をしてから、ゆっくり考えるのもいいのかもしれません。",
+            "English": "It might be good to take a short break, do something to refresh yourself, and then think about it slowly."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:18:51",
+            "content": "はい。",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:19:21",
+            "content": "ここまでのお話をまとめさせていただいてもよろしいでしょうか？",
+            "English": "May I summarize what we’ve discussed so far?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:19:37",
+            "content": "はい。",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:22:16",
+            "content": "会社の方針が合わず、先輩スタッフが多く辞めたり、引き抜きのようなことを聞いたり、喪失感を味わったりしながら、頑張って仕事をしてきました。転職したいと思う程、悲しい気持ちにもなったかと思います。",
+            "English": "You've been working hard while dealing with a sense of loss after many senior staff members left over disagreements with the company's policies, and you've also heard about things like poaching. I imagine you've felt sad enough to consider changing jobs."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:22:54",
+            "content": "そうなんです。",
+            "English": "That’s right."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:23:56",
+            "content": "今は心も体も疲れていると感じらえています。少し休息をしてから、ゆっくり考えたいと思えました。",
+            "English": "You feel that you're mentally and physically exhausted right now. And you've come to feel that you'd like to rest a bit and then think about things slowly."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:24:23",
+            "content": "はい。",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:24:57",
+            "content": "何か気分転換になるような、したいことはありますか？ゆっくり寝たりとかでもいいと思います。",
+            "English": "Is there anything you'd like to do to refresh yourself? It could be something as simple as getting a good long sleep."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:25:25",
+            "content": "時間があれば自分のことやりたいのですが…子供のことがあって、なかなか自分の時間が取れません。",
+            "English": "I'd like to do something for myself if I had the time... but with my child, it's hard to get any time for myself."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:27:00",
+            "content": "そうなんですね。周りの人や一時保育園など活用したり、お風呂にゆっくり入ったり、小さなことでもいいかもしれません。心が回復するのは時間も必要かもしれません。",
+            "English": "I see. It could be something small, like asking for help from people around you, using a temporary daycare, or taking a long bath. It might take time for your mind and heart to heal."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:27:48",
+            "content": "そうですね。一時保育がいいかもしれません。",
+            "English": "You're right. Temporary daycare might be a good idea."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:27:49",
+            "content": "できる範囲でいいと思います。一番は睡眠がとれるといいかもしれません。",
+            "English": "Whatever is within your means is fine. Getting enough sleep might be the most important thing."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:28:00",
+            "content": "ありがとうございます。",
+            "English": "Thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:28:32",
+            "content": "もうすぐご相談終了のお時間になります。今日お話しされていかがでしょうか？",
+            "English": "Our time for today is almost up. How do you feel after talking today?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:28:48",
+            "content": "自分の中でいろいろぐちゃぐちゃになっていたことが少し整理できました。",
+            "English": "I was able to sort out a bit of what had been all jumbled up inside me."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:28:54",
+            "content": "ありがとうございます。やっぱり時間が必要でした。",
+            "English": "Thank you. I realized I just need some time."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:31:36",
+            "content": "そう思われたんですね。このような状況で投げ出さずに十分頑張ってこられたと感じます。そういったお気持ちになるのは自然なことです。あなたは頑張り屋な方だと感じました。だからこそ、回復された後は、楽しく仕事をしていけるかもしれません。",
+            "English": "I'm glad you feel that way. I feel you've done more than enough by not giving up in this situation. It's natural to feel the way you do. I get the impression that you are a very dedicated person. That's why, once you've recovered, you may be able to enjoy your work again."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:32:10",
+            "content": "そうですね。ありがとうございます。まずは自分の体力回復に専念しようと思います。無理をしないのが1番ですね。",
+            "English": "You may be right. Thank you. First, I'm going to focus on recovering my strength. Not overdoing it is the most important thing, isn't it?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:32:42",
+            "content": "今日はこれで終了したいと思いますが、よろしいでしょうか？また、お話したいことがあれば、ぜひいらしてください。今日はありがとうございました。",
+            "English": "I would like to conclude our session for today, if that's alright with you. If you feel like you want to talk again, please don't hesitate to come back. Thank you for your time today."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:32:54",
+            "content": "はい。ありがとうございました。",
+            "English": "Yes. Thank you very much."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/03/01(金) 21:33:35",
+            "content": "（一時間お付き合いいただきありがとうございました。終了致します。）",
+            "English": "(Thank you for your time over this past hour. This concludes our session.)"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/03/01(金) 21:34:00",
+            "content": "(こちらこそありがとうございました。とても勉強になりました。)",
+            "English": "(Thank you as well. This has been very insightful.)"
+        }
+    ],
+    "review_by_client": {
+        "評価ID": 6520,
+        "評価作成日時": "2024/03/01(金) 21:50",
+        "ロールプレイ実施日時": "2024/03/01(金) 20:30 ~ 2024/03/01(金) 21:30",
+        "クライアント役": 481,
+        "カウンセラー役": 473,
+        "点数": 90,
+        "聴いてもらえた、わかってもらえたと感じた": 5,
+        "尊重されたと感じた": 4,
+        "新しい気づきや体験があった": 4,
+        "希望や期待を感じられた": 4,
+        "取り組みたかったことを扱えた": 4,
+        "一緒に考えながら取り組めた": 5,
+        "やりとりのリズムがあっていた": 3,
+        "居心地のよいやりとりだった": 5,
+        "全体として適切でよかった": 5,
+        "今回の相談は価値があった": 5,
+        "相談開始の円滑さ": 5,
+        "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+        "受容・共感": 5,
+        "肯定・承認": 5,
+        "的確な質問による会話の促進": 4,
+        "要約": 5,
+        "問題の明確化": 5,
+        "この相談での目標の明確化": 5,
+        "次の行動につながる提案": 4,
+        "勇気づけ・希望の喚起": 4,
+        "無理解と軽率さによる傷つけ発言": NaN,
+        "その他の倫理違反が疑われる発言": NaN,
+        "離脱": NaN
+    }
+}

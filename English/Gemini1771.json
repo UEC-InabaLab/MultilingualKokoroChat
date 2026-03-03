@@ -1,0 +1,641 @@
+{
+    "dialogue": [
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 12:59:35",
+            "content": "（こんにちは。本日はよろしくお願いいたします。）",
+            "English": "(Hello. Thank you for your time today.)"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 12:59:43",
+            "content": "こんにちは相談員です。よろしくお願いいたします。",
+            "English": "Hello, I'm your counselor. It's nice to meet you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:00:10",
+            "content": "最初に　年齢と性別を教えていただいてもいいですか？",
+            "English": "First, may I ask your age and gender?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:00:28",
+            "content": "20代、女性です。",
+            "English": "I'm a woman in my 20s."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:00:48",
+            "content": "教えてくださりありがとうございます。",
+            "English": "Thank you for sharing that with me."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:01:04",
+            "content": "今日はどのようなご相談でしょうか？",
+            "English": "What would you like to discuss today?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:02:27",
+            "content": "コロナが流行っていて、不安なのに旦那が感染対策に協力的でなくイライラします。",
+            "English": "With the COVID pandemic going on, I'm anxious, and I get irritated because my husband isn't cooperative with infection prevention measures."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:03:28",
+            "content": "それはイライラしますよね。パートナーさんは　どんな風に協力的じゃないのでしょうか？",
+            "English": "That must be frustrating. In what ways is your partner not being cooperative?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:04:59",
+            "content": "うちはまだ子供が小さいので、私は感染しないか心配で除菌したり、外出を控えたりしているのですが、旦那は全然気にしてないようです。私が注意すると、むしろ私の方が「気にしすぎ」だと笑われてしまいます。",
+            "English": "Our child is still small, so I'm worried about getting infected. I'm always disinfecting things and avoiding going out, but my husband doesn't seem to care at all. When I bring it up, he just laughs and tells me I'm overreacting."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:06:04",
+            "content": "そうなんですね。あなたは　ご家族のために　気を配っていらっしゃるのにねぇ・・・",
+            "English": "I see. You're taking such care for your family's sake..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:06:25",
+            "content": "そうなんです！ちょっとは協力してほしいです。",
+            "English": "Exactly! I just wish he would cooperate a little."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:06:55",
+            "content": "そうですよね。ちなみに　ご家族は3人でお暮らしですか？",
+            "English": "I understand. By the way, are there three of you living together?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:07:19",
+            "content": "はい。3人家族です。",
+            "English": "Yes, it's a family of three."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:08:02",
+            "content": "ありがとうございます。お子さんは何歳ですか？",
+            "English": "Thank you. How old is your child?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:09:18",
+            "content": "まだ生まれたばかりなんです。ただでさえ手がかかるので、無駄にイライラさせないでほしいんですよね。",
+            "English": "The baby is a newborn. It's already so much work, so I wish my husband wouldn't frustrate me unnecessarily."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:10:25",
+            "content": "そうなんですね。お子さんは　ほんとの赤ちゃんなのですね。それは日々手がかかって大変ですよね。",
+            "English": "I see, so your child is a newborn. That must be a lot of work every day."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:11:09",
+            "content": "はい。色々と心配事が多いので…",
+            "English": "Yes. There are so many things to worry about..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:12:12",
+            "content": "生まれたばかりの赤ちゃんだと本当に気を遣っていらっしゃるとお察しいたします。心配事とのことですが、その他にどんなことがおありなのですか？",
+            "English": "I can imagine you must be extremely careful with a newborn baby. You mentioned worries; what other things are on your mind?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:14:34",
+            "content": "初めての子なので、まず育児自体が「これであってるのかな？」の連続です。そんな時にコロナが流行って、「もし感染して、この子に何かあったらどうしよう」「私が感染したら誰がこの子を世話するの」って不安です。",
+            "English": "It's our first child, so parenting itself is a constant series of 'Am I doing this right?' questions. On top of that, with the COVID pandemic, I get anxious, worrying, 'What if the baby gets infected and something happens?' and 'If I get infected, who will take care of the baby?'"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:17:29",
+            "content": "初めての育児体験ですからね。大丈夫かな？　と気になることだらけですよね。それだけで　気持がいっぱいいっぱいになってしまうのでは？",
+            "English": "It's your first time raising a child, after all. It must be full of moments where you wonder, 'Is this okay?' I imagine that alone can be quite overwhelming, can't it?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:18:03",
+            "content": "本当にそうです！なのに旦那は分かってくれなくて…",
+            "English": "It really is! But my husband just doesn't understand..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:19:39",
+            "content": "ただでさえ　初めての子育てで　大変なのに　そこに　コロナがはやってしまって　本当に　どうしたらいいの・・・　と心配と迷いで　大変なことになっておられるのですね・・・",
+            "English": "So, on top of the challenges of being a first-time mother, the pandemic has added to it, leaving you feeling overwhelmed with worry and uncertainty about what to do..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:20:08",
+            "content": "はい。毎日イライラしてしまって。",
+            "English": "Yes. I find myself irritated every day."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:20:50",
+            "content": "そうですよね。パートナーさんは　分かってくれなくって　とのことですが・・・少しは　家のことを手伝ってはくれるのですか？",
+            "English": "I understand. You mentioned that your partner doesn't seem to understand... Does he help out with things around the house at all?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:22:49",
+            "content": "そうですね…基本旦那は外で働いているので、うちの事は私がしています。ゴミ出しとか、あとたまにご飯作ってくれたりはしますけど。",
+            "English": "Well... my husband works outside the home, so I basically do everything here. He takes out the trash, and sometimes he'll cook a meal, though."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:24:26",
+            "content": "そうなんですね。パートナーさんは全く何もしないという訳でもないとお聞きして　少し安心しました。",
+            "English": "I see. I'm a little relieved to hear that he's not completely uninvolved."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:24:47",
+            "content": "ちなみに　あなたのことは何とお呼びすれはよろしいですか？",
+            "English": "By the way, how would you like me to address you?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:25:43",
+            "content": "ええ。悪い人じゃないのは自分でも分かっているんですが。頼めばやってくれることも多いし。でも、感染対策に関しては、なんだか意識が低いんですよね。",
+            "English": "Yes. I know he's not a bad person. He often helps if I ask him to. But when it comes to infection prevention, his awareness just seems low."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:26:04",
+            "content": "愛でお願いします。",
+            "English": "Please call me Ai."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:26:26",
+            "content": "そこが　心配ですよね。愛さん教えてくださりありがとうございます。",
+            "English": "That's the concerning part, isn't it? Thank you for telling me, Ai."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:27:30",
+            "content": "今までのお聞きしたことを少し整理させていただいてもよろしいですか？",
+            "English": "Would it be all right if I took a moment to summarize what you've told me so far?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:27:42",
+            "content": "はい。イライラすると子供にも良くないだろうし、私自身もストレスで困ってます。",
+            "English": "Yes. I know that getting irritated isn't good for the baby, and I'm struggling with the stress myself."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:27:46",
+            "content": "お願いします。",
+            "English": "Please do."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:28:26",
+            "content": "そうですよね。ご自分がイライラするよ　無意識に赤ちゃんにも影響してしまうかもしれませんものね。",
+            "English": "That's right. When you feel irritated, it may unconsciously affect your baby as well."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:28:41",
+            "content": "では　ちょっと整理させていただきますね。",
+            "English": "Okay, let me just summarize then."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:28:50",
+            "content": "はい。",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:29:07",
+            "content": "パートナーさんと生まれたばかりの赤ちゃんと3人暮らし。",
+            "English": "You live with your partner and your newborn baby, a family of three."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:29:50",
+            "content": "初めてのお子さんなので育児の要領がつかめず迷いながら苦労しておられる。",
+            "English": "Since it's your first child, you're struggling and feeling lost as you get the hang of parenting."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:30:47",
+            "content": "そんなところにコロナがはやったので、万一お子さんに感染したら大変と　コロナ対策に　最大限に配慮し、外出も控えていらっしゃる。",
+            "English": "With the COVID pandemic on top of that, you're worried about what would happen if your child got infected, so you're being extremely careful with precautions and avoiding going out."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:31:41",
+            "content": "ところが　パートナーさんは　そんな　愛さんの　気づかいに　対して　「気にしすぎだよ」と　分かってくれない。",
+            "English": "However, your partner doesn't seem to understand your concerns and tells you that you're 'worrying too much.'"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:32:35",
+            "content": "パートナーさんは　外に仕事に出かけ、家のことは愛さんがしているが、　パートナーさんは　ゴミ出しとか　時々食事を作ってくれるとか　位はやってくれる。",
+            "English": "Your partner works outside the home while you manage the household, but he does help with things like taking out the trash and occasionally cooking."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:33:08",
+            "content": "でも　コロナ対策には　協力的でないところが　愛さんとしては　耐えられず　イライラしてしまう。",
+            "English": "But his lack of cooperation on COVID precautions is unbearable for you, and it causes you to feel irritated."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:34:01",
+            "content": "愛さんとしては自分がいらいらすると　お子さんにも　あまりよい影響はないのではないかと　心配になってしまう。",
+            "English": "And you're worried that your irritation might be having a negative effect on your child."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:34:12",
+            "content": "こんな理解でよろしいでしょうか？",
+            "English": "Is this understanding correct?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:34:27",
+            "content": "そうですね。合っています。",
+            "English": "Yes, that's correct."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:34:36",
+            "content": "ありがとうございます。",
+            "English": "Thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:35:43",
+            "content": "そこで　一つ教えてください。",
+            "English": "May I ask one thing?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:36:20",
+            "content": "なんでしょうか。",
+            "English": "What is it?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:36:59",
+            "content": "特に最初のお子さんの時には　どなたも初めてお母さんになって　大変苦労なさるのですが、　ご実家の　お母さんと　相談される方も多いようですが　愛さんの場合は　その辺は　いかがですか？",
+            "English": "Especially with a first child, every new mother faces difficulties. Many seem to consult with their own mothers. How is it in your case, Ai?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:38:06",
+            "content": "うち、実は母がいないんです。父が育ててくれました。",
+            "English": "Actually, I don't have a mother. My father raised me."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:38:47",
+            "content": "そうだったんですね。それは　失礼なことをお聞きしてしまいましたね。　ごめんなさいね。",
+            "English": "Oh, I see. I'm sorry, that was an insensitive question. My apologies."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:39:39",
+            "content": "いえ、大丈夫ですよ。私が物心ついた時からいないので、今はもうあまり気にしていません。",
+            "English": "No, it's okay. She wasn't around from as far back as I can remember, so I don't really mind anymore."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:40:09",
+            "content": "そうなんですね。ちなみに　ご兄弟とか　姉妹さんとかは？",
+            "English": "I see. By the way, do you have any siblings?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:40:30",
+            "content": "兄がいます。",
+            "English": "I have an older brother."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:41:15",
+            "content": "そうなんですね。教えてくださりありがとうございます。",
+            "English": "I see. Thank you for sharing."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:42:12",
+            "content": "そうすると　愛さんとしては　子育てのことは　誰か　相談できる方は　いらっしゃるのですか？",
+            "English": "In that case, Ai, is there anyone you feel you can talk to about parenting?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:43:43",
+            "content": "そうですね…なかなか気軽に相談できる人は、あまりいないかもしれません。父とは仲が悪い訳ではありませんが、なんだか少し聞きづらくて。",
+            "English": "Well... I don't think I have anyone I can easily talk to about it. It's not that I have a bad relationship with my father, but it's just a bit difficult to ask him."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:44:56",
+            "content": "そうですよね。男親だと、　どちらかと言うと　こまごまとしたことは　ちょっと　分かってもらいにくいかもしれませんね。",
+            "English": "I can see that. With a father, it might be a bit difficult for him to understand the finer details."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:45:40",
+            "content": "もしかして　保健所の保健師さんたちは　子育てのこと　相談に乗ってくれるようですが・・・",
+            "English": "Perhaps the public health nurses at the health center... they seem to offer parenting consultations."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:46:02",
+            "content": "はい。もちろん父も一生懸命私を育ててくれていたことは分かっているのですが、気軽に、という感じではないですね。",
+            "English": "Yes. I do know my father did his best to raise me, but it doesn't feel like I can ask him things casually."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:46:24",
+            "content": "そうですね。保健師さんは親切に教えてくれます。",
+            "English": "That's true. The public health nurses are kind and helpful."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:46:52",
+            "content": "保健師さんに相談なさったことはおありなのですね・・・",
+            "English": "So you have consulted with the public health nurses before..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:48:08",
+            "content": "一度、頼ったことがあります。でも、気軽に色々聞いていいのかなって思ってしまいますね。",
+            "English": "I've reached out to them once. But I still feel like I might be bothering them if I ask too many casual questions."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:48:37",
+            "content": "それに、何よりやっぱり旦那にもっと協力してほしいです。自分の子供なんだから…",
+            "English": "Besides, more than anything, I really want my husband to be more cooperative. It's his child, too..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:49:43",
+            "content": "保健師さんには　気軽にお聞きになていいと思いますよ。それが　あの方たちのお仕事でもあると思います。",
+            "English": "I think it's perfectly fine to ask the public health nurses anything. I believe that's part of their job."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:50:05",
+            "content": "でも　やっぱり　パートナーさんにもっと協力してもらいたいですよね。",
+            "English": "But you're right, you really want your partner to be more cooperative, don't you?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:50:36",
+            "content": "愛さんとしては、パートナーさんには　あと　どんなことをしてもらいたいと思っているのですか？",
+            "English": "Ai, what else would you like your partner to do?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:50:50",
+            "content": "そうですね…",
+            "English": "Let me see..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:50:58",
+            "content": "はい",
+            "English": "Yes?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:52:30",
+            "content": "今は、とにかく感染対策にもっと真剣に取り組んで欲しいです。仕事してくれてるから、外出は仕方ないとしても除菌をしっかりするとか。休みの日の外出頻度を減らすとか。",
+            "English": "Right now, I just want him to take infection prevention more seriously. He has to go out for work, so I understand that, but he could at least be thorough about disinfecting. And reduce how often he goes out on his days off."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:53:30",
+            "content": "そうですよね。除菌は具体的には　どんなことをしてもらいたいと思っているのですか？",
+            "English": "I see. Specifically, what would you like him to do in terms of disinfecting?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:55:32",
+            "content": "私は、少し自分でも潔癖っぽいところがあるのは自覚してるんですが、外から持ち込んだものを全部アルコール消毒するんです。そうしないと安心できなくて。買い物とか、持って行った鞄とか、全部アルコールで拭き取ります。",
+            "English": "I'm aware that I might be a bit of a germaphobe, but I disinfect everything I bring in from outside with alcohol. I can't feel at ease otherwise. Things like groceries, the bag I took with me—I wipe everything down with alcohol."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:56:18",
+            "content": "旦那にもやってもらいたいんですけど、なかなか分かってもらえないです。",
+            "English": "I want my husband to do it too, but I just can't get him to understand."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:56:42",
+            "content": "なるほど。しっかり除菌ですね。それを　パートナーさんにもやってほしいと思っているのですね。",
+            "English": "I see—thorough disinfection. And you'd like your partner to do the same."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:56:49",
+            "content": "そうですね。",
+            "English": "That's right."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:57:17",
+            "content": "先ほど　パートナーさんは家のことでゴミ出しと　時々食事を作ってくれるとのお話がありました。",
+            "English": "Earlier, you mentioned that your partner takes out the trash and sometimes cooks."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:57:22",
+            "content": "はい。",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:57:39",
+            "content": "実は　ゴミ出ししてくれるパートナーさんのお話しはよく聞きます。",
+            "English": "Actually, I often hear about partners who take out the trash."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:58:03",
+            "content": "けれど、時々食事を作ってくれるパートナーさんは　なかなか　いません。",
+            "English": "But it's quite rare to find a partner who also sometimes cooks meals."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:58:15",
+            "content": "そうなんですね。",
+            "English": "Is that so?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:58:34",
+            "content": "なので、愛さんのパートナーさんは　愛さんを　手伝いたいという　お気持ち　が　ある方と　思いました。",
+            "English": "So, I think your partner is someone who does have the desire to help you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 13:59:16",
+            "content": "そう、ですね。気持ちがあるのは何となく伝わってきます。",
+            "English": "Yes, I suppose so. I can sort of feel that he wants to help."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 13:59:35",
+            "content": "ただし、パートナーさんは　家にいる時間が少ないので、　何をしたら　愛さんの　助けになるのか　ピンと来ていない　ということが　起こっているのではないでしょうか？",
+            "English": "However, since your partner spends less time at home, perhaps he just doesn't realize what specific things would be most helpful to you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:00:08",
+            "content": "そうかもしれません。「旦那は分かってないな」って思うことが多くなってきた気がします。",
+            "English": "That might be true. I feel like I've been thinking 'He just doesn't get it' more and more often."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:00:29",
+            "content": "そうなんですね。そこで　愛さんが　これこれしてくれると　私としては　嬉しいなと　具体的に　希望をお伝えしてみてはいかがでしょうか？",
+            "English": "I see. In that case, how about trying to specifically communicate your wishes to him, saying something like, 'I would be really happy if you could do this and this for me'?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:01:05",
+            "content": "そうですね…",
+            "English": "That makes sense..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:02:10",
+            "content": "何となく、私だけの問題じゃないのに何で私がお願いしなきゃいけないの、と怒りが先に来てしまってきちんと話はしてなかったかもしれません。",
+            "English": "I guess I felt like, 'This isn't just my problem, so why do I have to be the one to ask?' and my anger got the best of me. I probably haven't communicated properly."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:02:30",
+            "content": "但し、要求になると　相手も　ちょっと引いてしまうかもしれないので、あくまで　希望として　お伝えしてみる　というスタンスが　お互いに安全かもしれませんが・・・いかがでしょうか？",
+            "English": "However, if it comes across as a demand, he might pull back a little. So perhaps framing it as a hope or a wish would be a safer approach for both of you. What do you think?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:03:14",
+            "content": "なるほど。もう一度、ちゃんと気持ちを伝えてみます。",
+            "English": "I see. I'll try to communicate my feelings to him properly again."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:03:43",
+            "content": "是非是非　そうなさってみてください。応援しています。",
+            "English": "Yes, please do. I'm rooting for you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:03:53",
+            "content": "ありがとうございます。",
+            "English": "Thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:04:22",
+            "content": "どういたしまして。そろそろ今日のご相談はこの辺でよろしでしょうか？",
+            "English": "You're welcome. Shall we wrap up today's session for now?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:04:53",
+            "content": "はい。気持ちを吐き出したので少し落ち着きました。ゆっくり旦那と話したいと思います。",
+            "English": "Yes. I feel a bit calmer now that I've been able to talk things out. I'd like to try and have a calm talk with my husband."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:05:00",
+            "content": "ありがとうございました。",
+            "English": "Thank you very much."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:05:25",
+            "content": "愛さんと愛さんご一家のの幸せ作りを応援しています。また　気になることが出てきたらご相談にいらしてください。ご一緒に考えさせていただきます。",
+            "English": "I'm here to support you and your family in building your happiness. Please feel free to come back and talk if anything else comes up. We can think it through together."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:05:48",
+            "content": "はい。心強いです。ありがとうございます。",
+            "English": "Yes. That's very reassuring. Thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:06:03",
+            "content": "今日はご相談に来てくださりありがとうございます。それでは、ここで終了とさせていただきます。",
+            "English": "Thank you for coming in for a consultation today. We'll end the session here."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:06:12",
+            "content": "はい。失礼いたします。",
+            "English": "Okay. Goodbye."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:06:24",
+            "content": "しつれいいたします。",
+            "English": "Goodbye."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/05/01(土) 14:06:40",
+            "content": "(お疲れさまでした。本日はありがとうございました。)",
+            "English": "(Thank you for your time today.)"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/05/01(土) 14:07:11",
+            "content": "（お疲れさまでした。ありがとうございます。）",
+            "English": "(You're welcome. Thank you.)"
+        }
+    ],
+    "review_by_client": {
+        "評価ID": 1771,
+        "評価作成日時": "2021/05/02(日) 14:39",
+        "ロールプレイ実施日時": "2021/05/01(土) 13:00 ~ 2021/05/01(土) 14:00",
+        "クライアント役": 158,
+        "カウンセラー役": 5,
+        "点数": 85,
+        "聴いてもらえた、わかってもらえたと感じた": 4,
+        "尊重されたと感じた": 4,
+        "新しい気づきや体験があった": 4,
+        "希望や期待を感じられた": 4,
+        "取り組みたかったことを扱えた": 4,
+        "一緒に考えながら取り組めた": 5,
+        "やりとりのリズムがあっていた": 4,
+        "居心地のよいやりとりだった": 5,
+        "全体として適切でよかった": 4,
+        "今回の相談は価値があった": 4,
+        "相談開始の円滑さ": 3,
+        "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+        "受容・共感": 5,
+        "肯定・承認": 5,
+        "的確な質問による会話の促進": 4,
+        "要約": 4,
+        "問題の明確化": 4,
+        "この相談での目標の明確化": 4,
+        "次の行動につながる提案": 5,
+        "勇気づけ・希望の喚起": 5,
+        "無理解と軽率さによる傷つけ発言": NaN,
+        "その他の倫理違反が疑われる発言": NaN,
+        "離脱": NaN
+    }
+}

@@ -1,0 +1,605 @@
+{
+    "dialogue": [
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 09:50:58",
+            "content": "（こんにちは、本日はありがとうございます。10時になりましたら始めたいと思いますので、よろしくお願い致します）",
+            "English": "(Hello, thank you for coming today. We will begin at 10 o'clock. I look forward to our session.)"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 09:51:37",
+            "content": "おはようございます。よろしくお願いします。",
+            "English": "Good morning. I look forward to our session as well."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:00:14",
+            "content": "こんにちは、相談員です。本日はご相談に来て下さり、ありがとうございます。はじめに、年齢、性別、本日のご相談内容を教えてください。",
+            "English": "Hello, I’m the counselor. Thank you for coming in today. To start, could you tell me your age, gender, and what you’d like to discuss?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:01:00",
+            "content": "こんにちは。30歳、男仕事が決まらなくて悩んでいます。",
+            "English": "Hello. I’m 30, male. I’m struggling because I haven’t been able to land a job."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:02:28",
+            "content": "お答えいただき、ありがとうございます。そうなのですね、そのことについて、もう少し詳しくお話しすることはできますか？",
+            "English": "Thank you for sharing that. I see. Would you be able to tell me a little more about that?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:03:01",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:04:14",
+            "content": "お話ししやすいところからで大丈夫ですので、お仕事のことについて、お話しできますか？",
+            "English": "You can start wherever you feel comfortable. Could you tell me about your job situation?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:04:29",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:05:08",
+            "content": "お仕事はいつ頃から探しているのでしょうか？",
+            "English": "How long have you been looking for a job?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:05:29",
+            "content": "3ヶ月前くらいからです",
+            "English": "For about three months."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:06:34",
+            "content": "そうなのですね、３か月前からお仕事が決まらなくて焦る気持ちを抱えながら過ごされてきたのですね、しんどいですよね。",
+            "English": "I see. So for the past three months, you've been living with this anxiety about not being able to find a job. That must be difficult."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:06:52",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:07:33",
+            "content": "３か月前からお仕事を探すきっかけは、どんなことがことがありましたか？",
+            "English": "What prompted you to start looking three months ago?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:08:31",
+            "content": "上司が変わって合わなくて変えようかなと、、、",
+            "English": "My supervisor changed, and we don’t get along, so I thought I might change jobs..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:09:49",
+            "content": "そうだったのですね、今はお仕事をされているけれども、上司が変わって合わないと感じているのですね？",
+            "English": "I see. So you’re currently employed, but since your supervisor changed, you feel you don’t get along with them. Is that right?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:09:59",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:10:39",
+            "content": "上司と合わないと、仕事もつまらなくなりますよね…",
+            "English": "When you don’t get along with your boss, work can feel unfulfilling..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:11:04",
+            "content": "まあそうですね",
+            "English": "Yeah, pretty much."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:11:23",
+            "content": "今の上司とは、あなたとどんなことが合わないと感じていますか？",
+            "English": "In what ways do you feel you and your current supervisor are not compatible?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:12:06",
+            "content": "考え方とか言い方ですかね",
+            "English": "Their way of thinking and the way they speak, I guess."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:13:02",
+            "content": "そうなのですね、その上司のどんな考え方や言い方があなたは気になってますか？",
+            "English": "I see. What aspects of their thinking or their manner of speaking concern you?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:13:51",
+            "content": "傲慢というか人の気持ちを考えてない感じですね",
+            "English": "They come across as arrogant—like they don’t consider people’s feelings."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:14:38",
+            "content": "上司なのに部下のあなたのことを考えてくれないと信用できませんよね。",
+            "English": "When a supervisor doesn’t consider their subordinates, it’s hard to trust them, isn’t it?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:14:58",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:15:55",
+            "content": "その他にその上司に対して、どのようなことを感じていますか？お話ししやすいことからで大丈夫ですので、自由にお話してください。",
+            "English": "Is there anything else you feel about this supervisor? Whatever is easiest to share is fine—please feel free to speak openly."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:16:57",
+            "content": "私の考えを聴いておきながら、最初から模範解答みたいなものを用意してて、その通りじゃないと否定するみたいな",
+            "English": "They’ll ask for my thoughts, but it feels like they already have a model answer in mind, and if it’s not exactly that, they dismiss it."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:18:03",
+            "content": "ええ、そうだったのですね、その時あなたはどのように思っていますか？",
+            "English": "I see. In those moments, what goes through your mind?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:18:53",
+            "content": "「だったら最初からコッチの考えなんか聴くなよ」て感じです",
+            "English": "I feel like, \"Then don’t ask for my opinion in the first place.\""
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:19:59",
+            "content": "そうですよね、部下の意見を聴いておいて、そのような態度を取られると、イラだちも感じますよね。",
+            "English": "That makes sense. When they ask for your input and then behave that way, it’s natural to feel frustrated."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:20:14",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:20:34",
+            "content": "ちなみに、今実際に転職活動はされているのでしょうか？",
+            "English": "By the way, are you actively job hunting at the moment?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:20:47",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:21:11",
+            "content": "転職活動の状況はいかがでしょうか？",
+            "English": "How is the job search going?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:21:28",
+            "content": "思わしくないです",
+            "English": "Not well."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:22:11",
+            "content": "思わしくないということは何社か実際に受けられているのでしょうか？",
+            "English": "When you say it's not going well, does that mean you've applied to several companies?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:22:49",
+            "content": "条件が合うところがない感じです",
+            "English": "It feels like there are no places that meet my criteria."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:24:05",
+            "content": "そうだったのですね、なかなか条件が合うところがないと迷ってしまいますよね。",
+            "English": "I see. It can be disheartening when you can't find a place that meets your criteria."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:24:43",
+            "content": "ですかね、、、",
+            "English": "I guess so..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:25:50",
+            "content": "整理いたしますと、、３か月前に上司が変わり、合わなくなり、転職活動を始めたがなかなか条件が合わずに思わしくないということでしょうか？",
+            "English": "Let me see if I have this right... Your supervisor changed three months ago, you don't get along, so you started job hunting, but it's not going well because you can't find a position that meets your criteria. Is that correct?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:26:28",
+            "content": "はいただ上司が変わったのは半年くらい前です",
+            "English": "Yes, though the supervisor actually changed about six months ago."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:27:04",
+            "content": "失礼いたしました、半年くらい前からその上司の元で頑張って仕事をされていたのですね…",
+            "English": "My apologies. So you’ve been doing your best working under that supervisor for about six months..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:27:18",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:28:00",
+            "content": "色々な思いを抱えながら、我慢されてきましたね…",
+            "English": "You’ve been holding a lot in and enduring it..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:28:07",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:29:17",
+            "content": "あなたが思い浮かべるイメージとしては、どのようになっていければ良いと考えていますか？",
+            "English": "What kind of outcome do you envision as ideal?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:30:08",
+            "content": "上司がいなくなってくれればいいなと思います",
+            "English": "I wish my supervisor would just be gone."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:30:33",
+            "content": "教えていただき、ありがとうございます。",
+            "English": "Thank you for sharing that."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:31:09",
+            "content": "前任者はいい人だったので、、、",
+            "English": "My previous boss was a good person..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:31:51",
+            "content": "そうだったのですね、前任者は良い人だったのですね…。",
+            "English": "I see, so your previous boss was a good person..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:32:03",
+            "content": "今の上司がいなくなってくれればよいというのは、今の仕事自体は嫌いではないということでしょうか？",
+            "English": "When you say you wish the current supervisor were gone, does that mean you don’t dislike the work itself?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:32:14",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:32:48",
+            "content": "ちなみに、今はどのようなお仕事で何年位働かれているのでしょうか？",
+            "English": "By the way, what kind of work do you do, and how many years have you been doing it?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:33:17",
+            "content": "事務職で10年くらいです",
+            "English": "Administrative work, for about 10 years."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:34:27",
+            "content": "そうだったのですね、今の会社にも愛着も沸きますよね…。でもその上司は嫌ですよね…",
+            "English": "I see. You must have grown attached to your current company over that time... But you really dislike this boss..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:34:40",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:35:11",
+            "content": "周りのどなたかにあなたの気持ちをお話されたことはありますか？",
+            "English": "Have you talked with anyone around you about how you feel?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:35:30",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:35:49",
+            "content": "お話をしてみて、いかがでしたか？",
+            "English": "And how did that go?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:36:34",
+            "content": "まあみんなそれぞれかなと、、、",
+            "English": "Well, I guess everyone has their own take on it..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:38:25",
+            "content": "色々な方にお話しされているのですね…人脈が広いあなたは前を向いて行動されていて素敵ですね。",
+            "English": "So you've been talking to various people... It's wonderful that you have a wide network and are taking action to move forward."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:38:50",
+            "content": "ちなみに、「みんなそれぞれ」であるとは、どのような意見がありましたか？",
+            "English": "By the way, when you say \"everyone has their own take on it,\" what kinds of opinions did you hear?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:39:42",
+            "content": "主に転職する、退職する、気にしない、ですね",
+            "English": "Mainly: change jobs, resign, or not let it bother you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:40:51",
+            "content": "その上司が着任したことで会社の方々が転職する、退職する、気にしないと意見があるのでしょうか？",
+            "English": "So with that supervisor’s appointment, people at the company have opinions ranging from changing jobs, resigning, to not letting it bother them?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:41:08",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:42:24",
+            "content": "そうだったのですね、その方が上司になることで部下の方に評判が悪いのですね…",
+            "English": "I see. So since that person became the supervisor, their reputation among subordinates has been poor..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:42:36",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:46:07",
+            "content": "合わない上司に対して、どんなことをすればよいと思っておりますか？",
+            "English": "What do you think you could do about this boss you don't get along with?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:46:42",
+            "content": "（例えば、冷静に話し合いをするとか、無記名の意見を会社に出すとか、何かお考えがありましたらお聞きしたいのですが）",
+            "English": "(For example, having a calm discussion, or submitting anonymous feedback to the company—I’d like to hear any ideas you might have.)"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:46:52",
+            "content": "極力関わらないこと",
+            "English": "Minimize contact as much as possible."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:47:24",
+            "content": "そのように感じているのですね…。",
+            "English": "That's how you feel about it..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:48:00",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:48:09",
+            "content": "顔も見たくないです",
+            "English": "I don’t even want to see their face."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:48:43",
+            "content": "そのようにも感じているのですね…。極力関わらないことを今までしてきて、どう感じていますか？",
+            "English": "I see you feel that way as well... How has it been for you, trying to minimize contact so far?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:49:51",
+            "content": "絶対に関わらないといけない時間が多すぎる",
+            "English": "There are too many times when I absolutely have to interact with them."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:50:44",
+            "content": "お仕事が一緒だと関わる時間も多くなりますよね…",
+            "English": "When you work together, you do have to interact a lot, don't you..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:50:54",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:52:32",
+            "content": "なかなか状況が変わらないですが、もし今の愛着のある職場を変えようとするには、この上司に対してどんなことができそうでしょうか？",
+            "English": "The situation doesn't seem to be changing easily, but if you wanted to stay at this workplace you're attached to, what do you think you could do about this boss?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:53:07",
+            "content": "何もできないと思います",
+            "English": "I don’t think there’s anything I can do."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:53:22",
+            "content": "そのように感じているのですね…。",
+            "English": "That’s how you’re feeling."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:53:51",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:54:54",
+            "content": "前任者の上司に一度お話をして、状況を知ってもらうとか、今の上司とみんなでミーテイングの機会を設けてお話しするとかあると思いますが、そのあたりはいかがでしょうか？",
+            "English": "One option might be to speak with the previous supervisor so they’re aware of the situation, or to arrange a meeting with the current supervisor and the team to talk things through. How would that be for you?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:55:25",
+            "content": "やってみましたがダメでした",
+            "English": "I tried that, but it didn’t work."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:55:50",
+            "content": "どんなことをされたのでしょうか？",
+            "English": "What did you try?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:56:23",
+            "content": "前任者に相談しましたが「まあ上手くやってよ」",
+            "English": "I consulted the previous supervisor, but they just said, \"Well, just make it work.\""
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:56:56",
+            "content": "ミーティングは上司に「必要？いらないよね？」",
+            "English": "As for the meeting, the supervisor said, \"Is that necessary? We don’t need it, right?\""
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:57:15",
+            "content": "そうだったのですね、そのようにお話しされるとがっかりしますよね…。",
+            "English": "I see. Hearing that would be disheartening..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:57:39",
+            "content": "そもそも周りも自分の考えで自分のことは自分で、、、という感じです",
+            "English": "Besides, everyone else seems to have a \"mind your own business and take care of yourself\" kind of attitude."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 10:58:33",
+            "content": "そうだったのですね、周りもドライな考え方だと落ち込みますよね…。",
+            "English": "I see. It must be disheartening when your colleagues have such a detached attitude..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 10:58:41",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 11:00:05",
+            "content": "今の上司の性格は現状なかなか変わらないと思いますが、小さな行動を起こすことで、何かが変わるかもしれません。ここまでお話をしてきましたが、いかがでしたでしょうか？",
+            "English": "The current supervisor’s personality may be hard to change for now, but taking small actions might shift something. How has it been for you, talking through all of this today?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 11:00:30",
+            "content": "聴いてもらえてよかったです。ありがとうございます。",
+            "English": "I'm glad I had someone to listen to me. Thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 11:01:56",
+            "content": "ありがとうございます。今回は合わない上司のことについてお話しを中心にしてきましたが、次回はこの続きから、さらに幅を広げて考えていきたいと思います。ぜひ、またご相談にお越しください。本日はありがとうございました。これで相談を終了いたします。",
+            "English": "Thank you. Today, we focused on the issues with your supervisor. Next time, I'd like to continue from here and think about it from a broader perspective. Please feel free to come back for another session. Thank you for your time today. This concludes our session."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 11:02:28",
+            "content": "ありがとうございます。また相談する時はお願いします。",
+            "English": "Thank you. I'll be in touch if I need to talk again."
+        },
+        {
+            "role": "クライアント",
+            "time": "2024/06/13(木) 11:02:35",
+            "content": "(勉強になりました。参考にして頑張ります。ありがとうございます。)",
+            "English": "(This has been very helpful. I'll keep it in mind and do my best. Thank you.)"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2024/06/13(木) 11:03:22",
+            "content": "（お疲れ様でした。こちらこそありがとうございました。この後、終了の合図をいたします）",
+            "English": "(Thank you for your work today. I appreciate it as well. I will signal the end of the session shortly.)"
+        }
+    ],
+    "review_by_client": {
+        "評価ID": 7002,
+        "評価作成日時": "2024/06/13(木) 11:56",
+        "ロールプレイ実施日時": "2024/06/13(木) 10:00 ~ 2024/06/13(木) 11:00",
+        "クライアント役": 228,
+        "カウンセラー役": 449,
+        "点数": 62,
+        "聴いてもらえた、わかってもらえたと感じた": 3,
+        "尊重されたと感じた": 3,
+        "新しい気づきや体験があった": 3,
+        "希望や期待を感じられた": 3,
+        "取り組みたかったことを扱えた": 3,
+        "一緒に考えながら取り組めた": 3,
+        "やりとりのリズムがあっていた": 3,
+        "居心地のよいやりとりだった": 3,
+        "全体として適切でよかった": 3,
+        "今回の相談は価値があった": 3,
+        "相談開始の円滑さ": 3,
+        "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+        "受容・共感": 4,
+        "肯定・承認": 3,
+        "的確な質問による会話の促進": 3,
+        "要約": 4,
+        "問題の明確化": 4,
+        "この相談での目標の明確化": 3,
+        "次の行動につながる提案": 3,
+        "勇気づけ・希望の喚起": 3,
+        "無理解と軽率さによる傷つけ発言": NaN,
+        "その他の倫理違反が疑われる発言": NaN,
+        "離脱": NaN
+    }
+}

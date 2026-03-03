@@ -1,0 +1,941 @@
+{
+    "dialogue": [
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 09:50:51",
+            "content": "おはようございます。本日はよろしくお願いします。",
+            "English": "Good morning. Thank you for coming in today."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 09:51:58",
+            "content": "おはようございます。こちらこそ、宜しくお願い致します。",
+            "English": "Good morning. Thank you for having me."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 09:52:38",
+            "content": "時間になってからのスタートがよろしいですか？それとも早めですが今から始めますか？",
+            "English": "Would you prefer to start at the scheduled time, or shall we begin now, a bit early?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 09:57:24",
+            "content": "お待たせ致しました。お願い致します。",
+            "English": "Thank you for waiting. Let's begin, please."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 09:58:14",
+            "content": "それではこれから始めさせて頂きますね。よろしくお願い致します。",
+            "English": "Alright, let's get started then. Thank you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 09:58:24",
+            "content": "はい、よろしくお願い致します。",
+            "English": "Yes, thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 09:59:07",
+            "content": "こんにちは相談員です。今日は相談に来て下さってありがとうございます。まず始めに、よろしければ年齢と性別、今日相談したいことを教えていただけますか？",
+            "English": "Hello, I'm your counselor. Thank you for coming in to talk today. To start, if you're comfortable, could you please tell me your age, gender, and what you'd like to discuss today?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:01:59",
+            "content": "よろしくお願いします。45歳　女性です。高校生の娘が、鬱っぽくなり、学校に行けなくなってきました。今は夏休みですが、補習があるので、行かなくてはいけないのですが、無理なようです。学校の先生からは、連れてきてと言われて、私はどうしたら良いのから悩んでいます。",
+            "English": "Thank you. I'm a 45-year-old woman. My high school daughter has been feeling depressed and is finding it difficult to go to school. It's summer break now, but she has supplementary classes she needs to attend, though it seems impossible for her. Her teacher is telling me to bring her in, and I'm at a loss as to what I should do."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:03:33",
+            "content": "娘さんの様子がご心配なのですね・・・",
+            "English": "You’re worried about your daughter’s condition..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:03:39",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:04:04",
+            "content": "先生からも連れてくるように言われてしまって板挟みのような状態なんですね・・・おつらいですね。",
+            "English": "And with the teacher telling you to bring her in, you're caught in the middle... That must be very difficult for you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:04:14",
+            "content": "そうなんです",
+            "English": "That's right."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:04:46",
+            "content": "夏休みなのに登校しなければいけないことも大変そうですよね。",
+            "English": "Having to go to school during summer break must be tough for her as well."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:04:58",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:05:09",
+            "content": "娘さんは何年生ですか？",
+            "English": "What grade is your daughter in?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:05:22",
+            "content": "高2です",
+            "English": "She's a sophomore in high school."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:05:39",
+            "content": "そうなんですね。難しいお年頃ですよね・・・。",
+            "English": "I see. That's a challenging age, isn't it..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:05:47",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:08:09",
+            "content": "先生のことも娘さんのこともどうしたらいいのか悩まれるあなたのお気持ちお察しいたします。今あなたが一番困っているのはどんなことですか？",
+            "English": "I can imagine how worried you must be, not knowing what to do about the teacher and your daughter. What is the biggest thing you're struggling with right now?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:09:33",
+            "content": "娘の状態も勿論ですし、先生に説明しても分かってもらえてない気がするんです。",
+            "English": "Of course, I'm worried about my daughter's condition, but I also feel like the teacher doesn't understand, even when I explain the situation."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:10:51",
+            "content": "なるほど・・・そうなんですね。",
+            "English": "I see... so that's how it is."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:10:57",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:12:15",
+            "content": "先生にはわかってもらえていない気持ちがするのはどんな感じですか？",
+            "English": "Could you tell me more about what makes you feel the teacher isn’t understanding you?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:12:44",
+            "content": "連れてきてと言われるからです",
+            "English": "It's because they keep telling me to bring her in."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:15:51",
+            "content": "たしかに・・・あなたがそう思われるのは無理もないですね。",
+            "English": "I can see that... it's completely understandable that you would feel that way."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:16:43",
+            "content": "先生とはどんなふうにお話されたのですか？",
+            "English": "How did you explain the situation to the teacher?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:17:17",
+            "content": "はい、行けないから欠席の連絡しているんです。状況を説明しても、勉強が遅れるから、後で大変だからと言われます。",
+            "English": "Well, I call to report her absence because she can't go. Even when I explain the situation, they just say she'll fall behind in her studies and it will be harder for her later."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:18:22",
+            "content": "そうだったんですね。娘さんのことよりも勉強のことを心配されているように感じてしまいますね・・・・",
+            "English": "I see. It sounds like they're more concerned about her studies than about your daughter's well-being..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:18:35",
+            "content": "それは嫌な気持ちになりますね。",
+            "English": "That must be upsetting."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:18:52",
+            "content": "先生の立場なら、それも仕方ないのかなと思いますが、",
+            "English": "I suppose from the teacher's perspective, it can't be helped, but..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:19:07",
+            "content": "ええ",
+            "English": "Yes..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:20:01",
+            "content": "今、それが出来る状態ではないと何度も話していても、とにかく連れてきてと言われてしまいます",
+            "English": "even though I've told them many times that she's not in a state to do that right now, they just insist that I bring her in."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:20:51",
+            "content": "先生の言うことも分からないでもないですが、連れて行った方が良いのでしょうか？",
+            "English": "I can sort of understand where the teacher is coming from, but should I just take her to school?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:21:42",
+            "content": "どうしたら良いのか、分からなくなります",
+            "English": "I don't know what to do anymore."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:22:13",
+            "content": "あなたは娘さんの状態を伝えようとされていたんですね・・・それはわかってもらえてないと感じがしますね。",
+            "English": "You’ve been trying to convey your daughter’s condition… It makes sense that you feel you’re not being understood."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:22:22",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:22:56",
+            "content": "あなたが困ってしまうのは当然だと思います。",
+            "English": "It's perfectly natural for you to be at a loss."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:23:06",
+            "content": "どうしたら良いのでしょう？",
+            "English": "What should I do?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:24:22",
+            "content": "先生の言うこともわからなくもないと思われていますし、悩ましいですね。娘さんとはどんなふうにお話されているんですか？",
+            "English": "You feel you can see the teacher's point of view to some extent, which makes this all the more difficult. How have your conversations with your daughter been?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:25:33",
+            "content": "授業中も泣けてくるそうです。それに学校に行かなきゃいけないと思うと、夜が眠れなくなってしまうそうです。",
+            "English": "She says she starts crying even during class. And when she thinks about having to go to school, she can't sleep at night."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:25:53",
+            "content": "でも、学校が嫌いな訳ではなくて",
+            "English": "But it's not that she hates school."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:26:07",
+            "content": "はい（お話お聴きしていますね。）",
+            "English": "Yes (I’m listening)."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:26:17",
+            "content": "原因がよく分からないと…",
+            "English": "She says she doesn’t really know the cause…"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:26:27",
+            "content": "そうでしたか・・・",
+            "English": "I see..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:26:36",
+            "content": "友達も大好きで、いつも一緒の子が",
+            "English": "She loves her friends, and the ones she's always with..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:27:09",
+            "content": "優しくしてくれるんですが、今はそれが苦痛だそうです",
+            "English": "...are very kind to her, but right now, even their kindness feels painful."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:28:28",
+            "content": "学校も嫌いじゃないし大好きなお友達もいるんですね。",
+            "English": "So she doesn't hate school, and she has friends she loves."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:28:38",
+            "content": "そうなんです",
+            "English": "That's right."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:28:57",
+            "content": "それでも泣けてきてしまうほど学校にいるのが嫌になってしまっている感じでしょうか・・・",
+            "English": "And yet, it seems being at school has become so distressing for her that it brings her to tears..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:29:28",
+            "content": "娘さんのことを思うと胸が締め付けられるように苦しくなってしまいますよね。",
+            "English": "Thinking about your daughter must be heartbreaking for you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:29:42",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:29:55",
+            "content": "どうしたら良いのでしょう？",
+            "English": "What should I do?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:30:22",
+            "content": "あなたは娘さんについてどんなふうに感じていらっしゃるんですか？",
+            "English": "How do you feel about your daughter's situation?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:30:59",
+            "content": "原因は分かりませんが、連れて行ける気がしません",
+            "English": "I don't know the cause, but I don't feel like I can take her to school."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:31:24",
+            "content": "そう思われるのですね。",
+            "English": "That’s how you feel."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:31:24",
+            "content": "小さな子ではないですし",
+            "English": "She’s not a small child."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:31:58",
+            "content": "体も大きくなっているので、起きない子を起こせません",
+            "English": "She's physically grown, so I can't just wake her up if she doesn't want to get up."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:32:58",
+            "content": "高校生の娘さんを無理矢理連れ出すことは難しいことですよね。",
+            "English": "It’s difficult to force a high-school-aged daughter to go out, isn’t it."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:33:25",
+            "content": "そうですよ、先生の言うように簡単にできません",
+            "English": "Exactly—it’s not as easy as the teacher says."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:33:56",
+            "content": "そうですよね・・・それはごもっともだと思います。",
+            "English": "I agree... That's a very valid point."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:34:09",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:34:13",
+            "content": "学校を休むことについてはどう思われているんですか？",
+            "English": "How do you feel about her missing school?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:35:31",
+            "content": "高校生は日数が関係するので、正直休んで欲しくないですが、",
+            "English": "For high school students, attendance days matter, so honestly, I don't want her to miss school, but..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:36:04",
+            "content": "そんな状態ではないので、仕方ないかなと思います",
+            "English": "given her condition, I think it can’t be helped."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:38:34",
+            "content": "高校には行って欲しいお気持ちもあるけれど、娘さんの状態を考えると休むことも必要かと思われるのですね。",
+            "English": "So while you want her to attend high school, considering her current state, you feel that taking time off might be necessary."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:38:55",
+            "content": "必要…なんでしょうね",
+            "English": "Necessary... I suppose it is."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:39:45",
+            "content": "ご不安になりますよね・・・",
+            "English": "It must make you feel anxious..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:39:53",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:41:52",
+            "content": "ちなみに娘さんの体調面については誰かに相談されたことはあるのでしょうか？",
+            "English": "By the way, have you consulted anyone about your daughter's health condition?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:42:13",
+            "content": "心療内科に予約しました",
+            "English": "I've made an appointment with a psychosomatic medicine clinic."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:42:31",
+            "content": "そうだったんですね。",
+            "English": "Oh, I see."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:42:50",
+            "content": "ですが、どこもすぐには受診できず、少し先になります",
+            "English": "However, we couldn't get an immediate appointment anywhere, so it's a little while away."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:43:22",
+            "content": "そうでしたか。それはもどかしいですね。",
+            "English": "I see. That must be frustrating."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:43:53",
+            "content": "一年待ちとかもあるようなので、仕方ないですよね",
+            "English": "I've heard some places have a one-year waiting list, so I guess it can't be helped."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:44:54",
+            "content": "そうでしたか。今はとても体調を崩される方が多いと聴きますので、そんなこともあるのかもしれませんね。",
+            "English": "I see. I hear that many people are struggling with their health these days, so that might be the case."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:45:00",
+            "content": "それでも医師の意見を聴いてみるのはひとつの方法ですね。",
+            "English": "Still, hearing a doctor's opinion is a good step."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:45:12",
+            "content": "それを先生につたえたら",
+            "English": "When I told the teacher that..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:45:50",
+            "content": "もっと早く行ってと言わんばかりの様子でした",
+            "English": "...they acted as if I should have gone sooner."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:46:12",
+            "content": "そんな簡単に入れないのに…",
+            "English": "Even though it's not that easy to get an appointment..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:47:23",
+            "content": "先生の態度がそんなふうに感じられたんですね・・・それは憤りを感じてしまいますね。悔しいですね。",
+            "English": "You felt that was the teacher's attitude... That must be infuriating. How frustrating."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:47:59",
+            "content": "ちなみにそれは担任の先生ですか？",
+            "English": "By the way, is this her homeroom teacher?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:48:11",
+            "content": "はい、そうです",
+            "English": "Yes, that's right."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:48:52",
+            "content": "そうでしたか・・・それは嫌な気持ちになりますね。",
+            "English": "I see... That must be upsetting."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:49:04",
+            "content": "どうしたら良いのでしょう？",
+            "English": "What should I do?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:49:58",
+            "content": "学校側に他に相談できる方はいらっしゃいませんか？たとえばスクールカウンセラーや保健の先生などはいかがでしょうか。",
+            "English": "Is there anyone else at the school you could talk to? For example, how about the school counselor or the school nurse?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:50:29",
+            "content": "保健の先生には、娘が相談したそうで、",
+            "English": "My daughter apparently spoke to the school nurse,"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:51:14",
+            "content": "とりあえず内科でも行ったらと言われたそうです",
+            "English": "and was told to just go to an internal medicine doctor for the time being."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:51:25",
+            "content": "スクールカウンセラーは、",
+            "English": "As for the school counselor,"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:51:50",
+            "content": "最短で9月後半だそうです",
+            "English": "the earliest appointment is in late September."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:52:19",
+            "content": "まだ心療内科の方が早いです",
+            "English": "The psychosomatic clinic appointment is still sooner."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:52:36",
+            "content": "そうだったんですね。",
+            "English": "I see."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:54:22",
+            "content": "ここまでのお話を伺って、あなたが娘さんのことをとても大切に思われていらっしゃることがとても伝わってきました。",
+            "English": "From what you've told me so far, it's very clear how much you care about your daughter."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:54:31",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:54:52",
+            "content": "娘さんは泣けてしまうほど学校に行くことを負担にかんじていらっしゃるようですし、",
+            "English": "It seems going to school has become so burdensome for your daughter that it brings her to tears,"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:55:33",
+            "content": "一番頼りにしたい担任の先生は頼りにならない状態に感じます。",
+            "English": "and it feels like the homeroom teacher, who you should be able to rely on most, is not being supportive."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:56:06",
+            "content": "そうですよね",
+            "English": "That's right."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:56:16",
+            "content": "でも、担任なので",
+            "English": "But because they’re the homeroom teacher,"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:56:33",
+            "content": "どうしようもないですよね",
+            "English": "so there's nothing I can do, is there?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:57:02",
+            "content": "休みが続けば勉強のことも心配になるかもしれませんが、",
+            "English": "If she continues to be absent, her studies might become a concern, but..."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 10:59:27",
+            "content": "自宅で勉強する方法などを娘さんや先生と相談されたりして、まずは心療内科に行くことを優先することを先生にお伝えしてみるのも一つかと思いましたが、いかがですか？",
+            "English": "Perhaps you could discuss ways for her to study at home with your daughter and the teacher, and try telling the teacher that prioritizing the visit to the mental health clinic is the first step. What do you think of that as an option?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 10:59:53",
+            "content": "はい、伝えてますが",
+            "English": "Yes, I've told them that, but..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:01:21",
+            "content": "何か私が放置してるように思われていて",
+            "English": "somehow they seem to think I'm neglecting the situation."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:01:46",
+            "content": "説明してるのですが、伝わらない感じです",
+            "English": "I'm explaining it, but it feels like it's not getting through."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:02:07",
+            "content": "何度も伝えているので、",
+            "English": "I've told them so many times,"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:02:35",
+            "content": "そうだったんですね・・・",
+            "English": "I see..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:02:46",
+            "content": "いいかげん諦めも感じ始めてます",
+            "English": "I'm honestly starting to feel like giving up."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:03:03",
+            "content": "放置している訳ではないのに・・・悲しくなりますね。",
+            "English": "When you're not neglecting her at all... that must be so disheartening."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:03:55",
+            "content": "先生とはいえ、わかり合えない人もいるのかもしれませんね・・・",
+            "English": "Even if they are a teacher, it may be that some people are just impossible to get through to..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:04:02",
+            "content": "心療内科がいっぱいな事を、知らない方なのかと思いますが、",
+            "English": "I wonder if they're just someone who doesn't know that these clinics are always fully booked,"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:04:35",
+            "content": "何故言っても分からないのか？と思います。",
+            "English": "but I don't understand why they don't get it, no matter how much I tell them."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:04:48",
+            "content": "聞いてないのかとも思います",
+            "English": "I even wonder if they're listening at all."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:06:22",
+            "content": "あなたのお話にちゃんと耳を傾けてくれていたら、こんなに苦しい思いをされなくてもすんでいたかもしれませんよね・・・",
+            "English": "If they had just listened properly to what you were saying, you might not have had to go through all this pain..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:06:33",
+            "content": "ですね",
+            "English": "Exactly."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:07:34",
+            "content": "あなたが一番大切にしたいことを選ぶことが一番だと思いますが、あなたはどう思われますか？",
+            "English": "I think the most important thing is to choose what you want to prioritize the most. What are your thoughts on that?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:08:19",
+            "content": "もうどうしたら良いのか分かりません…",
+            "English": "I just don't know what to do anymore..."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:08:32",
+            "content": "どうしたら良いと思いますか？",
+            "English": "What do you think I should do?"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:10:27",
+            "content": "今ここですぐに決めることは難しいことかもしれませんね。",
+            "English": "It might be difficult to decide anything right here and now."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:10:49",
+            "content": "でも補習は毎日あるんです",
+            "English": "But the supplementary classes are every day."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:11:06",
+            "content": "毎日欠席連絡してるので",
+            "English": "I have to call in her absence every day,"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:11:18",
+            "content": "先生とは毎日話します",
+            "English": "so I talk to the teacher every day."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:11:39",
+            "content": "毎日連絡しなければいけないのはつらいですね。",
+            "English": "Having to call every day must be difficult."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:11:53",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:12:10",
+            "content": "ずっと欠席しますと言ったら",
+            "English": "When I suggested saying she'd be absent for the foreseeable future,"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:12:26",
+            "content": "毎回連絡してくださいと言われました",
+            "English": "I was told to call in every single time."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:13:26",
+            "content": "そうでしたか・・・それはおつらいですね。",
+            "English": "I see... That is very hard on you."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:13:38",
+            "content": "困ってしまいます",
+            "English": "I'm at a loss."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:15:41",
+            "content": "あなたは娘さんのことを守ろうと一生懸命にされていらっしゃると思います。ただ、",
+            "English": "I think you're doing everything you can to protect your daughter. However,"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:16:38",
+            "content": "そのことであなたご自身もとてもつらい状況になっておられると感じます。",
+            "English": "I feel that in doing so, you yourself have ended up in a very difficult situation."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:16:55",
+            "content": "はい",
+            "English": "Yes."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:17:07",
+            "content": "ご自身の思いを相談できる方はいらっしゃいますか？",
+            "English": "Is there anyone you can talk to about your own feelings?"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:17:25",
+            "content": "いないですね",
+            "English": "Not really."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:21:27",
+            "content": "毎日の欠席の連絡もかなりご負担かと思います。それなのに毎日連絡するようにと言われてしまうことは一方的な感じがしますし、担任の上席に相談されてみるのも一つかと思います。",
+            "English": "Having to report her absence every day must be quite a burden. Being told to contact them daily feels one-sided, and consulting the homeroom teacher’s supervisor might be one option."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:22:32",
+            "content": "それは…ちょっとしづらいです",
+            "English": "That’s… a bit difficult for me to do."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:22:51",
+            "content": "そう思われるのですね。そろそろ終了のお時間となってしまうのですが、",
+            "English": "I understand you feel that way. We're running out of time for today's session,"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:23:00",
+            "content": "はい",
+            "English": "Okay."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:23:26",
+            "content": "また聞いてください",
+            "English": "Please listen to me again sometime."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:24:30",
+            "content": "心療内科までまだお日にちもありますし、あなたのご不安は今すぐに消えることはないかもしれませんが、",
+            "English": "There's still some time until the clinic appointment, and your anxiety might not disappear right away, but,"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:25:59",
+            "content": "気持ちを吐き出すことで少しは気持ちが安らぐこともあるかもしれませんので、またぜひお時間がありましたらお越し下さいね。",
+            "English": "sometimes just talking things out can bring a little peace of mind, so please come back again when you have the time."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:26:14",
+            "content": "はい、ありがとうございました",
+            "English": "Yes, thank you very much."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:27:09",
+            "content": "担任の先生とのやりとりは毎日とてもしんどいことかと思います。でもあなたは充分娘さんのためによくやっておられると思います。",
+            "English": "Dealing with the teacher every day must be exhausting. But I want you to know you are doing more than enough for your daughter."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:27:22",
+            "content": "ありがとうございます",
+            "English": "Thank you."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:27:43",
+            "content": "誰かに気持ちを吐き出しながら、あなたご自身のこともどうか大切になさってくださいね。",
+            "English": "While sharing your feelings with someone, please also take good care of yourself."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:28:05",
+            "content": "そうします",
+            "English": "I will."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:28:11",
+            "content": "ありがとうございました",
+            "English": "Thank you very much."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:29:09",
+            "content": "こちらこそ今日は相談に来て下さってありがとうございました。",
+            "English": "Thank you for coming in to talk with me today."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:29:21",
+            "content": "失礼します",
+            "English": "Goodbye."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:29:28",
+            "content": "それではこれで終了させて頂きます。",
+            "English": "Alright, we'll end the session here."
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:29:47",
+            "content": "（お疲れ様でした。ありがとうございました。）",
+            "English": "(Thank you for your time. Thank you.)"
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:30:04",
+            "content": "(こちらこそ、ありがとうございました)",
+            "English": "(Thank you as well.)"
+        },
+        {
+            "role": "カウンセラー",
+            "time": "2021/07/27(火) 11:30:24",
+            "content": "終了します",
+            "English": "Session ended."
+        },
+        {
+            "role": "クライアント",
+            "time": "2021/07/27(火) 11:30:26",
+            "content": "(おつかれさまでした。失礼します)",
+            "English": "(Thank you for your time. Goodbye.)"
+        }
+    ],
+    "review_by_client": {
+        "評価ID": 2258,
+        "評価作成日時": "2021/07/27(火) 21:59",
+        "ロールプレイ実施日時": "2021/07/27(火) 10:00 ~ 2021/07/27(火) 11:00",
+        "クライアント役": 159,
+        "カウンセラー役": 124,
+        "点数": 51,
+        "聴いてもらえた、わかってもらえたと感じた": 3,
+        "尊重されたと感じた": 3,
+        "新しい気づきや体験があった": 2,
+        "希望や期待を感じられた": 2,
+        "取り組みたかったことを扱えた": 2,
+        "一緒に考えながら取り組めた": 2,
+        "やりとりのリズムがあっていた": 3,
+        "居心地のよいやりとりだった": 4,
+        "全体として適切でよかった": 2,
+        "今回の相談は価値があった": 2,
+        "相談開始の円滑さ": 3,
+        "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+        "受容・共感": 3,
+        "肯定・承認": 3,
+        "的確な質問による会話の促進": 3,
+        "要約": 3,
+        "問題の明確化": 3,
+        "この相談での目標の明確化": 2,
+        "次の行動につながる提案": 2,
+        "勇気づけ・希望の喚起": 2,
+        "無理解と軽率さによる傷つけ発言": NaN,
+        "その他の倫理違反が疑われる発言": NaN,
+        "離脱": NaN
+    }
+}
