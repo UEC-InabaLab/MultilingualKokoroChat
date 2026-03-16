@@ -1,6 +1,6 @@
 This document explains how to reproduce our experiments.
 
-Please conduct the following steps.
+Please follow the steps below.
 
 ### 1. Install dependencies
 From the project root:
