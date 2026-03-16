@@ -5,6 +5,7 @@ Please conduct the following steps.
 ### 1. Install dependencies
 From the project root:
 ```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
