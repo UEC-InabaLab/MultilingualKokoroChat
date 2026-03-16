@@ -1,0 +1,801 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-28T19:51:14",
+      "origin": "こんばんは。本日はよろしくお願いします。２０：００になりましたら始めさせていただきたいと思います。",
+      "content": "Good evening. Thank you for coming today. I'd like to begin at 8:00 PM."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T19:52:49",
+      "origin": "(こんばんは。相談者役です。待機しておりますので、宜しくお願い致します。)",
+      "content": "(Good evening. I'm playing the role of the client. I'm ready when you are. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:00:11",
+      "origin": "こんばんは。相談員です。本日はお越しいただきありがとうございます。はじめに年齢と性別、相談内容を教えていただけますでしょうか。",
+      "content": "Good evening. I'm the counselor. Thank you for coming in today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:00:12",
+      "origin": "宜しくお願いします。",
+      "content": "Of course. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:00:21",
+      "origin": "（よろしくお願いします。）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:00:44",
+      "origin": "32歳、女性です。",
+      "content": "I’m 32, female."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:01:15",
+      "origin": "夫が浮気をしていました。",
+      "content": "My husband has been cheating."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:01:42",
+      "origin": "もう、どうしていいか分かりません。",
+      "content": "I just don’t know what to do anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:01:51",
+      "origin": "教えてくださってありがとうございます。夫さんが浮気をなさっていたのですね。",
+      "content": "Thank you for sharing that. So, your husband has been having an affair."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:02:00",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:02:12",
+      "origin": "それは、とってもつらいし、どうしたらいいかもわからなくなりますよね…。",
+      "content": "That must be incredibly painful, and it's understandable that you feel lost about what to do."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:02:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:02:49",
+      "origin": "どうして浮気をされていたことがわかったのですか？",
+      "content": "How did you find out about the affair?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:03:45",
+      "origin": "夫が入浴中にスマホを見てしまったんです。",
+      "content": "I ended up looking at his phone while he was in the bath."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:04:04",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:04:19",
+      "origin": "そうしたら、",
+      "content": "And then,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:04:34",
+      "origin": "ええ。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:05:10",
+      "origin": "知らない女性から、ラブラブな感じのLINEが。",
+      "content": "There were lovey-dovey LINE messages from a woman I don’t know."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:05:44",
+      "origin": "吐き気がしました。",
+      "content": "I felt sick to my stomach."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:05:54",
+      "origin": "それはショックでしたね…。",
+      "content": "That must have been a terrible shock..."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:06:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:06:45",
+      "origin": "LINEの内容はどのようなものでしたか？無理のない範囲で教えてください。",
+      "content": "What kind of messages were they? Only share what you’re comfortable with."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:08:16",
+      "origin": "思い出すのもおぞましいですが、好きだとか今度いつ会おうとか。",
+      "content": "It's horrible to even think about it, but things like \"I love you\" and \"When can we meet next?\""
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:08:45",
+      "origin": "相手は分かりませんが。",
+      "content": "I don’t know who she is, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:08:53",
+      "origin": "それは浮気されたと考えてもしょうがない内容ですね。相当傷つくし、悲しいですよね。",
+      "content": "With messages like that, it's completely understandable to think he's cheating. It must be incredibly hurtful and sad."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:09:35",
+      "origin": "パニクってしまいました・・・",
+      "content": "I just panicked..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:09:55",
+      "origin": "そうですよね。",
+      "content": "Yes, that's understandable."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:10:19",
+      "origin": "浮気にはどのぐらい前から気づかれておられたのでじょうか？",
+      "content": "How long have you been aware of the affair?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:11:18",
+      "origin": "よく覚えていません。",
+      "content": "I don't remember clearly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:11:40",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:12:22",
+      "origin": "覚えていられないほどにお辛い思いをなされたのですよね。",
+      "content": "It must have been so painful that you can't even remember clearly."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:12:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:12:54",
+      "origin": "これまで、",
+      "content": "Up until now,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:13:07",
+      "origin": "ええ。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:13:24",
+      "origin": "仲良くやって来たつもりだったので、",
+      "content": "I thought we were getting along well, so—"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:14:16",
+      "origin": "何故浮気なんて？と現実を受け止めることが出来ません・・・",
+      "content": "Why would he cheat? I can’t accept this reality..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:15:08",
+      "origin": "そうなのですね。仲良くやってきたと思ってらっしゃったのに、浮気が発覚してしまって、信じたくない気持ちにもなりますよね。",
+      "content": "I see. You thought things were going well, and then the affair was discovered. It's natural to not want to believe it."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:16:10",
+      "origin": "見てしまったのがいけなかったかも知れないけど。",
+      "content": "Maybe I shouldn’t have looked."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:16:41",
+      "origin": "どうしていいか分かりません。",
+      "content": "I don’t know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:17:35",
+      "origin": "そうですよね。",
+      "content": "I hear you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:18:16",
+      "origin": "今は夫さんに対してどのようなお気持ちをお持ちですか？",
+      "content": "How are you feeling toward your husband right now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:19:26",
+      "origin": "平然といつものように振る舞う夫に",
+      "content": "Seeing my husband act so nonchalantly, as if nothing's wrong..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:19:48",
+      "origin": "ええ。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:20:14",
+      "origin": "気持ち悪さを感じてもいるし・・・",
+      "content": "I feel disgusted..."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:21:11",
+      "origin": "一生許せない！",
+      "content": "I’ll never forgive him!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:22:16",
+      "origin": "そうなのですね。許せないと思われることも自然なことだと思います。",
+      "content": "I hear you. Feeling that you can’t forgive him is a very natural response."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:22:30",
+      "origin": "離婚した方が良いですか？",
+      "content": "Should I get a divorce?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:23:34",
+      "origin": "離婚するのも一つだと思いますし、離婚しないという選択肢もあるとは思います。。あなたはどう思われますか？",
+      "content": "Divorce is one option, and I think not divorcing is also an option. What are your thoughts on it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:24:11",
+      "origin": "今はどうしていいか分かりませんが、",
+      "content": "I don’t know what to do right now, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:24:21",
+      "origin": "はい。",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:25:21",
+      "origin": "離婚したあとの生活を考えると、わたしひとりでは無理だと・・・",
+      "content": "When I think about life after divorce, I feel like I couldn’t manage on my own..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:25:57",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:26:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:26:28",
+      "origin": "ひとりでは無理というのは、どういったことが無理だと思われているのですか？",
+      "content": "When you say you couldn’t manage alone, in what ways do you feel it would be difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:27:52",
+      "origin": "経済的なこと、子どもが父親 を失うこと、などです。",
+      "content": "Financial matters, my child losing their father, things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:28:15",
+      "origin": "なるほど。どちらもとても大切なことですよね。",
+      "content": "I understand. Both are very important concerns."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:28:35",
+      "origin": "とっても悩まれることだと思います。",
+      "content": "It’s completely understandable that you’re struggling with this."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:29:12",
+      "origin": "毎日泣いてばかりです。",
+      "content": "I’ve been crying every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:29:34",
+      "origin": "そうですよね。お辛いですよね。",
+      "content": "Of course—you’re going through so much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:30:15",
+      "origin": "では、今はお気持ち的には離婚も視野に入れて考えられてるけれども、",
+      "content": "So at this point, emotionally you’re considering divorce, but—"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:31:00",
+      "origin": "経済的なことやお子さんのことがひっかかってらっしゃるということですよね。",
+      "content": "the financial aspects and your child are weighing on you, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:31:18",
+      "origin": "わたしひとりなら離婚は躊躇わないかもですけど。",
+      "content": "If it were just me, I might not hesitate to get a divorce."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:31:46",
+      "origin": "そういうことですよね。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:32:25",
+      "origin": "離婚するかしないかは今決めたら変えてはいけないというものではないので、",
+      "content": "You don’t have to make an irreversible decision right now."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:32:59",
+      "origin": "子どもからすれば悪いパパではないと思いますが、",
+      "content": "From my child's perspective, I don't think he's a bad dad, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:33:23",
+      "origin": "ええ。（行違ってしまいましたね。続けてください。）",
+      "content": "Yes. (Oh, it seems our messages crossed. Please continue.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:33:36",
+      "origin": "わたしがもう限界なんです。",
+      "content": "I'm at my breaking point."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:34:41",
+      "origin": "そうですよね。限界でお辛いですよね。",
+      "content": "I understand. It must be so painful to be at your limit."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:35:08",
+      "origin": "そういったことを相談できる人はいらっしゃいますか？",
+      "content": "Do you have anyone you can talk to about this?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:35:49",
+      "origin": "誰にも話せなくて、ここに来ました。",
+      "content": "I couldn’t talk to anyone, so I came here."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:36:06",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:36:38",
+      "origin": "今までおひとりで、とっても頑張っていらっしゃったのですね。",
+      "content": "You've been trying so hard all by yourself until now."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:36:53",
+      "origin": "わたしが我慢すれば良いのかな。",
+      "content": "Maybe I should just put up with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:37:30",
+      "origin": "そうとも思われるのですね。",
+      "content": "Part of you feels that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:37:49",
+      "origin": "でも、いま限界なのであれば、",
+      "content": "But if you’re at your limit now,"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:37:53",
+      "origin": "子どもに不自由な思いや",
+      "content": "I don't want my child to face hardship or..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:38:23",
+      "origin": "ええ。（行違ってしまいました。続けてください。）",
+      "content": "Yes. (Our messages crossed. Please continue.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:38:33",
+      "origin": "悲しいおもいをさせたくはないので。",
+      "content": "I don't want to make them sad."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:38:50",
+      "origin": "お子さんをとっても大切に思われているのですね。",
+      "content": "You care so deeply about your child."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:39:23",
+      "origin": "お子さんをそこまで思いやれるあなたは、とっても素晴らしい方だなと思います。",
+      "content": "I think you're a wonderful person to be so considerate of your child."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:39:47",
+      "origin": "そうですか。",
+      "content": "You think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:40:29",
+      "origin": "お子さんのためにはお母様も自分を大切にしていくことが必要なのではないかなと思うのですが、いかがですか？",
+      "content": "For your child’s sake, I wonder if it might also be important for you, as their mother, to take care of yourself. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:41:40",
+      "origin": "そうですね、出来ればそうしたいです。",
+      "content": "Yes, if I could, I'd like to do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:42:01",
+      "origin": "では、一緒にその方法を考えていきましょう。",
+      "content": "Then, let's think about ways to do that together."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:42:51",
+      "origin": "どうしたらわたしを大切に出来るか、想像出来ません。教えて下さい。",
+      "content": "I can’t even imagine how to take care of myself. Please tell me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:43:40",
+      "origin": "あなた自身が安らぐ時ってどんな時がありますか？",
+      "content": "When do you feel most at ease?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:44:23",
+      "origin": "よく眠れないし",
+      "content": "I can’t sleep well, and—"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:44:37",
+      "origin": "ええ。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:44:51",
+      "origin": "今は何にも・・・",
+      "content": "Right now, nothing..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:45:15",
+      "origin": "そうなのですね。必死に毎日を生きてらっしゃるのですね。",
+      "content": "I see. It sounds like you’re doing your best just to get through each day."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:45:36",
+      "origin": "おひとりになれる時間はなさそうですか？",
+      "content": "Do you have any time to yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:46:20",
+      "origin": "子どもに泣いているところをみせられないですし、",
+      "content": "I can’t let my child see me crying, and—"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:46:49",
+      "origin": "ええ。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:47:15",
+      "origin": "子どもの帰宅はまだ低学年で早いですので、",
+      "content": "my child is still in the lower grades of elementary school, so they come home early,"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:47:57",
+      "origin": "家事をしたりするだけで終わりな感じです。",
+      "content": "It feels like my day is over just doing housework."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:48:09",
+      "origin": "そうなのですね。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:48:46",
+      "origin": "ご実家にお子さんを少しの時間だけお願いするということも難しそうですか？",
+      "content": "Would it be difficult to ask your parents to watch your child for just a little while?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:49:40",
+      "origin": "実家は県外なので、学校がありますから・・・・・",
+      "content": "My parents live in another prefecture, and my child has school, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:49:56",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:50:31",
+      "origin": "おそらくご家族と一緒にいると、どうしてもご家族が軸になってしまうと思うので、おひとりの時間を少しでもとってみるという方法があるかなと思ってご提案させて頂いたのですが、",
+      "content": "When you’re with your family, your focus naturally has to be on them, so I suggested trying to get even a little time alone as one possible approach, but..."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:50:37",
+      "origin": "あの・・・・・・",
+      "content": "Um..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:50:47",
+      "origin": "ええ。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:51:14",
+      "origin": "浮気はどうしたら良いんでしょうか。",
+      "content": "What should I do about the affair?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:52:20",
+      "origin": "最終的には、あなたがどうしていきたいかだと思いますが、",
+      "content": "Ultimately, it comes down to what you want to do, but—"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:52:27",
+      "origin": "子どもは勿論大事にしたいですが、",
+      "content": "Of course I want to prioritize my child, but—"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:52:44",
+      "origin": "ええ。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:54:35",
+      "origin": "夫に対しての嫌悪感はどうしたら良いでしょうか。",
+      "content": "What should I do about this feeling of disgust toward my husband?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:55:37",
+      "origin": "お子さんがいない場面では、夫さんとなるべく距離をとるということも一つだとは思いますが、いかがですか？",
+      "content": "One option might be to keep as much distance as you can from your husband, at least when your child isn’t around. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:56:22",
+      "origin": "距離、、、良く分かりません。別居ですか？",
+      "content": "Distance... I don't really understand. Do you mean a separation?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:57:05",
+      "origin": "別居までいかないでも、コミュニケーションを少なめにしてみるとか",
+      "content": "Not necessarily a formal separation, but perhaps just trying to communicate less,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:57:29",
+      "origin": "まだ、普段どのように過ごされているのか、",
+      "content": "I still haven't heard in detail"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:57:50",
+      "origin": "詳しくお聞きができていない状態なので、",
+      "content": "about how you usually spend your days, so..."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:57:53",
+      "origin": "狭いマンションで顔を会わせない、何にも話さないっていうのは難しいんですが・・・・・",
+      "content": "It's difficult not to see each other or talk at all in our small apartment..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:58:30",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:59:02",
+      "origin": "先ほど、",
+      "content": "Earlier,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:59:48",
+      "origin": "ええ。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:00:17",
+      "origin": "浮気をしながら平然としている夫が気持ち悪いと、わたしいいませんでしたか？混乱して来ました・・・・・",
+      "content": "Didn't I say that my husband acting so nonchalant while cheating disgusts me? I'm getting confused..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:01:16",
+      "origin": "そうですよね。お気持ち汲み取れておらず失礼いたしました。",
+      "content": "You're right. I apologize for not understanding your feelings correctly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:02:00",
+      "origin": "ごめんなさい。お時間がそろそろ来てしまうのですが、まだまだあなたのことを知れていないと思います。的確なアドバイスもできないままでしたので、もしよければ、またご相談にいらっしゃってください。",
+      "content": "I'm sorry. Our time is almost up, and I feel I still don't know enough about your situation. I haven't been able to offer any concrete advice, so if you'd like, please come back for another session."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:02:17",
+      "origin": "分かりました",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:02:42",
+      "origin": "自分で考えます。",
+      "content": "I'll think about it myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:03:10",
+      "origin": "本日はお越しいただきありがとうございました。お力になれず申し訳ございませんでした。",
+      "content": "Thank you for coming today. I’m sorry I couldn’t be of more help."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:04:03",
+      "origin": "では、失礼いたします。",
+      "content": "Well then, goodbye."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:04:15",
+      "origin": "(ありがとうございました、例題にあったケースを使わせて頂きました)",
+      "content": "(Thank you very much. I used the case from the example.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:04:27",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:04:39",
+      "origin": "（クライアント役ありがとうございました。FBお願いいたします。）",
+      "content": "(Thank you for playing the client role. Feedback would be appreciated.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:04:52",
+      "origin": "では終了させていただきます。",
+      "content": "I will now end the session."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫の浮気に関するコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3666,
+    "evaluation_created_at": "2022-06-28T22:15:00",
+    "client_id": 273,
+    "counselor_id": 295,
+    "score": 28,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

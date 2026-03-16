@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-30T13:51:04",
+      "origin": "こんにちは。本日はよろしくお願いします。お時間になりましたら始めさせていただきます。",
+      "content": "Hello. Thank you for coming today. We can begin now that it's time."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T13:51:38",
+      "origin": "こんにちは。こちらこそ、よろしくお願いします。",
+      "content": "Hello. Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:00:10",
+      "origin": "今日はご相談ありがとうございます。まず始めに、年齢と性別、読んでほしい名前を教えてください。",
+      "content": "Thank you for coming in for a consultation today. First, could you please tell me your age, gender, and the name you'd like me to call you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:01:12",
+      "origin": "14歳、中学2年、女子、ひろみでお願いします",
+      "content": "I'm 14, in my second year of junior high, female, and please call me Hiromi."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:01:36",
+      "origin": "ありがとうございます。ひろみさんですね。よろしくお願いします。今日はどんなご相談でしょうか。",
+      "content": "Thank you. Hiromi, right? It's nice to meet you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:01:59",
+      "origin": "友人関係で悩んでます",
+      "content": "I'm having some trouble with my friendships."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:02:32",
+      "origin": "そうなんですね。もう少し詳しく教えてくれますか？",
+      "content": "I see. Could you tell me a little more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:05:21",
+      "origin": "私、不登校で、教育センターのひまわりルームに通ってます。A子と仲良くだったんですこけど、A子が新しく入ってきたＢ子と仲良くなり、今、私は一人ぼっちなんです",
+      "content": "I’m not attending regular school, and I go to the education center’s Himawari Room. I used to be close with A, but A became friends with B, who joined recently, and now I’m all alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:06:15",
+      "origin": "うんうん、それはさみしいですよね。",
+      "content": "Mm-hmm, that must feel lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:06:32",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:06:56",
+      "origin": "一人ぼっちだと感じているのですね。もしよければ、不登校のきっかけを教えてくれますか？",
+      "content": "So you're feeling all alone. If you're comfortable, could you tell me what led to you not attending school?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:07:49",
+      "origin": "もし言いにくければ言わなくても大丈夫ですよ。",
+      "content": "If it's difficult to talk about, you don't have to."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:08:15",
+      "origin": "はい、中学の勉強が難しくて、特に数字がわからなくて…",
+      "content": "Yes, the schoolwork in middle school got difficult, and I especially didn't understand math..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:08:38",
+      "origin": "学校がつまらなくて",
+      "content": "And school feels boring."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:08:50",
+      "origin": "そうなのですね。中学生になると、急にお勉強が難しく感じますよね。",
+      "content": "I understand. Schoolwork can suddenly feel much more difficult when you get to middle school, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:09:04",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:09:28",
+      "origin": "学校がつまらないと感じていたのですね。教えてくれてありがとうございます。",
+      "content": "So you felt that school was boring. Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:10:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:10:11",
+      "origin": "話を戻しますが、今はひまわりルームに通ってどれくらいですか？",
+      "content": "Going back to what we were talking about, how long have you been attending the Himawari Room?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:10:31",
+      "origin": "1年くらいです",
+      "content": "For about a year."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:11:23",
+      "origin": "そうなんですね。ひまわりルームに通うようになってから、お気持ちに変化はありましたか？",
+      "content": "I see. Since you started going to the Himawari Room, have you noticed any changes in how you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:12:27",
+      "origin": "ここでは、勉強を自分のペースでできるし、A子という仲良しもいて楽しく通ってました",
+      "content": "Here, I can study at my own pace, and I had a good friend named A, so I enjoyed going."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:12:57",
+      "origin": "うんうん、自分のペースで出来るって安心ですよね。",
+      "content": "Mm-hmm, being able to go at your own pace is reassuring, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:13:05",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:13:10",
+      "origin": "A子さんとは、ひまわりルームに通い始めた頃から仲が良かったんでしょうか？",
+      "content": "Have you been close with A since you first started at the Himawari Room?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:14:12",
+      "origin": "はい、同じ学年が私たち二人だけだったし…",
+      "content": "Yes, we were the only two in our grade..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:14:57",
+      "origin": "なるほど、学年が同じ事もあって、ずっと仲良しだったんですね。B子さんが入ってきたのは、いつ頃でしょうか？",
+      "content": "I see; sharing the same grade helped you stay close. When did B join?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:16:11",
+      "origin": "私が風邪で休んでた間に入りました。2週間前です",
+      "content": "She joined while I was out sick with a cold. That was two weeks ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:17:17",
+      "origin": "そうなんですね。お休みからもどったら、二人が仲良くなっていた感じでしょうか。A子さんをとられたように感じるのは自然な事だと思います。",
+      "content": "I see. So when you came back, it seemed like they had become close? It's natural to feel like A was taken from you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:17:47",
+      "origin": "A子さんとは、今でもお話したりしますか？",
+      "content": "Do you still talk with A at all?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:18:32",
+      "origin": "二人、すごく楽しそうに話してて、私、中にはいれないんです",
+      "content": "The two of them look like they're having so much fun talking, I can't join in."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:19:16",
+      "origin": "そうなんですね。それを見てるのは辛いですよね。",
+      "content": "I understand. It must be painful to see that."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:19:39",
+      "origin": "B子がいない時に話しかけても、なんか素っ気ないし",
+      "content": "Even when B isn’t there and I try to talk to A, she seems kind of cold."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:20:10",
+      "origin": "それはとてもさみしいですね。。",
+      "content": "That must be very lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:20:43",
+      "origin": "はい、とっても、さみしいです",
+      "content": "Yes, very, very lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:21:15",
+      "origin": "教えて欲しいんですけど、A子さんは面倒見が良いタイプですか？",
+      "content": "May I ask, is A the type who looks after others?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:21:25",
+      "origin": "ええ。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:21:56",
+      "origin": "リ-ダ-タイプかと",
+      "content": "I think she’s a leader type."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:22:20",
+      "origin": "なるほど、新しく入ったB子さんの事が放っておけないのかもしれないと思いましたが、ひろみさんはどうお感じですか？",
+      "content": "I see. I wondered if maybe she feels she can’t leave the newly joined B on her own. What do you think, Hiromi?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:22:57",
+      "origin": "そういうこともあったかもしれません",
+      "content": "That might be part of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:23:32",
+      "origin": "そうなんですね。他にも思い当たる事はありますか？",
+      "content": "I see. Is there anything else that comes to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:24:44",
+      "origin": "それに、私より性格的にＢ子との方が楽しいのではと思います。Ｂ子.明るいし…",
+      "content": "Also, I think personality-wise, A has more fun with B than with me. B is cheerful..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:25:36",
+      "origin": "なるほど、B子さんとの方が、A子さんと合うのでは、と心配なんですね。",
+      "content": "I understand—you’re worried that B might be a better match for A than you are."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:26:00",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:27:08",
+      "origin": "うんうん、まだB子さんが入って2週間という事なので、実際は合うかどうか判断出来る期間ではないのかな、と思いますし、",
+      "content": "Mm-hm. Since it’s only been two weeks since B joined, it may be too soon to judge whether they're a good match."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:27:46",
+      "origin": "A子さんがB子さんと仲良くしているのは、一時的なものかも知れないとも思いますが、いかがですか？",
+      "content": "I also wonder if A getting along with B might be temporary. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:27:56",
+      "origin": "もう、前みたいに楽しく話せないのかなと思うと、悲しいし、さみしいです",
+      "content": "When I think that we might not be able to talk and have fun like we used to, it makes me sad and lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:28:36",
+      "origin": "そうですよね。ひろみさんとしては、前みたいに話したいですよね。",
+      "content": "I understand. You really want to talk with her like you did before, don't you, Hiromi?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:29:06",
+      "origin": "そう出来ないかも知れないと思うと、不安になるお気持ち、よく分かります。",
+      "content": "I can really understand how you'd feel anxious thinking that might not happen."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:29:49",
+      "origin": "はい。A子と会うのが楽しくて通っていたから",
+      "content": "Yes. I was going because I enjoyed seeing A."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:30:48",
+      "origin": "そうなんですね。今はA子さんとあまり話せなくても、頑張って通っているのですよね。もう一度、前みたいに話せるようになる為に、一緒に方法を探そて行きましょう。",
+      "content": "I see. Even though you can't talk much with A right now, you're still doing your best to attend. Let's work together to find a way for you to talk like you used to."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:30:53",
+      "origin": "二人すごく楽しそうで、一時的とは思えないです",
+      "content": "They look so happy together that I can’t see it as just temporary."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:31:11",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:31:25",
+      "origin": "なるほど、一時的とは思えないほど、仲良く話しているのですね。",
+      "content": "I see—so they’re chatting so happily that it doesn’t feel temporary to you."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:31:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:32:46",
+      "origin": "では、ひろみさんのお考ええお聞かせて下さい。少し勇気がいるかも知れませんが、なぜあまり話してくれないのか、聞いてみるのはいかがでしょうか？",
+      "content": "Then, let's hear your thoughts on this, Hiromi. It might take a bit of courage, but what do you think about asking her why she hasn't been talking to you as much?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:33:50",
+      "origin": "聞きにくいです。ますます、白けそうで…",
+      "content": "It’s hard to ask. I’m afraid it would just make things even more awkward…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:35:42",
+      "origin": "そうなんですね。嫌われたら、と思うと怖いですよね。二人が話している時は、間に入っていけそうな雰囲気ではない感じですか？",
+      "content": "I see. It’s scary when you worry she might dislike you. When the two of them are talking, does it feel like there isn’t an opening for you to join in?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:36:18",
+      "origin": "はい。あまりに楽しそうで",
+      "content": "Yes. They look like they're having too much fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:36:48",
+      "origin": "うーん、割り込んで入るのは難しそうですね。",
+      "content": "Hmm, it sounds hard to jump in."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:36:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:37:29",
+      "origin": "お昼休憩の時は、今は、ひろみさんはどなたと過ごされていますか？",
+      "content": "During your lunch break, who do you spend time with now, Hiromi?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:37:46",
+      "origin": "一人ぼっちです",
+      "content": "I’m all by myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:39:04",
+      "origin": "そうなんですね。元々は、A子さんと一緒だったのですか？",
+      "content": "I see. And before, you used to have lunch with A?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:39:34",
+      "origin": "はい。二人でたわいないおしゃべりしてました",
+      "content": "Yes. The two of us used to have casual chats."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:40:14",
+      "origin": "うんうん。それはお昼の時間が来るのが嫌になりますよね。ひろみさんはよく耐えていらっしゃると思います。",
+      "content": "Mm-hmm. That must make you dread lunchtime. I think you're enduring it very well, Hiromi."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:40:26",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:41:02",
+      "origin": "B子さんが入ってから、お昼を一緒に食べようと声をかけた事はありますか？",
+      "content": "Since B joined, have you tried asking to eat lunch together?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:41:28",
+      "origin": "ありません。",
+      "content": "No, I haven't."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:42:31",
+      "origin": "A子とＢ子で、さっさと並んで食べ始めるので",
+      "content": "A and B quickly line up together and start eating, so…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:42:57",
+      "origin": "そうなんですね。それは声をかけづらいですよね。私の経験上、勇気を出して言ってみたら、案外すんなり、という事も多いと思いますが、どうですか？",
+      "content": "I see. That does make it difficult to approach them. In my experience, if you gather your courage and just say it, things often go surprisingly smoothly. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:43:58",
+      "origin": "ありがとうございます。私、あまり積極的に動けないタイプなんです",
+      "content": "Thank you. I'm not really the type to be proactive."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:44:59",
+      "origin": "なるほど、性格的に、ハードルが高いとお感じでしょうか。",
+      "content": "I understand—you feel it’s a high hurdle for you, given your personality."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:45:03",
+      "origin": "たいてい、A子に引っ張ってもらってました",
+      "content": "Usually, A was the one who would take the lead."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:46:24",
+      "origin": "そうだったんですね。声をかける事が難しければ、A子さんが声をかけてくれるのを待つか、ほかに仲の良い友達を作る、というのはいかがですか？",
+      "content": "I see, so that's how it was. If it's difficult for you to approach her, how about waiting for A to talk to you, or trying to make other good friends?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:47:47",
+      "origin": "同学年が３人だけなので、他の友人を作るのは無理です。",
+      "content": "There are only three of us in the same grade, so making other friends is impossible."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:48:31",
+      "origin": "なるほど、無理だとお感じなのですね。クラスに3人だけ、という事でしょうか？",
+      "content": "I see—you feel that isn’t possible. Are there only three students in your grade?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:50:58",
+      "origin": "はい。1年、3年はいますけど、たいてい同じ学年の子と仲良くなってます。",
+      "content": "Yes. There are first and third years, but people usually become friends with others in the same grade."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:51:49",
+      "origin": "そうなんですね。異学年の友達というのも、なかなか楽しいと思いますが、気が進みませんか？",
+      "content": "I understand. Friends from other grades can be fun too—does that not appeal to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:53:05",
+      "origin": "私は、やっぱりA子と仲良くしたいです",
+      "content": "I really just want to be friends with A again."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:54:21",
+      "origin": "うんうん、やっぱりA子さんと前みたいな関係に戻りたいんですね。",
+      "content": "Mm-hmm, so you really want to go back to the relationship you had with A before."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:54:28",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:55:24",
+      "origin": "それが一番だと思います。そうする為には、勇気を出すしか方法はないと思いますが、難しそうですか？",
+      "content": "I think that’s for the best. To do that, I believe the only way is to be brave and reach out—does that feel difficult?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:56:19",
+      "origin": "万が一、それで冷たい態度を取られたとしたら、寂しいけれど、無理して付き合いを続ける必要はないと思いますが、どうですか？",
+      "content": "In the unlikely event that she gives you the cold shoulder, it would be sad, but I don't think you need to force the friendship to continue. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:57:15",
+      "origin": "そうなんですね。お昼の時、勇気を出して、私も一緒に食べていい？って言ってみようかな",
+      "content": "I see. Maybe at lunchtime, I'll work up the courage and try asking, 'Can I eat with you guys too?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:57:52",
+      "origin": "はい！やっぱり、ひろみさんは強いですね。きっと、大丈夫です。",
+      "content": "Yes! You're strong after all, Hiromi. I'm sure it'll be fine."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:58:19",
+      "origin": "ありがとうございます。勇気を出して、言ってみます",
+      "content": "Thank you. I'll gather my courage and try saying it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T14:59:37",
+      "origin": "うんうん、その調子です。応援しています。早速、明日言えそうですか？",
+      "content": "Mm-hm, that’s the spirit. I’m rooting for you. Do you think you could say it as soon as tomorrow?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T14:59:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T15:01:08",
+      "origin": "素晴らしい！上手く行く事を願っています。リーダー格のA子さんなら、きっと、気持ちよく受け入れてくれると思います。そんなひろみさんなので、もしA子さんやB子さんと上手くいかなくてなる事があったとしても、素敵な友達がたくさん出来ると思います。",
+      "content": "Wonderful! I hope it goes well. Since A is a leader type, I'm sure she'll welcome you warmly. And because of the kind of person you are, Hiromi, even if things don't work out with A and B, I'm sure you'll be able to make many wonderful friends."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T15:01:32",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T15:01:38",
+      "origin": "お時間になりましたが、話してみていかがでしたか？",
+      "content": "Our time is about up, but how do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T15:02:43",
+      "origin": "ありがとうございました。A子.Ｂ子と仲良くできるかもと、少し明るい気持ちになりました",
+      "content": "Thank you. I feel a bit brighter now that I think I might be able to get along with A and B."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T15:03:41",
+      "origin": "はい、きっと上手くいきますよ。少しでも明るい気持ちになれて良かったです。",
+      "content": "Yes, I’m sure it will go well. I’m glad you’re feeling even a little bit brighter."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T15:03:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T15:03:51",
+      "origin": "今日は相談してくれてありがとうございました。また悩む事があれば、いつでもお話聴かせてくださいね。",
+      "content": "Thank you for sharing your concerns with me today. If you ever have anything else you're worried about, please feel free to talk to me anytime."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T15:04:00",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T15:04:39",
+      "origin": "それでは、ロープレ終了とさせて頂きます。貴重なお時間を共有させて頂き、ありがとうございました。",
+      "content": "We’ll end the role-play here. Thank you for sharing your valuable time with me."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T15:04:54",
+      "origin": "こちらこそ、ありがとうございました",
+      "content": "Thank you as well."
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "友人との関係の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 823,
+    "evaluation_created_at": "2020-12-01T09:28:00",
+    "client_id": 99,
+    "counselor_id": 116,
+    "score": 74,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

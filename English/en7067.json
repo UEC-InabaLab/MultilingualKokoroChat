@@ -1,0 +1,537 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:22:18",
+      "origin": "(こんにちは。お時間になったら始めさせていただきます。よろしくお願いします。）",
+      "content": "(Hello. We will begin when it's time. I look forward to working with you.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:23:10",
+      "origin": "こんにちは、よろしくお願いいたします。",
+      "content": "Hello, I look forward to it as well."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:26:31",
+      "origin": "クライアントで何か希望はありますか？",
+      "content": "Do you have any preferences for the client role?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:27:57",
+      "origin": "ありがとうございます。特に考えてはいないのでお任せします。",
+      "content": "Thank you. I don't have anything in particular in mind, so I'll leave it up to you."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:28:05",
+      "origin": "了解です。",
+      "content": "Understood."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:30:47",
+      "origin": "こんにちは、相談員です。今日は相談に来てくださりありがとうございます。初めに、年齢と性別、本日の相談内容を教えてください。",
+      "content": "Hello, I’m the counselor. Thank you for coming in today. To begin, could you please tell me your age, gender, and what you’d like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:31:32",
+      "origin": "こんにちは。　35歳女性です",
+      "content": "Hello. I'm a 35-year-old woman."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:32:02",
+      "origin": "仕事会社の相談です",
+      "content": "It's about my work and my company."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:33:17",
+      "origin": "ありがとうございます。お仕事・会社のことでご相談ですね。どういったことでしょうか。お話しできるところからで大丈夫ですので、もう少し詳しく教えてください。",
+      "content": "Thank you. So, you'd like to discuss something about your work and company. Could you tell me a little more about it? You can start with whatever you feel comfortable sharing."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:33:50",
+      "origin": "仕事というか、会社の人間関係かもしれません",
+      "content": "It might be less about the work itself and more about the relationships at the company."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:34:35",
+      "origin": "会社の人間関係でご心配なことがおありなんですね。",
+      "content": "So you have some concerns about the relationships at your company."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:34:51",
+      "origin": "3人グループで仕事をしているのですが、他の二人と上手くコミュニケーションが取れません",
+      "content": "I work in a three-person group, but I'm having trouble communicating well with the other two."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:35:38",
+      "origin": "そのように感じていらっしゃるのですね。なんだか一人寂しい気持ちになってしまうかもしれないですね。",
+      "content": "I see you're feeling that way. It might make you feel a bit lonely and isolated."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:36:17",
+      "origin": "そのような状態をお感じになったのはいつごろからでしょうか。",
+      "content": "About when did you start to feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:36:39",
+      "origin": "そうですね、コロナの時はリモートであまり感じなかったんですが",
+      "content": "Well, I didn't feel it so much during the pandemic when we were working remotely."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:37:16",
+      "origin": "コロナ明けでリモートが減ってから、孤立感を感じます",
+      "content": "But since the pandemic ended and we've had less remote work, I've been feeling isolated."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:38:00",
+      "origin": "そうなんですね。孤立していると感じるのはつらいですね。",
+      "content": "I see. It must be difficult to feel isolated like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:38:38",
+      "origin": "3人グループというお話でしたが、コロナ前にもそういう形態だったのでしょうか",
+      "content": "You mentioned it's a three-person group. Was it the same arrangement before the pandemic?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:38:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:39:28",
+      "origin": "その時には、そのような孤立感は感じられなかったのでしょうか。",
+      "content": "And you didn't feel that sense of isolation back then?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:40:03",
+      "origin": "ただ、3人になって半年もたたないうちにコロナになりました。",
+      "content": "Well, the pandemic started less than six months after we became a three-person team."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:41:09",
+      "origin": "その前は2人だったのですが、その時は孤立感ではなく、その方の仕事に対する姿勢が不真面目だな、、と思っていました",
+      "content": "Before that, it was just the two of us, and back then I didn’t feel isolated—rather, I thought that person’s attitude toward work was unprofessional."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:41:57",
+      "origin": "そのように感じていらっしゃったのですね。そこにもう一人増えたということですか。",
+      "content": "That’s how you were feeling then. And then a third person joined, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:42:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:43:24",
+      "origin": "そうなんですね。ちなみに、不真面目だと感じていらっしゃったということですか。どういうところで、そのように感じていらっしゃったのでしょうか。",
+      "content": "I see. By the way, you mentioned you felt they had a poor attitude. In what ways did you feel that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:45:26",
+      "origin": "とてもお休みが多いです。",
+      "content": "They take a lot of days off."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:45:59",
+      "origin": "実際体調不良なのかもしれませんが、普段の仕事の感じでズルじゃないかって思ってしまいます。",
+      "content": "They may truly be unwell, but based on their usual attitude at work, I can’t help but think they’re taking advantage."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:46:21",
+      "origin": "そうなのですね。仕事として向き合っている人からすると、それはちょっと無責任にも感じられますよね。",
+      "content": "I see. For someone who is dedicated to their work, that could certainly seem irresponsible."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:47:14",
+      "origin": "そうですね。仕事中に、携帯で関係ないことをしたりしているのを、隣で感じるのがとても不快です。",
+      "content": "Yes. It's very uncomfortable seeing them doing unrelated things on their phones during work hours while sitting right next to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:47:45",
+      "origin": "それはいやですね。そんな時はどうしていらっしゃるのですか。",
+      "content": "That must be unpleasant. What do you do in those situations?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:48:18",
+      "origin": "あまり話したくないので、そのままです",
+      "content": "I don’t really want to talk to them, so I just leave it be."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:49:09",
+      "origin": "そうなのですね。あまりかかわりたくないといった感じでしょうか。もう一人の方はどうしていらっしゃるのですか。",
+      "content": "I see. So it sounds like you'd rather not get too involved with them. What about the other person in the group?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:50:46",
+      "origin": "2人で一緒に楽しんでいる感じです。ずっとおしゃべりしたり、携帯で他の事を調べたり。でも仕事はしてくれます",
+      "content": "The two of them seem to be enjoying themselves together. They're constantly chatting or looking up unrelated things on their phones, but they do get their work done."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:51:29",
+      "origin": "気にしなければいいのかもしれませんが、どうしても気になってしまって、、、そんな自分も嫌で、、どうすればいいんでしょうね。。",
+      "content": "Maybe I shouldn't let it bother me, but I can't help it... and I don't like that about myself either... I just don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:52:02",
+      "origin": "そうなんですか。いくら仕事はしているとはいえ、そういう状態の二人だと、モヤモアするのも当然だと思います。",
+      "content": "I understand. Even if they are getting their work done, it's completely natural to feel frustrated by their behavior."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:53:05",
+      "origin": "自分が転職するのも違うかなって気もするし、、",
+      "content": "I also feel like changing jobs might not be the right move..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:53:40",
+      "origin": "指摘して関係が悪くなるのも面倒だし、、",
+      "content": "And it would be a hassle if our relationship soured after I pointed it out..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:53:51",
+      "origin": "相談者様は、きっちり仕事と向き合っていらっしゃるのだと思います。そこに、ちょっとお遊び気分のように見える人がすぐ近くにいては、不快な気持ちにもなられると思います。",
+      "content": "It sounds like you take your work very seriously. I can imagine it would be unpleasant to have people who seem to be treating it like a game right next to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:54:25",
+      "origin": "かといって、人間関係を悪くするのは嫌ですよね。それも当たり前です。",
+      "content": "At the same time, you don’t want to damage the relationships. That’s completely understandable."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:55:37",
+      "origin": "そうですね、",
+      "content": "Yes, exactly."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:55:52",
+      "origin": "このモヤモヤがなくなってほしいです",
+      "content": "I just want this frustration to go away."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:56:03",
+      "origin": "転職とまでいかなくても、チームが変わるといった、環境を変える手立てなどはいかがでしょう。そういうことが可能なお仕事なのでしょうか。",
+      "content": "Short of changing jobs, what about other ways to change your environment, like switching teams? Is that a possibility in your job?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:57:37",
+      "origin": "上司に相談すればチームを変えることは出来るかもしれません",
+      "content": "If I talk to my supervisor, I might be able to change teams."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T17:58:29",
+      "origin": "相談者様は、チームのお二人の態度に不快さを感じていながらも、お仕事は認めていらっしゃり、公平な方だと感じました。",
+      "content": "Even though you feel uncomfortable with your teammates’ attitudes, you still acknowledge that they get their work done. I sense that you are a fair-minded person."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T17:59:42",
+      "origin": "仕事をするなら気にすることはないと思うのに、どうしても目についてしまうんですよね。。後は、人の悪口が多い所も気にある所でもあります",
+      "content": "I feel like if they're doing their work, it shouldn't bother me, but I can't help but notice... Another thing that bothers me is that they gossip a lot about other people."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:02:02",
+      "origin": "人の悪口は聞きたくないですよね。仕事だと割り切ってしまうこともできなくはないでしょうが、それではあなたにストレスが溜まってしまうのではないかと思います。あなたはこれまでもきちんとお仕事していらっしゃったのだと思います。そういうあなたからの相談には、耳を傾けてもらえるのではないかと思いますが、いかがですか。",
+      "content": "Nobody wants to listen to gossip about others. You could try to just treat it as part of the job, but I worry that would just cause you more stress. You seem to be a very diligent worker. I think if someone like you were to raise a concern, people would listen. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:03:11",
+      "origin": "確かに、不真面目さの部分は上司も承知なので、相談はありかも知れません。",
+      "content": "That's true. My boss is aware of their poor work ethic, so talking to him might be an option."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:03:56",
+      "origin": "転職ほどじゃないけど、おっしゃる通りストレスが溜まっていきますよね、、",
+      "content": "It’s not to the point of changing jobs, but as you said, the stress does build up..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:03:56",
+      "origin": "上司の方もわかっていらっしゃるのですね。",
+      "content": "So your boss is aware of the situation as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:04:53",
+      "origin": "もしかしたら、あなたの公平さやまじめな仕事態度をわかっているからこそのチームなのかもしれないと感じました。",
+      "content": "It occurred to me that perhaps you were placed on this team precisely because they recognize your fairness and serious attitude toward work."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:05:18",
+      "origin": "そうですね、特に休みが多い部分では何度か上司から指摘があったようです",
+      "content": "That's right. It seems the boss has pointed out their frequent absences to them several times."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:06:17",
+      "origin": "そうなんですね。もしかして、会社としても困っていらっしゃるのかもしれませんね。だとしても、そこであなたがストレスをかぶってはいけないと思います。",
+      "content": "I see. The company itself might be struggling with this situation. Even so, I don't think you should be the one to bear the stress."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:06:36",
+      "origin": "チームは特に意味はないと思いますが、よくよく考えたら自分だけモヤモヤとストレスが溜まってるのがバカみたいに感じてきました",
+      "content": "I don't think there's any special meaning to the team assignment, but now that I think about it, it feels silly that I'm the only one getting frustrated and stressed out."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:07:23",
+      "origin": "そうですよね。お仕事とはいえ気持ちよく働きたいのは誰もが思うところです。",
+      "content": "That's understandable. Even though it's work, everyone wants to have a pleasant work environment."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:07:54",
+      "origin": "毎日長い間過ごす場所ですから、",
+      "content": "It's a place where we spend a lot of time every day, after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:08:04",
+      "origin": "でも、お話を聞いていると、チームのお二人はそこをはき違えていらっしゃるように思います。",
+      "content": "But from what you've told me, it seems your two teammates have misunderstood that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:09:25",
+      "origin": "お仕事や会社自体にはどのように感じていらっしゃいますか。",
+      "content": "How do you feel about your job and the company itself?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:09:41",
+      "origin": "私がですか？",
+      "content": "Me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:10:29",
+      "origin": "はい、そのチームの二人から離れたらどう感じられるのかな、と思って質問いたしました。",
+      "content": "Yes. I was asking how you would feel if you considered things apart from those two teammates."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:10:37",
+      "origin": "私は、貴重なコミュニティの場所だと思っています",
+      "content": "I think of it as a valuable community."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:11:29",
+      "origin": "仕事場についてそのようなお考えをお持ちなんですね。確かに、家庭以外にそういう場所があるって大切だと思います。",
+      "content": "That's an interesting way to think about your workplace. It's true, having a place like that outside of home is important."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:12:29",
+      "origin": "それならなおのこと、自分にとって不快な話ばかりしている人と一緒では、嫌な気持ちになりますよね。いかがですか。",
+      "content": "In that case, it must be all the more unpleasant to be with people who are always talking about things you find disagreeable. Is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:14:32",
+      "origin": "そうですね、2人の世界を狭くしている気がして不快です。そういうのもそれぞれの価値観で流さなくてはいけないですね、、",
+      "content": "Yes, it's unpleasant because it feels like they're creating their own little, narrow world. I suppose I should just let it go as a difference in values..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:16:16",
+      "origin": "会社以外で話したら少しモヤモヤが晴れてたようなきがします　社内だと、結局愚痴や悪口になるので、、",
+      "content": "I feel like talking about it outside of the company has helped clear my head a bit. Inside the company, it just turns into complaining and gossip."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:16:51",
+      "origin": "そうですよね。会社ではなかなか言えないことですよね。相談の中で「孤立感」という言葉が出てきましたが、あなたにとっては、入りたくない世界を避けているのだと感じましたし、その方がよいのではないかと感じました。いかがですか。",
+      "content": "Right. These are things that are difficult to say at work. The word \"isolation\" came up in our conversation, but it seems to me that you're actually avoiding a world you don't want to be a part of, and that that might be for the best. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:17:47",
+      "origin": "3人の事だけを考えると孤立感になりますが、確かにあえて距離をとってるのかもしれません、一緒にならないように",
+      "content": "If I only think about the three of us, it feels like isolation, but it's true that I might be deliberately keeping my distance so I don't get involved with them."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:18:18",
+      "origin": "そこに気づくと、さらに楽になります。",
+      "content": "Realizing that makes me feel even more at ease."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:19:14",
+      "origin": "よかったです。本当にひとっていろいろで、感じ方もいろいろですよね。自分にとって不快のところにわざわざ入る必要もないと、私は思っています。いかがでしょう。",
+      "content": "I'm glad to hear that. People are all so different, and they feel things differently, too. I believe there's no need to force yourself into a situation you find unpleasant. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:19:53",
+      "origin": "その通りですね",
+      "content": "That's absolutely right."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:20:35",
+      "origin": "会社は3人だけではないし、そこでそんなに煮詰まることもないですね",
+      "content": "The company isn't just the three of us, so there's no need to get so worked up over it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:21:12",
+      "origin": "そうですよね。あなたは、とても良識のある方だと感じました。だから、そんなあなたに気持ちの良いコミュニティがあると思います。",
+      "content": "That’s right. I find you to be a very sensible person. Because of that, I believe there’s a community out there that will feel comfortable for you."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:22:09",
+      "origin": "気付きや見方を変えると、気持ちも変わるんですね。ありがとうございました。",
+      "content": "When I change my perspective and gain new insights, my feelings change too. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:22:48",
+      "origin": "少しは気持ちが晴れたのならよかったです。内輪の中ではなかなか話せないことや、しんどいなと感じたことがあったら、またいつでもこちらにお話にいらしてください。",
+      "content": "I'm glad if you're feeling a bit better. If there's ever anything you find difficult to discuss with your immediate circle, or if you're feeling overwhelmed, please feel free to come back and talk anytime."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:23:50",
+      "origin": "会社以外の場所で話せたのが良かったのかもしれません。大したことないからと放っておいたのですが、相談してよかったです",
+      "content": "Maybe it was good to talk about it in a place outside of work. I had been ignoring it, thinking it wasn't a big deal, but I'm glad I came in to talk."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:24:29",
+      "origin": "いつでも大丈夫なんですか？",
+      "content": "Is it really okay to come anytime?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:25:09",
+      "origin": "いえいえ、小さいと感じることでも、ほかっておくとどんどんストレスになってしまいます。しんどくなる前にいつでも、いらしてください。そろそろお時間となってしまいますが、ほかにお話になりたいことはございませんか。",
+      "content": "Of course. Even things that seem small can build up into a lot of stress if you leave them. Please come anytime before it gets too difficult. We're almost out of time, but is there anything else you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:26:27",
+      "origin": "そうですね、今度からちょっと気になったら吐き出すようにします　割とストレスがたまっていたんだなと感じました",
+      "content": "Yes, from now on, I’ll try to vent when something starts to bother me. I realize now that I had built up quite a bit of stress."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:26:36",
+      "origin": "今日はもう大丈夫です",
+      "content": "I'm all set for today."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:27:05",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:28:10",
+      "origin": "はい、今日お話しされることで、気持ちが軽くなられたのならよかったです。吐き出すって大切ですよね。それでは、本日はこれで終了とさせていただきます。ありがとうございました。",
+      "content": "Yes, I'm glad if talking today helped you feel lighter. Letting things out is important. Well then, we'll conclude our session for today. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:28:26",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-27T18:28:50",
+      "origin": "（終了ボタンを押させていただきます）",
+      "content": "(I’ll press the End button now.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-27T18:29:04",
+      "origin": "はい",
+      "content": "Okay."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "会社の人間関係のコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 7067,
+    "evaluation_created_at": "2024-07-01T19:08:00",
+    "client_id": 468,
+    "counselor_id": 476,
+    "score": 93,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:22:02",
+      "origin": "（こんにちは。今日はどうぞよろしくお願いいたします。お時間になりましたら、始めさせていただきますね。）",
+      "content": "(Hello. Thank you for coming today. We will begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:22:29",
+      "origin": "(よろしくお願いします。)",
+      "content": "(I look forward to our session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:30:12",
+      "origin": "こんにちは、相談員です。今日はお話に来てくださり、ありがとうございます。はじめに年齢、性別、ご相談の内容を教えてください。",
+      "content": "Hello, I'm your counselor. Thank you for coming to talk today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:30:44",
+      "origin": "16 男　辛い",
+      "content": "16, male. It's tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:31:38",
+      "origin": "教えてくださり、ありがとうございます。辛い気持ちを抱えてきてくれたのですね。",
+      "content": "Thank you for telling me. It sounds like you've come here carrying some tough feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:31:54",
+      "origin": "16歳ということですが、何年生ですか？",
+      "content": "You mentioned you're 16. What grade are you in?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:33:21",
+      "origin": "1年",
+      "content": "First year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:34:07",
+      "origin": "ありがとうございます、高校1年生ですね。辛いとうことですが、いつ頃からそんな気持ちにななりましたか？",
+      "content": "Thank you, so you're a first-year in high school. You said things feel tough. Since about when have you been feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:34:31",
+      "origin": "覚えてません",
+      "content": "I don't remember."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:35:07",
+      "origin": "そうなのですね…長いなという感覚でしょうか？",
+      "content": "I see... does it feel like it's been a long time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:35:20",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:35:45",
+      "origin": "うんうん、わからないくらいに辛い感じでしょうか",
+      "content": "Mm-hm. Is it so tough that it's difficult even to tell?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:36:05",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:37:02",
+      "origin": "そうなのですね…つらい以外には、どんな気持ちになりますか？",
+      "content": "I see... besides feeling that it's tough, what other feelings come up?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:37:24",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:38:26",
+      "origin": "なるほど、例えば…モヤモヤとした感じですか？それとも、嫌で嫌でたまらない感じでしょうか",
+      "content": "I see. For example... is it a kind of foggy, uneasy feeling? Or more like you can't stand it and hate it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:38:55",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:40:21",
+      "origin": "そうなのですね…今日は日曜日ですが、どんな風に過ごしていますか？",
+      "content": "I see... It's Sunday today; how are you spending the day?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:41:03",
+      "origin": "ほとんど寝てます",
+      "content": "I'm mostly sleeping."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:41:40",
+      "origin": "なるほど、そうすると今は家にいるのでしょうか？",
+      "content": "I see. So are you at home now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:41:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:42:54",
+      "origin": "なるほどほとんど寝ている、ということだけれど、具合が悪い感じでしょうか？大丈夫ですか？",
+      "content": "I see. You mentioned you're mostly sleeping, but are you feeling unwell? Are you okay?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:43:57",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:44:45",
+      "origin": "うんうん、それなら良かったです。ほとんど寝ているのは、どうしてですか？辛くて疲れている感じでしょうかね…",
+      "content": "Mm-hm, I'm glad to hear that. Why are you sleeping most of the time? Is it that you're exhausted because things feel so tough?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:44:55",
+      "origin": "寝たいから",
+      "content": "Because I want to sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:45:47",
+      "origin": "うんうん、そうなんですね。ご家族の人はどうしていますか？ちなみに、家族構成はどんな感じですか？",
+      "content": "I see. How is your family doing? By the way, who is in your family?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:46:43",
+      "origin": "両親と暮らしてます",
+      "content": "I live with my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:47:51",
+      "origin": "教えてくれてありがとうございます。そうすると、3人暮らしでしょうかね今日はご両親は家にいるのですか？",
+      "content": "Thank you for telling me. So it's a household of three? Are your parents home today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:48:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:49:23",
+      "origin": "そうなのですね。ほとんど寝ているということだと、自分のお部屋で過ごしているのかな、と思いますが、今日はご両親とはお話しましたか？",
+      "content": "I see. Since you're mostly sleeping, I imagine you're in your room. Have you talked to your parents today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:49:40",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:50:09",
+      "origin": "うんうん、そうなのですね。お話していないのはどうしてですか？",
+      "content": "Mm-hm, I see. How come you haven't talked with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:50:29",
+      "origin": "必要ないから",
+      "content": "Because it's not necessary."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:51:17",
+      "origin": "そうなんですね。必要ない、というのはどうしてそう思いますか？",
+      "content": "I see. What makes you feel it's not necessary?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:52:06",
+      "origin": "話すことないから",
+      "content": "Because there's nothing to talk about."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:53:00",
+      "origin": "うんうん、なるほど。ご両親は何か声をかけてきたりしますか？",
+      "content": "I see. Do your parents try to talk to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:53:13",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:54:00",
+      "origin": "そうなんですね。普段のことをちょっと教えてほしいのだけれど、学校には行っていますか？",
+      "content": "I see. Could you tell me a bit about your usual routine? Do you go to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:54:11",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:55:16",
+      "origin": "なるほど、ふだんは学校に行っていて、どんな生活をしていますか？例えば朝は何時に出て、授業にでて、部活があるとか、何時ごろに帰ってくるとか…",
+      "content": "I see. So you usually go to school; what does a typical day look like? For example, what time do you leave in the morning, attend classes, whether you have club activities, and about what time you come home..."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:57:05",
+      "origin": "普通に投稿して授業終わったら帰ります",
+      "content": "I go to school normally, and when classes are over, I go home."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:57:08",
+      "origin": "登校",
+      "content": "I mean, go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:57:52",
+      "origin": "ええ、登校して授業に出て過ごしているのですね。学校にはどんな気持ちで通っていますか？",
+      "content": "Right, so you go to school and attend classes. How do you feel about going to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:58:18",
+      "origin": "辛い",
+      "content": "It's tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:58:58",
+      "origin": "そうなんですね…登校が辛いところなんですね。",
+      "content": "I see... so going to school is what's tough for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:59:29",
+      "origin": "他に辛いと感じることはどんなことですか？きっとしんどい気持ちでいっぱいですよね…",
+      "content": "What else feels tough? I imagine you're filled with a lot of difficult feelings..."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:00:43",
+      "origin": "全部",
+      "content": "Everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:02:02",
+      "origin": "なるほど、全部ですね。それは…しんどいし辛いですね。いくつか挙げると、どんな感じでしょうか？単語でもいいので、教えてください。",
+      "content": "I see, everything. That sounds really tough and difficult. If you were to list a few things, what would they be? Even just single words are fine."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:02:49",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:03:13",
+      "origin": "表現できません",
+      "content": "I can't put it into words."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:03:27",
+      "origin": "うんうん、そうなんですね。なるほど、表現が…",
+      "content": "Mm-hm, I see. I understand, expressing it is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:03:50",
+      "origin": "例えば、朝起きるのはどうですか？",
+      "content": "For example, how is it getting up in the morning?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:04:09",
+      "origin": "辛い",
+      "content": "Tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:04:32",
+      "origin": "ええ、起きるのが辛いですね。",
+      "content": "Right, getting up is tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:04:53",
+      "origin": "朝ごはんは食べられていますか？",
+      "content": "Are you able to eat breakfast?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:05:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:06:17",
+      "origin": "うんうん、色々と辛い中でも食べられているのなら、ちょっと安心しました。ちなみに、朝ごはんは何を食べているのですか？",
+      "content": "Mm-hm. Even though a lot of things feel tough, I'm a bit relieved to hear you're able to eat. By the way, what do you eat for breakfast?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:06:52",
+      "origin": "色々",
+      "content": "Various things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:07:28",
+      "origin": "色々、いいですね。朝ごはんで好きなメニューはありますか？",
+      "content": "Various things, that's good. Do you have any favorite breakfast foods?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:08:49",
+      "origin": "ありません",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:09:36",
+      "origin": "うんうん、そうなんですね。朝は食欲あるな、と感じられていますか？",
+      "content": "I see. Do you feel like you have an appetite in the morning?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:10:30",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:11:09",
+      "origin": "あぁ、そうなんですね。それでも、食べて学校に行っているのですね。",
+      "content": "Oh, I see. And yet, you still eat and go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:11:34",
+      "origin": "学校にはどうやって行っていますか？",
+      "content": "How do you get to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:11:47",
+      "origin": "歩き",
+      "content": "I walk."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:12:33",
+      "origin": "なるほど、歩きで行ける学校なのですね。学校に向かって歩いているときには、どんなことを考えていますか？",
+      "content": "I see, so your school is within walking distance. When you're walking to school, what kinds of thoughts go through your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:12:57",
+      "origin": "辛い",
+      "content": "It's tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:13:31",
+      "origin": "うんうん、辛い、と考えているのですね。行きたくない、とも感じていますか？",
+      "content": "Mm-hm, you're thinking 'it's tough.' Do you also feel like you don't want to go?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:13:52",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:14:39",
+      "origin": "そうなのですね、それぐらい辛いでいっぱいということですかね？",
+      "content": "I see. Does it feel like you're so filled with this 'tough' feeling that there's no room for anything else?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:14:48",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:15:33",
+      "origin": "そうなんですね。学校で授業を受けるのはどうですか？",
+      "content": "I see. What about attending classes at school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:15:47",
+      "origin": "辛い",
+      "content": "It's tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:17:05",
+      "origin": "うんうん、授業中も辛いのですね。授業が辛い、それは本当にしんどいですね。休み時間はどんなふうに過ごしていますか？",
+      "content": "Mm-hm, it's tough even during class. Classes feeling tough - that must be really difficult. How do you spend your breaks?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:17:43",
+      "origin": "特に何もしてません",
+      "content": "I don't do anything in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:18:22",
+      "origin": "なるほど、ずっと席に座っている感じですか？",
+      "content": "I see. Do you just stay seated at your desk?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:19:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:20:07",
+      "origin": "うんうん、そうなのですね話したりするお友だちは、クラスにはいますか？",
+      "content": "Mm-hm, I see. Do you have any friends you talk with in your class?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:20:15",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:20:47",
+      "origin": "うんうん、じゃあクラスでは誰とも話さない感じでしょうか？",
+      "content": "Mm-hm, so you don't talk to anyone in class?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:21:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:22:11",
+      "origin": "うんうん、誰とも話さないとなると、例えばお昼ごはんはどうしていますか？",
+      "content": "I see. If you don't talk to anyone, what do you do for lunch, for example?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:22:45",
+      "origin": "普通に食べてますけど",
+      "content": "I just eat normally."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:23:21",
+      "origin": "うんうん、食べられているんですね。1人で食べている感じですか？",
+      "content": "I see, you're able to eat. Do you eat alone?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:23:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:24:25",
+      "origin": "うんうん、1人で食べていることは、どんなふうに感じていますか？",
+      "content": "Mm-hm. How do you feel about eating alone?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:24:49",
+      "origin": "特に何とも",
+      "content": "Nothing in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:25:52",
+      "origin": "うんうん、そうなのですね。学校で特に辛いな、と感じることはありますか？",
+      "content": "Mm-hm, I see. At school, is there anything in particular that feels especially tough?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:26:34",
+      "origin": "全部",
+      "content": "Everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:28:23",
+      "origin": "そうなのですね、全部辛い…しんどい気持ちでいっぱいなのですね。その全部をちょっとずつでも、聞かせてもらいたいなと思いますが、そろそろ終了のお時間なのでよかったらまた次回、よかったらお話をきかせてくださいね。",
+      "content": "I see, everything feels tough... You're filled with such difficult feelings. I'd like to hear about that 'everything,' even if just a little at a time, but we're almost out of time. If you'd like, I'd be happy to listen again next time."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:28:54",
+      "origin": "（お疲れ様でした、このまま完了までお願いします。）",
+      "content": "(Thank you for your time. Please proceed to completion as is.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:29:24",
+      "origin": "（承知しました。お相手してくださり、ありがとうございました。）",
+      "content": "(Understood. Thank you for talking with me.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "高校生活での孤独感"
+  },
+  "review_by_client": {
+    "evaluation_id": 6135,
+    "evaluation_created_at": "2023-12-17T16:42:00",
+    "client_id": 125,
+    "counselor_id": 424,
+    "score": 46,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

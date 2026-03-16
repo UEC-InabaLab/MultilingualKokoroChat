@@ -1,0 +1,807 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:00:16",
+      "origin": "こんばんは。相談員です。まずはじめに、ご年齢、性別、相談内容を教えていただけますか？",
+      "content": "Good evening. I'm a counselor. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:00:55",
+      "origin": "55才女性同居している母の事です",
+      "content": "I’m a 55-year-old woman. It’s about my mother, who lives with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:02:11",
+      "origin": "教えてくださりありがとうございます。お母様のことで何かお悩みなのですね。",
+      "content": "Thank you for sharing that. It sounds like you're troubled by something concerning your mother."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:02:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:03:30",
+      "origin": "どんなことで悩んでいらっしゃるのか教えていただいてもよろしいですか？",
+      "content": "Would you mind telling me what you're struggling with?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:05:07",
+      "origin": "はい手術も受けましたが、病院では健康と言われているのに、何もしません。不満ばかりで、世話をするのが負担です。",
+      "content": "Yes. She's had surgery, but the hospital says she's healthy, yet she doesn't do anything. She's always complaining, and taking care of her is a burden."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:06:27",
+      "origin": "なるほど。それはちょっと嫌ですし、負担ですよね、、。",
+      "content": "I see. That must be unpleasant and quite a burden for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:07:13",
+      "origin": "お母様というのは相談者さんのお母様でしょうか？",
+      "content": "Is this your own mother we're talking about?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:07:38",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:08:14",
+      "origin": "元々合わなくて嫌いです。先日は他県に嫁いだけど妹に電話して泣き言を言って。妹は心配して病院に連れて行くように言うけど、甘えてるだけなんです",
+      "content": "We've never gotten along, and I dislike her. The other day, she called my sister, who is married and lives in another prefecture, to complain. My sister got worried and told me to take her to the hospital, but she's just being needy."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:09:51",
+      "origin": "そうだったんですね。それはしんどい思いをされてきましたね。",
+      "content": "I see. That must have been very difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:10:41",
+      "origin": "しんどいです。妹はほとんど帰省しないし、世話をしてるのは私なんです",
+      "content": "It is tough. My sister hardly ever comes home, and I'm the one doing all the caregiving."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:11:16",
+      "origin": "妹さんにも大変さをあまり理解してもらえず、といった感じなのですね。",
+      "content": "So it feels like your sister doesn't quite understand how hard it is for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:12:37",
+      "origin": "実際にお世話をしてみないと、精神面や体力面での大変さって分からないものですもんね、、。",
+      "content": "Unless you're the one actually providing the care, it's hard to understand the mental and physical toll it takes, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:13:06",
+      "origin": "妹も、世話をしてるのはお姉ちゃんだから、何も出来なくてごめんと言います。分かろうとはしてるけど、現実は厳しいです",
+      "content": "My sister says, ‘You’re the one taking care of her, so I’m sorry I can’t do anything.’ She tries to understand, but the reality is harsh."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:13:57",
+      "origin": "ええ、その通りだと思いますよ。",
+      "content": "Yes, I think that’s exactly right."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:15:15",
+      "origin": "母の甘えを受け入れていたら、私が潰れてしまします。夫も半身麻痺で、こちらは完全に介護で大変なんです",
+      "content": "If I give in to my mother's neediness, I'll break down. My husband also has hemiplegia and requires full care, which is already very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:16:19",
+      "origin": "旦那様もそのような状態なのですね。それはお辛いですね。",
+      "content": "Your husband is in that condition as well. That must be so difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:17:01",
+      "origin": "夫はともかく、母までは見きれません。甘えてるんです",
+      "content": "I can manage my husband, but I can't look after my mother on top of that. She's just being needy."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:18:28",
+      "origin": "なるほど。とにかくお母様の甘えが許せない感じなのでしょうか？",
+      "content": "I see. So it sounds like you find your mother's neediness intolerable, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:19:35",
+      "origin": "そうです。母の退院時会議でも、娘は何もしてくれないと悪口を沢山言われました。感謝がないし、自分でやる気もないんです。",
+      "content": "That's right. Even at her discharge planning meeting, she bad-mouthed me, saying her daughter does nothing for her. She's not grateful, and she has no motivation to do things for herself."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:19:57",
+      "origin": "食事や通院の送り迎えは私がやってるのに",
+      "content": "Even though I'm the one who prepares her meals and takes her to and from her doctor's appointments."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:20:47",
+      "origin": "そうなんですね。ご自身はとてもしんどい思いをされているわけですしね。なんで自分ばかりが、って。そう思いますよね。",
+      "content": "I see. You're going through such a difficult time yourself. It's natural to think, 'Why is it always me?'"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:22:04",
+      "origin": "そう思ってしまいます経済的な事で別居も出来ないから、ある程度は諦めてますが、母の態度が辛くなります",
+      "content": "I do feel that way. We can’t live separately for financial reasons, so I’ve resigned myself to some extent, but my mother’s attitude is painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:23:17",
+      "origin": "ええ、そう思われるのは自然なことです。日々とても頑張っていらっしゃっていてとてもすごいことだと思いますよ。",
+      "content": "Yes, it's natural to feel that way. I think it's incredible how hard you're working every day."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:23:51",
+      "origin": "ありがとうございます私なりに頑張ってるんです",
+      "content": "Thank you. I’m doing my best in my own way."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:24:43",
+      "origin": "はい、そう思います。そこはご自身をたくさん褒めてあげてくださいね。",
+      "content": "Yes, I believe so. Please give yourself plenty of credit for that."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:25:33",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:26:50",
+      "origin": "はい。たくさんですよ。では、今の現状がどうなったらいいな、と思われてますか？",
+      "content": "You’re very welcome—and you deserve a lot of credit. Now, ideally, what would you like the current situation to look like?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:27:15",
+      "origin": "そうですね…",
+      "content": "Let me see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:27:31",
+      "origin": "少し想像いただけたらと。",
+      "content": "If you could just imagine it for a moment."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:28:55",
+      "origin": "母とは家庭内別居なので、自分の事をもっとやって欲しいです。買い物に行ったり、食事を作ったり。",
+      "content": "My mother and I are essentially living separately under the same roof. I want her to do more for herself, like going shopping or making her own meals."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:29:35",
+      "origin": "なるほど。そう思われているのですね。",
+      "content": "I see. So that's what you're hoping for."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:29:52",
+      "origin": "私の悪口を言わないで欲しい。自分の言葉で私が傷ついてるのを気づいて欲しいです",
+      "content": "I want her to stop bad-mouthing me. I want her to realize that her words are hurting me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:30:51",
+      "origin": "ええ、ええ。そんな思いを抱えていらっしゃったのですね。教えていただいて、ありがとうございます。",
+      "content": "I understand. You've been carrying those feelings with you. Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:31:37",
+      "origin": "母とは会話しないんすが、結構言いたい事があったようです",
+      "content": "My mother and I don't talk, but it seems I had a lot I wanted to say."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:31:38",
+      "origin": "本当はお母様のことが大切だからしているのにね。",
+      "content": "And you're doing all this because you truly care about your mother."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:32:09",
+      "origin": "大切なのか分かりません。同居してるから仕方ないんです",
+      "content": "I don’t know if she matters to me. It’s just because we live together, so I have no choice."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:32:27",
+      "origin": "別居したいのが1番の本音です",
+      "content": "Honestly, what I want most is to live separately."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:33:49",
+      "origin": "本当は別居したいんですね。やはり負担が大きいのですね。",
+      "content": "So you really want to live apart. The burden is just too great, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:34:34",
+      "origin": "そうですね母とは合わないんです。一緒にいても上手く行きません",
+      "content": "That's right. My mother and I just don't get along. Things don't go well when we're together."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:35:28",
+      "origin": "妹は時々2時間くらい母の電話につきあっています。離れているから優しく出来るんだと言っています",
+      "content": "My sister sometimes spends about two hours on the phone with our mother. She says she can be nice because she lives far away."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:35:57",
+      "origin": "私も離れれば、こんな思いをしなくていいのかも",
+      "content": "If I were away too, maybe I wouldn’t have to feel like this."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:36:57",
+      "origin": "確かにそうですよね、負担は少ないはずです。では、あなたの負担を減らすためにもどうしていくのがよいか一緒に考えていこうと思うのですが、いかがでしょうか？",
+      "content": "That's certainly true; the burden would be much less. So, would you like to think together about what we can do to reduce your burden?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:37:55",
+      "origin": "負担を減らす事ができるんでしょうか？想像つきませんが考えてみたいです",
+      "content": "Is it really possible to reduce the burden? I can’t quite imagine how, but I’d like to think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:39:10",
+      "origin": "そう思えていただいてよかったです。",
+      "content": "I’m glad to hear you feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:39:23",
+      "origin": "はいよろしくお願いします",
+      "content": "Yes, please. I'd appreciate your help."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:40:35",
+      "origin": "ナイーブなことかもしれませんが、お子様はいらっしゃるのでしょうか？",
+      "content": "This may be a sensitive question, but do you have any children?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:40:55",
+      "origin": "子供はいません3人暮らしです",
+      "content": "I don't have any children; it’s just the three of us living together."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:41:16",
+      "origin": "教えていただきありがとうございます。",
+      "content": "Thank you for letting me know."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:41:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:43:12",
+      "origin": "では、頼れそうな方というのはなかなか難しい感じでしょうか？",
+      "content": "So, does it sound like it might be hard to find someone you can lean on?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:44:05",
+      "origin": "もし他に頼れる方がいたらよいなと思いましたので。",
+      "content": "I was just wondering if there might be anyone else you could rely on."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:44:39",
+      "origin": "そうですね…。姉が同市に嫁いでいて、連絡は取っていまて話は聞いてくれますが、頼りにはなりません",
+      "content": "Let's see... My older sister is married and lives in the same city. We keep in touch and she listens to me, but I can't rely on her for help."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:45:25",
+      "origin": "頼れる人と言われてもピンときません",
+      "content": "When you say someone I can rely on, no one really comes to mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:46:34",
+      "origin": "ありがとうございます。そうしますと、お話しを聞いた感じだと、",
+      "content": "Thank you. In that case, based on what you've told me,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:48:20",
+      "origin": "お母様に少し動いていただくのが、おっしゃっていたように良いと思うのです。",
+      "content": "I think, as you mentioned, it would be good if your mother could do a bit more for herself."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:49:08",
+      "origin": "どうやったら動いてくれるでしょうか",
+      "content": "How can I get her to do that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:49:40",
+      "origin": "考えたんですが、嫌かもしれないのですが、お母様と少しお話しをしてみてはいかがでしょうか？",
+      "content": "I've been thinking, and you may not like this idea, but how about trying to talk with your mother a little?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:51:17",
+      "origin": "母は泣き言というか、できない理由を言って、起こります。昔からの性格で、すぐに怒ります",
+      "content": "My mother just whines, or rather, she gives reasons why she can't do things and gets angry. It's just her personality; she gets angry easily."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:51:48",
+      "origin": "なるほど。もし、二人きりだと言い合いになってしまうようなら、妹さんを挟んでなど。",
+      "content": "I see. If talking one-on-one would just lead to an argument, perhaps you could have your sister mediate."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:53:26",
+      "origin": "私も話したくないですが、妹を挟めばなんとかなるかも？でも、妹はコロナを心配して帰りづらいと言っています",
+      "content": "I don't want to talk to her either, but maybe it would work with my sister there. But my sister says she's worried about COVID and finds it hard to come home."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:54:42",
+      "origin": "妹はデイサービスに行って欲しいと言っています。介護度が足りないので、適応ではないんですが",
+      "content": "My sister says she wants our mother to go to a day care service. But her required level of care isn't high enough, so she's not eligible."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:56:13",
+      "origin": "そうなのですね。金銭的なところに負担が掛かってきてしまいますね。",
+      "content": "I see. That would add a financial burden, wouldn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T21:57:01",
+      "origin": "金銭的というのは、デイサービスのことですか？",
+      "content": "By financial burden, do you mean the day care service?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T21:58:14",
+      "origin": "はい。冒頭で別居だと金銭面でとおっしゃられていたので。違っていたら申し訳ございません。",
+      "content": "Yes. Because at the beginning, you mentioned that living separately was difficult for financial reasons. I apologize if I've misunderstood."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:00:48",
+      "origin": "いえいえ。余裕がないので、金銭的負担はない方がいいです。母は要支援でもないので、そもそもデイサービスには行けないと思います。",
+      "content": "Not at all. We don't have much money to spare, so it's better if there's no financial burden. My mother doesn't even qualify for support, so I don't think she could go to a day care service anyway."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:01:17",
+      "origin": "ずっと家にいるので、出かけてくれたらいいとは思っていますが",
+      "content": "She’s home all the time, so I do wish she would go out."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:02:05",
+      "origin": "そうなのですね。知識不足で大変失礼いたしました。そうですよね。",
+      "content": "I see. I apologize for my lack of knowledge. You're right."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:02:28",
+      "origin": "妹を挟んで、何を話せばいいんでしょうか",
+      "content": "If my sister mediates, what should we talk about?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:04:12",
+      "origin": "出かけている時間にご自身も休めますし。妹さんを挟んで、なぜ悪口や不満ばかりを言うのかと、本音で話されてみてはと思ったのです。もしかしたら、",
+      "content": "You could also get some rest while she's out. I was thinking that with your sister there, you could speak honestly and ask your mother why she is so full of complaints and says such bad things. It's possible that,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:05:04",
+      "origin": "お母様もずっと言えなかったことや、心配ごとがあるのかもしれません。",
+      "content": "your mother also has things she's been unable to say, or worries she's been keeping to herself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:05:30",
+      "origin": "ズームやラインのテレビ電話のようなものでどうでしょうか？本当は会うのが一番なのですけど。",
+      "content": "How about using something like Zoom or a LINE video call? Meeting in person would be best, of course."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:08:54",
+      "origin": "不満を言うのは昔からで、性格です。姉妹が家に寄り付かないのは母の性格もあります。ヒステリーで話し合いにならないんです母の本音は、妹に愚痴ってる事だと思います。私が買い物に連れて行かない、話もしない、と言っています。",
+      "content": "Complaining is just part of her personality; she's always been that way. Her personality is also why my sister and I avoid visiting. She gets hysterical, so you can't have a proper discussion with her. I think her true feelings are what she complains to my sister about: that I don’t take her shopping and don’t talk to her."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:10:16",
+      "origin": "妹が母とLINEビデオや写真を送り合いたいと、母にスマホをプレゼントしましたが、母は使い方を覚えられません。私も何度か教えましたが、もう疲れました",
+      "content": "My sister wanted to do LINE video calls and exchange photos with our mother, so she gave her a smartphone, but my mother can't learn how to use it. I've tried teaching her several times, but I'm just tired of it now."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:11:08",
+      "origin": "家族でLINEビデオで話をすると言うことですか？",
+      "content": "Are you suggesting we have a family talk over a LINE video call?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:11:30",
+      "origin": "やっぱり話し合いになる気がしないです",
+      "content": "I really don't think it will turn into a productive discussion."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:11:50",
+      "origin": "できたら、あなたのスマホでと思ったのですが。",
+      "content": "I was thinking you could use your smartphone, if possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:12:05",
+      "origin": "難しそうですね。",
+      "content": "It does sound difficult."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:12:42",
+      "origin": "難しいですね母が変わる事はないでしょう",
+      "content": "It is difficult. I don't think my mother will ever change."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:12:54",
+      "origin": "あー、なんか困りました",
+      "content": "Ah, I’m at a loss."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:14:17",
+      "origin": "母の希望を叶えると、私の負担が増えるだけな気がします",
+      "content": "I feel like fulfilling my mother's wishes will only increase my burden."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:14:39",
+      "origin": "では、妹さんとそのことについてもう一度話し合ってみて、",
+      "content": "In that case, how about talking it over with your sister again, and"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:15:12",
+      "origin": "ご自身は少し態度を変えてみてはいかがでしょうか？",
+      "content": "consider slightly adjusting your own approach?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:15:58",
+      "origin": "お聞きしていますと、とてもお母様のためにがんばっていらっしゃるので、",
+      "content": "From what I'm hearing, you're already trying so hard for your mother,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:16:44",
+      "origin": "あなたの判断でお母様がやれそうな所は手を付けない、とか。",
+      "content": "so maybe you could decide not to help with things you think your mother can do on her own."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:17:15",
+      "origin": "いかがでしょうか？",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:19:19",
+      "origin": "食事や買い物はやらせたいんですが、病院で悪口を言われたので。仕方なくやっています。",
+      "content": "I would like her to handle her own meals and shopping, but after she bad-mouthed me at the hospital, I feel like I have no choice but to do them."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:20:19",
+      "origin": "散歩をするように声をかける事ならできるかも知れません",
+      "content": "I might be able to suggest that she go for a walk."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:21:15",
+      "origin": "本当は話したくないですが",
+      "content": "I don’t really want to talk to her, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:22:11",
+      "origin": "悪口は辛いですよね。そうですよね。しかしご自身のためにも、お散歩をすることから促してみてください。",
+      "content": "Being bad-mouthed is painful, I understand. But for your own sake as well, please try encouraging her to go for a walk."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:22:22",
+      "origin": "うるさい！　と怒るかも知れないし、私の負担が増えます",
+      "content": "She might get angry and yell, 'Leave me alone!', and that will just add to my stress."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:23:04",
+      "origin": "一度試してみるという心持ちで言ってみてはいかがでしょう？",
+      "content": "How about approaching it with the mindset of just giving it one try?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:24:48",
+      "origin": "そうですね…何日も家から出ない時になら、試せるかもしれません",
+      "content": "I suppose... When she hasn't left the house for several days, maybe I can try it then."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:24:56",
+      "origin": "嫌な思いをするかもしれないけど、",
+      "content": "You might have an unpleasant experience, but,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:26:05",
+      "origin": "少し、いつもと違うアクションをぜひ試してみて下さい。上手く行かなかったら、またいつでもご相談に来ていただければと思います。少し今までとは違った行動をおこしてみると",
+      "content": "please try taking a slightly different action than usual. If it doesn't go well, you can always come back and talk to me again. If you try doing something a little different,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:27:49",
+      "origin": "違った結果があるかもしれません。もちろん怒るだけかもしれないのですけど、少しづつ行動を変えていかれてみては、と思いましたが、いかがでしょうか？",
+      "content": "you might get a different result. Of course, she might just get angry, but I was thinking you could try changing your actions little by little. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:31:19",
+      "origin": "母との関係は、話さないのが1番平和、とうい気持ちは変わりませんが、別居出来ないので、関わりは避けられないんだなと思いました",
+      "content": "My feeling that not talking to my mother is the most peaceful option hasn't changed, but since we can't live separately, I realize I can't avoid interacting with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:34:59",
+      "origin": "そうですね。お母様との関わりはなかなか避けられないかもしれないですが、その関係を少しづつでも変えていくというのは、少しずつの行動などで変わってくるものだと思います。",
+      "content": "That's true. You may not be able to avoid interacting with your mother, but I believe that even small changes in your actions can gradually shift the relationship."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:37:01",
+      "origin": "本当は別居ができるのがベストなのですけどね。いまは難しそうなので、まずはそこからと思ってみてはいかがでしょうか？",
+      "content": "Of course, living separately would be best. But since that seems difficult right now, how about we start there?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:42:18",
+      "origin": "関係は変わらないと思います。母と仲良くしたいとは思ってないです。私ばかり行動を変えるのも悔しいです。母は理解しないでしょう。散歩をすすめてみます。",
+      "content": "I don't think the relationship will change. I have no desire to get along with my mother. It's frustrating that I'm the only one changing my behavior. She won't understand. I will try suggesting a walk."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:44:51",
+      "origin": "そうですね。思うところはたくさんあるとは思うのですが、まず試しにという感じで散歩をすすめてみていただければと思います。",
+      "content": "I understand. I'm sure you have many feelings about this, but I hope you can try suggesting a walk, just to see what happens."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:45:11",
+      "origin": "はい。やってみます",
+      "content": "Okay. I’ll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:45:40",
+      "origin": "はい。ぜひ。お話の途中ではありますが、お時間となってしまいます。本日はいかがでしたでしょうか？",
+      "content": "Yes, please do. We're still in the middle of our conversation, but our time is up. How was the session for you today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:52:06",
+      "origin": "今日はありがとうございました。言いたいことや不満を言わせてもらって、こんなに言いたい事があったんだ、と改めて気付きました。言ってもしょうがないと、溜め込んでいました。夫の介護で手一杯なので、嫌いな母の事までは体的にも心情的にも無理だ、とも改めて思いました。関わりたくないのでできる事は少ないですが、自分に余裕がある時に散歩の声かけくらいはしてもいいと思いました。小さい事ですが、それさえも余裕がある時にしか出来そうにありません。それでもやらないよりはいいのかな？　何か変わるのかな？　という感じです",
+      "content": "Thank you for today. Being able to express my frustrations and say what I wanted made me realize just how much I had to say. I’d been bottling it all up, thinking there was no point. I also reaffirmed that, since my hands are full with my husband’s care, I just can’t handle my mother—whom I dislike—physically or emotionally. I don’t want to engage with her, so there isn’t much I can do, but I think I could at least suggest a walk when I have the capacity. It’s a small thing, and it seems I can only do it when I have that capacity. Still, is it better than doing nothing? Will anything change? That’s how I feel."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:52:16",
+      "origin": "やってみて、ですね。",
+      "content": "I just have to try, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:53:45",
+      "origin": "はい。本日は本音など、お話ししていただきありがとうございました。あなたの頑張りはほんとうに素晴らしいことと思いました。ぜひご自身をたくさん褒めてあげてくださいね。",
+      "content": "Yes. Thank you for sharing your true feelings with me today. I truly think what you're doing is wonderful. Please be sure to give yourself plenty of praise."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:55:22",
+      "origin": "ありがとうございます。同居してるから、家族だから、やって当たり前と思われているのも悔しくて。頑張りを認めてもらえるのは嬉しいです。",
+      "content": "Thank you. It's also frustrating that people think it's just expected of me because we live together and we're family. It makes me happy to have my efforts acknowledged."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:55:35",
+      "origin": "最後にお願いしていいですか？",
+      "content": "Can I ask one last thing?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T22:55:53",
+      "origin": "はい、もちろんです。",
+      "content": "Yes, of course."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:56:59",
+      "origin": "すごく頑張ってるって、もう一度誉めてもらっていいですか？",
+      "content": "Could you tell me once more that I’m doing a really good job?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T22:58:38",
+      "origin": "自分を褒めるるのは難しくて",
+      "content": "It’s hard to praise myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T23:00:35",
+      "origin": "はい。あなたはとても頑張っていらっしゃいます。本当にです。頑張りすぎかもしれないぐらいに、ですよ。最初は難しいかもしれないのですけど、形だけでもいいので、たくさんたくさん、「自分えらいね」など褒めてあげてください。",
+      "content": "Yes. You are trying so very hard. Truly. So hard that you might even be overdoing it. It might be difficult at first, but even if it's just going through the motions, please, please praise yourself a lot by saying things like, 'I'm doing great.'"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:01:46",
+      "origin": "ありがとうございます嬉しいです。自分はえらいね、と言えばいいんですね。辛い時に言ってみます。",
+      "content": "Thank you, that makes me happy. So I should say, 'I’m doing great,' right? I’ll try saying it when things get tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T23:03:03",
+      "origin": "はい、ぜひ。慣れてこられたらいつでも言ってあげてください。いつでも頑張っておられるのですから。",
+      "content": "Yes, please do. Once you get used to it, say it to yourself anytime—because you’re always doing your best."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:03:25",
+      "origin": "はい。ありがとうございます。",
+      "content": "Yes. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:03:44",
+      "origin": "言ってみます",
+      "content": "I'll try saying it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T23:04:43",
+      "origin": "はい。こちらこそありがとうございます。では、お時間になりますので、終了とさせていただきますがよろしいでしょうか？",
+      "content": "Yes. Thank you as well. Our time is up now, so I'd like to conclude the session, if that's all right with you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:05:09",
+      "origin": "はい。時間を取らせてすみませんでした。ちよっとすっきりしました",
+      "content": "Yes. I’m sorry for taking up so much of your time. I feel a bit relieved."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:05:22",
+      "origin": "終わって大丈夫です",
+      "content": "It’s fine to end now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T23:06:11",
+      "origin": "はい、それはよかったです。あなたがより幸せになることを心から心から、願っています。本日はありがとうございました。",
+      "content": "Yes, I'm glad to hear that. I sincerely, sincerely hope for your happiness. Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:06:27",
+      "origin": "ありがとうございました！",
+      "content": "Thank you very much!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T23:06:48",
+      "origin": "では、失礼します。",
+      "content": "Goodbye, then."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:06:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T23:07:18",
+      "origin": "とても時間が過ぎてしまってすみませんでした！）（本日はありがとうございました。これで終了させていただきます。）",
+      "content": "(I'm so sorry we went over time!) (Thank you for today. We will end the session here.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:07:49",
+      "origin": "（こちらこそ、長時間お付き合いいただきありがとうございました！）",
+      "content": "(Not at all, thank you for staying with me for so long!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T23:08:05",
+      "origin": "失礼いたします。",
+      "content": "Take care."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T23:08:14",
+      "origin": "失礼いたします",
+      "content": "You too, take care."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母親とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3947,
+    "evaluation_created_at": "2022-09-11T01:32:00",
+    "client_id": 320,
+    "counselor_id": 292,
+    "score": 91,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-01-10T09:55:59",
+      "origin": "(おはようございます。相談者役です。待機しています。）",
+      "content": "(Good morning. I'm playing the role of the client. I am waiting.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:03:09",
+      "origin": "（カウンセラー役の方、どうぞ始めてください）",
+      "content": "(To the person playing the counselor, please feel free to start.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:04:24",
+      "origin": "おはようございます。",
+      "content": "Good morning."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:04:34",
+      "origin": "おはようございます",
+      "content": "Good morning."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:04:42",
+      "origin": "申し訳ございません、他の方に入ってしまってました。",
+      "content": "I’m very sorry, I had mistakenly joined someone else’s session."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:04:53",
+      "origin": "私も以前ありました",
+      "content": "That's happened to me before."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:04:58",
+      "origin": "本日は宜しくお願いします。",
+      "content": "I look forward to our session today."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:05:03",
+      "origin": "よろしくお願いいたします",
+      "content": "Thank you, you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:05:24",
+      "origin": "相談員のまちと申します。",
+      "content": "My name is Machi, and I'll be your counselor."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:05:54",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:05:54",
+      "origin": "本日はどのような件でお越しいただきましたか？",
+      "content": "What brings you in today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:07:14",
+      "origin": "実は、娘が性被害にあいまして・・・私自身も大きなショックでカウンセリングをうけたくてきました。",
+      "content": "The truth is, my daughter was a victim of sexual assault... I'm in deep shock myself and came here for counseling."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:08:03",
+      "origin": "それはとてもお辛い思いをされてるんですね・・・ショックが相当ですよね",
+      "content": "That must be incredibly painful for you... It’s an enormous shock, isn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:08:12",
+      "origin": "はい、動揺しています",
+      "content": "Yes, I’m very shaken."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:08:56",
+      "origin": "そうですよね・・・娘さんは今はどうですか",
+      "content": "I can only imagine... How is your daughter doing now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:09:56",
+      "origin": "娘は今、怒りっぽくなったり、警戒心が強くなっています。",
+      "content": "She’s become irritable and very guarded."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:10:48",
+      "origin": "そうですか、、とても苦しい日々を送られてますよね。警戒心も強くなってしまいますよね",
+      "content": "I see... This must be such a difficult time. It’s understandable that she’s more on guard."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:11:09",
+      "origin": "そうですね。無理ないですよね",
+      "content": "Yes. It's only natural, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:11:46",
+      "origin": "そうですよね、とてもショックなことあったわけですから。",
+      "content": "Of course, after such a traumatic event."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:12:09",
+      "origin": "以前の娘さんはどのような感じだったのでしょうか？",
+      "content": "What was your daughter like before this happened?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:13:21",
+      "origin": "以前は、天真爛漫な子どもと言う感じでよく笑っていましたが、今はあまり笑顔が見られません。どう娘に対応していいか戸惑っています",
+      "content": "She used to be an innocent, cheerful child who laughed a lot, but now I rarely see her smile. I'm at a loss as to how to interact with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:14:41",
+      "origin": "そうですか、、ずっと笑顔でいらしてた感じなのですね。そうですよね、、どう接したらよいか・・・今はお母さまはどのように接してらっしゃるのでしょうか？",
+      "content": "I see... so she was always smiling. Yes, it must be difficult to know how to approach her... How have you been interacting with her recently?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:15:30",
+      "origin": "あまり、刺激をしないように、ちょっと腫れ物を触るような対応になっている気がします。",
+      "content": "I’m trying not to trigger her, and I feel like I’m walking on eggshells around her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:15:43",
+      "origin": "なるほど、、",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:16:29",
+      "origin": "どう声かけたらいいかも難しいですよね。でもなんとかしてあげたいって感じですよね。",
+      "content": "It's difficult to know what to say, isn't it? But you want to do something to help her."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:17:29",
+      "origin": "そうですね。加害者への許せない怒り気持ちは娘にも伝えましたが、これからどうしていったらいいかわからなくて。",
+      "content": "Yes. I’ve told my daughter how unforgivably angry I am at the perpetrator, but I don’t know what to do from here."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:18:30",
+      "origin": "そうですよね、絶対ゆるせませんよね・・・",
+      "content": "Of course, it's absolutely unforgivable..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:18:46",
+      "origin": "もう、殺してやりたいくらい許せません",
+      "content": "I’m so furious I feel like I could kill them."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:18:57",
+      "origin": "これからどうしたらいいか、私も一緒に考えさせて頂きたいと思います。",
+      "content": "I’d like to think together with you about what might help going forward."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:19:09",
+      "origin": "よろしくおねがいします",
+      "content": "Thank you, I’d appreciate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:19:14",
+      "origin": "そうですよね、そのようなお気持ちにもなりますよね",
+      "content": "Of course, it's completely understandable to feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:19:40",
+      "origin": "よろしくお願いします。もう少しお聞きさせて頂きたいのですが",
+      "content": "Thank you. I'd like to ask a bit more if that's okay."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:19:47",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:20:42",
+      "origin": "被害にあわれた後、何か行動されたりされましたか？例えば、どこかに、誰かにご相談されたりとか、被害届を出されたりとか可能な範囲でいいので教えて頂ければと思います。",
+      "content": "After the incident, did you take any actions? For example, did you consult with anyone or file a police report? Whatever you’re comfortable sharing is fine."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:21:17",
+      "origin": "はい、警察には被害届を出しました。",
+      "content": "Yes, we filed a report with the police."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:21:49",
+      "origin": "なるほど、そうでしたか。警察も動かれているんですね。",
+      "content": "I see. So the police are involved."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:22:30",
+      "origin": "はい、ただ、犯人が未成年みたいで",
+      "content": "Yes, but it seems the perpetrator is a minor."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:23:11",
+      "origin": "しかも障害を持っているから罪を問えないような話でした",
+      "content": "And on top of that, I was told they might not be held criminally responsible because they have a disability."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:23:17",
+      "origin": "そうなんですか・・・未成年とは・・・・なんかやりきれない感じですね",
+      "content": "I see... A minor... That must feel so frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:23:32",
+      "origin": "そうなんですよ。やりきれない気持ちです。",
+      "content": "Exactly. I feel it’s unbearable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:24:00",
+      "origin": "罪を問えないなんて・・・悔しですね・・・",
+      "content": "To think they can't be held accountable... That's so frustrating..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:24:24",
+      "origin": "泣き寝入りなのかと思うと虚しくなります。",
+      "content": "The thought that we might just have to suffer in silence makes me feel empty."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:24:35",
+      "origin": "本当に悔しいです",
+      "content": "It’s truly infuriating."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:25:17",
+      "origin": "むなしいですね・・・悔しい気持ちお察しします・・・",
+      "content": "It feels so hollow... I can only imagine how frustrating that is for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:25:23",
+      "origin": "差し支えなければ、娘さんは何歳くらいですか？",
+      "content": "If you don’t mind my asking, how old is your daughter?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:25:36",
+      "origin": "娘は小学１年生です",
+      "content": "My daughter is in the first grade."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:26:58",
+      "origin": "そうですか、まだ小１なのですね・・・その悔しさを考えるとやりきれないです。",
+      "content": "I see, so she’s only a first grader... Thinking about that frustration makes it all the more unbearable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:27:22",
+      "origin": "娘さんは今は学校には行かれてますか？",
+      "content": "Is your daughter going to school at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:28:30",
+      "origin": "はい、学校へは言っています。娘はとんでもないことが起きた事はわかっているけれど、それが何を意味するのかわかるのはもっと大きくなってからわかるようになるので・・・将来がまた心配になります。",
+      "content": "Yes, she is going to school. She knows something terrible happened, but she won't understand the full meaning of it until she's much older... which makes me worry about her future."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:29:26",
+      "origin": "なるほど、おっしゃるとおりこの後も心配ですよね。でも、今学校に行かれてるのは少し安心でしょうか。",
+      "content": "I understand, you're right to be concerned about the future. But is it perhaps a small relief that she is able to go to school now?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:30:21",
+      "origin": "この件は、他にご家族とか親しい方たちとご相談とかされてましたか？",
+      "content": "Have you discussed this matter with any other family members or close friends?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:31:18",
+      "origin": "学校に行けているのは嬉しいことですが、家族には自分の親には伝えました。親もショックを受けていました。",
+      "content": "It is good that she's able to go to school. As for family, I've told my own parents. They were also very shocked."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:32:20",
+      "origin": "そうですよね、ショックですよね。親さんは何かアドバイス的なことおしゃってましたか？",
+      "content": "Of course, it's a shock. Did your parents offer any advice?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:33:14",
+      "origin": "そうですね、子どもの話を聞いてあげてとか、甘えてきたらそれに応えるようにというようなアドバイスがありました。",
+      "content": "Yes, they suggested listening to her and responding when she seeks comfort or affection."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:34:22",
+      "origin": "そうですか、いいアドバイスを頂けてましたね。そのアドバイスを実行はされたりしてましたか？",
+      "content": "I see, that sounds like good advice. Have you been able to put it into practice?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:35:14",
+      "origin": "はい、できるだけ子供の話に耳を傾けています。",
+      "content": "Yes, I try to listen to her as much as possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:36:38",
+      "origin": "なるほど、、いいですね。その時娘さんはどんな感じですか？",
+      "content": "I see, that's good. How does your daughter seem at those times?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:37:52",
+      "origin": "興奮していたのが少し落ち着いていくこともあります。",
+      "content": "Sometimes she calms down a bit when she’s been agitated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:38:30",
+      "origin": "そうですか、、落ち着いていけることって大切ですよね。",
+      "content": "I see. Being able to calm down is very important, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:38:50",
+      "origin": "興奮が収まらないときも時々ありますがそのときはどうしたらいいでしょうか？",
+      "content": "There are times when she can't calm down, though. What should I do then?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:39:27",
+      "origin": "なるほど、、これまで興奮が収まる時ってどんな時がございましたか？",
+      "content": "I see... What kinds of situations have helped her calm down before?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:40:25",
+      "origin": "泣きわめいて疲れてクールダウンするのを待つくらいしかないですね。",
+      "content": "Mostly we just have to wait until she cries herself out and gets tired enough to cool down."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:40:57",
+      "origin": "なるほど、、そういう感じでなんですね。一般的にはですが、",
+      "content": "I see, so that's how it has been. Generally speaking,"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:41:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:41:12",
+      "origin": "興奮が収まるまで、言いたい事を吐き出させる、って事はあります。",
+      "content": "it can be helpful to let them express everything they want to say until their agitation subsides."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:41:54",
+      "origin": "娘さんも泣きわめくことで、自分の何かを吐き出してるかんじでしょうか？",
+      "content": "Do you think that by crying and screaming, your daughter might be releasing something she's holding inside?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:42:50",
+      "origin": "なるほど。多分娘も何か言葉にできない感情を溜め込んでいて、それを泣く行為で発散させているのかなと思います。こちらもイライラするので別室で泣くように言うことがありますけど、よくないんでしょうか。",
+      "content": "I see. I think she is probably holding in emotions she can't put into words, and she's releasing them by crying. I get frustrated too, so sometimes I tell her to cry in another room. Is that a bad thing to do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:43:54",
+      "origin": "そうですね、そうやって吐き出してる可能性はありますよね。お母さまが、",
+      "content": "Yes, it's possible she is releasing her feelings that way. When you say you..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:44:00",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:44:14",
+      "origin": "イライラされるのは、どういう点ででしょうか？",
+      "content": "...get frustrated, what is it that makes you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:44:43",
+      "origin": "大きな声で泣き続けられるとこっちも泣きたくなる気分になって、不快になるんです",
+      "content": "When she continues to cry loudly, it makes me want to cry too, and it becomes distressing."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:45:29",
+      "origin": "なるほど、、お母さまもいろんな思いを堪えてらっしゃるからですね・・・無理もないですね。",
+      "content": "I see. It's because you are also holding back so many emotions... It’s completely understandable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:45:35",
+      "origin": "失礼ですが、親さんの他に、ご家族構成など教えて頂いてもよろしいですか？",
+      "content": "Forgive me for asking, but besides your parents, could you tell me about your immediate family?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:46:39",
+      "origin": "私と夫と娘に２つ下の妹が一人います。四人です",
+      "content": "There are four of us: my husband and me, our daughter, and her sister who is two years younger."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:47:32",
+      "origin": "ありがとうございます。夫さんとは、娘さんへの対応でどうされるとか、役割するとか、なにか話せれてますか？",
+      "content": "Thank you. Have you and your husband been able to talk about how to handle the situation with your daughter, or about your respective roles?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:48:32",
+      "origin": "いえ、仕事ばかりであまり家にいないし、子育てにほとんど関わってくれていません。逃げている感じです。",
+      "content": "No, he's always at work and isn't home much, and he's barely involved in raising the children. It feels like he's avoiding it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:49:43",
+      "origin": "そうなんですね、そうすると、お母さまがお一人で抱えてしまってる部分もあるのですね。だから、気持ちが不安定になることもございますよね。",
+      "content": "I see. So it seems you are shouldering much of this on your own. It's natural that your own feelings would become unstable at times."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:49:52",
+      "origin": "それはあると思います",
+      "content": "I think that’s true."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:50:55",
+      "origin": "でも、娘さんの大切なことなので、もう一度夫さんとじっくりお話し、これからどう接するか、夫さんにも協力頂けるといいのですが、いかがでしょうか？",
+      "content": "Still, since this is so important for your daughter, it might help to have another thorough talk with your husband about how to support her going forward and ask for his cooperation. How would that feel to you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:51:28",
+      "origin": "可能であれば、お母さまと親さんと、夫さんで、皆で温かく接してあげたいところですが。",
+      "content": "If possible, it would be ideal if you, your parents, and your husband could all provide a warm environment for her together."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:51:37",
+      "origin": "夫に何を協力してもらえるのか思いつかなくて。",
+      "content": "I can't think of what he could even do to help."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:53:31",
+      "origin": "娘さんの話を聞いてあげて、甘えさせてあげてとか、親さんからの良いアドバイスをやって頂いて、娘さんがもっと感情を吐き出せればいいのですが・・・",
+      "content": "Perhaps he could also follow the good advice from your parents, like listening to your daughter and letting her be affectionate, which might help her express her emotions more..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:55:11",
+      "origin": "そうですね。それは伝えてみようと思います。私が夫に話しても無駄と思っているところがあり、夫と話すことを少し避けていた気がします。",
+      "content": "You're right. I'll try telling him that. I think I've been avoiding talking to my husband because I felt it would be pointless."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:56:29",
+      "origin": "そうですか、夫さんにとっても大切な娘さんですから、協力と言うか、一緒に接してあげてくるといいですね。",
+      "content": "I see. She is his precious daughter too, so rather than just “cooperating,” it would be good for him to be involved alongside you."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T10:57:18",
+      "origin": "そうですね。娘が落ち着くように親としてサポートしたいです",
+      "content": "Yes. As her parents, we want to support her so she can feel calmer."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:59:22",
+      "origin": "はい、大変な思いをされて、これからも忘れる事は難しいかもしれませんが、お母さまと夫さんと親さんで、娘さんを温かく包んであげて、少しでも癒して上げれればいいですね。",
+      "content": "Yes. You've been through so much, and while it may be difficult to ever forget, it would be wonderful if you, your husband, and your parents could warmly embrace your daughter and help her heal, even just a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T10:59:51",
+      "origin": "本当は思い出したくもない事をいろいろお聞きさせて頂いて申し訳ございませんでした。",
+      "content": "I am very sorry for having to ask you about things you would rather not remember."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:00:23",
+      "origin": "いいえ、ショックな気持ちを何処にもぶつけられなかったので、話せてよかったです。",
+      "content": "No, it's okay. I had nowhere to direct these shocking feelings, so I'm glad I was able to talk about it."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:00:43",
+      "origin": "一人で抱えていられなくて",
+      "content": "I couldn't bear it alone."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:01:10",
+      "origin": "ここに聞いてもらいにきたので。",
+      "content": "That’s why I came here to be heard."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:01:34",
+      "origin": "ええ、一人抱えず、夫さんや親さんと皆で娘さんを包んでください。",
+      "content": "Yes, please don’t carry this alone—surround your daughter together with your husband and parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:02:09",
+      "origin": "これから、以前のように天真爛漫に笑顔で暮らせる日々がくる事を私も祈っております。",
+      "content": "I too will pray for the day to come when she can live cheerfully and with a smile, just like before."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:02:32",
+      "origin": "はい、娘の以前の笑顔が見られるようになりたいです。",
+      "content": "Yes, I want to see my daughter's old smile again."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:02:56",
+      "origin": "はい、そうされてください。",
+      "content": "Yes, please do."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:03:02",
+      "origin": "今日は聞いていただき、ありがとうございました。",
+      "content": "Thank you for listening today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:03:30",
+      "origin": "いいえ、辛いお話をしていただき、申し訳ございませんでした。",
+      "content": "Not at all. I’m sorry to have asked you to share such painful experiences."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:03:59",
+      "origin": "大丈夫です。",
+      "content": "It’s okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:04:04",
+      "origin": "また、何かお話したいこととかございましたら、いつでもいらしてください。",
+      "content": "If you ever have anything else you'd like to talk about, please feel free to come back anytime."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:04:18",
+      "origin": "わかりました。よろしくおねがいします",
+      "content": "Understood. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:04:31",
+      "origin": "本日のご相談は、ここまででよろしいでしょうか？",
+      "content": "Shall we conclude for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:04:39",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:04:50",
+      "origin": "こちらこそ、宜しくお願いします。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:05:12",
+      "origin": "はい、それでは本日は終了させて頂きます。",
+      "content": "Alright, we’ll end here for today."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:05:23",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:05:49",
+      "origin": "（お疲れさました）（有難うございました）",
+      "content": "(Thank you for your time today.) (Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:06:00",
+      "origin": "（お疲れさまでした。ありがとうございました）",
+      "content": "(Thank you for your time. Thank you very much.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-10T11:06:10",
+      "origin": "（これで終了させて頂きます）",
+      "content": "(We will conclude here.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-10T11:06:28",
+      "origin": "（はい）",
+      "content": "(Okay.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "娘の性被害による心理的サポート問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1149,
+    "evaluation_created_at": "2021-01-10T12:33:00",
+    "client_id": 120,
+    "counselor_id": 31,
+    "score": 75,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

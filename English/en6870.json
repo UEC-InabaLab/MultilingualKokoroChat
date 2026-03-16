@@ -1,0 +1,555 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:00:04",
+      "origin": "こんにちは。相談員です。今日はご相談に来てくださって、ありがとうございます。はじめに、年齢と性別、相談内容を教えてください。",
+      "content": "Hello. I’m the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:00:43",
+      "origin": "40代、女性、仕事を辞めたい",
+      "content": "I'm in my 40s, female, and I want to quit my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:01:24",
+      "origin": "そうなんですね、詳しくお聞かせください",
+      "content": "I see. Could you tell me more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:02:09",
+      "origin": "職場でパワハラがあり、辞めたい",
+      "content": "There's power harassment at my workplace, and I want to quit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:03:14",
+      "origin": "それはおつらいですね。お話しできる範囲でいいので、どんなことがあったのか教えていただけますか。",
+      "content": "That must be very difficult for you. If you're comfortable, could you tell me what has been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:04:53",
+      "origin": "上司に信頼してないと言われたり、いつも間に先輩の同僚が入ってきて必要とされてないんだなといつも思う",
+      "content": "My supervisor tells me they don’t trust me, and senior colleagues always step in between, which constantly makes me feel I’m not needed."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:06:14",
+      "origin": "必要とされていないと感じられているのですね。とても苦しいお気持ちなのだと思います。他には、どのようなことがありましたか？",
+      "content": "You’re feeling that you’re not needed. That must be very painful. What else has been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:08:33",
+      "origin": "業者とのやりとりでお金が必要な時も直接、受付の私に渡してくれたらいいのに、先輩同僚を通して、私のところに持ってくる。私は要らないんだなって思う。",
+      "content": "Even when money needs to be handed over during dealings with vendors, instead of giving it directly to me at reception, they pass it through a senior colleague before it reaches me. It makes me feel I’m unnecessary."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:09:50",
+      "origin": "トイレ掃除もしたのに、また、先輩同僚がまたする。",
+      "content": "Even after I've cleaned the restroom, a senior colleague will do it again."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:10:30",
+      "origin": "そうなんですね、いつも間に先輩の同僚の方が入るのですね。それは嫌な気持ちになりますね。",
+      "content": "I see—so senior colleagues keep stepping in between. That would feel unpleasant."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:10:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:11:08",
+      "origin": "間に入ってくるのは、いつも同じ先輩同僚の方ですか？",
+      "content": "Is it always the same senior colleague who steps in?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:12:07",
+      "origin": "いえ、2人います。私より10年以上先輩です。",
+      "content": "No, there are two of them. They're more than 10 years my senior."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:12:44",
+      "origin": "お二人いらっしゃるのですね。一人前に扱われていないように感じてしましますね。",
+      "content": "So there are two of them. It sounds like you feel you're not being treated as a capable professional."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:13:09",
+      "origin": "はい、そう思いますよね。",
+      "content": "Yes, that’s how it feels."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:13:59",
+      "origin": "もう、10年いるのに。",
+      "content": "Even though I’ve been there for 10 years already."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:14:03",
+      "origin": "間に入られるようになったのは、いつごろからですか？",
+      "content": "When did they start stepping in like that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:15:01",
+      "origin": "忘れてしまいましたが、最近ではないです。もう、何年も前からです。",
+      "content": "I don't remember exactly, but it's not recent. It's been happening for many years now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:15:47",
+      "origin": "メッセージが重なってしまってすみません、何年も前からなんですね。ずっと苦しい思いを抱えてらっしゃったのですね。",
+      "content": "I'm sorry, our messages crossed. So it's been for many years. You must have been carrying this pain for a long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:16:39",
+      "origin": "そうなるきっかけはありましたか？",
+      "content": "Was there a trigger that started this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:16:49",
+      "origin": "はい、もう我慢ができなくて、こんなところに居ても仕方ないなと思うようになりました。",
+      "content": "Yes. I reached a point where I couldn’t put up with it anymore and felt there’s no point in staying in a place like this."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:17:50",
+      "origin": "長い期間、よく我慢してらっしゃると思います。どなたかにご相談されたのでしょうか。",
+      "content": "You've endured this for a very long time. Have you been able to talk to anyone about this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:18:49",
+      "origin": "入社当初から上司に嫌われていて、上司の言うことは絶対と思っている先輩同僚と暗黙の了解で、言葉や態度でいじめられています。",
+      "content": "My boss has disliked me since I first joined the company, and through a tacit understanding with senior colleagues who think the boss's word is law, I'm being bullied through their words and actions."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:19:28",
+      "origin": "相談できる人がいなくてここにきました。相談できるところがあったら、教えてほしい",
+      "content": "I had no one I could consult, so I came here. If there are places I can seek help, please let me know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:21:35",
+      "origin": "そうなんですね、おつらい気持ちをひとりで抱えてらっしゃって、苦しい思いをされていたのだと思います。相談できる場所ですが、会社の中だと、例えば上司の上司や、人事の方とお話しすることはできますか？",
+      "content": "I see, you've been holding these painful feelings all by yourself, which must have been very difficult. As for a place to consult, within the company, would it be possible to speak with your boss's superior, or someone in HR, for example?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:23:12",
+      "origin": "いじめている本人が、人事の上司で、職場のトップです。小さなクリニックなので、病院なのに、パワハラがあって残念です。",
+      "content": "The person bullying me is the head of HR and the top person at the workplace. It's a small clinic, so it's disappointing that there's power harassment even though it's a medical facility."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:24:48",
+      "origin": "大きな職場に入ればよかったと後悔してます。",
+      "content": "I regret not joining a larger workplace."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:25:02",
+      "origin": "そうなんですね、小さなクリニックの中で、おひとりで戦って来られたのですね。その気持ちをここへお話に来られたのは、前へ進みたいという相談者様の勇気なのだと思います。",
+      "content": "I understand. You've been fighting this all alone in that small clinic. Coming here to talk about it shows your courage and your desire to move forward."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:25:23",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:25:57",
+      "origin": "前に進みたいです。",
+      "content": "I want to move forward."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:26:48",
+      "origin": "そうですね、前に進みたいお気持ち、全力で応援します。大きな職場は、人間関係も広くできていいかもしれません。職場の外でご相談ということですと、労働基準監督署がありますが、いかがでしょうか？",
+      "content": "Yes, I fully support your wish to move forward. A larger workplace might allow for broader relationships. If you’re seeking support outside your workplace, there is the Labor Standards Inspection Office—how would you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:27:45",
+      "origin": "ありがとうございます。知ってはいますが、なんだか、いろいろきかれそうで怖いです。匿名ですか？",
+      "content": "Thank you. I’ve heard of it, but I’m scared they might ask a lot of questions. Can it be anonymous?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:28:35",
+      "origin": "それはどこにありますか？",
+      "content": "Where is it located?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:29:30",
+      "origin": "何をしてくれるところですか？",
+      "content": "What do they do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:29:40",
+      "origin": "そうなんですね、少し怖く思われるかもしれません。労働基準監督署は、どの都道府県にもあります。例えば、『労働基準監督署　○○県』で検索すると出てきます。",
+      "content": "I understand—it can feel a bit intimidating. The Labor Standards Inspection Office exists in every prefecture. For example, if you search for 'Labor Standards Inspection Office + [Prefecture]', it should come up."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:30:06",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:30:43",
+      "origin": "でも、もう闘う元気がないので、辞めたいです。",
+      "content": "But I don't have the energy to fight anymore, so I just want to quit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:31:28",
+      "origin": "そうですね、今までずっと闘ってきたのですものね",
+      "content": "I understand. You've been fighting for so long, after all."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:32:15",
+      "origin": "はい、1人で闘えないし、休みの日まで考えるのもしんどい",
+      "content": "Yes, I can’t keep fighting alone, and it’s exhausting to think about it even on my days off."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:33:05",
+      "origin": "もっと必要とされていると感じられる仕事がしたい",
+      "content": "I want a job where I can feel more needed."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:33:46",
+      "origin": "そうなんですね、休みの日まで考えてしまうのですね。必要とされたいと考えるのは、自然なことだと思います。クリニックを辞めることは、できそうでしょうか。",
+      "content": "I see—you find yourself thinking about it even on your days off. Wanting to feel needed is natural. Do you think you would be able to leave the clinic?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:33:47",
+      "origin": "あなたは、なぜ、このお仕事をされているのですか？",
+      "content": "Why do you do this line of work?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:35:39",
+      "origin": "簡単にやめられなさそうで、辞める前にいじめられたり、引き止められそうです。辞めた人はみんなそうでした。",
+      "content": "It doesn't seem like I can quit easily. I think they'll bully me or try to pressure me to stay before I can leave. That's what happened to everyone who quit."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:36:28",
+      "origin": "でも、今まで1人でがんばってきたから、これで最後だと思えば、やり遂げられるかな。",
+      "content": "But I've been doing my best on my own until now, so if I think of this as the final hurdle, maybe I can get through it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:36:33",
+      "origin": "誰かの力になりたいと思ったからですそうなんですね、辞めるのにも闘わなくてはいけないかもしれないのですね",
+      "content": "It's because I wanted to be of help to someone. I see, so you may have to fight just to be able to quit."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:37:00",
+      "origin": "はい、それが1番の難関です。",
+      "content": "Yes, that’s the biggest hurdle."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:38:17",
+      "origin": "力強いお言葉です辞めたい、辞めさせてもらえない、という相談も、労働基準監督署で聞いてくれることがありますので、味方の候補にしていただければと思います",
+      "content": "Those are powerful words. The Labor Standards Inspection Office can also consult on issues like 'I want to quit, but they won't let me,' so please keep them in mind as a potential ally."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:38:30",
+      "origin": "当たり前ですが、ちゃんと考えておられるんですね。こういう時はなんといえば、辞めやすいと思いますか？",
+      "content": "Of course, it's your job, but I can tell you've really thought about this. In a situation like this, what do you think I should say to make it easier to resign?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:38:59",
+      "origin": "なるほど、味方なんですね、そこは。",
+      "content": "I see, so they're on my side."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:39:48",
+      "origin": "そんな話しまできいてくれるんですか？",
+      "content": "They'll listen to things like that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:40:49",
+      "origin": "それは無料ですか？",
+      "content": "Is it free?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:41:52",
+      "origin": "お話を聞いていて、どう言っても聞き入れてもらえないかもしれないクリニックだな、という印象があります。相談者様は、どんな風に辞めたい、など希望はありますか？労働基準監督署の相談は無料ですよ。電話相談の場合通話料はかかります。",
+      "content": "From what I’ve heard, I get the impression that your clinic might not accept your wishes no matter how you put it. Do you have any preferences for how you would like to resign? Consultations with the Labor Standards Inspection Office are free. If you call, standard phone charges apply."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:42:44",
+      "origin": "情報ありがとうございます。どんな風ですか？たとえば？",
+      "content": "Thank you for the information. What do you mean by 'how'? For example?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:43:24",
+      "origin": "たとえば、円満退社がいい、とか、どう思われてもいいからとにかく辞めたい、などです",
+      "content": "For example, whether you'd prefer an amicable resignation, or you just want to leave regardless of what others think."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:44:15",
+      "origin": "どんな形でもいいから、すんなり辞めたいです。それによって何か違うのですか？",
+      "content": "I just want to quit smoothly, in any way possible. Does it make a difference?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:46:11",
+      "origin": "すんなり、ということは短い期間で、ということでしょうか。そちらのクリニックに長くお勤めのようだったので、理由によっては退職金が出ないなどの不利益が出てはと考えました",
+      "content": "By 'smoothly,' do you mean within a short period of time? Since you've worked at the clinic for a long time, I was concerned that depending on the reason, you might face disadvantages, such as not receiving severance pay."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:46:37",
+      "origin": "なるほど、そうですね。",
+      "content": "I see, that makes sense."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:47:03",
+      "origin": "やりたいことを探して辞めたいです",
+      "content": "I want to find something I want to do and then quit."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:47:51",
+      "origin": "すんなりは、あんまり、ゴタゴタなくというニュアンスでした。",
+      "content": "By 'smoothly,' I meant without too much trouble."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:48:18",
+      "origin": "最後までゴタゴタはしたくないので",
+      "content": "I don’t want things to get messy right at the very end."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:48:44",
+      "origin": "ゴタゴタしたくないですよね。目標があるのはいいですね。次の仕事が決まっていれば、先方も引き留めづらいと思います。",
+      "content": "Of course you don't want trouble. It's good to have a goal. If you already have your next job lined up, it would be harder for them to try and keep you."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:49:16",
+      "origin": "やっぱりそうですよね",
+      "content": "I figured as much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:49:39",
+      "origin": "ちなみに、今まで辞めた方はどんな理由だったんですか？",
+      "content": "By the way, what reasons did the people who quit before give?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:49:42",
+      "origin": "でも、やりたいことがわからない",
+      "content": "But I don’t know what I want to do."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:51:08",
+      "origin": "結婚退職、けんか退職、同じ関係の転職、みんな、何かしら、裏でコソコソ言われてました。",
+      "content": "Leaving to get married, quitting after a fight, moving to a similar job... everyone was secretly gossiped about behind their backs for one reason or another."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:52:10",
+      "origin": "悪口、陰口がひどい職場です。",
+      "content": "It’s a workplace with terrible gossip and backbiting."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:54:10",
+      "origin": "そうなんですね、色々見送って来られたのですね。悪口や陰口は聞くだけでも嫌な気持ちになりますね。",
+      "content": "I see, so you've seen many people leave. Just hearing gossip and backbiting is unpleasant, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:54:44",
+      "origin": "それが1番イヤ！",
+      "content": "That’s what I hate the most!"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:55:14",
+      "origin": "職場選択間違った",
+      "content": "I chose the wrong workplace."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:55:48",
+      "origin": "我慢しすぎました。",
+      "content": "I've put up with it for too long."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:56:53",
+      "origin": "本当に我慢強くていらっしゃいます。ゴタゴタしないために、決意を見せる必要があると思います。辞表を書く、残りの在職期間を短くする、などいかがでしょうか",
+      "content": "You really are very patient. To avoid any trouble, I think it's necessary to show your resolve. How about writing a letter of resignation or shortening your remaining time at work?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:57:51",
+      "origin": "以前、辞めるなら、半年前にと、その先輩同僚に言われました。",
+      "content": "That senior colleague once told me that if I were to quit, I had to give six months' notice."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T14:58:38",
+      "origin": "そうなんですね、みなさんそのルールを守ってらっしゃるのですか？",
+      "content": "I see. Does everyone follow that rule?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:58:43",
+      "origin": "今から決意を固めないととは思っています。",
+      "content": "I do feel I need to firm up my resolve now."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T14:59:59",
+      "origin": "違うんです。私の受付だけです。私1人なんで、先輩同僚もできます。だから、私辞めても困らないと思います。",
+      "content": "No, it's different. It only applies to my reception position. Since I'm the only one, the senior colleagues can also do the job. So I don't think it would be a problem if I quit."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T15:01:19",
+      "origin": "受付はいつも私1人です。休んだ時は、先輩同僚がやってます",
+      "content": "I'm always the only one at reception. When I take a day off, my senior colleagues cover for me."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T15:01:59",
+      "origin": "扱いが、私だけ他と違うのもムカつく1つ",
+      "content": "The fact that I'm treated differently from everyone else is one of the things that's so frustrating."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T15:02:34",
+      "origin": "そうなんですね、部署のルールなんですね…お休みの日も考えてしまう、ということだったので、苦しさに潰されてしまうのが心配です。そうなる前に、例えばほかのクリニックで診断書を書いてもらうというのもありかとは思います。",
+      "content": "I see, so it's a rule for your department... You mentioned that you think about it even on your days off, so I'm worried that the distress might become overwhelming for you. Before that happens, one option might be to get a doctor's note from another clinic, for example."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T15:03:49",
+      "origin": "診断書？精神的に、まだ、潰されてはないです。",
+      "content": "A doctor's note? Mentally, I haven't been crushed yet."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T15:06:12",
+      "origin": "他のクリニックとはたとえば？",
+      "content": "What do you mean by another clinic, for example?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T15:08:14",
+      "origin": "はい、念のための補足でした。身体に不調が出るようですと、お医者にかかる方がよいかと思ったのです。お話の途中ですが、お時間になってしまいました。次回も、途中からお話しいただくことができますので、よろしければまたおいでください。",
+      "content": "Yes, that was just a suggestion, just in case. I thought that if you start to experience physical symptoms, it would be best to see a doctor. I'm sorry to interrupt, but our time is up. We can continue our conversation from where we left off next time, so please come again if you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T15:09:28",
+      "origin": "はい、そうですね。そうさせていただきます。今日はありがとうございました。",
+      "content": "Yes, you're right. I will do that. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T15:10:41",
+      "origin": "今日は大切なお話を聞かせてくださって、ありがとうございました。前に進もうとするお気持ち、応援しております。では、終了のアナウンスを流させていただきます。",
+      "content": "Thank you for sharing your important story with me today. I'm rooting for you as you try to move forward. I will now play the closing announcement."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T15:10:55",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-16T15:11:06",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-16T15:12:17",
+      "origin": "最後にロールプレイを終了するを押して下さいね",
+      "content": "Lastly, please press the 'End Role Play' button."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "パワハラによる退職希望"
+  },
+  "review_by_client": {
+    "evaluation_id": 6870,
+    "evaluation_created_at": "2024-05-16T16:35:00",
+    "client_id": 483,
+    "counselor_id": 478,
+    "score": 65,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

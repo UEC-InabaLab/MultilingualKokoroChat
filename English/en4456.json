@@ -1,0 +1,489 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:00:12",
+      "origin": "こんばんは。相談員です。本日はご相談にお越しいただきありがとうございます。まずはじめに、年齢、性別、本日の相談内容を聞かせていただけますか。",
+      "content": "Good evening. I'm the counselor. Thank you for coming in for a consultation today. First, could you please tell me your age, gender, and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:01:04",
+      "origin": "40歳　女　子どものことについて相談したいです。",
+      "content": "I'm 40, female. I'd like to talk about my child."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:02:02",
+      "origin": "お答えいただきありがとうございます。お子さんのご相談ですね。具体的お伺いしてよろしいですか。",
+      "content": "Thank you for sharing. So it’s about your child. May I ask for some specifics?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:02:49",
+      "origin": "子どもが学校で色々起こします",
+      "content": "My child causes various issues at school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:03:14",
+      "origin": "どんなことをおこされるのでしょうか。",
+      "content": "What kinds of things does your child do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:04:26",
+      "origin": "席に座らないとか友達とトラブル起こすとか教室から出て行くとか、色々学校から言われて困ります。",
+      "content": "They won’t stay in their seat, get into trouble with friends, leave the classroom—the school tells me various things, and I’m at a loss."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:05:06",
+      "origin": "なるほど、お子さんのそういった行動にお困りなんですね。",
+      "content": "I see—you’re finding those behaviors challenging."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:05:36",
+      "origin": "色々言われてもどうしていいか分からず、困ります",
+      "content": "I'm told so many things, but I don't know what to do, and it's distressing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:06:23",
+      "origin": "そうですよね、困ってしまいますよね。ちなみにお子さんはおうちではどのように過ごされているのでしょうか。",
+      "content": "I understand, that must be very distressing. By the way, how does your child spend time at home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:06:51",
+      "origin": "テレビを見たり、ゲームしたりです",
+      "content": "They watch TV and play games."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:07:26",
+      "origin": "なるほど、おうちでは特に困ったことなく過ごされている感じでしょうか。",
+      "content": "I see. Does it seem like there aren’t any particular difficulties at home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:08:26",
+      "origin": "はい。でも最近はゲームの時間が長く、言ってもなかなかやめないのは困ってます",
+      "content": "Yes. But lately, they've been playing games for a long time, and it's a problem that they won't stop even when I tell them to."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:10:24",
+      "origin": "そうなんですね。おうちではゲーム時間が長くて困ることはあるけれど、その他大きなお困りごとはななさそうといった理解で大丈夫ですか。",
+      "content": "I see. So at home, the main difficulty is the long gaming time, and otherwise, there aren’t major concerns—is that accurate?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:10:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:11:38",
+      "origin": "先ほど学校からいろいろ言われるというお話でしたが、それはどのくらい前からなのでしょうか。",
+      "content": "You mentioned the school has been raising various issues—how long has that been going on?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:12:15",
+      "origin": "今、2年生ですが、入学してからずっとです",
+      "content": "They're in second grade now, and it's been happening ever since they started school."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:12:33",
+      "origin": "学童もあります",
+      "content": "It also happens at after-school care."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:13:18",
+      "origin": "そうだったんですね。学童の方でもそういったことがあるということでしょうか。",
+      "content": "I see. So, are similar issues happening at the after-school program as well?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:13:38",
+      "origin": "最近は学童の方が多いです",
+      "content": "Lately, it happens more often at the after-school program."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:14:21",
+      "origin": "学童の方が多いのですね。特にどんなことを言われるのが一番多いなと感じますか。",
+      "content": "So it's happening more at the after-school program. What concerns do you feel you hear about most often?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:15:05",
+      "origin": "友達とトラブルや先生の話を聞かないことですかね",
+      "content": "Trouble with friends and not listening to the teachers, I suppose."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:16:16",
+      "origin": "そういったお話をされることが多いんですね。そのお話をいただいた後、お子さんとは話されますか。",
+      "content": "I see—so those are the common reports. After hearing that, do you talk with your child about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:16:54",
+      "origin": "話しますが、あまり聞いてない気がします。",
+      "content": "I do, but I feel like they don’t really listen."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:17:34",
+      "origin": "話し合いの努力をされているのですね、素晴らしいと思います。",
+      "content": "You’re making an effort to talk it through—that’s commendable."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:17:53",
+      "origin": "毎回、話してます。",
+      "content": "I talk to them every time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:18:37",
+      "origin": "毎回きちんとお子さんと向き合ってらっしゃるんですね。どんなふうにお話はされていますか。",
+      "content": "You face your child sincerely each time. How do you usually talk with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:18:56",
+      "origin": "抱きしめながら、話してます",
+      "content": "I talk to them while hugging them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:20:34",
+      "origin": "なるほど、抱きしめながらお話しているんですね。先ほど、あまり聞いていない感じがするとお話されていましたが、それはどんなところから感じられるのでしょうか。",
+      "content": "I see, so you talk while hugging them. You mentioned earlier that you feel they're not really listening. What makes you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:21:19",
+      "origin": "顔を背けながら聞いてるからです",
+      "content": "Because they listen while turning their face away."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:21:58",
+      "origin": "抱きしめているときに、顔をそむけるということでしょうか。",
+      "content": "Do you mean they turn their face away while you're hugging them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:22:18",
+      "origin": "左右に動いてます。",
+      "content": "They move it from side to side."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:22:49",
+      "origin": "じっとすることがあまりできないので",
+      "content": "Because they can't really stay still."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:23:43",
+      "origin": "そうなんですね。そいいったところから、あまり聞いていないのではと感じるのですね。",
+      "content": "I see. So that's what makes you feel they might not be listening."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:23:56",
+      "origin": "なんとなくですが",
+      "content": "It's just a feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:25:11",
+      "origin": "よくお子さんのことを見ていらっしゃるんですね。お子さんからは何かお話しているときに、どう思っているのかなど話はありますか。",
+      "content": "You observe your child very closely. When you're talking, does your child ever say anything about what they're thinking or how they're feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:25:38",
+      "origin": "自分の気持ちはあまり話せません",
+      "content": "They don’t really express their own feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:27:16",
+      "origin": "そうなんですね。あなたから見て、お子さんは学校でのトラブルのことをどのように感じているように思いますか。",
+      "content": "I see. From your perspective, how do you think your child feels about the troubles at school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:28:28",
+      "origin": "分かりません。先生には、感情を言葉にするのが苦手だと言われたことがあります。",
+      "content": "I don't know. A teacher once told me that they have difficulty putting their emotions into words."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:29:08",
+      "origin": "でも学校や学童が嫌いではないと思いますが",
+      "content": "But I don’t think they dislike school or the after-school program."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:29:41",
+      "origin": "そう感じていらっしゃるのですね。それは、どんなところから感じましたか。",
+      "content": "So that's how you feel. What makes you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:30:18",
+      "origin": "友達と遊ぶのは好きだし、先生のことも好きみたいです。",
+      "content": "They like playing with friends, and they seem to like their teachers too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:31:16",
+      "origin": "楽しく学校に通われているんですね。",
+      "content": "So they do enjoy going to school."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:32:03",
+      "origin": "遊んでいるときは楽しそうです",
+      "content": "They look happy when they’re playing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:32:47",
+      "origin": "うんうん。逆に勉強などの時はどうでしょうか。",
+      "content": "Mm-hm. On the other hand, how are they during study time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:34:59",
+      "origin": "去年は座ってノートに書いたりもしてると先生が言ってましたが、今年は教室外に出て勉強してないみたいです。学童でも宿題をしないと言われます。",
+      "content": "Last year, the teacher said they would sit and write in their notebook, but this year it seems they leave the classroom and don't study. I'm also told they don't do their homework at the after-school program."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:36:29",
+      "origin": "なるほど、勉強に対してはあまり集中して取り組むことは難しそうな状況なんですね。",
+      "content": "I see; it sounds like it's challenging for them to focus on studying."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:37:35",
+      "origin": "去年は宿題もやってたんですけど…",
+      "content": "They did their homework last year, though…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:39:57",
+      "origin": "昨年までは宿題も頑張って取り組んでいらっしゃったんですね。お話をお聞きしてきて、この子の個性として自分の感情がうまく表出できないことや、じっとしていられないといったことがあり、それが学校生活を困難にさせているのかなと感じたのですが、いかがですか。",
+      "content": "Up through last year, they were making an effort with their homework. From what I’ve heard, it seems that aspects of your child’s temperament—such as difficulty expressing their feelings and an inability to stay still—may be making school life difficult for them. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:40:42",
+      "origin": "はい。みんなのようにできないみたいです",
+      "content": "Yes. It seems they can’t do things like everyone else."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:41:59",
+      "origin": "できないことばかり言われて…どうしていいか、わからないです。",
+      "content": "People keep pointing out what they can’t do… I don’t know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:42:51",
+      "origin": "うんうん。みんなとなかなか同じようにでいないのは、あなたや、周囲の方、何より本人も怒られたりするので苦しいと思います。",
+      "content": "Mm-hm. Not being able to do things the same way as everyone else must be difficult—for you, for those around you, and especially for your child, who gets scolded for it."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:43:19",
+      "origin": "かわいそうにも感じます。",
+      "content": "I feel sorry for them, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:46:09",
+      "origin": "かわいそうにも感じるんですね。あなたのお子さんへの愛情が伝わってきます。お話を聞かせていただいた中で、まずは生活のどんな場面にこの子が困難さを抱えているのかを知り、その困難さを乗り越えるために周囲の力を借りることも必要なのかなと思ったのですが、いかがでしょうか。",
+      "content": "You feel sorry for them. That shows how much you care for your child. From what you’ve shared, I think it might be helpful to first identify in which situations your child faces difficulties, and then to enlist support from others to help them overcome those challenges. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:47:30",
+      "origin": "誰に頼ればいいですか？朝の登校は付き添いをしてます。病院にも行きました",
+      "content": "Who should I ask for help? I already accompany them to school in the morning. We've also been to the hospital."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:48:27",
+      "origin": "1ヶ月に1回、薬をもらって、毎日飲んでます。",
+      "content": "We get medication once a month, and they take it every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:49:02",
+      "origin": "やはり学校での困難さが目立っているので、先生とこの子の特徴についてお話するのは1つ大切かなと感じたのですがいかがでしょうか。",
+      "content": "Since the challenges at school stand out, I feel it would be important to talk with the teacher about your child’s characteristics. How would you feel about that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:49:22",
+      "origin": "病院ではどのように言われていますか。",
+      "content": "What has the doctor said?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:50:18",
+      "origin": "去年は学童に迎えに行く時に話すことが多かったですが、今年は担任の先生が3回変わっています",
+      "content": "Last year, I often spoke with the staff when I picked my child up from the after-school program, but this year, the homeroom teacher has changed three times."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:50:47",
+      "origin": "薬の量について話してます",
+      "content": "We talk about the medication dosage."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:51:13",
+      "origin": "そうだったんですね。それはなかなかお話する機会が持てず、難しかったですね。今の先生とはお話しできそうですか。",
+      "content": "I see. It must have been difficult to find an opportunity to talk. Do you think you could talk with the current teacher?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:52:37",
+      "origin": "どんなことを話したらいいですか？",
+      "content": "What should I talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:54:31",
+      "origin": "どんな状況だったかは、前の担任から聞いてると思いますが、どう話したらよいのか、またできないことを言われるのではないかと。",
+      "content": "I assume they've heard about the situation from the previous teacher, but I don’t know how to approach the conversation, and I worry I'll just be told about what my child can’t do again."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:56:05",
+      "origin": "仕事があるので、毎回授業を見に行くのは難しいです",
+      "content": "I have work, so it's difficult for me to go and observe class every time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:56:35",
+      "origin": "なるほど、不安な気持ちがおありなんですね。あらかじめ、先生にお子さんの困難を取り除くために一緒に考えてほしいとお伝えしたうえで、お話するのはいかがでしょうか。",
+      "content": "I see that you're feeling anxious about this. How about framing the conversation by first telling the teacher that you'd like to work together to help your child overcome their difficulties?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:57:18",
+      "origin": "一番近くで今まで見てきたあなただからこそ、",
+      "content": "Because you're the one who has been watching them the closest all this time,"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T19:57:47",
+      "origin": "はい。色々言われるのは、辛いです。",
+      "content": "Yes. It’s painful to be told all these things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T19:58:57",
+      "origin": "そうですよね。この子をどのように扱うとよいのか誰よりも知っている部分があると思います。その部分をぜひ先生にも共有していただけりと、周りもこの子の理解につながるのかなと思いました。",
+      "content": "I understand. I believe you know better than anyone what approaches work well with your child. If you could share those insights with the teacher, I think it would help others around them understand your child better."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T20:00:16",
+      "origin": "とは言っても、なかなか伝えるのは難しい部分もあると思います。もし、やっぱり難しいと感じれば、またここで一緒に解決策を考えていきませんか。",
+      "content": "That said, I know it can be difficult to convey all of this. If it still feels too difficult, would you like to come back here and we can think through solutions together?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T20:00:22",
+      "origin": "仲良くしてくれる子もいるけど、いつも怒ってくる子や親もいます。",
+      "content": "There are children who are kind to my child, but there are also kids and parents who are always angry with us."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T20:00:45",
+      "origin": "行き違いになってしまいましたね、続けてください。",
+      "content": "It seems our messages crossed. Please continue."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T20:01:52",
+      "origin": "難しいですね。今日はありがとうございました",
+      "content": "It’s difficult. Thank you for today."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T20:02:41",
+      "origin": "(ありがとうございました。勉強させて頂きました)",
+      "content": "(Thank you very much. I learned a lot.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T20:03:02",
+      "origin": "とんでもないです。すごく大切なお話だと思うので、またここで続きを聞かせてください。",
+      "content": "Not at all. I think this is a very important discussion, so please come back and let me hear the rest of the story."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-14T20:03:17",
+      "origin": "はい。またお願いします",
+      "content": "Yes. I’ll come again, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-14T20:04:01",
+      "origin": "（こちらこそありがとうございました。大変勉強になりました。時間すぎてしまい申し訳ありません。ロールプレイ終了させていただきます。）",
+      "content": "(Thank you as well. This was a great learning experience for me. I apologize for going over time. We will now conclude the role-play.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "子どもの学校での行動問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 4456,
+    "evaluation_created_at": "2023-01-17T19:24:00",
+    "client_id": 323,
+    "counselor_id": 344,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

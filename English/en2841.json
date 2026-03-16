@@ -1,0 +1,603 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-12-10T18:50:43",
+      "origin": "こんばんは、19時からよろしくお願いいたします。",
+      "content": "Good evening. I look forward to speaking with you from 7 p.m."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T18:51:10",
+      "origin": "こんばんは。宜しくお願いいたします。",
+      "content": "Good evening. I'm looking forward to it as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:00:21",
+      "origin": "それでは始めます",
+      "content": "Well then, let’s get started."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:00:33",
+      "origin": "こんばんは、相談員です",
+      "content": "Good evening, I'm your counselor."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:01:03",
+      "origin": "こんばんは",
+      "content": "Good evening."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:01:13",
+      "origin": "初めにあなたの年齢と性別をおしえていただけますか？",
+      "content": "To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:01:29",
+      "origin": "30代　女性です",
+      "content": "I'm a woman in my 30s."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:01:38",
+      "origin": "教えてくださりありがとうございます",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:01:56",
+      "origin": "今日はどのようなご相談でしょうか？",
+      "content": "What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:02:46",
+      "origin": "あの、母の事で相談なんですが…どうも除霊とかよくわからないものにハマってしまっているようでして…",
+      "content": "Um, I'd like to talk about my mother... It seems she's gotten really into something I don't quite understand, like exorcisms."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:03:11",
+      "origin": "それは気になりますね",
+      "content": "That does sound concerning."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:03:44",
+      "origin": "もう少し詳しくお聴かせいただけますか？",
+      "content": "Could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:05:35",
+      "origin": "はい、母は知り合いから紹介されたみたいなんですけど、なんか色々と私に見てもらったら？とか私まで巻き込もうとしてるので、困っていて…",
+      "content": "Yes, it seems my mother was introduced to it by an acquaintance, and now she's trying to get me involved, asking things like, \"Why don't you have them look at you?\" and it's troubling me..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:07:10",
+      "origin": "そうでしたかただでさえ心配なのに、巻き込まれそうになるのは余計にいやですよね",
+      "content": "I see. It must be worrying enough as it is, and being pressured to get involved must make it even more unpleasant."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:08:47",
+      "origin": "そうなんです、家族の生年月日とかその除霊師みたいな人に勝手に教えて、勝手に助言とかもらってなんだか騙されてるんじゃないのかって思えてしまうんです",
+      "content": "That's right. She's giving our family's birthdates to this exorcist-like person without our permission, getting unsolicited advice, and it makes me think she's being deceived."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:10:20",
+      "origin": "いつの間にか話が進んでいっている感じですね",
+      "content": "It sounds like things are progressing without you being aware of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:10:35",
+      "origin": "とても心配なことと思います",
+      "content": "I imagine that's very worrying for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:11:39",
+      "origin": "多分その度にお布施みたいなものとしてお金は払っているでしょうし、あまりのめり込んでもらいたくないところです…",
+      "content": "She's probably paying money each time, like an offering, and I really don't want her to get too deep into this..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:12:43",
+      "origin": "もし、お金をいっぱい払わされていたらと思うと気が気ではありませんよね",
+      "content": "The thought that she might be being pressured to pay a lot of money must be very unsettling."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:13:51",
+      "origin": "そうですね…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:14:47",
+      "origin": "お母様がそういったものにはまったきっかけは、どんなことが考えられますか？",
+      "content": "What do you think might have triggered your mother's interest in something like this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:16:00",
+      "origin": "私の予想では、兄が結婚して同居を始めたからなんではないかな、とは思っています",
+      "content": "My guess is that it’s because my older brother got married and they started living together."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:16:16",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:16:19",
+      "origin": "いわゆる嫁姑問題ではないかなと",
+      "content": "I think it might be what you'd call a classic mother-in-law/daughter-in-law problem."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:17:12",
+      "origin": "お母様とお兄様のお嫁さんと仲がよくないということですね",
+      "content": "So your mother and your brother’s wife are not getting along, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:17:58",
+      "origin": "よく母は愚痴をこぼしているので、仲は良くないと思います",
+      "content": "My mother often complains about her, so I don't think they get along."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:18:21",
+      "origin": "そうでしたか",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:18:32",
+      "origin": "ええ…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:21:44",
+      "origin": "辛いことがあって霊的なものにすがっているのかもしれませんね",
+      "content": "Perhaps she's clinging to something spiritual because she's going through a difficult time."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:22:22",
+      "origin": "ええ、そうですね…",
+      "content": "Yes, I think so..."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:23:22",
+      "origin": "除霊師の人に、そのお嫁さんの悪い気が足に憑いてると言われたそうです",
+      "content": "Apparently, the exorcist told her that the daughter-in-law’s bad energy is attached to her legs."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:24:17",
+      "origin": "そんなことを言われたんですか・・・それを聴いてどう思いましたか？",
+      "content": "They told her that? How did you feel when you heard that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:24:54",
+      "origin": "うわ、きた…って思いました",
+      "content": "I thought, “Oh no, here we go…”"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:25:29",
+      "origin": "そう思うのも当然ですよね",
+      "content": "It’s completely understandable to feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:26:33",
+      "origin": "足に憑いているというのは、お母様は足の具合が悪いのですか？",
+      "content": "When they say it’s attached to her legs, does your mother have trouble with her legs?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:26:34",
+      "origin": "ええ、見えないものですから、そこを信じ切ってしまうのは私はどうも怪しく思えてしまうので",
+      "content": "Yes, because it's something invisible, I find it very suspicious that she believes it so completely."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:27:05",
+      "origin": "そうですね、膝が痛い、痛いとはよく言っていました",
+      "content": "That's right, she often complained that her knees hurt."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:27:06",
+      "origin": "そうですよね",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:28:42",
+      "origin": "それで除霊をしてもらったら少し楽になった、なんて言っていたものですから、これはマズイなとは思いました",
+      "content": "And then she said that after she had the exorcism, it felt a little better, which made me think this is really not good."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:28:45",
+      "origin": "行き違ってしましました",
+      "content": "We seem to have crossed messages."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:28:56",
+      "origin": "あ、私の方もすみません",
+      "content": "Oh, sorry on my end as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:29:14",
+      "origin": "いえいえ",
+      "content": "Not at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:30:21",
+      "origin": "除霊する人の言うことを真に受けると、ますますお嫁さんと仲が悪くなりそうですよね",
+      "content": "If she takes what the exorcist says to heart, it seems likely her relationship with her daughter-in-law will get even worse."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:32:13",
+      "origin": "少し険悪になってきているのがわかるので、どうにかならないものかなと思っているところです",
+      "content": "I can see it's already getting a bit tense, so I'm wondering if there's anything that can be done."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:32:43",
+      "origin": "あなたが心配になるのはもっともなことだと思います",
+      "content": "I think it's very reasonable for you to be worried."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:33:10",
+      "origin": "ところで、お兄様はどういった態度でいらっしゃるのでしょうか？",
+      "content": "By the way, what is your brother's attitude about this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:34:00",
+      "origin": "兄の話は全く出てこないので、なんともいえないのですが…",
+      "content": "He never comes up in the conversation, so I can't really say..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:34:09",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:36:20",
+      "origin": "（お聴きしていますね）",
+      "content": "(I’m listening.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:37:37",
+      "origin": "私が口を出すと揉めてしまいそうなので、母としか話はしないようにはしているのですが、母をとめる事もできなくて",
+      "content": "I feel like if I say something it will cause a fight, so I only talk to my mother about it, but I can't seem to stop her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:39:08",
+      "origin": "なるほど・・・とてももどかしい状況なんですね",
+      "content": "I see... it sounds like a very frustrating situation."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:39:15",
+      "origin": "信じ切っている場合は多分説得は難しいですよね",
+      "content": "When someone completely believes in something, it's probably difficult to persuade them, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:40:42",
+      "origin": "そうかもしれませんね",
+      "content": "That may be the case."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:40:51",
+      "origin": "ええ…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:41:21",
+      "origin": "これまでのお話をまとめさせていただいてもよろしいですか？",
+      "content": "Would it be alright if I summarized what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:41:33",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:43:12",
+      "origin": "あなたのお母様が怪しげな除霊のようなものに嵌まっていて心配で仕方が無い",
+      "content": "You're extremely worried because your mother has gotten involved in something like a suspicious exorcism."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:43:40",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:44:14",
+      "origin": "そうなったのは、お母様とお兄様のお嫁さんとの不仲のせいではないかと思われる",
+      "content": "You believe this may be due to the poor relationship between your mother and your brother's wife."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:44:27",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:45:41",
+      "origin": "除霊する人にお嫁さんの悪いもののせいでお母様の足が悪くなっているとまで言われてお母様はすっかり信じてしまい",
+      "content": "The exorcist even said that your mother's leg problem is due to bad energy from the daughter-in-law, and your mother completely believes it,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:46:53",
+      "origin": "ますますお嫁さんとの仲が悪くなりそうだし、",
+      "content": "which seems likely to further worsen her relationship with the daughter-in-law, and"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:47:44",
+      "origin": "お金をいっぱい払わされそうだ",
+      "content": "she may be made to pay a lot of money."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:47:50",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:48:11",
+      "origin": "とても心配で気が気ではないということでしょうか？",
+      "content": "Is it correct to say that you're so worried you can't rest easy?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:49:27",
+      "origin": "そうですね、年金をそこにつぎ込んで後で後悔するハメにならなければいいのだけれど、といった感じですね、",
+      "content": "That's right. I'm just hoping she doesn't end up pouring her pension into this and regretting it later."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:51:19",
+      "origin": "確かにそういうことも心配になってきますよね",
+      "content": "That is certainly something to be concerned about."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:52:06",
+      "origin": "あなたとしては何としてもそれをくいとめたいですよね",
+      "content": "It sounds like you want to stop this no matter what."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:52:35",
+      "origin": "はい…どうもインチキ臭いので",
+      "content": "Yes… It all feels pretty sketchy."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:54:59",
+      "origin": "お母様がそんなことになるのを、何としても食い止めたいと思っていらっしゃるあなたは、お母様思いの優しい方なのだと思います",
+      "content": "Wanting to stop your mother from going down this path shows that you are a very kind and caring person who thinks of their mother."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:55:41",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:56:36",
+      "origin": "どうしたらそれが可能になるかを一緒に考えてみましょうね",
+      "content": "Let’s think together about how we can make that possible."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:57:24",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T19:58:38",
+      "origin": "今までしてなかったことで、あなたにできそうなことは、どんなことがありそうですか？",
+      "content": "What are some things you haven't tried yet that you might be able to do?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T19:59:24",
+      "origin": "そうですね、私ができる事は話を聞くことくらいしかできなさそうです、、",
+      "content": "Well, it seems like the only thing I can do is listen to her..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:00:00",
+      "origin": "そう思われているのですね",
+      "content": "That’s how you’re feeling about it."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:00:06",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:01:34",
+      "origin": "あなたは夫婦間の揉め事に巻き込まれたくなくて、お兄様とは話をされていないとのことですが",
+      "content": "You mentioned you haven't spoken with your brother because you don't want to get involved in their marital issues, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:03:00",
+      "origin": "除霊のことについてなら、お兄様とお話することはできそうですか？",
+      "content": "do you think you might be able to talk to your brother about the exorcism?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:04:34",
+      "origin": "ちょっと言いづらいかな…とは思ってます、、、",
+      "content": "I think it would be a bit difficult to bring up..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:04:51",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:04:56",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:05:45",
+      "origin": "どんなところに言いづらさをお感じでしょうか？",
+      "content": "What about it makes you feel it would be difficult to bring up?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:07:11",
+      "origin": "やっぱり家族といえど、よその家庭の話になっちゃうよな…みたいな感じですね、",
+      "content": "It's like, even though he's family, it feels like I'd be meddling in another household's affairs..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:09:13",
+      "origin": "よその家族のことには口をだしたくないんですね",
+      "content": "So you don't want to interfere in another family's matters."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:09:45",
+      "origin": "わりとそんな感じになっちゃいますね、",
+      "content": "Yes, that’s pretty much how it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:10:31",
+      "origin": "（落とし所には至っていませんが、時間が過ぎているので、この辺りで終了といたしましょうか？）",
+      "content": "(We haven't reached a conclusion, but since our time is up, shall we end here for today?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:11:04",
+      "origin": "（そうですね、時間なので大丈夫ですよ(◠‿・)—☆）",
+      "content": "(Yes, since time's up, that's fine (◠‿・)—☆)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:11:04",
+      "origin": "（すぐに統合とは行きそうもないので）",
+      "content": "(It doesn't seem like we'll reach a resolution right away.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:11:31",
+      "origin": "（そうですね…(笑)）",
+      "content": "(Yes, that’s true… (laughs))"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:12:02",
+      "origin": "（忌憚のないご意見をお待ちしています）",
+      "content": "(I welcome your candid feedback.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:12:27",
+      "origin": "（それではロールプレイを終了してもよろしいですか？）",
+      "content": "(Then, shall we conclude the role-play?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-10T20:12:42",
+      "origin": "（いえいえ、面倒くさい案件をすみません、ありがとうございました(◠‿◕)）",
+      "content": "(Not at all, thank you for dealing with such a troublesome case. Thank you. (◠‿◕))"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-10T20:13:06",
+      "origin": "（こちらこそ、ありがとうございました）",
+      "content": "(Thank you as well.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 2841,
+    "evaluation_created_at": "2021-12-10T20:59:00",
+    "client_id": 235,
+    "counselor_id": 92,
+    "score": 68,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

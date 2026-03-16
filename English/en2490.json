@@ -1,0 +1,753 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-09-24T13:25:27",
+      "origin": "よろしくお願いいたします",
+      "content": "Thank you for seeing me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:28:52",
+      "origin": "こんにちは相談員です。よろしくお願いいたします。",
+      "content": "Hello, I'm the counselor. Thank you for reaching out."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:29:14",
+      "origin": "(もう始まってますか？)",
+      "content": "(Has it started already?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:30:46",
+      "origin": "（ちょうどこれからです。）",
+      "content": "(We’re just about to begin.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:31:01",
+      "origin": "では、最初に年齢と性別を教えていただけますか？",
+      "content": "Okay, to begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:31:27",
+      "origin": "32歳　女です",
+      "content": "I’m 32, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:31:39",
+      "origin": "お返事ありがとうございます。",
+      "content": "Thank you for sharing that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:31:49",
+      "origin": "今日はどのようなご相談でしょうか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:32:15",
+      "origin": "夫とうまくいきません",
+      "content": "I'm not getting along with my husband."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:32:40",
+      "origin": "それはお困りでしょうね。",
+      "content": "That must be troubling for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:33:14",
+      "origin": "ご事情を話しやすいところからお話ししてみていただけますか？",
+      "content": "Could you please tell me about it, starting from wherever feels most comfortable for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:33:27",
+      "origin": "はい。内心で怒ってばかりいる自分がいやになります",
+      "content": "Yes. I'm tired of being so angry inside all the time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:33:57",
+      "origin": "そうなんですね。例えば、どんな事でなのですか？",
+      "content": "I see. For example, what kinds of things make you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:34:50",
+      "origin": "わたしは看護師なのですが、子供を預けながら働いてもいるのです",
+      "content": "I’m a nurse, and I work while my child is in daycare."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:35:29",
+      "origin": "日々お忙しくしていらっしゃるんですね。",
+      "content": "It sounds like you’re very busy day to day."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:36:24",
+      "origin": "はい子供のお迎えも、家事全般もほとんど私がしているのに、全く手伝う気がないみたいで",
+      "content": "Yes, I do almost all the daycare pickups and household chores, and he seems to have no intention of helping at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:37:13",
+      "origin": "そうなんですね。ほとんどワンオペになっていると、とっても大変でしょうね。",
+      "content": "I see. It must be extremely difficult if you're essentially doing it all alone."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:38:07",
+      "origin": "休みとかも自分の部屋でパソコンばかりいじっていてそれでも昼ごはんも私が作るの当たり前と思っているので",
+      "content": "Even on his days off, he just tinkers with his computer in his room and takes it for granted that I make lunch."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:38:39",
+      "origin": "この前も「またこれ？」とか言われて",
+      "content": "The other day, he even said something like, \"This again?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:39:16",
+      "origin": "そうなんですね。パートナーさんはすっかり食べる人になっていて、批判ばっかりという感じみたいですね。",
+      "content": "I see. It sounds like your partner only shows up to eat and mostly criticizes."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:40:39",
+      "origin": "はい私が具合悪くて横になるのも良い顔しないですし「俺の夕飯は？」とも言われました",
+      "content": "Yes, and he doesn't like it when I lie down because I'm not feeling well. He even asked, \"What about my dinner?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:41:03",
+      "origin": "あんまりですね・・・",
+      "content": "That's very inconsiderate..."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:41:56",
+      "origin": "他の家庭のお父さんはお迎えとか当たり前にやってくれてる話を聞くと落ち込みます",
+      "content": "When I hear stories about other fathers naturally helping with pickups and such, it makes me feel down."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:43:05",
+      "origin": "最近は結婚したのが間違えだったのかな、とか涙が出てきます",
+      "content": "Lately I find myself in tears, wondering if getting married was a mistake."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:43:40",
+      "origin": "そんなところまで、考えてしまうのですね。",
+      "content": "It’s gotten to the point where you’re thinking that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:44:04",
+      "origin": "疲れているのもあると思います",
+      "content": "I think being tired has a lot to do with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:44:34",
+      "origin": "きっとそうでしょうね。",
+      "content": "I'm sure that's a big part of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:45:07",
+      "origin": "この時期、日々のお仕事も大変でしょうに。",
+      "content": "Especially in these times, your daily work must be very demanding."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:45:34",
+      "origin": "本当に何役も、よくやっていらっしゃると思いますよ。",
+      "content": "I think you're doing an incredible job juggling so many roles."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:46:08",
+      "origin": "協力的な夫のいるお宅も周りにはいらっしゃるんですね。そんな夫さんたちを見ると、いいなと思ってしまいますよね。",
+      "content": "There are families around you with cooperative husbands, right? It must make you think how nice that would be."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:46:47",
+      "origin": "はい一時期看護師長もやっていたのですが子育てにあわせて役職を外してパートにしたのです",
+      "content": "Yes. I was a head nurse for a time, but to prioritize child-rearing I stepped down from the position and switched to part-time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:47:09",
+      "origin": "そうだったんですね。",
+      "content": "I see, so that's what happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:47:22",
+      "origin": "大変なご決断でしたね。",
+      "content": "That must have been a difficult decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:47:43",
+      "origin": "ちなみに、お子さんは何歳ですか？",
+      "content": "By the way, how old is your child?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:48:06",
+      "origin": "4歳です",
+      "content": "Four years old."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:48:31",
+      "origin": "男の子？　それとも女の子？",
+      "content": "Is it a boy or a girl?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:48:41",
+      "origin": "男の子です",
+      "content": "A boy."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:48:51",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:49:12",
+      "origin": "お子さんの健康状態はいかがですか？",
+      "content": "And how is your child's health?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:50:09",
+      "origin": "元気ですが、コロナもあってあまり外で発散させてあげられないです",
+      "content": "He’s healthy, but with COVID we can’t really let him blow off steam outside."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:50:56",
+      "origin": "男の子だから、外で動き回りたいんでしょうね。",
+      "content": "Being a boy, he probably wants to run around outside, doesn't he?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:51:28",
+      "origin": "はいその相手も私ばかりなので疲れることも多いです",
+      "content": "Yes, and I'm always the one who has to play with him, so it's often exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:52:19",
+      "origin": "そうですよね。男の子はびっくりするようなこともやってくれますからね。お察しします。",
+      "content": "I can imagine. Little boys can do things that really keep you on your toes. I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:53:06",
+      "origin": "ありがとうございます仕事柄腰痛持ちなので堪えます",
+      "content": "Thank you. Because of my job I have chronic lower back pain, so it really takes a toll."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:53:36",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:54:16",
+      "origin": "お仕事の身体への影響も大きいのですね。二重に大変ですね。",
+      "content": "So your work takes a significant toll on your body as well. That makes it doubly difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:54:57",
+      "origin": "お子さんがらみで、今一番ご苦労しているのはどんな事ですか？",
+      "content": "Regarding your child, what is the biggest challenge you're facing right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:56:40",
+      "origin": "休みの日くらい遊ばせてあげたいのに、私だけでは時間も体力も追い付かないことでしょうか。",
+      "content": "I want to let him play at least on days off, but on my own I just don’t have enough time or energy to keep up."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:57:04",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:57:34",
+      "origin": "ご時世とは言え、かわいそうで",
+      "content": "I know it's because of the current situation, but I feel sorry for him."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:58:21",
+      "origin": "男のお子さんは外で暴れまわりたいでしょうからね。ちなみに、ご家庭では、今はあなたとパートナーさんとお子さんの3人暮らしですか？",
+      "content": "A little boy would want to run wild outside. By the way, is it just the three of you—you, your partner, and your child—living together now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T13:58:41",
+      "origin": "そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T13:59:35",
+      "origin": "そうなんですね。そうすると、男のお子さんですから、本当は男親の出番かなと思うのですが、その辺は、パートナーさんはどんな風に思っているのでしょうね？",
+      "content": "I see. Since you have a boy, I would think this is where the father could step in. I wonder what your partner thinks about that."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:00:49",
+      "origin": "わかりません‥",
+      "content": "I don’t know..."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:01:08",
+      "origin": "会話にならない感じな気がして",
+      "content": "It feels like we can't even have a proper conversation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:01:32",
+      "origin": "そうなんですね。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:02:07",
+      "origin": "普段からパートナーさんとはあまり会話が無くなっているのでしょうか？",
+      "content": "Have the two of you been talking less in general?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:03:08",
+      "origin": "小さな言い合いみたいになってしまうのであまりしないようにしてしまっているかもしれません",
+      "content": "It tends to turn into little arguments, so I may be avoiding conversations."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:03:34",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:04:14",
+      "origin": "家の中で波風を立てないように気を遣っていらっしゃるという状況になっているみたいですね。",
+      "content": "It sounds like you're in a situation where you're trying to avoid making waves at home."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:04:47",
+      "origin": "そうかもしれません疲れが増えそうで",
+      "content": "That might be it. It feels like it would just make me more tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:05:22",
+      "origin": "そうですよね。",
+      "content": "That makes sense."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:06:28",
+      "origin": "ご家庭がそんな雰囲気になってから、どのくらい経ちますか？",
+      "content": "How long has the atmosphere at home been like this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:08:14",
+      "origin": "もともとすごいイクメンという感じでは無かったですが、空気が良くないなと思うようになったのはコロナが流行った頃からかも",
+      "content": "He was never what you'd call a super-involved dad, but I think the atmosphere started feeling bad around the time COVID began."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:08:48",
+      "origin": "そうだったんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:09:34",
+      "origin": "コロナが流行って、家に閉じこもりがちになったころからのようですね。",
+      "content": "So it seems to have started when the pandemic began and you were all stuck at home more."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:11:19",
+      "origin": "そうですね私も仕事で気を使うことが増えて家にも仕事にも持ち込まないようにもしなきゃだし、子供も夫も在宅時間が増えました",
+      "content": "Yes. I have more to worry about at work, and I have to be careful not to bring that stress home. And both my child and my husband are home more."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:11:48",
+      "origin": "本当に大変ですよね。",
+      "content": "That must be really tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:12:34",
+      "origin": "そんな中で、あなたは、ご家庭を大切にして、本当によくやって来られていると、頭が下がります。",
+      "content": "Through all of that, you've taken care of your family and done so well. I have a great deal of respect for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:12:58",
+      "origin": "はい職場も自宅も空気が滞って煎る感じがします",
+      "content": "Yes, it feels like the air is stagnant both at work and at home."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:13:01",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:13:53",
+      "origin": "あなたご自身も、パートナーさんも、そしてお子さんも、コロナ禍で外に出る機会が少なくなって、発散できなくて、疲労してしまっているような気がするのですが・・・",
+      "content": "I get the sense that you, your partner, and your child have all become exhausted from the lack of opportunities to go out and release stress during the pandemic..."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:15:21",
+      "origin": "それもあると思います夫も疲れているのは充分分かりますが、もう少しこちらを見てくれればと思ってしまいます",
+      "content": "I think that’s part of it. I fully understand that my husband is tired too, but I wish he would pay a bit more attention to us."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:15:55",
+      "origin": "そうですよね。あなたは人一倍大変なお仕事をなさりながら、育児もし、家事もなさって、本当にお疲れになっていると思います。",
+      "content": "Of course. You're working an exceptionally demanding job while also raising a child and managing the household. I imagine you must be truly exhausted."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:16:33",
+      "origin": "パートナーさんにこちらの見てくれるような手立ては何かありそうでしょうか？",
+      "content": "Do you think there might be any way to get your partner to pay more attention?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:17:31",
+      "origin": "それがわかれば苦労しないというか‥(笑)むしろ教えて欲しいです",
+      "content": "If I knew that, I wouldn't be having this problem... (laughs) Actually, I'd like you to tell me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:18:01",
+      "origin": "一つだけ思い付きですが話してもいいですか？",
+      "content": "I have one idea—may I share it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:18:08",
+      "origin": "はい",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:18:46",
+      "origin": "お休みの日に、3人で短い時間でも公園に遊びに行ってみてはいかがでしょうか？",
+      "content": "On a day off, how about the three of you going to a park to play, even just for a short time?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:19:16",
+      "origin": "三人でですか？",
+      "content": "All three of us?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:19:34",
+      "origin": "もし、パートナーさんが一緒に来てくれたら、パートナーさんがお子さんと一緒に遊ぶように仕向けるのです。",
+      "content": "If your partner comes along, gently steer things so that he plays with your child."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:20:12",
+      "origin": "例えば、ボールを持って行って、お子さんにお父さんとボール蹴ってみてと誘わせるとか。",
+      "content": "For example, you could bring a ball and have your son ask his dad to kick it with him."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:20:47",
+      "origin": "なんでもいいです。とにかくパートナーさんにお子さんと遊ばせるのが狙いです。",
+      "content": "Anything works. The goal is simply to get your partner to play with your child."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:21:42",
+      "origin": "お子さんがパートナーさんと遊ぶのに慣れてきたら、公園に行く機会を少し増やして、そのうち3回に1回はパートナーさんとお子さんだけで行かせる。",
+      "content": "Once your child gets used to playing with him, increase the park visits a bit, and eventually have them go just the two of them, say, one time out of three."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:22:08",
+      "origin": "そうすると、パートナーさんとお子さんの関係作りが深まるかと思います。",
+      "content": "Doing that might help deepen the relationship between your partner and your son."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:22:36",
+      "origin": "という作戦で、パートナーさんを育児に引き込んでしまうというのはいかがでしょうか？",
+      "content": "What do you think of a strategy like that to draw your partner into childcare?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:23:09",
+      "origin": "それはカウンセラーさんの経験から来るお話でしょうか？",
+      "content": "Is that something from your own experience?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:23:25",
+      "origin": "実はその通りです。",
+      "content": "Actually, yes, it is."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:23:39",
+      "origin": "うまくいきましたか？",
+      "content": "Did it work well?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:23:49",
+      "origin": "かなり",
+      "content": "Very well."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:25:20",
+      "origin": "それなら試してみようかなでもそもそもどうやって話したら良いのかわからなくて",
+      "content": "In that case, maybe I'll give it a try... but I don't even know how to bring it up in the first place."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:25:40",
+      "origin": "とてもシンプルです。",
+      "content": "It's very simple."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:26:17",
+      "origin": "ある晴れたお休みの日に、「今日は公園にでも行こうか？」と声をかけてみるだけでよいかと思います。",
+      "content": "On a sunny day off, you might just say, “Shall we go to the park today?”"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:27:04",
+      "origin": "疲れているからいいよってはじかれてしまいそうで",
+      "content": "I'm afraid he'll just brush me off, saying he's tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:27:26",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:27:45",
+      "origin": "パートナーさんもお疲れの様子があるのですね。",
+      "content": "So your partner seems tired as well."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:27:51",
+      "origin": "ちゃんと会話したいのですがうまくいかなくて",
+      "content": "I want to have a proper conversation, but it doesn’t go well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:29:17",
+      "origin": "真正面から向き合ってちゃんと会話をすることもとっても大切ですが、わざと軽い乗りの方が、相手を乗せやすいという面もあるかもしれません。",
+      "content": "Having a serious, face-to-face conversation is very important, but sometimes a more casual, lighthearted approach can make it easier to get someone on board."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:30:08",
+      "origin": "重くとらえず、ということでしょうか",
+      "content": "You mean, not to take it too seriously?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:30:23",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:30:53",
+      "origin": "確かにまともに取り合うのは更に空気が重くなりそうです",
+      "content": "True—if we tackle it head-on, it might make the atmosphere even heavier."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:31:16",
+      "origin": "そうですよね。むしろ、軽い乗りの方が、パートナーさんも乗りやすいのかもと思います。",
+      "content": "Right. In fact, a lighter approach might make it easier for your partner to go along with it."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:32:04",
+      "origin": "外で遊んでもらえるように取り組んだことは無かったので試したいです",
+      "content": "I’ve never really tried to get him to play outside with our son, so I’d like to try."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:32:24",
+      "origin": "是非是非試してみてください。",
+      "content": "By all means, please give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:32:40",
+      "origin": "やってみます",
+      "content": "I'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:32:49",
+      "origin": "小さなことを大切にしてみるというのも一つの方法かもしれません。",
+      "content": "Focusing on small steps might be one helpful approach."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:33:12",
+      "origin": "応援していますね。",
+      "content": "I’m rooting for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:33:36",
+      "origin": "気になることが出てきたら、またご相談にいらしてください。",
+      "content": "If anything else comes up that you're concerned about, please feel free to come back and talk."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:34:07",
+      "origin": "ありがとうございます実体験を伺えて勇気もらいました",
+      "content": "Thank you. Hearing about your personal experience has given me courage."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:34:31",
+      "origin": "こちらこそありがとうございます。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:34:58",
+      "origin": "では今回のご相談はここまででよろしいですか？",
+      "content": "Shall we wrap up here for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:35:21",
+      "origin": "はい。またうまくいかなかったら話させてください",
+      "content": "Yes. If it doesn't go well, please let me talk to you again."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:35:42",
+      "origin": "その時は、また、ご一緒に考えさせていただきます。",
+      "content": "Of course. We can think it through together again then."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:35:52",
+      "origin": "よろしくお願いいたします",
+      "content": "Thank you, I'd appreciate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:36:06",
+      "origin": "こちらこそよろしくお願いいたします。",
+      "content": "You're very welcome."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:36:52",
+      "origin": "では、失礼しますね。",
+      "content": "Alright then, take care."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:37:02",
+      "origin": "失礼します",
+      "content": "You too. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-24T14:37:13",
+      "origin": "（ロールプレイお疲れさまでした）",
+      "content": "(Thank you for your hard work in the role-play.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-24T14:37:42",
+      "origin": "★カウンセラー役お疲れ様でしたありがとうございました",
+      "content": "★Thank you for your hard work as the counselor. Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫とのコミュニケーション不足"
+  },
+  "review_by_client": {
+    "evaluation_id": 2490,
+    "evaluation_created_at": "2021-09-24T15:14:00",
+    "client_id": 212,
+    "counselor_id": 5,
+    "score": 84,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

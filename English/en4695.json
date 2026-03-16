@@ -1,0 +1,573 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-01T19:57:01",
+      "origin": "こんばんは。本日はよろしくお願いします。時間になったら始めますね。",
+      "content": "Good evening. Thank you for being here today. We'll begin when it's time."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T19:57:28",
+      "origin": "こんばんは。よろしくお願いします。",
+      "content": "Good evening. Thank you for seeing me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:00:05",
+      "origin": "こんにちは、相談員です。相談に来てくださってありがとうございます。まずはじめに、年齢・性別・ご相談内容を教えてください。",
+      "content": "Hello, I'm your counselor. Thank you for coming in for a session today. To begin, could you please tell me your age, gender, and what you'd like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:02:17",
+      "origin": "35歳、女性人との関係構築がうまくできず悩んでいます。",
+      "content": "I'm 35 years old, female. I'm struggling with building relationships with people."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:03:18",
+      "origin": "承知しました。ちなみに、ここでは、あなたのことをどのようにお呼びしたらいいですか？",
+      "content": "Understood. By the way, how should I address you during our sessions?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:03:41",
+      "origin": "あなたで構いません。",
+      "content": "Referring to me as 'you' is fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:03:53",
+      "origin": "承知しました。",
+      "content": "Understood."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:04:35",
+      "origin": "では、さっそくですが、人との関係構築について、どのようなときにうまくいかないな、と感じますか？",
+      "content": "Then, to get started, in what situations do you feel that building relationships with people isn't going well?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:06:16",
+      "origin": "どういう場も、表面的にはうまくやり取りできますが、深い付き合いができないというか、、",
+      "content": "In any situation, I can interact with people just fine on a surface level, but I can't seem to form deeper connections, or rather..."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:06:29",
+      "origin": "無意識に避けているのかもしれません。",
+      "content": "I might be unconsciously avoiding it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:08:35",
+      "origin": "なるほど、教えていただきありがとうございます。うまくいかないと感じたとき、あなたはどのようなお気持ちになりますか？",
+      "content": "I see, thank you for sharing that. When you feel it's not going well, how does that make you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:11:39",
+      "origin": "孤独ですよね。もっと人と関わりを持ちたいと思うのですが、どうしてそうできないのかと悩んでしまいます。",
+      "content": "Lonely. I want to connect more with people, but I end up worrying about why I can't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:13:18",
+      "origin": "人と関わりを持ちたいと思っているのに、そのようにできない、と感じると、孤独を感じてしまいますよね。",
+      "content": "It must feel lonely when you want to connect with people but feel like you can't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:14:09",
+      "origin": "そのように感じられるようになったのは、いつぐらいからでしょうか。また、何かきっかけなど思い当たることはありますか？",
+      "content": "About when did you start feeling that way? And is there any trigger or event that comes to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:15:17",
+      "origin": "学生時代はそれなりに気の合う友達もいて孤独だと悩むことはなかったのですが、",
+      "content": "When I was a student, I had friends I got along with fairly well and never really worried about being lonely, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:16:14",
+      "origin": "社会人になってから、こう一歩踏み込んだ繋がりを持てずにいることが多いです。",
+      "content": "...since I started working, I often find myself unable to make deeper connections."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:17:33",
+      "origin": "社会人になってから、あなたは人との関係構築に悩みを持たれるようになったのですね。",
+      "content": "So it was after you entered the workforce that you began to struggle with building relationships."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:18:30",
+      "origin": "特に切っ掛けというのは思い当たりません。",
+      "content": "I can't think of any particular trigger."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:19:12",
+      "origin": "そうなんですね。関係構築がうまくいかない、と感じるどのような環境においてでしょうか。",
+      "content": "I see. In what kinds of environments do you feel that building relationships doesn't go well?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:20:23",
+      "origin": "職場でも、もっとプライベートの話などできればいなと思うのですが",
+      "content": "Even at work, I wish I could talk more about personal things, but—"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:20:57",
+      "origin": "まあ、忙しくてそんな時間もないというのはありますが、",
+      "content": "Well, we're busy and we don't have time for that, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:21:40",
+      "origin": "もっと思ったことを自然に相手に伝えられればいいのになと思います。",
+      "content": "I just wish I could express my thoughts to others more naturally."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:22:40",
+      "origin": "あなたは、職場での人との関係構築についてうまくやっていきたいとお考えなんですね。",
+      "content": "You're thinking that you'd like to improve at building relationships at work."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:23:51",
+      "origin": "環境的な問題もあり、学生時代からの友達とはそんなに連絡も取り合わなくなっているので、、、",
+      "content": "There are also environmental factors, and I don't really keep in touch with my friends from my school days anymore..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:24:42",
+      "origin": "これまでに、このことをどなたかご相談されたことはありますか？",
+      "content": "Have you ever talked to anyone about this before?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:25:00",
+      "origin": "相談したことはないです。",
+      "content": "No, I haven't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:26:15",
+      "origin": "そうなのですね。ちなみに、相談できそうな方はいますか？",
+      "content": "I see. By the way, is there anyone you feel you could talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:26:58",
+      "origin": "身近な人に言いたくないからここに来ました。",
+      "content": "I came here because I don't want to tell people close to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:27:51",
+      "origin": "そうですよね。ここでは何でもお話くださいね。",
+      "content": "That makes sense. Please feel free to talk about anything here."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:28:34",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:30:21",
+      "origin": "たとえば、体調不良で数日休んだ人が出勤してきたときに",
+      "content": "For example, when someone who was out sick for a few days comes back to work,"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:31:29",
+      "origin": "本当は「体調大丈夫ですか？」と声をかけたいし、喉元まで言葉が出ていながら、実際にはそれを伝えることができません。",
+      "content": "I really want to ask, \"Are you feeling okay?\" The words are right on the tip of my tongue, but I can't actually say them."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:31:48",
+      "origin": "それが何故だか自分でも分かりません。",
+      "content": "I don't even know why."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:32:16",
+      "origin": "教えていただきありがとうございます。あなたの相手を思いやる優しい気持ちが伝わってきます。",
+      "content": "Thank you for sharing that. I can really sense your kind and considerate feelings for others."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:32:42",
+      "origin": "本当は相手をいたわってあげたいのに、言葉にできないことってありますよね。",
+      "content": "There are times when you really want to show someone you care, but you just can't put it into words, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:33:24",
+      "origin": "そんなご自身のやさしさ、とても素敵ですよね。",
+      "content": "That kindness within you is really wonderful."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:33:26",
+      "origin": "悪いことじゃないのに、なせそれができないのか。。。不思議です。",
+      "content": "It's not a bad thing, so I don't know why I can't do it... It's strange."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:34:30",
+      "origin": "なので、心の奥底では、人との関わりを持ちたくないと思っているのかな...と思ったりします。",
+      "content": "So, sometimes I wonder if deep down, I don't actually want to connect with people."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:35:09",
+      "origin": "そのように思われているんですね。私は、あなたは心優しく素敵な女性だと感じました。",
+      "content": "That's how you've been feeling. I feel that you are a very kind and wonderful woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:35:28",
+      "origin": "誰もがそのように優しい気持ちをお持ちとは限らないと思いますよ。",
+      "content": "I don't think everyone has such a kind heart, you know."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:35:47",
+      "origin": "そんなことないです。。",
+      "content": "That's not true..."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:36:51",
+      "origin": "思うことを照らわずクチにできる人がうらやましいです。",
+      "content": "I envy people who can say what's on their mind without hesitation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:37:26",
+      "origin": "相手を思い、何か声をかけてあげようとすることは、決して簡単なことではないと思いますよ。　いろいろな方がいるように、あなたにもあなたらしく表現できる手段があると思うのですがいかがですか？",
+      "content": "Thinking of others and trying to say something to them is by no means an easy thing to do. Just as there are many different kinds of people, I believe there are ways for you to express yourself in your own way. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:38:02",
+      "origin": "例えばどんなことでしょうか？",
+      "content": "For example, what kinds of ways?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:39:33",
+      "origin": "一緒にかんがえてみましょう。ちょっとイメージしてみましょうか。",
+      "content": "Let's think about it together. Shall we try to imagine a little?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:41:11",
+      "origin": "言葉以外の方法ということですか？",
+      "content": "Do you mean methods other than words?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:41:40",
+      "origin": "そうですね～声をかけるのは難しいとかんじますか？",
+      "content": "Well... do you feel that speaking up is difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:42:32",
+      "origin": "んー、何か切っ掛けがないと話し掛けづらいですね。",
+      "content": "Hmm, it's hard to start a conversation without some kind of opening."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:42:32",
+      "origin": "例えばですが、ちょっとしたもの、のど飴だとか、チョコレートなどをおすそ分けしてみる、など、いかがですか？",
+      "content": "For example, how about sharing something small, like a cough drop or a piece of chocolate?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:42:54",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:43:22",
+      "origin": "お菓子をもらうと、なんかうれしいかな、と思うのです。いかがですか？",
+      "content": "I think people generally feel happy when they receive a small treat. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:44:02",
+      "origin": "業務上で接点のある人には有効ですね。",
+      "content": "That would be effective for people I interact with at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:44:45",
+      "origin": "まずは、接点がある方から始めてみるというのもいいかもしれませんね。",
+      "content": "Starting with people you already have some contact with might be a good idea."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:45:14",
+      "origin": "アメを用意しておこうと思います。",
+      "content": "I think I'll get some candy to have on hand."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:45:30",
+      "origin": "そうですね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:45:57",
+      "origin": "いいですね！アメちゃんが助けになってくれると思います。",
+      "content": "That's great! I think a little candy will be a big help."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:46:17",
+      "origin": "いざとなったら、ちょっと勇気がいるかもしれないけど、",
+      "content": "When the time comes, it might take a little courage, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:47:07",
+      "origin": "本当は、自分の中にある気持ちをきちんと伝えられればいいなと思うのですが、、、",
+      "content": "Honestly, I wish I could properly convey the feelings I have inside..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:48:00",
+      "origin": "そうですよね。一粒のアメちゃんがきっとそのような状態に少しずつ運んでくれるんじゃないかな？思いますよ。",
+      "content": "I understand. I think that one little piece of candy might gradually help you get to that point."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:48:46",
+      "origin": "そうですかね。。",
+      "content": "Do you think so...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:48:48",
+      "origin": "一気に山をかけあがる勢いも素晴らしいけど、少しつずつ休憩しながらその場を楽しむのも豊かな道のりに感じます。",
+      "content": "Rushing up the mountain all at once is impressive, but taking small steps with breaks and enjoying the moment can make for a richer journey."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:49:39",
+      "origin": "そうですね。",
+      "content": "That's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:49:42",
+      "origin": "今日、お話を聞かせていただきながらあなたの純粋でとてもやさしい気持ち、何より相手のことを考えられる素晴らしさを感じています。",
+      "content": "Listening to you today, I've really felt your pure and very kind heart, and above all, your wonderful ability to think of others."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:50:27",
+      "origin": "そんなあなたをたくさん応援してあげたいです。",
+      "content": "I want to give you all my support."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:50:47",
+      "origin": "ありがとうございます。。",
+      "content": "Thank you..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:51:07",
+      "origin": "あなたなら、一つ一つクリアしていくことで、良い方向に進んでいけると思います。",
+      "content": "I believe that by clearing one thing at a time, you can move in a positive direction."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:51:45",
+      "origin": "ここまで話されて、どのようなお気持ちですか？",
+      "content": "Having talked this far, how are you feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:52:37",
+      "origin": "そうですね、、、",
+      "content": "Let me see..."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:53:59",
+      "origin": "もっと人との関わりを持ちたいというのもそうなんですが、なぜ自分が思うことをさらっと口にできないのか、その原因を探りたいという気持ちがあったんだと思います。",
+      "content": "I do want to connect more with people, but I think I also had a desire to find out why I can't just casually say what I'm thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:54:45",
+      "origin": "なるほど、そこにご自身で気づけたことが何より今日のご相談の収穫に感じます。",
+      "content": "I see. The fact that you were able to realize that on your own feels like the most significant outcome of our session today."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:54:54",
+      "origin": "自分に向き合うしかないんでしょうね。",
+      "content": "I guess I just have to face myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:56:22",
+      "origin": "そうですね！自分に向き合うこと大切ですね。そして、ご自身に優しい時間をたくさん作ってあげてほしいな、と思います。",
+      "content": "That's right! Facing yourself is important. And I hope you'll make plenty of time to be gentle with yourself."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:57:32",
+      "origin": "アドバイスをくださりありがとうございました。",
+      "content": "Thank you for your advice."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:57:49",
+      "origin": "こちらこそ、今日はご相談に来ていただきありがとうございます。",
+      "content": "Thank you as well for coming to talk with me today."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T20:58:23",
+      "origin": "どうもありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:58:46",
+      "origin": "あなたは、人との関係構築に悩みを抱えらていましたが、ご自身の力で、まずはご自身と向き合うという一歩を見出せましたね。",
+      "content": "You were struggling with building relationships, but through your own strength, you've found the first step of facing yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T20:59:30",
+      "origin": "ご自身で気づける強さをあなたは持ち合わせています。またぜひ、その後の経過などお聞かせいただけると嬉しいです。",
+      "content": "You have the strength to come to these realizations on your own. I would be happy if you could let me know about your progress in the future."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T21:00:05",
+      "origin": "本日はありがとうございました。あなたの明るい未来を願います。",
+      "content": "Thank you for today. I wish you a bright future."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T21:00:20",
+      "origin": "頂いたアドバイスも参考に、またしばらく過ごしてみます。どうもありがとうございました。",
+      "content": "I'll keep your advice in mind as I go forward. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T21:00:35",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T21:01:05",
+      "origin": "(すみません、公開ロールプレイについてお聞きしてもいいですか？)",
+      "content": "(Excuse me, may I ask about the public role-plays?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T21:01:06",
+      "origin": "お疲れさまでした。たくさん勉強させていただきました。こちらでロールプレイを終了させていただきますが、よろしいでしょうか。",
+      "content": "Thank you for your hard work. I've learned a lot. I'd like to end the role-play here, is that alright?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T21:01:34",
+      "origin": "はい。ありがとうございました。",
+      "content": "Yes. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T21:02:39",
+      "origin": "(公開ロールプレは不定期で、特に事前告知とかはないのですか？)",
+      "content": "(Are the public role-plays held irregularly, without any prior notice?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T21:02:50",
+      "origin": "すみません、私、まだ公開ロールプレイに参加させていただいたことがなくて・・・ごめんなさい。でも、先日、先生が、本来は３時間だけど、時間の都合がつかなければ、〇時～〇時　のように申し出れば大丈夫ですよ、とおっしゃっていました。",
+      "content": "I'm sorry, I haven't participated in a public role-play yet... I apologize. But the other day, the instructor said that they are originally 3 hours long, but if you can't make the whole time, you can request a specific time slot, like from X o'clock to Y o'clock."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T21:03:12",
+      "origin": "日程は出されていた気がします",
+      "content": "I think the schedule has been announced."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-01T21:03:43",
+      "origin": "そうなんですね、私も参加したことなくて(汗)今日はどうもありがとうございました！",
+      "content": "I see, I haven't participated either (nervous laugh). Thank you so much for today!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T21:04:01",
+      "origin": "お役に立てずすみません。ありがとうございました。",
+      "content": "I'm sorry I couldn't be more helpful. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-01T21:04:20",
+      "origin": "これでロールプレイを終了させていただきますね。ありがとうございました。",
+      "content": "I'll end the role-play now. Thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "人との関係構築についての悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 4695,
+    "evaluation_created_at": "2023-03-01T21:45:00",
+    "client_id": 361,
+    "counselor_id": 364,
+    "score": 65,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

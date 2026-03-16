@@ -1,0 +1,669 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:21:12",
+      "origin": "(こんにちは。本日はよろしくお願い致します。お時間になりましたら始めさせていただきますね。）",
+      "content": "(Hello. Thank you for coming today. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:22:06",
+      "origin": "(こんにちは。よろしくお願いいたします。)",
+      "content": "(Hello. Thank you for seeing me.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:30:12",
+      "origin": "こんにちは。相談員です。本日はご相談に来て下さりありがとうございます。はじめに、年齢、性別、ご相談内容を教えていただけますか？",
+      "content": "Hello. I’m the counselor. Thank you for coming in today. To start, could you tell me your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:31:15",
+      "origin": "15歳 女子学校に行きたくないです",
+      "content": "I'm 15, female, and I don't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:31:53",
+      "origin": "教えてくださりありがとうございます。学校に行きたくなくて困っているのですね。",
+      "content": "Thank you for sharing that. So, you're having trouble because you don't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:32:14",
+      "origin": "学校で何かありましたか？",
+      "content": "Did something happen at school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:32:19",
+      "origin": "困ってるというか、親に行きなさいと言われて困ってます",
+      "content": "It’s not exactly that—I’m struggling because my parents keep telling me to go."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:32:54",
+      "origin": "友達が嘘つきで嫌になりました",
+      "content": "I got fed up because my friend is a liar."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:33:25",
+      "origin": "そうなのですね。友達のことで行きたくなくなっているのですね。",
+      "content": "I see. So because of your friend, you don’t feel like going to school."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:33:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:33:57",
+      "origin": "そのお話は、親は知ってますか？",
+      "content": "Do your parents know about that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:34:12",
+      "origin": "知ってます",
+      "content": "Yes, they know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:35:11",
+      "origin": "あなたのお辛い気持ち、友達に嘘をつかれて嫌になっている気持ちを親は知っていて、学校に行くようにすすめているのですね？",
+      "content": "So your parents know how painful this is for you—how being lied to by a friend has made you upset—and they’re still encouraging you to go to school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:35:45",
+      "origin": "もうずっと学校行ってないので最後くらい行けと言われます",
+      "content": "I haven't been to school for a long time, so they're telling me I should go, at least for the end."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:36:26",
+      "origin": "そうなのですね。友達とのことがなければ、学校に行くのは嫌ではないのでしょうか？",
+      "content": "I see. If it weren’t for what happened with your friend, would you not mind going to school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:37:30",
+      "origin": "もう誰も私の事なんて本気で思ってなくて皆嘘つきです",
+      "content": "I feel like no one truly cares about me anymore—everyone’s a liar."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:38:28",
+      "origin": "そうなのですね。そう思われているのですね。そういう思いで過ごされていて、とても辛かったですね。苦しかったですね。",
+      "content": "I understand—that’s how it feels to you. Carrying those feelings must have been very hard and painful for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:38:43",
+      "origin": "いつ頃から、そのような状態なのですか？",
+      "content": "How long have you been feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:39:02",
+      "origin": "中学1年途中から",
+      "content": "Since the middle of my first year of junior high."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:39:28",
+      "origin": "そうなのですね。今は、何年生ですか？",
+      "content": "I see. What grade are you in now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:39:50",
+      "origin": "3年生",
+      "content": "Third year."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:40:54",
+      "origin": "３年近くずっと、そのような辛い気持ちで頑張ってきたのですね。それで、卒業が近づいてきているので、親は最後くらいと思ってるのですね。",
+      "content": "So you’ve been pushing through those painful feelings for almost three years. And with graduation approaching, your parents are thinking you should at least go for the end."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:42:09",
+      "origin": "卒業式の練習学校でやってるみたいで、それくらい参加しろと言われてます",
+      "content": "It seems they’re practicing for the graduation ceremony at school, and I’m being told to at least participate in that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:43:18",
+      "origin": "そうなのですね。でも、あなたは友達とのことがあり、どうしても行きたくないけれど親が行きなさいというのでとても困っているという事なのですね。今一番困っていることがそういうことでよろしいでしょうか？",
+      "content": "I see. So because of what happened with your friend, you really don’t want to go, but you’re in a tough spot since your parents are telling you to. Would you say that’s your biggest concern right now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:43:54",
+      "origin": "そうです。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:45:31",
+      "origin": "あなたの正直な気持ちとしては、このまま、学校に行かないで卒業したい気持ちが強いのでしょうか？それとも、他の気持ちもあれば教えていただけますか？",
+      "content": "Honestly, do you feel strongly that you want to graduate without going back to school as things are? Or are there any other feelings you could share?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:46:15",
+      "origin": "今さら学校行ってもなんか浮くし、もう卒業式も出たくないてす",
+      "content": "If I go to school now, I'll just feel out of place, and I don't even want to attend the graduation ceremony anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:47:16",
+      "origin": "そうなのですね。浮くのも嫌なのですね。",
+      "content": "I see. So you don’t want to feel out of place either."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:47:41",
+      "origin": "こわいです",
+      "content": "I'm scared."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:48:22",
+      "origin": "そうなのですね。怖いのですね。怖い気持ちで行くのは私も辛いと思います。",
+      "content": "I see. You're scared. I can imagine it would be very painful to go while feeling that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:48:34",
+      "origin": "どのようなところが怖く感じますか？",
+      "content": "What about it feels scary to you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:48:59",
+      "origin": "信用できる友達もいないし、先生も信用できないし",
+      "content": "I don’t have any friends I can trust, and I can’t trust the teachers either."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:49:51",
+      "origin": "そうなのですね。誰もが信用できないので怖いのですね。嘘をつかれたことがあればそう思ってしまうのも無理ないと思います。",
+      "content": "I understand. It feels scary because you can’t trust anyone. Given that you were lied to, it’s completely understandable to feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:50:15",
+      "origin": "嘘をつかれた時のことを少し聞いても良いですか？",
+      "content": "May I ask a bit more about the time you were lied to?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:50:27",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:50:43",
+      "origin": "どのような事があったのでしょうか？",
+      "content": "What happened?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:51:11",
+      "origin": "親友がいました。私は親友と思ってました。いつもラインとか電話で話してて、その子の相談のってました",
+      "content": "I had a best friend—or at least, I thought she was. We were always talking on LINE or on the phone, and I would listen to her problems."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:52:10",
+      "origin": "そうなのですね。続けてお話してくださいね。",
+      "content": "I see. Please go on."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:53:58",
+      "origin": "でも相談内容が全部嘘でした",
+      "content": "But the problems she was telling me about were all lies."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:54:42",
+      "origin": "そうだったのですね。相談内容が全部嘘だったのですね。嘘だったことには、どのような形で気づいたのですか？",
+      "content": "I see—so everything she was consulting you about was a lie. How did you realize that it wasn't true?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:56:04",
+      "origin": "親友は彼氏の事で悩んでて別の友達づたいに本人に確認したら全部嘘だった",
+      "content": "My best friend was saying she had problems with her boyfriend. I checked with the guy himself through another friend, and it turned out to be all lies."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:57:58",
+      "origin": "彼氏でもなかったし",
+      "content": "He wasn’t even her boyfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T10:58:14",
+      "origin": "そうだったのですね。親友はなぜそうのな嘘をついたのでしょうね？そのようなショックなことが起き、あんたは、その後、親友とはどのような関わり方をしてきたのでしょうか？",
+      "content": "I see. I wonder why your best friend would tell such lies. After such a shocking thing happened, how have you interacted with her since then?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:58:58",
+      "origin": "嘘がばれて向こうももう話してこなくなりました。",
+      "content": "Once the lies were exposed, she stopped talking to me."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T10:59:24",
+      "origin": "なぜ嘘つかれたかわからない",
+      "content": "I don’t know why she lied to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:00:04",
+      "origin": "そうだったのですね。親友も話をしにこなくなったのですね。あなたは、嘘をつかれたことがわからなくて辛い気持ちですか？",
+      "content": "I see—so she also stopped reaching out. Is it painful for you not understanding why she lied?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:00:57",
+      "origin": "相談に乗ってた時間とか何だったんだろうと思うとむなしい",
+      "content": "When I think about all the time I spent listening to her, it feels so empty—like, what was it all for?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:01:32",
+      "origin": "人と親しくしても意味がない",
+      "content": "There’s no point in getting close to people."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:01:46",
+      "origin": "そうなのですね。あなたは、親友の話を親身に聴いていた優しい性格だということが私には伝わってきます。",
+      "content": "I see. I can tell you’re a kind person who listened to your friend with genuine care."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:02:00",
+      "origin": "どうかな",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:02:32",
+      "origin": "人と信頼関係をもって付き合うことを大切にしたいことも伝わってきます。",
+      "content": "I also sense that building relationships based on trust is important to you."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:02:51",
+      "origin": "だれも信用できない",
+      "content": "I can’t trust anyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:03:29",
+      "origin": "親友だと思っていた人に嘘をつかれたら、あなたでなくても誰もがそのような気持ちになって当然だと思います。",
+      "content": "When someone you believed was your best friend lies to you, it’s only natural for anyone—not just you—to feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:04:08",
+      "origin": "一人でずっと、そのような辛い気持ちを抱えてきていたのですね？誰にも相談せずに。",
+      "content": "Have you been carrying those painful feelings by yourself all this time, without talking to anyone?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:04:41",
+      "origin": "親には言ったりしたけどわかってくれない",
+      "content": "I've tried telling my parents, but they don't understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:05:38",
+      "origin": "そうなのですね。親には話せて良かったと思います。でも、わかってもらえなくて尚更辛く、学校に行きなさいと言われるので本当に辛く困っているということなのですね。",
+      "content": "I see. I think it's good that you were able to talk to your parents. But because they don't understand, it's even more painful, and since they tell you to go to school, you're really struggling and in a difficult position."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:06:27",
+      "origin": "では、親がわかってくれたら、卒業式に出席せずに、今後のことはどのように考えてますか？",
+      "content": "So, if your parents were to understand and you didn’t attend the graduation ceremony, how would you think about your future?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:06:42",
+      "origin": "もうほぼ行ってないので勉強もわからないし、友達もいないし",
+      "content": "I've barely gone, so I don't understand my schoolwork, and I don't have any friends there either."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:07:04",
+      "origin": "春から通信制高校に入学します",
+      "content": "I'll be starting at a correspondence high school in the spring."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:07:48",
+      "origin": "そうなのですね。春からのことはしっかり決まっているのですね。進路は自分で決めたのですか？",
+      "content": "I see. So you have firm plans for the spring. Did you decide on this path yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:08:22",
+      "origin": "親と決めました",
+      "content": "I decided with my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:09:41",
+      "origin": "親と話し合って決めたのですね。卒業式のことが今、親に行きなさいと言われてとても困っていると思いますが、今後のことで心配なことがあれば教えて貰えますか？",
+      "content": "So you discussed it with your parents and decided together. I know you're very troubled right now about your parents telling you to go to the graduation ceremony, but are there any other concerns you have about the future?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:10:40",
+      "origin": "通信でと入学式とか体育祭みたいなのがあるみたいで、参加したくないてす",
+      "content": "It seems like the correspondence school has things like an entrance ceremony and a sports festival, and I don't want to participate."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:11:55",
+      "origin": "そうなのですね。人との関わりがある行事に対しては参加したくない気持ちなのですね。その一番の理由を教えていただけますか？",
+      "content": "I see. So you don’t want to take part in events that involve interacting with people. Could you tell me the main reason for that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:12:31",
+      "origin": "人が怖いです。友達も出来ない",
+      "content": "I'm scared of people. I can't make friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:13:39",
+      "origin": "そうなのですね。嘘をつかれたことから人を信用できない、人が怖くなってしまったからなのですね。友達は、できることならば本当は欲しいですか？",
+      "content": "I see. It's because you were lied to that you can no longer trust people and have become scared of them. If it were possible, do you actually want to have friends?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:14:20",
+      "origin": "この先ずっと独りだとどうなるのかなと思います",
+      "content": "I wonder what will happen if I’m alone forever."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:14:49",
+      "origin": "そうなのですね。独りだとどうなるのかなと不安ではあるのですね？",
+      "content": "I see. So you feel anxious about what might happen if you're alone?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:15:21",
+      "origin": "仕事とかもしないと生きていけないですよね？",
+      "content": "I have to work to survive, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:16:17",
+      "origin": "そうなのですね。しっかり先のことも考えているのですね。辛い思いを抱えながら、とても偉いと私は思います。",
+      "content": "I see—you’re thinking clearly about the future. I think it’s admirable that you’re doing that while carrying such difficult feelings."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:16:53",
+      "origin": "仕事しなくても、食べさせてもらえるほと裕福でもないし",
+      "content": "My family isn't wealthy enough to support me if I don't work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:17:36",
+      "origin": "そうなのですね。親とも今後について、そのような話はされているのですね？",
+      "content": "I see. So you've had those kinds of discussions with your parents about the future as well?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:17:57",
+      "origin": "はい、それで通信制行くことにしました",
+      "content": "Yes, that's why we decided on the correspondence school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:19:27",
+      "origin": "しっかりと現実をみての進路選択に私は素晴らしいと思います。あなたが今後、本当はどのように生きていきたいのか？今の現状はあまり気にせずに、あなたの夢や気持ちを教えて貰っても良いですか？",
+      "content": "I think it's wonderful that you've chosen a path while looking at reality so clearly. Without worrying too much about your current situation, could you share your dreams and feelings and tell me how you truly want to live in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:20:17",
+      "origin": "少しずつ人と会える様になって、大学とか専門学校に行けたらいいなと思います",
+      "content": "I’d like to gradually get to a place where I can meet people, and hopefully go on to university or a vocational school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:21:37",
+      "origin": "そうなのですね。自分のこと、気持ちがしっかり整理されていのですね。少しずつとおっしゃっているところもとても立派だと私は思いました。一気にとは、焦らずに考えられることがとても良いと思います。",
+      "content": "I see. You have a very clear understanding of yourself and your feelings. I also think it's very admirable that you said \"gradually.\" I think it's very good that you can think about it without rushing, not all at once."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:22:06",
+      "origin": "訂正一気にとか",
+      "content": "Correction: I mean, not all at once."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:22:58",
+      "origin": "理想通りにいくにはどうしたらいいですか？",
+      "content": "What should I do to make things go the way I hope?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:23:41",
+      "origin": "そうですね。理想に少しでも近づきたいですよね。そのためには、どうしたら良いか？ですよね。",
+      "content": "Right. You want to get closer to your ideal, even a little. The question is what would help you do that, isn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:23:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:24:53",
+      "origin": "あなたが自分の言葉で言っていた、少しずつ前に進もうという気持ちを持ち、通信制の高校で過ごしていくことがきっとあなたの理想に近づいていくのではないかと私は思います。",
+      "content": "I believe that by holding onto the feeling you expressed in your own words—the desire to move forward little by little—and spending your time at the correspondence high school, you will surely get closer to your ideal."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:25:33",
+      "origin": "人が怖い気持ちはどうしたらいいですか？",
+      "content": "What should I do about being scared of people?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:26:55",
+      "origin": "無理せずに、自分のペースで少しずつですね。人が怖い気持ちも、少し誰かと接することがあった時にその相手が全員嘘をつく人ばかりでは無いと思います。少しでも不安になれば距離を置くことを覚えたらどうでしょうか？",
+      "content": "Don't push yourself; take it little by little, at your own pace. Regarding your fear of people, when you do have small interactions, I think you'll find that not everyone is a liar. How about learning to distance yourself if you feel even a little anxious?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:27:53",
+      "origin": "みんな嘘つきに見えると話すのも怖いです",
+      "content": "When everyone looks like a liar to me, it's scary to even talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:28:45",
+      "origin": "そうなのですね。話すのが怖いのですね。では、話さなくてもその場に居ることはどうですか？",
+      "content": "I see. So it's scary to talk. In that case, what about just being there without having to talk?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:29:15",
+      "origin": "出来たらいたくないですが、新しい学校では頑張ってみます",
+      "content": "I'd rather not be there if I can help it, but I'll try my best at the new school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:30:02",
+      "origin": "そうですよね。今の学校では辛いと思うので、そこのところを親に話しをしてみてはどうでしょうか？",
+      "content": "I understand. Your current school is painful for you, so how about trying to talk to your parents about that specific point?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:30:23",
+      "origin": "もう一度言ってみます",
+      "content": "I’ll try telling them again."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:30:30",
+      "origin": "次の学校では、このように考えていると言うことをわかっってもらったらどうでしょうか？",
+      "content": "How about helping them understand that this is how you're thinking about the next school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:30:44",
+      "origin": "それも話してみます",
+      "content": "I'll try talking about that, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:31:21",
+      "origin": "あなたは、キチンと考えてます。そして辛くても前に進もうとしてます。きっと親もわかってくれるのではないとか私は思います。",
+      "content": "You are thinking things through properly. And even though it's painful, you're trying to move forward. I believe your parents will surely come to understand."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:31:33",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:31:51",
+      "origin": "頑張るあなたのことを応援してます。",
+      "content": "I'm cheering for you and all your hard work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:32:21",
+      "origin": "そろそろお時間となりましたが、お話してみて今日はいかかがでしたか？",
+      "content": "It's about time for us to finish. How was it for you to talk about things today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:32:42",
+      "origin": "考えが少し整理できました",
+      "content": "I was able to organize my thoughts a bit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:33:38",
+      "origin": "それは良かったです。また、悩んだり、迷ったときはいつでもこちらにきてお話してくださいね。いつでもお持ちしてます。",
+      "content": "I'm glad to hear that. If you're ever worried or unsure about anything again, please feel free to come here and talk anytime. We're always here for you."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:34:03",
+      "origin": "はい、また来るかもしれません",
+      "content": "Yes, I might come again."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:34:49",
+      "origin": "本日は、大切なお話を聴かせていただきありがとうございました。無理せずに自分のペースで進んで下さいね。いつでもお待ちしてますからね。",
+      "content": "Thank you for sharing your important story with me today. Please don't push yourself, and move forward at your own pace. I'll always be here for you."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:34:59",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:35:28",
+      "origin": "あなたの未来が素敵に輝きますように祈ってます。本日は、ありがとうございました。",
+      "content": "I’m wishing for a bright and wonderful future for you. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:35:48",
+      "origin": "本日は、ここまでとさせていただきます。",
+      "content": "We'll end here for today."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:35:55",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:36:09",
+      "origin": "（ありがとうございました。終了しても大丈夫でしょうか？）",
+      "content": "(Thank you. Is it alright if we conclude the session?)"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-02T11:36:24",
+      "origin": "(ありがとうございました。大丈夫です)",
+      "content": "(Thank you. Yes, that's fine.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-02T11:36:57",
+      "origin": "（では失礼します。とても勉強になりました。ありがとうございました。）",
+      "content": "(Then I'll take my leave. This was a great learning experience. Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない理由（友達との関係）"
+  },
+  "review_by_client": {
+    "evaluation_id": 6522,
+    "evaluation_created_at": "2024-03-02T12:28:00",
+    "client_id": 466,
+    "counselor_id": 448,
+    "score": 79,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

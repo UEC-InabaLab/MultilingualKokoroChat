@@ -1,0 +1,477 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-02-21T09:57:06",
+      "origin": "おはようございます！よろしくお願いいたします",
+      "content": "Good morning! Thank you for your time today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T09:57:48",
+      "origin": "（こちらこそ、よろしくお願い致します。時間になりましたら始めますね。）",
+      "content": "(Likewise, thank you. We’ll begin when it’s time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:00:04",
+      "origin": "こんにちは、相談員です。本日はご相談に来て頂き、ありがとうございます。まず初めに、年齢、性別、ご相談内容について教えてください。",
+      "content": "Hello, I'm the counselor. Thank you for coming in for a consultation today. First, could you please tell me your age, gender, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:00:17",
+      "origin": "48歳女性、認知の父の事で悩んでいます",
+      "content": "I'm a 48-year-old woman, and I'm worried about my father who has dementia."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:01:05",
+      "origin": "父親のことでお悩みなんですね。具体的に教えて頂けますか？",
+      "content": "I see, you're concerned about your father. Could you please tell me more specifically?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:02:13",
+      "origin": "父子家庭で兄と３人で暮らしています。どうしても私が父の面倒をみなくてはならなくて、大変だし、将来の事が不安になってきました",
+      "content": "I live with my father and older brother in a single-father household. I'm the one who has to take care of my father, and it's very difficult. I've started to become anxious about my future."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:03:33",
+      "origin": "なるほど、3人で暮らしていらっしゃるけれども、相談者様が主に面倒を見られていると。",
+      "content": "I see. So the three of you live together, and you’re the primary caregiver."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:03:51",
+      "origin": "はい、兄は仕事なので・・・",
+      "content": "Yes. My brother is working, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:04:21",
+      "origin": "お兄さんはお仕事もあるのですね。ちなみに相談者様はお仕事はされていますか？",
+      "content": "Your brother has work, I see. By the way, are you currently working?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:05:16",
+      "origin": "父は５年前から認知が始まり、その時にフルタイムから週3勤務に変更してしまいましたが、認知がひどくなってきたので退職しました",
+      "content": "My father started showing signs of dementia five years ago. At that time, I switched from full-time to working three days a week, but as his dementia worsened, I had to quit my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:06:24",
+      "origin": "そうなんですね。父親のために辞めざるを得なくなったということですよね。",
+      "content": "I see. So you felt you had no choice but to leave your job for your father's sake."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:06:45",
+      "origin": "はい、そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:06:45",
+      "origin": "父親の認知について、今の状況はどのような感じでしょうか？",
+      "content": "Regarding your father's dementia, could you describe his current condition?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:09:57",
+      "origin": "だいたいで、構いませんよ。",
+      "content": "A general description is perfectly fine."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:10:17",
+      "origin": "目を離すと、食い散らかしてたり、危ないのがポットのお湯が一番上の線までに水が入っていないと、水を足すんです。ただ、水ではなく、ペットボトルのお茶をいれたりするので、その度に洗ったりなど、毎日大変です",
+      "content": "If I take my eyes off him, he'll make a mess with his food. The dangerous thing is, if the water in the electric kettle isn't up to the top line, he adds more. But instead of water, he'll pour in bottled tea, so I have to wash it out every time. It's a struggle every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:11:17",
+      "origin": "教えて頂き、ありがとうございます。なるほど、そのような行動をされるのですね。",
+      "content": "Thank you for sharing that. I see—that’s the kind of behavior he’s showing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:11:43",
+      "origin": "それがある度、相談者様が対応されているということですか？",
+      "content": "And each time that happens, you’re the one who handles it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:12:31",
+      "origin": "はい、でも父はもともと明るい性格なので、笑ってごまかそうとするので、怒れないというか・・・",
+      "content": "Yes, but my father has always had a cheerful personality, so he tries to laugh it off, which makes it hard for me to get angry..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:13:10",
+      "origin": "そうなんですね。それはそれで大変ですよね。",
+      "content": "I see. That must be tough in its own way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:13:40",
+      "origin": "父親も良いところがあったために、あまり責める気持ちにもなれないですよね。",
+      "content": "Because your father has his good qualities, it's hard to bring yourself to blame him, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:14:42",
+      "origin": "そうなんです。デイケアに週2頼んでいますが、そこも人不足で要介護1の父はいったんやめなければならなくなって大変です",
+      "content": "Exactly. We were using a day care service twice a week, but they are short-staffed, so my father, who is at Care Level 1, had to stop attending for now. It's been very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:16:06",
+      "origin": "そうだったんですね。いきなり環境が変わるというのも大変ですよね。",
+      "content": "I see. It must be difficult to deal with such a sudden change in your routine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:16:49",
+      "origin": "将来が不安とのことですが、なぜ不安なのか具体的に教えて頂けますか？",
+      "content": "You mentioned you are anxious about the future. Could you tell me more specifically what makes you anxious?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:18:27",
+      "origin": "はい、今は失業手当と兄のお給料でなんとかなっていますが、失業保険が終わったらフルタイムで働きたいのが私の希望です。私は独身なので老後の貯金などもしたいので、でもこの状況だときっと無理だと思うので・・・",
+      "content": "Right now we’re managing with my unemployment benefits and my brother’s salary, but once my benefits end, I hope to work full-time. I’m single and want to save for retirement, but in this situation I don’t think that will be possible..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:20:08",
+      "origin": "なるほど、将来お金はなんとか貯めておきたいけれども、今の状況を考えると難しいということですね。",
+      "content": "I see—you’d like to save money for the future, but given the current situation, it feels difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:20:24",
+      "origin": "確かに、お金の目処がないと不安になりますよね。",
+      "content": "It's certainly natural to feel anxious when your financial future is uncertain."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:20:58",
+      "origin": "はい、就職もこの年齢では難しいのに、数年後に就職になると、もっと厳しく、不安とストレスで夜も眠れないです",
+      "content": "Yes, finding a job is hard at my age, and if it ends up being a few years from now, it will be even tougher. The anxiety and stress keep me up at night."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:22:49",
+      "origin": "就職のことについても悩まれているのですね。父親が認知になってから５年間もお世話されてきて、よく頑張ってこられましたね。",
+      "content": "So you're also worried about finding a job. You've been caring for your father for five years since his dementia started. You've been doing so well for so long."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:23:39",
+      "origin": "夜も寝れないというのも大変ですね。かなりお辛い状況なのではと思います。",
+      "content": "Not being able to sleep at night must be very hard. I imagine you're in a very painful situation."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:24:30",
+      "origin": "しうですね・・・こんな家庭はたくさんあると思いますが、でもやっぱり自分の事となると辛くて・・",
+      "content": "Yes... I know many families go through this, but when it’s my own situation, it’s still painful..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:24:39",
+      "origin": "そうですね・・・の間違えです",
+      "content": "That was a typo for 'Yes...'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:25:29",
+      "origin": "はい、大丈夫ですよ。いざ自分ごとになると、中々受け入れられないですよね。",
+      "content": "Yes, that's all right. When it's happening to you personally, it's very difficult to accept, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:26:21",
+      "origin": "少しお聞きしたいのが、相談者様は、今何が変わったら楽になりますか？",
+      "content": "I'd like to ask, what change right now would make things easier for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:27:11",
+      "origin": "自分の事だけ考えていければ、本当に楽ですよね・・・。無理ですけど",
+      "content": "If I could just focus on myself, that would be so much easier... though I know it’s not possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:28:13",
+      "origin": "うんうん、お仕事のことやお金自体のことも考えてましたもんね。",
+      "content": "Mmm-hmm, you've been thinking about your job and money itself, haven't you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:28:47",
+      "origin": "負担が少し無くなれば、多少楽になるという感じでしょうか？",
+      "content": "Does it feel like if your burden were lightened even a little, things would be somewhat easier?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:29:20",
+      "origin": "そうですね。",
+      "content": "Yes, I think so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:29:37",
+      "origin": "分かりました。少しお話をまとめますね。",
+      "content": "I understand. Let me summarize our conversation so far."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:29:44",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:32:09",
+      "origin": "まず、相談者様には5年前から認知の父がいらっしゃる。お世話をしなければいけないが、就職や将来のことを考えるとお金をなんとかしていきたい。しかし、そのような時間もないためとても不安である。何か負担を軽減することができればという現状である。",
+      "content": "First, your father has had dementia for five years. You need to care for him, but thinking about work and the future, you want to secure your finances. However, you don’t have the time, so you feel very anxious. You’re hoping to find ways to reduce your burden."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:32:33",
+      "origin": "おおまかですが、以上で合っていますでしょうか？",
+      "content": "That’s a rough summary—does that sound accurate?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:33:16",
+      "origin": "はい、だいたい合っています。",
+      "content": "Yes, that’s mostly right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:34:05",
+      "origin": "ご確認ありがとうございます。でしたら、この「負担を軽減できないか」というところについて考えていければと思いますが、いかがでしょうか？",
+      "content": "Thank you for confirming. In that case, I'd like to explore how we might be able to 'reduce your burden.' How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:34:16",
+      "origin": "そうですね、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:34:38",
+      "origin": "分かりました。一緒に考えていきましょうね。",
+      "content": "Alright. Let’s think it through together."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:34:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:35:01",
+      "origin": "まず、相談者様の方で何か行動に移されていることはありますか？",
+      "content": "First, are there any steps you have already taken?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:36:58",
+      "origin": "デイケアの方から言われたので、要介護1のままなので、もう一度更新すれば要介護2とか3とかに上がるかもしれないので、一度、更新してみて上がれば、受け入れられるかもしれないので、今度役所に行くようにしてます",
+      "content": "The day care center staff told me that since his care level is still 1, if we apply for a reassessment, it might be raised to Level 2 or 3. If it's raised, he might be accepted back, so I'm planning to go to the city office soon."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:38:23",
+      "origin": "なるほど、介護レベルが上がれば受け入れてくれる可能性があるということですね。",
+      "content": "I see—if his care level goes up, there’s a chance they can accept him."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:38:51",
+      "origin": "そうです、上がれば負担も少し減ると思います",
+      "content": "Yes. If it’s raised, I think my burden will ease a bit."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:39:32",
+      "origin": "そうですよね。そうなると楽になりますよね。ちなみに、実際上がりそうな状態ですか？",
+      "content": "That makes sense. It would make things easier. By the way, does it seem likely that his level will be raised?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:40:22",
+      "origin": "そこは、なんとも言えないです。身体はピンピンしているので・・。ただ認知の進み具合で上がるかもとは言われました。",
+      "content": "It's hard to say. Physically, he's very healthy... But they did say it might be raised depending on the progression of his dementia."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:42:39",
+      "origin": "そうなんですね。認知の進み具体で、なんですね。",
+      "content": "I see. So it depends on the progression of his dementia."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:43:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:44:19",
+      "origin": "介護レベルが上がれば、そのまま楽にはなるのは良いですね。ただ、もし上がらなかった時はまた大変な思いになりますよね。",
+      "content": "It would be great if his care level is increased, as that would make things easier. But if it isn't, you'll be facing hardship again, won't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:45:50",
+      "origin": "そうですね・・・。私としても、失業手当をもらい終えたら、週3でも働きたいと思っていますので",
+      "content": "That's true... As for me, once my unemployment benefits end, I want to start working, even if it's just three days a week."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:47:18",
+      "origin": "少しお時間が限られていますので、その場合のお話はまた今度聞かせてください。",
+      "content": "Our time is a bit limited, so please tell me more about that scenario next time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:47:47",
+      "origin": "今回お話したいのは、もし働けてお金が貯まったら何かされたいことはありますか？",
+      "content": "What I'd like to talk about today is, if you were able to work and save up money, is there anything you would want to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:48:29",
+      "origin": "貯金をしたいです。この年でほぼ0ですので・・・。",
+      "content": "I want to save money. At my age, I have almost nothing saved..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:49:08",
+      "origin": "そうですよね、まず貯金がないと不安ですよね。どれくらい貯まったら安心できますか？",
+      "content": "Right, it's natural to feel anxious without savings. How much would you need to have saved to feel secure?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:49:59",
+      "origin": "よくニュースで老後2000万はいると言われてますよね。それは無理だと思いますが出来るだけ貯めたいです",
+      "content": "They often say on the news you need 20 million yen for retirement. I don’t think that’s realistic for me, but I want to save as much as I can."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:50:58",
+      "origin": "確かによく言われていますね、ちょっと無茶な金額にも感じられますよね。",
+      "content": "That is often said, isn't it? It can feel like a bit of an unreasonable amount."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:51:57",
+      "origin": "そうですよね・・。でも1000万近くは貯めないと不安ですよね。独身だし、何もないので",
+      "content": "Right... But I feel I need to save close to 10 million yen to feel at ease. I’m single and don’t have anything to fall back on."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:52:16",
+      "origin": "そうですね。ただ少なくとも、将来のために今の状況を変えたいとご努力されている相談者様なら、きっと頑張れると思っています。",
+      "content": "I agree. But at the very least, I believe that someone like you, who is trying so hard to change your current situation for the sake of your future, can definitely do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:52:57",
+      "origin": "ここまでお話されてきて、いかがでしょうか？",
+      "content": "How are you feeling after talking through this so far?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:54:19",
+      "origin": "ありがとうございます。今はなるようにしかならないという事も分かってたけど、話してスッキリはしました。なかなか友達にもこんな辛気臭い話できなかったので・・・",
+      "content": "Thank you. I knew that things will be what they will be, but talking about it has made me feel lighter. It’s hard to share such gloomy topics with friends..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:55:35",
+      "origin": "スッキリされたとのことで良かったです。こちらこそ、ご相談に来て頂きありがとうございました。そうですよね、中々お知り合いの方に話すという訳にもいかないですもんね。",
+      "content": "I'm glad to hear you feel better. Thank you for coming in for a consultation today. I understand, it's not easy to talk about these things with acquaintances."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:56:14",
+      "origin": "そろそろ終了時間となりますが、もしまたちょっとした悩みが出てきたら、いつでも来て頂いて大丈夫ですからね。",
+      "content": "Our time is almost up, but if you have even a small concern in the future, please feel free to come back anytime."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:56:29",
+      "origin": "また一緒に考えましょう。",
+      "content": "Let’s think it through together again."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:56:41",
+      "origin": "はい、ありがとうございます。また何かあれば相談します。",
+      "content": "Yes, thank you. I’ll reach out again if anything comes up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:57:19",
+      "origin": "はい、よろしくお願い致します。それでは終了メッセージを送らせて頂きますが、よろしいでしょうか？",
+      "content": "Understood. I will now send the closing message, is that alright?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T10:57:35",
+      "origin": "大丈夫です。ありがとうございました。",
+      "content": "That’s fine. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T10:58:11",
+      "origin": "分かりました。またいつでも来てくださいね。それでは終了メッセージを送信します。",
+      "content": "Understood. Please feel free to come anytime. I’ll now send the closing message."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "父親の認知症と介護の負担"
+  },
+  "review_by_client": {
+    "evaluation_id": 4650,
+    "evaluation_created_at": "2023-02-21T11:10:00",
+    "client_id": 331,
+    "counselor_id": 342,
+    "score": 69,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

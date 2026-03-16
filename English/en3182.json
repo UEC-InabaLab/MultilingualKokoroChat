@@ -1,0 +1,555 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-02-23T09:51:02",
+      "origin": "(おはようございます。時間になったら始めさせていただきます。どうぞよろしくお願いいたします。)",
+      "content": "(Good morning. We will begin at the scheduled time. I look forward to our session.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T09:52:43",
+      "origin": "（おはようございます。こちらこそ、よろしくお願いします。）",
+      "content": "(Good morning. Likewise, I look forward to our session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:00:07",
+      "origin": "（時間になりましたので、始めさせていただきます。）はじめまして、相談員です。本日はどうぞよろしくお願いいたします。よろしければ、まず最初にご年齢と性別をお知らせ頂けますか？",
+      "content": "(It's time, so let's begin.) It's nice to meet you. I'm the counselor. Thank you for being here today. If you don't mind, could you please start by telling me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:00:35",
+      "origin": "よろしくお願いします。52歳、男性です。",
+      "content": "Thank you. I'm 52 years old, and male."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:00:48",
+      "origin": "ありがとうございます。では、本日はどういったご相談でしょうか。どんなことでも話してくださいね。",
+      "content": "Thank you. So, what would you like to discuss today? Please feel free to share anything."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:01:25",
+      "origin": "はい、よろしくお願いします。21歳の次男のことでご相談があります。",
+      "content": "Yes, thank you. I'd like to talk about my second son, who is 21 years old."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:02:04",
+      "origin": "お子様のことですね。差し支えなければ、もう少し詳しく教えていただけますか？",
+      "content": "I see, it's about your son. If you're comfortable, could you please tell me a bit more in detail?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:03:05",
+      "origin": "はい、高校卒業して、もうすぐ3年が経つのですが、まだ就労していないので、そろそろ働いて欲しいな、と思っています。",
+      "content": "Yes, it's been almost three years since he graduated from high school, but he hasn't started working yet, and I'm thinking it's about time he got a job."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:04:16",
+      "origin": "なるほど、卒業後にずっとお仕事をされていないことをご心配されているのですね。",
+      "content": "I see—so you’re concerned that he hasn’t been working at all since he graduated."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:04:30",
+      "origin": "そうなんです。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:04:52",
+      "origin": "何か理由があるのでしょうか？",
+      "content": "Is there any particular reason for that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:05:51",
+      "origin": "う～ん、働かない理由がわからないんですよね。",
+      "content": "Hmm, I don't know the reason why he isn't working."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:07:12",
+      "origin": "なるほど、理由がわからないとさらに心配になりますね。ご本人とは、そのことでお話をする機会はもたれているのですか？",
+      "content": "I see. It must be even more worrying when you don't know the reason. Have you had a chance to talk with him about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:08:30",
+      "origin": "はい、心配しています。次男とは、そのことについて、最近は話をしていません。",
+      "content": "Yes, I'm worried. Lately, I haven't talked with my second son about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:09:26",
+      "origin": "親御さんとしてご心配なのは当然のことだと思います。最近は、と書かれていますが、以前はお話をされたということなのでしょうか？",
+      "content": "I think it's perfectly natural for you to be concerned as a parent. You mentioned 'lately'; does that mean you used to talk about it before?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:11:07",
+      "origin": "そうですね。2年くらい前までは、話をする機会を定期的に設けていました。ですが、聞く耳持たん、といいますか、何よりも本人がその話を嫌がるんですよね。",
+      "content": "That's right. Until about two years ago, I regularly set aside time to talk with him. But he wouldn't listen—or rather, more than anything, he just really dislikes talking about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:12:21",
+      "origin": "なるほど、そうでしたか。それでは、普段のコミュニケーションも少し気遣いをしながらされるというような感じなのでしょうか？",
+      "content": "I see, so that's how it was. Does that mean you have to be a bit careful even with your everyday communication?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:13:00",
+      "origin": "最近の普段のコミュニケーションのことでしょうか？",
+      "content": "Are you asking about our recent everyday communication?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:13:33",
+      "origin": "わかりずらくてすいません。はい。最近のことを伺いました。",
+      "content": "I'm sorry if that was unclear. Yes, I was asking about the recent situation."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:13:41",
+      "origin": "はい、承知しました。",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:13:46",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:14:11",
+      "origin": "最近は、ほとんど会話をしてくれませんね。",
+      "content": "Lately, he hardly talks to me at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:14:38",
+      "origin": "なるほど。それは歯がゆいですね。お父様としてのご心配は、どういったものなのでしょうか？",
+      "content": "I see. That must be frustrating. As his father, what are your specific concerns?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:16:19",
+      "origin": "そうですね。やはり、親は、いつまでも元気で生きているわけではありませんので、今すぐでなくてもいいので、就職して生計を独立して欲しいな、と思っています。",
+      "content": "Well, as parents, we won’t be healthy and around forever, so even if it's not right away, I hope he’ll get a job and become financially independent."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:18:05",
+      "origin": "そうですか、そのようにお考えなのですね。息子さんの将来を心配されておられるのですね。親としては、当然のお考えだと思います。",
+      "content": "I see, that's what you're thinking. You're worried about your son's future. I think that's a very natural way for a parent to feel."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:18:21",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:20:26",
+      "origin": "ここまで、息子さんが仕事につかず、将来を心配されていることまた、最近のコミュニケーションがうまくいっていないことなどうかがいましたが、本日のご相談は、息子さんとどのように接していけばいいかという内容でよろしかったでしょうか？",
+      "content": "So far, I've heard that you're concerned about your son's future because he isn't working, and that communication hasn't been going well recently. So, would it be correct to say that today's consultation is about how you should interact with your son going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:21:32",
+      "origin": "そうですね。最終的には、就職して欲しいのですが、いきなりは無理ですよね。",
+      "content": "That's right. Ultimately, I want him to get a job, but I know that won't happen overnight."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:22:36",
+      "origin": "そうですね。最終的にご本人が納得して行動することが必要になるので、それをどう促すかを考えていくことがよいのではと考えますか、いかがでしょうか？",
+      "content": "I agree. Ultimately, he needs to be the one to accept it and decide to take action, so perhaps it would be good to think about how to encourage that. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:24:06",
+      "origin": "確かに、そうかもしれませんね。",
+      "content": "Yes, that might be true."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:24:43",
+      "origin": "はい、ありがとうございます。では、ご一緒に何ができるかを考えていきましょう。",
+      "content": "Yes, thank you. Then, let's think about what we can do together."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:25:01",
+      "origin": "はい、よろしくお願いします。",
+      "content": "Yes, please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:26:19",
+      "origin": "ちなみに、これまでは、お父様はこの件について、どのようにご次男さんとお話をされてきたのですか？",
+      "content": "By the way, up until now, how have you, as his father, talked to your second son about this?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:28:09",
+      "origin": "そうですね。2年前くらいまでは、早く働け、何に興味があるんだ、余暇はどう過ごすんだ、趣味もないのか、のような感じで接していたな、と思います。",
+      "content": "Let's see. Until about two years ago, I think my approach was to say things like, “Hurry up and get a job,” “What are you interested in?” “How do you spend your free time?” and “Don’t you have any hobbies?”"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:28:58",
+      "origin": "今は、部屋に半分引きこもりのような感じです。",
+      "content": "Now, he's like a semi-recluse in his room."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:30:22",
+      "origin": "そうなのですね。少し失礼な言い方に聞こえてしまったら申し訳ないのですが、少々頭ごなしな表現にも取れますが、それについてはどう思われますか？",
+      "content": "I see. I apologize if this sounds a bit blunt, but some of those statements could come across as rather overbearing. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:31:01",
+      "origin": "そうですね。今となっては、そう思います。",
+      "content": "Yes. Looking back on it now, I think so too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:32:12",
+      "origin": "息子さんへのご心配や、自分の息子であるが故の情けないような感情が、少し強めに表現されてしまったのかもしれませんね。でも仕方がないことのように思います。",
+      "content": "Perhaps your concern for your son, and a sense of disappointment precisely because he is your son, came out a bit strongly. But I feel that's understandable."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:32:44",
+      "origin": "ご理解いただき、ありがとうございます。",
+      "content": "Thank you for understanding."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:33:29",
+      "origin": "今となっては　と書かれていますが、少し後悔というか、別のかかわり方があったかもしれないと思わていますか？",
+      "content": "You mentioned “looking back on it now”—does that mean you feel some regret, or that there might have been another way to approach him?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:34:34",
+      "origin": "後悔はしていますね。何であんな言い方しか、できなかったんだろうとか。",
+      "content": "I do have regrets. I keep wondering why that was the only way I could speak to him."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:35:14",
+      "origin": "長男は、働いていたので、当然次男もすぐに働くものだと思っていました。",
+      "content": "My eldest son was working, so I naturally assumed my second son would start working right away, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:37:10",
+      "origin": "なるほど、そうですか。ご長男との比較というか、比べてしまうというのは無理もないと思います。ただ、そういった関わりが、今のご次男さんの状況を作った原因の一つにお考えだったりもするのでしょうか？",
+      "content": "I see. It’s understandable to end up comparing him with your elder son. Do you also think that this kind of interaction might be one of the factors contributing to your second son’s current situation?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:38:54",
+      "origin": "そうですね。長男と次男を比べたつもりはないんですけど、言葉の端々ににじみ出ていたのかもしれないですね。",
+      "content": "That's right. I didn’t intend to compare my eldest and second son, but it may have seeped through in my words."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:39:07",
+      "origin": "可能性は、あるかもです。",
+      "content": "It's possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:39:15",
+      "origin": "なるほど、そのようにお感じなのですね。",
+      "content": "I see, so that's how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:39:58",
+      "origin": "少しですね。それだけとは、思わないんですけどね。",
+      "content": "To some extent, yes. But I don’t think that’s the only reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:40:28",
+      "origin": "何か他に、原因と思われるようなことがあるのでしょうか？",
+      "content": "Is there anything else you think might be a cause?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:41:07",
+      "origin": "う～ん、今は思いつかないんです。ごめんなさい。",
+      "content": "Hmm, I can't think of anything right now. I'm sorry."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:41:29",
+      "origin": "わかりました。ありがとうございます。",
+      "content": "I understand. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:41:40",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:42:18",
+      "origin": "いずれにしても、やはりもう一度ご次男さんとお話をされることを考えた方がよいかと思うのですが、いかがでしょうか？",
+      "content": "In any case, I think it would be good to consider talking with your second son again. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:42:54",
+      "origin": "そうですね。そう思います。",
+      "content": "Yes, I think so too."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:43:31",
+      "origin": "ただ、お互いに一切会話をしないんですよね。",
+      "content": "However, we don't talk to each other at all."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:44:09",
+      "origin": "顔を合わせると、そむけますし、すぐに逃げます。",
+      "content": "When we see each other, he looks away and quickly leaves."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:45:34",
+      "origin": "はい、これはなんとか一度場を設ける必要はありますね。ただ、その場さえ作れたら。アサーションというコミュニケーション方法があります。相手を尊重しつつ自分の意見を伝えるコミュニケーション方法の一つですこれをご紹介させていただいてもいいでしょうか。",
+      "content": "Yes, it seems we'll need to somehow create an opportunity to talk. If we can just create that opportunity... There is a communication method called “assertion” (or assertive communication). It's a way of expressing your own opinions while respecting the other person. May I introduce it to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:46:34",
+      "origin": "場を設けると、アサーションですか？はい、教えてください。",
+      "content": "Create an opportunity, and then assertion? Yes, please tell me about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:48:01",
+      "origin": "今回の場合では、まず、今日お話しいただいたような親としてのご心配を、ご自身を主語にして伝えます。お父さんの気持ちとして、こう考えている、こう心配していると。その上で、お前はどう考えているのか？と問う方法です。頭ごなしに意見を押し付けるのではなく、それぞれの考えをそのまま伝え合うということです。",
+      "content": "In this case, you would first express the concerns you've shared with me today as a parent, using 'I' statements. As a father, you would say, 'This is what I'm thinking,' and 'This is what I'm worried about.' Then, you would ask, 'What are your thoughts?' It's a method of sharing each other's thoughts as they are, rather than forcing your opinions on him."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:48:29",
+      "origin": "いかがでしょうか？",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:49:02",
+      "origin": "私を主語にして、次男に対して話すんですね？",
+      "content": "So I should speak to my second son using 'I' as the subject?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:49:46",
+      "origin": "はい、最初にお父様の気持ちをお伝えください。自分はこう考えているけど、お前はどう考えているのか？と。",
+      "content": "Yes, first, please convey your feelings as his father. For example, 'This is what I'm thinking, but what are your thoughts?'"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:50:21",
+      "origin": "あ～  なるほど、そうなんですね。わかりました。",
+      "content": "Ah, I see. That makes sense. I understand."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:51:00",
+      "origin": "場を設けるのは、自分で考えるしかないですよね？",
+      "content": "As for creating the opportunity, I guess I have to figure that out myself, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:51:35",
+      "origin": "なかなか難しいもので。",
+      "content": "It's quite difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:51:55",
+      "origin": "まず、アサーションについてですが、近い関係だと、ついつい言わなくてもわかっているはずだという考えになってしまいますが、必ずしも正しく伝わっていないことが多いのです。このように関わるだけでも、相手の対応が変わってくると思います。場を設けるのは、確かにちょっと考える必要がありますね。",
+      "content": "First, regarding assertion: in close relationships, we tend to assume, “they should understand without me having to say anything,” but often things are not conveyed accurately. Just interacting in this way alone can change how the other person responds. As for creating the opportunity, that certainly does require some thought."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:53:04",
+      "origin": "アサーションとは、そういうものなんですね。なんとなく、わかった気がしました。",
+      "content": "So that’s what assertion is. I feel like I have a general idea of it now."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:53:11",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:53:31",
+      "origin": "ありがとうございます。場については、先ずは、最初に、今回のお父さんはいつもと違う的な雰囲気で、その場を作りの提案をするといいのではないでしょうか。",
+      "content": "You're welcome. As for creating the opportunity, perhaps you could start by suggesting it with a 'This time, Dad is different' kind of vibe."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:53:57",
+      "origin": "けっして、重い雰囲気ではなく。",
+      "content": "Definitely not with a heavy atmosphere."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:54:20",
+      "origin": "今回は、いつもと違う、という雰囲気ですね。",
+      "content": "An atmosphere that says, 'this time is different from usual,' right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:54:35",
+      "origin": "はい、わかりました。",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:54:50",
+      "origin": "はい、何かジャックさんならではの方法が見えてきたでしょうか？",
+      "content": "Yes. Have you started to see a way forward that would be uniquely yours, Jack?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:56:31",
+      "origin": "そうですね。アサーションは、確かに良さそうだな、と感じました。あとは、やはりきっかけ作りが、難しいかな～という印象です。",
+      "content": "Well, I do feel that assertion sounds promising. But I still have the impression that creating the initial opportunity will be difficult."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:57:18",
+      "origin": "すみません。そこは、自分で考えろ、っていうところですよね。",
+      "content": "I'm sorry. That's the part I have to figure out myself, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:57:32",
+      "origin": "はい。きっかけ作りはちょっと工夫がいるかもしれませんが、是非ここは頭をひねってみてください。ジャックさんは、息子さんのことを思いやる素敵なお父様でいらっしゃいます。きっと、思いは伝わると思います。",
+      "content": "Yes. Creating that opportunity might take a little creativity, but please do give it some thought. You are a wonderful father who cares deeply for your son. I'm sure your feelings will get through to him."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:57:52",
+      "origin": "では、そろそろ相談時間も迫ってきてしまったのですが、本日のご相談はいかがだったでしょうか？",
+      "content": "Well, our time for today is almost up. How was the session for you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:58:01",
+      "origin": "はい、わかりました。何とかひねり出してみたいと思います。",
+      "content": "Yes, I understand. I'll try my best to come up with something."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:58:09",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:58:31",
+      "origin": "少し試してみたいな、と思いました。",
+      "content": "I feel like I’d like to give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:58:37",
+      "origin": "アサーションを。",
+      "content": "Assertion, I mean."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T10:59:21",
+      "origin": "色々とありがとうございました。",
+      "content": "Thank you for everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T10:59:46",
+      "origin": "こちらこそありがとうございます。素敵な親子関係ができることをこころより願っております。本日はありがとうございました。",
+      "content": "Thank you as well. I sincerely hope you can build a wonderful relationship with your son. Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T11:00:00",
+      "origin": "はい、こちらこそ、ありがとうございました。",
+      "content": "Yes, thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T11:00:17",
+      "origin": "（ありがとうございました。これでロールプレイを修了したいと思います。）",
+      "content": "(Thank you very much. I'd like to conclude the role-play now.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T11:00:44",
+      "origin": "（はい、ありがとうございました。終了してください。）",
+      "content": "(Yes, thank you. Please end the session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T11:01:12",
+      "origin": "（ありがとうございました。忌憚ない評価をお願いいたします。）",
+      "content": "(Thank you. Please provide your frank evaluation.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "次男とのコミュニケーションの問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3182,
+    "evaluation_created_at": "2022-02-23T11:26:00",
+    "client_id": 270,
+    "counselor_id": 268,
+    "score": 75,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

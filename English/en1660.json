@@ -1,0 +1,915 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:00:29",
+      "origin": "こんにちは。相談員です。",
+      "content": "Hello. I'm the counselor."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:00:46",
+      "origin": "宜しくお願い致します",
+      "content": "It's nice to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:01:07",
+      "origin": "こちらこそ、お願いいたします。お越しくださって、ありがとうございます。",
+      "content": "It's nice to meet you too. Thank you for coming in."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:01:19",
+      "origin": "ご相談の前に、差し支えなければ、ご年齢と性別を教えていただけますか？",
+      "content": "Before we begin, if you don't mind, could you tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:01:39",
+      "origin": "高2、女子",
+      "content": "Second-year in high school, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:02:14",
+      "origin": "ありがとうございます。今日ご相談の中で、お呼びするお名前も教えていただけますか？　ニックネームでもかまいませんよ。",
+      "content": "Thank you. For today's session, may I ask how you'd like me to address you? A nickname is fine."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:02:55",
+      "origin": "あや　と言います。",
+      "content": "My name is Aya."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:03:36",
+      "origin": "あやさんですね。今日はいかがされましたか？",
+      "content": "Aya, then. What brings you in today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:04:55",
+      "origin": "部活の相談なんですけど私はバレー部に入っています。新しい顧問の先生が、厳し過ぎて",
+      "content": "It's about my club. I'm on the volleyball team, and our new coach is just too strict—"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:05:12",
+      "origin": "ええ　(どうぞ続けてくださいね)",
+      "content": "I see. (Please, go on.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:06:18",
+      "origin": "練習が厳しいのと何となく特定の子をひいきしているように見えて",
+      "content": "The training is tough, and it also feels like he favors certain players."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:06:29",
+      "origin": "やる気が出ないのです",
+      "content": "I'm losing my motivation."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:06:53",
+      "origin": "どうしたらいいですか",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:07:22",
+      "origin": "厳しいうえに、贔屓にも感じてしまうなんて…お辛いですよね…",
+      "content": "That must be so difficult... to feel that he's not only strict but also playing favorites."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:07:35",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:08:09",
+      "origin": "あやさんのこと、楽になれるように、一緒に考えていきましょうね。お話聞かせてくださいね",
+      "content": "Let's think this through together so things can feel easier for you, Aya. Please tell me more."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:08:23",
+      "origin": "はい、よろしくおねがいします",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:09:50",
+      "origin": "厳しい指導に耐えているんですね顧問の先生は、いつから新しくなったの？",
+      "content": "It sounds like you're enduring some very tough coaching. When did the new coach start?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:10:42",
+      "origin": "4月からです。まだ来たばっかりの先生なんですが、何だか熱血で",
+      "content": "Since April. He just started, but he's kind of... intense."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:10:56",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:11:10",
+      "origin": "最初から厳しいのです",
+      "content": "He's been strict from the very beginning."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:11:37",
+      "origin": "じゃ、去年とは、感じも違ったってことなのかな？",
+      "content": "So, it sounds like things are quite different from last year?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:11:52",
+      "origin": "はい、そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:12:25",
+      "origin": "去年まではわきあいあいでした",
+      "content": "Last year, the atmosphere was very friendly and harmonious."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:13:03",
+      "origin": "そっか・・・凄いギャップなんだね。それは、なかなか、ついて行くのも大変そうだね。苦しいよね…。",
+      "content": "I see... That's a huge change. It must be very difficult to keep up. That sounds painful."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:13:20",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:13:35",
+      "origin": "どんなふうに厳しいのでしょう？",
+      "content": "In what ways is he strict?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:14:59",
+      "origin": "指導ばかりで、私達の意見などは全く受け入れてくれないし、県大会出場を目指すという意気込みです",
+      "content": "It's all about his coaching; he doesn't accept any of our opinions, and he's dead set on us making it to the prefectural tournament."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:16:17",
+      "origin": "それは、確かに熱血というだけあるね。でも、聞いてもらえないのは、困るよね。",
+      "content": "That certainly sounds intense. But it must be hard when he won't listen to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:17:06",
+      "origin": "では、去年は、県大会を目指す指導ではなかったということなのでしょうか？",
+      "content": "So last year, the coaching wasn't focused on the prefectural tournament?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:19:03",
+      "origin": "あったけど、出場出来なかった、でもチームワークや雰囲気は良かったです。",
+      "content": "We did aim for it, but we didn't make it. Still, the teamwork and atmosphere were good."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:19:28",
+      "origin": "でも今はみんなで話をする時間もなく",
+      "content": "But now, we don't even have time to talk to each other."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:19:46",
+      "origin": "ええ　（聴いていますね）",
+      "content": "I see. (I'm listening.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:20:27",
+      "origin": "上手な人ばっかりに声かけて、",
+      "content": "He only talks to the skilled players,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:21:52",
+      "origin": "私のような時々しか試合に出れない者は力を入れてもらえないのです",
+      "content": "and he doesn't seem to put any effort into those of us, like me, who only get to play in matches occasionally."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:22:21",
+      "origin": "ひいきだと感じてしまいます",
+      "content": "It really feels like favoritism."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:23:06",
+      "origin": "そんな・・・。力を入れてもらえないなんて…",
+      "content": "Oh, my... To feel like he's not putting any effort into helping you..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:23:23",
+      "origin": "ひいきに感じてしまうのも、無理もないですよね…。",
+      "content": "It's completely understandable that you'd feel he's playing favorites."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:24:00",
+      "origin": "やる気もなくなってしまいますよね…。",
+      "content": "And it's natural that your motivation would drop..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:24:19",
+      "origin": "はい、私のひがみかも",
+      "content": "Yes, maybe I'm just being resentful."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:25:27",
+      "origin": "以前とあんまりにも違うし、そう思ってしまいますよね…",
+      "content": "It's so different from before, it's only natural you'd feel that way..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:25:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:26:24",
+      "origin": "厳しすぎるのも、つらいよね。どんなことが、厳しすぎると感じますか？",
+      "content": "The strictness itself must be tough, too. What things feel too strict for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:26:54",
+      "origin": "テスト前でも休まないし、",
+      "content": "We don't get time off even before exams, and—"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:27:05",
+      "origin": "ええ？！",
+      "content": "Really?!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:27:57",
+      "origin": "練習のやり方も先生が全部決めてるから、",
+      "content": "The coach decides everything about how we practice, so—"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:28:34",
+      "origin": "やらされている感　ばかりを感じてしまいます",
+      "content": "it just feels like we're being forced to do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:29:36",
+      "origin": "ええ、ええ。自分たちの意見も取り入れてもらえないと、そう思ってしまって、いやになってしまいますよね",
+      "content": "I see, I see. When your own opinions aren't included, it's easy to feel that way and become discouraged, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:30:42",
+      "origin": "はい、強いチームになることも良いのですが",
+      "content": "Yes, becoming a strong team is a good thing, but—"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:30:51",
+      "origin": "ええ",
+      "content": "Yes..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:31:45",
+      "origin": "チームの雰囲気が悪くなったし、",
+      "content": "The team's atmosphere has gotten worse, and—"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:31:55",
+      "origin": "そんな・・・",
+      "content": "Oh no..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:32:26",
+      "origin": "みんなあまり喋らなくなったのがしんどいです",
+      "content": "It's hard that people don't talk much anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:33:50",
+      "origin": "ええ、ええ。厳しいばかりで、みんなで取り組んでる気持ちになれないから、きちかずもへってしまうのですね・・・。物凄く、しんどいことと思います。",
+      "content": "I see. Because it's just so strict, it doesn't feel like everyone is working together, so people talk less... That must be incredibly tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:34:08",
+      "origin": "口数も減ってしまうのですね",
+      "content": "So people are talking less."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:34:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:35:45",
+      "origin": "勝ちたいのはもちろんだけど、雰囲気がいい中で、練習できたらいいですよね…。",
+      "content": "Of course you want to win, but it would be nice to be able to practice in a good atmosphere, wouldn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:36:13",
+      "origin": "はい、それが一番いいです",
+      "content": "Yes, that would be the best."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:36:25",
+      "origin": "ええ、ええ。今まで、あやさんのお話伺って、",
+      "content": "Yes, I see. Listening to what you've shared so far, Aya,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:36:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:37:43",
+      "origin": "あなたは本当に、あまりにも違った新しい環境を受け入れるのは、本当に苦しい毎日でしたよね。",
+      "content": "it's clear you've been having a really difficult time every day, adjusting to this completely new and different environment."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:37:58",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:38:53",
+      "origin": "やる気もなくなってしまう程に…でも、こうやって、相談に来てくれて、ありがとう。",
+      "content": "So much so that you're losing your motivation... But thank you for coming here to talk about it."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:39:02",
+      "origin": "いえ",
+      "content": "No, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:40:45",
+      "origin": "良い雰囲気で、結果が出せるようにになるといいですよね。そのためにも、顧問の先生に、一番わかってほしい気持ちって、どんなことでしょう？",
+      "content": "It would be great if you could get good results in a positive atmosphere. To achieve that, what is the main thing you wish the coach would understand?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:43:15",
+      "origin": "自主性ややる気が出るように指導してほしい　と言うことかな？",
+      "content": "That I'd like them to coach us in a way that fosters our autonomy and motivation, I guess?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:44:00",
+      "origin": "ええ、ええ。とても大切な問題が明確になっているのですね。",
+      "content": "Yes, I see. You've clearly identified a very important issue."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:44:15",
+      "origin": "それから、",
+      "content": "And also,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:45:04",
+      "origin": "部員の扱いの違いも気になりますね・・・。部員同士では、どんな雰囲気になっているのでしょうか？",
+      "content": "The differences in how members are treated are concerning, too. What's the atmosphere like among the team members?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:46:35",
+      "origin": "そうですね、上手な人はいつも気にかけてもらってずるいと思っている人もあります",
+      "content": "Well, some people think it's unfair that the skilled players always get all the attention."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:47:16",
+      "origin": "だからお互いの心を探る感じて見てしまいます",
+      "content": "So we all end up kind of cautiously trying to figure out what everyone else is thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:47:53",
+      "origin": "そんなことに…",
+      "content": "It's come to that..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:48:39",
+      "origin": "実際には、何か、気まずい事とかも起きてはいないのでしょうか？",
+      "content": "Has anything awkward actually happened?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:49:29",
+      "origin": "まだ日が短いのでそこまではないです。これからはわかりませんが",
+      "content": "It hasn't been long, so not yet. But I don't know what will happen from now on."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:50:08",
+      "origin": "ええ、これからの部の雰囲気をよい方向にもっていきたいですよね",
+      "content": "I understand. You want to steer the club's atmosphere in a better direction for the future."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:51:06",
+      "origin": "それでは",
+      "content": "In that case..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:51:20",
+      "origin": "はい、私は皆んなが仲良くできることが一番だと思っています",
+      "content": "Yes. I believe the most important thing is for everyone to get along."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:51:57",
+      "origin": "ええ、ええ。あやさんは、それだけ、バレーが好きで、仲間のことも大切にされているのですね",
+      "content": "I see. That shows just how much you love volleyball and care about your teammates."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:52:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:53:25",
+      "origin": "ご自身の苦しい気持ちも抱えながら、みんなのことまで考えるあなたは、やさしくて、力を持った方なのだと思いました。",
+      "content": "To be thinking about everyone else while dealing with your own difficult feelings... I think that shows you are a kind and strong person."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:53:39",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:55:06",
+      "origin": "それでは、あなたのチームがやる気を取り戻して、良い雰囲気の中で、勝てるチームになるために",
+      "content": "Alright then, in order for your team to regain its motivation and become a winning team in a positive atmosphere,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:55:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:55:30",
+      "origin": "何ができるかを一緒に考えていきましょう",
+      "content": "let's think together about what can be done."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:55:57",
+      "origin": "おねがいします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:55:57",
+      "origin": "あやさんが悩んでいることについて、",
+      "content": "Regarding what you've been struggling with,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:56:14",
+      "origin": "部内の誰かに相談したことはありますか？",
+      "content": "have you talked to anyone else on the team about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:57:04",
+      "origin": "ありますが、その子もそんなにバレーが上手ではないので",
+      "content": "I have, but that friend isn't that skilled at volleyball either, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:57:16",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:57:50",
+      "origin": "私と同じ気持ちをお互いに言い合うだけなんです",
+      "content": "we just end up telling each other that we feel the same way."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:58:19",
+      "origin": "気持を分かり合えるお友達がいるのですね。",
+      "content": "So you have a friend who understands how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:58:38",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T12:59:04",
+      "origin": "でも、それだけでは、何かが足りないですよね",
+      "content": "But that alone doesn't quite feel like enough, does it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T12:59:22",
+      "origin": "そうなんですよね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:00:25",
+      "origin": "先輩方とは、お話はされましたか？",
+      "content": "Have you spoken with the senior players?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:01:23",
+      "origin": "先輩と話をする事は気が引けて、",
+      "content": "I feel hesitant to talk to the seniors,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:01:42",
+      "origin": "普段から挨拶するのみです",
+      "content": "I usually just greet them and that's it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:02:26",
+      "origin": "そうなんですね。それは、前の顧問の先生の時もそう感じていたのでしょうか？",
+      "content": "I see. Did you feel that way when the previous coach was here, too?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:04:07",
+      "origin": "はい、そうなんです。先輩は尊い存在と感じ、話をすることを遠慮してしまいます。でも",
+      "content": "Yes, I did. I see the seniors as people to look up to, so I hold back from talking to them. But..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:05:42",
+      "origin": "今までは温かい雰囲気で、話をされているのを聞いていることはよくありました",
+      "content": "before, the atmosphere was warm, and I would often hear them talking."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:06:14",
+      "origin": "今は？",
+      "content": "And now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:07:12",
+      "origin": "話をする事や聞く時間がありません。雰囲気が以前とは変わったので。",
+      "content": "There's no time to talk or listen. The atmosphere has changed from how it used to be."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:08:07",
+      "origin": "さっき話してくれてたような雰囲気なんだね、",
+      "content": "It's the atmosphere you were describing earlier, then."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:08:22",
+      "origin": "そうなんです、残念ですが",
+      "content": "That's right—unfortunately."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:10:00",
+      "origin": "気持にも余裕がないんだね・・あなたが敬っている先輩方も、きっと困っているように思いました。",
+      "content": "There's no room for ease... I imagine the seniors you respect must be struggling as well."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:10:17",
+      "origin": "そうなんです",
+      "content": "They are."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:11:05",
+      "origin": "チームや先輩方も",
+      "content": "The team and the seniors..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:12:44",
+      "origin": "その大切な大会、大切な試合は、栓パオ型にとっては、もう一度しかないですよね？",
+      "content": "For the seniors, this important tournament, this important match, is their last chance, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:13:11",
+      "origin": "そうなんです。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:13:20",
+      "origin": "先輩方には）です。ごめんなさい",
+      "content": "(For the seniors), I mean. I'm sorry."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:14:07",
+      "origin": "いえいえ、だから厳しいのも大切な任務かも知れません",
+      "content": "No, no, that's okay. That's why his strictness might be an important part of his job."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:14:30",
+      "origin": "そう思われるのですね。",
+      "content": "So you see it that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:14:49",
+      "origin": "そうも思います",
+      "content": "That's one way I think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:15:29",
+      "origin": "顧問の先生の思いも、理解しようとされているのですね。いろんな方向から、考えておられるんですね",
+      "content": "You're trying to understand the coach's perspective as well. You're thinking about this from various angles."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:16:07",
+      "origin": "では、あなたが望む方向に向かうためには、",
+      "content": "Then, in order to move in the direction you want,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:16:15",
+      "origin": "そう思ったり、やる気が出なかったり、",
+      "content": "I swing between thinking that and losing motivation,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:16:45",
+      "origin": "でも気持ちが、整理できてきました",
+      "content": "but my feelings are starting to become clearer."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:16:55",
+      "origin": "ええ、ええ。",
+      "content": "Yes, I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:17:14",
+      "origin": "(お時間大丈夫でしょうか？)",
+      "content": "(Are we okay on time?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:17:26",
+      "origin": "（大丈夫です）",
+      "content": "(Yes, it's fine.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:17:55",
+      "origin": "(ありがとうございます、続けさせていただきますね)",
+      "content": "(Thank you, I'll continue then.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:18:08",
+      "origin": "（引き続きおねがいします）",
+      "content": "(Please do.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:18:40",
+      "origin": "どんなふうになったら、今より良くなったと思えるでしょう？",
+      "content": "What kind of change would make you feel that things have gotten better than they are now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:19:55",
+      "origin": "今までが少しぬるま湯に使った感じだったので、",
+      "content": "I think maybe we were a bit too comfortable before,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:22:18",
+      "origin": "意識的に気持ちを変える事も大事かなと思います。厳しさには訳があることを考えるようにしていきます",
+      "content": "so I think it's important to consciously change my mindset. I'll try to remember that there's a reason for the strictness."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:22:40",
+      "origin": "あやさんは、客観的な目で見ることもできているのですね。厳しさも必要だと。",
+      "content": "Aya, it seems you're able to look at this objectively. You see that the strictness is also necessary."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:22:54",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:23:36",
+      "origin": "ご自身の気持ちに負けないで、しっかり向き合おうとされているのだと思いました",
+      "content": "I feel that you're trying to face this head-on, without being defeated by your own feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:24:29",
+      "origin": "厳しさには訳がある…。あなたの中から生まれた言葉ですね。",
+      "content": "'There's a reason for the strictness...' Those words came from within you."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:24:46",
+      "origin": "はい、先輩には残り少ない時間ですからそのことにしっかり取り組む姿勢が必要だと感じました",
+      "content": "Yes. The seniors don't have much time left, so I felt that we need to approach this with a serious attitude."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:25:20",
+      "origin": "ええ、ええ。自分のためにも、大切な先輩のためにも、",
+      "content": "Yes, I see. For your own sake, and for the sake of your treasured seniors."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:25:29",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:25:46",
+      "origin": "大好きなチームですから",
+      "content": "because it's a team I love."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:26:31",
+      "origin": "ええ、ええ。あなたが、大切で大好きなチームのために、毅然と立ち向かおうとしている姿。",
+      "content": "Yes, yes. Your resolute stance to face this for the team you cherish and love."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:27:19",
+      "origin": "ありがとうございます。気持ちを切り替えて練習に取り組みます",
+      "content": "Thank you. I'm going to change my mindset and focus on practice."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:27:42",
+      "origin": "今日は本当にありがとうございました",
+      "content": "Thank you so much for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:28:14",
+      "origin": "ええ。応援していますねとてもりりしくて強さのなかに、やさしさを持ったあやさん",
+      "content": "Of course. I'll be rooting for you. Aya, you are so dignified, and you have a kindness within your strength."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:28:42",
+      "origin": "あなたのことも、チームのことも応援していますね",
+      "content": "I'll be rooting for you and for your team."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:28:56",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:29:06",
+      "origin": "今日は、気持ち、話してくれて、ありがとうございました。",
+      "content": "Thank you for sharing your feelings with me today."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:29:23",
+      "origin": "私のほうこそ、ありがとうございました",
+      "content": "No, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:29:40",
+      "origin": "もしまた、しんどいことがあった時は、聞かせてくださいね。応援しています。",
+      "content": "If things get tough again, please don't hesitate to let me know. I'm supporting you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:30:05",
+      "origin": "それでは、話したりない事とか、大丈夫でしょうか？",
+      "content": "Before we finish, is there anything else you wanted to say?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:30:06",
+      "origin": "はい、またその時はお願いします。今日はありがとうございました。",
+      "content": "Yes, I'll reach out if that happens. Thank you for today."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T13:30:29",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, I'm okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T13:31:22",
+      "origin": "では、今日のご相談、終了させていただきますね。お越しくだって、ありがとうございました",
+      "content": "Alright, we'll conclude for today. Thank you for coming in."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "部活の顧問との関係問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1660,
+    "evaluation_created_at": "2021-04-17T22:46:00",
+    "client_id": 102,
+    "counselor_id": 108,
+    "score": 89,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

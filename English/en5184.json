@@ -1,0 +1,573 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-01T09:51:19",
+      "origin": "おはようございます。本日はよろしくお願いいたします。時間になったら始めていきます。",
+      "content": "Good morning. Thank you for coming today. We'll get started now that it's time."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T09:51:52",
+      "origin": "おはようございます。こちらこそ本日は、よろしくお願いします。",
+      "content": "Good morning. Thank you for having me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:00:04",
+      "origin": "こんにちは、相談員です。本日は相談にお越し下さりありがとうございます。ここでは安心して何でもお話ください。",
+      "content": "Hello, I'm the counselor. Thank you for coming in for a consultation today. Please feel free to talk about anything here in a safe space."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:00:15",
+      "origin": "よろしくお願いします。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:00:28",
+      "origin": "はじめに年齢、性別、相談内容を教えてください。",
+      "content": "To start, could you tell me your age, gender, and the reason for your consultation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:00:57",
+      "origin": "30代女性ご近所トラブルで来ました。よろしくお願いします。",
+      "content": "I'm a woman in my 30s, and I'm here because of some trouble with my neighbors. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:01:38",
+      "origin": "教えて頂きありがとうございます。ご近所トラブルでお困りなのですね。もう少し詳しく教えてもらってもいいですか？",
+      "content": "Thank you for sharing that. It sounds like you're having trouble with a neighborhood issue. Could you tell me a bit more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:03:18",
+      "origin": "はい。3歳と5歳の男の子の兄弟がいるのですが、とにかく家の中で走り回ったり、ソファーから飛び降りたりするので、",
+      "content": "Yes. I have two sons, ages three and five, and they run around the house and jump off the sofa all the time, so..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:04:03",
+      "origin": "下の階と言ってもどのお部屋の方か分からないのですが、苦情が出てしまって",
+      "content": "There have been complaints from the floor below—though I don't know which unit—and..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:04:39",
+      "origin": "子どもにもなるべく走らないように注意したり",
+      "content": "I try to remind the children not to run as much as possible,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:05:21",
+      "origin": "下の階の方から苦情が出ているのですね。自分の子ではないのに、それは困ってしまいますよね。お子さんが遊びにきているということはママ友関係でしょうか？",
+      "content": "So, you're getting complaints from the people downstairs. That must be difficult. You mentioned children coming over to play; is this related to friends of yours who are also mothers?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:05:54",
+      "origin": "いえ違います。ウチの子です。",
+      "content": "No, that's not it. They're my children."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:06:48",
+      "origin": "失礼しました、下の階の方とのご近所トラブルですね。",
+      "content": "I'm sorry for the misunderstanding. It's a neighborhood issue with the people downstairs."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:07:16",
+      "origin": "お子さんに注意をするけれどもなかなかやめてくれないのですか？",
+      "content": "Do you find that even when you tell your children to stop, they don't listen for long?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:08:17",
+      "origin": "そうなんです。注意した一瞬は、静かにするのですが気がつくとバタバタしてしまいます。下の方も日々の生活での音がうるさいらしく、管理人の方を通して定期的にクレームが来ます。",
+      "content": "Exactly. They'll be quiet for a moment when I tell them, but before I know it, they're making a racket again. The person downstairs seems to be bothered by our daily living noises, and we regularly receive complaints through the building manager."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:09:13",
+      "origin": "そうなのですね、怒るのも疲れるし、下の階の方には気を使うしお困りの事だと思います。",
+      "content": "I see. It must be exhausting to keep scolding them, and stressful to be so considerate of your downstairs neighbors. That sounds very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:09:24",
+      "origin": "はい。そうなんです。",
+      "content": "Yes, that's exactly it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:09:40",
+      "origin": "誰からクレームが入っているかわからない状況もお困りですか？",
+      "content": "Is the fact that you don't know who is making the complaint also part of the problem?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:11:00",
+      "origin": "そうですね。管理人の方に聞いてるのですが、お相手の方を教えていただけません。なので、すぐ下の方からのクレームなのか、隣なのかも分からず毎日びくびくしてしまいます。",
+      "content": "Yes. I've asked the building manager, but they won't tell me who it is. So I don't know whether the complaints are from directly below or next door, and I feel on edge every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:12:13",
+      "origin": "誰からのクレームかわからないことで、いろいろ神経を使ってびくびくしているのですね、それはお辛いですね。",
+      "content": "Because you don't know who is complaining, you're constantly on edge and worried. That must be very painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:12:22",
+      "origin": "そうなんです。",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:13:04",
+      "origin": "誰かわかることで挨拶に行けたり、何かしらの対応が出来るかもしれないのに、",
+      "content": "If you knew who it was, you could go greet them or take some kind of action, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:13:35",
+      "origin": "誰わからないと何も対処が出来ず困ってしまいますね。",
+      "content": "but not knowing leaves you unable to do anything to address it, which must be frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:14:16",
+      "origin": "そうなんです。直接謝りたいのですが、誰だか分からない…と言うところにとても神経がすり減ってしまって…しんどいです。",
+      "content": "Exactly. I want to apologize to them directly, but not knowing who it is... it's just so mentally draining and wearing on my nerves. It's tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:15:15",
+      "origin": "そうですよね、神経がすり減ってしまう。毎日そんな大変な中で頑張ってこられたのですね。",
+      "content": "I can understand that, how it would be mentally draining. You've been doing your best every day in such a difficult situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:15:24",
+      "origin": "ちなみにいつ頃からですか？",
+      "content": "By the way, how long has this been going on?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:15:52",
+      "origin": "丁度1年前くらいからだと思います。",
+      "content": "I think it's been about a year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:16:52",
+      "origin": "1年くらい前から、それは毎日しんどかったですよね。パートナーには相談されたのですか？",
+      "content": "For about a year... that must have been difficult every single day. Have you discussed this with your partner?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:18:13",
+      "origin": "はい。主人にも相談しました。それで、床がフローリングなのですぐクッション式の床材を引き詰めたのですが、あまり効果がなかったみたいで…",
+      "content": "Yes, I've talked to my husband about it. Our floors are hardwood, so we immediately put down cushioned flooring material, but it doesn't seem to have been very effective..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:19:43",
+      "origin": "そうなのですね、一緒に考えて出来ることをやってみたのですね。それでも効果があまりないと、途方に暮れてしまいますよね。",
+      "content": "I see, so you thought about it together and did what you could. It must feel hopeless when that still isn't effective enough."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:20:05",
+      "origin": "そうなんです。",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:20:22",
+      "origin": "毎日びくびくしていると言っていましたが、他にはどのようなことを感じますか？",
+      "content": "You mentioned feeling on edge every day—what else have you been feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:21:31",
+      "origin": "申し訳ない気持ちと心の余裕がないのか子どもにもイライラしてしまったりします。",
+      "content": "I feel apologetic, and maybe because I have no emotional leeway, I end up getting irritated with my children."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:21:58",
+      "origin": "申し訳ないと思っているのは、ご近所の方にです",
+      "content": "I feel apologetic toward my neighbors."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:23:09",
+      "origin": "ご近所さんに対して申し訳ない気持ちと、子どもに対しては余裕がなくなってイライラしてしまうのですね。それほど追い詰められているような状況なのですね。よくここまで頑張ってこられましたね。",
+      "content": "So you feel apologetic toward your neighbors, and you're losing patience and getting irritated with your children. It sounds like you're in a very cornered situation. You've done so well to endure this for so long."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:23:23",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:23:50",
+      "origin": "最近引っ越しも検討し出しています。",
+      "content": "Lately, I've started to consider moving."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:24:20",
+      "origin": "余裕がなくなってお子さんイライラしてしまう、悪循環になってる感じがするのではないでしょうか？",
+      "content": "Losing your patience and getting irritated with your children... does it feel like it's becoming a vicious cycle?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:24:55",
+      "origin": "引越し検討されているのですね、その話が出てからはお気持ち的にはいかがでしょうか？",
+      "content": "So you're considering moving. How have you been feeling since that idea came up?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:25:17",
+      "origin": "質問が続いてしまいすみません。",
+      "content": "Sorry for asking so many questions in a row."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:25:43",
+      "origin": "大丈夫です。そうなんです。子どもには、伸び伸び育って欲しいのでイライラしてしまう自分に対して自己嫌悪の毎日です。",
+      "content": "It's okay. Yes, that's right. I want my children to grow up freely, so I feel self-loathing every day for getting so irritated with them."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:26:34",
+      "origin": "引っ越しも検討しているのですが、今住んでいる場所には、子どもの友達も、私の友達も多くてなかなか決断出来ない感じです。",
+      "content": "I'm considering moving, but we have a lot of friends where we live now, both my children's and my own, so it's hard to make a decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:27:06",
+      "origin": "そうですよね、伸び伸び育って欲しいと思う中で怒ってしまうのは自己嫌悪でモヤモヤしてしまいますよね。",
+      "content": "I understand. Wanting them to grow up freely but still getting angry at them must lead to feelings of self-loathing and frustration."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:27:54",
+      "origin": "そうなんです。なんでイライラしてしまうのか…と思ってそれに対しても自分が嫌でしんどく思っています。",
+      "content": "Exactly. I wonder why I get so irritated... and that makes me dislike myself even more, which is tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:28:53",
+      "origin": "なるほど、引越しとなると環境が大きく変わるので、お友達付き合いも変わってしまうからなかなか踏み切れない。大切なことなので迷ってしまうのも仕方ないことだと思います。",
+      "content": "I see. Moving would be a big change in environment, and your friendships would change too, so it's hard to take that step. These are important things, so it's natural to be hesitant."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:29:55",
+      "origin": "あなたは心の優しい方なのですね。ご近所にも気を使って、愛する子どもは伸び伸び育って欲しい。",
+      "content": "You seem to be a very kind-hearted person. You're considerate of your neighbors, and you want your beloved children to grow up freely."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:30:17",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:30:59",
+      "origin": "ただ思うようにいかなくて余裕がなくなってしまうとしんどくなってしまうのも自然なことかなと思います。",
+      "content": "But I think it's also natural to feel exhausted when things don't go as you wish and you lose your composure."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:31:57",
+      "origin": "他にも不安な気持ち、気がかりなことがありましたら、どんなことでもお話ください。",
+      "content": "If you have any other anxieties or concerns, please feel free to talk about anything."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:32:11",
+      "origin": "はい。そう言っていただけるとチョットホッとします。上の子どもも、もうすぐ小学校で、友達と通うのを楽しみしているので、",
+      "content": "Yes. It's a bit of a relief to hear you say that. My older child will be starting elementary school soon and is looking forward to going with his friends,"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:32:50",
+      "origin": "引っ越しとなると学校のことも考えなくてはいけないので…",
+      "content": "so if we move, we'll have to think about the school situation as well..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:33:35",
+      "origin": "頭が痛いです。",
+      "content": "It's a headache."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:34:14",
+      "origin": "上の5歳のお子さんは年長さんですか？もうすぐ小学生なのですね、成長が楽しみですね。そんな中で学校の事もとなると",
+      "content": "Is your older, five-year-old child in his last year of kindergarten? He'll be in elementary school soon, how exciting to see him grow. But with school matters on top of that..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:35:00",
+      "origin": "さらに考え事が増えて頭も痛くなってしまうのですね。毎日睡眠、休息は取れていますか？",
+      "content": "It just gives you more to worry about and makes your head hurt. Are you getting enough sleep and rest each day?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:35:39",
+      "origin": "そうなんです。年長で、次が小学校です。子どもも私も新しい生活になるので、出来れば知り合いが多いところで生活をしていきたいのですが…",
+      "content": "That's right. He's in his last year of kindergarten, and then elementary school. It will be a new life for both my son and me, so if possible, I'd like to live where we know a lot of people..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:36:05",
+      "origin": "なかなか夜眠れていません。",
+      "content": "I haven't been sleeping well at night."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:36:43",
+      "origin": "そうですよね、小学校となると楽しみもあるけど、新しい環境に不安もあるので知っている人がいた方が安心できるのではと思います。",
+      "content": "Right—starting elementary school is exciting, but a new environment is also anxiety-provoking, so having familiar people around would feel reassuring."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:37:11",
+      "origin": "なかなか眠れていないのですね。とても心配です。",
+      "content": "So you haven't been sleeping well. That’s very concerning."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:38:04",
+      "origin": "そうなんですよ…子どもも人見知りなので出来れば小学校は、友達と同じところで…と思っているんですが",
+      "content": "That's right... my son is also shy around new people, so I'd really like for him to go to the same elementary school as his friends..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:38:20",
+      "origin": "ありがとうございます。子どもが幼稚園に行っている時だけは、音が出ないのでチョットホッと出来ていますが…",
+      "content": "Thank you. The only time I can relax a little is when my children are at kindergarten, because it's quiet..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:39:58",
+      "origin": "そうなのですね、お子さんの傾向を考えても今の環境が安心できるのですね。日中に少しでもホッと出来る時間があってよかったです。",
+      "content": "I see. Considering your son's personality, your current environment does seem more comforting. I'm glad you have at least a little time during the day to relax."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:40:42",
+      "origin": "その時が唯一心配事が減る時間なのですね。",
+      "content": "So that's the only time when your worries can subside a bit."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:42:00",
+      "origin": "そうなんです…子どもの事も自分の事も考えると本当は、引っ越ししたくないのですが…騒音を出さないように…と神経を使う生活もしんどくて…",
+      "content": "Exactly... When I think about my children and myself, I honestly don't want to move, but constantly living on edge trying not to make noise is exhausting, too..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:42:31",
+      "origin": "そうですね…子どもが幼稚園に行っている間だけが、チョット出来る時間です。",
+      "content": "Yes... The only time I can get a bit of a break is while my child is at kindergarten."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:44:00",
+      "origin": "自分たちの生活を第一に考えたいけど、生活していく上でご近所さんとの問題も出てくる。切りたくてもなかなか切り離せない問題だからこそしんどくなって疲れてしまうのだと思います。",
+      "content": "You want to prioritize your family's life, but issues with neighbors inevitably arise in daily living. Because it's a problem you can't easily separate from your life even if you wish to, it becomes draining and exhausting."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:44:28",
+      "origin": "はい。その通りです。",
+      "content": "Yes, that's exactly it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:45:37",
+      "origin": "ご近所関係で困った時、引越しに関しては夫さんとしっかりお話が出来ていますか？",
+      "content": "When dealing with this neighborhood issue and considering moving, are you able to talk thoroughly with your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:45:54",
+      "origin": "はい。そこは、話しています。",
+      "content": "Yes, we've been talking about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:46:26",
+      "origin": "信頼出来る身近なパートナーがいて少し安心できました。",
+      "content": "I'm relieved to hear you have a close, trustworthy partner."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:46:34",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:47:05",
+      "origin": "1人だと抱えきれないので…",
+      "content": "It's too much to handle alone..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:47:23",
+      "origin": "とはいえ、夫さんもずっと家にいる訳ではないので、今の状況に関して一番負担に感じているのはあなただと思います。",
+      "content": "That said, your husband isn't home all the time, so I imagine you're the one who feels the greatest burden in the current situation."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:47:43",
+      "origin": "はい。そうですね。",
+      "content": "Yes, that's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:48:40",
+      "origin": "夫さんにも相談しながらこの場にもお気軽に相談に来ていただけたらと思います。",
+      "content": "While continuing to talk with your husband, I hope you'll feel free to come and talk here as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:48:57",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:49:03",
+      "origin": "今日はここまでお話されてみていかがでしたか？",
+      "content": "How are you feeling after talking through things today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:50:47",
+      "origin": "そうですね。イライラとびくびくで自己嫌悪が凄かったのですが…聞いていただけて少し整理が出来ました。",
+      "content": "Well, I was feeling so much irritation, anxiety, and self-loathing... but having you listen has helped me sort things out a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:53:15",
+      "origin": "イライラとびくびく、どちらも1人で抱えるにはしんどい気持ちだと思います。そんな中で、1年もの間あなたは出来る事をしっかりと考えて実行されてきたのはとても頑張ってこられたと思います。",
+      "content": "Irritation and anxiety are both difficult feelings to carry alone. In the midst of that, for a whole year, you've thought carefully about what you can do and have taken action. I think you've worked very hard."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:53:46",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:54:38",
+      "origin": "ご近所に神経を使って、子どもにもイライラしてしまって、、今日は勇気を出してこの場にお話に来てくださりありがとうございました。あなたには心強いパートナーと、何でもお話出来るこの場があります。",
+      "content": "You've been stressed about your neighbors and getting irritated with your children... Thank you for gathering the courage to come and speak with me today. You have a supportive partner and this place where you can talk about anything."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:55:04",
+      "origin": "はい。心強いです。",
+      "content": "Yes. That's very reassuring."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:56:02",
+      "origin": "少しでも今の状況が良くなって、あなたの気持ちも軽くなっていくことを願っています。",
+      "content": "I hope the situation improves even a little and that your feelings become lighter."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:56:12",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:56:29",
+      "origin": "大分心が軽くなりました。",
+      "content": "I feel much lighter now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:57:48",
+      "origin": "しんどい気持ちはどんどん吐き出してくださいね。しんどくなったり、もちろんしんどくなる前でもまたいつでもご相談ください。",
+      "content": "Please continue to let out any difficult feelings you have. If things get tough, or even before they do, please feel free to talk with me again anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:58:04",
+      "origin": "はい。また伺わせていただきます。",
+      "content": "Yes, I'll come again."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:58:43",
+      "origin": "それでは今日はここで終了メッセージを送らせていただいても大丈夫ですか？",
+      "content": "Then, is it alright if we conclude our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-01T10:58:56",
+      "origin": "大丈夫です。ありがとうございました。",
+      "content": "Yes, that's fine. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-01T10:59:13",
+      "origin": "またのご相談お待ちしています。本日はありがとうございました。",
+      "content": "I look forward to our next session. Thank you for your time today."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "ご近所トラブルによるストレスとコミュニケーションの問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5184,
+    "evaluation_created_at": "2023-06-01T11:34:00",
+    "client_id": 351,
+    "counselor_id": 385,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,735 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-06T20:52:50",
+      "origin": "こんばんは。相談員役をさせていただきます。よろしくお願いいたします。",
+      "content": "Good evening. I will be your counselor today. It's a pleasure to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T20:53:09",
+      "origin": "時間になりましたら始めさせていただきます。",
+      "content": "We will begin when it's time."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T20:56:50",
+      "origin": "こんばんは。こちらこそよろしくお願いします。",
+      "content": "Good evening. The pleasure is all mine."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:00:30",
+      "origin": "こんばんは。相談員です。本日はご相談にお越しいただきありがとうございます。はじめにご年齢と性別を教えていただけますか。",
+      "content": "Good evening. I'm the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:01:04",
+      "origin": "24歳男性です。",
+      "content": "I'm a 24-year-old male."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:01:30",
+      "origin": "ありがとうございます。本日はどのようなご相談ですか。",
+      "content": "Thank you. What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:01:49",
+      "origin": "もうどうしたらいいのか分からなくて",
+      "content": "I just don't know what to do anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:02:28",
+      "origin": "ええ・・・お困りなのですね。",
+      "content": "I see... you're in a difficult situation."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:02:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:03:03",
+      "origin": "どんな話でもお聞きしますので、お話できるところから教えてください。",
+      "content": "I’m here to listen to anything you’d like to share, so please start from wherever feels comfortable."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:03:20",
+      "origin": "ゆっくりでいいですからね。",
+      "content": "Please take your time."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:03:23",
+      "origin": "仕事が見つからないんです",
+      "content": "I can't find a job."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:04:11",
+      "origin": "それは悩ましいですよね。",
+      "content": "That must be very worrying."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:04:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:04:43",
+      "origin": "いつからお探しだったんですか？",
+      "content": "How long have you been looking?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:05:02",
+      "origin": "3月からです。",
+      "content": "Since March."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:06:39",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:06:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:07:34",
+      "origin": "3月から今日までの間は、仕事が見つからないことについて、どんなお気持ちでいたのですか？",
+      "content": "From March until now, how have you been feeling about not being able to find a job?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:08:00",
+      "origin": "とにかく焦りです。",
+      "content": "I’ve been extremely anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:08:49",
+      "origin": "ええ。なかなか見つからないと焦りますよね。",
+      "content": "Yes. It's natural to feel anxious when you can't find one for a while."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:09:04",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:09:18",
+      "origin": "どうしたら就職できますかね",
+      "content": "What can I do to get a job?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:09:43",
+      "origin": "早く就職先を見つけたいのですね。",
+      "content": "So you want to find a job quickly."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:10:05",
+      "origin": "もちろんです。",
+      "content": "Of course."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:11:03",
+      "origin": "そうですよね。ちなみに面接の状況とか、受けたい職種とかはどんな様子ですか？",
+      "content": "I understand. By the way, how are your interviews going, and what kind of roles are you looking for?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:11:32",
+      "origin": "面接はいくつか落ちました。",
+      "content": "I've been rejected after several interviews."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:11:40",
+      "origin": "IT業界です。",
+      "content": "The IT industry."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:12:23",
+      "origin": "そうだったんですね。受けたい業界も決まっているのですね。",
+      "content": "I see. So you have a specific industry in mind."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:13:23",
+      "origin": "いちお決めてます",
+      "content": "I've more or less decided."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:14:03",
+      "origin": "ちなみに今は収入の面とか、生活の状況とかはどうされているのでしょうか？",
+      "content": "By the way, how are you managing your finances and living situation right now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:14:53",
+      "origin": "貯金の切り崩しと同棲中の彼女の収入でなんとか",
+      "content": "I'm managing to get by, somehow, by dipping into my savings and with my live-in girlfriend's income."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:16:24",
+      "origin": "貯金の中でなんとかやりくりしてる感じですね。彼女との生活もあるからこそ、早く就職したい思いもあるのですね。",
+      "content": "So you’re making ends meet with your savings. And because you’re living with your girlfriend, you feel an added urgency to find a job quickly."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:16:56",
+      "origin": "そんな感じだと思います",
+      "content": "I think that’s about right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:18:40",
+      "origin": "実際面接を受けたり行動に移されてますが、",
+      "content": "You’ve been taking action and going to interviews, but…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:19:17",
+      "origin": "冒頭の「もうどうしたらいいのか分からなくて」というと就職先が見つからないことの、どんなところにお悩みでしたか？",
+      "content": "Regarding what you said at the beginning, “I just don’t know what to do anymore,” what aspects of not finding a job are causing you the most distress?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:19:49",
+      "origin": "どんなところに、、、",
+      "content": "What aspects…?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:20:17",
+      "origin": "分かり難かったですよね、",
+      "content": "That was a bit of a difficult question, wasn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:20:27",
+      "origin": "仕事をやめたあと、すぐ見つかると思っていましたが",
+      "content": "After I quit my job, I thought I'd find a new one right away, but..."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:20:34",
+      "origin": "なかなか、見つからないこと？",
+      "content": "The fact that it's taking so long to find one?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:20:36",
+      "origin": "ですかね、",
+      "content": "I guess so."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:21:58",
+      "origin": "そうなんですね。そんな状況で焦るのも自然なことだと思います。",
+      "content": "I see. It’s natural to feel anxious in that situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:22:43",
+      "origin": "彼女さんとは仕事のことについて、どんなお話をしていますか？",
+      "content": "What kinds of conversations are you having with your girlfriend about your job search?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:22:44",
+      "origin": "はい。金銭的にも辛いですし",
+      "content": "Yes. It's tough financially, and..."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:22:59",
+      "origin": "彼女にも愛想尽かされるのではと不安です。",
+      "content": "I’m worried she’ll get fed up with me."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:23:16",
+      "origin": "気を使ってくれてるのか、呆れてるのか",
+      "content": "I can’t tell whether she’s being considerate or just exasperated,"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:23:21",
+      "origin": "あまり聞いてこないです。",
+      "content": "she doesn’t ask me about it much."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:23:32",
+      "origin": "自分も上手くいってないので、あまり話したくないですし",
+      "content": "And since things aren't going well, I don't really want to talk about it either."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:24:21",
+      "origin": "それはお辛いし、愛想尽かされると思うと不安が募りますよね。",
+      "content": "That must be difficult, and the thought that she might get tired of you must be making you even more anxious."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:24:53",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:25:33",
+      "origin": "お互い話にくいところもあるかと思います。彼女さんもあなたに仕事の話をしたらプレッシャーに感じるのでは？と思ってのことかもしれませんね。",
+      "content": "It may be difficult for both of you to talk about it. She might be refraining because she worries bringing up work could feel like pressure to you."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:25:58",
+      "origin": "そうなんですかね。。",
+      "content": "You think so..?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:26:47",
+      "origin": "そうかもしれませんし、また別な理由かもしれません。",
+      "content": "That could be the case, or there could be another reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:27:16",
+      "origin": "今日のご相談では、どんなことを望んでおられるのでしょうか？",
+      "content": "What are you hoping to achieve from our session today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:27:32",
+      "origin": "仕事が見つかることですかね",
+      "content": "To find a job, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:28:19",
+      "origin": "承知しました。大事なことですので、一緒に考えていきましょうね。",
+      "content": "Understood. That's very important, so let's think about it together."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:28:42",
+      "origin": "はいお願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:29:12",
+      "origin": "IT業界志望とお聞きしましたが、",
+      "content": "You mentioned you’re aiming for the IT industry,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:29:49",
+      "origin": "望んでいる条件とかは、どんな感じでしょうか？",
+      "content": "what kind of conditions are you looking for?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:31:28",
+      "origin": "通勤時間は1時間以内、給与は月25くらいは欲しいですね",
+      "content": "I'd like a commute of less than an hour, and a monthly salary of around 250,000 yen."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:32:28",
+      "origin": "あとはありきたりですけど、残業は少なめで風通しのいい会社がいいです。",
+      "content": "And this may be common, but I’d prefer little overtime and a company with an open, transparent culture."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:32:44",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:32:57",
+      "origin": "らい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:32:58",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:33:45",
+      "origin": "ちなみに以前もIT業界に勤めていたのでしょうか？",
+      "content": "By the way, did you work in the IT industry before?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:33:51",
+      "origin": "いえ",
+      "content": "No."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:34:06",
+      "origin": "他業種です。",
+      "content": "A different industry."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:35:04",
+      "origin": "そうでしたか。IT業界を目指されているのはどんな理由があったのですか？",
+      "content": "I see. What made you decide to aim for the IT industry?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:35:25",
+      "origin": "これからの時代に合ってると思ったので。",
+      "content": "I felt it was a good fit for the times we live in."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:35:27",
+      "origin": "あとは、",
+      "content": "Also,"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:35:47",
+      "origin": "マーケティングとか、Webデザインとかを学びたかったからです。",
+      "content": "I wanted to learn things like marketing and web design."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:37:04",
+      "origin": "なるほどですね。これからの時代を見据えて、そしてITの学びたい分野があるのですね。",
+      "content": "I understand. So you're looking toward the future, and there are specific areas in IT you want to learn about."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:37:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:38:53",
+      "origin": "マーケティングとか、Webデザインとかを学ぶために、3月に仕事を変えようと決断されたのでしょうか？",
+      "content": "So, did you decide to change jobs in March in order to learn about marketing and web design?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:39:06",
+      "origin": "そうです。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:41:15",
+      "origin": "そうだったんですね。ぜひそのお気持ちを仕事につなげていくために、もう少しお話聞かせていただきますね。",
+      "content": "I see. To help connect that motivation to a job, could you tell me a bit more?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:41:32",
+      "origin": "お願いします",
+      "content": "Please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:43:19",
+      "origin": "ちなみに現在は面接とか、どんな進み具合でしょうか？",
+      "content": "By the way, how are things going with interviews at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:44:03",
+      "origin": "いくつか申し込んだ物は全て落ちて、今は申し込みが途絶えています。",
+      "content": "I was rejected from all the ones I applied for, and now I've stopped applying."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:44:57",
+      "origin": "それはショックでしたよね。",
+      "content": "That must have been a shock."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:45:13",
+      "origin": "はい、",
+      "content": "Yes,"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:45:28",
+      "origin": "次を申し込む気が起きません。",
+      "content": "I don’t feel like applying for the next one."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:46:55",
+      "origin": "ええ・・・せっかく申しこんでも落とされたら落ち込みますよね。",
+      "content": "Yes... It's disheartening to be rejected after you've gone to the trouble of applying."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:47:06",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:48:52",
+      "origin": "次を申し込むには、どんなことがあればできそうとか、イメージはありそうですか？",
+      "content": "Do you have any idea what might help you feel ready to apply for another job?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:50:00",
+      "origin": "それが分からなくて困ってます。",
+      "content": "That's what I don't know, and that's the problem."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:51:03",
+      "origin": "そうですよね。ここまでお話を聞いて、",
+      "content": "I understand. From what you've told me so far,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:51:40",
+      "origin": "IT業界で働くために、いくつか申し込んだり、あなたなりに努力を重ねてきたことが分かりました。",
+      "content": "I can see that you've been putting in a lot of effort in your own way, applying to several places to work in the IT industry."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:52:44",
+      "origin": "貯金を切り崩したり、彼女さんの支えもあり、早く就職しなきゃと必死になってきたと思います。",
+      "content": "I believe you've been desperately trying to find a job quickly, using your savings and with your girlfriend's support."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:53:11",
+      "origin": "なので、まずは",
+      "content": "So, first of all,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:55:01",
+      "origin": "急いで申し込むというより、自己分析の時間に当たるのがよろしいかと感じました。IT業界で活かせる自分の強みを見つけたり、",
+      "content": "rather than rushing to apply, I feel it might be good to take some time for self-analysis—identifying strengths you can leverage in the IT industry,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:56:50",
+      "origin": "自己分析をして着実に自分の活かせる術を見つける時間にするのはいかがでしょうか？",
+      "content": "How about using this time to do some self-analysis and steadily find ways to utilize your skills?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:57:29",
+      "origin": "自己分析なら1ヶ月目のときに、エージェントさんとやりました。",
+      "content": "I already did a self-analysis with an agent in my first month."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:57:43",
+      "origin": "金銭的にもゆっくりしている時間はあまりないです。",
+      "content": "Financially, I don’t have much time to take things slowly."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T21:57:54",
+      "origin": "そろそろ貯金も底をつきそうなので。",
+      "content": "My savings are about to run out."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T21:59:50",
+      "origin": "貯金のことを考えると急いでおられるのですね。もし急ぐとしたら、アルバイトをしながら探すという手もアリかと思いますが、",
+      "content": "Given your savings, you’re feeling pressed for time. If you need to move quickly, one option might be to look for a job while working part-time,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:00:27",
+      "origin": "ご自身でどのように決めていこうと考えていますか？",
+      "content": "but how are you thinking of deciding what to do?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T22:01:28",
+      "origin": "転職期間が3ヶ月を超えると、印象がわるくなるとエージェントに言われたので、早く決めたいと思ってます。",
+      "content": "The agent told me that if my period of unemployment exceeds three months, it gives a bad impression, so I want to decide quickly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:02:40",
+      "origin": "エージェントの言うことも一理あるかと思いますが、まずはご自身の生活を第一に優先してほしいと思います。",
+      "content": "I think what the agent said has some truth to it, but I want you to prioritize your own well-being first."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:03:43",
+      "origin": "あなたと彼女さんの生活が一番大事にすべきことですからね。",
+      "content": "Your and your girlfriend's life is the most important thing."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T22:03:48",
+      "origin": "アルバイトをして、ゆっくり探せば見つかるってことですかね？",
+      "content": "So you're saying if I get a part-time job and search at a slower pace, I'll find something?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:04:56",
+      "origin": "アルバイトというのは貯金が本当にしんどくなった時の手段と思っておいてくださいね。",
+      "content": "Please think of a part-time job as an option for when your savings situation becomes really difficult."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T22:05:28",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:05:36",
+      "origin": "日が経つにつれ焦るかと思いますが、",
+      "content": "I imagine you'll feel more anxious as time goes by, but,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:06:36",
+      "origin": "申し込んだことの、改善点や良かった点を見直すだけでも、確実に進歩と言えますので、",
+      "content": "just reviewing the applications you submitted, looking at points for improvement and what went well, can definitely be considered progress."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:07:19",
+      "origin": "そうやって落ちたからダメという結果だけではなく、内容も重視してみてください。",
+      "content": "So please try to focus not only on the outcome of being rejected but also on the content."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T22:07:49",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:08:09",
+      "origin": "お時間すぎてしまいすみません。何かご質問はございますか？",
+      "content": "I’m sorry we’ve gone over time. Do you have any questions?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T22:08:39",
+      "origin": "ないです。",
+      "content": "No, I don't."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:09:01",
+      "origin": "かしこまりました。それではこれで終了させていただきます。",
+      "content": "Alright. Then we will conclude our session here."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T22:09:13",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:09:34",
+      "origin": "本日はありがとうございました。それでは失礼いたします。",
+      "content": "Thank you for your time today. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:09:53",
+      "origin": "（お疲れ様でした。ありがとうございました。）",
+      "content": "(Good work. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T22:10:16",
+      "origin": "カウンセラー役お疲れ様でした。ありがとうございました。",
+      "content": "Good work on your role as the counselor. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:10:39",
+      "origin": "（お時間ある際に評価いただけたら幸いです。よろしくお願いいたします。）",
+      "content": "(I would appreciate it if you could provide an evaluation when you have time. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T22:11:08",
+      "origin": "（お時間長引き申し訳ございません。それでは終了させていただきます。）",
+      "content": "(I apologize for running over time. With that, we will conclude.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "就職活動の焦りと不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 3688,
+    "evaluation_created_at": "2022-07-06T23:49:00",
+    "client_id": 291,
+    "counselor_id": 136,
+    "score": 58,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

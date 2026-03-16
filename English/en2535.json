@@ -1,0 +1,843 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:00:19",
+      "origin": "こんにちは。相談員です。 本日はお越しくださりありがとうございます。よろしければ、はじめに年齢、性別を教えていただけますでしょうか？",
+      "content": "Hello. I'm a counselor. Thank you for coming in today. If it's alright with you, could you please start by telling me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:00:52",
+      "origin": "こんにちは。20代　女です。",
+      "content": "Hello. I'm a woman in my 20s."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:01:25",
+      "origin": "ありがとうございます。本日はどのようなご相談でいらっしゃいましたか？",
+      "content": "Thank you. What can I help you with today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:02:11",
+      "origin": "猫を保護したんですが、色んな問題があってどうしようか悩んでいます。",
+      "content": "I rescued a cat, but there are various issues, and I'm worried about what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:03:00",
+      "origin": "猫を保護されたのですね。そうでしたか、、宜しければもう少し詳しく教えていただけますか？",
+      "content": "So you rescued a cat. I see... If you don't mind, could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:04:31",
+      "origin": "多分事故にあったかなんかで、大きな怪我をしてて。そのまま放置もできなくて、助けたくて、連れて帰ってきたんですけど、今住んでいるところがペット禁止なので…",
+      "content": "I think it was in an accident or something and was badly injured. I couldn’t just leave it there and wanted to help, so I brought it home, but pets aren't allowed where I live..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:05:57",
+      "origin": "そうなんですね。事故で大きなけが、、悲しい気持ちになりますね。そしてそれは大きな問題ですよね、、では今は禁止だけど家にいるのですか？",
+      "content": "I see. A serious injury from an accident... that’s heartbreaking. And that's a big issue, isn't it? So, even though pets aren't allowed, is the cat at your home now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:06:38",
+      "origin": "そうなんです。内緒で家で保護している状態です。",
+      "content": "Yes. I'm secretly keeping it at home for now."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:07:38",
+      "origin": "そうなんですね。それはお悩みですね、、病院等は行かれたのでしょうか？",
+      "content": "I understand. That must be troubling... Have you taken it to a vet or anything?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:08:45",
+      "origin": "いえ、ちょうど今連れて帰ってきたので病院も開いてないし…　でも怪我がすごくて血も出てて、死んじゃったらどうしようって…",
+      "content": "No, I just brought it home, so the vet isn't open... But it's really badly hurt and bleeding, and I'm scared it might die..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:10:29",
+      "origin": "そうでしたか。そう思うと少し怖い気分になってしまいますよね、、今の時間動物病院はやっていないですものね、、",
+      "content": "I see. It must be frightening to think about that... Vets aren't open at this hour, are they..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:11:28",
+      "origin": "はい、それに病院に行けるお金も充分になくて…それでもほかっておけなくて…",
+      "content": "Yes, and besides, I don't really have enough money to take it to the vet... but even so, I couldn't just leave it..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:12:05",
+      "origin": "どうしたらいいですか",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:12:12",
+      "origin": "そうなんですね、、とても勇気のいることだと思います。あなたの想いが伝わってきます。",
+      "content": "I see... It took a lot of courage to do what you did. I can feel how much you care."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:12:57",
+      "origin": "どうしたらいいか一緒に考えましょう。",
+      "content": "Let's think together about what we can do."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:13:33",
+      "origin": "はい、早くしないとぐったりしてて死んじゃうかもと思うと、どうしたらいいのか",
+      "content": "Okay... When I think that it's so weak and might die if I don't do something soon, I just don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:15:09",
+      "origin": "そうですよね、、目の前で保護した猫がしんでしまう、、想像しただけで怖いし不安な気持ちになりますよね、、",
+      "content": "I understand... Imagining the cat you just rescued dying right in front of you... even imagining it is frightening and makes you anxious, doesn't it..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:16:07",
+      "origin": "早く何とかしてあげないとってパニックで何も思いつきません",
+      "content": "I'm in such a panic thinking I have to do something quickly that I can't think of anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:17:06",
+      "origin": "そうなってしまうのも無理はないと思います。",
+      "content": "It's completely understandable that you would feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:17:16",
+      "origin": "今は家にお一人ですか？？",
+      "content": "Are you home alone right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:18:15",
+      "origin": "はい、一人です。私より猫の事でいっぱいです。何かいい方法はないですか",
+      "content": "Yes, I'm alone. I'm more worried about the cat than myself. Isn't there anything I can do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:19:47",
+      "origin": "そうですよね、、目の前で血を流していたら焦ってしまいますよね。まずは深呼吸して一緒に良い方法考えましょう。",
+      "content": "Of course... you'd naturally be frantic if you saw it bleeding in front of you. First, let's take a deep breath and think of a good solution together."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:20:55",
+      "origin": "そして猫の血に直接触るのは注意してください、もしかしたら感染症があるかもしれないので、、私はあなたがとても心配です。",
+      "content": "And please be careful not to touch the cat's blood directly, as it might carry an infection... I'm very worried about you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:21:07",
+      "origin": "少し今調べてみました、、",
+      "content": "I've just looked into it a bit..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:21:54",
+      "origin": "どうしよう、このまま死んじゃったらどうしよう助けてあげてください、お願いします。私はいいんです、この子が助かったら。それでいいんです、",
+      "content": "What should I do? What if it dies like this? Please help it, I'm begging you. I don't matter, as long as this little one is saved. That's all that matters."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:22:59",
+      "origin": "そういうお気持ちなのですね、、",
+      "content": "I see that's how you feel..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:23:17",
+      "origin": "その子を助けたいお気持ちとても伝わってきます。",
+      "content": "Your desire to save that little one comes through very strongly."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:23:37",
+      "origin": "この子を助ける方法を知りたいんです",
+      "content": "I want to know how to save this little one."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:23:57",
+      "origin": "ただこの時間病院はやっていそうですが、支払いは連れて行った人が負担になっていしまうようです、、",
+      "content": "It seems there are emergency vets open at this hour, but the person who brings the animal in has to cover the cost..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:24:47",
+      "origin": "病院に連れて行くお金のあてもありません…助けてくれる人もいません…",
+      "content": "I have no prospects for money to take it to the vet... and there's no one to help me..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:25:45",
+      "origin": "そうですよね、、猫は明日まで耐えられそうですか？",
+      "content": "I understand... Do you think the cat can make it until tomorrow?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:25:46",
+      "origin": "このまま死ぬのを待つだけなんでしょうか…",
+      "content": "Am I just supposed to wait for it to die...?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:25:58",
+      "origin": "耐えられるかどうかわかりません…",
+      "content": "I don't know if it can hold on..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:26:32",
+      "origin": "もうどうしていいのか、、",
+      "content": "I just don't know what to do anymore..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:27:37",
+      "origin": "そうですね、、助けたいお気持ちとても伝わってきます。",
+      "content": "I know... Your desire to help comes through so strongly."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:28:16",
+      "origin": "猫はどのくらいの傷なのでしょうか？",
+      "content": "How badly is the cat injured?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:29:16",
+      "origin": "口とか耳とか、体が血に染まってて、でも息があるんです、かすかに",
+      "content": "Its mouth and ears... its body is covered in blood, but it's still breathing, faintly."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:29:32",
+      "origin": "とっても弱いかんじです…",
+      "content": "It seems very weak..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:30:06",
+      "origin": "私は今何ができますか",
+      "content": "What can I do right now?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:30:14",
+      "origin": "そうなんですね。心臓や内臓の方も負傷している感じでしょうか？",
+      "content": "I see. Do you think its heart or internal organs might be injured as well?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:30:24",
+      "origin": "わかりません…",
+      "content": "I don't know..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:31:05",
+      "origin": "そうですよね。今できることとしては、身体冷やさないようにして、身体を清潔に保つことだと思います。",
+      "content": "Of course. Right now, I think the best you can do is keep its body warm and as clean as possible."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:31:26",
+      "origin": "そしたら助かりますか",
+      "content": "Will that save it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:31:29",
+      "origin": "どのくらいの傷か分からないので、洗うことは避けた方がいいかと思います。",
+      "content": "Since we don't know the extent of the injuries, it's probably best to avoid washing it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:32:21",
+      "origin": "ケガしているので、感染症が怖いです。なので清潔に保つことが重要になってきます。",
+      "content": "Because it's injured, infection is a major concern. That's why keeping it clean is so important."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:32:35",
+      "origin": "今動かしたら死んでしまいそうで触る事ができません。",
+      "content": "I'm afraid to touch it because it feels like it might die if I move it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:33:25",
+      "origin": "そうですよね。なので、きれいなタオルをかけるでも良いと思います。",
+      "content": "I understand. In that case, just covering it with a clean towel would be good."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:33:38",
+      "origin": "目はあいていますか？",
+      "content": "Are its eyes open?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:33:57",
+      "origin": "それに管理人に見つかったり近所の人が猫を連れ込んだなんて知ったらこの子を見捨てないといけないことになっちゃうんでしょうか…",
+      "content": "Also, if the building manager finds out or the neighbors learn I brought in a cat, will I have to abandon this little one...?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:34:20",
+      "origin": "私にはそんな事できません…",
+      "content": "I could never do that..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:34:34",
+      "origin": "そうですね、、なので見つからないうちに対策を考えましょう。",
+      "content": "Right... so let's think of a plan before you're found out."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:34:47",
+      "origin": "とても心が優しいかたなのですね。",
+      "content": "You have a very kind heart."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:35:04",
+      "origin": "でもとても勇気のいることだと思います。猫を助けたい、、そう思う方は多いですが実際行動に移す方は少ないと思うので、、",
+      "content": "But I think what you're doing is very brave. Many people might want to help a cat, but I think few actually take action..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:35:40",
+      "origin": "病院に早く連れていきたいんです、でもお金がありません…",
+      "content": "I want to take it to the vet quickly, but I don't have the money..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:36:09",
+      "origin": "治療にかけてあげられるお金もありません…",
+      "content": "I don't have money for treatment either..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:37:02",
+      "origin": "そうですよね、、明日動物愛護センターや保健所に連絡してみる手段もあるようですが、どう思われますか？",
+      "content": "I understand... One option might be to contact an animal welfare center or public health office tomorrow. How would you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:37:51",
+      "origin": "保健所や愛護センターは怪我をした子を救ってはくれません…　すぐ殺処分になると思います",
+      "content": "The public health center or welfare centers won't save an injured animal... I think it would be put down immediately."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:38:27",
+      "origin": "誰もこの子を引き取ってはくれません…",
+      "content": "No one will take this little one in..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:38:51",
+      "origin": "そうなんですね。さすがです。詳しいですね。何かいい方法他にないということでしょうか？",
+      "content": "I see. That's impressive; you're very knowledgeable. Does that mean there are no other good options?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:39:50",
+      "origin": "頼れる人もいません。私がなんとかしないとこの子は助けられないんです…",
+      "content": "I have no one to rely on. If I don't do something, this little one won't be saved..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:41:19",
+      "origin": "そうなんですね。それはどうしたらいいか分からず苦しいですよね、、",
+      "content": "I see. It must be agonizing not knowing what to do..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:42:14",
+      "origin": "助けれないかもしれない…どうしよう",
+      "content": "I might not be able to save it... what do I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:42:34",
+      "origin": "猫は今かすかに息をしている状況なのでしょうか？",
+      "content": "Is the cat still breathing faintly right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:42:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:43:09",
+      "origin": "そうなんですね、、では少し厳しい様子ですね、、",
+      "content": "I see... so its condition seems quite critical..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:43:32",
+      "origin": "だから早く何とかしないといけなくて",
+      "content": "That's why I have to do something quickly."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:43:47",
+      "origin": "助けられないかもしれないと思うと苦しくて辛い気持ちですよね、、",
+      "content": "It’s painful and distressing to think you might not be able to save it..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:44:20",
+      "origin": "死ぬのを見るのはもうたくさんです…",
+      "content": "I've seen enough death..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:45:02",
+      "origin": "以前にもこのようなことがあったのでしょうか？",
+      "content": "Has something like this happened before?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:45:42",
+      "origin": "病気で苦しむ姿を何度か見ました…",
+      "content": "I’ve seen them suffer from illness several times..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:45:53",
+      "origin": "だからどうしても助けたいんです",
+      "content": "That’s why I want to save it no matter what."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:46:05",
+      "origin": "そうなんですね。飼っていた猫ですか？",
+      "content": "I see. Was it a cat you kept?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:46:12",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:46:44",
+      "origin": "そうでしたか、、猫がお好きなのですね。そして、苦しむ姿を見ていたから助けたいという気持ちがおありなのですね。",
+      "content": "I understand... You love cats. And because you’ve seen them suffer, you feel strongly about helping this one."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:47:33",
+      "origin": "病院に連れて行くお金が今すぐ必要です…",
+      "content": "I need money to take it to the vet right now..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:48:22",
+      "origin": "どうしたらいいですか",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:48:55",
+      "origin": "病院に連れて行ってあげたいというお気持ちなのですね。",
+      "content": "So you feel you want to take it to the vet."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:49:07",
+      "origin": "はい、早く連れて行かないと",
+      "content": "Yes, I have to take it quickly."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:49:40",
+      "origin": "こうしてる間にも弱っていってしまうかも",
+      "content": "It might be getting weaker even as we speak."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:51:51",
+      "origin": "何かありませんか",
+      "content": "Isn't there anything?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:52:18",
+      "origin": "早く連れていきたいお気持ち察します。しかし、、お話聞いていて実際病院に連れていくのは厳しい状況かとおもいますが、何か他に良い考えあるのでしょうか、、私も考えてはいますが、良い案が思いつきません。",
+      "content": "I understand your desire to take it quickly. However, from what you've told me, it seems taking it to a vet is a difficult situation. Do you have any other ideas? I'm thinking too, but I can't come up with a good solution."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:53:21",
+      "origin": "やっぱり誰も助けてくれないんですね…",
+      "content": "So no one is going to help after all..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:54:20",
+      "origin": "私はこの子を苦しめているだけなのかも…",
+      "content": "Maybe I'm just making this little one suffer..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:55:07",
+      "origin": "私も猫を助けたい気持ちはありますが、今は見守るしかできない状況です。他にも誰かにご相談されたりしたのでしょうか？",
+      "content": "I also want to help the cat, but right now, it seems all we can do is watch over it. Have you talked to anyone else about this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:55:22",
+      "origin": "相談できる人はいません",
+      "content": "I don't have anyone to talk to."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:56:04",
+      "origin": "お一人で悩まれて苦しくて怖くて不安なお気持ちですよね。この子を苦しめているだけ、、どうしてそのように感じますか？",
+      "content": "Dealing with this alone must make you feel pained, scared, and anxious. You feel like you're just making this little one suffer... why do you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:56:35",
+      "origin": "見殺しにしているようなものです",
+      "content": "It's like I'm just watching it die."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:57:06",
+      "origin": "何もできないのに助けようとして",
+      "content": "Trying to help when I can’t do anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:58:34",
+      "origin": "そのように感じられるのですね。でもこの子は本来であれば、事故にあってそのまま一人で辛い思いをしていた。でも今はあなたに見守られて、助かるように一生懸命色々考えていて見守ってくれている人が近くにいる。猫の感情は分かりませんが、私はそれだけで安心すると思います。",
+      "content": "I see you feel that way. But think about it, if it weren't for you, this cat would have been alone and suffering after the accident. But now, you are watching over it, thinking so hard about how to save it. There's someone by its side. I don't know how a cat feels, but I think that alone would be comforting."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T21:59:02",
+      "origin": "助けられなければ何も意味はありません…",
+      "content": "If I can’t save it, nothing else matters..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T21:59:47",
+      "origin": "そう感じるのも無理はないと思います。",
+      "content": "It’s understandable to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:00:30",
+      "origin": "私は助けたいんです、何が何でも",
+      "content": "I want to save it—no matter what."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:02:01",
+      "origin": "何が何でも助けたいのですね。その想いは、飼っていた猫がいたからでしょうか？他に何かその強い想いには理由があるのでしょうか？",
+      "content": "You want to save it no matter what. Is that feeling because of the cat you used to have? Is there any other reason for such strong feelings?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:02:40",
+      "origin": "理由はありません。ただ、この子を助けたい、それだけです。",
+      "content": "There's no reason. I just want to save this little one, that's all."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:03:24",
+      "origin": "そうなんですね。病院に連れていけば助かりそうですか？",
+      "content": "I see. Do you think taking it to a vet would give it a chance?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:04:54",
+      "origin": "わかりませんが、先生が見てくれたら怪我を見てもらえるし、のぞみなんです。唯一の",
+      "content": "I don’t know, but if a vet could see it, they could treat the injuries, and that’s my hope. My only one."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:05:46",
+      "origin": "先生がもう無理だと言わない限り私は諦めたくないんです。",
+      "content": "Unless the vet says there’s no more they can do, I don’t want to give up."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:05:46",
+      "origin": "そうなんですね、、ではどうしたら病院に行けるか一緒に考えましょう。私も調べてみますね。",
+      "content": "I understand... Then let's think together about how you can get to a vet. I'll do some research as well."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:06:40",
+      "origin": "はい…",
+      "content": "Okay..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:09:40",
+      "origin": "やはり負担は連れて行った方の負担になりそうです、、費用は大体１万円～２万円ほどのようですね、、",
+      "content": "It does seem that the person who brings the animal in has to cover the costs... It looks like it would be around 10,000 to 20,000 yen..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:09:46",
+      "origin": "考えたいのに、頭の中がぐちゃぐちゃで何も思いつきません…",
+      "content": "I want to think, but my head is a mess and I can’t come up with anything..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:10:28",
+      "origin": "そうなんですね…そんなにかかるんですね…",
+      "content": "I see... It costs that much..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:10:55",
+      "origin": "目の前に血を流した猫がいるとそう思うのも無理はないと思います。",
+      "content": "With a bleeding cat right in front of you, it's natural to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:11:11",
+      "origin": "私は一人なんです…",
+      "content": "I’m all alone..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:11:14",
+      "origin": "頭の中すこしずつ一緒に整理していきましょう。",
+      "content": "Let's try to clear your head together, little by little."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:11:47",
+      "origin": "いつからお一人で暮らされているんですか？",
+      "content": "How long have you been living on your own?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:12:34",
+      "origin": "まだ最近です。引っ越しして仕事も始めたばかりなのでまだ収入がありません。",
+      "content": "Only recently. I just moved and started a new job, so I don't have any income yet."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:13:22",
+      "origin": "アルバイトなので生活するのにいっぱいいっぱいです。",
+      "content": "It's a part-time job, so I'm just barely getting by."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:14:22",
+      "origin": "猫の治療費もこれからどうしようか、不安でいっぱいです。",
+      "content": "I'm full of anxiety about what to do about the cat's treatment costs from now on."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:14:44",
+      "origin": "そうでしたか、、余裕がない状態でこのようなことになって混乱してしまいますよね。",
+      "content": "I see... It must be confusing for something like this to happen when you're already stretched so thin."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:15:01",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:15:48",
+      "origin": "病院に連れていかないと…",
+      "content": "I have to take it to the vet..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:15:58",
+      "origin": "ご家族にはご相談はできそうですか？",
+      "content": "Would you be able to talk to your family about this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:16:30",
+      "origin": "私に家族はいません",
+      "content": "I don't have any family."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:16:56",
+      "origin": "友達もいません",
+      "content": "I don't have any friends either."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:18:17",
+      "origin": "そうでしたか、、一人で悩まれてお辛かったですよね。最近一人暮らし始めたとのことですが、それまではどこに住んでいたのですか？",
+      "content": "I see... It must have been hard carrying this on your own. You said you started living alone recently; where were you living before that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:18:57",
+      "origin": "昔の事は話したくありません…",
+      "content": "I don’t want to talk about the past..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:19:39",
+      "origin": "全然お話したくなければ大丈夫です。失礼いたしました。",
+      "content": "If you don't want to talk about it, that's perfectly fine. I apologize."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:19:48",
+      "origin": "病院にどう連れていこうかという事しか頭にありません…",
+      "content": "The only thing on my mind is how to get it to the vet..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:21:05",
+      "origin": "そうですよね。明日を待ってシャルターに預けるという選択肢もありそうですが、いかがでしょうか？",
+      "content": "I understand. It seems another option might be to wait until tomorrow and entrust it to a shelter. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:22:05",
+      "origin": "そんな方法があるんですね。怪我をした子でもいいんですか。",
+      "content": "I didn’t know that was an option. Would they accept an injured cat?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:22:42",
+      "origin": "そこにお願いしたら病院に連れて行ってくれるんですか。",
+      "content": "If I ask them, will they take it to the vet?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:23:18",
+      "origin": "あまり良く思われないかもしれませんが、シェルターは野良犬や猫を保護する団体なので、もしかしたら病院に連れて行ってくれるかもしれません。。オーナーによると思いますが、、",
+      "content": "It might not be viewed favorably, but shelters are organizations that protect stray dogs and cats, so they might take it to the vet. I suppose it depends on the person in charge..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:23:37",
+      "origin": "頼んでみるのも一つの手かもしれないです。",
+      "content": "It might be worth a try to ask them."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:25:22",
+      "origin": "ちゃんと頼れるところか心配です…",
+      "content": "I'm worried if they're a reliable place..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:26:48",
+      "origin": "保護団体なので受け入れてくれたら最後まで面倒は見てくれると思います。受け入れてくれるまでが大変かもしれませんが、、私が思いつく方法としてはこれしかなさそうですが、いかがでしょうか？",
+      "content": "Since they are a rescue organization, if they take the cat in, I believe they will look after it until the end. Getting them to accept it might be difficult, but... this is the only method I can think of. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:28:20",
+      "origin": "わかりました…一度連絡してみます…ダメかもしれないですが、何もしないよりはいいですよね…",
+      "content": "I understand... I'll try contacting them... It might not work, but it's better than doing nothing, right...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:28:49",
+      "origin": "そうですね。あなたの気持ちが届くことを祈ります。",
+      "content": "That's right. I hope they'll understand how much you care."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:29:16",
+      "origin": "はい…方法を教えてくれてありがとうございます",
+      "content": "Yes... Thank you for telling me about this option."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:31:11",
+      "origin": "本日はこんな時間となってしまいましたが、話したりないことはなかったでしょうか？お力になれていたか不安ですが、、また何かあればいつでもいらしてください。",
+      "content": "It's gotten quite late, but is there anything else you wanted to talk about? I'm worried I wasn't much help, but please feel free to come back anytime if you need to."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:32:22",
+      "origin": "いまできる事がわかったので、これで大丈夫です。ありがとうございます",
+      "content": "Now that I know what I can do, I'll be okay. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:34:48",
+      "origin": "こちらこそありがとうございました。では本日はこれで失礼致しますね。あなたのその強い想いを伝えればきっとシェルターのオーナーさんに届くと私は思います。また何かあったらお待ちしておりますね。",
+      "content": "Thank you as well. That's all for today then. I believe if you convey your strong feelings, the person at the shelter will surely understand. I'll be here if anything else comes up."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-06T22:35:21",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-06T22:38:07",
+      "origin": "では終了とさせていただきます。何かありましたら評価にかいていただけたら嬉しいです。本日は遅くまでありがとうございました。",
+      "content": "Then we'll conclude the session. If you have any feedback, I would appreciate it if you could write it in the evaluation. Thank you for your time so late today."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "一人暮らしの孤独感とサポートの欠如"
+  },
+  "review_by_client": {
+    "evaluation_id": 2535,
+    "evaluation_created_at": "2021-10-06T23:46:00",
+    "client_id": 235,
+    "counselor_id": 207,
+    "score": 62,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

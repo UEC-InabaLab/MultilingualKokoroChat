@@ -1,0 +1,435 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-18T14:51:35",
+      "origin": "（こんにちは。今日はよろしくお願いします。）",
+      "content": "（您好。今天请多关照。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T14:52:02",
+      "origin": "(よろしくお願いします。本日ご希望のケース等はございますでしょうか？)",
+      "content": "（请多关照。请问您今天有希望扮演的案例类型吗？）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T14:52:25",
+      "origin": "（特にありません。）",
+      "content": "（没有特别的要求。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T14:52:38",
+      "origin": "(かしこまりました)",
+      "content": "（好的，明白了。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T14:52:53",
+      "origin": "（時間前ですが、定時からスタートしますか？）",
+      "content": "（虽然还没到时间，要准时开始吗？）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T14:55:30",
+      "origin": "(定時でお願いします)",
+      "content": "（请准时开始。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T14:55:46",
+      "origin": "（承知しました。）",
+      "content": "（了解了。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:00:35",
+      "origin": "こんにちは。相談員です。まず初めによろしかったら年齢、性別、相談内容についてお聞かせ下さい。",
+      "content": "您好。我是咨询员。首先，如果方便的话，请告诉我您的年龄、性别，以及想咨询的内容。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:01:00",
+      "origin": "32 女",
+      "content": "32岁，女。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:01:08",
+      "origin": "つらい",
+      "content": "我很难受。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:01:08",
+      "origin": "はい",
+      "content": "嗯。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:02:31",
+      "origin": "そうなんですね。具体的にはどのような事が、お辛いと感じられていらっしゃるのでしょうか？",
+      "content": "是这样啊。具体是什么事情让您感到这么难受呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:03:40",
+      "origin": "いろんなことがあって気持ちの整理ができません",
+      "content": "发生了很多事情，情绪理不清。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:04:28",
+      "origin": "そうだったんですね。それは、お辛いですよね。",
+      "content": "原来是这样。那一定很难受吧。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:05:53",
+      "origin": "お話し出来るところからで結構ですが、例えばどんな事がおありだったのですか？",
+      "content": "您可以从方便说的地方说起，比如说，都发生了些什么事呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:06:14",
+      "origin": "仕事のこととか家のこととか",
+      "content": "比如工作上的事、家里的事之类的。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:06:17",
+      "origin": "です",
+      "content": "就是这些。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:08:31",
+      "origin": "そうなんですね。色々おありでいたたまれないですよね。お仕事のことでは、どんな事がございましたか？",
+      "content": "是这样啊。发生了这么多事，一定让您很煎熬吧。关于工作上的事，发生了什么呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:09:55",
+      "origin": "つらいことが起きました",
+      "content": "发生了让人难受的事。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:12:47",
+      "origin": "なるほど。それはお辛い思いをされたのですね。貴方がそのように思われることは、どんなことだったのでしょうか？",
+      "content": "我明白了。那一定让您很难受吧。能具体说说是什么事情让您有这样的感受吗？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:13:19",
+      "origin": "いなくなりたい",
+      "content": "我想消失。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:14:31",
+      "origin": "そうなんですね。そう思われていらっしゃるのですね。それは、いつ頃からそのように感じらるようになられたのでしょうか？",
+      "content": "是这样啊。您有这样的想法了呢。大概是从什么时候开始有这种感觉的呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:15:05",
+      "origin": "数年前から",
+      "content": "从几年前开始。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:16:54",
+      "origin": "そうなんですね。長い間お悩みになられていらっしゃるのですね。それは、どんなところからそう感じられるようになられましたか？",
+      "content": "是这样啊。看来您已经被这个问题困扰很长时间了。是什么契机让您开始有这样的感觉呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:17:24",
+      "origin": "どう言う意味ですか",
+      "content": "什么意思？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:18:35",
+      "origin": "何かきっかになるようなこととか、もう少し詳しくお聴きしてもいいですか？",
+      "content": "是不是有什么契机，或者说，能再详细地和我说说吗？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:19:19",
+      "origin": "意味がよくわかりません",
+      "content": "我不太明白您的意思。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:20:49",
+      "origin": "すいません。どのようなことがおありだったか、詳しくお話し聴かせていただけますか？",
+      "content": "对不起。能详细地和我说说都发生了些什么事吗？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:21:21",
+      "origin": "何のことかわかりません",
+      "content": "我不明白您在说什么。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:22:58",
+      "origin": "お仕事のことで、いなくなりたいと思われのは、どんなところからそう感じらるのでしょうか？",
+      "content": "关于工作方面，是什么让您产生了想要消失的想法呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:23:17",
+      "origin": "うまくいかないところ",
+      "content": "那些不顺利的地方。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:24:40",
+      "origin": "そうなんですね。それは、悩まれますよね。どんなところが、上手くいかないと思われていらしゃるのでしょうか？",
+      "content": "是这样啊。那的确会很烦恼呢。您觉得是哪些地方不顺利呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:24:45",
+      "origin": "なにもかも",
+      "content": "什么都不顺。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:26:12",
+      "origin": "そうなんですね。そういうお気持ちでいらっしゃるのですね。それは、やりきれないお気持ちですよね。",
+      "content": "是这样啊。您现在是这样的心情呢。这种感觉一定很难承受吧。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:28:32",
+      "origin": "お家のことについては、どんなところが、辛いとお感じですか？",
+      "content": "关于家里的事，是哪些方面让您觉得难受呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:29:19",
+      "origin": "全部",
+      "content": "全部。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:31:04",
+      "origin": "そうだったんですね。ご家族とご一緒に住んでいらしゃるのでしょうか？家族構成は、どんな感じでいらっしゃるのでしょうか？",
+      "content": "原来是这样。您是和家人住在一起吗？家庭成员构成是怎样的呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:31:48",
+      "origin": "親がいます",
+      "content": "有父母。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:32:54",
+      "origin": "そうなんですね。お家ではどんな風にお過ごしでいらっしゃるのでしょうか？",
+      "content": "是这样啊。您在家一般是怎么度过的呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:34:15",
+      "origin": "色々です",
+      "content": "各种各样的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:35:37",
+      "origin": "そうなんですね。親御さんとは、どのような関係の感じでいらっしゃいますか？",
+      "content": "是这样啊。您和父母的关系怎么样呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:35:50",
+      "origin": "親子です",
+      "content": "是亲子关系。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:37:12",
+      "origin": "普段どんな風に親御さんと暮らしていらっしゃるのでしょうか？",
+      "content": "平时您和父母是怎样一起生活的呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:38:39",
+      "origin": "色々しながらです",
+      "content": "一边做各种事一边生活。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:40:08",
+      "origin": "そうなんですね。色々されながら、どのような事が、お辛いと感じられますか？",
+      "content": "是这样啊。在做各种事情的过程中，是什么让您觉得难受呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:40:28",
+      "origin": "全部です",
+      "content": "全部。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:41:42",
+      "origin": "そうなんですね。そう思われていらっしゃるのですね。お仕事は、どんな事をされていらっしゃるのでしょうか？",
+      "content": "是这样啊。您是这么想的呢。您的工作是做什么的呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:42:11",
+      "origin": "会社員です",
+      "content": "我是公司职员。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:43:14",
+      "origin": "そうだったんですね。どの位の年数お勤めになっていらっしゃるのですか？",
+      "content": "原来是这样。您工作大约多少年了呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:43:26",
+      "origin": "数年ほど",
+      "content": "几年左右。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:44:41",
+      "origin": "そうなんですね。具体的には、会社でどのようなお仕事をされていらっしゃるのでしょうか？",
+      "content": "是这样啊。具体来说，您在公司是做什么工作的呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:45:53",
+      "origin": "色々やってます",
+      "content": "做的事情挺杂的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:48:55",
+      "origin": "そうなんですね。色々仕事でもおありになって、気持ちを整理されたいとお話し伺いましたが、どのようなお気持ちを整理されたいとお考えですか？",
+      "content": "是这样啊。听您说工作上也发生了很多事，想要整理一下心情，请问您想整理的是什么样的心情呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:50:06",
+      "origin": "全部",
+      "content": "全部。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:50:27",
+      "origin": "今あるもの",
+      "content": "现在有的这些。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:50:49",
+      "origin": "そうなんですね。",
+      "content": "是这样啊。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:51:58",
+      "origin": "どんな答えが出れば良いと思いますか？",
+      "content": "您觉得得到什么样的答案会比较好呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:52:25",
+      "origin": "わかりません",
+      "content": "我不知道。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:52:32",
+      "origin": "決められません",
+      "content": "我决定不了。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:54:07",
+      "origin": "そのような状況でいらっしゃるのですね。それはお辛いですよね。",
+      "content": "您现在是这样的状况啊。那一定很痛苦吧。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:54:38",
+      "origin": "きえたい",
+      "content": "想消失。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:56:43",
+      "origin": "そのように感じられていらしゃるのですね。でも、消えていい人なんていないと考えますが、いかがですか？",
+      "content": "您有这样的感觉啊。但是，我认为没有人是应该消失的，您觉得呢？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:57:07",
+      "origin": "綺麗事ですね",
+      "content": "真是冠冕堂皇的话。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:57:15",
+      "origin": "さようなら",
+      "content": "再见。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-18T15:57:40",
+      "origin": "(このまま終了の方向でお願いします。)",
+      "content": "（请就这样结束吧。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-18T15:58:19",
+      "origin": "（了解しました。大変勉強になりました。ありがとうございました。）",
+      "content": "（明白了。学到了很多。非常感谢您。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己価値感の低下"
+  },
+  "review_by_client": {
+    "evaluation_id": 4136,
+    "evaluation_created_at": "2022-10-18T16:20:00",
+    "client_id": 125,
+    "counselor_id": 312,
+    "score": 26,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:00:10",
+      "origin": "こんにちは、相談員です。本日はご相談に来て頂き、ありがとうございます。初めに、年齢、性別、ご相談内容について教えてください。",
+      "content": "Hello, I'm the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:00:55",
+      "origin": "こんにちは。40代　女性　自分の健康について相談したいです。",
+      "content": "Hello. I'm a woman in my 40s, and I'd like to talk about my health."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:01:40",
+      "origin": "ご連絡ありがとうございます。ご自身の健康のことでお悩みなのですね。",
+      "content": "Thank you for sharing that. So, you're concerned about your health."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:01:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:01:56",
+      "origin": "具体的に、どういったことでお悩みでしょうか？",
+      "content": "Could you tell me more specifically what you're concerned about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:02:23",
+      "origin": "食生活がよくないと感じています",
+      "content": "I feel my eating habits aren't good."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:02:37",
+      "origin": "まわりの人にも言われます",
+      "content": "People around me tell me that, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:03:10",
+      "origin": "食生活についてお悩みなのですね。",
+      "content": "So, you're concerned about your eating habits."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:03:19",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:03:49",
+      "origin": "まわりの方からは、どのように言われますか？",
+      "content": "What kinds of things do people around you say?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:04:21",
+      "origin": "もっと健康を気遣わないと、とかです",
+      "content": "Things like, “You should take better care of your health.”"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:05:33",
+      "origin": "なるほど、それを言われると相談者様はどう思われますか？",
+      "content": "I see. And how do you feel when you're told that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:05:54",
+      "origin": "自分でも、そうだよな、と思います",
+      "content": "I think to myself, “They’re right.”"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:06:36",
+      "origin": "そうなんですね。ただ、改めて言われるのってちょっと嫌ですよね。",
+      "content": "I see. Still, having it pointed out can feel a bit unpleasant, can’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:06:54",
+      "origin": "そうでもないですその通りなので…",
+      "content": "Not really. It’s true, after all..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:07:28",
+      "origin": "あまり嫌ではないということですね。失礼いたしました。",
+      "content": "So, it doesn't bother you much. My apologies for assuming."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:07:33",
+      "origin": "はい",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:07:55",
+      "origin": "実際に、どういった食生活をされているのですか？",
+      "content": "Could you describe your actual eating habits for me?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:08:47",
+      "origin": "自分の食事に気を配る時間がないので、いい加減になっています",
+      "content": "I don't have time to pay attention to my meals, so they've become quite haphazard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:09:49",
+      "origin": "うんうん、あまり時間がなくて、いい加減になってしまっているのですね。",
+      "content": "Mm-hmm, so you don't have much time, and your meals have become haphazard."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:09:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:09:59",
+      "origin": "何かお仕事とか、されているのでしょうか？",
+      "content": "Do you have a job or something like that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:10:21",
+      "origin": "はい、仕事で忙しく、時間がありません",
+      "content": "Yes, I'm busy with work and don't have time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:11:06",
+      "origin": "そうなんですね。お仕事が忙しいと大変ですよね。",
+      "content": "I see. It must be tough when you're busy with work."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:11:12",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:12:16",
+      "origin": "普段、食事にはどれくらいの時間を使われていますか？あまりないとのことでしたが、、、",
+      "content": "Usually, how much time do you spend on meals? You mentioned you don't have much time, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:15:02",
+      "origin": "朝は起きてバタバタと5分あれば食べますが食べないことも多いです　昼間は腹は減るので適当に間食しながらまぎらわして、夜はシャワーと寝るだけの状態で帰宅しますきちんと食事の時間が取れません",
+      "content": "In the morning, it's a rush. If I have five minutes I’ll eat, but I often skip it. During the day I get hungry, so I just snack to get by. At night, I come home only to shower and sleep. I can’t set aside proper time for meals."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:16:07",
+      "origin": "かなりお忙しいですね、、、それは、お仕事がある日は毎回そのような感じでしょうか？",
+      "content": "That sounds incredibly busy... Is it like that every day you work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:16:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:17:18",
+      "origin": "そうなんですね、、、本日はお疲れの中、よく来てくださいました。",
+      "content": "I see... Thank you for coming in today, especially when you must be so tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:18:25",
+      "origin": "食事に気を配る時間がないとのことでしたが、栄養面でも気になるところがあるということでしょうか？",
+      "content": "You mentioned you don't have time to pay attention to your meals. Does that mean you also have concerns about nutrition?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:18:46",
+      "origin": "はい。なのでまわりからも言われます",
+      "content": "Yes. That’s why people around me comment on it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:19:26",
+      "origin": "そうなんですね。具体的に、どの点が気になるか教えていただけますか？",
+      "content": "I understand. Could you tell me specifically what aspects concern you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:20:07",
+      "origin": "とにかくいい加減な食生活なので、バランスとか考えないですし、健康が不安です",
+      "content": "It's just that my eating habits are so haphazard, I don't think about balance or anything, and I'm worried about my health."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:20:38",
+      "origin": "なるほど、時間がないことでバランスが取れないということですね。",
+      "content": "I see—so the lack of time keeps you from getting a balanced diet."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:21:01",
+      "origin": "ちなみにその食生活は、どれくらい前からその状況なのでしょうか？",
+      "content": "By the way, how long have your eating habits been like this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:21:23",
+      "origin": "もう5年くらいはこんな感じです",
+      "content": "It's been like this for about five years."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:22:17",
+      "origin": "５年、ですか、、、確かにそれぐらい続きますと、不安になりますよね。",
+      "content": "Five years... I can certainly understand why you'd be worried if it's been going on for that long."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:22:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:23:23",
+      "origin": "それをお聞きしますと、お体の状態も心配になります。今のお体の調子はいかがですか？",
+      "content": "Hearing that makes me concerned about your physical condition. How are you feeling physically right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:24:09",
+      "origin": "疲れはたまっていますが、なんとか病気せずにやってます",
+      "content": "I'm exhausted, but somehow I've managed to stay healthy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:24:52",
+      "origin": "そうですよね、疲れますよね。病気ではないということで、安心しました。",
+      "content": "I can imagine you must be tired. I'm relieved to hear you're not ill."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:25:14",
+      "origin": "ご心配、ありがとうございます",
+      "content": "Thank you for your concern."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:26:19",
+      "origin": "いえいえ、ただ、この先のことを考えると、何かお体に気を遣ってあげたほうがいいですね。",
+      "content": "Not at all. But thinking about the future, it would be good to do something to take care of your body."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:26:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:26:51",
+      "origin": "この点について、相談者様の方で何かお考えはありますか？",
+      "content": "Do you have any thoughts on how you might do that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:27:57",
+      "origin": "特に解決策が見つからないまま、ずっときてしまいました",
+      "content": "I haven’t been able to find any solutions, and time just kept passing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:29:45",
+      "origin": "そうだったのですね。そのようでしたら、一緒に改善策を考えていけたらと思いますが、いかがでしょうか？",
+      "content": "I see. In that case, I was thinking we could explore some solutions together. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:30:35",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:30:58",
+      "origin": "はい、わかりました。",
+      "content": "Okay, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:31:53",
+      "origin": "まずはお仕事がお忙しいとのことで、お仕事自体はやりがいがある、という感じでしょうか？",
+      "content": "First, you mentioned you're busy with work. Do you find your work itself to be rewarding?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:32:14",
+      "origin": "はい、やりがいは感じています",
+      "content": "Yes, I do find it rewarding."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:32:51",
+      "origin": "そうなんですね、やりがいを持ってお仕事ができるのは良いことですよね。",
+      "content": "I see. It's a wonderful thing to have a job you find rewarding."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:32:57",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:33:25",
+      "origin": "もしお聞きできればですが、どのような職種になりますか？",
+      "content": "If you don't mind me asking, what kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:33:42",
+      "origin": "サービス業、です、",
+      "content": "I'm in the service industry."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:35:29",
+      "origin": "なるほど、サービス業をされているのですね。そのようですと、お時間はかなり流動的ですよね？",
+      "content": "I see, you're in the service industry. In that case, your hours must be quite irregular, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:36:28",
+      "origin": "サービス業の営業をしていて、流動的というか…時間に追われています",
+      "content": "I'm in sales in the service industry. It's less that my hours are irregular and more that I'm always pressed for time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:37:30",
+      "origin": "そうなんですね。中々終わらない、という感じでしょうか？",
+      "content": "I understand—does it feel like the work never really ends?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:37:46",
+      "origin": "はい時間がいくらあっても足りません",
+      "content": "Yes, no matter how much time I have, it’s never enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:38:21",
+      "origin": "そうですよね。普段とても頑張られているのですね。",
+      "content": "I understand. You're working so hard every day."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:38:43",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:39:05",
+      "origin": "いえいえ、相談者様としては、今回のお悩みについて、どのように変わったら嬉しいですか？",
+      "content": "Not at all. Regarding this concern, what kind of change would make you happy?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:40:11",
+      "origin": "自分の健康について気遣い、まわりも安心できるような食生活にしたいです",
+      "content": "I want to be more mindful of my health and have eating habits that reassure those around me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:40:51",
+      "origin": "なるほど、そうですよね。まずはご自身の健康に気を遣えることですよね。",
+      "content": "I see, that makes sense. The first step is being able to take care of your own health."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:41:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:41:49",
+      "origin": "お仕事自体はやりがいがあるとのことでしたので、相談者様が求めていらっしゃるのは、お時間がない中で効率よく栄養を取る方法、で合っていますでしょうか？",
+      "content": "Since you mentioned your work is rewarding, am I correct in understanding that what you're looking for is a way to get nutrition efficiently within your limited time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:42:27",
+      "origin": "はい、その通りです",
+      "content": "Yes, that's exactly right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:43:35",
+      "origin": "わかりました。何か良い方法がないか、考えてみましょうか。",
+      "content": "Okay. Shall we think about some good ways to do that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:43:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:43:55",
+      "origin": "ちなみに相談者様の方で、何か思いつくことはありますか？",
+      "content": "By the way, have you thought of anything yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:44:18",
+      "origin": "特になくて困っています",
+      "content": "Not really, and that's why I'm struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:44:32",
+      "origin": "うんうん、そうなんですね。",
+      "content": "Mm-hmm, I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:45:14",
+      "origin": "例えばなのですが、サプリメントといったものを使用してみるのは、いかがでしょうか？",
+      "content": "For example, what about trying something like supplements?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:45:33",
+      "origin": "栄養をピンポイントで摂るのにも良いと思います。",
+      "content": "They can be good for targeting specific nutrients."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:45:47",
+      "origin": "そうですねでも、それだけで大丈夫でしょうか",
+      "content": "That's true... but would that be enough on its own?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:47:17",
+      "origin": "あまり完璧とは言えませんが、摂らないよりは良いかなと思いました。ちなみに、どのようなことが気になりますか？",
+      "content": "It might not be perfect, but I thought it would be better than nothing. What are your concerns about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:48:46",
+      "origin": "いい加減な食生活を補うために、サプリメントだけでいいのか…という感じですすいません、詳しくもないのに、先入観で…",
+      "content": "It's just... I wonder if supplements alone are enough to make up for my haphazard diet. I'm sorry, I don't know much about them; it's just a preconception..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:50:01",
+      "origin": "いえいえ、こちらこそ不躾な提案だったと思います。そうですよね、サプリメントだけというのも、良いイメージはないですよね。",
+      "content": "No, not at all. My suggestion may have been a bit blunt. I understand. The idea of relying only on supplements doesn't have the best image, does it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:50:41",
+      "origin": "そうですね…継続できるか不安もあります",
+      "content": "That's true... I'm also worried about whether I could stick with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:51:40",
+      "origin": "確かに、続けるのも難しいこととは存じています。",
+      "content": "I understand that continuing can certainly be difficult."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:52:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:53:33",
+      "origin": "毎日続ける、ではなくまずは１週間程度やってみるというのはいかがですか？",
+      "content": "Instead of trying to do it every day, how about just trying it for about a week to start?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:54:09",
+      "origin": "そうですね。それならできるかもしれません",
+      "content": "That's a good point. That might be doable."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:54:48",
+      "origin": "今のお時間がない状況を考えますと、やってみて、やって良かったか、それとも良くないか判断してみてもいいかもしれません。",
+      "content": "Considering your current lack of time, it might be a good idea to just try it and then decide if it worked for you or not."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:55:43",
+      "origin": "1週間だと効果はでないと思いますが、この方法が続けられるかどうかをまず検証してみます",
+      "content": "I don't think I'll see any effects in just one week, but I'll try it first to see if it's a method I can stick with."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:55:43",
+      "origin": "まずは、やってみることが大事です。うまく改善できるよう、こちらも応援しております。",
+      "content": "The important thing is to give it a try. I’m rooting for you to find a way to improve things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:56:25",
+      "origin": "申し訳ありませんが、そろそろお時間が来てしまいます。ここまでお話されて、いかがでしたか？",
+      "content": "I'm sorry, but our time is almost up. How are you feeling after our conversation today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:57:10",
+      "origin": "はいまずは1週間を目標に取り組んでみよう、という気持ちです",
+      "content": "Yes, I feel motivated to try it with the goal of one week to start."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:57:49",
+      "origin": "それは良かったです。また何か気になることがあれば、いつでもご相談に来てくださいね。お待ちしておりますよ。",
+      "content": "I'm glad to hear that. If anything else comes up, please feel free to come back and talk anytime. I'll be here for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:58:15",
+      "origin": "それでは、終了メッセージを送らせて頂きますが、よろしいでしょうか？",
+      "content": "With your permission, may I send the closing message now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-16T10:58:19",
+      "origin": "はい。ありがとうございました。",
+      "content": "Yes. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-16T10:58:42",
+      "origin": "分かりました。こちらこそ、ありがとうございました。",
+      "content": "Understood. Thank you as well."
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "食生活の改善問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 4607,
+    "evaluation_created_at": "2023-02-16T11:10:00",
+    "client_id": 357,
+    "counselor_id": 342,
+    "score": 89,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-06-24T20:05:12",
+      "origin": "こんばんは本日２０時から相談者役で申し込みしておりますカウンセラー役様、いらっしゃいますか？",
+      "content": "Good evening. I have an appointment for the client role at 8 PM today. Is the counselor available?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:10:50",
+      "origin": "待機しております",
+      "content": "I'm waiting."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:13:01",
+      "origin": "こんばんは。20：30～と勘違いしていました。よろしくお願いいたします",
+      "content": "Good evening. I apologize, I mistakenly thought our session was at 8:30 PM. I look forward to working with you."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:13:15",
+      "origin": "はい、よろしくお願いいたします",
+      "content": "Yes, I look forward to it as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:13:30",
+      "origin": "早速始めますね",
+      "content": "Let’s get started right away."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:13:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:14:22",
+      "origin": "こんばんは相談員です。まず、あなたの性別と年齢をお聞きしてもいいですか？",
+      "content": "Good evening, this is the counselor. First, may I ask your gender and age?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:14:48",
+      "origin": "こんばんは16歳、女性です",
+      "content": "Good evening. I’m 16, and female."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:15:45",
+      "origin": "教えてもらってありがとうございます。なんでもお話くださいね",
+      "content": "Thank you for sharing that with me. Please feel free to talk about anything."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:15:58",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:16:49",
+      "origin": "今日はどのようなご相談でしょうか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:17:52",
+      "origin": "家事と勉強と部活とバイト、やることが多すぎて最近疲れているのか、気持ちが落ち込むことが多くなっています",
+      "content": "With housework, studying, club activities, and my part-time job, there’s so much to do that I’ve been feeling tired lately, and I’ve been feeling down more often."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:19:23",
+      "origin": "なるほど…色々やることが重なると疲れやすくなりますよね。",
+      "content": "I see... When you have so many things to do at once, it's easy to get tired, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:19:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:19:44",
+      "origin": "ちなみに、何が1番気になっていますか？",
+      "content": "By the way, which of these is bothering you the most?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:20:10",
+      "origin": "気になるとは、どういうことでしょうか？",
+      "content": "What do you mean by “bothering”?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:21:36",
+      "origin": "すいません。わかりにくい質問でしたね。家事・勉強・部活・バイトとしなければいけない事がたくさんありますが、その中でどんなことが１番困っていますか？",
+      "content": "I’m sorry—that was an unclear question. You have many things you need to do—housework, studying, club activities, and your part-time job. Among those, which one is causing you the most difficulty?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:22:17",
+      "origin": "ええっと勉強です。",
+      "content": "Um... studying."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:22:39",
+      "origin": "疲れると勉強する時間も寝てしまいます",
+      "content": "When I’m tired, I end up sleeping during the time I should be studying."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:23:16",
+      "origin": "なるほど…そうなんですね。",
+      "content": "I see... so that's what's happening."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:23:51",
+      "origin": "勉強したいのに机に座ると眠気がきて。",
+      "content": "I want to study, but as soon as I sit at my desk, I get sleepy."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:24:16",
+      "origin": "はい（聴いていますので続けてくださいね）",
+      "content": "Yes. (I’m listening, so please go on.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:25:08",
+      "origin": "勉強しないといけないのに、寝てしまう自分も嫌になります",
+      "content": "I know I have to study, but I fall asleep, and I'm starting to dislike myself for it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:26:54",
+      "origin": "そうでしたか。それはお困りですね。",
+      "content": "I see. That must be difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:27:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:30:27",
+      "origin": "ちなみに、今あなたが困っていることについて、家族の方や学校の先生等、誰かに相談したことはありますか？",
+      "content": "By the way, have you talked to anyone—like your family or a teacher at school—about what you’re struggling with?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:31:01",
+      "origin": "誰にも相談していません",
+      "content": "I haven't talked to anyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:31:51",
+      "origin": "そうなのですね…ずっと一人で抱えてこられたんですね。",
+      "content": "I see… you’ve been carrying this all by yourself."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:32:36",
+      "origin": "話しても解決しないと思ってきたので話せませんでした",
+      "content": "I felt that talking about it wouldn’t solve anything, so I couldn’t bring myself to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:33:17",
+      "origin": "そうでしたか…頑張ってこられたんですね。",
+      "content": "I see... You've been trying so hard."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:33:44",
+      "origin": "頑張ったというよりはやるしかないという感じです",
+      "content": "It's less about trying hard and more like I just have no other choice."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:34:55",
+      "origin": "そうなんですね。ではあなたの気持が少しでも軽くなるように、どうしたらいいか、良かったら一緒に考えてみましょう。",
+      "content": "I understand. Well then, if you'd like, let's think together about what we can do to help you feel even a little bit better."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:35:10",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:37:41",
+      "origin": "ではいくつかお聞きしますね。家事をされているという事ですが、どんな事を主にされているのでしょうか？",
+      "content": "Then, let me ask you a few things. You mentioned you do housework; what kind of chores do you mainly do?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:38:38",
+      "origin": "自分のお弁当作ったり、掃除、洗濯、買い物、家事全般です",
+      "content": "I make my own lunch, do the cleaning, laundry, shopping... pretty much all the housework."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:40:23",
+      "origin": "そうだったんですね…ちなみにご家族は何人で一緒に暮らしていらっしゃいますか？",
+      "content": "I see… By the way, how many family members do you live with?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:40:51",
+      "origin": "父と母と姉の四人です",
+      "content": "There are four of us: my father, mother, and older sister."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:42:17",
+      "origin": "教えてもらってありがとうございます。他の家族の方が、掃除や洗濯等の家事をしたり、手伝ってくれたりすることはありますか？",
+      "content": "Thank you. Do other family members do chores like cleaning or laundry, or help out?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:44:35",
+      "origin": "父は夕飯を作ってくれるときもありますが、帰って来るのが遅いです姉は部活が忙しいので、自分の洗濯物だけやっています母は仕事がお昼くらいから夜中までやっていて、疲れて家では寝ているので、ほとんど家事はできません",
+      "content": "My father sometimes makes dinner, but he comes home late. My sister is busy with her club, so she only does her own laundry. My mother works from around noon until late at night, and she's so tired she just sleeps at home, so she can hardly do any housework."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:46:08",
+      "origin": "なるほど…他の家族の方も忙しくされているので、あなたが中心で家事をされている状態なんですね。",
+      "content": "I see... So because your other family members are also busy, you've become the main person doing the housework."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:46:35",
+      "origin": "みんな自分の事で精一杯といった感じなので、私がやらなければ、家が汚れて住みにくくなります",
+      "content": "It feels like everyone is barely managing their own things, so if I don’t do it, the house will get dirty and hard to live in."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:47:38",
+      "origin": "そうなんですか…。しかしあなた自身も部活をしていたり、バイトもしているんですよね。",
+      "content": "I see… but you yourself have club activities and a part-time job as well, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:48:19",
+      "origin": "ちなみに部活やバイトはどんなことをされているんでしょうか？",
+      "content": "By the way, what kind of club are you in, and what do you do for your job?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:49:14",
+      "origin": "部活は吹奏楽部ですバイトはピザの宅配のキッチンでピザ作っています",
+      "content": "I'm in the brass band. For my job, I work in the kitchen at a pizza delivery place, making pizzas."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:52:15",
+      "origin": "そうなんですね。確かに吹奏楽部だと、練習時間も必要ですし、バイトもある程度の時間は働くようになりますよね。",
+      "content": "I see. Being in a brass band certainly requires a lot of practice time, and a part-time job would also take up a fair amount of your time."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:53:16",
+      "origin": "はい、バイトはおこづかい少ないのでやめたくないし、部活も時々しんどい時は休みますがやめたくないし",
+      "content": "Yes, I don't want to quit my job because I don't get much allowance, and while my club can be tough sometimes and I take days off, I don't want to quit that either."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:53:34",
+      "origin": "そうなのですね…。ちなみにいつも何時ごろ帰宅されていますか？",
+      "content": "I see... By the way, what time do you usually get home?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:53:57",
+      "origin": "バイトがない日は１９じくらい",
+      "content": "On days I don't have work, around 7 PM."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:54:15",
+      "origin": "バイトがある日は２２時くらいです",
+      "content": "On days I have work, around 10 PM."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:55:47",
+      "origin": "なるほど…どちらにしても、そこから家事をして自分の時間を過ごそうとしても、夜遅くなってしまうことも多そうですね。",
+      "content": "I see… either way, by the time you do housework and then try to have some time for yourself, it seems it often ends up getting late at night."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:56:00",
+      "origin": "そうなんです",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:56:48",
+      "origin": "…家族の方に、現在あなたが困っていることについて、お話することは難しいのでしょうか？",
+      "content": "…Would it be difficult to talk with your family about what you’re struggling with right now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:57:15",
+      "origin": "話してもやれる人がいません",
+      "content": "Even if I did, there's no one who could do the work."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:57:44",
+      "origin": "私がキレイにしたいからやっていると思っているし",
+      "content": "And they think I’m doing it because I'm the one who wants things clean."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:58:10",
+      "origin": "そうだったんですね。家族の方からはそう思われているんですね。",
+      "content": "I see. So that's how your family sees it."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:58:17",
+      "origin": "しんどいならやらなくていいよといわれるだけだと思います",
+      "content": "I think they would just tell me, “If it’s too hard, you don’t have to do it.”"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:58:42",
+      "origin": "頼まれてやっているわけじゃないので",
+      "content": "It’s not like they asked me to do it."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:59:25",
+      "origin": "だから早く自力して家を出たいです",
+      "content": "That's why I want to become independent and leave home as soon as possible."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T20:59:37",
+      "origin": "自力→自立",
+      "content": "I meant “independent.”"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T20:59:42",
+      "origin": "なるほど…そのように思われているんですね。",
+      "content": "I see... so that's how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:00:13",
+      "origin": "はい、でもまだ高校生なので、しばらくは今のままかなあ",
+      "content": "Yes, but I'm still in high school, so I guess things will stay this way for a while."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:00:44",
+      "origin": "そうですね…ちなみに今高校何年生でしょうか？",
+      "content": "That's true... By the way, what year of high school are you in?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:01:00",
+      "origin": "高１です",
+      "content": "I'm a first-year."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:02:04",
+      "origin": "早く自立するためにも勉虚頑張りたいです",
+      "content": "To become independent sooner, I want to study hard."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:02:18",
+      "origin": "勉強頑張りたいです",
+      "content": "I want to study hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:02:34",
+      "origin": "そうなんですね。色々考えていらっしゃるんですね。",
+      "content": "I see. You've really been thinking a lot about this."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:03:08",
+      "origin": "一応(笑)",
+      "content": "Well, I try. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:04:50",
+      "origin": "…ちなみに将来どんな事がしたい等、何か目標や夢があるのでしょうか？",
+      "content": "...By the way, do you have any goals or dreams for the future, like what you'd like to do?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:05:06",
+      "origin": "看護師目指しています",
+      "content": "I’m aiming to become a nurse."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:05:50",
+      "origin": "そうなんですね。あなた自身の将来の目標をしっかり持っていらっしゃるんですね。",
+      "content": "I see. You have a very clear goal for your own future."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:06:22",
+      "origin": "看護師になれば、すぐに家から出られるし、１人暮らしするお金も充分もらえると思うので。",
+      "content": "If I become a nurse, I can leave home right away, and I think I'll earn enough money to live on my own."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:06:47",
+      "origin": "なるほど…。",
+      "content": "I see..."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:07:10",
+      "origin": "一旦看護師になってお金貯めてそのあとはまた考えようと思います",
+      "content": "I plan to become a nurse, save up some money, and then I'll think about what to do after that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:07:48",
+      "origin": "そうなんですね。まずは看護師になって自立することを目指していかれるんですね。",
+      "content": "I see. So your plan is to become a nurse first and aim for independence."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:08:14",
+      "origin": "はい、そのために勉強やっています",
+      "content": "Yes, that's why I'm studying."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:10:15",
+      "origin": "そうなのですね。夢を叶えていきたいんですね。",
+      "content": "I understand. You want to make your dream come true."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:11:09",
+      "origin": "はい、今の家族みたいに自分のことで精一杯の家族じゃなくてお互い支えあえる家事も自分で作ります",
+      "content": "Yes, I want to create a family where we can support each other, not one where everyone is just overwhelmed with their own things like my current family."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:11:49",
+      "origin": "家事→家族",
+      "content": "I meant “family.”"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:12:19",
+      "origin": "そうなんですね…色々考えていらっしゃるんですね。",
+      "content": "I see… you’ve really thought about this in detail."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:12:52",
+      "origin": "自分で考えないと誰も助けてくれないので。",
+      "content": "Because if I don’t think for myself, no one will help me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:13:09",
+      "origin": "…確かにお話を伺っていると、学校生活・家事・バイトとやることが沢山あって、疲れやすくなってしまうのは無理もない事だと思います。",
+      "content": "...After listening to you, I can see you have so much to do with school, housework, and your job. It's completely understandable that you would feel tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:14:18",
+      "origin": "そんな中、将来の目標や夢をしっかり持って頑張っているあなたはすごいと相談員は思います。",
+      "content": "And amidst all that, I think it's amazing that you're working so hard with a clear goal and dream for your future."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:14:32",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:18:31",
+      "origin": "確かにお話を伺っていると、あなた自身の負担が多いようにも思われます。あなたの現在の状況について、実際に話し合うのが難しいのであれば、手紙等でご両親やお姉さんに相談したり、学校の先生に１度相談してみるのはいかかでしょうか。",
+      "content": "It certainly sounds like you're carrying a heavy burden. If it's difficult to talk about your current situation directly, how about trying to talk to your parents or sister by writing a letter, or perhaps talking to a teacher at school once?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:19:42",
+      "origin": "今のところ相談するつもりはないですが、その方法もあると覚えておきます。ありがとうございました",
+      "content": "I don't plan on talking to anyone for now, but I'll keep that as an option. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:20:01",
+      "origin": "後、あなた自身で出来る事と言えば、必要な事とそうでないことを紙に書き出してみるというのも、１つの方法だと思います。",
+      "content": "Also, another thing you could do for yourself is to try writing down on paper what's necessary and what's not. That's one possible method."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:20:52",
+      "origin": "いずれにせよ、あなた自身の身体も大事にしながら日常生活を送ってくださいね。",
+      "content": "In any case, please make sure to take care of your own health as you go about your daily life."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:21:15",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:21:34",
+      "origin": "今日は相談に来てくださってありがとうございました。また何かあれば、いつでもご相談くださいね",
+      "content": "Thank you for coming to talk with me today. If anything else comes up, please feel free to reach out anytime."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:21:55",
+      "origin": "聞いてくださってありがとうございました",
+      "content": "Thank you for listening to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:22:22",
+      "origin": "こちらこそありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:23:21",
+      "origin": "＜今日は開始時間を間違ってしまって、大変申し訳誤差いませんでした。待機していただいてありがとうございました。これで終了としますが、いいでしょうか？＞",
+      "content": "<I sincerely apologize for getting the start time wrong today. Thank you for waiting. Shall we conclude the session now; is that alright?>"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-24T21:24:19",
+      "origin": "(はい、時間の勘違いは誰でもあることですので、気になさらないでくださいありがとうございました)",
+      "content": "(Yes, anyone can make a mistake with the time, so please don't worry about it. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-24T21:24:36",
+      "origin": "＜では終了しますね＞",
+      "content": "<Okay, I'm ending the session now.>"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "家事の負担と家族の協力の欠如"
+  },
+  "review_by_client": {
+    "evaluation_id": 3648,
+    "evaluation_created_at": "2022-06-24T21:44:00",
+    "client_id": 296,
+    "counselor_id": 112,
+    "score": 69,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

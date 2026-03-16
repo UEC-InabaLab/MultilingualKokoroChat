@@ -1,0 +1,663 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-10T09:52:06",
+      "origin": "(こんにちは、本日はよろしくお願いします。お時間になったら始めさせていただきます。）",
+      "content": "(Hello, thank you for coming today. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T09:52:33",
+      "origin": "（ありがとうございます。よろしくお願い致します。）",
+      "content": "(Thank you. I look forward to working with you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:00:06",
+      "origin": "こんにちは、相談員です。今日は相談に来ていただき、ありがとうございます。初めに、年齢と性別、今日の相談内容を教えてください。",
+      "content": "Hello, I'm your counselor. Thank you for coming in today. To start, could you please tell me your age, gender, and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:00:24",
+      "origin": "13歳　女性",
+      "content": "13 years old, female."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:00:36",
+      "origin": "最近メンタルがやばい",
+      "content": "Lately, my mental health has been really bad."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:01:13",
+      "origin": "ありがとうございます。メンタルがやばいとは、どういうところでそう思うのですか？中学生ですか？",
+      "content": "Thank you. When you say your mental health is \"really bad,\" what makes you feel that way? Are you in junior high school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:01:29",
+      "origin": "落ち込む",
+      "content": "I feel down."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:01:37",
+      "origin": "中学生",
+      "content": "I'm in junior high."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:02:25",
+      "origin": "落ち込んでしまうことがあるのですね。しんどいね。例えばどんなことで？",
+      "content": "I see you feel down sometimes. That must be tough. For example, what kinds of things make you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:02:46",
+      "origin": "うーん",
+      "content": "Umm..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:03:03",
+      "origin": "いろいろ",
+      "content": "Various things."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:03:43",
+      "origin": "中学生だと、いろいろあるよね。話しやすいところからでいいから、最近のことで思い出せることを教えてくれる？",
+      "content": "There can be a lot going on when you're in junior high. You can start with whatever is easiest to talk about. Could you tell me about something recent that comes to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:04:28",
+      "origin": "おばあちゃんが家を出て",
+      "content": "My grandma moved out..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:04:42",
+      "origin": "まあ、それは心配。",
+      "content": "Oh, that must be worrying."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:04:49",
+      "origin": "私が家事することになったりとか",
+      "content": "...and I ended up having to do the housework and things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:05:07",
+      "origin": "そうなんだ、それは大変。",
+      "content": "I see, that's a lot to take on."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:05:30",
+      "origin": "家族のことで心配なことがあるんだね。",
+      "content": "It sounds like you have some concerns about your family."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:05:46",
+      "origin": "まあ、はい",
+      "content": "Well, yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:06:11",
+      "origin": "中学生で家事を負担するとなると、毎日大変だよね。",
+      "content": "Taking on housework as a junior high student must be very demanding every day."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:07:09",
+      "origin": "手伝って欲しいと言っても",
+      "content": "Even when I ask for help..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:07:23",
+      "origin": "兄も姉も",
+      "content": "...my older brother and sister..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:07:50",
+      "origin": "家事は楽でしょうと手伝ってくれない",
+      "content": "...they won't help, saying housework is easy."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:08:34",
+      "origin": "兄弟がいるのですね。でも、手伝ってもらえない。しかも、楽とか言われちゃったら、嫌な気持ちになるかもしれないね。言いにくかったらいいけど、良かったら、家族のことを教えてもらえますか？　家族構成とか、役割とか。",
+      "content": "So you have siblings, but they won't help you. I imagine it must feel bad to be told that housework is easy. It's okay if you don't want to talk about it, but if you're comfortable, could you tell me more about your family? Like who is in your family and what roles they have."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:09:33",
+      "origin": "父、母、兄、姉",
+      "content": "My father, mother, older brother, and older sister."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:09:47",
+      "origin": "役割ってなんですか",
+      "content": "What do you mean by roles?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:11:21",
+      "origin": "わかりにくかったね。家事をあなたがやっているということだったけど、いろいろあるでしょ。ご飯作るとか、掃除するとか、働いてお金を稼ぐっていうのも役割だよね。そういう分担はあるのかな。",
+      "content": "Sorry, that was unclear. You mentioned you're doing the housework, and there are many kinds of tasks, right? Things like making meals, cleaning, and working to earn money are also roles. Do you have a division of responsibilities like that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:12:04",
+      "origin": "ご飯作るのと洗濯は自分",
+      "content": "I make the meals and do the laundry."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:12:35",
+      "origin": "お風呂洗いと掃除は父",
+      "content": "My dad cleans the bathtub and does the general cleaning."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:12:54",
+      "origin": "ご飯は、毎日のことだから、大変だよね。選択も家族も多いようだから、大変でしょ。",
+      "content": "Making meals is a daily task, so that must be tough. And with a big family, the laundry must be a lot of work too, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:13:00",
+      "origin": "でも父はしてくれない時もあるから",
+      "content": "But sometimes my dad doesn't do his part,"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:13:10",
+      "origin": "私がする時もある",
+      "content": "so I end up doing it sometimes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:14:43",
+      "origin": "掃除はさぼろうと思えばさぼれちゃうものね。そこをあなたがカバーしているのですね。きちんとやりたい、っていう責任感が強いのですね。一番家族の中では下なのに、えらいね。",
+      "content": "Cleaning is something that's easy to skip if you want to, isn't it? And you're the one covering for that. You must have a strong sense of responsibility, wanting to get things done properly. You're the youngest in the family, yet you're doing so much. That's admirable."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:15:07",
+      "origin": "自分しかいないから",
+      "content": "Because there's no one else."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:16:16",
+      "origin": "自分しかいないって感じてるんだね。お母さんやお兄さん、お姉さんもいるのに、どうしてそんなに自分がやらなくちゃいけないって感じているの？",
+      "content": "You feel like there's no one else but you. You have a mother, an older brother, and an older sister, so why do you feel so strongly that you have to be the one to do it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:16:35",
+      "origin": "誰もしないから",
+      "content": "Because no one else will."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:17:44",
+      "origin": "そうなんだね。もしかして家族はあなたがやってくれるからいいや、なんて甘えているのかもしれないね。でもやらなくちゃあなた自身が困るから、やっているのかな。やっぱり、えらいよ。",
+      "content": "I see. Perhaps your family is taking advantage of your kindness, thinking it's fine since you'll do it for them. But maybe you're doing it because you'd be the one in trouble if it didn't get done. You really are admirable."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:18:43",
+      "origin": "よくわからないです",
+      "content": "I don't really know."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:19:10",
+      "origin": "メンタルやばいのはどうしたらいいですか",
+      "content": "What should I do about my mental health being so bad?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:19:40",
+      "origin": "やばいっていうのは、どんな感じですか？",
+      "content": "When you say it's \"really bad,\" what does that feel like?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:20:15",
+      "origin": "さっきもいいました",
+      "content": "I already told you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:20:16",
+      "origin": "落ち込むっていうことだったけど、何かしたくなっちゃうとか、逆に、なにもしたくないとか",
+      "content": "You mentioned feeling down. Does that mean wanting to do something, or on the contrary, not wanting to do anything at all?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:20:30",
+      "origin": "眠れないとか",
+      "content": "Like I can't sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:21:00",
+      "origin": "眠れないとなると、体にも不調がありそうで心配です。どうですか？",
+      "content": "Not being able to sleep... I'm worried that might be affecting your physical health as well. How have you been feeling physically?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:21:35",
+      "origin": "母に眠れないことを言っても怒られる",
+      "content": "When I tell my mom I can't sleep, she gets angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:21:56",
+      "origin": "怒られる？心配されるじゃなくて？",
+      "content": "She gets angry? Not worried?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:22:38",
+      "origin": "うるさいって言われる",
+      "content": "She tells me I'm being annoying."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:23:47",
+      "origin": "うるさい・・・。そんな風に言われたら、何も言えなくなっちゃうね。それじゃあ、今のあなたの気持ちを聞いてくれそうな人はいない？",
+      "content": "\"Annoying...\" If someone said that to you, it would make it hard to say anything else, wouldn't it? Is there anyone who might listen to how you're feeling right now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:24:30",
+      "origin": "前はおばあちゃんが聞いてくれたけど",
+      "content": "My grandma used to listen, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:24:47",
+      "origin": "出て行ってからはいない",
+      "content": "...since she moved out, there's no one."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:25:29",
+      "origin": "そうなんだ。おばあちゃんは大切なあなたの味方だったんだね。ここまで家族のことばかり聞いてしまったけれど、学校はどうですか？",
+      "content": "I see. Your grandmother was an important ally for you. I've been asking a lot about your family, but how are things at school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:25:59",
+      "origin": "まあまあ",
+      "content": "So-so."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:26:41",
+      "origin": "そうなんだ。じゃあ、あなたのメンタルを落ち込ませている原因は家庭にあると考えてよさそうかな。",
+      "content": "I see. Then, it seems like the cause of your mental downturn might be at home."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:26:57",
+      "origin": "わからないです",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:28:05",
+      "origin": "わからない・・・。話を聞いている感じでは、家庭の状態はあなたにとって幸せとは感じられにくいように思ったんだけど、どうですか",
+      "content": "You don't know... From what I've heard, it seems like your situation at home might be difficult to feel happy in. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:29:01",
+      "origin": "私、かわいそうなんですか？",
+      "content": "Am I pitiful?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:29:23",
+      "origin": "かわいそうとは思わないです。でも、大変そうだなとは思います。",
+      "content": "I don't think you're pitiful. But I do think you're in a tough situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:30:22",
+      "origin": "家事に追われているように感じたので、そうなると遊んだり、自分の好きなことをやる時間はあるのかな、と心配になります。",
+      "content": "I felt like you're overwhelmed with housework, which makes me worry if you have any time to hang out with friends or do things you enjoy."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:30:42",
+      "origin": "でもそうするしかないから",
+      "content": "But I have no choice."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:32:02",
+      "origin": "そうするしかない　と感じているところにしんどそうだな　と感じます。落ち込んだ時でも、好きなことしたり友達としゃべったりすると、ちょっと気分が上がるかなと思うのだけど、そういう時間はあるかな。",
+      "content": "The part where you feel you \"have no choice\" is what sounds so difficult. Even when you're feeling down, doing something you like or talking with friends can sometimes lift your spirits a little. Do you have any time for things like that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:32:52",
+      "origin": "別にしんどくない。そうするしかないから",
+      "content": "It's not particularly hard. I just have no choice."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:33:13",
+      "origin": "お母さん病気だし",
+      "content": "Besides, my mom is sick."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:35:07",
+      "origin": "お母さんは病気なんだ。それも心配ですね。だからあなたがやるしかないって思っているのかな。しんどくはないってことだけど、眠れないって言ってたよね。不安や心配があると人は眠れなくなることが多いのだけれど、どうですか。",
+      "content": "Your mother is sick. That must be another worry for you. Is that why you feel you have no choice but to do everything? You said it's not hard, but you also mentioned you can't sleep. People often have trouble sleeping when they have anxiety or worries. Does that resonate with you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:37:00",
+      "origin": "お母さん、精神の病気みたいで",
+      "content": "My mom... it seems like she has a mental illness."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:37:23",
+      "origin": "いつも何かぶつぶつ言っている",
+      "content": "She's always muttering something to herself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:37:35",
+      "origin": "そうなんだ、そうすると気持ちが不安定な時もあるかもしれないね。",
+      "content": "I see, so her mood might be unstable at times."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:38:32",
+      "origin": "だから、あなたは、うるさいって言われても、家族のために自分がやるしかないって、家事を果たしているのかな。優しいね。",
+      "content": "So, even when she calls you \"annoying,\" you feel you have to do the housework for your family's sake. That's very kind of you."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:38:59",
+      "origin": "だって誰もしないから",
+      "content": "Because no one else will do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:40:13",
+      "origin": "そうだよね。でも、お母さんがそういう様子だと、家族みんなで協力していくことは大切だと思うのだけれど、お父さんや兄さん、姉さんとは、お話しする？",
+      "content": "I understand. But with your mother in that condition, I think it's important for the whole family to cooperate. Do you talk with your father, brother, or sister about this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:41:06",
+      "origin": "兄は自分勝手だし、姉は嫌がる",
+      "content": "My brother is selfish, and my sister doesn't want to."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:41:45",
+      "origin": "そうなんだ、なかなか相談にものってくれないとなると、寂しいね。",
+      "content": "I see. It must feel lonely when they're not willing to talk about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:42:05",
+      "origin": "お父さんは忙しそう？",
+      "content": "Does your dad seem busy?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:42:20",
+      "origin": "忙しそうにしてる",
+      "content": "He acts busy."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:42:50",
+      "origin": "そうなんだね、そうなるとなかなか話もできないかもしれないね。",
+      "content": "I see. That might make it hard to talk with him, then."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:44:46",
+      "origin": "どうしたらメンタルよくなりますか",
+      "content": "How can I improve my mental health?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:45:12",
+      "origin": "ここまで話を聞いていると、あなたは家族思いで責任感も強く、家庭を維持していくために頑張っていると感じました。そして、それを当たり前にやらなくてはいけないと感じ、しんどい思いはしていないとのことでしたが、体には不調は表れていると感じます。",
+      "content": "From what I've heard so far, I feel that you are very thoughtful of your family, have a strong sense of responsibility, and are working hard to maintain your household. You feel you have to do this as a matter of course and said you don't find it difficult, but I do feel that your body is showing signs of distress."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:45:54",
+      "origin": "メンタルがやばいと感じているのは、そういう不安や心配の表れだと思うんです。",
+      "content": "I think that feeling that your mental health is 'really bad' is a sign of that anxiety and worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:46:25",
+      "origin": "だから、それが少しでも減るとよいのだけれど、家庭の状況は難しそうですね。",
+      "content": "So, it would be good if we could reduce that anxiety, even a little, but the family situation seems complicated."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:47:08",
+      "origin": "結局解決にはならないってことですよね",
+      "content": "So you're saying there's no solution, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:47:46",
+      "origin": "となると、自分で何とかするしかないのだけれど、まずは、やるしかないと思っていることをちょっと減らせないか、かんがえてみることはできますか",
+      "content": "In that case, it seems you feel you have to manage it on your own. But first, could we think about whether it's possible to reduce some of the things you feel you \"have no choice\" but to do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:48:16",
+      "origin": "それはできない",
+      "content": "I can't do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:48:38",
+      "origin": "できない？　どうしてそう思うの？",
+      "content": "You can't? Why do you think so?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:48:50",
+      "origin": "だって自分しかいないから",
+      "content": "Because there's no one else."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:48:57",
+      "origin": "ここでもわかってくれない",
+      "content": "You don't understand either."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:49:24",
+      "origin": "ごめんね、私が言いたいのは、ちょっと手を抜いてもいいんじゃないのってこと。",
+      "content": "I'm sorry. What I mean is, maybe it's okay to cut yourself some slack."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:49:44",
+      "origin": "どう手を抜けばいいんですか",
+      "content": "How am I supposed to cut corners?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:50:26",
+      "origin": "例えば、父さんが掃除してなくても、自分の周りだけして、あとはしないとか。",
+      "content": "For example, if your father doesn't do the cleaning, you could just clean your own area and leave the rest."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:50:50",
+      "origin": "ご飯は、お総菜を買ってきちゃうとか。",
+      "content": "For meals, you could buy some pre-made dishes."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:51:00",
+      "origin": "お金かかるし",
+      "content": "That costs money."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:51:16",
+      "origin": "掃除しないと言われるのは自分",
+      "content": "And I'm the one who gets told off if the cleaning isn't done."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:51:41",
+      "origin": "言われるのは、だれから？",
+      "content": "Who tells you off?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:51:56",
+      "origin": "家族からですよ",
+      "content": "From my family, of course."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:52:37",
+      "origin": "お兄さんやお姉さんにも？　ちょっと勝手だよね。",
+      "content": "From your brother and sister, too? That's a bit selfish of them, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:52:55",
+      "origin": "悪く言われたくないです",
+      "content": "I don't want to be spoken ill of."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:54:11",
+      "origin": "そういう気持ちがあるんだね。洗濯とか、お兄さんやお姉さんのはやらないって言ってもいいんじゃないかとか思っちゃうけど、そんなことはあなたは言わなそうだよね",
+      "content": "I see, so you feel that way. I find myself thinking you could just say you're not doing your brother's and sister's laundry, but it doesn't seem like you're the type to say that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:57:13",
+      "origin": "でもね、お話聞いている限りでは、あなたの負担がとても大きいんじゃないかと感じるんです。もっと自分にも優しくしていいんですよ。あなたは「自分がやらなくちゃ」という気持ちがとても強く、それはとても素敵なことなのだけれど、それであなたに不調が表れているのだから、ちょっと休むことも大切だと思うのです。",
+      "content": "But, from what I'm hearing, I feel that your burden is just too great. It's okay to be kinder to yourself. You have this very strong feeling that \"I have to do it,\" and while that's a wonderful quality, it's also causing you physical distress. That's why I think it's important to rest a little."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T10:57:51",
+      "origin": "休んだら家がまわらなくなります",
+      "content": "If I rest, the household will fall apart."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T10:59:51",
+      "origin": "そう感じるよね。家がまわらなくなるって、どういうことなんだろうね。あなた自身が困らないようにっていうのを優先してもいいんじゃないかな。さっき「ここでも」って言ってたから、前にも誰かに相談はしたのかな。そして、なかなか分かってもらえないって感じたのかな。私も、あまりあなたの力にはなれなかったようですみません。",
+      "content": "I can see why you'd feel that way. What does it mean for the house to \"fall apart\"? I think it's okay to prioritize your own well-being. You said \"you don't understand either\" a moment ago, which makes me wonder if you've talked to someone else about this before. And did you feel like they didn't really understand? I'm sorry that I don't seem to have been much help to you either."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T11:01:53",
+      "origin": "大丈夫です。ありがとうございました",
+      "content": "It's okay. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T11:02:07",
+      "origin": "あなたは、我慢していると感じるわけでもなく、家族のために、家庭のために、毎日当たり前のようにいろんなことがんばっていて、とても立派です。でもね、もっと自分にわがままになってもいいんじゃないかなって感じました。",
+      "content": "You don't even feel like you're enduring it; you're just working hard every day for your family and your home as if it's the most natural thing to do, and that's truly admirable. But, I felt that it might be okay for you to be a little more \"selfish\" for your own sake."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T11:02:49",
+      "origin": "今日はお時間となってしまったので、ここで終了となりますが、あなたがしっかり眠れるようになることを願っています。",
+      "content": "We're out of time for today, so we'll have to end here, but I truly hope you'll be able to get some proper sleep."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T11:03:10",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T11:03:17",
+      "origin": "また、いつでも相談に来てくださいね。ありがとうございました。",
+      "content": "Please feel free to come back and talk anytime. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-10T11:03:36",
+      "origin": "（終了メッセージを流します）",
+      "content": "(Playing the closing message.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-10T11:03:44",
+      "origin": "はい",
+      "content": "Okay."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "家庭内のメンタルストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 6992,
+    "evaluation_created_at": "2024-06-10T12:59:00",
+    "client_id": 211,
+    "counselor_id": 476,
+    "score": 44,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

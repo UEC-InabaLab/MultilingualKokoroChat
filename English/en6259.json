@@ -1,0 +1,411 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:00:05",
+      "origin": "こんにちは、相談員です。ご相談にいらしてくださり、ありがとうございます。はじめに、年齢と性別、ご相談内容を教えてください。",
+      "content": "Hello, I'm the counselor. Thank you for coming in today. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:01:03",
+      "origin": "こんにちは。38歳、女性毎日の子育てが辛いんです。",
+      "content": "Hello. I'm 38 and female. I'm finding daily parenting to be very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:01:14",
+      "origin": "そうなんですね。教えてくださり、ありがとうございます。",
+      "content": "I see. Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:01:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:02:30",
+      "origin": "辛いお気持ちの中、ご相談にいらしてくださり、ありがとうございます。お子様の人数と年齢を教えてください。",
+      "content": "Thank you for coming to talk with me, especially while you're feeling this way. Could you tell me how many children you have and their ages?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:03:30",
+      "origin": "2人で8歳と4歳です",
+      "content": "I have two: they're 8 and 4."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:04:33",
+      "origin": "そうなんですね。ちなみに、性別も教えていただけますか？",
+      "content": "I see. By the way, could you tell me their genders as well?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:04:49",
+      "origin": "2人とも女の子です",
+      "content": "They're both girls."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:05:31",
+      "origin": "そうなんですね、教えてくださり、ありがとうございます。具体的に、どんなところをお辛いと感じていらっしゃいますか？",
+      "content": "I see, thank you for telling me. Specifically, what aspects do you find difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:06:16",
+      "origin": "子供に対してイライラしてしまって、たまに怒鳴ってしまうこともあって。。",
+      "content": "I get irritated with my children, and sometimes I even end up shouting at them..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:07:58",
+      "origin": "そうだったんですね。お子様が手助けを必要としている年齢ですと、思うようにいかないことが多いので、あなたがイライラしてしまうことも不思議ではないと思います。",
+      "content": "I see. At their ages they still need a lot of help, and things often don’t go as planned, so it’s understandable that you feel irritable."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:08:39",
+      "origin": "例えばどんな時に、そのようなお気持ちになりますか？",
+      "content": "For example, in what situations do you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:08:42",
+      "origin": "そうかもしれません",
+      "content": "That might be true."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:10:28",
+      "origin": "子供が言うことを聞かなかったり、しつこく付きまとったりする時です。",
+      "content": "It's when my children don't listen to me or when they are clingy and persistent."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:12:00",
+      "origin": "なるほど、そのようなことがあると、イライラしてしまいますね。。ちなみに、そのように感じるようになったのは、いつ頃からでしたか？",
+      "content": "I understand. Those situations would certainly make anyone irritated... By the way, about when did you start feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:13:06",
+      "origin": "2人目が産まれてからだと思いますが、最近もっとイライラしている気がします",
+      "content": "I think it started after my second child was born, but I feel like I've been even more irritable lately."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:14:05",
+      "origin": "そうなんですね。長い間お辛い気持ちを感じながら、頑張って過ごしていらしたのですね。。最近イライラが強くなってきたのには、どんなことがあると思われていますか？",
+      "content": "I see. So you've been doing your best all this time while dealing with these difficult feelings... What do you think might be causing the irritation to intensify recently?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:15:47",
+      "origin": "子育てや家事を1人でやっているように感じるからでしょうか。。",
+      "content": "Maybe it's because I feel like I’m doing all the parenting and housework all by myself..."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:16:42",
+      "origin": "子供が全然言うことを聞かないと言うこともあります",
+      "content": "Also, there are times when the kids just won’t listen at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:18:16",
+      "origin": "ええ、そうだったのですね。お子様二人の相手や身の回りのこと、さらに家事もお一人で、となると、大変な忙しさですね。。",
+      "content": "Yes, I see. Looking after two children and managing their needs, on top of all the housework by yourself, must be incredibly busy..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:18:35",
+      "origin": "お子様たちはまだ自由に行動したいご年齢ですし、お母様としてやらなければならないことがどんどん増えていって、お体もお気持ちも休まらない感じがしてしまいますね。。",
+      "content": "Your children are still at an age where they want to do as they please, and the things you have to do as a mother just keep piling up. It must feel like you never get a chance to rest, physically or mentally..."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:18:50",
+      "origin": "そうですね。。",
+      "content": "Yes, that's right..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:19:42",
+      "origin": "さきほど子育てと家事をお一人で、とお話くださいましたが、あなたがお辛いと感じていることを、ご家族の方はどのように思っていらっしゃいますか？",
+      "content": "You mentioned earlier that you feel you’re handling childcare and housework alone—how do you think your family perceives how difficult this is for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:20:39",
+      "origin": "主人は仕事が忙しいので、状況をあまりわかっていない気がします。",
+      "content": "My husband is busy with work, so I feel like he doesn't really understand the situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:21:41",
+      "origin": "そうだったのですね。パートナーさんに大変さをわかってもらえないのは、孤独な気持ちになりますね。。ちなみに、あなたはお仕事をされていますか？",
+      "content": "I see. It must feel lonely when your partner doesn't understand how difficult things are for you... By the way, are you currently working?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:22:31",
+      "origin": "はい。以前はしていましたが、今はしていません。",
+      "content": "Yes. I used to, but I'm not working right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:23:55",
+      "origin": "そうだったのですね。お仕事を辞められたことについて、ご自身ではどのように思っておられますか？",
+      "content": "I see. How do you feel about having left your job?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:26:58",
+      "origin": "子供ができて、夫とも相談して仕事を辞めることにしましたが、周りを見ると、仕事と子育てを両立している人もたくさんいて、正直続けていた方が良かったのかな、と思ったりします。",
+      "content": "After I had children, I discussed it with my husband and decided to quit my job. But when I look around, I see so many people balancing work and parenting, and honestly, it makes me wonder if I would have been better off if I had continued working."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:28:57",
+      "origin": "ええ、夫さんとご相談してのご決断だったのですね。続けていた方が良かったのだろうかと思われるのは、どんなことからですか？",
+      "content": "I see, so it was a decision you made after consulting with your husband. What makes you think it might have been better to continue working?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:33:05",
+      "origin": "子供が学校や幼稚園に行っている時間に家事をして、、その時間にすごく無力感みたいなものを感じて、こういう時間がずっと続くと思うと、辛いからです",
+      "content": "Because while my kids are at school or kindergarten, I do housework... and during that time, I feel a sense of powerlessness, and it's painful to think that this will continue indefinitely."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:35:10",
+      "origin": "そうなんですね。お子さんが家以外で過ごす時間ができてきて、あなたがお一人で家で過ごす時間も増えてきたからこそ、そのように感じられるのですね。無力感を感じると、お辛くなるのも不思議ではありませんね。。",
+      "content": "I see. Now that your children are spending more time away from home, you have more time to yourself at home, and that's what's bringing up these feelings. It's not surprising that feeling a sense of powerlessness would be painful..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:37:17",
+      "origin": "あなたが日々頑張って過ごしてこられたこと、お子様との関わり、ご家庭のご様子に関する夫さんのご理解などについてここまでお話していただきましたが、どんなふうになったら良いと、あなたは思っていらっしゃいますか？",
+      "content": "We’ve talked about the efforts you make every day, your relationship with your children, and your husband’s understanding of the family situation. How would you like things to be?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:38:44",
+      "origin": "そうですね、、まずは今の自分の気持ちを夫に理解してもらいたいです。",
+      "content": "Well... first, I want my husband to understand how I'm feeling right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:39:43",
+      "origin": "ええ、そう思っておられるのですね。大切な夫さんだからこそ、あなたのお気持ちをわかってほしいのですね。",
+      "content": "I see—that’s what you’re hoping for. Because your husband is important to you, you want him to understand your feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:40:50",
+      "origin": "ちなみに、夫さんはお仕事がお忙しいとのことでしたが、お二人でゆっくり話すお時間はとれそうですか？",
+      "content": "By the way, you mentioned your husband is busy with work. Do you think you could find some time to talk together at a relaxed pace?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:42:08",
+      "origin": "大切、とは思っていませんが、せめて今の状況をわかって欲しいとは思います。",
+      "content": "I wouldn't say I see him as 'important,' but I do want him to at least understand my current situation."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:42:27",
+      "origin": "なかなか難しいと思います。出張も多いですし。",
+      "content": "I think it would be quite difficult. He travels a lot for work, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:43:32",
+      "origin": "そうなんですね。そのように思っておられるのですね。",
+      "content": "I see. That’s how you’re feeling about it."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:43:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:44:16",
+      "origin": "夫さんに対しては、どんなお気持ちをお持ちですか？",
+      "content": "What kind of feelings do you have toward your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:45:36",
+      "origin": "そうですね、一緒に暮らしている人、みたいな感じでしょうか",
+      "content": "Well, he's like... the person I live with, I guess."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:46:30",
+      "origin": "同居人みたいな",
+      "content": "Like a roommate."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:48:03",
+      "origin": "そうなんですね。一緒に住んでいるのだから、あなた一人が大変な思いをしている今の状況を、せめてわかって欲しいと思っておられるのですね。",
+      "content": "I understand. Since you’re living together, you’d at least like him to recognize how hard things are for you right now."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:48:20",
+      "origin": "そうですね。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:49:06",
+      "origin": "直接お話する時間をとることは難しいようですが、他にどんな方法なら夫さんに伝えられそうだと思われますか？",
+      "content": "It seems that finding time to talk in person is difficult. What other ways do you think you could communicate with your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:49:55",
+      "origin": "メールをするとかでしょうか",
+      "content": "Maybe sending an email?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:50:38",
+      "origin": "ええ、そう思われるのですね。メールでどんなふうに伝えようと思われますか？",
+      "content": "I see—that sounds like an option. How do you think you would express it in an email?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:52:03",
+      "origin": "今の子供達の状況や私が感じていることなどを正直に伝えてみようと思います。",
+      "content": "I think I'll try to honestly share the current situation with the children and how I'm feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:54:40",
+      "origin": "ええ、そう思っておられるのですね。これまでお一人でお気持ちを抱えて頑張ってこられて、お辛かったと思います。あなたが頑張っていらっしゃることを、夫さんに伝えてみることは、あなたにとって大きな一歩になると思います。",
+      "content": "I understand—that’s what you’re thinking. You’ve been carrying these feelings on your own and working so hard; that must have been tough. Sharing with your husband how hard you’ve been trying could be a significant first step for you."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:55:24",
+      "origin": "はい、そうかもしれませんね。",
+      "content": "Yes, that might be true."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:55:42",
+      "origin": "今日のご相談時間が残り５分ほどとなりました。ここまでお話いただいて、今のお気持ちはいかがですか？",
+      "content": "We have about five minutes left in our session today. Having talked about all this, how are you feeling now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:58:42",
+      "origin": "ありがとうございます。今まで不満があるけれど、夫に伝えられなかったのですが、メールに書くことで自分の気持ちも整理できて、夫にも私の気持ちをわかってもらえると、少し心が穏やかになれるようになるのでは、感じています。",
+      "content": "Thank you. I've had these frustrations but haven't been able to tell my husband. I feel that if I write it down in an email, I can sort out my own feelings, and if he can understand how I feel, maybe I can feel a little more at peace."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T10:59:32",
+      "origin": "そうだったのですね。とても大切なことに気づかれたご様子ですね。",
+      "content": "I see. It sounds like you've had a very important realization."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T10:59:43",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T11:01:03",
+      "origin": "子育ては終わりが見えないし、お子様の要求も際限がなくて、疲れてしまうことも、イライラしてしまうこともあると思います。それはとても自然なお気持ちだとも思います。そんな時、お気持ちを吐き出すことで少し楽になれることもあるので、夫さんと共有しながら、もしよかったらまたいつでもこちらにいらしてください。",
+      "content": "Parenting can feel endless, and children's demands are limitless, so it's understandable to feel tired and irritated sometimes. I think those are very natural feelings. At times like that, letting your feelings out can bring some relief, so while sharing with your husband, please feel free to come back here anytime you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T11:01:28",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T11:02:24",
+      "origin": "毎日育児と家事を頑張って過ごしておられるあなたのことを、これからも応援していきたいと思っています。今日は大切なお話を聞かせてくださり、ありがとうございました。",
+      "content": "I want you to know that I will continue to support you as you work so hard with childcare and housework every day. Thank you for sharing such important things with me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T11:02:51",
+      "origin": "それでは、今日のご相談はこれで終了とさせていただきます。",
+      "content": "With that, we will conclude today's session."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T11:02:52",
+      "origin": "こちらこそ、どうもありがとうございました。気持ちが楽になりました。",
+      "content": "Thank you very much as well. I feel much lighter now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T11:03:13",
+      "origin": "（おつかれさまでした。ありがとうございました）",
+      "content": "(Thank you for your time and effort today. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-14T11:03:36",
+      "origin": "(お疲れ様でした。とても勉強になりました。ありがとうございました！)",
+      "content": "(Thank you. I learned a lot. Thank you!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-14T11:03:55",
+      "origin": "（終了メッセージを送らせていただきますね）",
+      "content": "(I’ll send the closing message now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫に自分の気持ちを理解してもらいたい"
+  },
+  "review_by_client": {
+    "evaluation_id": 6259,
+    "evaluation_created_at": "2024-01-14T12:48:00",
+    "client_id": 471,
+    "counselor_id": 420,
+    "score": 91,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

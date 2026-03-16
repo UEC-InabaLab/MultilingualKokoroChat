@@ -1,0 +1,531 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-02T14:51:45",
+      "origin": "（本日はよろしくお願い致します。定刻になったら、始めさせて頂きますね。）",
+      "content": "(Thank you for joining us today. We will begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T14:52:22",
+      "origin": "よろしくお願いいたします。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T14:59:42",
+      "origin": "こんにちは、相談員です。本日はご相談にお越しいただき、ありがとうございます。はじめに、年齢、性別、ご相談内容を教えて頂けますか？",
+      "content": "Hello, I'm the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:00:36",
+      "origin": "こんにちは。30歳、女性、子どもに怒って毎日罪悪感です",
+      "content": "Hello. I'm 30 years old, female, and I feel guilty every day for getting angry at my children."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:01:22",
+      "origin": "お話し下さり、ありがとうございます。子育てを頑張っておられるのですね。よろしければ、もう少し詳しく教えて頂けますか？",
+      "content": "Thank you for sharing that with me. It sounds like you're working very hard at parenting. If you're comfortable, could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:02:50",
+      "origin": "毎日同じような内容で子どもに怒っていて、感情的になり過ぎてしまいその後後悔しています",
+      "content": "I get angry at my children for the same things every day, become too emotional, and then regret it afterward."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:03:45",
+      "origin": "そうなのですね。子育ては思うようにいかないことが多いと思いますので、怒ることがあるのも自然なことと感じます。",
+      "content": "I see. I imagine parenting often doesn't go as planned, so it feels natural to get angry sometimes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:04:23",
+      "origin": "ちなみに、お子さんはおいくつで、何人いらっしゃいますか？",
+      "content": "By the way, how old are your children, and how many do you have?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:04:42",
+      "origin": "10歳と8歳です",
+      "content": "They're 10 and 8."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:05:16",
+      "origin": "お答え下さり、ありがとうございますね。小学生のお子さんがお二人いらっしゃるのですね。",
+      "content": "Thank you for telling me. So you have two elementary school-aged children."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:05:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:06:11",
+      "origin": "同じような内容で怒っていると話して下さいましたが、どのような内容で怒ることになってしまうのでしょうか？",
+      "content": "You mentioned you get angry about similar things—what kinds of things lead to that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:07:07",
+      "origin": "宿題や提出物を出さずにゲームをする、連絡帳を書いてこないから確認ができない",
+      "content": "They play games without doing their homework or submitting assignments, and they don't fill out their communication book, so I can't check it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:07:34",
+      "origin": "ええ、ええ（他にもありましたら、どうぞお話し下さいね）",
+      "content": "Mm-hm, mm-hm. (If there's anything else, please feel free to share.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:08:19",
+      "origin": "言葉遣いが乱暴などです",
+      "content": "Their language is rude, things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:09:27",
+      "origin": "そうなのですね。宿題や提出物は、学校生活のルールにも関わってきますし、言葉遣いも親御さんとしては気になられるのは当然のことと思います。",
+      "content": "I understand. Homework and assignments are related to the rules of school life, and it's natural for a parent to be concerned about their child's language."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:10:32",
+      "origin": "下の子なのですが、3年生になったのにまだやるべき事が出来ていません。どうしたらいいですか？",
+      "content": "It's my younger one; even though they're in third grade, they still can't do what they're supposed to. What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:11:05",
+      "origin": "なるほど、特に気になられるのは下の３年生のお子さんのことでしょうか？",
+      "content": "I see, so you're particularly concerned about your younger child in the 3rd grade?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:11:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:12:57",
+      "origin": "なるほど、そうなのですね。相談者さんとしては、下のお子さんには、どのようなことができるようになって欲しいとお考えですか？話せる範囲で大丈夫ですよ。",
+      "content": "I see, I understand. As for you, what would you like your younger child to be able to do? You can share as much as you're comfortable with."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:13:55",
+      "origin": "宿題、提出物等やるべきことをやって欲しいです",
+      "content": "I want them to do what they're supposed to do, like homework and assignments."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:14:36",
+      "origin": "そうお考えなのですね。おもに、宿題や提出物など、学校に持っていくものに関連するものが中心というところでしょうか？",
+      "content": "I see that's what you're thinking. Is it mainly related to things they need to bring to school, like homework and assignments?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:15:39",
+      "origin": "そうですね、みんなが当たり前にやっていることを当たり前にやって欲しいです",
+      "content": "That's right. I just want them to do what everyone else does as a matter of course."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:17:39",
+      "origin": "そうお感じなのですね。みんながやれているかはわからない部分ではありますが、できると良いと考えられるのは親御さんとしては当然のことだと思います。",
+      "content": "That's how you feel. While we can't be sure if everyone else is doing it, I think it's perfectly natural for a parent to want their child to be able to do those things."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:18:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:18:31",
+      "origin": "ふだんは、お子さんと宿題や提出物について、お話されたりはしますか？",
+      "content": "Do you usually talk with your child about homework and assignments?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:19:05",
+      "origin": "学校から帰って来たら毎日しています",
+      "content": "I do it every day when they get home from school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:19:59",
+      "origin": "そうなのですね。相談者さんが、そのことについて、真剣に向き合っておられるのを感じます。お子さんは、それについてどのように感じられているご様子ですか？",
+      "content": "I see. I can sense that you are taking this very seriously. How does your child seem to feel about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:21:33",
+      "origin": "毎日言われるのが嫌なのか、不機嫌というか不貞腐れているというか。普通に聞けている時もあるしその日によって反応は違います。",
+      "content": "They seem to dislike being told every day—they get grumpy or sulky. Sometimes they can listen normally, but their reaction varies from day to day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:23:16",
+      "origin": "そのようなご様子なのですね。お子さんにどう伝わっているのか、気になられるところだと思います。お子さんは、宿題や提出物を出さずにゲームをされるということですが、その理由など、何か考えられることはありますか？例えば、疲れているとか、まずは休憩してほっと一息つきたいタイプであるとか、、、。",
+      "content": "I see—that's how it seems. I imagine you’re wondering how it’s coming across to your child. You mentioned they play games without doing homework or turning in assignments. Do you have any thoughts about why that might be? For example, perhaps they're tired, or the type who wants to decompress and take a break first..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:24:55",
+      "origin": "宿題をすること、学校に行くことが嫌と言っています。",
+      "content": "They say they dislike doing homework and going to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:25:55",
+      "origin": "そうなのですね。嫌だというお気持ちもおありなのですね。宿題や学校が嫌な理由などは、お子さんは話されていますか？",
+      "content": "I see. So they do have feelings of dislike about it. Have they shared any reasons why homework or school feels unpleasant?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:26:56",
+      "origin": "勉強する意味がわからない、何のために学校に行かないといけないのと言っています",
+      "content": "They say they don't see the point of studying and ask why they have to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:28:40",
+      "origin": "なるほど、お子さんはそのことに引っかかる部分がおありなのですね。相談者さんから見て、そのこととが帰ってきて宿題や提出物を出さないことに影響していそうですか？",
+      "content": "I see, so that's something your child is struggling with. From your perspective, does that seem to be affecting why they don't do homework or assignments when they get home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:30:08",
+      "origin": "学校や宿題に意味を見出せていないこと、小学生になって遊ぶだけではいけなくなったことかなと思っています",
+      "content": "I think it's because they can't find meaning in school or homework, and because now that they're in elementary school, they can't just play all the time anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:31:00",
+      "origin": "なるほど、そのように感じられるのですね。確かに、小学生になると、幼稚園では遊びだった時間が、大変が勉強の時間になりますね。",
+      "content": "I see, that's how you perceive it. It's true that when they start elementary school, the time that was for play in kindergarten becomes time for studying, which can be tough."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:31:40",
+      "origin": "何と答えれば納得いくのでしょうか？",
+      "content": "What should I say that would make sense to them?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:34:40",
+      "origin": "そうですね。納得いく答えがもらえれば、お子さんもやる気になるのではないか、という気がしてきますが、そこはお子さん自身から湧いてくる答えが一番大切だと思います。そのお話をお子さんにする前に、今日はまず、お母様である相談者さんのお考えをここで整理しておかれると伝えやすいのではないかと思いますが、いかがですか？",
+      "content": "That's a good point. It seems like if they got a satisfying answer, your child might become more motivated. However, I believe the most important answer is the one that comes from your child themselves. Before you have that conversation with them, perhaps today we could first organize your own thoughts as their mother, which might make it easier to communicate. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:35:08",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:36:04",
+      "origin": "ありがとうございます。相談者さんは、お子さんに当たり前のことややるべきことをやって欲しいと話して下さっていましたが、それはどのような理由からだと感じられますか？",
+      "content": "Thank you. You mentioned you want your child to do the things that are expected and what they're supposed to do. What do you feel is the reason for that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:37:20",
+      "origin": "社会生活を送っていく上で必要だと思うからです。やるべきことをやらないのに、好きなことばかりできるほど世の中甘くないと思っています。",
+      "content": "Because I believe it's necessary for living in society. I don't think the world is so easy that you can just do what you like without doing what you're supposed to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:39:27",
+      "origin": "なるほど、必要だと考えられているのですね。社会生活では大切なことと私も感じます。世の中甘くないとお感じだということですが、どのようなところでそう感じられますか？",
+      "content": "I see—you consider it necessary. I also feel it's important for social life. When you say the world isn't so easy, what experiences lead you to feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:40:55",
+      "origin": "学校生活もそうですが、社会人として世の中に出た時に通用しないと思います",
+      "content": "It's true in school life, but I also think that behavior won't be acceptable when they enter the workforce as an adult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:42:44",
+      "origin": "なるほど、社会人になった時のことも心配されているのですね。学校生活は、その練習でもありますものね。相談者さん自身は、何かそのようなご経験などありますか？差し支えなければで結構ですので、もしあればお聞かせ下さいね。",
+      "content": "I see, so you're also worried about when they become an adult. School life is practice for that, isn't it? Have you had any such experiences yourself? You don't have to share if you're not comfortable, but if you have, please tell me."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:44:43",
+      "origin": "学校に行くのが嫌だとは思っていましたが、それで周りに当たり散らすとかはなかったですし、宿題、提出物は出していて注意を受けた記憶がありません。",
+      "content": "I used to dislike going to school, but I didn't take it out on others, and I did my homework and turned in assignments; I don't remember being reprimanded for those."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:46:02",
+      "origin": "そうだったのですね。相談者さんも、お子さんと同じように嫌な気持ちはありつつも、やるべきことをして来られたのですね。お子さんに伝える際に、大切な部分だと思いますので、もう一つだけ質問させて下さいね。",
+      "content": "I see. So you, like your child, also had feelings of dislike, but you still did what you were supposed to do. I think this is an important point when talking to your child, so please allow me to ask one more question."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:46:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:46:54",
+      "origin": "相談者さんは、これまでの人生で、やるべきことをやったことで、どんな良いことがあったと感じられていますか？",
+      "content": "In your life so far, what good things do you feel have come from doing what you were supposed to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:47:55",
+      "origin": "注意を受ける事も少なかったですし、仕事も円滑に進められていたと思います",
+      "content": "I was rarely reprimanded, and I think my work went smoothly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:49:52",
+      "origin": "お答えいただき、ありがとうございます。そうなのですね。そうすることで、社会生活がスムーズに進むようにお感じになられているのではないかと感じましたが、いかがですか？",
+      "content": "Thank you for your answer. I see. It sounds like you feel that doing so helps social life go smoothly—does that resonate?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:50:29",
+      "origin": "そうですね、そう思っています。",
+      "content": "Yes, that's what I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:51:40",
+      "origin": "相談者さんのご経験をもとに、お子さんもスムーズに社会生活を送れるように考えていらっしゃることで、お子さんを大切に思っていらっしゃることが伝わってきます。",
+      "content": "Based on your experiences, your desire for your child to also have a smooth social life really shows how much you care for them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:52:27",
+      "origin": "ここまでお話いただいたことをまとめさせて頂きますね。",
+      "content": "Let me summarize what we've discussed so far."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:52:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:54:19",
+      "origin": "相談者さんは、下のお子さんに宿題や提出物を出すなど、やるべきことをやれるようになって欲しいと思っていらっしゃる。それは、社会に出たときに、注意を受けずに済んだり、仕事も円滑に進むことに繋がるという経験があり、お子さんにもそうさせてあげたいという温かい愛情からのお気持ちがあると感じました。",
+      "content": "You want your younger child to be able to do the things they should, such as doing homework and turning in assignments. You’ve experienced that this leads to fewer reprimands and smoother work life, and I sense a warm, loving wish to offer the same to your child."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:54:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T15:55:58",
+      "origin": "親御さんからすると、当然の思いであり、それを毎日伝えようとされている相談者さんは、とても努力されていると思います。怒るにもとてもエネルギーを使いますので、向き合い続けられているのは、お子さんへの愛情があるからこそと感じます。",
+      "content": "For a parent, that's a natural feeling, and I think you are making a great effort by trying to communicate that every day. Getting angry takes a lot of energy, so I feel the reason you can keep facing this is because of your love for your child."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T15:57:20",
+      "origin": "私が努力しても子どもが変わる様子はありませんが、、",
+      "content": "But even if I try, my child doesn't seem to be changing..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:00:28",
+      "origin": "ええ、そうですね。なので、先ほど話して頂いた相談者さんの愛情とお気持ちを話してみた上で、お子さんに「どのような３年生になりたい？」と聞いてみるのはいかがでしょうか？",
+      "content": "Yes, I understand. So, after sharing your feelings of love and concern that you just talked about, how about asking your child, \"What kind of third grader do you want to be?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:01:13",
+      "origin": "相談者さんの思いを受け取って、あとはお子さんに考えてもらい、それで失敗するのも、ひとつの人生勉強にはなります。",
+      "content": "After they receive your feelings, let your child think about it. Even if they fail, that in itself is a life lesson."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:01:44",
+      "origin": "子ども自身に考えさせるのですね、やってみます。",
+      "content": "So you mean having the child think for themselves. I'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:02:33",
+      "origin": "ええ、そして、「注意を受けること」「仕事などが円滑に進むこと」にも、どのように捉えているか、まだ３年生ではありますが、聞いてみるとよいと思います。",
+      "content": "Yes, and I think it would also be good to ask them, even though they are only in third grade, how they perceive \"being reprimanded\" and \"having work and other things go smoothly.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:02:41",
+      "origin": "その理由としては、",
+      "content": "The reason for this is,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:03:44",
+      "origin": "ご本人は、そこがあまり気になるポイントではないかもしれないことと、だからと言って放っておくわけではなく、「他の人に迷惑がかかるのならどうする？」など、社会生活の中で必要な視点もあると思います。",
+      "content": "those things might not be a major point of concern for them. But that doesn't mean you should just leave it alone. I think there are necessary perspectives for social life, such as asking, \"What will you do if it causes trouble for others?\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:04:32",
+      "origin": "わかりました。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:04:46",
+      "origin": "自分や誰かを傷つけることにならないか、という視点でも、お子さん自身で考えていくことによって、お子さんの感覚も変わってくるかもしれません。",
+      "content": "By having your child think for themselves from the perspective of whether their actions might hurt themselves or someone else, their own feelings might start to change."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:05:23",
+      "origin": "そうかもしれませんね。",
+      "content": "That might be true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:05:31",
+      "origin": "一気に答えを出すということではなく、考え始めること、考えを深めることを相談者さんがサポートされてみてはどうかと感じましたが、いかがでしょうか？",
+      "content": "Rather than trying to arrive at an answer all at once, perhaps you could support them in beginning to think and in deepening their thoughts. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:06:43",
+      "origin": "子どもがどう捉えるかやってみないとわからないので、とりあえずやってみます。",
+      "content": "I won't know how my child will take it until I try, so I'll give it a try for now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:07:58",
+      "origin": "はい、そうですね。一度やってみられて、またいつでも相談に来て下さい。子どもの成長は速く感じられることも、遅く感じられることもありますし、",
+      "content": "Yes, that's right. Try it once, and feel free to come back anytime. A child's growth can sometimes feel fast and sometimes slow, and..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:10:10",
+      "origin": "それでも相談者さんの親御さんとしての思いは伝わり続けていると思いますので、相談者さんもお子さんも気持ちよくその考えを深めていけることを大切に、少しずつでも楽しみながら深めていけるといいですね。",
+      "content": "Still, I believe your feelings as a parent are getting through to them. It would be great if you could both cherish the process of deepening these thoughts comfortably, and hopefully enjoy it, even little by little."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:10:36",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:10:51",
+      "origin": "お時間を過ぎてしまい、申し訳ありませんでした。こちらこそ、ありがとうございました。",
+      "content": "I apologize for going over our time. Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:11:40",
+      "origin": "それでは、今日の相談を終了させて頂こうと思います。こちらで記録をしておきますので、続きからいつでも話して頂けます。抱え込まずにいつでもいらして下さいね。",
+      "content": "With that, I'd like to conclude today's session. I'll keep a record here so you can pick up from where we left off anytime. Please don't carry this alone—you're welcome to come back anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:11:51",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:12:10",
+      "origin": "ありがとうございます。それでは、これで相談を終了させて頂きます。",
+      "content": "Thank you. With that, I'll conclude the consultation."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:12:32",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:12:57",
+      "origin": "（ありがとうございました。大変勉強になりました。率直な評価を頂けると幸いです。）",
+      "content": "(Thank you. This was a great learning experience. I would appreciate your honest feedback.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:13:34",
+      "origin": "（こちらこそありがとうございました。かしこまりました。）",
+      "content": "(Thank you as well. Certainly.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:14:02",
+      "origin": "（お手数をおかけしますが、よろしくお願い致します。それでは、ロールプレイを終了させて頂いても、大丈夫でしょうか？）",
+      "content": "(Sorry to trouble you, but thank you. Is it all right if we conclude the role-play now?)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T16:14:14",
+      "origin": "（大丈夫です）",
+      "content": "(That's fine.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T16:14:36",
+      "origin": "（了解致しました。また機会がありましたら、よろしくお願い致します。）",
+      "content": "(Understood. If there's another opportunity, I look forward to working with you again.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子どもとのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 4976,
+    "evaluation_created_at": "2023-05-02T16:32:00",
+    "client_id": 385,
+    "counselor_id": 363,
+    "score": 39,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

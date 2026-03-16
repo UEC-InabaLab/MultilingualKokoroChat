@@ -1,0 +1,501 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-24T09:51:03",
+      "origin": "おはようございます。本日はよろしくお願いいたします。時間になったら始めていきます。",
+      "content": "Good morning. I'm looking forward to our session today. We'll start at the scheduled time."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T09:53:41",
+      "origin": "（おはようございます。こちらこそよろしくお願いします。相談内容のリクエストはありますか？）",
+      "content": "(Good morning. Thank you as well. Do you have any requests for the consultation topic?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T09:57:10",
+      "origin": "（フリーでお願いします）",
+      "content": "(Let's do free-form, please.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T09:57:26",
+      "origin": "（承知しました）",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:00:10",
+      "origin": "こんにちは、相談員です。今日は相談にお越しいただきありがとうございます。ここでは安心して何でもお話ください。",
+      "content": "Hello, I'm the counselor. Thank you for coming in today. Please know that this is a safe space where you can talk about anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:00:29",
+      "origin": "始めに年齢、性別、相談内容を教えてください。",
+      "content": "To start, could you tell me your age, gender, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:00:35",
+      "origin": "35歳女子どもの不登校に悩んでいます。",
+      "content": "I’m a 35-year-old woman, and I’m struggling with my child’s school refusal."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:01:24",
+      "origin": "教えていただきありがとうございます。お困りのことと思います。不登校とのことですが、もう少し詳しく教えていただけますか？",
+      "content": "Thank you for sharing that. I can imagine how difficult that must be. You mentioned school refusal—could you tell me a bit more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:02:11",
+      "origin": "現在子どもは小学5年生。一学期の途中から学校に行けなくなりました",
+      "content": "My child is currently in the 5th grade. They stopped going to school midway through the first semester."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:03:00",
+      "origin": "それは心配になってしまいますね。何かきっかけ等わかっているのですか？",
+      "content": "That is understandably concerning. Do you know of any trigger or cause?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:04:09",
+      "origin": "突然休むようになり、何を聞いても「別になにもない」と言います。とにかく、行きたくないと",
+      "content": "They suddenly started missing school, and whenever I ask, they say, \"It's nothing.\" They just say they don't want to go."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:05:28",
+      "origin": "そうなのですね。とにかく行きたくないと言っているのですね。理由もわからずどうしたらいいのかわからなくなってしまうにではないかと思いますがいかがですか？",
+      "content": "I see. So they’re saying they simply don’t want to go. Without knowing the reason, I imagine you may feel at a loss about what to do. Does that resonate?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:06:07",
+      "origin": "そうですね。そんな感じです。",
+      "content": "Yes, that’s how it feels."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:06:31",
+      "origin": "今はお子さんとどのように関わっているのですか？",
+      "content": "How are you interacting with your child at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:07:09",
+      "origin": "今は夏休みなので、普通に接しています。",
+      "content": "It’s summer vacation now, so we’re interacting as usual."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:08:38",
+      "origin": "そうなのですね。ご家庭ではお子さんはどのような状況ですか？部屋にこもっているとか、会話が減った等気になる事はありますか？",
+      "content": "I see. What is your child's situation like at home? Have you noticed anything concerning, like them shutting themselves in their room or talking less?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:09:30",
+      "origin": "部屋にこもることはあまりありません。リビングでゲームをしたり、絵を描いたりして過ごしています",
+      "content": "They don't really shut themselves in their room. They spend their time in the living room, playing games or drawing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:10:15",
+      "origin": "教えていただきありがとうございます。そうなのですね、そのように過ごしているお子さんを見ていてどのように感じますか？",
+      "content": "Thank you for sharing that. I see. Seeing your child spending their time that way, how does that feel for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:11:02",
+      "origin": "このまま学校に行けなかったらどうしようと不安になります。",
+      "content": "I feel anxious, wondering what we’ll do if they can’t go back to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:12:25",
+      "origin": "そうなんですね、このまま学校に行けなかったらと思うと不安になるのも自然な事だと思います。先の事を考えると不安、心配になってしまうのではないかと思います。",
+      "content": "I understand. It’s natural to feel anxious when you imagine they might not be able to return to school. Thinking about the future can understandably bring anxiety and worry."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:12:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:12:59",
+      "origin": "ちなみに相談者さんはお仕事はされているのでしょうか？",
+      "content": "By the way, are you currently working?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:13:16",
+      "origin": "昼間パートに出ています",
+      "content": "I work part-time during the day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:14:09",
+      "origin": "そうなのですね。そうしたらパートに行って、帰って来たらお子さんと一緒に過ごすという感じでしょうか？",
+      "content": "I see. So you go to your part-time job and then spend time with your child when you get home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:14:25",
+      "origin": "平日はそうですね",
+      "content": "Yes, on weekdays."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:15:30",
+      "origin": "そうなのですね。家族構成も教えていただけますか？",
+      "content": "I see. Could you also tell me about your family composition?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:15:49",
+      "origin": "夫と私と子どもです",
+      "content": "It’s my husband, our child, and me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:16:47",
+      "origin": "教えていただきありがとうございます。相談者さん、夫さん、お子さんの3人暮らしですね。夫さんとはお子さんのことでお話はされていますか？",
+      "content": "Thank you. So it's the three of you living together: you, your husband, and your child. Do you talk with your husband about your child's situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:17:28",
+      "origin": "あまり夫は関心がないのか、話をしても取り合ってくれません",
+      "content": "My husband doesn’t seem very interested; even when I bring it up, he doesn’t really engage."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:19:00",
+      "origin": "関心がないように感じていて、取り合ってくれない、、そのような状況をどうお感じでしょうか？",
+      "content": "You feel he’s not interested and doesn’t engage—how is that for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:19:52",
+      "origin": "夫も仕事が忙しいので、子どものことや家のことは全て私任せです",
+      "content": "He’s busy with work, so everything about our child and the household is left to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:21:32",
+      "origin": "そうなのですね。仕事が忙しいとは言ってもお二人のお子さんなので一緒に考え、話し合いが出来たらいいと私は思ったのですが、いかがですか？",
+      "content": "I see. Even though he's busy with work, since it's your child together, I feel it would be good if you could think and talk about it together. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:22:07",
+      "origin": "それが理想だと思います",
+      "content": "I think that would be ideal."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:22:35",
+      "origin": "理想だと思うけど、現実はそうはいかないという感じでしょうか？",
+      "content": "So you feel it's ideal, but in reality, it isn’t happening. Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:22:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:23:35",
+      "origin": "今までお一人で抱えてこられたのですね、しんどかったですよね。ちなみに学校の対応はいかがでしょうか？",
+      "content": "It sounds like you've been shouldering this all by yourself. That must have been very difficult. By the way, how has the school been handling the situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:24:38",
+      "origin": "担任の先生は心配して、お電話や家庭訪問など、数回してくれました。",
+      "content": "The homeroom teacher has been concerned and has called and made home visits a few times."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:25:51",
+      "origin": "電話や家庭訪問など数回あったのですね。学校の対応に関してはどうお感じでしょうか？",
+      "content": "So there have been a few calls and home visits. How do you feel about the school’s response?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:26:34",
+      "origin": "担任の先生もお忙しいのに、迷惑をかけて申し訳ない気持ちです。",
+      "content": "I feel bad for troubling the teacher, especially since they're so busy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:27:58",
+      "origin": "そのようにお感じなのですね。申し訳なく感じるとお辛くなってしまうのではないかと思います。先生はお忙しいかもしれませんが、",
+      "content": "I see that's how you feel. Feeling apologetic can be a heavy burden. The teacher may be busy, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:28:53",
+      "origin": "担任なので、クラスの子のケアをするのは当然のことかなとも思いますがいかがでしょうか？",
+      "content": "...as the homeroom teacher, I think it's natural for them to care for the children in their class. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:30:28",
+      "origin": "そうですが、申し訳なく思います。とてもいい先生なので",
+      "content": "That’s true, but I still feel sorry. They’re a very good teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:31:32",
+      "origin": "そうなのですね。ご自身が悩まれている中で担任の先生にも配慮されていて、相談者さんはとてもお優しい方なのだと思います。",
+      "content": "I understand. Even while you’re struggling, you’re being considerate of the homeroom teacher. I think you are a very kind person."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:33:02",
+      "origin": "今日はお子さんの不登校で悩んでいるというご相談でお越しいただきました。このまま学校に行けなかったらと思うと不安になること、夫さんは取り合ってくれず1人で抱えて来た事等お話いただきましたが、",
+      "content": "You came in today because you're worried about your child's school refusal. You've talked about feeling anxious about what will happen if they can't go back to school, and how you've been handling this alone because your husband doesn't engage..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:33:29",
+      "origin": "今日はここでどんなことがお話出来たらいいなと思いますか？",
+      "content": "...with that in mind, what would you like to be able to talk about here today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:35:02",
+      "origin": "子どもがこのまま学校へ行けなかったらどうしよう…私は子どもに何をしてあげたらいいのか、それが分かれば教えてほしいです。",
+      "content": "What should I do if my child can't go back to school...? I want to know what I can do for my child. If you have an answer, I'd like to hear it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:36:19",
+      "origin": "お子さんの将来の不安、相談者さんはお子さんに何をしてあげたらいいのかということがお話出来たら良さそうなのですね。",
+      "content": "So it sounds like it would be helpful to talk about your anxieties for your child's future, and what you can do for your child."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:36:34",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:37:22",
+      "origin": "相談者さんはお子さんどんなことが出来たらいいと思いますか？",
+      "content": "What do you think you could do for your child?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:38:06",
+      "origin": "質問の意味がよくわかりません",
+      "content": "I’m not quite sure what you mean by that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:39:41",
+      "origin": "わかりにくい質問で失礼しました。子どもに何をしてあげたらいいのかとおっしゃっていましたが、何か具体的に考えている事はありますか？",
+      "content": "I apologize for the confusing question. You mentioned you want to know what you can do for your child; have you thought about anything specific?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:40:03",
+      "origin": "それがわからなくて悩んでここに来ました",
+      "content": "That's what I'm struggling with, which is why I came here."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:41:00",
+      "origin": "そうですよね。ありがとうございます。それでは、お子さんにはどのようになって欲しいと思いますか？",
+      "content": "Of course. Thank you. Well then, what do you hope for your child?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:41:34",
+      "origin": "学校に普通に行けたらいいなと思います",
+      "content": "I hope they can just go to school normally."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:42:31",
+      "origin": "私はどうしたらいいでしょうか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:43:33",
+      "origin": "学校に普通に行けたらと思っていらっしゃるのですね。そうですよね、どうしたらいいかわからなくなってしまうのも自然な事だと思います。一緒に、",
+      "content": "So you're hoping they can go to school normally. I understand. It's natural to feel lost about what to do. Together..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:43:58",
+      "origin": "どうすることができるのか考えていけたらと思いますがいかがでしょうか？",
+      "content": "...perhaps we can think through what might be possible. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:44:14",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:45:52",
+      "origin": "学校に行って欲しいという相談者さんのお気持ちもとてもよくわかりました。でも、お子さんの学校に行きたくないというお気持ちも無視してはいけないかなとも私は思うのですがいかがでしょうか？",
+      "content": "I completely understand your wish for your child to go to school. At the same time, I also feel we shouldn’t ignore your child’s feelings of not wanting to go. How does that sit with you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:47:08",
+      "origin": "もちろんその通りだと思います。子どもには学校へ無理やり行かそうとは思ってはいません",
+      "content": "I absolutely agree. I don’t intend to force my child to go to school."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:47:20",
+      "origin": "でも、不安なんです",
+      "content": "But I’m anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:48:14",
+      "origin": "そうですよね、不安になりますよね。学校に行けないどんなことが不安になりますか？",
+      "content": "I understand, it's natural to be anxious. What specific things about them not being able to go to school make you anxious?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:48:43",
+      "origin": "進路のこととか友人関係とか",
+      "content": "Things like their future educational path and friendships."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:50:25",
+      "origin": "進路のことや友人関係の事を考えると不安になるのですね。選択肢が狭くなるとかどのような事が不安になりますか？",
+      "content": "So you feel anxious when you think about their future path and friendships. What kind of things make you anxious? For example, their options becoming limited?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:51:21",
+      "origin": "選択肢が狭くなるというのは？",
+      "content": "What do you mean by their options becoming limited?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:53:07",
+      "origin": "進路のこととおっしゃていたので、高校の事等考えているのかなと思い聞かせていただきました。進路や友人関係の不安とはどのようなものでしょうか？",
+      "content": "You mentioned their future path, so I thought you might be thinking about high school and things like that. Could you tell me more about your anxieties regarding their future path and friendships?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T10:54:26",
+      "origin": "中学校へ行けるのかなとか、友人と疎遠になってしまうのでは？とかです",
+      "content": "Like, I wonder if they'll be able to go to middle school, or if they'll grow distant from their friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:55:35",
+      "origin": "教えていただきありがとうございます。そのような事を考えると不安になるのですね。お子さんをとても大切に思っていることが伝わって来ます。",
+      "content": "Thank you for sharing. I can see why thinking about those things would make you anxious. It's clear that you care very deeply for your child."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:56:49",
+      "origin": "お子さんの進路や友人関係を考えると普通に学校に行って欲しい、でも無理に行かせようとも思っていない。",
+      "content": "Considering your child’s future path and friendships, you want them to go to school normally, yet you don’t want to force them to go."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T10:57:45",
+      "origin": "お子さんに幸せになって欲しい、大変な思いはさせたくないという親として気持ちなのかなと感じたのですがいかがでしょうか？",
+      "content": "I sense that as a parent, you want your child to be happy and you don't want them to suffer. Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T11:00:20",
+      "origin": "親として子どもの幸せや成長を願うのは、当たり前だと思っています。",
+      "content": "As a parent, I think it’s only natural to wish for my child’s happiness and growth."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T11:03:07",
+      "origin": "子どもの幸せや成長を願うのは当たり前だと思っていらっっしゃるのですね。でも今の状況だとそうならないかも思い不安に感じていらっしゃる。今日はもうお時間となってしまうので、また次回今日の続きからお話出来たらと思うのですがいかがでしょうか？",
+      "content": "So you believe it's natural to wish for your child's happiness and growth. But you're feeling anxious because you're worried that might not happen in the current situation. We're about out of time for today, so I was thinking we could continue our conversation from here next time. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T11:03:32",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T11:04:36",
+      "origin": "お子さんのことももちろんですが、相談者さんの不安が少しでも軽くなるように次回またお話が出来たらと思います。今日はご相談にお越しいただきありがとうございました。",
+      "content": "Of course, we'll talk about your child, but I also hope we can talk more next time to help ease your anxiety, even just a little. Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T11:04:56",
+      "origin": "終了メッセージを送らせていただいてもよろしいでしょうか？",
+      "content": "Would it be all right if I send the closing message?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-24T11:06:07",
+      "origin": "はい。大丈夫です",
+      "content": "Yes, that’s fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-24T11:06:31",
+      "origin": "またのご相談お待ちしております。",
+      "content": "We look forward to your next consultation."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "子どもの不登校問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5518,
+    "evaluation_created_at": "2023-07-24T11:33:00",
+    "client_id": 376,
+    "counselor_id": 385,
+    "score": 40,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

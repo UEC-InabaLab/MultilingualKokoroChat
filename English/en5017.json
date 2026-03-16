@@ -1,0 +1,453 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:24:09",
+      "origin": "（こんばんは。本日はよろしくお願いいたします。お時間になりましたら、始めさせていただきます）",
+      "content": "(Good evening. Thank you for being here today. We will begin when it is time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:24:49",
+      "origin": "（よろしくお願いします）",
+      "content": "(Thank you. I look forward to working with you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:30:21",
+      "origin": "相談にお越しいただき、ありがとうございます。まず初めに、ご年齢と性別そして、今回ご相談したい内容について教えていただけますか。",
+      "content": "Thank you for coming in for your consultation. First, could you please tell me your age, your gender, and what you would like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:32:35",
+      "origin": "はい。年齢は50、男性です。離れて暮らす父親が余命わずかな状況です。自分に何が出来るのか？少し考えることが増えました。",
+      "content": "Yes. I'm 50 years old, and I'm a man. My father, who lives far away, has very little time left. I've found myself thinking more and more about what I can do for him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:34:07",
+      "origin": "お父様が余命わずか・・ご病気など何かあったのでしょうか。",
+      "content": "Your father may not have much time left… Has there been an illness or something like that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:37:44",
+      "origin": "寝たきりの状態が2年近く続いてます。特定の箇所に病気があるわけではないですが、高齢による衰えです。",
+      "content": "He's been bedridden for almost two years. It's not that he has a specific illness, but more a general decline due to old age."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:38:42",
+      "origin": "そうなのですね・・「余命わずか」というのははっきりとお医者様から言われているような状況なのでしょうか。",
+      "content": "I see... When you say he has 'very little time left,' is that something the doctors have explicitly told you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:41:14",
+      "origin": "断言されたわけではないですが、呼吸器系統が弱いため、例えばコロナはもちろん風邪などこじらせると、体力的にも持たないとも言われてます。",
+      "content": "It hasn't been stated in those exact words, but his respiratory system is weak, and we've been told that if he were to get a bad cold, let alone COVID, he wouldn't have the physical strength to pull through."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:43:19",
+      "origin": "なるほど・・それは気がかりなことですね。「寝たきり」というのは、「ご自宅にいらっしゃって」という形なのでしょうか。それとも、「どこか施設などに入って」いらして、という形なのでしょうか。",
+      "content": "I understand... that must be very worrying. When you say he's 'bedridden,' is he at home, or is he in a facility of some kind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:43:56",
+      "origin": "病院に入院しています",
+      "content": "He's hospitalized."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:44:59",
+      "origin": "入院されているのですね。すると、あなた様のお住まいからは離れた場所の病院にいるということになりますかね。",
+      "content": "He's in the hospital, I see. So that would mean he's in a hospital far from where you live, correct?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:46:35",
+      "origin": "はい。私は現在東京にいますが、父親は九州なので離れています。",
+      "content": "Yes. I currently live in Tokyo, but my father is in Kyushu, so we're far apart."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:47:17",
+      "origin": "なるほど。すると、ご実家が九州にあるということですかね。",
+      "content": "I see. So your family home is in Kyushu, then."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:48:01",
+      "origin": "はい。そうです。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:48:19",
+      "origin": "ありがとうございます。お父様は「寝たきり」というお話でしたが「意思疎通」などはできる状態なのでしょうか。",
+      "content": "Thank you. You mentioned your father is bedridden; is he able to communicate at all?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:50:51",
+      "origin": "父親本人は、こちらからの会話の問いかけなどは理解、認識は出来ると思うのですが、自分から声を出して意思表示するなどのコミュニケーションは取れなくなりました、、",
+      "content": "I believe he can understand and recognize when we speak to him, but he can no longer speak to express himself or otherwise communicate on his own…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:51:47",
+      "origin": "うなづくのも難しい感じというところでしょうか。",
+      "content": "So it would be difficult for him to even nod?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:53:45",
+      "origin": "うなづく程度であれば、多少できるかもしれませんが。基本、家族であっても面会ができない状況なんです。",
+      "content": "He might be able to nod slightly. But basically, even as family, we're not allowed to visit him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:54:19",
+      "origin": "コロナのせい、ということもあってのことでしょうか。",
+      "content": "Is that partly due to COVID-19?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:55:35",
+      "origin": "そうです。特に呼吸器系でリスクあるため、病院側も慎重です。",
+      "content": "Yes. Because he's at high risk with his respiratory issues, the hospital is being very cautious."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:56:36",
+      "origin": "なるほど・・そうなのですね。ちょっとここまでのことをまとめてもよいですか？",
+      "content": "I see... I understand. Would it be all right if I summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T18:56:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:56:55",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:59:13",
+      "origin": "お父様は①　九州にて寝たきり入院。　　呼吸器系等が弱く　　風邪等こじらせると体力的に　　持たない、と言われている。",
+      "content": "1. Your father is hospitalized and bedridden in Kyushu. His respiratory system is weak, and you've been told he wouldn't have the physical strength to survive a bad cold."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:59:22",
+      "origin": "②　話を聞いて理解しているのだ　　ろうが、自ら意思疎通をする　　ことは困難な様子。",
+      "content": "2. While he likely understands what is said to him, it seems difficult for him to communicate on his own."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:59:32",
+      "origin": "③　あなた様は　　都内に住み、何かあっても　　すぐに駆け付けられるような　　近い距離にはいない。",
+      "content": "3. You live in Tokyo, so you are not close enough to rush to his side if something were to happen."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:59:36",
+      "origin": "④　その状況の中で　　「自分には何ができるだろうか」　　と考えるようになっていった。",
+      "content": "4. In this situation, you have started to wonder, 'What can I do for him?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T18:59:48",
+      "origin": "概ねこういうような内容でよろしいでしょうか。",
+      "content": "Is that a fair summary?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:00:01",
+      "origin": "そうですね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:00:18",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:00:38",
+      "origin": "ひとつ補足しますが、",
+      "content": "If I could add one thing,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:01:13",
+      "origin": "はい。",
+      "content": "Certainly."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:03:01",
+      "origin": "ここ数年、父親は入退院を繰り返し、もういよいよか、、と母親含めて家族も全員諦めた時期もあります。",
+      "content": "In the past few years, my father has been in and out of the hospital, and there were times when my mother and the rest of us thought, “This might be it,” and had almost given up."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:03:34",
+      "origin": "いまは、小康状態ですが、",
+      "content": "Right now, his condition is stable, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:04:47",
+      "origin": "私含めて、変な話、慣れてきたというか、、そんな心情なんです",
+      "content": "It's strange to say, but we've kind of gotten used to it—myself included. That's how I feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:05:36",
+      "origin": "なるほど、今回が初めての状況ではないということなのですね。すると「またか」みたいな感じもいくばくかあるということですかね。",
+      "content": "I see—so this isn’t the first time you’ve been in this situation. In that case, there may be a bit of a “here we go again” feeling as well?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:05:51",
+      "origin": "そうなんです",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:06:33",
+      "origin": "ところでお父様とは、元々、どういうご関係だったのでしょうか。仲が良いとかそういう意味合いなのですが。",
+      "content": "By the way, what kind of relationship did you originally have with your father? I mean, in terms of whether you were close."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:09:21",
+      "origin": "昔からあまり会話は少なかったですね。会話は全く噛み合わない…というより昭和の頑固親父＆ヤクザのような怖い雰囲気あったので、避けることが多かったです。決して父親が嫌いというのではないですが。",
+      "content": "We never really talked much, even from a long time ago. It wasn't that we couldn't communicate... more that he had this intimidating air, like a stubborn, old-fashioned father from the Showa era or a yakuza, so I often avoided him. It's not that I disliked him, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:10:24",
+      "origin": "そういう感じなのですね。ありがとうございます。ところで、ちょっと長くなる質問なのですが・・",
+      "content": "I understand—that’s how it felt. Thank you. If I may, I have a slightly longer question…"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:10:40",
+      "origin": "どうぞ",
+      "content": "Please go ahead."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:11:15",
+      "origin": "「自分に何ができるのか」とは「生きている間に、父に対して何が　できるのか」などと考える場合と",
+      "content": "When you think, 'What can I do for him?' it could mean thinking, 'What can I do for my father while he's still alive?' or..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:11:30",
+      "origin": "「万が一があったあとに、　手続き関係などについて　何をすることができるだろうか」と考える場合など色々ありますが",
+      "content": "...it could mean thinking, 'What can I do after the worst happens, regarding administrative procedures and such.' There are various possibilities."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:11:48",
+      "origin": "あなた様にとっては　どのようなイメージがあるのでしょうか？　それとも　そのどちらもなのでしょうか。　または、　「それ以外」なのでしょうか。",
+      "content": "What does that mean for you? Is it both of those things? Or is it something else entirely?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:12:13",
+      "origin": "前者の方です",
+      "content": "The former."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:13:22",
+      "origin": "ありがとうございます。「今、何ができるか」ということですね。",
+      "content": "Thank you. So, it's about 'What can I do now?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:13:38",
+      "origin": "何か具体的にすることに対するその・・イメージのようなものはあるのですか。漠然としたものでもよいのですが。",
+      "content": "Do you have any... image of something specific you could do? It can be just a vague idea."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:18:09",
+      "origin": "父親が全盛期の頃の写真などを整理したアルバムでも作ってみせてあげたいなぁと。残りの時間、やはり父親自身も余命近いことの自覚あるだろうし、父親自身の人生を振り返り、良かったなぁと思ってもらえるような思い出を形にしてやりたいなと。漠然とそんなこと考えてました。",
+      "content": "I was thinking I'd like to make an album for him with photos from when he was in his prime. In the time he has left, I'm sure he's aware that the end is near, and I want to give him a tangible form of his memories, something that would let him look back on his life and feel that it was good. That's what I was vaguely thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:19:20",
+      "origin": "素晴らしいお考えだなと思いました。うかがって、心がじーんとして、暖かくなった感じがあります。",
+      "content": "I think that's a wonderful idea. Hearing that truly touches my heart and gives me a warm feeling."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:20:23",
+      "origin": "直接渡せないので…看護師さん経由ですが。",
+      "content": "I can’t give it to him directly… it would have to be through the nurses."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:21:04",
+      "origin": "それでも想いは伝わるかなという気はします。",
+      "content": "Even so, I believe your feelings will come through."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:22:05",
+      "origin": "そうですよね",
+      "content": "I suppose so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:22:35",
+      "origin": "はい。そう思います。",
+      "content": "Yes, I believe so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:22:47",
+      "origin": "ちなみにそれは「おひとりで整理する」形なのですかね。",
+      "content": "By the way, is that something you would be organizing on your own?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:22:50",
+      "origin": "それともご家族、例えば、お母様と一緒にされるとか、そういう感じなのでしょうか。",
+      "content": "or would you do it with family—for example, together with your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:24:34",
+      "origin": "写真は実家にあるので、母にも準備してもらうことはあるでしょうね。",
+      "content": "The photos are at my parents' house, so I'll probably have my mother help prepare them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:25:24",
+      "origin": "すると、お母様と一緒にお話合いになりながら・・・みたいな形になるのでしょうかね。",
+      "content": "So, it would be something you do while discussing it with your mother, then?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:27:02",
+      "origin": "話し合うというより、自分がやりたい父親への最後のプレゼントの準備を少し手伝ってもらう感じかな",
+      "content": "It's less about discussing it and more like having her help a little with preparing this final gift I want to give my father."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:27:54",
+      "origin": "なるほど、そういう形なのですね。完成したら、とても想いの詰まったアルバムになりそうですね。",
+      "content": "I see—that makes sense. Once it’s finished, it sounds like it will be a very heartfelt album."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:28:31",
+      "origin": "そうなるといいですね。",
+      "content": "I hope so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:29:17",
+      "origin": "そう願っております。",
+      "content": "I hope so too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:29:23",
+      "origin": "どうでしょうか。終わりのお時間が迫ってまいりましたが、お話したいことは出来ましたでしょうか。",
+      "content": "How are you feeling? Our time is coming to an end. Were you able to talk about everything you wanted to?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:29:46",
+      "origin": "人生、最後に残るのは思い出ですからね。そう信じてます。",
+      "content": "In the end, all you have left in life are memories. That's what I believe."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:30:07",
+      "origin": "いえ、大丈夫です。",
+      "content": "No, I'm fine."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:30:47",
+      "origin": "色々と聞いてくれてありがとうございました。",
+      "content": "Thank you for listening to me about all of this."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:31:38",
+      "origin": "ありがとうございます。「こういう形でも　愛（と言うと　　　変かもしれませんが）　伝えることが出来るのだな」と感じました。こちらこそありがとうございました。",
+      "content": "Thank you. I felt that even in this form, love—if I may use that word—can be conveyed. Thank you as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-10T19:33:18",
+      "origin": "終了いただいて構いません。",
+      "content": "You can end the session now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:33:22",
+      "origin": "それでは終了のメッセージを流しますね。",
+      "content": "Then I’ll send the closing message."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-10T19:33:35",
+      "origin": "（ありがとうございました。　とても勉強になりました）",
+      "content": "(Thank you very much. This was a very insightful session for me.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "父親とのコミュニケーション問題とその思い出の整理"
+  },
+  "review_by_client": {
+    "evaluation_id": 5017,
+    "evaluation_created_at": "2023-05-10T19:48:00",
+    "client_id": 368,
+    "counselor_id": 382,
+    "score": 77,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

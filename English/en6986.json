@@ -1,0 +1,543 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-07T20:50:58",
+      "origin": "(今晩は。宜しくお願い致します。)",
+      "content": "(Good evening. I look forward to speaking with you.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T20:51:59",
+      "origin": "（こんばんは。こちらこそ宜しくお願いいたします）",
+      "content": "(Good evening. I look forward to speaking with you too.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T20:59:48",
+      "origin": "こんばんは。相談員です。来ていただき、ありがとうございます。最初に、年齢・性別・ご相談内容を教えていただけますか?",
+      "content": "Good evening. I'm a counselor. Thank you for coming. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:00:25",
+      "origin": "16さい男　外に出られなくなりました",
+      "content": "I'm a 16-year-old boy. I've become unable to go outside."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:01:15",
+      "origin": "教えていただきありがとうございます。そうでしたか。お困りですよね。もう少し、詳しく教えていただけますか?",
+      "content": "Thank you for sharing that. I see. That must be troubling. Could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:01:38",
+      "origin": "何を話したらいいですか",
+      "content": "What should I talk about?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:02:20",
+      "origin": "すみません、分かりずらいですよね。外に出られなくなった、とのことですが、いつ頃からでしょう?",
+      "content": "I'm sorry, that was a bit unclear, wasn't it? You mentioned you've become unable to go outside; when did that start?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:02:49",
+      "origin": "高校入ってしばらくしてからです",
+      "content": "It was a little while after I started high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:03:33",
+      "origin": "そうなのですね。ちなみに、今は二年生ですか?",
+      "content": "I see. By the way, are you in your second year now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:03:50",
+      "origin": "1ねんです",
+      "content": "I'm in my first year."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:04:52",
+      "origin": "失礼しました。外に出られなくなったきっかけ等あったのでしょうか?",
+      "content": "My apologies. Was there any particular event that triggered this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:05:34",
+      "origin": "人と関わるのがこわくなりました",
+      "content": "I became afraid of interacting with people."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:06:16",
+      "origin": "そうだったのですね…。ここでは何でもお話して大丈夫ですよ。",
+      "content": "I see... You can talk about anything here. It's a safe space."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:06:30",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:06:50",
+      "origin": "こわくなるような、何かできごと等、おありでした?",
+      "content": "Was there any event or situation that made you feel afraid?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:07:43",
+      "origin": "クラスでずっと浮いてる感じがしていました",
+      "content": "I always felt out of place in my class."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:08:35",
+      "origin": "そうなのですね。ずっとお辛いお気持ちをもっていらしたのではと思います。",
+      "content": "I see. It sounds like you’ve been carrying those painful feelings for quite some time."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:09:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:09:23",
+      "origin": "浮いている、とは、何か落ち着かない感じでしょうか?どのようなお気持ちでしょう?",
+      "content": "When you say 'out of place,' do you mean a sense of not being at ease? What does that feel like for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:09:41",
+      "origin": "仲間はずれみたいな感じです",
+      "content": "It feels like I'm being left out."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:10:48",
+      "origin": "そうでしたか…。クラスメートに話しかけにくい感じでしょうか?",
+      "content": "I see... Does it feel difficult to talk to your classmates?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:11:39",
+      "origin": "話しかけても無視されます",
+      "content": "Even when I try to talk to them, I get ignored."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:12:52",
+      "origin": "そうなのですね。それはひどいですよね。無視される…、何かそのようにされる出来事とか、ありました?",
+      "content": "I see. That’s really hurtful. Being ignored—was there any incident that led to them treating you that way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:13:09",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:13:45",
+      "origin": "そうなのですね。外に出るのがこわい、とは、ずっとお部屋にいらっしゃるのでしようか?",
+      "content": "I see. When you say you're afraid to go out, does that mean you’ve been staying in your room all the time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:14:21",
+      "origin": "はいそうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:17:28",
+      "origin": "こたえたくなければ、こたえなくても大丈夫ですよ。お部屋では、いくらか気持ちが安らぐ感じでしょうか?",
+      "content": "If you’d rather not answer, that’s perfectly fine. Do you feel a little more at ease when you’re in your room?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:18:23",
+      "origin": "安らぐことはないですけど、怖さはマシです",
+      "content": "I don't feel at ease, but the fear is less intense."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:19:29",
+      "origin": "そうでしたか…。今でも怖くなることはおありですか?",
+      "content": "I see... Do you still feel afraid now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:19:51",
+      "origin": "ずっと怖いです",
+      "content": "I'm always afraid."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:21:11",
+      "origin": "そうなのですね。気持ちが落ち着かないですよね。怖いお気持ちが、体調に出ることはおありですか?",
+      "content": "I see. It must be hard to feel calm. Does this feeling of fear affect you physically?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:21:31",
+      "origin": "ずっとドキドキしています",
+      "content": "My heart is racing all the time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:22:27",
+      "origin": "そうなのですね。いつも気を張っておられる感じでしょうか。",
+      "content": "I see. Does it feel like you’re always on edge?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:22:43",
+      "origin": "はいそんな感じです",
+      "content": "Yes, it feels like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:23:11",
+      "origin": "ドキドキしていない時って、何をしている時でしょう?",
+      "content": "When your heart isn’t pounding, what are you usually doing?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:24:01",
+      "origin": "寝てる時です",
+      "content": "When I'm sleeping."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:25:06",
+      "origin": "そうなのですね。寝ている時が一番幸せな感じでしょうか。ご家族様には何か話されました?",
+      "content": "I see. Is sleeping when you feel the most at peace? Have you spoken to your family about any of this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:25:55",
+      "origin": "何も考えなくて済むので。家族とは話していません",
+      "content": "Because I don't have to think about anything. I haven't talked to my family."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:27:29",
+      "origin": "そうでしたか。一日の中で、寝ている以外はずっとドキドキが止まらなくて…。苦しいですよね。学校を休まれてからどれくらいたつのでしょう?",
+      "content": "I see. So throughout the day, except for when you're sleeping, your heart is constantly pounding... That must be agonizing. How long has it been since you started staying home from school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:27:56",
+      "origin": "1ヶ月くらいです",
+      "content": "About a month."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:28:39",
+      "origin": "そうなのですね。そんなに長い間、辛い思いをされているのですね…。",
+      "content": "I see. You've been going through such a hard time for that long..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:28:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:30:03",
+      "origin": "せめて家にいる時は、落ち着いて過ごしたいですよね。",
+      "content": "At least when you're at home, you'd like to feel calm, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:30:35",
+      "origin": "相談者様は、これからどうなりたいと思います?",
+      "content": "What would you like things to be like going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:30:58",
+      "origin": "外に出られるようになりたいです",
+      "content": "I want to be able to go outside."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:32:43",
+      "origin": "そうなのですね。そうなったらいいですよね。学校についてはどうでしょう?",
+      "content": "I see. That would be good, wouldn't it? How do you feel about school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:33:08",
+      "origin": "学校も行けるようになればいいですけど怖いです",
+      "content": "It would be nice to be able to go to school too, but I'm scared."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:33:34",
+      "origin": "（すみません、原因はわかりませんが、送信が遅く時間がかかっています。）",
+      "content": "(I'm sorry, I'm not sure why, but my messages are taking a while to send.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:34:03",
+      "origin": "（承知しました）",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:34:16",
+      "origin": "そのように思われるのですね。でも怖いお気持ちもある…。",
+      "content": "So that's how you feel. But there's also that feeling of fear..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:34:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:35:02",
+      "origin": "怖い、とは、クラスメート全員に対してでしょうか?",
+      "content": "When you say you're scared, is that toward all of your classmates?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:35:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:36:07",
+      "origin": "そうでしたか。しばらく教室に入らず、保健室登校、という形はどうでしょう?",
+      "content": "I see. How would you feel about attending school by going to the nurse’s office for a while instead of entering the classroom?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:37:12",
+      "origin": "通学も怖いです",
+      "content": "Commuting to school is scary too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:37:52",
+      "origin": "そうなのですね。それほど強く、恐怖心をお持ちなのですね。",
+      "content": "I understand. It sounds like the fear feels very strong for you."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:38:40",
+      "origin": "はい、、、",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:39:46",
+      "origin": "もし可能であれば、担任の先生に相談して、パソコンを使ってリモートで授業を受ける、というのはどうでしょう?",
+      "content": "If it's possible, how about talking to your homeroom teacher about taking classes remotely using a computer?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:41:00",
+      "origin": "外に出られなかったらそうするしかないですかね",
+      "content": "If I can't go outside, I guess that's my only option, huh?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:41:41",
+      "origin": "どうでしょう?でも学校には行きたいのですね?",
+      "content": "What do you think? But you do want to go to school, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:41:58",
+      "origin": "出来ることなら",
+      "content": "If I could."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:42:51",
+      "origin": "今の高校ではなく、フリースクールのようなところも視野に考えていらっしゃいます?",
+      "content": "Have you also considered options like an alternative school, instead of your current high school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:43:30",
+      "origin": "それも通学が怖いです",
+      "content": "Commuting there is scary too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:44:41",
+      "origin": "そうなのですね。それももっともですよね。学校にいきたい、というのは勉強を学びたい、というお気持ちからでしょうか?",
+      "content": "I see. That's understandable. Is your desire to go to school because you want to study?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:45:21",
+      "origin": "本当は友達が欲しいです。でも怖いです。",
+      "content": "The truth is, I want to have friends. But I'm scared."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:47:21",
+      "origin": "そうなのですね。友達とたわいのない会話を楽しみたいですよね。",
+      "content": "I see. You'd like to enjoy casual conversations with friends, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:47:49",
+      "origin": "到底無理ですけど、、",
+      "content": "But that feels completely impossible..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:48:40",
+      "origin": "怖いお気持ちを抱えたままでは、なかなか前に進みずらいですよね…。",
+      "content": "It’s hard to move forward while carrying so much fear, isn't it..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:49:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:50:47",
+      "origin": "人に無視される、とは、気持ちが打ちひしがれてしまいますよね。それでも学校には通いたいというお気持ちを持っていらして、すごいことだと思います。",
+      "content": "Being ignored by people can really crush your spirits, can't it? Even so, the fact that you still have the desire to attend school is truly admirable."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:51:14",
+      "origin": "体調の方は大丈夫なのですか?",
+      "content": "How are you feeling physically? Are you doing okay?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:52:02",
+      "origin": "大丈夫なのかはわかりません",
+      "content": "I don't know if I'm okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:54:14",
+      "origin": "そうなのですね。食事や睡眠時間等、心配です。例えば何メートルかずつでも、毎日少しずつ通学の練習をする、というのはいかがでしょう?",
+      "content": "I see. I'm concerned about things like your meals and how much you're sleeping. For example, how about practicing your commute little by little every day, even just a few meters at a time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:56:02",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:56:50",
+      "origin": "少しずつでも前に進んで、相談者様が自信を持てたら、と思いました。",
+      "content": "I was thinking that even small steps forward might help you build confidence."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T21:58:41",
+      "origin": "でもまず家から出られるかどうか",
+      "content": "But first, I don't even know if I can leave the house."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T21:59:22",
+      "origin": "そうなのですね。庭に出て深呼吸するところから、でしょうか?",
+      "content": "I see. Perhaps starting with stepping into the yard and taking a deep breath?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T22:00:57",
+      "origin": "部屋から出るところからです",
+      "content": "It starts with leaving my room."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T22:02:15",
+      "origin": "そうでしたね。相談者様が一歩ずつでも部屋から出られたら、と思います。",
+      "content": "You're right. I hope you'll be able to leave your room, one step at a time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T22:03:02",
+      "origin": "お話の途中ですが、お時間になってしまいました。",
+      "content": "I'm sorry to interrupt, but our time is up."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-07T22:03:20",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T22:03:35",
+      "origin": "いつでもお話しにいらして下さい。お待ちしております。",
+      "content": "Please feel free to come and talk anytime. I’ll be here for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T22:03:45",
+      "origin": "これで終了とさせて頂いてもよろしいでしょうか。",
+      "content": "May we bring the session to a close now?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-07T22:04:16",
+      "origin": "（遅くなり、申し訳ありません。）",
+      "content": "(My apologies for the delay.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "対人恐怖症の影響"
+  },
+  "review_by_client": {
+    "evaluation_id": 6986,
+    "evaluation_created_at": "2024-06-07T22:32:00",
+    "client_id": 294,
+    "counselor_id": 261,
+    "score": 43,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

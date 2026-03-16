@@ -1,0 +1,639 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:25:23",
+      "origin": "こんにちは。今日はよろしくお願いいたします。ご都合の良いタイミングで始めさせていただきますので、お知らせください。",
+      "content": "Hello. I look forward to working with you today. We can begin whenever it’s convenient for you, so please let me know."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:27:10",
+      "origin": "こんにちは。よろしくお願いいたします。13時30分から始めていただければと思います。",
+      "content": "Hello. Thank you. I would appreciate it if we could start at 1:30 p.m."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:27:37",
+      "origin": "承知いたしました。",
+      "content": "Certainly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:31:09",
+      "origin": "こんにちは。相談員です。今日はよろしくお願いいたします。",
+      "content": "Hello. I'm your counselor. Thank you for coming today."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:31:15",
+      "origin": "よろしくお願いいたします。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:31:34",
+      "origin": "今日はどのようなご相談でいらっしゃいましたか？",
+      "content": "What brings you here today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:32:56",
+      "origin": "はい。コロナの影響で収入が減って、貯金をくずして生活しているのですが、このさきどうなるのか不安です",
+      "content": "Well, due to the pandemic, my income has decreased, and I'm living off my savings. I'm worried about what the future holds."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:33:18",
+      "origin": "そうなんですね。それはご心配ですね。",
+      "content": "I see. That must be very worrying for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:33:31",
+      "origin": "はい　不安です",
+      "content": "Yes, I’m anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:33:58",
+      "origin": "ちなみにお仕事はどんな職種でなんですか？",
+      "content": "If you don't mind me asking, what kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:34:41",
+      "origin": "事務職です",
+      "content": "I do administrative work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:35:20",
+      "origin": "そうなんですね。そのお仕事はどのくらいされているんですか？",
+      "content": "I see. And how long have you been doing that job?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:35:32",
+      "origin": "5年くらいになります",
+      "content": "For about five years."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:36:14",
+      "origin": "なるほど。それでは、コロナの影響が出るまでは、どんな感じでしたか？",
+      "content": "I understand. So, what were things like before the pandemic started to have an impact?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:38:17",
+      "origin": "契約社員ですが、一人暮らしできるくらいのお給料があったし、自分に合った仕事だと感じていたので長く働こうと思って仕事していました",
+      "content": "I'm a contract employee, but I was earning enough to live on my own, and I felt the job was a good fit for me, so I planned to work there for a long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:39:40",
+      "origin": "そうなんですね。ご自分に合ったお仕事なら続けていきたいですよね。でも、お給料が減ってしまっては不安が募りますよね。",
+      "content": "I see. When a job feels like a good fit, you naturally want to keep at it. I can imagine having your salary reduced must increase your anxiety."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:41:06",
+      "origin": "はい　毎月どんどん貯金が減っていきます。転職も考えたのですが、外出も不安だし、もうどうしたらいいかわかりません",
+      "content": "Yes. My savings are dwindling every month. I’ve thought about changing jobs, but I’m anxious about going out, and I just don’t know what to do anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:42:32",
+      "origin": "そうですよね。このコロナ禍では、思うように出歩くこともできないし、本当に不安なお気持ちになってしまいますよね。貯金をくずして生活されているとの事でしたが、この先の目処はどんな感じですか？",
+      "content": "I understand. During this pandemic, you can't go out as you'd like, and that can really make you feel anxious. You mentioned you're living off your savings—how long do you think they will last?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:44:05",
+      "origin": "今はすごく節約していて、今のままだと半年ちょっとで貯金が底をつきそうです",
+      "content": "I’m being extremely frugal right now, and at this rate, my savings will likely run out in a little over six months."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:45:08",
+      "origin": "そうでしたか。がんばって節約していらっしゃるんですね・・侘しいお気持ちになってしまいますよね。",
+      "content": "I see. You're working so hard to save money... That must feel quite bleak and lonely, mustn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:45:55",
+      "origin": "はい。まさかコロナがこんなに続くとは思っていませんでした。",
+      "content": "Yes. I never imagined the pandemic would last this long."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:46:44",
+      "origin": "そうですよね。本当に厳しい世の中になってしまっていますね。この状況をご家族やお友達にはお話になったことはありますか？",
+      "content": "I agree. The world has become a very difficult place. Have you spoken about this situation with your family or friends?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:47:48",
+      "origin": "実家の家族とはときどきlineをしていますが、今のところなんとかやってるよ、と伝えてます。心配させたくないので。友達には話してないです。",
+      "content": "I text my family back home sometimes, but for now, I just tell them I'm managing. I don't want to worry them. I haven't told my friends."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:49:06",
+      "origin": "コロナはもう終わらないんじゃないか、と思えてきて、無力感を感じます",
+      "content": "I'm starting to feel like the pandemic will never end, and I feel so helpless."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:50:08",
+      "origin": "そう思っていらっしゃるんですね。おつらいお気持ちお察しします・・・",
+      "content": "So that's how you're feeling. I can only imagine how difficult that must be..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:50:53",
+      "origin": "お実家のご家族に今の状況をお話ししたら、なんと思われると思いますか？",
+      "content": "What do you think your family would say if you told them about your current situation?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:51:45",
+      "origin": "心配して帰ってくるように言うのではないかと思います",
+      "content": "I think they would worry and tell me to come home."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:52:23",
+      "origin": "でも、田舎にはあまりいい思い出がないので帰りたくないんです",
+      "content": "But I don't have very good memories of my hometown, so I don't want to go back."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:53:44",
+      "origin": "新天地で一人暮らしするのが夢でした",
+      "content": "It was my dream to live on my own in a new place."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:54:01",
+      "origin": "そうなんですね。そういう思いがあるんですね。",
+      "content": "I see. So that's something you've really cared about."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:54:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:54:43",
+      "origin": "できるだけ、一人で頑張りたいと思っているんですね。",
+      "content": "You want to handle this on your own as much as possible, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:55:10",
+      "origin": "はい　そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:55:52",
+      "origin": "なるほど。でも、経済的にご無理が効かなくなるのは本当に心細いですね。",
+      "content": "I understand. But it must be very unsettling when you can no longer manage financially."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:56:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:56:33",
+      "origin": "どうなったらいいと思いますか？",
+      "content": "What would you like to see happen?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:57:42",
+      "origin": "どうしたらいいのかわからなくなってきて。先のことを考える気力がでなくなってきてるんです。",
+      "content": "I don't know what to do anymore. I'm losing the energy to even think about the future."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T13:58:48",
+      "origin": "うんうん、そうですよね。不安が募ると先のことを考えるのもしんどいですよね。",
+      "content": "Mm-hmm, that makes sense. When anxiety builds, even thinking about the future can feel exhausting."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:59:21",
+      "origin": "思考停止してる感じです　仕事がないときは部屋でぼーっとしていることがふえました",
+      "content": "I feel like my mind has shut down. When I don’t have work, I find myself zoning out in my room more often."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T13:59:53",
+      "origin": "出かけるのも心配だし、お金もかかるので。ほとんど家にいます",
+      "content": "I’m worried about going out, and it costs money, so I mostly stay home."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:00:00",
+      "origin": "そうでしたか。ご飯はちゃんと食べてますか？夜はちゃんと眠れていますか？",
+      "content": "I see. Are you eating properly? And are you able to sleep well at night?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:01:01",
+      "origin": "食事は普通にたべてます　夜は眠りが浅いみたいで夢をよく見ます",
+      "content": "I'm eating normally. But my sleep seems to be light at night, and I dream a lot."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:01:24",
+      "origin": "すっきり起きれる感じではないです",
+      "content": "I don’t wake up feeling refreshed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:03:05",
+      "origin": "そうなんですね。何か、気持ちがほぐれることはありますか？例えば、スイーツが好きとか、好きなテレビがあるとか？",
+      "content": "I see. Is there anything that helps you relax? For example, do you like sweets, or is there a TV show you enjoy?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:05:15",
+      "origin": "前は週末にライブに行ったり、映画をみたり、講演会を聞きに行ったり、外出するのがすきだったんですが・・・",
+      "content": "I used to like going out on weekends—to concerts, movies, lectures and such..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:05:36",
+      "origin": "うんうん",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:05:38",
+      "origin": "家ではご飯食べて寝るくらいでした",
+      "content": "At home, I would pretty much just eat and sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:06:15",
+      "origin": "そうなんですね。コロナで、ライブ行ったりできないのはつまらないですよね。",
+      "content": "I see. It must be disappointing not being able to go to concerts because of the pandemic."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:06:37",
+      "origin": "まさかこんなことになるとは思いませんでした",
+      "content": "I never thought it would turn out like this."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:07:19",
+      "origin": "そうですよね。本当に世の中が変わってしまって、どう対応していいかわからなくなってしまいましたよね。",
+      "content": "I agree. The world has truly changed, and it's left us unsure of how to cope, hasn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:07:38",
+      "origin": "はい・・・",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:07:59",
+      "origin": "もどかしい気持ちになりますね。",
+      "content": "It feels so frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:08:35",
+      "origin": "なんのために生きてるのかわからなくなります",
+      "content": "I start to wonder what I’m living for."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:09:30",
+      "origin": "そう思ってしまうんですね。おつらいお気持ちお察しします。。。",
+      "content": "I see that you're feeling that way. I can imagine how painful that must be..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:09:45",
+      "origin": "ここまでのお話をお聞きして、、",
+      "content": "Based on what you've told me so far..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:09:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:10:54",
+      "origin": "あなたは、コロナ禍で、収入が減り、貯金をくずして生活しているけれど、この先にとても不安を感じていらっしゃる・・",
+      "content": "You're living through this pandemic with a reduced income, using your savings to get by, and you feel very anxious about the future..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:11:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:13:04",
+      "origin": "以前は外出するのが好きだったけれども、今は思うように出られないし、好きなことができなくなり、なんのために生きているのかも分からなくなってしまう。",
+      "content": "You used to enjoy going out, but now you can't do so freely, you can't do the things you love, and you're even starting to wonder what the point of living is."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:13:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:13:53",
+      "origin": "ご実家には連絡をとっているけど、心配はかけたくないと思っていらっしゃる。。",
+      "content": "And while you keep in touch with your family, you don't want to worry them..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:14:03",
+      "origin": "いかがですか？",
+      "content": "Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:14:13",
+      "origin": "そうです",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:15:03",
+      "origin": "本当に、しんどいお気持ちだと思います。私が、思うことを少しお話ししてもよろしいですか？",
+      "content": "I can imagine how difficult this must be for you. Would it be alright if I shared a few of my thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:15:17",
+      "origin": "はい　お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:17:27",
+      "origin": "コロナはいつおさまるかわかりません。お仕事の状況も先が見えない状況だと思います。不安が募るばかりだとは思いますが、もしも経済的に本当に苦しくなった時には、是非、ご家族、または公共機関に頼ってください。そして、、",
+      "content": "We don't know when the pandemic will end, and I imagine your work situation is also uncertain. Your anxiety must be growing, but if things become truly difficult financially, please do reach out to your family or public support services. And..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:17:47",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:19:12",
+      "origin": "今、がんばって耐えているご自分を少し労る時間を持つことも必要だと思います。例えば、好きなライブには行けないけど、配信なライブを見たり、講演を聴いたり・・・",
+      "content": "I also think it's important to take some time to be gentle with yourself for enduring so much right now. For example, you can't go to live concerts, but maybe you could watch a livestreamed concert or listen to a lecture online..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:19:37",
+      "origin": "そうですね・・・",
+      "content": "That's true..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:21:09",
+      "origin": "この状況は誰が悪いわけでもなく、また、誰にもすぐには変えることができないので、ご自分の状況を少しでも安らげる気持ちに変えていく・・",
+      "content": "This situation isn't anyone's fault, and no one can change it overnight, so perhaps the focus could be on shifting your mindset to feel even a little more at ease..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:21:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:22:28",
+      "origin": "がんばっているご自分を癒せる手段を考えてみてはいかがですか？",
+      "content": "How about exploring ways to soothe and care for the part of you that’s working so hard?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:23:40",
+      "origin": "そうですね。ずっと前から楽しみにしていたことが全部なくなって気落ちしていましたが、",
+      "content": "You're right. I was so disheartened because everything I had been looking forward to for so long was canceled,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:24:31",
+      "origin": "ネットでいろいろとやってるようなことは聞いています",
+      "content": "and I have heard that there are various things happening online."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:24:45",
+      "origin": "調べる気力がなかったのですが、",
+      "content": "I just didn't have the energy to look into it, but"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:24:56",
+      "origin": "ちょっと調べてみます",
+      "content": "I'll try looking it up."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:25:44",
+      "origin": "うんうん、実は私もライブ大好きで、前は時々行っていたんですが、今は無料配信とかで時々観てるんですよ",
+      "content": "Mm-hmm. Actually, I love live music too. I used to go sometimes, but now I occasionally watch free livestreams."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:27:39",
+      "origin": "そうですか。アーチストの方々も苦労してるんですよね。ライブ配信とかしてるんですよね",
+      "content": "Oh, really? The artists must be struggling too, then. They're doing livestreams and things like that, aren't they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:27:55",
+      "origin": "そうなんです。早く生ライブ行きたいなーって思うけど、配信で観てるだけでも結構楽しめますよ！気晴らしにはうってつけです",
+      "content": "They are. I can’t wait to go to a live show again, but even watching the streams is quite enjoyable! It's a great way to take your mind off things."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:28:19",
+      "origin": "今はそれが精一杯なんですよね。",
+      "content": "I guess that's the most we can do right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:29:23",
+      "origin": "そうですね。世の中が平和を取り戻すまでは、なんとか踏ん張らなければなりませんよね。。。",
+      "content": "Yes. Until the world regains some normalcy, we just have to hang in there somehow..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:30:04",
+      "origin": "でも、無理のし過ぎは禁物です。頼れる人には遠慮せずに頼ってくださいね。",
+      "content": "But it’s important not to push yourself too hard. Please don’t hesitate to lean on people you can rely on."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:30:07",
+      "origin": "そうですね。いつになったら戻るんでしょうね・・・",
+      "content": "You're right. I wonder when things will ever go back..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:30:35",
+      "origin": "はい、もう少し一人でやってみて、それからまた考えます",
+      "content": "Yes, I’ll try to manage on my own a little longer, and then I'll think about it again."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:31:08",
+      "origin": "早く戻ることを祈るしかありませんよね・・・",
+      "content": "All we can do is hope things return soon..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:31:24",
+      "origin": "今日はお話ししてみていかがでしたか？",
+      "content": "How do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:31:43",
+      "origin": "こんな愚痴っぽいことを聞いてくださってありがとうございました。",
+      "content": "Thank you for listening to me vent like this."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:32:18",
+      "origin": "あんまり愚痴をいうことがなかったので。よかったと思います",
+      "content": "I don’t usually have a chance to vent, so I think this was good for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:32:42",
+      "origin": "いいえ、お話ししてくださってありがとうございました。また、いつでもお話ししたくなったら、いらしてくださいね。そのために私たちはいるんですよ。",
+      "content": "Not at all—thank you for sharing. Please feel free to come back anytime you feel like talking. That’s what we’re here for."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:33:32",
+      "origin": "一人でいると気が滅入るので。たまに愚痴を聞いてもらうほうがいいのかなと思いました。ありがとうございました。",
+      "content": "When I’m alone I get depressed, so I thought it might be better to have someone listen to me vent once in a while. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:34:16",
+      "origin": "まずはネットをもう少し使いこなしてみます。",
+      "content": "First, I’ll try to make better use of the internet."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:34:29",
+      "origin": "はい、こちらこそありがとうございました。寒くなったので、くれぐれも風邪などひかないようご自愛くださいね。",
+      "content": "Yes, thank you as well. It’s gotten colder, so please take good care of yourself and try not to catch a cold."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:35:04",
+      "origin": "はい。お気遣いありがとうございます。今日はありがとうございました。",
+      "content": "Yes. Thank you for your concern. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:35:17",
+      "origin": "それでは、今日はこの辺で終了させていただきます。ありがとうございました。",
+      "content": "Alright, we will conclude our session here for today. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:35:31",
+      "origin": "ありがとうございました。失礼いたします",
+      "content": "Thank you. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:35:57",
+      "origin": "（お相手ありがとうございました。）",
+      "content": "(Thank you for the session.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:36:15",
+      "origin": "（ありがとうございました。勉強になりました！）",
+      "content": "(Thank you very much. I learned a lot!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:36:34",
+      "origin": "（また機会がありましたら、よろしくお願いいたします。）",
+      "content": "(If there’s another opportunity, I look forward to working with you again.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T14:36:59",
+      "origin": "（またよろしくお願いいたします。それでは失礼いたします）",
+      "content": "(I look forward to working with you again. Goodbye for now.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T14:37:15",
+      "origin": "（終了いたします）",
+      "content": "(Ending the session.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "コロナの影響での収入減少と貯金の減少"
+  },
+  "review_by_client": {
+    "evaluation_id": 1000,
+    "evaluation_created_at": "2020-12-25T14:56:00",
+    "client_id": 28,
+    "counselor_id": 41,
+    "score": 78,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

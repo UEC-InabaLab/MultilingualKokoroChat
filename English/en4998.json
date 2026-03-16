@@ -1,0 +1,999 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:21:48",
+      "origin": "（おはようございます。本日はよろしくお願いいたします。お時間になりましたら、始めさせていただきます）",
+      "content": "(Good morning. Thank you for coming in today. We will begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:24:43",
+      "origin": "こちらこそよろしくお願い致します",
+      "content": "Thank you, I'm looking forward to our session."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:26:45",
+      "origin": "相談内容のテーマは何でもいいですか?",
+      "content": "Can I talk about anything?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:29:39",
+      "origin": "（いいですよ）",
+      "content": "(Of course.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:29:52",
+      "origin": "了解しました",
+      "content": "Understood."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:31:01",
+      "origin": "ご相談にお越しいただきありがとうございます。まず初めにお名前、ご年齢と性別今回ご相談になりたい内容を教えていただけますでしょうか。",
+      "content": "Thank you for coming in for a consultation today. To begin, could you please tell me your name, age, gender, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:31:14",
+      "origin": "名前もいりますか",
+      "content": "Do I need to give my name?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:31:54",
+      "origin": "年齢と性別は言えますが、名前は言いたくないです",
+      "content": "I can tell you my age and gender, but I'd rather not say my name."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:32:00",
+      "origin": "差し支えなければで結構ですよ。「あなた」というと他人行儀な感じでよろしくないかと思ったので、伺えれば伺いたいなと思った次第です。",
+      "content": "That's perfectly fine if you're not comfortable. I just thought referring to you as \"you\" might feel a bit distant, so I wanted to ask if you were okay with sharing it."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:32:16",
+      "origin": "あなたで大丈夫です",
+      "content": "\"You\" is fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:32:24",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:32:25",
+      "origin": "37歳女性",
+      "content": "I'm a 37-year-old woman."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:32:50",
+      "origin": "主人のモラハラについて",
+      "content": "It's about my husband's emotional abuse."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:33:46",
+      "origin": "ありがとうございます。主人のモラハラについてが、ご相談内容ですね。",
+      "content": "Thank you. So, the topic you'd like to discuss is your husband's emotional abuse."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:33:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:34:17",
+      "origin": "どういった内容なのか話せる範囲で構わないので教えていただけますか。",
+      "content": "Could you tell me about it, to the extent that you're comfortable sharing?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:34:54",
+      "origin": "子供の世話は私がしなければいけないとか",
+      "content": "Things like, he says I have to take care of the children,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:35:32",
+      "origin": "嫁に来たから、夫側の家のルールに従えとか",
+      "content": "or that because I married into his family, I have to follow their rules."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:36:03",
+      "origin": "時代遅れというかなんか違う気がしてます。",
+      "content": "It feels outdated, or just... wrong."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:36:36",
+      "origin": "なんていうか・・いわゆる「昭和的な感じ」とでも言うのでしょうか。「お前は俺に従え」的なそんな関係性を求められている感じがしますね。",
+      "content": "It sounds like... what you might call a \"Showa-era mentality,\" perhaps? It's like he expects a relationship where it's \"you will obey me.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:36:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:37:10",
+      "origin": "それに対して「なんか違うな」と思っているわけですね。",
+      "content": "And you feel that 'something about it doesn't sit right with you.'"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:37:20",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:37:40",
+      "origin": "ご主人は結婚する前からそういう感じの人だったのですか。",
+      "content": "Was your husband like this before you got married?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:38:02",
+      "origin": "あまり気づかなくて",
+      "content": "I didn't really notice."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:38:39",
+      "origin": "父もそうだったから、そんなものかと思っていました",
+      "content": "My father was like that too, so I thought that's just how it is."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:39:17",
+      "origin": "ただ、最近周りの人から、「モラハラじゃないか」と言われて",
+      "content": "But recently, people around me have been saying, \"Isn't that emotional abuse?\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:39:37",
+      "origin": "そうなのかもしれないと思い始めています",
+      "content": "And I'm starting to think that might be the case."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:40:18",
+      "origin": "なるほど。「言われてみれば確かに」「思い当たる節が、　いくつもあるな」という感じでしょうかね。",
+      "content": "I see. So it's a feeling of, \"Now that you mention it, it's true,\" and \"There are many instances that come to mind.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:40:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:41:23",
+      "origin": "共働きですが、同じ時刻に帰っても食事や洗濯は私だし",
+      "content": "We both work, but even when we get home at the same time, I'm the one who cooks and does the laundry."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:41:49",
+      "origin": "手伝ってというと、威嚇されます。",
+      "content": "When I ask him to help, he becomes intimidating."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:42:14",
+      "origin": "子供もいるのですが、",
+      "content": "We have children, and..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:42:31",
+      "origin": "基本的に私が面倒みていますし、",
+      "content": "I'm basically the one who takes care of them,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:43:29",
+      "origin": "夫の方が稼ぎが多いのに、私が子供の教育費をほぼ払っています。",
+      "content": "and even though my husband earns more, I'm the one paying for most of our children's education expenses."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:44:09",
+      "origin": "夫は食費と光熱費や税金は払うけど",
+      "content": "My husband pays for food, utilities, and taxes, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:44:34",
+      "origin": "日用品とかそういうのは私で",
+      "content": "I pay for daily necessities and things like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:45:06",
+      "origin": "割合的に言うと、私の方が負担が大きいとは思うのですが、",
+      "content": "so proportionally, I think my burden is heavier,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:45:31",
+      "origin": "夫に言っても聞き入れてくれません。",
+      "content": "but even when I tell him that, he won't listen."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:45:48",
+      "origin": "なんというか、あなた様の状況が大変そうというか全体的な負担の偏りが大きいようなイメージを受けますね。",
+      "content": "It sounds like you're in a very difficult situation, and I get the impression that there's a significant imbalance in the overall burden."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:45:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:46:03",
+      "origin": "で、援助を求めようとすると威嚇してくる・・",
+      "content": "And when you try to ask for help, he becomes intimidating..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:46:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:46:13",
+      "origin": "威嚇とはどんな感じなのでしょうか。",
+      "content": "What do you mean by intimidating?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:46:16",
+      "origin": "頼るなとか",
+      "content": "He'll say things like, \"Don't rely on me,\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:46:43",
+      "origin": "「何が!」",
+      "content": "or shout, \"What?!\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:46:58",
+      "origin": "と威圧的な態度を取ります",
+      "content": "and takes a very overbearing tone."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:47:44",
+      "origin": "殴りはしないけど、あと、無視されます",
+      "content": "He doesn't hit me, but he also gives me the silent treatment."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:48:24",
+      "origin": "夫はご飯食べたら、TVみて1人でいるけど",
+      "content": "After my husband eats, he just watches TV by himself,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:49:03",
+      "origin": "私は食器洗いが終わると、洗濯物たたんだり、子供の世話があったりと",
+      "content": "but after I finish the dishes, I have to fold the laundry, take care of the kids, and so on."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:49:18",
+      "origin": "忙しいです。",
+      "content": "It's hectic."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:49:55",
+      "origin": "子供と話をするのは好きなので、育児はあまり苦ではないのですが、",
+      "content": "I enjoy talking with my children, so raising them isn't really a hardship,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:50:16",
+      "origin": "夫のそういう態度はどうなのかと",
+      "content": "but I question my husband's attitude."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:50:43",
+      "origin": "なんというか、とても落ち着かないというか居心地がよくないような環境にいるかのような印象を受けてしまいますね。ねぎらいの言葉みたいのもなさそうな印象を受けます。",
+      "content": "It sounds like you're in a very unsettling and uncomfortable environment. I get the impression there are no words of appreciation, either."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:50:51",
+      "origin": "ないです",
+      "content": "There aren't."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:51:03",
+      "origin": "やって当たり前というか",
+      "content": "It's as if what I do is taken for granted."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:51:37",
+      "origin": "周囲にいうと、モラハラっぽいともいうし、",
+      "content": "When I tell people around me, they say it sounds like emotional abuse,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:52:07",
+      "origin": "旦那と一緒にいても楽しくないから離婚したという人もいて、",
+      "content": "and I know someone who got divorced because she wasn't happy with her husband,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:52:39",
+      "origin": "そんな理由で離婚できる事にびっくりしました",
+      "content": "and I was surprised that you can get a divorce for a reason like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:53:00",
+      "origin": "なるほど、びっくりしたのですね。",
+      "content": "I see—you were surprised."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:53:07",
+      "origin": "楽しくないから離婚って、軽すぎる感じがしたし",
+      "content": "Divorcing just because you're not happy felt too trivial,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:53:36",
+      "origin": "母は、父からの態度にずっと我慢していたから",
+      "content": "and my mother always put up with my father's attitude,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:54:04",
+      "origin": "私もよっぽどの事がないと、離婚できないと思っていました",
+      "content": "so I thought I couldn't get a divorce unless something truly extreme happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:54:30",
+      "origin": "思っていた・・・と。それで「言われて気づく前」と「言われて気づいた後」だとあなたにとって何か変わったことはあるのでしょうか。",
+      "content": "You thought that... So, has anything changed for you, comparing \"before people pointed it out\" and \"after people pointed it out\"?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:55:03",
+      "origin": "今の生活に疑問を感じるようになりました。",
+      "content": "I've started to question my current life."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:55:47",
+      "origin": "ご両親の関係なども見てきたものの果たしてこの状況のままで良いものだろうかという感じでしょうか。",
+      "content": "So even though you've seen your parents' relationship, you're now wondering if it's really okay for things to stay this way."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:56:00",
+      "origin": "今までは、家族って少々問題があっても、我慢して乗り越えるものだと思っていました",
+      "content": "Until now, I thought that with families, you're supposed to endure and overcome problems, even if there are some."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:56:48",
+      "origin": "今は我慢しなくてもいい時代なのかなとも思っています",
+      "content": "Now I'm starting to think that maybe this is an era where you don't have to endure it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T10:57:53",
+      "origin": "そうなのですね。そうすると、あなたにとっては今後どうしたいとか何かお考えがあったりするのでしょうか。",
+      "content": "I see. In that case, do you have any thoughts about what you would like to do from now on?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:58:36",
+      "origin": "自分自身はしんどいし、離婚できるならしたほうがいいのかとも思うけど",
+      "content": "It's hard on me, and I wonder if it would be better to get a divorce if I can,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:59:07",
+      "origin": "子供の事や経済的な事を考えると、なかなか踏み切れません",
+      "content": "but when I think about the children and finances, I can't quite take the leap."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T10:59:33",
+      "origin": "夫もいい時は、子供の面倒みるし",
+      "content": "And when my husband is in a good mood, he does look after the kids."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:00:02",
+      "origin": "そう考えているのですね。ちなみに、お子様はおいくつぐらいなのですか。",
+      "content": "I see. By the way, how old are your children?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:00:22",
+      "origin": "小学生2人です",
+      "content": "I have two in elementary school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:00:57",
+      "origin": "二人のお子様がいて、どちらも小学生なのですね。お子様との仲は良好な感じなのですか？",
+      "content": "So you have two children, both in elementary school. Is your relationship with them good?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:01:05",
+      "origin": "親権とか聞くと、どうなのかとも思うし",
+      "content": "And when I hear about things like custody, I wonder how that would work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:01:42",
+      "origin": "すみません。かぶってしまいましたね。",
+      "content": "Sorry, I spoke over you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:01:44",
+      "origin": "子供とは仲がいいです。頼まれごとも、私に頼ってきます",
+      "content": "I get along well with my children. When they need something, they come to me."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:02:53",
+      "origin": "ちなみに、モラハラって、何か定義や基準みたいなのが、ありますか?",
+      "content": "By the way, is there a definition or some kind of standard for emotional abuse?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:03:20",
+      "origin": "実際該当するのかどうか、自信がないんです",
+      "content": "I'm not sure if my situation actually falls into that category."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:03:32",
+      "origin": "ただの愚痴になるのか",
+      "content": "Or if I'm just complaining."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:04:06",
+      "origin": "それともそういう定義に当てはまっているのか",
+      "content": "or if it fits the definition."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:04:37",
+      "origin": "それで対応が変わっていく気がします",
+      "content": "I feel like how I respond would change depending on that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:04:45",
+      "origin": "そうですね。例えばですので、絶対ではないでしょうし専門家に伺った方がよいのですが以下のように言われていたりしますね。",
+      "content": "I understand. For example, and this isn't absolute and it would be best to consult a specialist, it's sometimes defined like this:"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:05:33",
+      "origin": "サイトからの引用ですがモラハラ（モラル・ハラスメント）とは、人格を否定するような暴言や侮辱的言動、脅迫的言動のことで、言葉や態度等によって行われる精神的な暴力や嫌がらせのことです。加害者は、暴言、無視、人格の否定、無理な要求、責任の転嫁、性的虐待や経済的虐待等、肉体的な暴力を伴わずに相手を追い詰め、支配しようとします。",
+      "content": "Quoting from a website: \"Moral harassment (emotional/psychological abuse) refers to verbal abuse and insulting or threatening behavior that denies a person's character; it is psychological violence or harassment carried out through words and attitudes. Perpetrators use verbal abuse, the silent treatment, character denigration, unreasonable demands, shifting responsibility, sexual abuse, or economic abuse to corner and control the other person without physical violence.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:06:17",
+      "origin": "サイトのアドレスだと以下になります。https://www.hosoe-law.jp/morahara/#:~:text=%E3%83%A2%E3%83%A9%E3%83%8F%E3%83%A9%EF%BC%88%E3%83%A2%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%A9%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%89%E3%81%A8,%E8%BF%BD%E3%81%84%E8%A9%B0%E3%82%81%E3%80%81%E6%94%AF%E9%85%8D%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
+      "content": "Here is the website address: https://www.hosoe-law.jp/morahara/#:~:text=%E3%83%A2%E3%83%A9%E3%83%8F%E3%83%A9%EF%BC%88%E3%83%A2%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%A9%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%89%E3%81%A8,%E8%BF%BD%E3%81%84%E8%A9%B0%E3%82%81%E3%80%81%E6%94%AF%E9%85%8D%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:06:26",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:06:52",
+      "origin": "モラハラを扱う弁護士さんのサイトにあったものを引用致しました。",
+      "content": "I quoted that from the website of a lawyer who handles emotional abuse cases."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:06:55",
+      "origin": "一部当てはまるような、そうじゃないような…微妙ですね",
+      "content": "Some of it seems to apply and some doesn't... It feels borderline."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:07:29",
+      "origin": "そのあたりを、専門の方に伺うっていう所はあるのかなとは思います。",
+      "content": "I think that's something you could discuss with a professional."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:07:39",
+      "origin": "カウンセラーさんからみて、私の場合はどう思いますか?",
+      "content": "From your perspective as a counselor, what do you think about my case?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:08:03",
+      "origin": "私の印象という形でお話をさせていただくと・・・",
+      "content": "If I may share it simply as my impression..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:08:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:09:01",
+      "origin": "すごく居心地が悪いというかあまり生活をしていてもいい気はしないなという印象は受けます。離婚については・・・",
+      "content": "I get the impression that it's a very uncomfortable living situation, one that wouldn't feel very good. As for divorce..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:09:54",
+      "origin": "夫の態度は、モラハラだと思いますか?",
+      "content": "Do you think my husband's behavior is emotional abuse?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:09:59",
+      "origin": "するかしないかとか仮に「する」と判断したとしても、それはいつのタイミングなのかというのは考える必要があるのかなとは思いました。",
+      "content": "Whether to do it or not, and even if you decide to \"do it,\" I think you would need to consider when the right timing would be."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:10:25",
+      "origin": "タイミングはあるかもしれないですね",
+      "content": "There might be a right time for it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:10:26",
+      "origin": "聞かれたので、お答えいたしますとその印象は受けます。",
+      "content": "Since you asked, I will answer: yes, I do get that impression."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:11:05",
+      "origin": "何らかの形で歩み寄ってくれたり、改善してくれるなら、いいのですが。",
+      "content": "It would be good if he could meet you halfway or improve in some way, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:11:06",
+      "origin": "やっぱりそうなんですか…",
+      "content": "So that's how it is..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:11:47",
+      "origin": "聞いてくれるかな…",
+      "content": "I wonder if he'll listen..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:13:00",
+      "origin": "難しいと思います。そとづらいいし。",
+      "content": "I think it will be difficult. He puts on a good face for outsiders."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:13:11",
+      "origin": "ただ、すぐに「離婚」の話を持ち出すよりもお話合いをする、ご自身のお気持ちを伝えて、改善してほしい機会を改めて持てればいいなとは思うのですが。",
+      "content": "However, rather than immediately bringing up divorce, I think it would be good if you could have an opportunity to talk, express your feelings, and ask for improvement."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:13:33",
+      "origin": "持てるかな…",
+      "content": "I wonder if I can..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:14:30",
+      "origin": "何かないと…",
+      "content": "Unless something happens..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:14:35",
+      "origin": "ご主人に少しでも協力してもらえるよう考えてもらえる何か切り出せる方法とかがあればいいのですが",
+      "content": "It would be good if there were some way to bring it up that would make your husband consider cooperating, even a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:14:48",
+      "origin": "思いつかないです",
+      "content": "I can't think of anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:15:15",
+      "origin": "どういうことがあるか一緒にかんがえてみましょうか。",
+      "content": "Shall we think through some possibilities together?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:15:23",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:15:59",
+      "origin": "お話の向きからすると「態度そのものをすぐに変える」というのは難しそうな印象を受けました。",
+      "content": "From what you've said, I get the impression that \"changing his attitude itself immediately\" would be difficult."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:16:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:17:02",
+      "origin": "ただ、「精神的なフォロー」や言葉がけがあると、それはそれであなた様の中で受ける印象が変わるのかなとは思います。",
+      "content": "However, if there were some emotional support or words of acknowledgment, I imagine that might change how it feels for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:17:26",
+      "origin": "それはあると思います",
+      "content": "I think that would make a difference."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:18:11",
+      "origin": "そこから次第に態度が変わっていけばですけど、おそらく長期戦でしょうし。言葉がけについて考えられればなとは思います。",
+      "content": "If his attitude gradually changes from there, that would be ideal, but it will probably be a long-term effort. I think we could think about the specific words to use."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:18:42",
+      "origin": "どう伝えればいいでしょうか",
+      "content": "How should I phrase it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:18:58",
+      "origin": "かといって、いきなりご主人の言動が変わるとも考えづらい（というか、その思考になっていない）かなと思われますので、",
+      "content": "That said, it's hard to imagine your husband's words and actions changing suddenly (or rather, he probably isn't in that mindset), so..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:19:15",
+      "origin": "考えてもらう為には…",
+      "content": "To get him to think about it..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:19:37",
+      "origin": "確かに変わるとも思えません",
+      "content": "It's true, I can't imagine him changing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:19:39",
+      "origin": "「こういう風に言ってもらいたい」みたいな形で「言葉を投げかける」というのはどうでしょうか。",
+      "content": "What about suggesting the kind of words you'd like to hear, for example, by saying, \"I would like it if you said it this way\"?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:19:51",
+      "origin": "投げかけですか",
+      "content": "Suggesting words?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:20:28",
+      "origin": "どんな言葉がありますか?",
+      "content": "What kind of words, for example?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:20:52",
+      "origin": "「こういうときは　こういう風に言ってくれないと　私も気分が悪くなってしまいます」みたいな言い方であったり。",
+      "content": "Something like, \"In situations like this, if you don't say it this way, it makes me feel bad.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:21:25",
+      "origin": "反感を買いそうな気がします",
+      "content": "I feel like that would just antagonize him."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:21:46",
+      "origin": "それこそ、威圧的になりそう",
+      "content": "That's when he'd probably become intimidating."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:22:08",
+      "origin": "「何が！」という言い方ではなくなるほど、そうするとむしろ反発が来てしまいそうなのですね。",
+      "content": "I see. So instead of his usual \"What?!\" response, you think it would cause even more of a backlash."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:22:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:22:50",
+      "origin": "ちょっと間違えました。すみません。",
+      "content": "I was a bit mistaken. My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:23:20",
+      "origin": "意見を言うと、そういう態度を取られがちです",
+      "content": "When I express my opinion, he tends to react that way."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:23:51",
+      "origin": "なにかありそうですか?",
+      "content": "Do you have any other ideas?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:24:17",
+      "origin": "率直に「そういうことを言うのは　やめてもらいたい」というと、難しそうですかね。",
+      "content": "Would it be difficult to say straightforwardly, \"I'd like you to stop saying things like that\"?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:24:32",
+      "origin": "夫は、モラハラではない感じですか?",
+      "content": "So, does that mean you don't think it's emotional abuse?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:25:13",
+      "origin": "モラハラな印象は受けます。というか、ちゃんとした会話が成り立たないような気がしています。",
+      "content": "I do get the impression that it's emotional abuse. Or rather, it feels like a proper conversation can't even take place."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:25:14",
+      "origin": "やめてもらいたいと言っても、どうなるか",
+      "content": "Even if I tell him to stop, I'm not sure what would happen."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:25:46",
+      "origin": "喧嘩覚悟で、言うしかないんですかね",
+      "content": "I guess I just have to say it, even if it means starting a fight."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:26:53",
+      "origin": "喧嘩は望んでいない感じですかね。",
+      "content": "It sounds like you don't want a fight."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:27:10",
+      "origin": "会話はTV見ながら話したり、予定をつたえたりする位で",
+      "content": "Our conversations are just talking while watching TV, or telling each other our schedules."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:27:49",
+      "origin": "そういう話だと、喧嘩になると思います",
+      "content": "A talk like that would turn into a fight, I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:27:58",
+      "origin": "そうなのですね。喧嘩自体は好ましくないですが、率直に伝える必要、そういう場を作る必要はあるかなとは思います。",
+      "content": "I see. While a fight itself isn't desirable, I do think there's a need to be frank and create an opportunity for that kind of conversation."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:28:20",
+      "origin": "そうですか",
+      "content": "Is that so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:29:05",
+      "origin": "あなた様の方で「このまま自分が　こらえればいいのだ」と思っていれば、そのままかとは思うのですが「我慢も限界あるぞ」となったら、こらえきれるだろうかという印象は受けます。",
+      "content": "If you feel that \"it's fine as long as I keep enduring it,\" then things might stay the same. But I get the impression that if you reach a point where you think, \"my patience has its limits,\" I wonder if you'll be able to keep enduring."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:29:30",
+      "origin": "そんな気持はあります",
+      "content": "I do feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:30:09",
+      "origin": "限界を超えたら、考えればいいでしょうか",
+      "content": "Should I think about what to do once I've passed my limit?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:30:17",
+      "origin": "まあ、すぐに言い合うはないにしても、専門家の方にアドバイスをもらうというのも方法かと思いますね。どうしていったらいいか。",
+      "content": "Well, even if you don't have a confrontation right away, I think getting advice from a specialist on what to do is another option."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:30:50",
+      "origin": "法的なこととか経済的なことの心配もあるでしょうし、年金の問題もあるので。",
+      "content": "There are probably legal and financial concerns, and also the issue of pensions."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:30:57",
+      "origin": "どういった専門家の方がいらっしゃいますか",
+      "content": "What kinds of specialists are there?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:31:45",
+      "origin": "先ほど挙げたような離婚の弁護士の方に直接的に相談する方法や役所の家庭相談みたいな形でお話をするという方法などがありますよ。",
+      "content": "You could consult directly with a divorce attorney, like I mentioned, or speak with someone at your local government's family consultation services."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:31:59",
+      "origin": "先程、サイトを送っていただいた所でしょうか",
+      "content": "Do you mean the firm from the website you sent earlier?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:32:28",
+      "origin": "あれも参考例の一つですねあそこに行けという意味ではないですが。",
+      "content": "That's one example for reference. I don't mean you have to go there specifically."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:32:32",
+      "origin": "そうですね。1度相談してみます",
+      "content": "Right. I'll try scheduling a consultation."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:32:58",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:33:03",
+      "origin": "お時間が過ぎてしまいましたが、今日は話されてみてどうでしたか。少しでも参考になったでしょうか。",
+      "content": "We've gone over our time, but how do you feel after talking today? Was it helpful at all?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:33:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:33:26",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:33:29",
+      "origin": "ちょっと落ち着きました。",
+      "content": "I feel a bit calmer."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:33:43",
+      "origin": "また相談に来ます",
+      "content": "I'll come back for another session."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:33:57",
+      "origin": "そういっていただけると、私もホッとします。またいつでもご相談ください。",
+      "content": "I'm relieved to hear that. Please feel free to come and talk anytime."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:34:16",
+      "origin": "それでは終了のメッセージを送りますね。",
+      "content": "I'll send the closing message now."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:34:17",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-06T11:34:51",
+      "origin": "（ありがとうございました）（とても勉強になりました）（つたない対応で、　申し訳ありませんでした）",
+      "content": "(Thank you very much.) (This was a great learning experience.) (I apologize if my support was inadequate.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-06T11:34:57",
+      "origin": "(お疲れ様でした。ロールプレイも終了で大丈夫です)",
+      "content": "(Thank you for your time. We can end the role-play now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "モラハラによるコミュニケーションの問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 4998,
+    "evaluation_created_at": "2023-05-06T19:37:00",
+    "client_id": 112,
+    "counselor_id": 382,
+    "score": 81,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

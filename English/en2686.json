@@ -1,0 +1,483 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-10T09:55:52",
+      "origin": "本日はよろしくお願いいたします。10時から始めさせていただきます。",
+      "content": "Thank you for coming today. We'll start at 10:00 AM."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T09:56:17",
+      "origin": "よろしくお願いします",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:00:12",
+      "origin": "こんにちは、相談員です。はじめに年齢、性別をお願いいたします。",
+      "content": "Hello, I'm your counselor. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:00:51",
+      "origin": "こんにちは、50歳　女",
+      "content": "Hello, I'm 50 years old, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:01:07",
+      "origin": "ありがとうございます。本日は、どのようなご相談でしょうか？何でも話してくださいね。",
+      "content": "Thank you. What would you like to talk about today? Please feel free to share anything."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:01:24",
+      "origin": "娘のことで聞いて欲しくて",
+      "content": "I wanted someone to listen about my daughter."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:01:53",
+      "origin": "はい　どの様なことが有りましたか？",
+      "content": "I see. What happened?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:02:40",
+      "origin": "昨日入院したと連絡が来ました。",
+      "content": "I got a call yesterday saying she was hospitalized."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:04:09",
+      "origin": "入院されたのですね。それは驚いてしまいますね。何があったのでしょうか？",
+      "content": "She was hospitalized? That must have been a shock. What happened?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:04:55",
+      "origin": "コロナ禍で面会できないので、心配です。",
+      "content": "I'm worried because I can't visit her due to COVID restrictions."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:07:16",
+      "origin": "それは、不安になりますね。娘さんは　おいくつなのでしょうか？同居されているのでしょうか？",
+      "content": "That must be very worrying. How old is your daughter? Do you live with her?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:07:46",
+      "origin": "いいえ、もう嫁いでいるので別居です。",
+      "content": "No, she's married, so we live separately."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:07:58",
+      "origin": "25歳です",
+      "content": "She's 25."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:09:34",
+      "origin": "そうだったんですね。お若くて、入院だと尚更心配になってしまいますね。お話も中々できないでしょうし今一番、困っていることは何でしょうか？",
+      "content": "I see. It must be even more worrying for someone so young to be hospitalized. I imagine it's also difficult to talk with her. What is the most difficult thing for you right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:10:02",
+      "origin": "面会できないことです",
+      "content": "The fact that I can't visit her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:11:29",
+      "origin": "そうなんですね、会えないことがとても、お辛いんですね。連絡は　ラインやメールでとられているのですか？",
+      "content": "I see, not being able to see her must be very painful. Have you been in contact via LINE or email?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:11:59",
+      "origin": "充電が切れてしまったみたいで連絡取れていません",
+      "content": "It seems her phone's battery died, so I haven't been able to reach her."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:12:43",
+      "origin": "会えないことが辛いのではなく、状況がわからないので気を揉みます",
+      "content": "It's not that seeing her is hard, but I'm anxious because I don't know what her condition is."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:14:11",
+      "origin": "しっかりとした状況を知りたいと思っているのですね。お母様でしたら、そう強くおもうのも無理はありません。",
+      "content": "So you want to know her exact condition. As her mother, it's completely understandable that you would feel that strongly."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:14:21",
+      "origin": "面会禁止ですけど、病院に行っていいのでしょうか？",
+      "content": "Visiting is prohibited, but is it okay for me to go to the hospital?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:15:51",
+      "origin": "面会禁止になっているのなら、行っても会うことは難しいと思いますが、どう思われますか？",
+      "content": "If visits are prohibited, it might be difficult to see her even if you go. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:16:25",
+      "origin": "あなたは家族が入院したら、どうされますか？",
+      "content": "What would you do if a family member were hospitalized?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:17:45",
+      "origin": "もちろん、不安で居ても立っても居られないとおもいます。現状を知るために、出来ることを一緒に考えたいと思っております。",
+      "content": "Of course, I would feel so anxious that I couldn't sit still. I'd like us to think together about what can be done to learn about the current situation."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:18:35",
+      "origin": "どうしましょう",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:19:04",
+      "origin": "病院に連絡を取って現状を伝え、状況確認してみるのは、いかがでしょうか？",
+      "content": "How about contacting the hospital, explaining your situation, and asking about her condition?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:19:53",
+      "origin": "娘様の旦那様に確認を取ってみるのも良いのかもしれません。",
+      "content": "It might also be a good idea to check with your daughter's husband."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:20:31",
+      "origin": "病院に電話、、、",
+      "content": "Calling the hospital..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:21:46",
+      "origin": "失礼いたしました。切羽詰まっているかと思ってしまいました。まずは　親族の方にご連絡はしてみたのでしょうか？",
+      "content": "My apologies. I assumed you were in a desperate situation. First of all, have you tried contacting any relatives?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:22:10",
+      "origin": "娘の夫から面会できない連絡をもらいました",
+      "content": "I got a message from my daughter's husband saying visits aren't allowed."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:22:36",
+      "origin": "親族？",
+      "content": "Relatives?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:23:02",
+      "origin": "私は母親ですが",
+      "content": "I'm her mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:23:56",
+      "origin": "親族（旦那様）言い方は伝わらなくて失礼いたしました。そうなんですね、それだけでは現状が分かのですねのですね。",
+      "content": "My apologies, my wording—'relative' (meaning her husband)—was not clear. I see, so that information alone isn't enough to understand her condition."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:25:07",
+      "origin": "娘様の旦那様からの連絡を待っているじょうたいなのでしょうか？",
+      "content": "Are you currently waiting to hear from your daughter's husband?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:26:06",
+      "origin": "えっと",
+      "content": "Um..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:26:52",
+      "origin": "娘の夫からの連絡を待っている状態なのでしょうか？",
+      "content": "Are you waiting to hear from your daughter's husband?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:27:22",
+      "origin": "娘の夫とは携帯充電器を病院に届けてもらうよう伝えました",
+      "content": "I've asked my daughter's husband to take a phone charger to the hospital for her."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:28:34",
+      "origin": "昨日の夜夫くんは病院に行きましたが、主治医とは話せてないようです。",
+      "content": "My son-in-law went to the hospital last night, but it seems he wasn't able to speak with the attending physician."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:30:19",
+      "origin": "コロナ禍だと夫も会うことができないんですね",
+      "content": "So with the COVID situation, even her husband can't see her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:30:55",
+      "origin": "そうなんですね、届けた時に少しでも今の現状を夫から聞けると良いですね。今のお気持ちを、そばで受止めてく方は方はいらっしゃいますか？",
+      "content": "I see. It would be good if you could hear even a little about her current situation from her husband when he delivers it. Is there anyone with you who can support you with these feelings right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:31:50",
+      "origin": "夫くんからは、検査結果がわかったらと言われたのですが",
+      "content": "Her husband told me he'd let me know when the test results are in."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:32:20",
+      "origin": "検査結果？何の検査？とわからないところです。",
+      "content": "Test results? What kind of test? That's what I don't understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:33:46",
+      "origin": "夫からの情報がとても少ないように話していても感じます。それではこちらも、焦りや不安が大きくなりますね。",
+      "content": "As we talk, it sounds like you're receiving very little information from her husband. That would certainly make you feel more impatient and anxious."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:33:57",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:34:13",
+      "origin": "病院に電話していいのですかね",
+      "content": "I wonder if it's okay for me to call the hospital."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:35:51",
+      "origin": "私の夫も入院と聞いて驚いています。",
+      "content": "My husband is also shocked to hear that she was hospitalized."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:36:25",
+      "origin": "それは、当然おどろかれるとおもいます。まずは、夫へ充電器を届けてすぐに電話をいたたき、状況を教えてほしいことを伝えてみてはいかがでしょうか？",
+      "content": "That's understandable that he'd be surprised. How about first asking her husband to call you right after delivering the charger and tell you about the situation?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:37:15",
+      "origin": "ご主人様はなんと、おっしゃっているのでしょうか？",
+      "content": "What is your husband saying about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:38:31",
+      "origin": "もしかしたら病院だから携帯切っているのかもしれませんね",
+      "content": "Perhaps her phone is off because she's in the hospital."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:40:08",
+      "origin": "私の夫も面会時間に行くつもりで、何時が面会時間だ？と聞いてきましたがコロナ禍で面会禁止なんだって！という話になっています",
+      "content": "My husband was also planning to go during visiting hours and asked what time they were, but I told him visiting is prohibited because of COVID!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:41:25",
+      "origin": "そうなんですね、動きたくても動けない状況なのですね。怒りや、いらだちが大きくなりますね。",
+      "content": "I see, so you're in a situation where you want to act but can't. That must make you feel angry and frustrated."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:41:44",
+      "origin": "怒り、、、、。",
+      "content": "Anger..."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:42:06",
+      "origin": "何に対してでしょう",
+      "content": "Anger toward what, exactly?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:43:26",
+      "origin": "現状に対してのどうにもならないことに対しての怒りと思いましたが、そう思われなかったのですね。失礼いたしました。",
+      "content": "I thought perhaps it was anger towards the helplessness of the current situation, but that's not how you feel. My apologies."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:43:55",
+      "origin": "夫には電話が繋がらないのならメールを入れておくのはいかがでしょうか？",
+      "content": "If you can't get through by phone to her husband, how about sending an email?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:45:03",
+      "origin": "えっと",
+      "content": "Um..."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:45:36",
+      "origin": "電話が繋がらないのは、、、、娘です",
+      "content": "The one I can't reach by phone is... my daughter."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:46:06",
+      "origin": "娘の夫かとはLINEでやりとりしてます",
+      "content": "I'm communicating with my daughter's husband via LINE."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:47:29",
+      "origin": "娘の夫とはLINEでやりとりしています。　です。",
+      "content": "I'm communicating with my daughter's husband via LINE, yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:48:29",
+      "origin": "病院に居て、夫の電源が入っていなくて電話が通じないかもしれないので、ラインに現状を教えてほしいことを伝えてみてはいかがでしょうか？",
+      "content": "Since he may be at the hospital with his phone turned off and unreachable, how about messaging him on LINE to ask for an update?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:50:33",
+      "origin": "えっと",
+      "content": "Um..."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:51:16",
+      "origin": "娘の夫　と私はLINEでやりとりしています",
+      "content": "My daughter's husband and I are communicating via LINE."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:51:58",
+      "origin": "娘の夫も　娘(妻)と面会できないのです。",
+      "content": "My daughter's husband also can't visit my daughter (his wife)."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:52:55",
+      "origin": "そうなんですね、主治医のお話を聞くまで現状を知る事が出来ないのですね。",
+      "content": "I see, so you won't know her condition until you hear from the doctor in charge."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:53:01",
+      "origin": "昨日は洗濯物の受け渡しの時間帯のご案内をもらって帰ってきました。",
+      "content": "Yesterday, he just got information about the laundry drop-off times and came home."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:53:30",
+      "origin": "洗濯物の受け渡しも　看護師さんとで本人とは会わせないそうです。",
+      "content": "It seems that even for the laundry exchange, it's done with a nurse, and they don't let you see the patient."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:53:44",
+      "origin": "コロナ禍で不便になりましたね",
+      "content": "Things have become so inconvenient during COVID, haven't they."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:54:53",
+      "origin": "そうですね、何かしたいけど何も出来ない事に本当に心をいためておられるのですね。",
+      "content": "Yes—you’re really hurting from wanting to do something but not being able to."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:55:41",
+      "origin": "娘の夫くんは　今日充電器を仕事帰りに届けるみたいなので、そしたら充電ができていないから連絡取れないのか、電源切ってるのかが分かりますね",
+      "content": "My daughter's husband is going to drop off the charger today after work, so then we'll know if I couldn't reach her because the battery was dead or if her phone is turned off."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:56:10",
+      "origin": "私は面会に行きたかった",
+      "content": "I wanted to go visit her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:57:59",
+      "origin": "そうなんですね、本当に心配されていることが、つたわります。そろそろ時間となりました。中々、言葉が伝わらなくて失礼いたしました。また、ご相談に来て頂けたらうれしくおもいます。",
+      "content": "I see, I can really tell how worried you are. Our time is almost up. I apologize that my words were not always clear. I would be happy if you came back for another consultation."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:58:56",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T10:59:26",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-10T10:59:42",
+      "origin": "(カウンセラー役さん　お疲れ様でした)",
+      "content": "(To the person playing the counselor role, thank you for your hard work.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-10T11:00:25",
+      "origin": "今後ともよろしくお願いいたします。失礼いたします。",
+      "content": "I look forward to working with you again. Goodbye for now."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "娘の入院に関する不安とコミュニケーションの問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 2686,
+    "evaluation_created_at": "2021-11-10T11:53:00",
+    "client_id": 2,
+    "counselor_id": 231,
+    "score": 46,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

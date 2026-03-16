@@ -1,0 +1,765 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2024-02-09T09:54:27",
+      "origin": "テスト",
+      "content": "Test."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T09:58:22",
+      "origin": "こちらのメッセージ見れておりますか",
+      "content": "Can you see this message?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T09:59:00",
+      "origin": "（こんにちは。見ております。10時ちょうどに始める予定です）",
+      "content": "(Hello. I can see it. We are scheduled to start at 10:00 sharp.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T09:59:10",
+      "origin": "（今日はよろしくお願いします）",
+      "content": "(I look forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T09:59:27",
+      "origin": "（承知しました。よろしくお願いいたします）",
+      "content": "(Understood. I look forward to it as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:00:01",
+      "origin": "こんにちは。相談員です。今日はご相談に来てくださって、ありがとうございます。",
+      "content": "Hello. I'm the counselor. Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:00:12",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:00:13",
+      "origin": "まずは、年齢と性別、相談内容を教えてください。",
+      "content": "To start, please tell me your age, gender, and what you would like to discuss."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:00:22",
+      "origin": "30代　女",
+      "content": "30s, female."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:00:26",
+      "origin": "誰からも愛されない",
+      "content": "I’m not loved by anyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:01:22",
+      "origin": "こんにちは。そうなんですね。おつらい気持ちを抱えているのですね。「愛されていない」とお感じなのは、どんなときですか？",
+      "content": "I see. It sounds like you're going through a very painful time. When do you feel that you're \"not loved\"?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:01:42",
+      "origin": "いつもです",
+      "content": "All the time."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:01:44",
+      "origin": "孤独",
+      "content": "Lonely."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:01:53",
+      "origin": "ずっと一人なんだと思う",
+      "content": "I feel like I’ve always been alone."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:03:07",
+      "origin": "これから一緒に生きていこうと思っていた人がいわゆるモラハラだったんです。やっと見つけた人だったのに",
+      "content": "The person I thought I would build a life with turned out to be, so to speak, emotionally abusive. And to think I had finally found someone..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:03:41",
+      "origin": "仕事もうまく行かない",
+      "content": "Work isn’t going well either."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:04:06",
+      "origin": "ええ。…ずっと、というのは苦しいことですね。",
+      "content": "I understand. ...Feeling this way \"always\" must be very painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:04:26",
+      "origin": "お仕事と、お付き合いのことと、苦しいことが重なってしまったのですね。",
+      "content": "It sounds like difficult things with your work and your relationship have all piled up at once."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:04:59",
+      "origin": "誰からも必要とされていないなら生きてる意味なんてないですよね",
+      "content": "If no one needs me, there’s no point in living, is there?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:06:31",
+      "origin": "しんどい気持ちを、一人で抱えていらっしゃるのですね。そう思うきっかけのお話を、詳しく教えていただけますか。",
+      "content": "You've been carrying these difficult feelings all by yourself. Could you tell me more about what triggered these thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:07:36",
+      "origin": "昨日ヨガに行ったんですけど、先生がキラキラしすぎてまぶしくて。性格もすごく明るくてこんな私でも褒めてくれて。きっとこんな思いしたことないんだろうな。誰からも愛される人ってこうなんだって思って余計に落ち込みました",
+      "content": "I went to a yoga class yesterday, and the instructor was so radiant it was almost blinding. Her personality was so bright, and she even praised someone like me. I’m sure she’s never felt like this. I thought, ‘So this is what it’s like to be someone loved by everyone,’ and it made me feel even more down."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:11:16",
+      "origin": "ヨガの先生を見たときに、そういうお気持ちになったのですね。今日こうしてお話に来てくださったこと、とても勇気を出してくださったのだと思います。さきほど、「ずっと」とありましたが、いつ頃からそのような気持ちだったのですか。",
+      "content": "So seeing the yoga instructor made you feel that way. It must have taken a lot of courage for you to come and talk to me today. You mentioned \"always\" earlier; since when have you been feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:11:47",
+      "origin": "物心ついたときからそうだった気がします",
+      "content": "I feel like it’s been that way for as long as I can remember."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:12:48",
+      "origin": "きっとヨガの先生とか、ああいう人はそんなこと感じたこともないのかな",
+      "content": "I wonder if people like the yoga instructor have ever felt this way."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:13:07",
+      "origin": "自分はああはなれない",
+      "content": "I could never be like that."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:13:19",
+      "origin": "うじうじ悩むし",
+      "content": "I brood and overthink."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:13:49",
+      "origin": "それで余計に人から疎まれる",
+      "content": "And that makes people avoid me even more."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:14:27",
+      "origin": "それでやっと見つけた人がモラハラで",
+      "content": "And then the person I finally found turned out to be emotionally abusive."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:14:28",
+      "origin": "そうなんですね。物心ついたときから、さみしい気持ちを抱えてたのですね。ヨガの先生と比べてしまうのでしょうか。",
+      "content": "I see. You’ve carried feelings of loneliness since early childhood. Do you find yourself comparing yourself with the yoga instructor?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:14:57",
+      "origin": "比べてもどうしようもない",
+      "content": "There's no point in comparing."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:15:11",
+      "origin": "落ち込むだけだから",
+      "content": "It only makes me feel worse."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:15:31",
+      "origin": "生きていた過程が違いすぎる",
+      "content": "Our life experiences are too different."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:16:59",
+      "origin": "いつからこうなってしまったんだろう",
+      "content": "I wonder when I ended up like this."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:18:02",
+      "origin": "まぁそれを悔やんでもしょうがないんですけどね",
+      "content": "Well, there’s no use dwelling on it, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:18:19",
+      "origin": "発言が重なってしまいましたね。すみませんでした。たくさんの、色々なお気持ちを、長い期間抱えていらっしゃったのですね。本当に、大変なことだったのだと思います。",
+      "content": "It seems we spoke at the same time. I'm sorry about that. You've been carrying so many different feelings for a very long time. I can only imagine how difficult that must have been."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:19:16",
+      "origin": "このまま生きていくくらいなら夜眠ったまま目覚めなければいいのに",
+      "content": "If I have to keep living like this, I wish I could just fall asleep at night and not wake up."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:19:25",
+      "origin": "死ぬ勇気はないし",
+      "content": "But I don’t have the courage to die."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:19:33",
+      "origin": "本当に自分が嫌になる",
+      "content": "I really hate myself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:20:31",
+      "origin": "何かあればいいんでしょうけど",
+      "content": "It would be nice if I had something going for me, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:20:35",
+      "origin": "私には何もない",
+      "content": "I have nothing."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:20:43",
+      "origin": "今日、ここにご相談に来ていただけだのは、何とかしたい、というお気持ちの表れなのではないでしょうか。勇気と、行動力に敬意を表します。",
+      "content": "The fact that you came here to talk today shows that you want to do something about your situation, doesn't it? I respect your courage and initiative."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:20:51",
+      "origin": "さきほど、物心ついたときから、とお話しがありましたが、どんなお子さんでしたか？",
+      "content": "You mentioned it started since you can remember. What kind of child were you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:21:23",
+      "origin": "そうなのでしょうか",
+      "content": "Is that so?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:21:37",
+      "origin": "いつも親の顔色をうかがうこどもでしたね",
+      "content": "I was a child who was always reading my parents’ moods."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:22:34",
+      "origin": "気を張って過ごしてらっしゃったのですね。その時、相談できる方はいらっしゃいましたか。",
+      "content": "You must have been on edge all the time. Did you have anyone you could talk to back then?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:23:01",
+      "origin": "よく覚えていませんがいなかったんだと思います",
+      "content": "I don't remember well, but I don’t think I did."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:23:12",
+      "origin": "今も一人ですし",
+      "content": "I'm still alone."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:24:01",
+      "origin": "理解してもらおうとすることがおかしいのでしょうか",
+      "content": "Is it strange to want to be understood?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:24:13",
+      "origin": "私が弱いんでしょうか",
+      "content": "Am I just weak?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:24:56",
+      "origin": "つらい気持ちを抱えてらっしゃったのですね。すごく、我慢強い方なのだと思います。自分を理解してもらいたいと思うのは、誰しも当然のことだと思いますよ。",
+      "content": "You've been holding onto these painful feelings. I think you are a very patient person. Wanting to be understood is a perfectly natural feeling for anyone to have."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:25:44",
+      "origin": "今もです。もう耐えられない",
+      "content": "I still feel that way. I can't bear it anymore."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:26:02",
+      "origin": "やっぱり私はだめなんだと思います",
+      "content": "I guess I really am no good."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:26:26",
+      "origin": "なんで私だけこんなんなんだろう",
+      "content": "Why am I the only one like this?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:26:27",
+      "origin": "つらい気持ちを抱えてるとき、いつもはどのように過ごしてますか。",
+      "content": "When you're feeling this way, how do you usually spend your time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:26:45",
+      "origin": "ヨガに行ったり、瞑想に行ったりしてもだめです",
+      "content": "Even if I go to yoga or practice meditation, it doesn’t help."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:29:16",
+      "origin": "一時的には落ち着くこともありますが",
+      "content": "Sometimes it calms me temporarily, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:29:43",
+      "origin": "またすぐ色んなことで落ち込む",
+      "content": "...but I get depressed again over all sorts of things right away."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:29:53",
+      "origin": "ご自身で、いろいろ試されたのですね。行動力があって、素敵なことだと思います。悩むことがあるというお話もありましたが、どんなことを悩まれますか。差し支えない範囲でいいので、教えてください。",
+      "content": "It sounds like you've tried various things on your own. I think it's wonderful that you're so proactive. You also mentioned that you have worries; what kind of things do you worry about? Please tell me, as long as you're comfortable with it."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:30:16",
+      "origin": "ここまで話したこと全部です",
+      "content": "Everything I’ve talked about so far."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:30:40",
+      "origin": "というか生きていること",
+      "content": "Or rather, just being alive."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:31:04",
+      "origin": "死ねば悩むことなくなりますから",
+      "content": "Because if I die, I won't have to worry anymore."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:31:38",
+      "origin": "ほんとだめですね",
+      "content": "I'm really hopeless, aren't I?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:32:56",
+      "origin": "ええ。生きていることを悩んでいらっしゃるのですね。そのような大変な中、あなたは、苦しみ、悩みながらも、こうして勇気を出して相談に来てくださいました。今、お仕事されている、とも教えてくださいましたが、生活はどのようにされてますか。",
+      "content": "Yes. You're worrying about being alive itself. In the midst of such hardship, you've mustered the courage to come here for consultation despite your suffering. You mentioned work earlier; how is your daily life going?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:33:07",
+      "origin": "今は休職中です",
+      "content": "I’m currently on leave from work."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:33:31",
+      "origin": "上司がかなりきつい人で体調を崩しました",
+      "content": "My supervisor is quite harsh, and my health broke down."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:34:12",
+      "origin": "周りの皆は休んでいないのに私だけです",
+      "content": "Everyone else around me isn't on leave; it's just me."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:34:21",
+      "origin": "私がおかしいんですかね",
+      "content": "Is there something wrong with me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:35:17",
+      "origin": "休職中なのですね。きつい上司だと、仕事も嫌な気持ちになりますよね。体調を崩されたということですが、今はご自宅ですか。",
+      "content": "So you’re on leave. Having a harsh supervisor can make work feel awful. You mentioned your health suffered—are you at home now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:35:24",
+      "origin": "そうです",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:35:33",
+      "origin": "他に行くところもないですし",
+      "content": "I don’t have anywhere else to go."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:38:04",
+      "origin": "その上司が近くにいると動悸がしました",
+      "content": "Just being near that boss gave me heart palpitations."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:38:25",
+      "origin": "自分に言われていなくても叱責が聞こえるだけでつらくて",
+      "content": "Even if it wasn't directed at me, just hearing them scold someone was painful."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:38:30",
+      "origin": "仕事どころではなくなりました",
+      "content": "I couldn’t focus on work at all."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:38:43",
+      "origin": "もう復帰は難しいと思います",
+      "content": "I think it will be difficult for me to go back."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:38:47",
+      "origin": "今、暖かいところにいらっしゃって、安心しました。",
+      "content": "I'm relieved to know you are in a safe place now."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:39:24",
+      "origin": "部署を変えてもらうかもしれませんが",
+      "content": "I might be able to get a department transfer..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:39:38",
+      "origin": "今はそのことも考えたくない",
+      "content": "I don’t even want to think about that right now."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:40:06",
+      "origin": "考えたくないのに頭に浮かんでくる",
+      "content": "I don’t want to think about it, but it keeps popping into my head."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:40:16",
+      "origin": "上司がいると動機があったのですね。距離を置くのは、ありな選択だったと思います。復帰も念頭にありつつ、今はご自身を癒す時間にしてください。",
+      "content": "Being around your boss caused palpitations. I think taking some distance was a valid choice. While keeping your return to work in mind, please use this time to heal yourself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:40:48",
+      "origin": "考えすぎて癒えるどころではありませんが",
+      "content": "I'm overthinking so much that I'm far from healing."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:41:22",
+      "origin": "癒やすというのも自分と向き合うことから逃げているような気がして",
+      "content": "I also feel that \"healing\" is just running away from facing myself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:41:41",
+      "origin": "自分が年齢の割に幼く感じるのはそういうところもあるような気がしています",
+      "content": "I feel like that might be part of the reason I feel immature for my age."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:42:32",
+      "origin": "気になって、あれこれ考えてしまうのですね。すごく、まじめで、きちんと向き合う方なのだと思います。",
+      "content": "Things weigh on you and you end up thinking about them a lot. I see you as very earnest and someone who tries to face things properly."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:43:04",
+      "origin": "こんなにじめじめ向き合いたくはなかったんですけどね",
+      "content": "I didn’t want to face things in such a gloomy way, though."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:43:15",
+      "origin": "なんかいつもこうなってしまう",
+      "content": "Somehow it always ends up like this."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:44:04",
+      "origin": "できれば目を逸らしたい、と思っていても、向き合っているのはとても勇気のあることだと思います。",
+      "content": "Even though you’d rather look away if you could, the fact that you are facing it is very courageous."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:44:38",
+      "origin": "それで落ち込んで何がしたいんだかって感じですね",
+      "content": "And then I get depressed and wonder what it is I’m even trying to do."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:44:48",
+      "origin": "向き合ってもつらいだけだし",
+      "content": "Even if I face it, it just hurts."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:44:58",
+      "origin": "結局孤独なんだろうとも思う",
+      "content": "In the end, I think I'm just lonely."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:45:17",
+      "origin": "何がしたいのかよくわからなくなりました",
+      "content": "I’ve lost track of what I even want to do."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:48:32",
+      "origin": "自分と向き合うってなんなんですかね",
+      "content": "What does it even mean to ‘face myself’?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:48:43",
+      "origin": "向き合って抜け出したいお気持ちなのですね。ヨガなど、身体を動かすことがお好きなようですが、ランニングなど、他のスポーツはいかがですか。",
+      "content": "You want to face it and break free. You seem to like physical activities like yoga; how about other sports like running?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:49:09",
+      "origin": "向き合って抜け出せるのか",
+      "content": "Can I really face it and get out of it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:49:20",
+      "origin": "逃げられるものなのか",
+      "content": "Is it something I can even escape from?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:50:22",
+      "origin": "追いかけられているお気持ちもおありなのですね。なにから逃げたいのでしょうか。",
+      "content": "So you also feel like you're being chased. What is it you want to escape from?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:50:22",
+      "origin": "気分転換にやっているだけです",
+      "content": "I’m only doing it for a change of pace."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:50:32",
+      "origin": "嫌な自分",
+      "content": "My hateful self."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:50:53",
+      "origin": "自分を見れば見るほど嫌になるしうんざりする",
+      "content": "The more I look at myself, the more I hate and get fed up with myself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:51:23",
+      "origin": "仕事のこととかあるから目を背けるわけにはいきませんよね",
+      "content": "But with things like work, I can't just look away, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:52:10",
+      "origin": "どっちにしてもつらい",
+      "content": "Either way, it’s painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:53:39",
+      "origin": "気分転換は、とても素敵なことですね。嫌で、うんざりした気持ち、重たいですね。仕事のこととご自身のこと、扱いやすい方から少しづつ対処する、というのはどうでしょうか。",
+      "content": "Taking your mind off things is a very good approach. Those feelings of dislike and being fed up are heavy. How would it be to address things little by little, starting with whichever—work or yourself—feels more manageable?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:53:54",
+      "origin": "どっちも扱いにくいです",
+      "content": "Both are hard to handle."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:54:03",
+      "origin": "結局自分のことなので",
+      "content": "Because in the end, it’s all about me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T10:55:48",
+      "origin": "同じくらいなんですね。それでも、仕事から目を背けない方がいい、と思えるのは、責任感が強い方なのかなと思います。",
+      "content": "So they are about the same. Still, the fact that you feel you shouldn't look away from work makes me think you are a very responsible person."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:55:56",
+      "origin": "対処するってどうしたらいいのかわかってたら苦労はしません",
+      "content": "If I knew how to deal with it, I wouldn’t be struggling."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T10:56:19",
+      "origin": "みんな当たり前にやってることが私にはできないんです",
+      "content": "I can’t do the things that everyone else does so naturally."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T11:01:07",
+      "origin": "そんな風にお考えなんですね。やるせないですね。例えば、お仕事のことで、部署移動、とありましたが、会社に働きかけることは、どうでしょうか。動ける方がご自身だけということで、苦しい思いもあるかと思いますが、いかがですか。",
+      "content": "That's how you feel. It must be frustrating. For example, regarding your work, you mentioned a department transfer. How about approaching the company about it? I imagine it's difficult being the only one who can take action, but what do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:01:20",
+      "origin": "それはしてます",
+      "content": "I’m already doing that."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:01:33",
+      "origin": "そのことじゃないです",
+      "content": "That’s not what I'm talking about."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:02:02",
+      "origin": "仕事はあくまで一つの事象であって",
+      "content": "Work is just one aspect of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T11:02:47",
+      "origin": "すでにされたんですね。では、ご自身の、気持ちの持ち方、というところでしょうか。",
+      "content": "You've already done that. Then, perhaps it's about how you handle your feelings."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:02:56",
+      "origin": "そうです",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:03:16",
+      "origin": "そこが根本だと思うので",
+      "content": "Because I think that's the root of the problem."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:07:24",
+      "origin": "向き合ってもつらいだけなのかな　意味ないのかな",
+      "content": "Maybe if I face it, it will only hurt. Maybe it’s pointless."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T11:07:33",
+      "origin": "ご自身との付き合い方を模索されてるのですね。",
+      "content": "You're trying to figure out how to live with yourself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:08:08",
+      "origin": "付き合いたくもない気持ちもあります",
+      "content": "There's a part of me that doesn't even want to deal with myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T11:09:41",
+      "origin": "どちらもあるんですね。率直なところをお話しくださって、ありがとうございます。大変申し訳ございませんが、ここまでお話しいただきましたが、お時間となってしまいました。途中で申し訳ございませんが、相談を終了させていただきます。ご自身の向き合い続けてきた勇気、粘り強さに敬意を表します。",
+      "content": "So you feel both ways. Thank you for sharing your honest feelings. I'm very sorry, but we have run out of time for today. I apologize for having to end in the middle of our discussion, but we will have to stop here. I truly respect the courage and perseverance you've shown in continuing to face yourself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:10:01",
+      "origin": "はい、わかりました",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T11:10:20",
+      "origin": "（お疲れ様でした、ありがとうございました）",
+      "content": "(Thank you for your time. I appreciate it.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T11:10:51",
+      "origin": "悩みながら前を向こうとしているあなたを応援しています。ありがとうございました。",
+      "content": "I am here to support you as you try to look forward while still struggling. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T11:11:04",
+      "origin": "（お時間超過してすみませんでした。ありがとうございました。）",
+      "content": "(I apologize for going over time. Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "孤独感と自己評価の低下"
+  },
+  "review_by_client": {
+    "evaluation_id": 6400,
+    "evaluation_created_at": "2024-02-09T11:36:00",
+    "client_id": 48,
+    "counselor_id": 478,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

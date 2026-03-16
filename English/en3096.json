@@ -1,0 +1,423 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-02-07T20:52:30",
+      "origin": "こんばんわ。",
+      "content": "Good evening."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T20:53:20",
+      "origin": "相談員は初めてなのですが、これで見えているでしょうか？",
+      "content": "This is my first time using a counseling service. Can you see my messages?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T20:57:28",
+      "origin": "大丈夫です！見れてます。ただちょっとなんかクライアントが二人いるっていうバグに当たってます。ちょっと待ってくださいね。",
+      "content": "Yes, I can see your messages. However, I've run into a bug where it looks like there are two clients. Please wait a moment."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:00:10",
+      "origin": "見れてますか？",
+      "content": "Can you see my messages?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:00:30",
+      "origin": "はい。見れています。",
+      "content": "Yes, I can see them."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:01:52",
+      "origin": "もう一人いる状態なってて、ちょっとよくわからないですが、おそらく今日の相手はククナさんが正しいと思うのでこのまま初めます。",
+      "content": "It still shows another person is here, and I'm not quite sure why, but I believe I'm speaking with Kukuna-san, so I'll proceed."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:02:04",
+      "origin": "はい。",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:02:58",
+      "origin": "本日は相談に来ていただきありがとうございます。最初に性別と年齢を教えてください。",
+      "content": "Thank you for coming in today. To start, could you please tell me your gender and age?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:03:21",
+      "origin": "はい。中学1年生,",
+      "content": "Yes. I’m in the first year of junior high school,"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:03:51",
+      "origin": "男子です。",
+      "content": "and I'm a boy."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:03:59",
+      "origin": "よろしくお願いいたします。",
+      "content": "I look forward to speaking with you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:04:44",
+      "origin": "お答えいただきありがとうございます。こちらこそよろしくお願いします。では、どういった相談でしょうか？",
+      "content": "Thank you for sharing that. I look forward to working with you as well. So, what would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:04:59",
+      "origin": "学校にいきたくないです。",
+      "content": "I don’t want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:06:06",
+      "origin": "そうなのですね。そう思ってしまうほど悩まれてるのですね。なぜそのように思うようになったのかお話できますか？",
+      "content": "I see. You must be really struggling to feel that way. Could you tell me what led you to feel this way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:06:47",
+      "origin": "いじめとは違うのですが、自分に暴力をふるってくる奴がいて、それが嫌なんです。",
+      "content": "It’s not exactly bullying, but there’s a guy who gets violent with me, and I really hate it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:08:14",
+      "origin": "そうだったんですね。それは怖いですね。おっしゃる通り学校に行くのも嫌になってしまいますね。",
+      "content": "I see. That must be scary. I can certainly understand why you wouldn't want to go to school."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:08:26",
+      "origin": "はい。嫌です。",
+      "content": "Yes, I hate it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:09:40",
+      "origin": "その子はなぜ暴力を振ってくるようになったのかは分かりますか？",
+      "content": "Do you know why he started being violent towards you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:11:17",
+      "origin": "あいつとは小学校から一緒で、もともと乱暴者なんです。我がままだし。で、学校の休み時間にやっている遊びがあって、そのグループに入りたがっていたのですが、嫌われ者なので、みんな入れたくないんです。",
+      "content": "We’ve been in the same schools since elementary school, and he’s always been rough and selfish. We have a game we play during recess, and he wanted to join the group, but he’s disliked, so no one wants to let him in."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:12:03",
+      "origin": "僕は、クラスの中心にいて、遊びのグループでもリーダー的に遊んでいたので、それが気に入らないんです。",
+      "content": "I'm kind of at the center of the class and act like a leader in our game group, so he doesn't like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:13:48",
+      "origin": "小学校から一緒の子だったんですね。なるほど、そのような状況なのですね。教えていただきありがとうございます。では、あなたには仲間はたくさんいるのかなって少し安心したのですが、暴力を振われているのあなた一人だけなのでしょうか？",
+      "content": "So you’ve known him since elementary school. I see—that helps me understand the situation. Thank you for telling me. It’s a bit reassuring that you seem to have many friends. Are you the only one he’s being violent toward?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:15:25",
+      "origin": "そうです。僕だけです。下校途中に突然後ろから飛び蹴りされたりします。怪我するかと思いました。その都度、周りのみんなは助けてくれるのですが、彼はやめません。",
+      "content": "Yes, it's just me. On the way home from school, he'll suddenly give me a flying kick from behind. I thought I was going to get hurt. My friends help me each time, but he doesn't stop."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:17:11",
+      "origin": "とび蹴りですか、、それは確かに怖いですね。助けてくれる仲間がいる状況でもそのように攻撃される事を繰り返されると学校に行きたくなくなりますよね。",
+      "content": "A flying kick... that is certainly frightening. Even with friends there to help, having that happen repeatedly would make anyone not want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:17:54",
+      "origin": "中学に入学してからのクラスでそのような状況になったのでしょうか？",
+      "content": "Did this start in your current class, after you entered junior high?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:18:24",
+      "origin": "そうです。小学校の高学年ではクラスは別でした。",
+      "content": "Yes. In the upper grades of elementary school, we were in different classes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:20:20",
+      "origin": "そうなのですね。同じクラスになって。リーダー的存在のあなたが気に食わなくて、攻撃を仕掛けてくるようになってしまったのですね。その子はあなたに嫉妬みたいな感じになっているのかな？と思ったのですがいかがでしょうか？",
+      "content": "I see. So now that you’re in the same class, he's started to attack you because he can't stand your leadership role. I wonder if he might be feeling something like jealousy toward you. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:21:15",
+      "origin": "そうだと思います。彼は一人っ子だし、うちは商売しているので親からはほったらかしだし、寂しんだと思います。それは知ってます。",
+      "content": "I think so. He’s an only child, and his family runs a business, so his parents don’t pay him much attention. I think he’s lonely—I know that."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:21:45",
+      "origin": "でも、わがままなんで、みんな嫌いなんです。",
+      "content": "But he’s so selfish that everyone dislikes him."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:23:40",
+      "origin": "家庭状況も知ってるんですね。そっか。その子はみんなから嫌われてしまっているんですね。では、暴力を振われてしまっている事を家族や先生に相談はしましたか？",
+      "content": "You even know about his family situation. I see—so he’s disliked by everyone. Have you talked with your family or teachers about the violence you’re experiencing?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:24:14",
+      "origin": "まだ言ってません",
+      "content": "I haven't told them yet."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:25:33",
+      "origin": "暴力は取り返しのつかないことに発展してしまう可能性もあるので先生に言ってみるのは一つの案だと思いますが、いかがでしょうか？まだ言ってないってことは言いにくいとか感じているのでしょうか？",
+      "content": "Violence can escalate into something irreversible, so telling a teacher is one possible option. How would you feel about that? Does the fact that you haven’t told anyone yet mean it feels difficult to bring up?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:26:45",
+      "origin": "この前は、帰りに待ち伏せされて、にじり寄ってきて、「俺はお前をイジメることを生きがいにする」って言われたんです。",
+      "content": "The other day, he ambushed me on my way home, got right up close to me and said, \"I'm going to make bullying you my reason for living.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:27:06",
+      "origin": "怖いんです。もう普通の人間の考えることじゃないと思っちゃって。",
+      "content": "I’m scared. I feel like that’s not something a normal person would say or think."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:27:29",
+      "origin": "先生に相談したら、もっとひどくなるような気がして。",
+      "content": "I’m afraid that if I talk to a teacher, it will get even worse."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:28:19",
+      "origin": "それはとっても怖いですね・・そう思ってしまいますよね、お気持ちお察しします。",
+      "content": "That is incredibly scary. It's completely understandable that you'd feel that way. I can imagine how you must feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:28:38",
+      "origin": "それで今回こちらに相談に来てくれたのですね、ありがとうございます。",
+      "content": "And that's why you came to talk with us today. Thank you for reaching out."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:28:52",
+      "origin": "どうしたらいいでしょうか。",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:30:37",
+      "origin": "では一緒に考えていきましょう。今どのようになる事を望んでいますか？例えばその子にいなくなって欲しいとか、一緒に遊ぶ仲になれたらとか",
+      "content": "Let's think about this together. What outcome are you hoping for right now? For example, do you wish he would disappear, or perhaps that you could become friends and play together?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:30:57",
+      "origin": "一緒に遊ぶなんてありえません。消えて欲しいです。",
+      "content": "Playing together is out of the question. I just wish he would disappear."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:32:49",
+      "origin": "消えて欲しいと思うほどに嫌な思いをされているということですよね。ではその状況を知っているのは友達だけということだと思いますが、友達は助言をくれたりしてないですか？",
+      "content": "It sounds like you've been put through so much that you wish he would just disappear. So, I understand that only your friends know about this situation. Have they given you any advice?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:34:02",
+      "origin": "たぶん僕が思っているほど、深刻にとらえてないと思います。",
+      "content": "I don’t think they see it as seriously as I do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:34:41",
+      "origin": "なるほど、友達とも深くお話したことはないのですね。先ほど先生に相談という話が出ましたが、家族に話してみると言ったらどのように思いますか？",
+      "content": "I see—so you haven’t had a deep conversation with your friends about it either. We mentioned talking to a teacher earlier; how would you feel about talking with your family?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:35:49",
+      "origin": "そうですぇ。親に話すしかないかな・・。でも、それで先生に話が言って・・。",
+      "content": "Yeah... I guess I have to tell my parents… but then they'll tell the teachers…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:38:29",
+      "origin": "やはり、誰かに話すことは大事なことです。今回このSNS相談に来てくれたのも勇気が必要だったと思います。まずは家族に話すことが大事かなと思いました。そこからあらたな解決策が見えてくるかもしれませんし、いかがでしょうか？",
+      "content": "Talking to someone is very important. It took courage to come to this online counseling session today, too. I think talking to your family first is an important step. New solutions may become clearer from there. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:39:27",
+      "origin": "はい。わかりました。先ずは親に相談します。なんか情けないけど・・・。",
+      "content": "Okay, I understand. I’ll talk to my parents first. It feels kind of pathetic, though…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:41:49",
+      "origin": "情けないって思う気持ちもわかります。親に迷惑もかけたくないって気持ちもありますよね。その暴力を振るう友達と冷静にお話しすることは難しそうですもんね。。",
+      "content": "I understand why you'd feel it's pathetic. You probably don’t want to worry your parents, either. And it sounds like having a calm conversation with the friend who’s being violent would be difficult."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:43:25",
+      "origin": "はい、あいつとはもう関わりたくないです。同じ人間とは思えません。でも、勉強にも部活にも支障が出始めてるし、このまま続くてほんとに参ってしまいそうなので、親に相談することにします。",
+      "content": "Yes, I don't want to have anything to do with him anymore. I can't even think of him as a human being. But it's starting to affect my studies and club activities, and if this continues, I think I'll really break down, so I've decided to talk to my parents."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:43:46",
+      "origin": "相談にのってもらってよかったです、ありがとうございました。",
+      "content": "I’m glad I was able to talk with you. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:45:15",
+      "origin": "そう言ってもらえて良かったです。勇気のいる行動だと思いますが、さっきも言いましたがこの相談にくるのも勇気のいることです。あなたなら大丈夫だと思います！あと、学校には心の相談室的なものも用意されているはずです、そのようなものを利用するのも手なのかなって思ったのですがどうでしょうか？",
+      "content": "I’m glad to hear that. It takes courage to do what you've decided, but as I said earlier, coming here today took courage too. I believe you’ll be okay! Also, your school should have something like a counseling room—using that might be another option. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:46:52",
+      "origin": "そうですね。わかりました。",
+      "content": "Right. I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:48:03",
+      "origin": "まだ中学は２年、３年とありますので、楽しく学び生活できるように応援しております。",
+      "content": "You still have your second and third years of junior high ahead of you, so I'm rooting for you to have an enjoyable school life."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:48:17",
+      "origin": "そろそろお時間になりますが今日は相談してみていかがでしたか？",
+      "content": "We’re nearly out of time. How was it for you to talk today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:48:58",
+      "origin": "はい、少しすっきりしました。とにかく行動しないと何も解決しないので、ちょっとやってみます。",
+      "content": "Yes, I feel a bit relieved. Nothing will be solved unless I take action, so I’ll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:51:00",
+      "origin": "そう言ってもらえて良かったです。周りに仲間も多いみたいなのであなたなら乗り越えられると信じています。このSNS相談はいつでも受けれますので、また何かあればいつでも相談に来てくださいね。進捗を伝えるだけでも是非。",
+      "content": "I’m glad to hear that. It sounds like you have many friends around you, so I believe you can get through this. You can use this online counseling anytime, so please come back whenever you need to—even just to share an update."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:51:19",
+      "origin": "はい。今日はありがとうございました。",
+      "content": "Yes. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:51:38",
+      "origin": "こちらこそありがとうございました。では相談を終わります。",
+      "content": "Thank you as well. We’ll end the session here."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:51:50",
+      "origin": "（ありがとうございました。お疲れ様です😊）",
+      "content": "(Thank you. Great work 😊)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:52:43",
+      "origin": "（こちらこそ、ありがとうございました。お疲れさまでした！ナイスなカウンセリングでした。）",
+      "content": "(Likewise, thank you very much. Good work! That was a great counseling session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:53:24",
+      "origin": "そう言ってもらえて嬉しいです！でもやっぱり難しいですね。笑変な緊張感もあって・・",
+      "content": "I’m happy to hear that! But it’s still difficult, after all. Haha, there was a strange sense of nervousness…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:54:29",
+      "origin": "ククナさんも応援してますので頑張ってください！またお時間あれば振り返りお願いします。では、終了入れますね😌",
+      "content": "I’m cheering for you too, Kukuna-san—keep up the great work! If you have time later, I’d appreciate your feedback. I’ll go ahead and end the session now. 😌"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:54:53",
+      "origin": "ありがとうございます。こっちも、中学生を演じてるので、つじつまが会わなくならないようにと緊張してました。では、後ほど、評価を書かせていただきますね。",
+      "content": "Thank you. I was also nervous, trying to play a junior high student and keep my story straight. I'll write my evaluation for you later."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-07T21:55:03",
+      "origin": "ありがとうございました！",
+      "content": "Thank you very much!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:55:16",
+      "origin": "演じるのもまた難しいですよね😅",
+      "content": "Playing a role is difficult too, isn't it? 😅"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-07T21:55:20",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "同級生からの暴力問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3096,
+    "evaluation_created_at": "2022-02-07T22:15:00",
+    "client_id": 268,
+    "counselor_id": 252,
+    "score": 81,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

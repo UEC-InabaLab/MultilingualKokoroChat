@@ -1,0 +1,585 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-25T11:50:48",
+      "origin": "(こんにちは今日は宜しくお願いいたします)",
+      "content": "(Hello, I look forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T11:51:09",
+      "origin": "(こんにちは。こちらこそよろしくお願いします)",
+      "content": "(Hello. I'm looking forward to our session as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T11:51:55",
+      "origin": "(時間前ですが、このままはじめても大丈夫でしょうか？)",
+      "content": "(We're a little early, but is it alright if we start now?)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T11:52:10",
+      "origin": "(はい。大丈夫です。よろしくお願いします。)",
+      "content": "(Yes, that's fine. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T11:52:26",
+      "origin": "(ありがとうございます。では宜しくお願いします)",
+      "content": "(Thank you. Then let's begin.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T11:52:46",
+      "origin": "(お願いします)",
+      "content": "(Yes, please.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T11:53:38",
+      "origin": "こんにちは。相談員です本日はご相談に来ていただきありがとうございますまずはじめに、性別、年齢、ご相談内容をお聞かせいただけますか？",
+      "content": "Hello. I'm the counselor. Thank you for coming in for a consultation today. First, could you please tell me your gender, age, and what you'd like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T11:54:53",
+      "origin": "14歳女子、夏休み明け学校に行きたくないです",
+      "content": "I’m a 14-year-old girl, and I don’t want to go back to school after summer break."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T11:55:56",
+      "origin": "そうなんですね、休み明け学校に行きたくないのですね、それは悩みますよね",
+      "content": "I see, you don't want to go to school after the break. That must be weighing on you."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T11:56:21",
+      "origin": "はい。もうすぐ夏休みが終わってしまうんです…",
+      "content": "Yes. Summer break is almost over..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T11:57:26",
+      "origin": "そうですよね、学校に行きたくないというはどういったからそう思われてますか？",
+      "content": "I see. What is it that's making you feel like you don't want to go to school?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T11:58:05",
+      "origin": "どういったから→どういった事からすみません",
+      "content": "Excuse me, I meant to ask what kinds of things are making you feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T11:58:56",
+      "origin": "友だち関係かな",
+      "content": "Probably my relationships with friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:00:06",
+      "origin": "なるほど、友達関係で学校に行きたくないと感じていらっしゃるのですねそれはつらいですよね",
+      "content": "I see, so you're feeling like you don't want to go to school because of issues with your friends. That must be painful."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:00:24",
+      "origin": "はい。つらいです。",
+      "content": "Yes, it is painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:00:53",
+      "origin": "友達とのどんな事につらいと思われていますか？",
+      "content": "What is it about your friendships that you find painful?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:01:38",
+      "origin": "クラスが嫌だなと思ってます",
+      "content": "I feel like I don't like my class."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:02:54",
+      "origin": "ああ、なるほどクラスが嫌なんですねそれはしんどいですよね",
+      "content": "Oh, I see. You dislike your class. That must be tough."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:03:18",
+      "origin": "はい……",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:03:18",
+      "origin": "クラスが嫌だなと感じるのは、どういったときでしょうか？",
+      "content": "When are the times you feel you dislike your class?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:03:46",
+      "origin": "まず教室に入る時、休み時間です",
+      "content": "First, when I enter the classroom, and during break times."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:05:04",
+      "origin": "なるほど、そうだったんですね教室に入る時はどういう事を感じて嫌だとおもわれますか？",
+      "content": "I see, so that's how it is. What do you feel when you enter the classroom that makes you dislike it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:06:02",
+      "origin": "みんなの目線だったり、クスクスされたりたりします",
+      "content": "I feel everyone's eyes on me, and they snicker."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:06:16",
+      "origin": "されたりします。",
+      "content": "They do things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:07:02",
+      "origin": "なるほど、それは嫌な気持ちになりますよね",
+      "content": "I see, that must be an awful feeling."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:07:15",
+      "origin": "はい。とても入りづらいです",
+      "content": "Yes. It's very hard to walk in."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:08:18",
+      "origin": "ええ、そうですよね、教室に入りづらいお気持ちよくわかります",
+      "content": "Yes, I can imagine. I understand how difficult it must be to enter the classroom."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:08:34",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:09:05",
+      "origin": "教室に入りづらいなと思いはじめたのは、いつ頃からでしょうか？",
+      "content": "About when did you start feeling that it was difficult to enter the classroom?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:09:46",
+      "origin": "今年の春、クラスが変わってしばらくしてからです",
+      "content": "It started this spring, a little while after my class changed."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:11:00",
+      "origin": "そうだったんですね、クラスが変わってそう感じるようになったんですね14才というと、学年は何年生ですか？",
+      "content": "I see, so you started feeling this way after your class changed. At 14, what grade are you in?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:11:20",
+      "origin": "中学2年生でふ",
+      "content": "I'm in my second year of junior high."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:11:27",
+      "origin": "です。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:12:20",
+      "origin": "中2になってからのクラスで、話がしやすい友達はいらっしゃいますか？",
+      "content": "In your second-year class, is there anyone you find easy to talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:12:49",
+      "origin": "仲良い友だちともクラスが離れてしまって、今はいません。",
+      "content": "My close friends ended up in different classes, so right now, no."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:13:50",
+      "origin": "そうでしたか、仲の良い友達と離れたのは寂しかったですね",
+      "content": "I see. It must have been lonely to be separated from your good friends."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:13:58",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:14:04",
+      "origin": "寂しいです",
+      "content": "I feel lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:15:28",
+      "origin": "部活や他のクラスの友達など、今あなたが悩んでおられることを、誰かに相談はされていますか？",
+      "content": "Have you been able to talk with anyone—like club members or friends in other classes—about what you’re struggling with now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:16:07",
+      "origin": "仲の良い友達は部活が一緒なので話はしてます…",
+      "content": "My good friends are in the same club, so I've talked to them..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:17:23",
+      "origin": "そうですか、それは心強いですねお友達は相談したら、どんなふうに言ってくれています？？",
+      "content": "I see, that's reassuring. What do your friends say when you talk to them about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:17:54",
+      "origin": "無視しとけばいいよ！って言ってくれます。でもクラスで無視されてるのは私なんですよね…",
+      "content": "They tell me, \"Just ignore them!\" But I'm the one being ignored in class..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:19:33",
+      "origin": "なるほど、お友達のアドバイスもわかりますとは言っても、無視していても、クスクス笑われたりはつらいですよね",
+      "content": "I see. I can understand your friends' advice, but even if you try to ignore it, being snickered at is still painful, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:19:58",
+      "origin": "本当にそうです。クラスにいる時間が苦痛です。",
+      "content": "It really is. The time I spend in class is agonizing."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:21:34",
+      "origin": "そうですね、しんどいですよねクラスメイトの無視してくる人、というのは特定の人ですか？数人グループでとか？",
+      "content": "Yes, that must be so hard. The classmates who are ignoring you, is it one specific person? Or a group of a few people?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:22:18",
+      "origin": "特定の人がみんなに無視するように言ってる感じで、みんなに無視されてます。",
+      "content": "It feels like one specific person is telling everyone to ignore me, so everyone is ignoring me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:23:43",
+      "origin": "そうだったんですね、ではその特定の人が怖くて従っているだけの人もいるかもしれないとも思ったのですが、そのあたりはどう感じておられますか？",
+      "content": "I see. I was thinking that maybe some people are just following along because they're scared of that specific person. How do you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:24:05",
+      "origin": "たぶんそうだと思います。誰も逆らえないような。",
+      "content": "I think that's probably it. It's like no one can go against them."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:24:37",
+      "origin": "なるほど、誰もその人に逆らえないというくらい、その人は影響力があるんですね",
+      "content": "I see. So that person is so influential that nobody can defy them."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:25:13",
+      "origin": "あります…",
+      "content": "They are..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:25:46",
+      "origin": "その人にクスクス笑われたりし始めた、何かきっかけは思い当たることはありますでしょうか？",
+      "content": "Can you think of any reason or event that might have triggered them to start snickering at you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:26:11",
+      "origin": "特にないです。逆らった事もないです。",
+      "content": "Nothing in particular. I’ve never gone against them."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:27:00",
+      "origin": "そうだったんですね、何もないのにそんな対応されると理不尽だし、腹が立ちますよね",
+      "content": "I see. Being treated that way for no reason feels unfair and infuriating."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:27:41",
+      "origin": "そうなんです。いつの間にかって感じで……",
+      "content": "Exactly. It felt like it just happened before I knew it…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:28:05",
+      "origin": "その人とは、今までで何か繋がりというか、関わりはありませんでしたか？習い事が一緒だったとか、、、",
+      "content": "Have you had any connection or interaction with that person before? Like being in the same extracurricular class, for example?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:28:54",
+      "origin": "特にないです。小学校も違うし、今年はじめて一緒のクラスになりました。",
+      "content": "Not really. We went to different elementary schools, and this year is the first time we’ve been in the same class."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:29:57",
+      "origin": "そうだったんですね、それなら何の繋がりもなかったのに、どうして？と不思議に感じますよね",
+      "content": "I see. With no prior connection, it makes sense you’d wonder, “Why?”"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:30:28",
+      "origin": "そうなんです。どうして何だろうと…",
+      "content": "Yes. I keep thinking, “Why is this happening…?”"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:32:22",
+      "origin": "理由があっても、無くても、思春期の心が敏感な時代は、何らかの理由で相手をうらましく感じたり、一方的に責めたりといったこともあるかもしれません",
+      "content": "Whether there’s a reason or not, during adolescence—when hearts are especially sensitive—people may, for various reasons, feel envious of others or blame them one-sidedly."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:32:51",
+      "origin": "そうなんですね！",
+      "content": "Oh, I see!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:34:37",
+      "origin": "中学生は特に、身体の成長と心の成長が大きい時代ですので、いろんな葛藤を抱えやすい時期ですねこのことは、学校の先生や親御さんなど、大人の方には、相談していますか？",
+      "content": "Middle schoolers in particular are going through big physical and emotional changes, so it’s a time when people often carry a lot of inner conflict. Have you spoken with any adults—like a teacher or your parents—about this?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:35:21",
+      "origin": "大人の人には相談できてません。先生に言っても、変わらないと思いますし、親にも言えないです。",
+      "content": "I haven’t been able to talk to any adults. I don’t think telling a teacher would change anything, and I can’t tell my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:35:52",
+      "origin": "そうなんですね、親御さんに言えないというのはどういったことからですか？",
+      "content": "I see. What makes it hard to tell your parents?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:36:07",
+      "origin": "心配かけたくないし…",
+      "content": "I don't want to make them worry..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:36:57",
+      "origin": "なるほど、心配する親御さんの姿をみるのも嫌ですよね",
+      "content": "I see. You don't want to see your parents looking worried, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:37:15",
+      "origin": "はい……",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:37:52",
+      "origin": "休み時間もしんどいとはじめにおっしゃっていましたが、1学期はどんな風にしてすごしていたのですか？",
+      "content": "You mentioned earlier that break times are also difficult. How did you spend them during the first semester?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:38:17",
+      "origin": "本を読んだりしてました。",
+      "content": "I spent time reading books and such."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:39:23",
+      "origin": "なるほど、それは良い方法ですね本を読むのは好きですか？",
+      "content": "I see, that's a good way to spend the time. Do you like reading?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:39:33",
+      "origin": "本は好きです。",
+      "content": "I do like books."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:40:19",
+      "origin": "そうだったんですね好きなことをして過ごすと、時間も短く感じますよね",
+      "content": "I see. When you spend time doing something you like, time seems to pass more quickly, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:40:55",
+      "origin": "はい。とても短く感じます！",
+      "content": "Yes, it feels much shorter!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:42:51",
+      "origin": "クラスに入りづらかったり、無視されていると感じたり、とてもしんどい状況でも自分の好きなことをして、過ごす事を自分にみつけて選んでおられて、すばらしいとおもいます",
+      "content": "Even in a very difficult situation—finding it hard to enter class and feeling ignored—you’ve found and chosen ways to spend time doing what you like. I think that’s wonderful."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:43:12",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:44:58",
+      "origin": "そして、あなたがそのクラスメイトに対して何もしていないのに、嫌な思いをさせられているのは、もしかしたら周りの人も、自分でやっていることに疑問を感じている人もいるかもしれません",
+      "content": "And even though you've done nothing to that classmate, you're being made to feel awful. It's possible that some of the other people around you are also questioning what they're doing."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:45:32",
+      "origin": "そうかもしれないですね、そう思いたいな…と思います",
+      "content": "That might be true. I'd like to think so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:47:21",
+      "origin": "そうですね先生に相談しても変わらないとおっしゃっていましたが、",
+      "content": "Right. You mentioned that even if you talk to the teacher, nothing would change, but—"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:48:07",
+      "origin": "はい。エスカレートするような気がします。先生にはその子、良い子に思われているので。",
+      "content": "Yes. I feel like it might escalate. The teachers think that person is a good kid."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:49:09",
+      "origin": "そうだったんですね、先生の前では良い子でいるのですねそれはあなたから見ると腹がたちますね",
+      "content": "I see—so they act like a good kid in front of the teacher. From your perspective, that’s infuriating."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:49:32",
+      "origin": "立ちます",
+      "content": "It is."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:50:39",
+      "origin": "先生がそのクラスメイトのあなたへの態度を知らないのなら、あなたのしんどさも先生は全く気がついていないということでしょうか？",
+      "content": "If the teacher doesn't know about that classmate's attitude toward you, does that mean the teacher is completely unaware of how much you're suffering?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:51:01",
+      "origin": "そうですね、気づいていません。",
+      "content": "Yes, they're not aware."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:52:40",
+      "origin": "先生にとっては、あなたも大切なクラスの生徒の1人ですもし気が変わって、先生にも話してみようかと思ったら、相談してみるのも選択肢にいれてみてください。こういったことは、大人の判断も必要なときもありますので。",
+      "content": "To your teacher, you are also one of their important students. If you change your mind and feel like you want to talk to them, please keep that as an option. Sometimes, an adult's judgment is necessary for these kinds of things."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:53:11",
+      "origin": "今日はお時間になってしまいましたが、少しは話したいことを話せましたでしょうか？",
+      "content": "Our time is up for today, but were you able to talk about what you wanted to, at least a little?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:53:24",
+      "origin": "はい。色々話が出来ました。",
+      "content": "Yes. I was able to talk about a lot of things."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:53:52",
+      "origin": "先生にも気が変わったら相談してみます。",
+      "content": "If I change my mind, I’ll try talking to the teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:54:36",
+      "origin": "そうですね、ありがとうございましたまた何かあればこちらに相談に来てください",
+      "content": "That sounds good. Thank you. If anything else comes up, please feel free to come talk to us again."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:54:49",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:55:05",
+      "origin": "はい、では失礼します",
+      "content": "Alright then, goodbye."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T12:55:24",
+      "origin": "今日はありがとうございました。",
+      "content": "Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T12:55:35",
+      "origin": "(こちらこそ、ありがとうございました後ほど評価を宜しくお願いいたします)",
+      "content": "(Thank you as well. I’d appreciate it if you could leave a review later.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達関係の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 3859,
+    "evaluation_created_at": "2022-08-25T13:01:00",
+    "client_id": 318,
+    "counselor_id": 296,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

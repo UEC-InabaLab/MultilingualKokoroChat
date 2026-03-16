@@ -1,0 +1,843 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-04T15:52:11",
+      "origin": "相談者役のものです。こちら、正しくアクセスできておりますでしょうか、",
+      "content": "Hello, I'm playing the role of the client. Am I connected correctly?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T15:52:41",
+      "origin": "はい、大丈夫ですこんにちはよろしくお願いします",
+      "content": "Yes, you are. Hello, it's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:53:10",
+      "origin": "よかったです！こんにちは、どうぞよろしくお願いします。16時までこのまま待機します。",
+      "content": "That's good to hear! Hello, it's a pleasure to meet you too. I'll wait here until 4:00 PM."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T15:54:57",
+      "origin": "少し早いですが、始めてもよろしいですか勿論、時間通りでも構いません",
+      "content": "It's a little early, but would you like to start now? Of course, we can wait until the scheduled time if you prefer."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:55:52",
+      "origin": "こちら問題ありません。今から始めていただいて大丈夫ですよ。",
+      "content": "No problem on my end. It's fine to start now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T15:56:16",
+      "origin": "ありがとうございますそれでは、始めます",
+      "content": "Thank you. Then, let's begin."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:56:29",
+      "origin": "お願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T15:57:00",
+      "origin": "こんにちは相談員ですよろしくお願いします",
+      "content": "Hello, I'm the counselor. It's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:57:08",
+      "origin": "よろしくお願いします。",
+      "content": "It's nice to meet you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T15:57:34",
+      "origin": "今日は、どのようなご相談でお越しいただきましたか",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:58:06",
+      "origin": "うまくいかない、というか、やりたいことをやっているのに途中で熱量が冷めてしまうことが多くて落ち込んでいます",
+      "content": "Things aren't going well... or rather, even when I'm doing what I want to do, I often lose my enthusiasm midway through, and it gets me down."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T15:58:46",
+      "origin": "そうなんですね・・それは、お辛いですよね",
+      "content": "I see... That must be difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:59:17",
+      "origin": "辛いと言うか、飽きる感覚があって…",
+      "content": "It's less that it's difficult and more that I get the feeling I'm getting bored..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:59:27",
+      "origin": "やりたいことを始めるときはすごい熱意があるんですが、",
+      "content": "When I start something I want to do, I have a lot of enthusiasm, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:59:47",
+      "origin": "ある程度やると「なんかもう上手くいかない気がする」と思って、やる気がなくなってしまいます。",
+      "content": "after doing it for a while, I start thinking, “I have a feeling this isn’t going to go well anymore,” and I lose my motivation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T15:59:49",
+      "origin": "そうなんですね・・やる気満々なんですね",
+      "content": "I see... So you're full of motivation at the start, aren't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T15:59:57",
+      "origin": "ですです。笑",
+      "content": "Exactly. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:00:28",
+      "origin": "頑張りすぎて、途中で、エネルギーが持たなくなるのですね",
+      "content": "It sounds like you might be pushing yourself too hard and running out of energy halfway through."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:00:45",
+      "origin": "いつ頃からですか",
+      "content": "When did this start?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:00:52",
+      "origin": "うーんそうですね",
+      "content": "Hmm, let's see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:02:21",
+      "origin": "いつ頃か、と言われると大学に入ってからですね。大学受験頑張ったあと、やりたいことをやろう！と決めて色々やり始めたけど、って感じです。がんばりすぎる、っていうより、シンプルにやる気が消えます。やりたい気持ちも、ビジョンもあるのに、というかビジョンがはっきりあるからか、気づいたらそれと現実との差が嫌になってやる気が失せる感じですね",
+      "content": "If I had to say when, it started after I entered university. After working hard for the entrance exams, I decided, “I’ll do what I want!” and started trying various things—that’s the feeling. It's not so much that I'm overdoing it; my motivation simply disappears. Even though I have the desire and a vision—or perhaps because the vision is so clear—I find myself disliking the gap between it and reality, and my motivation fades."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:05:04",
+      "origin": "そうなんですね・・やる気はあるのに、という感じですねそれは、苦しいですよね大学受験に頑張りすぎた反動だとも思えますが、いかがですか",
+      "content": "I see... so you feel you have the motivation, but it just fades. That sounds frustrating. It could also be seen as a reaction to working so hard for your university entrance exams. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:06:07",
+      "origin": "苦しいって言うか、虚無感がありますね…あー。結局なんもできないままなんだろうなー、みたいな…。うーん、反動でたしかにいろんなことに手を出そうとは思えてるんですが",
+      "content": "It's not exactly frustrating, but more a sense of emptiness... Ah. Like, 'I'll probably end up not achieving anything in the end'... Hmm. As a reaction, it's true that I'm motivated to try my hand at all sorts of things, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:06:20",
+      "origin": "そうですねー…むしろ逆かなぁ",
+      "content": "Well… if anything, maybe it's the opposite."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:06:45",
+      "origin": "大学受験の時は、必要だからやれてた。やりたくなくても、自分の人生や親にとって必要だからやりきれたんです。",
+      "content": "For the university entrance exams, I was able to do it because it was necessary. Even if I didn't want to, I could push through because it was necessary for my life and for my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:07:19",
+      "origin": "そうなんですねはい",
+      "content": "I see, yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:07:21",
+      "origin": "けど、いまやりたいことって、諦めても誰にも迷惑かからないじゃないですか、続かなくて「あーあ…」って思うのって僕だけだし。",
+      "content": "But with the things I want to do now, if I give up, it doesn't inconvenience anyone, right? I'm the only one who thinks, “Oh well…” when I don't keep going."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:07:58",
+      "origin": "そんなことはないと思います",
+      "content": "I don’t think that’s necessarily the case."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:08:38",
+      "origin": "お名前をなんとお呼びしてよろしいですか",
+      "content": "What would you like me to call you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:08:52",
+      "origin": "あ、えーっと、",
+      "content": "Ah, um…"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:09:05",
+      "origin": "時田でお願いします。",
+      "content": "Please call me Tokita."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:09:38",
+      "origin": "時田さんですね教えていただき、ありがとうございます",
+      "content": "Mr. Tokita, then. Thank you for letting me know."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:09:47",
+      "origin": "いえいえ",
+      "content": "Not at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:11:10",
+      "origin": "性別とご年齢を差し使いなければ、教えていただけますか",
+      "content": "If you don't mind, could you please tell me your gender and age?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:11:23",
+      "origin": "男、26歳です！",
+      "content": "Male, 26 years old!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:11:38",
+      "origin": "はい、ありがとうございます",
+      "content": "All right, thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:11:58",
+      "origin": "いえいえ",
+      "content": "You're welcome."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:12:52",
+      "origin": "むなしい、もどかしくなりますよね",
+      "content": "It can feel empty and frustrating, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:13:10",
+      "origin": "もどかしくはなりますね、そうです",
+      "content": "Frustrating, yes—that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:13:31",
+      "origin": "どんなことを、やりたいと思っていらっしゃるのですか",
+      "content": "What kinds of things would you like to do?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:15:08",
+      "origin": "今までやってきたことだと、趣味とかだとギター、歌、短歌、アクリル画、生活面だと掃除、仕事だとTwitterやnoteでの発信活動とか、あといまやってるコミュニティ運営を会社にしたかったり…あ、YouTubeもやってたんですが、更新が止まっちゃいました",
+      "content": "The things I’ve tried so far... for hobbies, there's guitar, singing, tanka poetry, and acrylic painting. In terms of daily life, cleaning. For work, outreach on Twitter and note, and I'd like to turn the community I’m running into a company… Oh, and I was doing YouTube too, but I’ve stopped updating it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:16:38",
+      "origin": "そうなんですね。。。すごいですねこんなに毎日、頑張っていらっしゃるのですね",
+      "content": "I see... That's amazing. You're working so hard on so many things every day."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:16:55",
+      "origin": "ありがとうございます、たしかに頑張りましたね…",
+      "content": "Thank you. I suppose I have been working hard..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:16:58",
+      "origin": "嬉しいです！",
+      "content": "That makes me happy!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:17:21",
+      "origin": "お仕事では、発信活動もされていらっしゃるのですね",
+      "content": "So for your work, you're also involved in content creation?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:17:40",
+      "origin": "多趣味で、素晴らしいです",
+      "content": "Having so many hobbies is wonderful."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:17:57",
+      "origin": "そうですねーー、金銭にまだ繋げられていないので、仕事と呼べるかは微妙なんですが、発信力を身につけていろんな人を支えたいなーって思ってます",
+      "content": "Well, since it’s not bringing in any money yet, I’m not sure I can call it work, but I want to develop my outreach skills and support various people."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:18:11",
+      "origin": "多趣味と言われるとうれしいです！ありがとうございます",
+      "content": "It makes me happy to hear you say I have many hobbies! Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:18:58",
+      "origin": "そうなんですね・・色々な人を支えたいとお感じなのですね",
+      "content": "I see… So you feel that you want to support various people."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:19:17",
+      "origin": "気持ちが、前向きになりますよね",
+      "content": "It helps you feel more positive, doesn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:19:25",
+      "origin": "そうですね…自分の発信活動でだれかが元気になれば嬉しいです。",
+      "content": "Yes... I'd be happy if my content creation could cheer someone up."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:19:35",
+      "origin": "必要とされたいのかもなぁ。",
+      "content": "Maybe I just want to be needed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:20:41",
+      "origin": "そうなんですね・・人に必要とされるのは、やりがいもありますよね",
+      "content": "I see... Being needed by others is very rewarding, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:21:18",
+      "origin": "ありますね！虚無感がなくなる感じがあります。",
+      "content": "It is! It feels like the emptiness goes away."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:21:49",
+      "origin": "あー…そうなると、多趣味にいろいろやってるのって実は無意識に「虚無感を感じたくないから」なのかもしれません",
+      "content": "Ah... in that case, maybe I'm subconsciously trying all these different hobbies because I don't want to feel that emptiness."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:23:05",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:24:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:24:07",
+      "origin": "家族は、何人でいらっしゃいますか",
+      "content": "How many people are in your family?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:24:33",
+      "origin": "家族ですか、えーと、今は一人暮らしですが、父、母、兄の合計4人です！",
+      "content": "My family? Uh, well, I live alone now, but there are four of us in total: my father, mother, older brother, and me."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:24:42",
+      "origin": "なぜかぞくなんですか？",
+      "content": "Why do you ask about my family?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:25:25",
+      "origin": "一緒に住んでいる人は？と思ったからです",
+      "content": "I was wondering who you live with."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:25:41",
+      "origin": "一人暮らしなんですね",
+      "content": "So you live alone."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:26:30",
+      "origin": "あ、なるほど",
+      "content": "Ah, I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:26:35",
+      "origin": "彼女もいます！",
+      "content": "I have a girlfriend, too!"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:26:48",
+      "origin": "コロナになるちょっと前からほぼ同棲状態です！",
+      "content": "We’ve pretty much been living together since just before the pandemic started!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:27:50",
+      "origin": "そうなんですね・・彼女さんは、時田さんの頑張りについて、なにかおっしゃっていますか",
+      "content": "I see... Does your girlfriend say anything about all your efforts, Mr. Tokita?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:29:28",
+      "origin": "そうですねー…彼女も色々やってたりしてますし、すごく理解してくれています彼女は僕がうまく行かなくても取り組んでる姿が好きだから、と言ってくれたりしてて、唯一いやしの場ですね…",
+      "content": "Let's see... She's also involved in various things, so she's very understanding. She tells me she likes seeing me try, even if things don't go well. She's my only source of comfort..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:29:37",
+      "origin": "彼女がいなかったらもっとダメダメになっていたと思います",
+      "content": "I think I would be much more of a mess without her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:31:42",
+      "origin": "そうなんですね・・時田さんは、そう思われるんですね彼女さんって、時田さんにとって、とても大切な人なんですね",
+      "content": "I see... So that's how you feel. Your girlfriend is a very important person to you, isn't she?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:31:59",
+      "origin": "はい、とても有り難い存在です！",
+      "content": "Yes, I’m very grateful for her!"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:32:21",
+      "origin": "ただ、それとは別にやっぱり自分の思う理想の姿になりたいから、やりたいことをしっかり追える・続けられるようになりたいですね…",
+      "content": "That said, apart from that, I still want to become the ideal version of myself. So I want to be able to fully pursue the things I want to do and stick with them."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:33:18",
+      "origin": "時田さんにとって、今、一番やりたいことは、どのようなことですか",
+      "content": "Mr. Tokita, what is the one thing you want to do the most right now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:34:34",
+      "origin": "一番やりたいことですか、",
+      "content": "The thing I want to do most?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:34:46",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:34:59",
+      "origin": "うーん、自立した、自分の力で誰かの支えになること、ですね…",
+      "content": "Hmm, to be independent and support someone with my own strength..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:35:22",
+      "origin": "そのための方法論として、先ほど行った趣味や仕事の選択肢をとっているって感じです",
+      "content": "The hobbies and work options I mentioned earlier are the methods I'm using to achieve that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:36:12",
+      "origin": "そうなんですね・・誰かの支え、素晴らしいですね",
+      "content": "I see... Supporting someone else, that's wonderful."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:36:28",
+      "origin": "やりがいがありますね",
+      "content": "That must be very rewarding."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:36:34",
+      "origin": "でも、",
+      "content": "But..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:38:18",
+      "origin": "たくさんではなく、一つ、又は、２～３個ぐらいにした方が、時田さんも、疲れすぎずに良いと思うのですが、いかがですか",
+      "content": "instead of doing so many things, I think it might be better for you to limit it to one, or maybe two or three things, so you don't get too tired. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:38:31",
+      "origin": "そうですね、それはよくわかります",
+      "content": "Yes, I understand that very well."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:38:50",
+      "origin": "2〜3個に自分で少なくすることは今もしてるんですよ",
+      "content": "I'm already trying to limit myself to two or three things, even now."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:39:10",
+      "origin": "でも、例えばそれが続かなくなってくると、ほかのものに目移りするんですね…",
+      "content": "But, for example, when I can't keep up with them, my attention drifts to other things…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:39:11",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:39:19",
+      "origin": "その結果、多趣味になって…の繰り返しだったりします",
+      "content": "As a result, I end up with many hobbies... it's a repeating cycle."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:39:55",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:40:30",
+      "origin": "時田さんは、毎日、どのような生活を送られていますか",
+      "content": "What does a typical day look like for you, Mr. Tokita?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:41:25",
+      "origin": "ライスワークでお金を稼いで、合間に自分の自己実現のためにこれからマネタイズできるようになりたい趣味や仕事を追って…と言う感じですね",
+      "content": "I make money with a job to pay the bills, and in the time in between, I pursue hobbies and work that I hope to monetize for my self-actualization… that's the gist of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:41:27",
+      "origin": "勿論、今までのお話で、活動をたくさんやられていらっしゃいますね",
+      "content": "Of course, from what you’ve shared, it's clear you're engaged in many activities."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:41:32",
+      "origin": "はい、はい",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:41:34",
+      "origin": "そうです！",
+      "content": "That's right!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:42:44",
+      "origin": "マネタイズとは、どんな意味ですか",
+      "content": "By “monetize,” what do you mean?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:43:23",
+      "origin": "収入化できる仕組みづくり、と言ったらわかりますかね…",
+      "content": "Would it make sense if I said it's about creating a system to generate income from it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:43:42",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you for explaining."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:43:45",
+      "origin": "趣味で書いてる絵や文章を自分の仕事(収入源)につなげるための仕組み化です",
+      "content": "It’s about creating a system to connect the art and writing I do as hobbies to my work, as a source of income."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:43:46",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:44:58",
+      "origin": "今までのお話を整理させていただいても、よろしいですか",
+      "content": "Would it be alright if I summarized what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:45:44",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:46:17",
+      "origin": "時田さんは、やりたいことをたくさんやっておられ、やりすぎて途中で冷めて落ち込んでしまいます",
+      "content": "Mr. Tokita, you're doing many of the things you want to do, but you tend to overdo it, lose interest partway through, and then feel down."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:48:06",
+      "origin": "やる気満々で、人の支えになるために、時田さん自身が、生きがいになることを、一生懸命やられていますたくさんの趣味や、活動をなさっていて、とても活躍なさっています",
+      "content": "You start out full of motivation, and in order to support others, you work very hard on things that give you a sense of purpose. You have many hobbies and activities and are very active."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:49:11",
+      "origin": "彼女さんも、応援してくれて、時田さんにとって、大切な存在です",
+      "content": "Your girlfriend also supports you, and she is a very important person to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:49:31",
+      "origin": "いかがですか",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:49:40",
+      "origin": "いや、はい！間違いありません",
+      "content": "No... I mean, yes! That's all correct."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:50:53",
+      "origin": "時田さんは、今まで、本当に、一生懸命頑張ってこられたんですねもう、十分すぎるほど、頑張っています",
+      "content": "Mr. Tokita, you have truly been working so hard all this time. You are already doing more than enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:51:01",
+      "origin": "でも、",
+      "content": "But..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:51:31",
+      "origin": "頑張りすぎると、反動が、必ず、誰でも出てきます",
+      "content": "When anyone pushes themselves too hard, a reaction inevitably comes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:51:58",
+      "origin": "時田さんの活動は、とても素晴らしいことです",
+      "content": "What you're doing is truly wonderful."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:52:05",
+      "origin": "でも、",
+      "content": "But..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:53:17",
+      "origin": "たくさんやりすぎず、これからは、最初は一つに絞って、やりがい、人を支えること、じこじつげんになることを、やってみてはいかがでしょうか",
+      "content": "instead of doing too much, how about, from now on, you try focusing on just one thing at first—something that's rewarding, supports others, and leads to self-actualization?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:53:40",
+      "origin": "そうですね、たくさんやり過ぎていたように思います！",
+      "content": "You're right, I think I have been doing too much!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:54:15",
+      "origin": "時田さんが、一番やりたいこと、一つ、は、どのようなことですか",
+      "content": "What is the one thing you want to do most, Mr. Tokita?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:55:08",
+      "origin": "うーん、自立した、自分の力で誰かの支えになること、ですね…",
+      "content": "Hmm, to be independent and support someone with my own strength..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:55:38",
+      "origin": "はい、それは、何でしょうか",
+      "content": "Yes, and what would that be?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:55:53",
+      "origin": "どんな活動ですか",
+      "content": "What kind of activity would that be?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:56:46",
+      "origin": "自分らしさのある活動で、「自分のやりたいことを追っていいんだよ！」というメッセージを伝えることです！そのために、趣味や仕事を色々とやっています。",
+      "content": "It's to convey the message, \"It's okay to pursue what you want to do!\" through activities that are true to myself. That's why I'm doing all these various hobbies and work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:57:33",
+      "origin": "そうなんですね・・やりがいがありますよね",
+      "content": "I see… That sounds very rewarding, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:58:05",
+      "origin": "あります…でも、やっぱりこうやって",
+      "content": "It is… But, you know, even just doing this,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:58:14",
+      "origin": "人に聞いてもらうだけで、整理がついた思いです",
+      "content": "just by having someone listen to me, I feel like I've been able to sort things out."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:58:18",
+      "origin": "たしかにむなしさとかはあるけど、",
+      "content": "It's true that I feel a sense of emptiness and all that, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:58:31",
+      "origin": "自分がやりたいことをやりたい、と思った最初の思いを再確認できた気がします",
+      "content": "I feel like I've been able to reaffirm my initial desire to do the things I want to do."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:58:44",
+      "origin": "整理をして、順番を冷静につけて、",
+      "content": "I want to organize my thoughts, calmly set my priorities,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T16:59:03",
+      "origin": "やるべきこと・はじめにできるようになりたいことを決めて取り組んで行きたいと感じています",
+      "content": "and decide what I need to do—what I want to be able to do first—and then start working on it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:59:25",
+      "origin": "そうなんですね時田さんにしか出来ない活動を、ぜひ、やってみてください",
+      "content": "I see. Please, I encourage you to try the activities that only you can do, Mr. Tokita."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T16:59:40",
+      "origin": "心から、応援しています",
+      "content": "I’m wholeheartedly rooting for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T17:00:00",
+      "origin": "やりすぎないように、頑張ってくださいね",
+      "content": "Do your best, but be careful not to overdo it."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T17:00:03",
+      "origin": "ありがとうございます。聞いていただけただけで安心感がありました",
+      "content": "Thank you. Just having you listen gave me a sense of relief."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T17:00:14",
+      "origin": "嬉しいです。ありがとうございます。",
+      "content": "I'm glad. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T17:00:25",
+      "origin": "こちらこそ、ありがとうございました",
+      "content": "No, thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T17:00:46",
+      "origin": "また、何かありましたら、いらしてください",
+      "content": "If anything comes up again, please feel free to come back."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T17:00:49",
+      "origin": "はい！",
+      "content": "I will!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T17:01:37",
+      "origin": "時間になりましたので、本日のご相談を、終了させていただきますありがとうございます",
+      "content": "Our time is up, so we will conclude today’s session. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T17:01:46",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-04T17:02:18",
+      "origin": "ありがとうございました、お疲れ様です",
+      "content": "Thank you, and thank you for your time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-04T17:02:36",
+      "origin": "お疲れ様でしたありがとうございました",
+      "content": "Thank you for your time as well. Thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "自己実現のための活動選択と継続の課題"
+  },
+  "review_by_client": {
+    "evaluation_id": 834,
+    "evaluation_created_at": "2020-12-04T17:13:00",
+    "client_id": 119,
+    "counselor_id": 42,
+    "score": 35,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 4,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 0,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

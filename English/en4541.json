@@ -1,0 +1,717 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:00:06",
+      "origin": "相談員です。今日はご相談ありがとうございます。まずはじめに、年齢、性別をお聞かせください。",
+      "content": "I'm the counselor. Thank you for reaching out today. First, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:01:03",
+      "origin": "はい、高３女子です",
+      "content": "Yes, I'm a high school senior."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:01:10",
+      "origin": "こちらの質問にご回答くださり、ありがとうございます。本日はどのようなご相談でしょうか。",
+      "content": "Thank you for answering my question. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:01:57",
+      "origin": "中学2年生の頃から摂食障害で悩んでいます",
+      "content": "I’ve been struggling with an eating disorder since my second year of middle school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:02:56",
+      "origin": "そうなんですね。長い間、お辛い状態なんですね。",
+      "content": "I see. It sounds like you've been in a painful situation for a long time."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:03:25",
+      "origin": "はい、何度も死にたいと考えてしまいます",
+      "content": "Yes, I often find myself thinking about wanting to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:04:26",
+      "origin": "それは…とても辛い状況だと感じます。",
+      "content": "That sounds like a very painful situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:05:06",
+      "origin": "今現在も死にたい気持ちをお持ちですか？",
+      "content": "Do you still feel that way now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:05:46",
+      "origin": "毎日思います。この病気があると先のことなんて何も考えられない",
+      "content": "I think about it every day. With this illness, I can't think about the future at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:06:45",
+      "origin": "そうなんですね。生きる喜びや希望を持てないという感じですか？",
+      "content": "I see. Does it feel like you can't find joy or hope in living?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:07:44",
+      "origin": "はい何をしていても誰といても病気があるからと思ってしまいます",
+      "content": "Yes, no matter what I'm doing or who I'm with, I always think about having this illness."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:08:05",
+      "origin": "喜びなんてありません",
+      "content": "There’s no joy at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:08:32",
+      "origin": "そうですよね。とてもとても苦しい状況でいらっしゃると感じます。今はご自宅ですか？",
+      "content": "I understand. It sounds like you're in a very, very difficult situation. Are you at home right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:08:51",
+      "origin": "はい、自宅です",
+      "content": "Yes, I’m at home."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:10:12",
+      "origin": "ご自宅からのご相談ですね。あたたかくしてくださいね。",
+      "content": "I see you're talking to me from home. Please make sure you stay warm."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:10:29",
+      "origin": "接触障害、とのことですが、",
+      "content": "You mentioned an eating disorder,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:10:41",
+      "origin": "何かきっかけがあったのでしょうか",
+      "content": "Was there something that triggered it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:11:43",
+      "origin": "中学2年生の頃仲良くしていたグループの皆にある日突然ハブられました",
+      "content": "In my second year of middle school, the group of friends I was close with suddenly started ostracizing me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:12:07",
+      "origin": "そんな辛いことがあったのですね。",
+      "content": "That must have been so painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:12:44",
+      "origin": "はいどんなに私が嫌いかを囲まれて言われ続けました",
+      "content": "Yes, they surrounded me and kept telling me how much they hated me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:13:21",
+      "origin": "どんなに嫌いかだなんて…なんてひどいことと私は思います。",
+      "content": "Telling you how much they hated you... I think that’s a terribly cruel thing to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:13:48",
+      "origin": "その時、あなたはどんな思いでしたか？",
+      "content": "How did you feel at that time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:14:37",
+      "origin": "昨日まで仲良く笑っていた友達が豹変して世界が真っ暗になりました…",
+      "content": "My friends, who I had been laughing with just the day before, suddenly turned on me, and my world went dark..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:15:14",
+      "origin": "恐ろしいことですよね。真っ暗という言葉そのままだと思います。",
+      "content": "That's terrifying. I think 'completely dark' describes it perfectly."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:15:34",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:15:56",
+      "origin": "その出来事について、誰かに聞いてもらいましたか？",
+      "content": "Did you talk to anyone about what happened?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:16:31",
+      "origin": "もう人をしんじられない誰にも話せません",
+      "content": "I can't trust people anymore, so I can't talk to anyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:17:42",
+      "origin": "そういう気持ちになりますよね。裏切られた思いだし、誰も信じることができない…。",
+      "content": "That's understandable. Feeling betrayed makes it hard to trust anyone..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:18:24",
+      "origin": "ずっと苦しんでいること、よくわかります。",
+      "content": "I can really understand how you've been suffering all this time."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:18:49",
+      "origin": "はいなのでもう毎日死にたいと思います",
+      "content": "Yes... that's why I think about wanting to die every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:19:23",
+      "origin": "そうですよね。楽になりたい気持ちですよね。",
+      "content": "I understand. You want to be free from the pain, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:19:51",
+      "origin": "はい暗闇から逃れたいです",
+      "content": "Yes, I want to escape the darkness."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:20:44",
+      "origin": "そんな中、苦しい気持ちを話してくれてありがとう。接触障害のことも、誰にも話せませんか？",
+      "content": "Thank you for sharing these painful feelings with me, especially when you're going through so much. Are you unable to talk to anyone about the eating disorder either?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:21:01",
+      "origin": "ご両親や学校の先生など…",
+      "content": "Like your parents or a teacher at school...?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:22:04",
+      "origin": "話せません隠れて食べ吐きしてるので…でも親は何となくきがついているかもしれないけど何も言ってきません",
+      "content": "I can’t. I binge and purge in secret... My parents might have a sense of it, but they don’t say anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:23:00",
+      "origin": "そうですか。同じお家に住んでいるのですから、何か気がついてご心配されているかもしれませんね。",
+      "content": "I see. Since you live in the same house, they might have noticed something and be worried about you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:23:18",
+      "origin": "私は、あなたのお体がとても心配です。",
+      "content": "I am very worried about your physical health."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:24:05",
+      "origin": "食べて吐いた後、どんな気持ちですか？",
+      "content": "How do you feel after eating and purging?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:24:09",
+      "origin": "心配？というか面倒臭いから触れないのかも？",
+      "content": "Worried? Or maybe they just don't bring it up because it's too much trouble?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:24:34",
+      "origin": "行き違ってしまってごめんなさい。",
+      "content": "I'm sorry, it seems we got our wires crossed."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:25:08",
+      "origin": "大量に食べたら苦しくなるので、吐けばスッキリしますが、か吐くのが辛いです。",
+      "content": "When I eat a lot, it becomes painful, so I feel relief when I purge, but the act of purging is painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:26:04",
+      "origin": "そうですよね。ものすごく辛いと思います。それでもスッキリできる？",
+      "content": "I understand. I imagine it's incredibly painful. But you still feel a sense of relief?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:26:43",
+      "origin": "はい吐ききれたらスッキリしますが、疲れて寝てしまいます",
+      "content": "Yes, once I've purged everything, I feel relieved, but then I'm so exhausted I just fall asleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:27:19",
+      "origin": "そうですよね。とても体力と精神力を使いますよね。",
+      "content": "Right. It must take a huge toll on you, both physically and mentally."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:27:34",
+      "origin": "あと、身体が冷えて外に出られません。",
+      "content": "Also, my body gets cold and I can’t go outside."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:28:02",
+      "origin": "そうなんですね。学校にはいけていますか？",
+      "content": "I see. Are you able to go to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:29:05",
+      "origin": "こんなことしてる醜い自分はきちがいで、絶対知られたくないです",
+      "content": "I feel like I’m ugly and 'crazy' for doing this, and I absolutely don’t want anyone to find out."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:29:34",
+      "origin": "学校は休みがちで冬は特に行けなくなります。",
+      "content": "I tend to miss a lot of school, and it gets especially hard to go in the winter."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:30:18",
+      "origin": "たくさん苦しい状況をお話してくれてありがとう。ここまで状況お聞きして、本当に本当に苦しい状況と思います。",
+      "content": "Thank you for telling me about so many of your struggles. Hearing all of this, I can tell you're in a truly, truly difficult situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:31:10",
+      "origin": "本当は吐きたくないし、学校にも行きたいですよね？どうでしょうか？",
+      "content": "You don't really want to purge, and you want to go to school, right? Is that how you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:31:19",
+      "origin": "すみません…ありがとうございます",
+      "content": "I’m sorry... thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:32:42",
+      "origin": "普通に朝起きて食事をして出かける旅行に行く人と外食する…そういう普通のことを忘れてしまいました",
+      "content": "Waking up in the morning, eating a meal, going out, traveling, eating out with people... I've forgotten what those normal things are like."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:33:19",
+      "origin": "うんうん。あなたにとって普通の暮らし、取り戻したいですよね。",
+      "content": "Mhm. You want to get that normal life back for yourself, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:34:05",
+      "origin": "やめられる気が全くしないんです",
+      "content": "I just don't feel like I can ever stop."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:34:50",
+      "origin": "起きている間はずーっと食べ物に支配されている感じです",
+      "content": "When I'm awake, I feel like I'm completely controlled by food."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:35:12",
+      "origin": "そうなんですね。でも、中学２年からこれまで、苦しみながらも生きてきた。それだけで、ものすごいことだと私は思います。",
+      "content": "I see. Even so, from your second year of middle school until now, you’ve kept living despite the pain. I think that alone is remarkable."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:35:52",
+      "origin": "そしてやめる自信はないけれど、やめたいと思っている？",
+      "content": "And even though you're not confident you can stop, you do want to stop?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:36:53",
+      "origin": "やめたいけどやめたら私は本当に一人ぼっちです…食べ物は唯一私の味方なんです",
+      "content": "I want to stop, but if I do, I'll be truly all alone... Food is the only thing that's on my side."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:37:26",
+      "origin": "なるほど。食べていると安心する？",
+      "content": "I see. Does eating make you feel safe?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:38:17",
+      "origin": "はい、その時最初の一瞬だけ安心します",
+      "content": "Yes, but only for a brief moment at the very beginning."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:38:43",
+      "origin": "そうなんですね。一回どのくらいの量を食べていますか？例えば今日はこれまでどのくらい？",
+      "content": "I see. How much do you eat in one go? For example, how much have you eaten so far today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:38:57",
+      "origin": "その後苦しくなってくると直ぐに後悔します…",
+      "content": "After that, it starts to get painful, and I immediately regret it..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:39:46",
+      "origin": "3人分位の量は食べますそれ以外に甘いものも",
+      "content": "I eat about enough for three people, plus sweets on top of that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:40:41",
+      "origin": "そうなんですね。たくさんの量を食べることは、その時の気持ちの落ち込み方とかに影響する？",
+      "content": "I see. Does the amount you eat have anything to do with how down you're feeling at the time?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:41:00",
+      "origin": "例えば落ち込みが大きいと、量が増えるとか",
+      "content": "For example, if you're feeling more down, do you eat more?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:41:15",
+      "origin": "はいそれはあります",
+      "content": "Yes, that happens."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:41:44",
+      "origin": "たくさん食べればその分苦しくなって、吐く量も増える？",
+      "content": "And if you eat more, does that make it more painful and mean you have to purge more?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:42:43",
+      "origin": "はい、でも沢山食べないと吐きにくいので吐くまで食べるという感じです。",
+      "content": "Yes, but it's hard to purge if I don't eat a lot, so it's more like I eat until I can purge."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:44:18",
+      "origin": "そうなんですね。本当に苦しいね。さっき「食べ物は唯一の味方」と教えてくれたけれど、「量が変化しても味方ということには変わらない」というように考えることはできそうですか？",
+      "content": "I see. That's really tough. Earlier you said food is your only ally, but could you think of it as still being your ally even if the amount changes?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:45:10",
+      "origin": "たくさん食べなければ吐けないしスッキリもしないけれど…",
+      "content": "I know you can't purge and get that relief without eating a lot, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:45:47",
+      "origin": "んーどうかな量は吐けるかどうかが重要だから沢山食べるしかない…",
+      "content": "Hmm, I'm not sure... The amount is important for being able to purge, so I have to eat a lot..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:46:38",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:47:35",
+      "origin": "吐くことが大前提なんですね。",
+      "content": "So purging is the main priority."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:47:43",
+      "origin": "すみませんこんな気持ち悪い話をして…",
+      "content": "I’m sorry for talking about such disgusting things..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:47:54",
+      "origin": "そんなことないですよ。",
+      "content": "Not at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:48:18",
+      "origin": "なんでも話してくださいね。一緒に解決策を考えていきたいです",
+      "content": "Please, tell me anything. I want to think about a solution together."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:48:36",
+      "origin": "吐くことが重要です履けないと死にたくなります",
+      "content": "Purging is what’s important. If I can’t purge, I feel like I want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:48:50",
+      "origin": "今は吐くことをやめる、というのはハードルが高そうなので",
+      "content": "Since stopping purging altogether seems like a high hurdle right now,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:49:15",
+      "origin": "そのことは自分で認めてあげて",
+      "content": "let's acknowledge that for yourself,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:49:40",
+      "origin": "今よりほんのすこしだけ食べる量を減らしてみることはできそうですか",
+      "content": "Do you think you might be able to try reducing the amount you eat by just a tiny bit?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:49:55",
+      "origin": "本当にほんのすこしだけ",
+      "content": "Just a really, really tiny bit."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:50:14",
+      "origin": "はい、少しならできるかもしれないです",
+      "content": "Yes, I think I might be able to if it's just a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:50:50",
+      "origin": "それか回数を減らすか",
+      "content": "Or maybe reduce the number of times."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:50:55",
+      "origin": "うんうん。できそう、という気持ちだけで十分。",
+      "content": "Mhm. Just feeling like you might be able to is enough."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:51:42",
+      "origin": "ありがとう",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:51:51",
+      "origin": "まずは、あなたの体のことを考えて、少しだけ、ほんの少しだけ食べる量とはく回数を今より減らしてみる。いかがですか？",
+      "content": "So, for starters, thinking about your body, how about trying to reduce the amount you eat and the number of times you purge by just a little, a tiny bit, from what you're doing now?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:52:00",
+      "origin": "そして大事なのは",
+      "content": "And the important thing is,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:52:14",
+      "origin": "それができたら、自分を褒めてあげて",
+      "content": "if you can do that, praise yourself for it."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:52:51",
+      "origin": "はい、少しだけと思えば出来るかもしれない",
+      "content": "Yes, if I think of it as just a little, I might be able to do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:53:10",
+      "origin": "うんうん。",
+      "content": "Mhm."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:53:21",
+      "origin": "自分を褒めることなんてしたことないです",
+      "content": "I've never praised myself before."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:53:50",
+      "origin": "こんなことしている自分を褒める…",
+      "content": "Praising myself while doing something like this..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:53:55",
+      "origin": "大きすぎる目標を目指すのではなく、小さな変化でも必ず褒めてあげてください",
+      "content": "Instead of aiming for a huge goal, please make sure to praise yourself even for a small change."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:54:30",
+      "origin": "少しだけでも減らすというのは、あなたの努力によってしか生まれないのだから",
+      "content": "Because reducing it even a little can only happen through your own effort."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:54:40",
+      "origin": "褒めるべきことです！",
+      "content": "That's something worth praising!"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:54:51",
+      "origin": "人として最低のことしてますよねそれでも褒めていいんですか？",
+      "content": "I'm doing the worst thing a person can do... Is it still okay to praise myself?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:55:26",
+      "origin": "誰かとくらべず、あなたの変化だけに集中しましょう",
+      "content": "Let's not compare yourself to anyone else and just focus on your own progress."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:55:48",
+      "origin": "こうして相談しにきてくれたことも、私は心から感謝しています",
+      "content": "I'm also truly grateful that you came here to talk today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:56:11",
+      "origin": "その一歩だって、褒めてあげて",
+      "content": "Praise yourself for that step, too."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:56:28",
+      "origin": "誰にも話せなかっこと聞いてくれてありがとう",
+      "content": "Thank you for listening to something I couldn’t tell anyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:56:45",
+      "origin": "ここまでたくさん聞かせてくれましたが、お気持ちどうでしょう",
+      "content": "You've shared so much with me. How are you feeling now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:57:11",
+      "origin": "褒めるという事を考えてみます",
+      "content": "I’ll try to think about praising myself."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:57:22",
+      "origin": "今まで考えもしませんでした…",
+      "content": "I'd never even considered it before..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:57:42",
+      "origin": "あなたの小さくても大きな一歩を、褒めてあげましょう！",
+      "content": "Let's praise your small but significant step forward!"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:58:04",
+      "origin": "はいありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:58:08",
+      "origin": "そしてまたいつでも相談にきてくださいね",
+      "content": "And please, feel free to come back and talk anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:58:23",
+      "origin": "はいよろしくお願いします。",
+      "content": "Yes, I will. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:58:46",
+      "origin": "今日のやり取りは記録に残して、また続けて聞かせてもらえるようにしておきますから安心してね",
+      "content": "I'll keep a record of our conversation today so we can continue from here next time, so don't worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:59:02",
+      "origin": "今日は本当にありがとうございました。",
+      "content": "Thank you so much for today."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:59:03",
+      "origin": "分かりましたありがとうございます。",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:59:20",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:59:27",
+      "origin": "応援してますね。",
+      "content": "I'm rooting for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:59:36",
+      "origin": "はい",
+      "content": "Okay."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "摂食障害とそれに伴う自殺願望"
+  },
+  "review_by_client": {
+    "evaluation_id": 4541,
+    "evaluation_created_at": "2023-02-03T15:00:00",
+    "client_id": 360,
+    "counselor_id": 357,
+    "score": 73,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:00:05",
+      "origin": "こんにちは、相談員です。本日はご相談に来て頂き、ありがとうございます。まず初めに、年齢、性別、ご相談内容について教えてください。",
+      "content": "Hello, I'm a counselor. Thank you for coming in for a consultation today. First, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:00:33",
+      "origin": "17歳・女子・進路のことで相談に来ました。",
+      "content": "I’m 17, female, and I came here to talk about my future path."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:01:12",
+      "origin": "進路のことでお悩みなんですね。具体的にお話いただけますか？",
+      "content": "I see you're concerned about your future path. Could you tell me more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:02:59",
+      "origin": "先生や親からは進学を進めらています。私も当然そうしようと思っていたのですが、将来やりたいことも特にないので、進学していいのか就職すべきか迷っています。",
+      "content": "My teachers and parents are encouraging me to go on to higher education. I naturally thought I would, but since there isn't anything I particularly want to do in the future, I’m unsure whether I should continue my studies or get a job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:04:41",
+      "origin": "なるほど。それは困りましたね。",
+      "content": "I see. That must be troubling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:05:08",
+      "origin": "特にやりたいことがない、ということでしょうか？",
+      "content": "So you mean there isn’t anything in particular you want to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:05:15",
+      "origin": "はい、そうです。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:05:51",
+      "origin": "そうなんですね。先生や親からは勧められるとのことですが、それについてはどうお考えですか？",
+      "content": "I understand. You mentioned your teachers and parents are encouraging you; how do you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:06:29",
+      "origin": "多分、学年で成績がかなり上位なので、そういっているのだと思います。",
+      "content": "I think they're probably saying that because my grades are among the highest in my year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:07:17",
+      "origin": "成績が上位ですか、なるほど、お勉強がとてもできるのですね。",
+      "content": "So your grades are among the top—I see, you do very well academically."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:07:37",
+      "origin": "けっこう頑張られたんじゃないでしょうか？",
+      "content": "You must have worked quite hard, haven't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:08:23",
+      "origin": "時間を有意義に使いたいと思っているので、授業中は集中して取り組んでいます。時々そこで他の教科の宿題をやったりしちゃってますが。",
+      "content": "I try to use my time efficiently, so I focus during class. Sometimes I even do homework for other subjects then, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:09:03",
+      "origin": "部活も趣味も遊びもそれなりにしているので、頑張っているという感じはしないです。",
+      "content": "I do club activities, hobbies, and hang out with friends to a reasonable extent, so it doesn't feel like I’m trying exceptionally hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:09:36",
+      "origin": "集中して授業を受けられているのですね、素晴らしいと思います。",
+      "content": "You’re able to concentrate in class—that’s wonderful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:09:52",
+      "origin": "それ以外でも充実されているのですね。",
+      "content": "And it sounds like you’re fulfilled in other areas as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:10:14",
+      "origin": "ちなみに、進学関係以外で気になっていることはありますか？",
+      "content": "By the way, is there anything on your mind besides matters related to higher education?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:10:34",
+      "origin": "ありがとうございます。そうですね、遊びとかの時間を確保したいから、集中できるのだと思います。",
+      "content": "Thank you. That's right, I think I can focus because I want to make sure I have time to hang out and do fun things."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:11:14",
+      "origin": "他に気になることというと、悩みとかってことですか？",
+      "content": "When you say anything else on my mind, do you mean worries and such?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:12:27",
+      "origin": "そうですね。言ってしまえば、お勉強以外のこととかですね。",
+      "content": "Yes. Put simply, things other than your studies."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:12:36",
+      "origin": "もしあれば、でいいですよ。",
+      "content": "Only if there's anything, of course."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:13:05",
+      "origin": "特にないですね。できれば、彼氏がいたらもっと楽しいかも、っていうぐらいでしょうか？",
+      "content": "Not particularly. If anything, maybe having a boyfriend would make things more fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:14:24",
+      "origin": "教えて頂き、ありがとうございます。なるほど、そうなんですね。",
+      "content": "Thank you for sharing that. I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:14:40",
+      "origin": "もしできるなら、どんな彼氏さんが欲しいですか？",
+      "content": "If you could have one, what kind of boyfriend would you like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:15:11",
+      "origin": "そうですね…一緒にいて楽しめる人がいいなと思います。",
+      "content": "Let me see... I think someone I can enjoy being with would be nice."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:16:07",
+      "origin": "一緒にいて楽しめる人、ですか。確かにそういう方が近くにいたら充実しますよね。",
+      "content": "Someone you can enjoy being with. Having someone like that close by would certainly make life feel more fulfilling."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:16:56",
+      "origin": "まだ彼氏がいたことがないので、分からないのですが友達とはまた違った感じなのかなと思います。想像ですけど。",
+      "content": "I’ve never had a boyfriend, so I don’t really know, but I imagine it would feel different from being with friends. Just imagining, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:17:51",
+      "origin": "そうですよね、気になりますよね。",
+      "content": "Right, it’s something you’re curious about."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:18:35",
+      "origin": "ここまでのお話を一度まとめさせて頂きますね。",
+      "content": "Allow me to briefly summarize what we’ve discussed so far."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:18:45",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:20:25",
+      "origin": "まず、相談者様は進学をしようかどうか迷われている。部活や勉強をやっているけれども、充実感を感じられない。もし彼氏がいたら楽しいだろうなと思われている。",
+      "content": "First, you are undecided about whether to pursue higher education. Although you are involved in club activities and studies, you do not feel a sense of fulfillment. You also think having a boyfriend might be fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:21:45",
+      "origin": "ここからお聞きしたいのは、進学しようかどうか迷われているのは、なぜそう思いますか？",
+      "content": "What I'd like to ask next is, regarding your indecision about pursuing higher education, why do you think that is?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:22:20",
+      "origin": "ええと、まず進学については将来やりたいことがないから迷っていると最初にお伝えしました。",
+      "content": "Um, first, regarding higher education, I mentioned at the beginning that I’m undecided because I don’t have anything I want to do in the future."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:22:43",
+      "origin": "うんうん、そうでしたね。",
+      "content": "Mm-hm, that’s right."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:23:04",
+      "origin": "部活や勉強は、相談員の方から見てまだ気持ちに足りていないところがあるのかもしれませんが",
+      "content": "Regarding my club activities and studies, you might see them as not being fulfilling enough, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:23:27",
+      "origin": "私的には楽しんでやっています。",
+      "content": "personally, I enjoy them."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:23:53",
+      "origin": "充実感を感じられないというネガティブな気持ちは持っていないです。",
+      "content": "I don't have any negative feelings like I'm not fulfilled."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:24:38",
+      "origin": "彼氏については、他に…ということなので、いたらいいなーぐらいなので、そんなに取り上げていただけるほどでもないです。",
+      "content": "As for a boyfriend, since that was in response to 'anything else,' it’s more on the level of ‘it would be nice if I had one,’ so it’s not significant enough to focus on."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:24:44",
+      "origin": "ネガティブな気持ちはないのですね、それは大変失礼いたしました。",
+      "content": "So you don't have any negative feelings. My apologies, that was very presumptuous of me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:25:46",
+      "origin": "もし就職するとしたら、どんなことをしたいですか？",
+      "content": "If you were to get a job, what kind of work would you like to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:26:54",
+      "origin": "そちらも特にやりたいことがないのですが、難しいことはできないかなと思っています。",
+      "content": "I don't have anything specific I want to do for that either, but I don't think I could do anything too difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:27:29",
+      "origin": "そうなんですね。難しいこと、と言いますと？",
+      "content": "I see. When you say ‘difficult,’ what do you mean?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:28:38",
+      "origin": "例えばですが、スマホやPCを使うのは苦ではないのですが、SEまでとなると技術も必要ですし、そういった専門分野は難しいかなと思います。",
+      "content": "For example, I'm comfortable using a smartphone or a PC, but when it comes to being something like a systems engineer, that requires technical skills, and I think that kind of specialized field would be difficult for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:30:06",
+      "origin": "なるほど、確かにSE等ですとかなり難しい印象ありますね。",
+      "content": "I see. Indeed, being a systems engineer does give the impression of being quite difficult."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:30:57",
+      "origin": "世の中にはたくさんの職業があって、すごいなと思うものも多くあります。ただ、今までその中に「やってみたい」と思うものには出会ったことがないです。",
+      "content": "There are so many jobs in the world, and many of them seem amazing. But I've never come across one that made me think, 'I want to do that.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:32:09",
+      "origin": "うんうん、そうですよね、中々見つからないですよね。",
+      "content": "Mmm-hmm, yes, it can be hard to find something like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:32:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:32:54",
+      "origin": "逆に、そのやりたいことが見つかったら、すぐ取り組みたいですか？",
+      "content": "On the other hand, if you did find something you wanted to do, would you want to start right away?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:33:08",
+      "origin": "そうですね。",
+      "content": "I think so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:34:49",
+      "origin": "そうでしたか。ちなみに、進学と就職でどのように違うかはご存知ですか？",
+      "content": "I see. By the way, do you know how pursuing higher education and getting a job differ?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:35:09",
+      "origin": "それは、生活のことでしょうか？",
+      "content": "Do you mean in terms of lifestyle?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:35:43",
+      "origin": "来年度のことでしょうか？卒業後のことでしょうかd？",
+      "content": "Do you mean for next year? Or after graduation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:36:02",
+      "origin": "誤字が入っちゃいました、ごめんなさい",
+      "content": "Oops, there was a typo, I'm sorry."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:36:39",
+      "origin": "大丈夫ですよ。そうですね、生活のこともありますが、今回は何をやれるか等を重点においてみましょうか。",
+      "content": "That's alright. Well, lifestyle is part of it, but for now, let's focus on what you would be able to do in each path."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:36:52",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:38:08",
+      "origin": "簡単に言えば、進学ですとさらなる知識を身につけることができますが、お仕事ではその身につける機会がどうしても少なくなります。",
+      "content": "Put simply, if you pursue higher education you can acquire more knowledge, whereas with a job, those opportunities to learn inevitably become fewer."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:38:17",
+      "origin": "全くの０ではないですけどね。",
+      "content": "It's not zero, of course."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:38:26",
+      "origin": "そうですね。",
+      "content": "That's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:39:32",
+      "origin": "また、学生の時であればお仕事と比べ時間があります。なので、興味を持ったことに好きな時に取り組める可能性が高いです。",
+      "content": "Also, as a student, you have more time compared to when you're working. So there's a higher chance you can pursue things you're interested in whenever you like."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:40:51",
+      "origin": "進学すれば、将来何がやりたいかを迷う時間が増えるということですね。",
+      "content": "So if I go on to higher education, I'll have more time to figure out what I want to do in the future."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:41:36",
+      "origin": "でも今は進学するのにも大学や専門を選ぶ段階でも、何がやりたいかわからなくて迷っている状態なのですが…",
+      "content": "But right now, I'm stuck because I don't know what I want to do, which makes it hard to even choose a university or vocational school..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:42:08",
+      "origin": "そうですね。やりたいことが見つかるかもしれません。",
+      "content": "Yes. You might find something you want to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:42:56",
+      "origin": "ただ、今はやりたいことがないとのことで、相談者様の得意分野でとりあえず進学する、というのはいかがでしょうか？",
+      "content": "However, since you don’t have anything you want to do at the moment, how about proceeding to higher education for now in a subject you’re good at?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:43:17",
+      "origin": "今やりたいことがない、そういう時期もありますよ。",
+      "content": "It's okay not to have something you want to do right now. Everyone goes through phases like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:43:33",
+      "origin": "進学にはお金もかかるし、そんなに安易に決めていいんでしょうか？",
+      "content": "Higher education costs money—is it okay to decide that so lightly?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:44:22",
+      "origin": "そうですね、お金も安くないですよね。その辺りは親御さんとはお話していますか？",
+      "content": "That's true, it isn't cheap. Have you talked with your parents about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:45:04",
+      "origin": "得意分野で進学したとして、その分野の知識は確かに身につけられると思います。それで4年間費やしていいのかとか",
+      "content": "If I were to pursue higher education in a field I’m good at, I do think I’d gain knowledge in that field. But I question whether it’s right to spend four years on that..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:45:27",
+      "origin": "親はお金は出してくれると思います。進学を進めてくるぐらいですから。",
+      "content": "I think my parents would pay for it. After all, they're the ones encouraging me to pursue higher education."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:46:12",
+      "origin": "就職は学校では身につかない経験が身につくとも聞きます。",
+      "content": "I’ve also heard that you can gain experiences through work that you can’t get at school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:46:30",
+      "origin": "なるほど、であればお金の面は心配いらないかもしれないですね。",
+      "content": "I see, in that case, you might not have to worry about the financial aspect."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:46:32",
+      "origin": "どちらも良いところ、悪いところがあって、自分では本当に悩んでしまっているんです。",
+      "content": "Both have their pros and cons, and I’m truly torn."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:47:01",
+      "origin": "確かに相談者様のおっしゃる通り、お仕事はお仕事でしか経験できないこともありますね。",
+      "content": "It's true what you say; there are certainly things you can only experience through work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:47:12",
+      "origin": "本当に迷いますよね、、、",
+      "content": "It really is a tough decision, isn’t it..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:47:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:49:36",
+      "origin": "親御さんや先生は、進学の方はどうかと仰っていますものね。",
+      "content": "And your parents and teachers are suggesting you go on to higher education, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:50:01",
+      "origin": "先生は多分、学校の進学率を上げたいという気持ちがあるのだと思います。",
+      "content": "I think the teachers probably want to raise the school’s rate of students advancing to higher education."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:50:26",
+      "origin": "就職よりも進学が多い方が、体裁がいいらしいので",
+      "content": "Apparently, the school looks better if more students go on to higher education than get jobs."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:50:40",
+      "origin": "なるほど、学校のためを思っているのですね。",
+      "content": "I see, so they're thinking about the school's reputation."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:51:57",
+      "origin": "そうみたいですね。あとは自分のクラスから、推薦で進学したという実績をあげたいという気持ちもあるんだと思います。",
+      "content": "It seems so. I also think they want to have the track record of a student from their class advancing to higher education on a recommendation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:53:00",
+      "origin": "そうなんですね、それについては相談者様はどのように思われていますか？",
+      "content": "I see. How do you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:53:29",
+      "origin": "先生、出世したいんだなーって感じです",
+      "content": "It just feels like the teacher wants to get a promotion."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:53:58",
+      "origin": "そうですよね、そうなりますよね。",
+      "content": "Right, it can feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:55:47",
+      "origin": "私としましては、先ほど進学を勧めましたが、今後どうするのかは相談者様が決めていいものだと思います。",
+      "content": "As for me, although I suggested pursuing higher education earlier, I believe it’s ultimately up to you to decide what to do going forward."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:55:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:57:54",
+      "origin": "応援していますよ。あまりお力になれず申し訳ありませんでしたが、そろそろ終了時間が近づいてまいりました。ここまででいかがでしょうか？",
+      "content": "I’m rooting for you. I’m sorry I couldn’t be of more help, but our time is almost up. How about we wrap up for today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:58:30",
+      "origin": "ありがとうございます。また考えてみます。",
+      "content": "Thank you. I'll think about it more."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T16:59:27",
+      "origin": "そうですか、ありがとうございます。もし、もっとお話したいことがあればまた来てくだいね。いつでもお待ちしております。",
+      "content": "I see, thank you. If there’s more you’d like to talk about, please come again. I’ll always be here for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:59:41",
+      "origin": "はい、また来ます。ありがとうごさいました。",
+      "content": "Yes, I’ll come again. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T16:59:47",
+      "origin": "（クライエントからは以上になります。）",
+      "content": "(That’s all from the client.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T17:00:12",
+      "origin": "それでは、終了メッセージを送ります。",
+      "content": "Well then, I will send the closing message."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-14T17:00:29",
+      "origin": "（ありがとうございました。）",
+      "content": "(Thank you very much.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-14T17:00:45",
+      "origin": "（今回は、ありがとうございました。至らないところ多々ありましたが、とても参考になりました。）",
+      "content": "(Thank you for today. There were many areas where I fell short, but this was very informative.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "進学と就職の選択に関する迷い"
+  },
+  "review_by_client": {
+    "evaluation_id": 4598,
+    "evaluation_created_at": "2023-02-14T17:10:00",
+    "client_id": 334,
+    "counselor_id": 342,
+    "score": 43,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

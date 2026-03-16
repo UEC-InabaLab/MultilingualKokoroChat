@@ -1,0 +1,555 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:28:37",
+      "origin": "こんばんは　相談員です。ご相談に来ていただきありがとうございます。はじめに、年齢と性別、ご相談内容をお知らせいただけますか？",
+      "content": "Good evening, I'm the counselor. Thank you for coming in for a consultation. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:29:56",
+      "origin": "年齢は35歳女性相談内容は仕事で人間関係がうまくいかないこと",
+      "content": "I'm a 35-year-old woman. The issue I'd like to discuss is that I'm not getting along well with people at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:31:01",
+      "origin": "教えていただきありがとうございます。悩みますよね…どういうことなのか、詳しく聞かせていただけますか？",
+      "content": "Thank you for sharing that. It’s understandable to be worried. Could you please tell me more about what's going on?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:31:41",
+      "origin": "職場の人に悪口を言われている気がして、周りの人が怖い",
+      "content": "I feel like people at work are saying bad things about me, and I'm scared of the people around me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:32:32",
+      "origin": "そうだったんですね…不安になりますよね…どうしてそう思われるのか、聞かせていただけますか？",
+      "content": "I see… that would make anyone anxious. Could you tell me what leads you to feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:34:31",
+      "origin": "あんまり人と話すのが苦手で、仕事でもうまく話せないし、上司も怖い",
+      "content": "I’m not very good at talking with people; I can’t communicate well at work, and my supervisor scares me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:36:02",
+      "origin": "はい、緊張してしましますよね…たとえば、どういうときに上手く話せないと感じるのですか？",
+      "content": "Yes, that sounds nerve-wracking. For example, in what situations do you feel you can’t speak well?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:36:44",
+      "origin": "何か聞かれてもすぐに答えられない。相手がイライラしているのがわかる",
+      "content": "When someone asks me something, I can't answer right away. I can tell the other person is getting irritated."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:37:22",
+      "origin": "そうでしたか…焦りますよね…",
+      "content": "I see… it’s understandable to feel flustered…"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:37:55",
+      "origin": "あせるというより、怖い",
+      "content": "Rather than flustered, I feel scared."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:38:39",
+      "origin": "そうなんですね、どうしてそう思われるのか、聞かせていただけますか？",
+      "content": "I see. Could you share what makes you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:38:57",
+      "origin": "自分でもよくわからない",
+      "content": "I’m not really sure myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:40:49",
+      "origin": "さきほど、上司が怖いとおっしゃっておられましたが、他にも怖いと感じる人がおられるのですか？",
+      "content": "You mentioned earlier that you find your supervisor scary, but are there other people you feel scared of?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:41:39",
+      "origin": "同じ部屋にいる人はみんな怖いと思ってしまう。悪口を言われている気がする。",
+      "content": "I end up feeling that everyone in the same room is scary. I feel like they're talking badly about me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:42:47",
+      "origin": "そうなんですね、ドキドキしますよね…実際になにか言われたことはあったりしますか？",
+      "content": "I see, that must make your heart race... Has anyone actually said anything to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:43:22",
+      "origin": "言い方がきつい。どいて、とか挨拶しても無視される",
+      "content": "Their way of speaking is harsh. They say things like, \"Move,\" and they ignore me when I greet them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:43:59",
+      "origin": "そんな…傷つきますよね…",
+      "content": "I’m sorry to hear that… that must be hurtful…"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:44:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:44:30",
+      "origin": "お仕事はなにをされておられるのですか？",
+      "content": "What kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:44:39",
+      "origin": "研究職",
+      "content": "I’m a researcher."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:46:52",
+      "origin": "そうなんですね、先ほど、すぐに答えられないとおっしゃっていましたが、それは、どういったことなのか、聞かせていただけますか？",
+      "content": "I see. You mentioned earlier that you can't answer right away—could you tell me more about what that’s like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:47:20",
+      "origin": "人と話すと緊張してしまって、うまく話せないから",
+      "content": "Because I get nervous when I talk to people and can't speak well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:48:27",
+      "origin": "はい、落ち込みますよね…うまく話すというのは、あなたにとってどういうことなのか、聞かせていただけますか？",
+      "content": "Yes, that can be disheartening… Could you tell me what “speaking well” means to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:49:48",
+      "origin": "質問されたことにすぐに答えること",
+      "content": "Being able to answer questions right away."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:51:21",
+      "origin": "はい、そう思っておられるのですね。相手から質問されたことが、わからないときは、どう答えておられるのですか？",
+      "content": "I see, so that’s how you view it. When you don’t know the answer to a question someone asks, how do you respond?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:51:40",
+      "origin": "黙ってしまう",
+      "content": "I end up staying silent."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:52:52",
+      "origin": "そうなんですね、そのとき、あなたはどんなことを考えておられるのですか？",
+      "content": "I see. In those moments, what tends to go through your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:53:10",
+      "origin": "頭が真っ白になる感じ",
+      "content": "It feels like my mind goes completely blank."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:53:49",
+      "origin": "怖くてどうしようもない、というような感じなのかしら…",
+      "content": "Is it something like feeling so scared you don’t know what to do…?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:54:24",
+      "origin": "答えられないのが悔しい",
+      "content": "It's frustrating that I can't answer."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:55:41",
+      "origin": "そうだったんですね…自分が情けないと思われるのかしら…",
+      "content": "I see… perhaps you feel disappointed in yourself…"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:56:11",
+      "origin": "よくわからないけど、悔しい感じ",
+      "content": "I'm not sure, but it feels frustrating."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:57:34",
+      "origin": "そうでしたか、それで、黙っていて相手はどんな反応をされたりしますか？",
+      "content": "I see. And when you remain silent, how does the other person tend to react?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:58:22",
+      "origin": "ちっ、こんなこともわからんないのかってバカにされる",
+      "content": "They click their tongue and make fun of me, like, \"Tsk, you can't even understand this?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T19:59:36",
+      "origin": "そうだったんですね…嫌な気持ちになりますよね…実際にそういうこと、相手から言われたことありますか？",
+      "content": "I see... That must feel awful... Has someone actually said that to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T19:59:53",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:00:17",
+      "origin": "そんな…傷つきますよね…",
+      "content": "I’m sorry… that must be very hurtful…"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:00:44",
+      "origin": "もう仕事に行きたくありません",
+      "content": "I don't want to go to work anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:01:34",
+      "origin": "はい、そう思うくらい苦しいのですね…",
+      "content": "I understand—it’s painful enough to make you feel that way…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:02:01",
+      "origin": "いまのお仕事は、どれくらいされておられるのですか？",
+      "content": "How long have you been at your current job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:02:06",
+      "origin": "みんなの目線が怖いから",
+      "content": "Because I'm scared of the way everyone looks at me."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:02:22",
+      "origin": "10年",
+      "content": "Ten years."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:04:11",
+      "origin": "10年も…ずっと、人間関係で悩まれておられたのですか？",
+      "content": "Ten years… Have you been struggling with relationships the whole time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:04:31",
+      "origin": "今の配属になって一年",
+      "content": "I’ve been in my current assignment for one year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:05:08",
+      "origin": "はい、それ以前はどうだったのでしょうか？",
+      "content": "I see. What was it like before that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:05:23",
+      "origin": "そんなに怖くはなかった",
+      "content": "It wasn’t that scary."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:06:29",
+      "origin": "そうだったんですね、今の配属になる以前と、今とでは、なにが違うのでしょうか？",
+      "content": "I see. What's different between before your current assignment and now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:06:43",
+      "origin": "人が違う",
+      "content": "The people are different."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:07:15",
+      "origin": "どのように、違うと感じておられるのか、聞かせていただけますか？",
+      "content": "Could you tell me how you feel they are different?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:07:31",
+      "origin": "怖い人がいる",
+      "content": "There's a scary person."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:08:31",
+      "origin": "はい、それはどなたですか？",
+      "content": "I see. Who would that be?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:08:42",
+      "origin": "同僚",
+      "content": "A coworker."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:09:25",
+      "origin": "同僚はどういう人なのか、聞かせていただけますか？",
+      "content": "Could you tell me what this coworker is like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:09:43",
+      "origin": "言い方がきついコソコソ何か言う",
+      "content": "They have a harsh way of speaking, and they whisper about things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:11:15",
+      "origin": "そうなんですね…嫌な気持ちになりますよね…",
+      "content": "I see... That must feel unpleasant..."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:11:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:11:30",
+      "origin": "たとえば、どういう場面で言い方がきついと思われるのですか？",
+      "content": "For example, in what situations do you feel their tone is harsh?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:12:09",
+      "origin": "さっきも言いましたが、こちらが答えられない時、何もしていなくてもコソコソ話す",
+      "content": "As I said earlier, they whisper when I can't answer, or even when I'm not doing anything."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:13:01",
+      "origin": "私はどうしたらいいのでしょうか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:15:25",
+      "origin": "はい、悩みますよね…いまのあなたの配属先でのことを、会社のどなたかに、相談したことはありますか？",
+      "content": "I understand, it’s a tough situation… Have you talked with anyone at your company about what’s happening in your current assignment?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:15:50",
+      "origin": "いいえ、ありません",
+      "content": "No, I haven’t."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:16:14",
+      "origin": "はい、それはどうしてなのか、聞かせていただけますか？",
+      "content": "I see. Could you tell me why that is?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:16:42",
+      "origin": "あまり、自分のことを話すは得意じゃないから",
+      "content": "Because I’m not very good at talking about myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:18:03",
+      "origin": "はい、話すのも勇気がいりますもんね…",
+      "content": "Yes, it does take courage to speak up about these things…"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:18:17",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:18:42",
+      "origin": "その同僚以外の人は、どのような感じなのですか？",
+      "content": "What are the other people like, besides that coworker?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:19:04",
+      "origin": "みんな怖い人に見える",
+      "content": "They all seem scary to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:19:49",
+      "origin": "はい、近寄りがたい感じ？",
+      "content": "I see. Like they're unapproachable?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:20:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:20:36",
+      "origin": "実際に話をされたことはありますか？",
+      "content": "Have you actually spoken with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:20:48",
+      "origin": "あまりないです",
+      "content": "Not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:21:31",
+      "origin": "それは、どうしてなのか、聞かせてもらえますか？",
+      "content": "Could you tell me why that is?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:22:08",
+      "origin": "人と話すのが苦手だし、1人でいる方が楽",
+      "content": "I'm not good at talking to people, and it’s easier to be alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:24:40",
+      "origin": "そうなんですね、その同僚が他の人とひそひそ話しているのを見て、あなたはどう思っているのか、聞かせていただけますか？",
+      "content": "I see. When you see that coworker whispering with others, how does it make you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:25:05",
+      "origin": "嫌な気持ち",
+      "content": "It feels unpleasant."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:26:41",
+      "origin": "はい、疎外感のような感じかしら？",
+      "content": "I see. Is it a sense of being left out, perhaps?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:27:24",
+      "origin": "よくわかりません。",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:28:33",
+      "origin": "はい、そうなんですね。ちなみに、いまの職場に配属になったのは、どんな経緯があったからなのか、聞かせてもらえますか？",
+      "content": "I see. By the way, could you tell me how you ended up being assigned to your current workplace?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:30:03",
+      "origin": "もう、お時間ですね。今日はありがとうございました。",
+      "content": "Oh, it looks like our time is up. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:31:02",
+      "origin": "こちらこそ、ありがとうございました。これで、ご相談は終了してもよかったでしょうか？",
+      "content": "Thank you as well. Would it be alright to conclude our session here?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:31:10",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:32:55",
+      "origin": "承知いたしました。今日はあなたの大切な気持ちを聞かせていただきありがとうございます。",
+      "content": "Understood. Thank you for sharing your important feelings with me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:33:19",
+      "origin": "あなたのお力になれればと思います。またご相談にいらしてください。",
+      "content": "I hope I can be of help to you. Please feel free to come back for another consultation anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-04T20:33:45",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:34:18",
+      "origin": "（それでは、これで終了いたします。）今日はご相談に来ていただきありがとうございました。",
+      "content": "(Well then, we will conclude here.) Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-04T20:34:48",
+      "origin": "終了メッセージをお送りいたします。",
+      "content": "I will send the closing message."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場の人間関係の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 4856,
+    "evaluation_created_at": "2023-04-04T20:58:00",
+    "client_id": 376,
+    "counselor_id": 38,
+    "score": 43,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

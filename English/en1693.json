@@ -1,0 +1,753 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-21T19:53:03",
+      "origin": "（こんばんは。今日はよろしくお願いいたします。ご都合の良いタイミングで始めさせていただきますので、お知らせください）",
+      "content": "(Good evening. Thank you for your time today. Please let me know when you are ready to begin.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T19:54:43",
+      "origin": "（こんばんは。宜しくお願い致します。先ほど帰宅しましたので、20時スタートでお願いできますか?）",
+      "content": "(Good evening. Thank you. I just got home, so could we please start at 8:00 PM?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T19:55:44",
+      "origin": "かしこまりました。多少遅くなってもかまいませんよ。お待ちしております。",
+      "content": "Certainly. It's alright if you're a little late. I'll be waiting."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T19:57:21",
+      "origin": "ありがとうございます。大丈夫です。宜しくお願い致します。",
+      "content": "Thank you. It should be fine. I look forward to our session."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T19:58:49",
+      "origin": "こちらこそよろしくお願いします。始めても大丈夫なタイミングになりましたら、お声掛けください。",
+      "content": "Likewise. Please let me know when you are ready to begin."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:00:56",
+      "origin": "スタート大丈夫です!",
+      "content": "I'm ready to start!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:01:19",
+      "origin": "ありがとうございます。それでは始めます。",
+      "content": "Thank you. Let's begin."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:01:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:01:45",
+      "origin": "こんばんは。相談員です。本日はご相談いお越しいただきありがとうございます。はじめにご年齢と性別を教えていただけますか？",
+      "content": "Good evening. I'm your counselor for today. Thank you for coming in for a consultation. To start, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:02:05",
+      "origin": "45才女性です。",
+      "content": "I'm a 45-year-old woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:02:38",
+      "origin": "ありがとうございます。では本日はどういったご相談でしたか？",
+      "content": "Thank you. So, what would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:03:06",
+      "origin": "もう何をやっても上手くいかなくて。死んでしまいたいです。",
+      "content": "Nothing I do seems to work out anymore. I feel like I want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:03:58",
+      "origin": "そうだったんですね。。何をやってもうまく行かなくなると、くるしくなりますよね。",
+      "content": "I see... It must be very painful when you feel like nothing is going right."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:04:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:04:43",
+      "origin": "はじめに、ニックネームでもいいので、なんとお呼びしたらいいでしょうか？",
+      "content": "First, what should I call you? You can use a nickname if you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:05:22",
+      "origin": "かっちゃんでお願いします。",
+      "content": "Please call me Kacchan."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:06:58",
+      "origin": "かっちゃん、ありがとうございます。ちなみに、どのようなことで上手く行かなかったと思われるのかを教えていただけますでしょうか。",
+      "content": "Thank you, Kacchan. Could you tell me more about what kinds of things you feel haven't been going well?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:07:25",
+      "origin": "私の人生は失敗続きです。",
+      "content": "My life has been one failure after another."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:08:23",
+      "origin": "そうだったんですね。。かっちゃんは、どういったことが失敗だとお感じになられていますか？",
+      "content": "I see. Kacchan, what kinds of things feel like failures to you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:09:49",
+      "origin": "結婚して子供ができました。デパートの専門店で店長をしていたので、とても忙しくて、イライラして、喧嘩が絶えなくなりました。",
+      "content": "I got married and had a child. I was the manager of a specialty store in a department store, so I was very busy, got irritated easily, and arguments became constant."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:11:21",
+      "origin": "離婚をして、女ひとりで子どもを育ていましたが、体力気力に限界が来て、メンタルがやられました。",
+      "content": "I got divorced and was raising my child as a single mother, but I reached my physical and emotional limits, and it took a toll on my mental health."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:11:29",
+      "origin": "そうなんですね。育児とお仕事などが重なってストレス過多だったんですね。。それはつらかったですね。。",
+      "content": "I see. You were overwhelmed with stress from juggling child-rearing and work... That must have been so difficult."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:11:59",
+      "origin": "はい。もともと不器用なタイプだったので、どうにもこうにもいかなくなりました。",
+      "content": "Yes. I've never been good at handling things, so it all became too much for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:13:48",
+      "origin": "そうでしたか。。シングルマザーとしてもがんばってやってこられたんですね。それはメンタルがやられても仕方がないと思いますよ。",
+      "content": "I see... You were trying so hard as a single mother. It's completely understandable that your mental health would suffer under those circumstances."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:14:44",
+      "origin": "そうですか?",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:15:08",
+      "origin": "メンタルがやられたことで仕事に出れなくなって",
+      "content": "Because of my mental health, I couldn't go to work anymore,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:15:19",
+      "origin": "家から外にも出れなくなって、",
+      "content": "I couldn't even leave the house,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:15:52",
+      "origin": "子どもにも影響が出て、",
+      "content": "it started affecting my child,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:16:17",
+      "origin": "八方ふさがりになりました。",
+      "content": "and I felt completely trapped."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:17:27",
+      "origin": "そうだったんですね。。今もお辛く大変な状況ですね。。かっちゃんもお子さんも、今現在はお食事はできておられますか？",
+      "content": "I see... It sounds like you are still in a very difficult and painful situation. Kacchan, are you and your child able to eat properly at the moment?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:18:45",
+      "origin": "もし、体調面などに影響が出ているようでしたら、病院へ行かれることをまずはおすすめしますが、いかがですか？",
+      "content": "If it's affecting your physical health, I would first recommend seeing a doctor. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:18:57",
+      "origin": "子どもは自宅にいると、よくないと考えて、無理やり学校の寮に入れてもらいました。",
+      "content": "I thought it wasn't good for my child to be at home, so I arranged for them to stay in the school dormitory, even if it was forced."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:19:36",
+      "origin": "病院にはかかっていて、精神障害者となっています。",
+      "content": "I'm seeing a doctor and have been diagnosed with a mental disability."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:20:04",
+      "origin": "なので、生活保護を受けて、経済的には何とかやっていますが、",
+      "content": "So, I'm receiving public assistance and managing to get by financially, but..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:21:01",
+      "origin": "辛い時は、起き上がれず、とにかく、炊飯器でご飯だけは炊いて、それだけを食べ続けている時もあります。",
+      "content": "When things are tough, I can't get out of bed, and sometimes I just manage to cook rice in the rice cooker and eat only that for days."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:21:42",
+      "origin": "私なんて、皆の厄介者で、いない方がいいんです。",
+      "content": "I'm just a burden to everyone; it would be better if I weren't here."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:21:48",
+      "origin": "ええ、そうだったんですね。。かっちゃんにとって、今一番お辛いことはどういったことでしょうか？",
+      "content": "Yes, I understand... What is the most painful thing for you right now, Kacchan?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:22:21",
+      "origin": "毎日の生活もアップダウンがあってしんどいのですが、",
+      "content": "My daily life has its ups and downs, which is exhausting, but"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:23:33",
+      "origin": "通い始めた就業支援の作業所で、あなたは問題を起こすから来るな、といわれたことが一番のダメージです。",
+      "content": "The biggest blow was being told at the vocational support workshop I had started attending, \"You cause problems, so don't come here anymore.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:23:38",
+      "origin": "毎日の生活のアップダウンがあると感じられいるんですね。それはしんどいですよ。。",
+      "content": "You feel that your daily life has its ups and downs. That must be exhausting..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:24:40",
+      "origin": "え！せっかく通い始めた作業所でそんなことを言われたんですか？",
+      "content": "What?! They said that to you at the workshop you had finally started attending?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:24:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:26:00",
+      "origin": "それはひどいですよね。。かっちゃんがくるしくなるのも当然ですよね。",
+      "content": "That's awful... It's no wonder you're feeling so distressed, Kacchan."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:26:53",
+      "origin": "ちなみにかっちゃんは今は作業所へは通えていますか？",
+      "content": "By the way, Kacchan, are you currently able to attend the workshop?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:26:55",
+      "origin": "ようやく通えるようになって、少しだけ希望が持てるようになってきた矢先だったので、また、動けなくなりました。",
+      "content": "I had finally been able to start going and was just beginning to feel a little hopeful, and then I became unable to function again."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:27:12",
+      "origin": "行き違いになってごめんなさい。",
+      "content": "I'm sorry, our messages seem to have crossed."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:28:25",
+      "origin": "いえ、大丈夫です。作業所には、厄介者扱いされるので行ってません。",
+      "content": "No, it's okay. I don't go to the workshop because I'm treated like a nuisance."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:28:39",
+      "origin": "そうだったんですね。。希望が持て始めのところに。。お辛いですよね。。",
+      "content": "I see... Just when you were starting to feel hopeful... That must be so painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:28:56",
+      "origin": "そんなことはないですよ、ぜったいに！",
+      "content": "That's not true, absolutely not!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:30:00",
+      "origin": "ちなみに、作業所では最初からそんな感じだっだのでしょうか？",
+      "content": "By the way, was it like that at the workshop from the very beginning?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:30:15",
+      "origin": "いいえ。",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:30:29",
+      "origin": "何かキッカケがおありだったということでしょうか？",
+      "content": "So, was there some trigger or incident?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:30:59",
+      "origin": "そこに通えるようになって、少しずつ上向きでした。",
+      "content": "Once I was able to attend, things were gradually looking up."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:31:20",
+      "origin": "ええ。聴いております。",
+      "content": "Yes, I'm listening."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:31:47",
+      "origin": "で、障害者が障害者をサポートする制度があって、私は、誰かの役に立ちたくて応募しました。",
+      "content": "And there is a system where people with disabilities support others with disabilities, and I applied because I wanted to be of help to someone."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:32:36",
+      "origin": "あ、そういった制度があるんですね！誰かのお役に立ちたいとは！かっちゃん、素晴らしいですね！！",
+      "content": "Oh, so there's a system like that! Wanting to help someone! That's wonderful, Kacchan!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:34:05",
+      "origin": "ありがとうございます。でも、まだ今の状態では難しい、でも、作業所に来る人の話を聴いてあげることで、誰かの役に立てるよ、といわれました。",
+      "content": "Thank you. But they told me it would be difficult in my current condition, but that I could still help someone by listening to the people who come to the workshop."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:34:40",
+      "origin": "初めは、サポーターになれなくて、ガッカリしましたが",
+      "content": "At first, I was disappointed that I couldn't become a supporter, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:34:55",
+      "origin": "ええ。ええ。",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:35:18",
+      "origin": "頑張ってみよう、と思って、来られる人たちと意識してお話をするようにしました。",
+      "content": "I decided to give it a try and made a conscious effort to talk with the people who came."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:36:30",
+      "origin": "そうしたら、話し相手の人から、外でも会いませんか、といわれ、お断りをしたことで、",
+      "content": "Then, one of the people I was talking to asked if we could meet outside of the workshop, and because I declined..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:36:37",
+      "origin": "かっちゃんは前向きですよね！そういうところ、素晴らしいと思いますよ！",
+      "content": "You're so positive, Kacchan! I think that's a wonderful quality!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:37:00",
+      "origin": "はい。聴いています。",
+      "content": "Yes. I'm listening."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:37:21",
+      "origin": "その人から恨みをかったみたいで、作業所の人にありもしないことを言われてしまいました。",
+      "content": "It seems that person held a grudge against me and told the workshop staff things that weren't true."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:38:09",
+      "origin": "私は、帆船が好きなんです。",
+      "content": "I like sailing ships."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:38:16",
+      "origin": "なるほど。。具体的にはどういった内容のことですか？",
+      "content": "I see... What specifically did they say?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:39:05",
+      "origin": "かっちゃんは帆船がお好きなんですね！ステキですね！！",
+      "content": "So you like sailing ships, Kacchan! That's lovely!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:39:16",
+      "origin": "小さい頃から好きだったんですが、病気になって改めて帆船が好きで、消えゆく帆船を応援したくて、帆船の話をしました。",
+      "content": "I've liked them since I was little, but after I got sick, I rediscovered my love for them. I wanted to support the disappearing sailing ships, so I talked about them."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:39:49",
+      "origin": "そうだったんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:40:49",
+      "origin": "帆船の魅力や、今度いつ港に入港するのか、とか、セイルの張り方とか…。それをその人は、趣味を押し付けてくるというような形で告げ口したんです。",
+      "content": "I talked about the appeal of sailing ships, when they would next enter port, how to rig the sails... That person reported it as if I were forcing my hobby on others."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:41:26",
+      "origin": "その人以外の人からも、趣味の押し付けをして、迷惑だと言われ・・・",
+      "content": "Other people besides that person also said I was pushing my hobby on them and that it was a nuisance..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:41:42",
+      "origin": "結局お出入り禁止になりました。",
+      "content": "In the end, I was banned from the facility."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:42:41",
+      "origin": "そうでしたか。。そのようなことが。。本当につらかったですよね。",
+      "content": "I see... That must have been truly painful."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:43:29",
+      "origin": "はい。自分のすべてを否定されたような気がしました。",
+      "content": "Yes. I felt as if my entire self had been rejected."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:44:13",
+      "origin": "そうですよね。そういう気持ちにもなりますよね。",
+      "content": "That makes sense. It's understandable to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:44:28",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:45:08",
+      "origin": "ちなみに、かっちゃんは、今もまだ作業所のようなところへ通いたいお気持ちはおありでしょうか？",
+      "content": "By the way, Kacchan, do you still feel like you want to attend a place like that workshop?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:46:47",
+      "origin": "はい、あります。調子の良い時にしか行けませんが、生活のメリハリができますし、就業につながれば生きて行く自身にも繋がりますから。",
+      "content": "Yes, I do. I can only go when I'm feeling well, but it gives my life some structure, and if it leads to employment, it will give me the confidence to live."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:47:12",
+      "origin": "自信です、すみません。",
+      "content": "I mean confidence, sorry for the typo."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:48:41",
+      "origin": "そうですよね！どんなことがあっても前向きで、誰かの役に立ちたいという希望があるかっちゃんなら、やれると思うんです！",
+      "content": "Exactly! For someone like you, Kacchan, who is so positive no matter what and wants to help others, I believe you can do it!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:49:08",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:49:48",
+      "origin": "調子の良い時だけでも良いと思います！どこか別の作業所を見つけてみてはいかがでしょうか？",
+      "content": "I think it's fine to go only when you're feeling well! How about looking for a different workshop?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:50:55",
+      "origin": "でも、今回もこうして厄介者扱いされていて、また、次の所でも同じような事にならないでしょうか?",
+      "content": "But I was treated like a nuisance this time. Won't the same thing happen at the next place?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:51:47",
+      "origin": "そうですよね、そういったことが心配になりますよね。",
+      "content": "Yes, I can understand why you would be worried about that."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:51:53",
+      "origin": "fe",
+      "content": ""
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:52:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:52:20",
+      "origin": "すみません。変換ミスです。",
+      "content": "Sorry, that was a typo."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:54:18",
+      "origin": "大丈夫です、気にしないでください。今回のところは、なぜそんなひどいことになったのか、私にも理解できません。なので別のところでまた同じようなことが起きるとは、私には考えにくいのですが。。",
+      "content": "It's okay, please don't worry about it. I can't understand why such a terrible thing happened at that last place. So, it's hard for me to imagine the same thing happening again somewhere else..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:55:31",
+      "origin": "そうならいいのですが…とにかく不器用で、よく言えば一途なので、猛進してしまっているのかもしれません。",
+      "content": "I hope so... I'm not very deft—to put it kindly, I'm single-minded—so perhaps I rush headlong into things."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:56:28",
+      "origin": "でも、私にとって命のように大切なものなんです。",
+      "content": "But it's as precious to me as life itself."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:57:04",
+      "origin": "ほどほどに…といわれますが、無理なんです。",
+      "content": "People tell me to do it in moderation... but I can't."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:57:59",
+      "origin": "命のように大切なもの。。そういうものがかっちゃんにはおありだから、かっちゃんはステキなんだと私は思いますよ！",
+      "content": "Something as precious as life itself... I think having something like that is what makes you so wonderful, Kacchan!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:58:17",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:58:31",
+      "origin": "逆にそれが、やっかまれたのかもしれません。",
+      "content": "On the contrary, that might be why they were jealous."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:58:47",
+      "origin": "そうですかね・・・",
+      "content": "Do you think so...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:59:05",
+      "origin": "でも分かってくれる人は必ずいますよ！大丈夫です！！",
+      "content": "But there will definitely be people who understand you! It'll be okay!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:59:32",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:59:55",
+      "origin": "そう信じて、どこか他のところを探してみます。",
+      "content": "I'll believe that and I'll try to find somewhere else."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:00:50",
+      "origin": "私には、前向きで、人にやさしくて、命より大切なものがあるかっちゃんなら、必ず居場所はあるし、分かってくれる人は必ずいると思うんです。",
+      "content": "For someone like you, Kacchan, who is positive, kind to others, and has something more precious than life, I believe there is definitely a place for you, and there will definitely be people who understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:01:16",
+      "origin": "ありがとうございます。頑張ってみます。",
+      "content": "Thank you. I'll try my best."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:01:27",
+      "origin": "今日は、ありがとうございました。",
+      "content": "Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:01:56",
+      "origin": "今はまだ見つかってないだけで、希望はあります。かっちゃんのこれからを応援していますよ！！",
+      "content": "You just haven't found it yet; there is hope. I'm cheering for your future, Kacchan!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:02:36",
+      "origin": "はい、ありがとうございます。希望をもって進んでみます。",
+      "content": "Yes, thank you. I'll move forward with hope."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:02:44",
+      "origin": "そうですね。そろそろお時間になりますが、今日お話されてみていかがでしたか？",
+      "content": "That's right. Our time is almost up. How do you feel after talking today?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:03:26",
+      "origin": "そうです！そうです！そのイキです！！",
+      "content": "Yes! Yes! That's the spirit!"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:03:40",
+      "origin": "はい、聴いていただけて、少し気持ちが楽になりました。",
+      "content": "Yes, having you listen made me feel a bit lighter."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:04:39",
+      "origin": "それは良かったです。またお話ししたくなったら、いつでもいらしてくださいね。",
+      "content": "I'm glad to hear that. Please feel free to come back anytime you want to talk."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:04:51",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:04:59",
+      "origin": "こちらこそ、大切なお話をありがとうございました。",
+      "content": "Thank you as well for sharing your important story."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:05:13",
+      "origin": "では、本日のご相談は終了してよろしいでしょうか？",
+      "content": "Then, shall we conclude today's session?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:05:36",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:05:58",
+      "origin": "こちらこそありがとうございました。それでは、今日はこれで終了させていただきます。",
+      "content": "Thank you as well. We'll end here for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:06:15",
+      "origin": "(お疲れ様でした。本日は大変勉強になりました。ありがとうございます。）",
+      "content": "(Thank you for your hard work. This was a great learning experience. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:06:39",
+      "origin": "（お疲れさまでした。ありがとうございました）",
+      "content": "(Thank you for your hard work. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:07:15",
+      "origin": "（初めて希死念慮のカウンセリングをしたので緊張しました。本当に良い勉強になりました。ありがとうございました。）",
+      "content": "(I was nervous because it was my first time counseling someone with suicidal ideation. It was a truly valuable learning experience. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:08:16",
+      "origin": "（複雑な話にお付き合い下さり、ありがとうございました）",
+      "content": "(Thank you for bearing with my complicated story.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:08:44",
+      "origin": "（とんでもないです。ありがとうございました。また機会がありましたら、よろしくお願いいたします。）",
+      "content": "(Not at all. Thank you. I hope we have the chance to do this again.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:09:45",
+      "origin": "（こちらこそです。ありがとうございました。失礼致します）",
+      "content": "(Likewise. Thank you. Goodbye.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:09:58",
+      "origin": "（それでは失礼いたします。）",
+      "content": "(Then, goodbye.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "メンタルヘルスの困難と孤独感"
+  },
+  "review_by_client": {
+    "evaluation_id": 1693,
+    "evaluation_created_at": "2021-04-22T11:23:00",
+    "client_id": 91,
+    "counselor_id": 130,
+    "score": 66,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

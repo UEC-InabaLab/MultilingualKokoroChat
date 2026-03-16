@@ -1,0 +1,777 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-11-20T09:56:48",
+      "origin": "おはようございます。今日はよろしくお願いいたします。",
+      "content": "Good morning. Thank you for seeing me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T09:57:21",
+      "origin": "おはようございます。よろしくお願いします。",
+      "content": "Good morning. I look forward to our session."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T09:57:41",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T09:59:16",
+      "origin": "10時から開始しましょう。よろしくお願いします。",
+      "content": "Let's begin at 10 o'clock. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T09:59:33",
+      "origin": "承知しました。よろしくお願いします。",
+      "content": "Understood. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:00:36",
+      "origin": "こんにちは、相談員です。本日はどうなさいましたか？",
+      "content": "Hello, I’m the counselor. What brings you in today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:01:06",
+      "origin": "こんにちは。転職した先でなかなか仕事がうまく行かなくて",
+      "content": "Hello. I recently changed jobs, and things aren't going very well at my new workplace."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:01:16",
+      "origin": "悩んでいます。",
+      "content": "I'm struggling with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:01:23",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:01:37",
+      "origin": "それは悩ましいですね。。",
+      "content": "That sounds quite distressing."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:01:43",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:02:16",
+      "origin": "具体的にはどのようなお悩みなのでしょうか",
+      "content": "Could you tell me more specifically what you’re struggling with?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:02:37",
+      "origin": "出版関係の仕事はなんですが、",
+      "content": "It's a job in the publishing industry,"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:02:57",
+      "origin": "前も同じような仕事だったんですが、",
+      "content": "and I had a similar job before,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:03:03",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:03:44",
+      "origin": "今までより、やらなくてはいけない事が多くて、なかなか覚えられない感じで",
+      "content": "But there's so much more I have to do than before, and I'm having trouble remembering it all."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:04:16",
+      "origin": "同じようなお仕事で転職されたのですね、でも仕事量が以前より多いと。。",
+      "content": "So you changed jobs within a similar line of work, but the workload is heavier than before..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:04:33",
+      "origin": "それは焦ってしまいますね、",
+      "content": "That must make you feel anxious."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:04:57",
+      "origin": "はい。量というか、新しいソフトもちょっと使うように言われたり",
+      "content": "Yes. It’s not just the volume—I’ve also been told to use some new software,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:05:08",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:05:24",
+      "origin": "上司の指示も、なんとなくわかりづらくて、",
+      "content": "My supervisor’s instructions are also somewhat hard to understand,"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:05:53",
+      "origin": "自分なりの理解で仕事していると、怒られます。",
+      "content": "and when I proceed based on my own understanding, I get scolded."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:06:08",
+      "origin": "そうなんですね、、",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:06:41",
+      "origin": "指示が分かりにくいと困りますしそれで怒られると理不尽に感じますね",
+      "content": "It must be difficult when the instructions aren't clear, and then to be scolded for it must feel unfair."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:06:58",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:07:32",
+      "origin": "休日も返上してソフトの使い方を調べたりもするのですが、",
+      "content": "I’ve even been giving up my days off to study how to use the software,"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:07:46",
+      "origin": "なんかすごく疲れてしまって・・",
+      "content": "but I end up feeling really exhausted..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:08:01",
+      "origin": "自己嫌悪というか、",
+      "content": "I end up feeling pretty down on myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:08:05",
+      "origin": "なるほど、、お休みの日も働いてらっしゃると。。",
+      "content": "I see... so you're working on your days off as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:08:35",
+      "origin": "それはとても疲労してしまうと思います。。",
+      "content": "That must be incredibly draining."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:08:52",
+      "origin": "はい。わからないことを、追いつかなくちゃと思って。",
+      "content": "Yes. I feel I have to catch up on what I don’t understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:09:31",
+      "origin": "転職したら早く仕事を覚えなきゃと思ってしまいますよね。。",
+      "content": "After changing jobs, it’s natural to feel you need to learn everything quickly."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:09:39",
+      "origin": "ええ",
+      "content": "Right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:10:15",
+      "origin": "それは精一杯な状況かと思います",
+      "content": "It sounds like you're doing the best you can in a tough situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:10:19",
+      "origin": "上司の方は今のあなたの状態にお気づきですか？",
+      "content": "Is your supervisor aware of how overwhelmed you are right now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:10:58",
+      "origin": "うーん。仕事が出来ないって思われてそうです。",
+      "content": "Hmm. I think they probably see me as incompetent."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:11:18",
+      "origin": "そうなんですね、、",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:13:16",
+      "origin": "上司の方は最初から仕事ができて当たり前だと思っておられる感じなのでしょうか",
+      "content": "Does it seem like your boss expects you to be able to do the job perfectly from the very beginning?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:14:13",
+      "origin": "そうですね。転職して半年くらいなので、そう思っているかも。",
+      "content": "Yes. It’s been about six months since I changed jobs, so they may think that."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:14:37",
+      "origin": "自分でも、なんだか前は出来ていたことがうまくできてない気がして、嫌になったり。",
+      "content": "Even I feel frustrated, like I can’t do things I used to be able to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:16:13",
+      "origin": "そうですか。。新しく覚える量が多いとできていたことも忘れることはよくありますよね",
+      "content": "I see... When you have a lot of new things to learn, it’s common to forget things you used to do well."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:16:33",
+      "origin": "はい。そうかもしれません。",
+      "content": "Yes, that might be true."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:16:43",
+      "origin": "混乱してしまうというか。",
+      "content": "I guess I feel overwhelmed and confused."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:17:31",
+      "origin": "わかります、覚える量が多いと混乱してしまいますね",
+      "content": "I understand. It's easy to get confused when you have to learn so much."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:17:47",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:19:04",
+      "origin": "では、これは確実に覚えたと思えるお仕事はありますか？",
+      "content": "Is there any part of the job you feel you’ve definitely learned and become comfortable with?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:20:22",
+      "origin": "そうですね・・",
+      "content": "Let me see..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:21:13",
+      "origin": "新しい取引先の方などは、概ね覚えたつもりです。",
+      "content": "I think I’ve mostly learned about our new clients and vendors."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:21:57",
+      "origin": "それは素晴らしいですね！まずは取引先の方、重要ですよね。",
+      "content": "That's wonderful! The clients are very important, after all."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:22:10",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:24:11",
+      "origin": "さきほど、ソフトについて慣れないとお話されていましたが、作業を覚えるのが難しいということなのですね。",
+      "content": "You mentioned earlier that you're not used to the software. Does that mean you're finding it difficult to learn the tasks associated with it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:24:50",
+      "origin": "そうですね。なかなかうまく使えなくて。",
+      "content": "Yes. I just can’t seem to use it well yet."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:25:30",
+      "origin": "作業は慣れるまで時間がかかってしまいますものね。。",
+      "content": "It does take time to get used to the workflows."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:25:50",
+      "origin": "それはもどかしいと思います",
+      "content": "I can imagine that must be frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:26:01",
+      "origin": "実際の操作でちょっとわからなかったり。でも、なかなか聞ける人がいなくて。",
+      "content": "Sometimes I get stuck on a specific operation. But there's really no one I can ask."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:26:42",
+      "origin": "なるほど。。",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:27:05",
+      "origin": "周りに聞ける方がいらっしゃらないと。。",
+      "content": "So there isn’t anyone around you can turn to with questions..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:27:23",
+      "origin": "聞いていいのか、悩むというか。",
+      "content": "I hesitate, wondering if it’s even okay to ask."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:27:38",
+      "origin": "忙しそうで、遠慮してしまい。",
+      "content": "Everyone seems busy, so I hesitate to bother them."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:28:01",
+      "origin": "周りの方はみなさん忙しくされているのですか、",
+      "content": "Are all your colleagues busy?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:28:09",
+      "origin": "それは遠慮してしまいますね",
+      "content": "I can understand why you would hesitate in that case."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:29:10",
+      "origin": "そうですね。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:29:20",
+      "origin": "では、いつもわからないときはどうされているのですか？",
+      "content": "So when you don’t understand something, what do you usually do?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:29:44",
+      "origin": "マニュアル本を読んだりしてます。",
+      "content": "I read the manuals."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:30:13",
+      "origin": "そうですよね",
+      "content": "That makes sense."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:30:46",
+      "origin": "マニュアル本は正確だし確実だけど、時間がかかりますよね、、",
+      "content": "Manuals are accurate and reliable, but they can be time-consuming, can't they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:31:03",
+      "origin": "周りの人に聞きたいところですね、、",
+      "content": "It would be nice to be able to ask someone around you."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:31:07",
+      "origin": "そうなんです。本だとやっぱりわからないこともあって。",
+      "content": "Exactly. And there are still things I don't understand even after reading the book."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:31:43",
+      "origin": "はい、その環境に合ったことは本だけではわからないですよね",
+      "content": "Yes, you can't learn things specific to your work environment from a book alone."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:32:02",
+      "origin": "ええ。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:32:44",
+      "origin": "では、周りの方とは休み時間などに雑談はされますか？",
+      "content": "Do you chat with your colleagues during break times?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:33:54",
+      "origin": "そうですね。とくに決まった休み時間と言うのが無くて、だいたい各自仕事の進み具合で、好きなときに食べてたりします。",
+      "content": "Well, we don’t really have set break times. People usually eat whenever it fits with their workflow."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:34:41",
+      "origin": "そうなんですねでは会社の方と雑談する機会は他にありますか。。？",
+      "content": "I see. Are there any other opportunities to chat with people at work?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:35:36",
+      "origin": "朝来たときとか、帰りとか、少しあるかなって感じです。",
+      "content": "Maybe a little when we arrive in the morning or when we’re leaving."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:36:53",
+      "origin": "親しい人同士は雑談していたりする時もあるんですが、なんか入りづらくて。",
+      "content": "People who are close with each other sometimes chat, but I find it hard to join in."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:36:54",
+      "origin": "それは少なく感じてしまいますが、、",
+      "content": "That does feel like limited opportunities..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:37:15",
+      "origin": "ええ、そうですね。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:37:38",
+      "origin": "さみしいかも。",
+      "content": "It's a bit lonely, actually."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:37:39",
+      "origin": "それしか交流する時間がないとなかなか打ち解けにくいですよね。。",
+      "content": "With so little time to interact, it must be difficult to get to know people."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:38:02",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:38:33",
+      "origin": "はい、おさみしいと思います。",
+      "content": "Yes, I can understand why you would feel lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:39:04",
+      "origin": "お話してみたいなと感じる方もいらっしゃらないですか？",
+      "content": "Is there anyone there you feel you might like to talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:39:36",
+      "origin": "そうですね、ちょっといい感じだなと思う方はいます。親切そうだし。",
+      "content": "Well, there is one person who seems nice. They seem kind."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:40:18",
+      "origin": "それはいいですね",
+      "content": "That's good."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:40:38",
+      "origin": "その方とお話はされましたか？",
+      "content": "Have you spoken with them?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:41:28",
+      "origin": "ええ。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:42:29",
+      "origin": "気軽に話せる仲になれそうでしょうか",
+      "content": "Do you think you could become friends and talk more casually?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:43:26",
+      "origin": "うーん。どんな感じで、話しかけたらいいのか・・",
+      "content": "Hmm. I’m not sure how I should approach them or what to say..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:43:48",
+      "origin": "でも仲良くなれたら嬉しいです。",
+      "content": "But I’d be happy if we could become friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:44:31",
+      "origin": "そうですよね、",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:45:11",
+      "origin": "仲良くなれたらと思える方が職場にいらっしゃるのは素敵ですね",
+      "content": "It's wonderful that there's someone at work you'd like to get to know better."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:45:33",
+      "origin": "そうですね。",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:46:54",
+      "origin": "まずはお天気のお話とか、なんでもないことを話しかける機会を増やしてみてはいかがでしょうか。",
+      "content": "Perhaps you could start by increasing the opportunities to talk about simple things, like the weather."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:47:28",
+      "origin": "なるほど。とりあえず話しかけてみるんですね。",
+      "content": "I see. So, just try to start a conversation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:48:38",
+      "origin": "はい、とりあえず、あいさつをして、お天気の話から入るだけで、交流が始まると思います。",
+      "content": "Yes, just saying hello and then mentioning the weather can be a start to building a connection."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:48:48",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:50:11",
+      "origin": "では、この辺りで、ご相談内容をまとめさせていただいてもよろしいでしょうか。",
+      "content": "Alright, would it be okay if I summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:50:19",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:51:31",
+      "origin": "あなたは転職されて、新しい職場で仕事がうまくいかなくて困っておられる",
+      "content": "You've changed jobs and are struggling because things are not going well at your new workplace."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:52:45",
+      "origin": "仕事のコツはわかっているが新しい環境での作業で覚えることが多い",
+      "content": "You understand the basics of the job, but there's a lot to learn in this new environment."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:53:04",
+      "origin": "でも、周りの人に気軽に聞くことができない",
+      "content": "However, you don't feel you can easily ask the people around you for help."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:53:12",
+      "origin": "という状況ですね",
+      "content": "Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:53:25",
+      "origin": "そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:54:43",
+      "origin": "あまり時間はない中ですが、どうにか周りの人とコミュニケーションをとりたいですよね",
+      "content": "Even though there isn't much time, you want to find a way to communicate more with the people around you."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:55:09",
+      "origin": "はい、そう思います。",
+      "content": "Yes, I do."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:55:49",
+      "origin": "あなたはどのようにコミュニケーションをとればいいと思いますか？",
+      "content": "How do you think you could go about communicating with them?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:56:36",
+      "origin": "そうですね。先ほどアドバイスくださったので、そんな感じで話しかけてみます。",
+      "content": "Well, you gave me some advice earlier, so I'll try talking to them like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:57:19",
+      "origin": "アドバイスを取り入れて下さるですね。嬉しいです、ありがとうございます。",
+      "content": "You're going to try my advice. I'm happy to hear that, thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:57:31",
+      "origin": "いえ、こちらこそ。",
+      "content": "No, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:58:05",
+      "origin": "まずは、あいさつ、そして他愛のない話、できるといいですね。",
+      "content": "Starting with a greeting, and then some small talk, would be a good first step."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:58:15",
+      "origin": "そうですね。",
+      "content": "You're right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T10:59:13",
+      "origin": "職場の方とよい関係が築けることを願っています。",
+      "content": "I hope you'll be able to build good relationships with your coworkers."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:59:24",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T10:59:30",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T11:00:09",
+      "origin": "では、今日はこのあたりでよろしいでしょうか",
+      "content": "Well then, shall we wrap up for today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T11:00:20",
+      "origin": "はい、良いです。",
+      "content": "Yes, that’s fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T11:00:55",
+      "origin": "では本日はありがとうございました。また何かあればいつでもご相談に来てくださいね。",
+      "content": "Thank you for coming in today. Please feel free to come back and talk anytime if something else comes up."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T11:01:09",
+      "origin": "はい、どうもありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T11:01:37",
+      "origin": "(本日はお付き合いいただきありがとうございました！)",
+      "content": "(Thank you for your participation today!)"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T11:02:02",
+      "origin": "こちらこそ、どうもありがとうございました！",
+      "content": "No, thank you as well!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T11:02:24",
+      "origin": "これで終了させていただいてもよろしいですか？",
+      "content": "May I end the session now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-20T11:02:40",
+      "origin": "はい、大丈夫です。おつかれさまでした。",
+      "content": "Yes, that’s fine. Thank you for your time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-20T11:02:50",
+      "origin": "お疲れさまでした！",
+      "content": "Thank you for your time!"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "新しい職場でのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 741,
+    "evaluation_created_at": "2020-11-20T11:45:00",
+    "client_id": 110,
+    "counselor_id": 44,
+    "score": 68,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

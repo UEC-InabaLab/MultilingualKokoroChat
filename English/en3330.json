@@ -1,0 +1,831 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-03-31T10:52:18",
+      "origin": "こんにちは、本日は宜しくお願い致します。お時間になりましたら始めさせていただきます。",
+      "content": "Hello, thank you for coming today. We'll get started now that it's time."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T10:52:57",
+      "origin": "おはようございます、よろしくお願いいたします。",
+      "content": "Good morning, thank you for seeing me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:00:45",
+      "origin": "こんにちは、相談員です。本日は宜しくお願い致します。初めにあなたの年齢と性別を教えていただけますか？",
+      "content": "Hello, I'm the counselor. Thank you for being here today. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:00:58",
+      "origin": "45歳女性です",
+      "content": "I'm a 45-year-old woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:01:25",
+      "origin": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:01:39",
+      "origin": "実の姉が怖くてなやんでいます",
+      "content": "I'm struggling because I'm scared of my older sister."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:03:09",
+      "origin": "そうなんですね、どのようなことがたあったのでしょうか？話しやすいとことからで大丈夫ですのでお伺いしてもよろしいですか？",
+      "content": "I see. What kinds of things have happened? You can start wherever you feel comfortable, so would it be all right if I asked you to tell me about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:03:25",
+      "origin": "小さい頃から怖いんです、",
+      "content": "I've been scared of her since I was little."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:03:52",
+      "origin": "ええ、そうなんですねどんなところがこわいですか？",
+      "content": "I see. What is it about her that's scary?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:04:00",
+      "origin": "威圧的というかなんでも自分の思い通りにならないと怒鳴るんです",
+      "content": "She's intimidating, or rather, she yells if anything doesn't go her way."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:04:47",
+      "origin": "ええ、ええそれはこわくて委縮してしまいますよね小さい頃からということで長い間悩んでいらっしゃるんですね",
+      "content": "Yes, yes, that must be scary and make you feel intimidated. And since it's been happening since you were a child, you must have been struggling with this for a long time."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:05:00",
+      "origin": "ええそうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:05:54",
+      "origin": "よく耐えていらっしゃいますね、お話しいただきありがとうございます。具体的にどういった事でお姉さまは怒鳴ったりするんですか？",
+      "content": "You've endured it for so long. Thank you for sharing that with me. What specific things does your sister yell about?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:06:43",
+      "origin": "そのスイッチがよくわかりません、多分機嫌が悪かったり、じぶんが納得いかない時ですね",
+      "content": "I don't really know what sets her off. It's probably when she's in a bad mood or when she's not happy with something."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:07:26",
+      "origin": "なるほど、そうでしたか。怒りのポイントがつかめないほど、些細なことがきっかけになっているのかもしれませんね。",
+      "content": "I see. If it's hard to pinpoint her triggers, it might be that even very small things can set her off."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:07:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:08:09",
+      "origin": "お姉さまとはどのくらいの頻度でお会いになるんですか？",
+      "content": "How often do you see your sister?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:08:37",
+      "origin": "1年に１回ぐらいですね、離れ暮らしているので",
+      "content": "About once a year, since we live apart."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:09:37",
+      "origin": "ええ、そうなんですね最後にお会いした時はいかがでしたか？そのときも何か機嫌が悪くなるようなことはございましたか？",
+      "content": "I see. How was it the last time you saw her? Did anything happen then to put her in a bad mood?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:09:57",
+      "origin": "会うとというより電話が怖いです",
+      "content": "It's not so much meeting her in person; it's the phone calls that scare me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:10:21",
+      "origin": "そうなんですねお電話で関わることがあるんですね",
+      "content": "I see, so you interact over the phone."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:10:27",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:10:54",
+      "origin": "いきなりお電話があるんですか？",
+      "content": "Does she call you out of the blue?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:11:16",
+      "origin": "ようがある時ぐらいですが",
+      "content": "Only when she needs something, but still..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:12:05",
+      "origin": "そうでしたか、電話口でもこわいというのはいつ掛かってくるかと不安になったりもしますよね",
+      "content": "I see. Being scared of her on the phone must also make you anxious about when she might call."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:12:22",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:12:40",
+      "origin": "お姉さまはお電話でどのようなことを仰っていましたか？",
+      "content": "What kinds of things does your sister say on the phone?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:13:24",
+      "origin": "姉は反ワクチンなんです。でも別に私は打ちたくないけど会社で必ずというので打たなくてはいけないんです",
+      "content": "My sister is anti-vaccine. It's not that I particularly wanted to get it, but I had to because it was mandatory at my company."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:13:37",
+      "origin": "ええ、ええ",
+      "content": "Yes, I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:13:51",
+      "origin": "それで打ったらいつまでも怒られてます",
+      "content": "And because I got it, she's been angry at me ever since."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:14:34",
+      "origin": "あなた様がワクチンを打ったことに納得がいかなくて怒鳴ってきたりする、という事なんですね",
+      "content": "So, she's not happy that you got the vaccine, and she yells at you for it, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:14:44",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:15:54",
+      "origin": "それはまさに、先ほどあなた様がおっしゃった自分の思うようなならないと機嫌が悪くなるということになりますねずっとそれが続くとご家族ですし、とてもしんどいですよね",
+      "content": "That sounds exactly like what you mentioned earlier, how she gets upset when things don't go her way. For that to continue for so long, especially with a family member, must be very hard on you."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:16:13",
+      "origin": "ええとそうですね",
+      "content": "Um, yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:17:06",
+      "origin": "お姉さまからそういった態度をとられたときあなた様はどのような対応を取られるんですか？",
+      "content": "When your sister acts that way toward you, how do you usually respond?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:17:38",
+      "origin": "そうだね　と言わないとさらに怒るのでとりあえず聞いてます",
+      "content": "If I don't say, \"You're right,\" she gets even angrier, so for now I just listen."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:18:16",
+      "origin": "ええ、ええ悪化しないようにその場はとりあえず聞いているような感じなんですね。",
+      "content": "I see. So you just listen for the time being to prevent the situation from getting worse."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:18:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:18:54",
+      "origin": "そうしないともっとお姉さまの機嫌を損ねたりもっと怒鳴ってきたりすることに繋がってしまうかもしれないですよね",
+      "content": "Because if you don't, it might upset her even more or lead to more yelling, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:19:16",
+      "origin": "はい　そのとうりです",
+      "content": "Yes, that's exactly right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:20:03",
+      "origin": "近しい存在にそういった方がいると神経を使いますし心が疲弊してしまいますよね。よく辛抱されているなと感じております。",
+      "content": "Having someone like that so close to you must be draining and mentally exhausting. I feel you've been very patient."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:20:16",
+      "origin": "そうですね",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:21:25",
+      "origin": "今日はそんなお姉さまとの関わり方についてどうしていったらいいか考えていきましょうか？",
+      "content": "Would you like to talk today about how we might approach your relationship with your sister?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:21:39",
+      "origin": "はい　お願いいたします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:22:11",
+      "origin": "はい、一緒に考えましょうねもう少しお話をお聞かせください",
+      "content": "Okay, let's think about it together. Please tell me a little more."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:22:41",
+      "origin": "お姉さまの態度は他の方にはどうでしょうか？",
+      "content": "How is your sister's attitude toward other people?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:23:00",
+      "origin": "はい　大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:23:19",
+      "origin": "親しい人以外には優しいです",
+      "content": "She's nice to everyone except those she's close to."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:23:27",
+      "origin": "家族には厳しいですが",
+      "content": "She's hard on her family, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:24:02",
+      "origin": "なるほどですねご家族には自分の思い通りになってほしいような感じがあるんですね",
+      "content": "I see. It sounds like she wants her family to do things her way."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:24:11",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:24:42",
+      "origin": "あなた様のご両親はこのことについてどんな風に思っているんでしょう？",
+      "content": "What do your parents think about this?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:24:58",
+      "origin": "仕方ない感じですね",
+      "content": "They seem to feel that it can't be helped."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:25:47",
+      "origin": "ええ、そうでしたか小さい頃からの性格で、これは仕方ない、という気持ちなのかもしれませんね",
+      "content": "I see. Perhaps they feel it's just her personality since childhood and can't be helped."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:25:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:26:11",
+      "origin": "お姉さまはご家庭を持たれていらっしゃいますか？",
+      "content": "Does your sister have her own family?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:26:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:27:19",
+      "origin": "お姉さまのご家族からはどんなお声がありますか？",
+      "content": "Have you heard anything from her family about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:27:34",
+      "origin": "それはわかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:28:35",
+      "origin": "そうなんですね、ではあまりお姉さまのご家族とはそういったお話をされないということなんですね。",
+      "content": "I see, so you don't really talk about those things with your sister's family."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:28:51",
+      "origin": "はい",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:30:15",
+      "origin": "先ほどワクチンのお話もありましたし、些細な事でもお姉さまの気に障ってしまうのは、どうしたらいいか分からなくなりますよね",
+      "content": "With the story about the vaccine and how even small things can upset her, it must be hard to know what to do."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:30:37",
+      "origin": "そうですね　本当に",
+      "content": "Yes, it really is."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:31:02",
+      "origin": "そう思ってしまうのも無理はないですよねあなた様の中で今までのお姉さまからの言動で一番印象に残っているのはどんなことでしたか？",
+      "content": "It's completely understandable that you'd feel that way. Of all the things your sister has said or done to you, what stands out the most in your memory?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:31:36",
+      "origin": "家買った時　離婚したらどうするのかと言われました",
+      "content": "When I bought a house, she said, \"What will you do if you get divorced?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:32:40",
+      "origin": "ええ、そんなことがあったんですね。あなた様がお家を購入したときに、「離婚」ということをおっしゃられたんですね",
+      "content": "I see, that happened. When you bought your house, she brought up 'divorce'."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:32:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:32:56",
+      "origin": "それを聞いて、あなたはどう思われましたか？",
+      "content": "How did you feel when you heard that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:33:24",
+      "origin": "性格わかってるのでまーまたかしか思いませんが",
+      "content": "I know her personality, so I just thought, \"Here we go again.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:35:40",
+      "origin": "お姉さまとしたら妹のあなた様を心配しておっしゃったのかもしれませんが、いくら家族だからと言っていい事と悪い事はあると私は思いますよ",
+      "content": "Perhaps your sister said it out of concern for you, her younger sister, but even with family, I believe there are things that are okay to say and things that are not."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:36:20",
+      "origin": "ええ私もそう思います。言いたい事を言わないと気がすまないんですね　多分",
+      "content": "Yes, I think so too. She probably isn't satisfied unless she says whatever is on her mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:37:27",
+      "origin": "反論するとまた逆効果になるからこちらは聞いていると、それもまたお姉さまが毎度突っかかってくる原因にもなり得そうで悪循環に感じてしまいますよね",
+      "content": "If you argue back, it's counterproductive, so you just listen. But that itself might be a reason why she comes at you every time. It feels like a vicious cycle."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:38:01",
+      "origin": "そうですよね、我慢するか相手にしないしか方法はなさそうですね",
+      "content": "You're right. It seems like the only options are to endure it or not to engage with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:38:59",
+      "origin": "ええ、でも頭では分かっていてもそれが難しかったりしますよね",
+      "content": "Yes, but even if you know that intellectually, it can be difficult to do."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:39:10",
+      "origin": "そうですよね",
+      "content": "That's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:41:26",
+      "origin": "小さい頃からそうだったというお話がありましたがなにかきっかけになるようなことはありましたか？それとも気づいたときから、そういう感じだったんでしょうか？",
+      "content": "You mentioned she's been like this since you were children. Was there some sort of trigger, or has she just been that way for as long as you can remember?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:41:57",
+      "origin": "気づいた時にはそうでしたね",
+      "content": "She was like that by the time I can remember."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:43:12",
+      "origin": "ええ、そうなんですねそうすると対処法も考えにくいところかもしれませんね他人であればそこまで悩まなくても済むかもしれませんが家族だからこそのお悩みですよね",
+      "content": "I see. In that case, it might be difficult to think of a way to deal with it. If she were a stranger, it might not be such a big problem, but this is a struggle that comes from her being family."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:43:25",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:43:34",
+      "origin": "逆にお姉さまの良いところは何か浮かびますか？",
+      "content": "On the other hand, can you think of any of your sister's good qualities?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:43:56",
+      "origin": "優しいし頭はいいですよ",
+      "content": "She's kind and smart."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:44:20",
+      "origin": "気が強いのがそれを消してしまうので勿体無いなと思います",
+      "content": "I think it's a shame that her strong-willed nature cancels those good qualities out."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:44:39",
+      "origin": "ええ、そうなんですね確かに、そう思いますねどういったところで優しいとお感じになったんですか？",
+      "content": "I see, yes, I can see that. In what ways do you feel she is kind?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:45:16",
+      "origin": "うーん、責任感強いのでまー何か困った時は意見くれたりしますので",
+      "content": "Well, she has a strong sense of responsibility, so when I'm having trouble with something, she'll give me her opinion."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:46:35",
+      "origin": "ええ、困ったときに相談相手になってくれたりもするんですねそれはとてもありがたいし心強かったりもしますよね。",
+      "content": "I see, so she can also be someone you can talk to when you're in trouble. That must be very helpful and reassuring."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:46:47",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:47:05",
+      "origin": "そういった良い面も知ってるからこそもったいないと感じられるんですよね。",
+      "content": "It's because you know those good sides of her that you feel it's a shame."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:47:13",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:48:21",
+      "origin": "姉妹ですし少しでも関わりやすくなったら良いですよね",
+      "content": "You are sisters, so it would be nice if your relationship could be a little easier."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:48:33",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:48:43",
+      "origin": "あなた様にとってお姉さまはどういう存在だと思いますか？",
+      "content": "What kind of presence is your sister to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:49:09",
+      "origin": "偉大すぎてよくわかりません",
+      "content": "She's so larger than life that it's hard to say."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:49:55",
+      "origin": "ええ、そうなんですね頭も良くて優しい偉大なお姉さまとお感じになられているんですね",
+      "content": "I see. So you feel she is a great sister who is smart and kind."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:50:18",
+      "origin": "プラス　気が強いのがたまに傷",
+      "content": "Plus, her strong will is her one flaw."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:51:13",
+      "origin": "ええ、ええ気がお強いから、こわいんですよねそんなお姉さまが、どんなふうになったらいいとあなた様はお考えですか？",
+      "content": "Yes, yes. And because she's so strong-willed, she's scary. How would you like your sister to be?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:51:35",
+      "origin": "穏やかに話してほしいんです",
+      "content": "I just want her to speak to me calmly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:51:48",
+      "origin": "ええ、ほんとうにそうですよね",
+      "content": "Yes, I completely understand."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:51:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:52:51",
+      "origin": "穏やかにお話ししほしいとお伝えしたことはありますか？",
+      "content": "Have you ever told her you'd like her to speak more calmly?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:52:59",
+      "origin": "言えません",
+      "content": "I can't."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:54:43",
+      "origin": "そうですよね実は私にもすぐに怒って怒鳴る妹がいまして...今まであなた様のお話を伺っていて、妹のことが頭に浮かんだりしました。私も気を遣うしかなく疲れてしまうときがあります。",
+      "content": "I understand. Actually, I have a younger sister who gets angry and yells easily... As I was listening to your story, she came to mind. I also find myself having to be careful around her, and it can be tiring."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:55:17",
+      "origin": "えーそうなんですか！",
+      "content": "Oh, really?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:55:23",
+      "origin": "親近感湧きます",
+      "content": "That makes me feel like I'm not alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:55:46",
+      "origin": "私の話になってしまいすみません。でもあなたのお気持ちに共感する部分があり、親身になってお話伺っておりました。",
+      "content": "I'm sorry for talking about myself. But I really empathize with how you feel, and I've been listening with that in mind."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:56:05",
+      "origin": "いいえ　私は今までお話を聞いてもらって",
+      "content": "No, not at all. All this time, you've been listening to my story,"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:56:21",
+      "origin": "すごい状況がわかるカウンセラー役の方だと思ってました",
+      "content": "and I was just thinking what a great counselor you are for understanding the situation so well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:56:32",
+      "origin": "家族だから、良い部分も知っているから、大切な存在だからこそ悩みますよね！",
+      "content": "It's because she's family, because you know her good side, and because she's important to you that it's so difficult, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:56:44",
+      "origin": "本当にそうなんです。",
+      "content": "That's exactly it."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:56:56",
+      "origin": "解決したいけどまた怒るから言えないし",
+      "content": "I want to resolve it, but I can't say anything because she'll just get angry again."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:57:05",
+      "origin": "でも仲良くしたいのに",
+      "content": "But I want to get along with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:57:08",
+      "origin": "あなた様は怖いお気持ちを抱えられて大変な事も多いと思うのです。",
+      "content": "I imagine it must be very difficult for you, carrying around that fear."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:57:25",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:57:26",
+      "origin": "関係を壊したくないんですよね",
+      "content": "You don't want to ruin the relationship, do you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:57:34",
+      "origin": "そのとうりです",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T11:58:32",
+      "origin": "でもまずはあなた様がどう思われるかを優先してみてもいいかもしれません。心が壊れてしまうのがとても心配ですので優先すべきはあなたのお気持ちです。",
+      "content": "But perhaps it's okay to prioritize your own feelings first. I'm very concerned about your emotional well-being, so your feelings should be the priority."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T11:59:11",
+      "origin": "そうですね、ゆっくり今まで通りやってまたきつかったら相談します",
+      "content": "You're right. I'll take it slow and continue as I have been, and if it gets too hard again, I'll come back to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:00:00",
+      "origin": "お姉さまに対してこわいと感じられたらそれを出来ればお伝えしてそれでも治らなければ少し距離を置いてみたり電話に出ないようにするなど考えてみてもいいかもしれません",
+      "content": "If you feel scared of your sister, you could try telling her that, if possible. If that doesn't change anything, it might be a good idea to consider putting some distance between you, like not answering her calls."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:00:14",
+      "origin": "はいわかりました",
+      "content": "Okay, I understand."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:00:17",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:00:32",
+      "origin": "１度距離を置くことが、悪い事だと考えなくても大丈夫ですからね",
+      "content": "It's okay not to think of putting some distance between you as a bad thing."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:00:47",
+      "origin": "はい　そうですね！",
+      "content": "Yes, you're right!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:00:51",
+      "origin": "お話しお聞かせいただきありがとうございます。",
+      "content": "Thank you for sharing your story with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:01:18",
+      "origin": "そろそろお時間になってしまうのですかそのほかにお困りごとは大丈夫ですか？",
+      "content": "It looks like our time is almost up. Is there anything else you're concerned about?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:01:35",
+      "origin": "はい大丈夫ですありがとうございました",
+      "content": "No, I'm fine. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:02:13",
+      "origin": "またいつでもこちらに来ていただければと思います。些細な事でもお話しくださいねあなた様とお姉さまのご関係がうまくいくよう願っております",
+      "content": "Please feel free to come back anytime. You can talk about anything, no matter how small. I hope that your relationship with your sister goes well."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:02:24",
+      "origin": "はい本当にありがとうございます",
+      "content": "Yes, thank you so much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:02:25",
+      "origin": "本日はありがとうございました。",
+      "content": "Thank you for today."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:02:31",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:02:40",
+      "origin": "はい、こちらで失礼いたします。",
+      "content": "Alright, I will end the session here. Goodbye."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:02:48",
+      "origin": "失礼いたします",
+      "content": "Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-31T12:02:55",
+      "origin": "（ロールプレイありがとうございました。またよろしくお願いいたします。）",
+      "content": "(Thank you for the role-play. I look forward to working with you again.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-31T12:03:06",
+      "origin": "お疲れ様でした！",
+      "content": "Good work!"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "姉とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3330,
+    "evaluation_created_at": "2022-03-31T21:02:00",
+    "client_id": 253,
+    "counselor_id": 249,
+    "score": 83,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

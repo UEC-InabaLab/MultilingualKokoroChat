@@ -1,0 +1,885 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:27:31",
+      "origin": "（こんばんは。本日の目標は、しっかりと受容、共感を速く返信するです。よろしくお願いいたします。お時間になりましたら始めさせていただきますね。）",
+      "content": "(Good evening. My goal for today is to respond promptly with solid acceptance and empathy. I look forward to our session. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:28:42",
+      "origin": "（こちらこそ、よろしくお願いします）",
+      "content": "(Same here, I look forward to it.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:30:55",
+      "origin": "（それでは、始めさせていただきますね。）",
+      "content": "(Well then, let’s begin.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:31:01",
+      "origin": "こんばんは。今日はご相談に来てくださりありがとうございます。はじめに、年齢、性別、今日お話ししたいことを教えていただけますか？",
+      "content": "Good evening. Thank you for coming in for a consultation today. To start, could you please tell me your age, gender, and what you'd like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:31:43",
+      "origin": "51歳、女性、職場の悩みです。",
+      "content": "I'm 51, female, and I'm having problems at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:31:58",
+      "origin": "教えてくださりありがとうございます。",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:32:48",
+      "origin": "職場での悩みですね。どのようなことがあるのか、お話しやすいところから聞かせていただけますか？",
+      "content": "Problems at work, I see. Could you tell me about it, starting from wherever feels most comfortable for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:34:14",
+      "origin": "前から職場環境が悪く本当にストレスばかりでした。それで、病気にもなってしまったのですが、仕事復帰してからは健康第一と思い仕事をセーブしていてのですが、やはり辛くて悩んでます。",
+      "content": "The work environment has long been poor, and it’s been nothing but stress. It even made me ill. After returning to work, I’ve been trying to prioritize my health and scale back, but it’s still hard and I’m struggling."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:34:35",
+      "origin": "病気は、精神疾患ではないです。",
+      "content": "The illness wasn’t a mental health condition."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:34:46",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:35:27",
+      "origin": "体調を崩されるほどのストレスを感じる職場なのですね。しんどい思いをされているのですね。",
+      "content": "So it’s a workplace where the stress is enough to affect your health. You’ve really been having a hard time."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:35:45",
+      "origin": "はい、かなりしんどいですね。",
+      "content": "Yes, it’s quite rough."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:36:24",
+      "origin": "ええ。健康が大事と思われながらも、お仕事を続けているのではないですか。",
+      "content": "Right. Even while valuing your health, you’ve continued working, haven’t you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:36:55",
+      "origin": "そうですね。仕事は好きなんです。",
+      "content": "That's right. I do like the work itself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:37:27",
+      "origin": "仕事は好きなのに、環境が、、、、ちなみに、職場環境が悪いというのは、どのようなことがあるのですか？",
+      "content": "You like the job, but the environment... By the way, what makes the work environment so bad?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:38:18",
+      "origin": "人ですね。私が人と上手くやれないとかではなく、相手の仕事の仕方がひどいのです。その影響を受けて私が辛い思いをしています。",
+      "content": "It’s the people. It’s not that I can’t get along with others—the way they work is terrible. I’m the one who suffers the consequences."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:39:33",
+      "origin": "学校で勤務しているのですが、TTの授業で大変なのです。説明が難しいのですが💦",
+      "content": "I work at a school, and team-teaching (TT) classes are very challenging. It’s hard to explain."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:40:18",
+      "origin": "学校でのお仕事なのですね。お仕事内容の説明って難しいですよね。相手の方のフォローをしないといけないような環境なのでしょうか、、、",
+      "content": "So you work at a school. It can be hard to explain the specifics of your work. Is it an environment where you have to constantly cover for the other person...?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:41:05",
+      "origin": "自分が仕事ができないことをわかってなく、できないことを全て私にやらせることになります。私がやらなければ良いのですが、やらないと生徒が困るので私は生徒のためにやってしまいます。",
+      "content": "They don’t realize they can’t do the work, and everything they can’t do ends up falling to me. I could just not do it, but the students would be affected, so I end up doing it for their sake."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:42:27",
+      "origin": "そうだったのですね。チームを組んでいる相手の方との仕事のバランスが取れていなくて、あなたばかり、やることが多くなるような感じでなのでしょうか",
+      "content": "I see. So the workload with your team partner isn’t balanced, and it sounds like you end up with more to do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:42:53",
+      "origin": "それをわかっていて、私にやらせるんだと思います。できないことを責めているわけではないんです。できていないことを理解して頼んできたり、申し訳なさそうにしているのならまだしも。しかも、私は二人分の仕事をしているので疲れてしまいます。",
+      "content": "I think they know it and make me do it anyway. I'm not blaming them for not being able to do it. It would be one thing if they understood they couldn't do it and asked for help, or at least seemed apologetic. But as it is, I'm doing the work of two people and I'm exhausted."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:43:38",
+      "origin": "そういう人が一人ならまだしも、二人もいます。",
+      "content": "It would be one thing if there were just one person like that, but there are two."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:44:07",
+      "origin": "そうなんですね。二人も、、、三人でチームを組んでいるのですか？",
+      "content": "I see. Two of them... Are you working in a three-person team?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:45:05",
+      "origin": "発達障害なんだと思います。様子を見ていたらわかります。なので、本人を責めたりはしてません。管理職に話に行きました。管理職は、わかっていて私にその人たちを預けていますね。ひどい話です。病み上がりの私に。",
+      "content": "I think they have developmental disabilities—you can tell by observing them. So I’m not blaming them personally. I went to speak with the administration. The administration knows and still assigns those people to me. It’s terrible, especially since I’m just recovering from illness."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:45:41",
+      "origin": "学部が5人でして、そのうちの二人が最悪で私と組んでます。",
+      "content": "There are five people in my department, and the two worst ones are paired with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:46:50",
+      "origin": "そうだったのですね。あなたの負担が大きいのですね。そのことをふまえて、相手を責めるのではなく、きちんと管理職にお話しされたのですね。",
+      "content": "I see. That's a huge burden on you. And understanding the situation, you didn't blame your colleagues but properly spoke with the administration about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:47:36",
+      "origin": "管理職の人は、どのように言っているのですか？",
+      "content": "What did the administrators say?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:47:41",
+      "origin": "はい、相手に話をしても何も伝わりませんのでね。",
+      "content": "Yes, because talking to them directly gets me nowhere."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:48:38",
+      "origin": "管理職は、ひどいね。困ったね。と言ってました。でも、４月の校内人事で配置換えをしてくれるのか(？)もわかりまけんね。",
+      "content": "The administrators just said, \"That's terrible. What a problem.\" But I have no idea if they'll reassign people during the school personnel changes in April."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:50:08",
+      "origin": "そう感じるのですね。なかなか、人事のことは教えてくれないのかもしれませんね。あなたとしては、二人に話すよりも、管理職に人事を考えてほしいと伝えたということであってますか？",
+      "content": "That's how it feels to you. They may not be willing to discuss personnel matters. So, just to confirm, rather than talking to the two individuals, you communicated to the administration that you want them to consider a personnel change. Is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:50:47",
+      "origin": "そうですね。遠回しにそう伝えたつもりです。",
+      "content": "That's right. I intended to convey that indirectly."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:52:23",
+      "origin": "そうだったのですね。その時、あなたは相手に伝わっていると感じましたか？",
+      "content": "I see. At that time, did you feel your message got across to them?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:53:06",
+      "origin": "かなり深刻に伝えたのでわかっているとは思います",
+      "content": "I conveyed it very seriously, so I think they understand."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:53:34",
+      "origin": "そういう人とは、どうやって働いたら良いのか悩みますね。",
+      "content": "I just don't know how I'm supposed to work with people like that."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:53:56",
+      "origin": "仕事量のバランスが半端ないんです。",
+      "content": "The workload imbalance is extreme."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:54:14",
+      "origin": "民間だったら絶対に解雇されてますね。",
+      "content": "In the private sector, they’d definitely be fired."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:54:39",
+      "origin": "そう感じるほどに、あなたの負担が大きいのですね。",
+      "content": "Your burden must be enormous for you to feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:55:32",
+      "origin": "ちなみに、いつごろから、そのような状況なのですか？",
+      "content": "By the way, how long has this situation been going on?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:55:41",
+      "origin": "私は、優しい人だと周囲から思われているみたいなので、それで仕事を押し付けられる、利用されるようになってしまうならば、本当に嫌ですね。本来ならば優しいって素敵なことですよね。なのに、こんな風に利用されて病気までして。辛いですね。",
+      "content": "It seems people around me think I'm a kind person, and if that's why work gets pushed onto me and I'm taken advantage of, then I really hate it. Being kind should be a wonderful thing, right? But instead, I'm being used like this, to the point of getting sick. It's painful."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:56:23",
+      "origin": "今の人たちは、４月からですね。その前からずっと、そういう人たちと組まされてました。それで病気になりました。",
+      "content": "The current people have been here since April. But I've been paired with people like them for a long time before that, too. That's what made me sick."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:56:52",
+      "origin": "行違いましたね。４月からのことなのですね。利用されているように感じると、仕事のしんどさ以外にも気持ちに負担がかかるのも無理もないと思います。",
+      "content": "Ah, our messages crossed. So this has been since April. When you feel like you're being taken advantage of, it's understandable that it would be a mental burden on top of the difficulty of the work itself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:56:57",
+      "origin": "結局、ずっと、そういう人たちと組まされてます。人が代わっているだけで、いつもそういうパターンです。",
+      "content": "In the end, I keep being paired with people like that. The faces change, but it’s always the same pattern."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:57:40",
+      "origin": "パターン化しているのですね。ちなみに、今は、体調はいかがですか？",
+      "content": "It’s become a pattern, hasn’t it? By the way, how is your health now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:58:07",
+      "origin": "寝不足ですね。たまに頭痛もあります。",
+      "content": "I’m sleep-deprived, and I sometimes get headaches."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:58:52",
+      "origin": "できない人を責めるつもりはないのですが、そういう人を採用して欲しくないと思ってしまいます。",
+      "content": "I don’t mean to blame people who can’t do the work, but I can’t help but wish they wouldn’t hire people like that."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:59:16",
+      "origin": "できない人もできる違う仕事に就けば良いですよね(？)",
+      "content": "People who can't do this job should just find a different one that they can do, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T19:59:28",
+      "origin": "そう思われるほどに、常に組まされてきたのですね。",
+      "content": "You've been consistently paired with them, to the point you feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T19:59:45",
+      "origin": "はい、ずっとですね。",
+      "content": "Yes, for a very long time."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:00:05",
+      "origin": "毎年、毎年、ずっとです。",
+      "content": "Every year, year after year."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:00:23",
+      "origin": "ええ。ええ。しんどい思いをされてこられたのだと思います。もちろん、最初から出来る仕事を選ぶことも大切なことです。",
+      "content": "Yes, I see. I imagine it's been very difficult for you. Of course, choosing a job one is capable of from the start is also important."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:01:06",
+      "origin": "とにかく二人とも簡単なことすらできなく、生徒も怒ってます。",
+      "content": "In any case, neither of them can do even the simplest things, and the students are getting angry too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:01:07",
+      "origin": "それと同じぐらい、出来ないことを学んでいくことも大切なことだと思いますが、あなたはどう思われますか？",
+      "content": "At the same time, I think learning to do things one can't is also important, but what are your thoughts on that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:01:21",
+      "origin": "また、行違ってしまいましたね。",
+      "content": "Ah, our messages crossed again."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:01:35",
+      "origin": "生徒さんも怒っているのでね。",
+      "content": "The students are angry, you said."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:01:59",
+      "origin": "学んでできるようになるなら私も時間をかけて教えたいのですが、教えてもできないのです。",
+      "content": "If they could learn and become able to do it, I would gladly take the time to teach them, but they can't do it even when I teach them."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:02:27",
+      "origin": "学んでいるうちに、物を壊してしまうのです。",
+      "content": "While they're learning, they end up breaking things."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:02:35",
+      "origin": "例えば、ミシンとか。",
+      "content": "For example, sewing machines."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:03:07",
+      "origin": "とにかく、覚えられないみたいですね。",
+      "content": "In any case, it seems they just can't remember."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:03:31",
+      "origin": "ミシンを壊す、、、",
+      "content": "Breaking sewing machines..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:03:48",
+      "origin": "発達障害なんですよね。学校が特別支援学校ですので、生徒よりもできないってのは致命的ですよね。",
+      "content": "They have developmental disabilities. Since it’s a special needs school, being less capable than the students is a critical issue, isn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:04:04",
+      "origin": "発達障害の生徒の方ができます。",
+      "content": "The students with developmental disabilities are more capable."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:04:13",
+      "origin": "生徒はとても可愛いです。",
+      "content": "The students are very dear to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:04:37",
+      "origin": "そうなんですね。生徒さんのために、頑張っているのですね。",
+      "content": "I see. You're working so hard for the sake of your students."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:04:41",
+      "origin": "職員の中には、そういう先生がたくさんいます。本当に怖いです。",
+      "content": "There are many teachers like that among the staff. It’s truly frightening."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:05:00",
+      "origin": "はい、生徒には罪がないですからね。生徒が可哀想です。",
+      "content": "Yes, the students aren’t at fault. I feel sorry for them."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:05:45",
+      "origin": "困った、としか言いようがないです。でも、管理職もどうにもできないみたいなので、本当に毎日が憂鬱です。",
+      "content": "All I can say is it’s a mess. And since it seems the administration can’t do anything about it either, every day feels truly depressing."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:06:38",
+      "origin": "管理職の方も困っているのですね。あなたが。生徒さんのために、どうやっていくのが良いのかを真摯に考えて頑張っていること。とても伝わってきます。",
+      "content": "So the administration is at a loss as well. I can really see how sincerely you are thinking about what's best for the students and working hard for them."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:08:21",
+      "origin": "あなたとしては、人事の配置が変われば、良い環境になると思われますか？",
+      "content": "From your perspective, do you think the environment would improve if the personnel assignments were changed?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:08:33",
+      "origin": "そうですね。誰にもどうにもできない状況ですね。大人の発達障害は本当に大変です。空気を読めないので発言もすごいです。生徒がビックリするくらいです。どうにもならないことはわかっています。でも、私がずっとこんな思いで働くのは違いますよね(？)",
+      "content": "That's right. It's a situation no one can do anything about. Adult developmental disabilities are truly difficult. They can't read the room, so the things they say are shocking, enough to surprise the students. I know nothing can be done. But it's not right for me to have to keep working while feeling like this, is it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:09:34",
+      "origin": "そうですね。仕事は好きですので。でも、最近思います。特別支援学校には、そういう先生が多いので今の世界では生きていくとストレスしかないのかもと。",
+      "content": "That’s right—I do like my job. But lately I’ve been thinking that because there are many such teachers at special needs schools, perhaps living in this world as it is will bring me nothing but stress."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:09:56",
+      "origin": "仕事を変えたいとも思ってます。",
+      "content": "I’m also thinking about changing jobs."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:10:23",
+      "origin": "そういう思いもあるのですね。ストレスの多い環境。そう感じるのも自然なことだと思います。今の環境で出来ることを、やれる限りやっているのですね。",
+      "content": "So you're feeling that way, too. It's a very stressful environment, and it's only natural to feel that way. You're doing everything you possibly can in your current situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:11:11",
+      "origin": "今の仕事が好きでも、ストレスや体力的にもしんどい。",
+      "content": "Even though you like your current job, it's stressful and physically exhausting."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:11:29",
+      "origin": "病気をして死と向き合いました。その時に思ったのです。本当にこんなことしていて良いのかな❓と。無駄な時間を過ごしているのではないかと感じるようにぬりました。",
+      "content": "When I got sick, I had to confront my own mortality. At that time, I thought, \"Is it really okay for me to be doing this?\" I started to feel like I was wasting my time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:12:06",
+      "origin": "そうだったのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:12:06",
+      "origin": "今までは、子供が大好きなので定年まで働くと思ってました。",
+      "content": "Until now, I thought I would work until retirement because I love children."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:12:22",
+      "origin": "ええ。そういう思いもあったのですね。",
+      "content": "Yes. You had that feeling as well."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:12:31",
+      "origin": "でも、病気をしてから我慢していた自分に気付いたのです。",
+      "content": "But after getting sick, I realized how much I had been putting up with."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:13:34",
+      "origin": "子供たちは好きだけど、そういう大人に囲まれて、ストレス溜めているのは勿体無い。自分が生き生きと感じられる時間を過ごしたいなと思うようになりました。",
+      "content": "I love the children, but being surrounded by adults like that and accumulating stress feels like such a waste. I’ve come to want to spend my time in a way that makes me feel alive."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:13:59",
+      "origin": "ええ。大切なことだと思います。病気を経験して、ご自身の命と向き合うことで、あなたの気持ちとも真剣に向き合ったのですね。",
+      "content": "Yes. I think that's very important. By experiencing illness and confronting your own mortality, you also seriously confronted your own feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:14:43",
+      "origin": "生き生きと感じる時間を過ごすことは、とても大事なことだと思います。",
+      "content": "I think spending time where you feel vibrant and alive is extremely important."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:14:53",
+      "origin": "そうなんです。病気をしなければ突っ走っていました。病気はギフトだと思えるようになりました。",
+      "content": "Exactly. If I hadn’t gotten sick, I would have just kept barreling ahead. I’ve come to see the illness as a gift."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:15:33",
+      "origin": "自分が幸せだなぁ、生きていてよかったと心から思える時間を過ごしたいと思うようになりました。",
+      "content": "I've started to want to spend my time in a way that makes me think from the bottom of my heart, \"I'm so happy, I'm glad to be alive.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:16:04",
+      "origin": "ええ。ご自身が幸せと思う時間を送ってほしいと思います。ち",
+      "content": "Yes. I hope you can spend your time in a way that you feel is happy."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:16:55",
+      "origin": "ちなみに、どんなことで、幸せを感じますか？",
+      "content": "By the way, what kinds of things make you feel happy?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:17:11",
+      "origin": "時間を大切にしたいですね。申し訳ないですが、ストレスが溜まる人との時間はいらないなぁと思います。前までは合わせてきました。でも、勇気を出してやめます。",
+      "content": "I want to cherish my time. I'm sorry to say this, but I don’t need to spend time with people who cause me stress. I used to just go along with them, but I'm going to find the courage to stop."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:17:39",
+      "origin": "幸せを感じる時は、やはり人と接している時ですね。",
+      "content": "The times I feel happy are when I'm interacting with people."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:17:56",
+      "origin": "子供もそうですが、同僚でも素敵な方もいます。",
+      "content": "That includes the children, of course, but there are also some wonderful colleagues."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:18:07",
+      "origin": "私は人が大好きなんです。",
+      "content": "I really love people."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:18:31",
+      "origin": "そうなんですね。いいですね。人が大好きって素敵な言葉ですね。",
+      "content": "I see. That's wonderful. Saying you love people is a beautiful thing to say."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:18:49",
+      "origin": "なので、カウンセラーの資格を取得し人のお役に立てればと思うようになりました。",
+      "content": "That's why I've started to think I'd like to get a counselor's license and be of service to people."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:19:05",
+      "origin": "そういった思いもあるのですね。",
+      "content": "So you have that aspiration as well."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:19:47",
+      "origin": "カウンセラーの資格もカウンセラーという仕事に拘ってません。カウンセラーの資格を役立てられる仕事でも良いと思っています。私の天職であれば。",
+      "content": "I'm not set on the qualification or the job title of 'counselor.' Any job where I can make use of a counseling qualification would be fine, as long as it's my true calling."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:20:05",
+      "origin": "ええ。やりたいこと。ご自身で考えて、やってみたいと思うこと。素敵なことだと思います。",
+      "content": "Yes. Something you want to do. Something you've thought about and want to try. I think that's a wonderful thing."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:20:34",
+      "origin": "私が今まで生きて来た経験を生かせる仕事がしたいですね。人生の集大成ですね。",
+      "content": "I want to do work that makes use of the experiences I’ve had in my life. The culmination of my life."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:21:04",
+      "origin": "羽ばたきたいです。ただ、家族のこともあるので、今はまだ無理ではあります。",
+      "content": "I want to spread my wings. That said, because of my family situation, it’s not feasible just yet."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:21:42",
+      "origin": "そうなのですね。人生の集大成。素敵です。仕事の形にこだわるのではなく、あなたの出来ることをやっていきたいという思い。",
+      "content": "I see. The culmination of your life—that’s beautiful. The sentiment that, rather than fixating on a specific type of job, you want to do what you’re able to do."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:21:42",
+      "origin": "子供が3人おりまして。大学を卒業したら、羽ばたきたいと思っていますが、どうなることやらですね。",
+      "content": "I have three children. Once they graduate from university, I’d like to spread my wings—but we’ll see how it goes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:22:18",
+      "origin": "三人のお子さんを育てているのですね。",
+      "content": "You’re raising three children."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:22:28",
+      "origin": "最初は、カウンセラーの仕事に就くことしか頭にありませんでしたが、色々と考えるうちにそのような形もあると思いました。",
+      "content": "At first, all I could think about was getting a job as a counselor, but as I thought about it more, I realized there are other forms it could take."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:23:00",
+      "origin": "私に一番合った形で働けたらと思っています。型に嵌めずにですね。",
+      "content": "I hope I can work in a way that suits me best, without fitting myself into a mold."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:23:17",
+      "origin": "私が私らしく生き生きとできることが一番です。",
+      "content": "The most important thing is that I can be myself and feel vibrant."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:23:33",
+      "origin": "ええ。型にはめずに。少しづつがいいのかなと思います。毎日の生活も、お仕事も大変なことだと思います。",
+      "content": "Yes. Without fitting into a mold. Perhaps taking it little by little would be good. I imagine your daily life and your job are both very demanding."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:23:57",
+      "origin": "あなたの仰るように、あなたらしくが一番だと私も思います。",
+      "content": "Just as you said, I also think that being yourself is the most important thing."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:24:42",
+      "origin": "そうですね。家族のこと仕事と大変ですが、夢に向かって勉強も頑張ってます。夢とは、自分らしい人生を送ることですね。最期に最高の人生だと思いたいのでね。なので、時間は大切です。",
+      "content": "That's right. It's tough with family and work, but I'm also studying hard toward my dream. My dream is to live a life that's true to myself. In the end, I want to be able to think that I had the best life. So, time is precious."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:25:25",
+      "origin": "今、ストレスを溜めて過ごしていること自体、本当に無駄に感じて嫌なんです。",
+      "content": "The very act of spending my days accumulating stress right now feels like such a waste, and I hate it."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:25:45",
+      "origin": "ストレスが嫌なのではなく、無駄に過ごしていることが嫌なのかも知れませんね。",
+      "content": "It may not be that I hate the stress itself, but rather that I hate the feeling of wasting my time."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:26:00",
+      "origin": "無駄に過ごしていると思うことがストレスってことですね。",
+      "content": "So, thinking that I'm wasting my time is what's causing the stress."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:26:29",
+      "origin": "そう感じるのも無理もないことだと思います。時間は有限ですが、思い（目標）をもって行動することで無駄ではなくなるのかなと思いますが、いかがですか？",
+      "content": "It's completely understandable to feel that way. Time is finite, but I wonder if by acting with a purpose (a goal) in mind, it might stop feeling like a waste. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:26:43",
+      "origin": "大切な時間を無駄にすごすような出来事ばかり続いて、とても嫌ですし、悲しいですね。",
+      "content": "It's just been one event after another that makes me feel like I'm wasting my precious time, and it's very unpleasant and sad."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:27:36",
+      "origin": "そうですね。辛いことに目を向けるのではなく、私の目標に向かって行動をすることですね。",
+      "content": "You're right. Instead of focusing on the painful things, I need to act toward my goals."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:28:01",
+      "origin": "あの人たちに費やしている時間はないです。勿体無いですからね。",
+      "content": "I don’t have time to spend on those people. It’s a waste."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:28:03",
+      "origin": "ええ。目標のために行動する。例えば、ストレスケアーもカウンセリングの一環となります。",
+      "content": "Yes. Acting toward your goals. For example, stress management is also a part of counseling."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:28:48",
+      "origin": "そうですね。来週末はzoomセラピーを受けるので楽しみです。",
+      "content": "That's right. I have a Zoom therapy session next weekend, and I’m looking forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:29:37",
+      "origin": "そうなのですね。セラピーを受けることで、あなた自身のストレスが少しでも緩むことを願ってますね。",
+      "content": "I see. I hope receiving therapy will ease your stress, even a little."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:29:58",
+      "origin": "はい、楽しみです。",
+      "content": "Yes, I’m looking forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:30:40",
+      "origin": "ええ。楽しみですね。また、セラピーを受けることで気持ちの変化があったりしたら、聞かせていただければと思います。",
+      "content": "Yes, that's something to look forward to. If you notice any changes in your feelings after the therapy session, I would love to hear about them."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:31:09",
+      "origin": "はい、気持ちの変化もとても楽しみにしています。",
+      "content": "Yes, I'm very much looking forward to any changes in my feelings, too."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:31:49",
+      "origin": "今日は、大きな気づきがありました。時間を無駄にしていることが一番嫌だという事に気づきました。",
+      "content": "I had a big realization today. I realized that what I hate most is wasting my time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:32:22",
+      "origin": "こちらこそ、大切なお話しを聞かせていただきありがとうございました。病をギフトと考えれるようになるほど、深くご自身と向き合ってこられたのだと思います。",
+      "content": "Thank you as well for sharing such an important story with me. To be able to see your illness as a gift shows how deeply you’ve reflected on yourself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:32:29",
+      "origin": "なので、時間を無駄にしないことを考えながら対応していこうと思います。勿体無いことはしたくないですので。",
+      "content": "So, I'm going to try to handle things while keeping in mind not to waste my time. I don’t want to do anything wasteful."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:33:21",
+      "origin": "どうして無駄と感じるのだろうと考えてみるのも、次の行動につながる一歩になるかもしれません。",
+      "content": "Thinking about why you feel it's a waste might be a step toward your next action."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:33:28",
+      "origin": "はい、たくさん自分と向き合いました。当時は辛いこともありましたが、貴重な時間だったと今は思っています。",
+      "content": "Yes, I did a lot of self-reflection. It was painful at the time, but now I see it as a precious time."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:34:03",
+      "origin": "そうですね。なぜ無駄と感じるか❓ですよね。",
+      "content": "You're right. The question is, \"Why do I feel it's a waste?\""
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:34:23",
+      "origin": "参考にしてみたいと思います。",
+      "content": "I’ll keep that in mind and give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:34:59",
+      "origin": "ええ。どうして無駄と感じるのか？　とらえ方によっては、もしかしたら無駄ではないのではないのか？など多角的に考えていくのも一つかなと思います。",
+      "content": "Yes. Thinking about it from multiple angles could be one approach. Asking questions like, ‘Why do I feel it's a waste?’ or ‘Depending on my perspective, is it possible this isn't a waste at all?’"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:35:37",
+      "origin": "多角的にですね。考えてみようと思います。",
+      "content": "From multiple angles, yes. I’ll give it some thought."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:36:30",
+      "origin": "はい。ぜひ試してみて、また、どうだったかなど、よかったらお話を聞かせてくださいね。",
+      "content": "Yes. Please give it a try, and if you'd like, you can tell me how it went."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:36:55",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:37:16",
+      "origin": "こちらこそ、今日は、ご相談に来てくださりありがとうございました。",
+      "content": "Thank you as well for coming in for a consultation today."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:37:50",
+      "origin": "こちらこそ、たくさん聴いていただきありがとうございました。",
+      "content": "Thank you as well, for listening so attentively."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:38:25",
+      "origin": "人生の集大成に向かって、いろいろ考えながら一歩づつ進んでいく、あなたを応援していますね。",
+      "content": "I’m cheering you on as you think things through and move forward step by step toward the culmination of your life."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:38:49",
+      "origin": "はい、楽しみながら進んでいきたいと思います。",
+      "content": "Yes, I’d like to move forward while enjoying the process."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:39:51",
+      "origin": "はい。応援しています。寒い日が続いていますので、暖かくしてお過ごしくださいね。それでは、本日のご相談は、こちらで終わらせていただきます。",
+      "content": "Yes. I'm rooting for you. It’s been cold lately, so please stay warm. With that, we’ll conclude today’s session."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:40:12",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:40:34",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:40:56",
+      "origin": "（ありがとうございました。１０分も過ぎてしまい申し訳ございません）",
+      "content": "(Thank you very much. I apologize for going 10 minutes over.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:41:12",
+      "origin": "（こちらこそ、ありがとうございました）",
+      "content": "(Not at all, thank you very much.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:41:42",
+      "origin": "（こちらこそ、有難うございました。また、お手数ですが、評価の方も宜しくお願いいたします）",
+      "content": "(Thank you as well. And sorry to trouble you, but if you could also provide an evaluation, I'd appreciate it.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-09T20:42:07",
+      "origin": "（はい、承知いたしました。）",
+      "content": "(Yes, of course.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-09T20:42:21",
+      "origin": "（ありがとうございます。それでは、ロールプレイを終了いたします）",
+      "content": "(Thank you. We will now end the role-play.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場環境の悪さによるストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 6407,
+    "evaluation_created_at": "2024-02-10T12:07:00",
+    "client_id": 448,
+    "counselor_id": 128,
+    "score": 88,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

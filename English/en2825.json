@@ -1,0 +1,765 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:20:53",
+      "origin": "（こんにちは。本日はよろしくお願いします。）",
+      "content": "(Hello. Thank you for being here today.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:22:42",
+      "origin": "(よろしくお願いします。)",
+      "content": "(Yes, thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:23:20",
+      "origin": "（３時半になったら始めさせていただきますね。）",
+      "content": "(We'll get started at 3:30, okay?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:23:30",
+      "origin": "(はい)",
+      "content": "(Okay.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:30:05",
+      "origin": "こんにちは。相談員です。今日はお越しいただきありがとうございます。最初に年齢と性別を教えていただけますか？",
+      "content": "Hello. I'm your counselor. Thank you for coming in today. First, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:30:28",
+      "origin": "25 男です",
+      "content": "I’m 25, male."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:30:32",
+      "origin": "ありがとうございます。今日はどのようなご相談でしょうか。",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:30:48",
+      "origin": "彼女との関係で悩んでいます。",
+      "content": "I’m struggling with my relationship with my girlfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:31:17",
+      "origin": "そうなんですね。それはお悩みですね。",
+      "content": "I see. That must be troubling for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:31:45",
+      "origin": "具体的に、どのようなことがあったか、お伺いしてもよろしいでしょうか。",
+      "content": "Could you tell me more specifically about what's been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:32:14",
+      "origin": "彼女はシングルマザーなんですけど、付き合い方が難しいなと時々感じるんです。",
+      "content": "My girlfriend is a single mother, and sometimes I find it difficult to navigate the relationship."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:32:47",
+      "origin": "そうなんですね。どのような点が、難しいと感じていらっしゃいますか？",
+      "content": "I see. What aspects do you find difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:33:45",
+      "origin": "彼女のことは愛しているんですが、彼女の子どものことまではまだ愛せなくて。この先、愛せるのかどうか不安になります。",
+      "content": "I love her, but I can't bring myself to love her child yet. I'm worried about whether I'll ever be able to."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:35:11",
+      "origin": "そうだったんですね。先のことを考えると、そのようにお感じになるのですね。",
+      "content": "I understand. When you think about the future, that's how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:35:19",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:36:02",
+      "origin": "それはお悩みになりますね。今日は、あなたのお気持ちが、少しでも軽くなるように一緒に考えていきたいと思います。",
+      "content": "That is certainly a concern. Today, I'd like us to think through this together to help lighten your feelings, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:36:29",
+      "origin": "お願いします",
+      "content": "I’d appreciate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:37:21",
+      "origin": "こちらこそ、お願いいたします。　あなたは、彼女さんの事を、愛していらっしゃるとおっしゃっていますね。それは素晴らしいことですね。",
+      "content": "Thank you as well. You mentioned that you love your girlfriend. That's a wonderful thing."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:37:53",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:38:23",
+      "origin": "本当にそう思います。彼女さんのお子さんにはお会いになったことはありますか？",
+      "content": "I truly think so. Have you met her child?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:38:44",
+      "origin": "はい、よく遊んだり、お世話もします。",
+      "content": "Yes, I often play with her and help take care of her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:39:12",
+      "origin": "そうなんですね。お子さんはおいくつですか？男女どちらのお子さんでしょうか。",
+      "content": "I see. How old is the child? And is it a boy or a girl?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:39:24",
+      "origin": "2歳の女の子です。",
+      "content": "She's a 2-year-old girl."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:40:16",
+      "origin": "そうなんですね。では、まだこちらの言うことも理解できたり、できなかったり、色々お世話も大変ですね。",
+      "content": "I see. At that age, she might understand some things but not others, and taking care of her can be quite challenging."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:40:52",
+      "origin": "最近自己主張が激しかったり、言うことを聞かない時もあって大変ですね。",
+      "content": "Lately, she's been very assertive and sometimes doesn't listen, which makes it tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:42:05",
+      "origin": "そうですよね。丁度イヤイヤ期の始まりで親御さんは皆さん、手こずることが多い年齢ですね。",
+      "content": "That's right. It's the beginning of the \"terrible twos,\" an age when many parents find it challenging."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:42:38",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:44:19",
+      "origin": "お子さんのお世話の時に、あなたはどのようなお気持ちになりますか？可愛いなーと思うこともありますか？",
+      "content": "How do you feel when you’re taking care of her? Do you ever find yourself thinking she’s cute?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:45:23",
+      "origin": "基本的に子どもは好きなので、可愛いとおもうし楽しいです。",
+      "content": "I generally like children, so I do think she's cute, and it's fun."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:45:48",
+      "origin": "ただ、その子を見る度に、自分の子じゃないんだな",
+      "content": "However, every time I see her, I'm reminded that she's not my own child,"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:45:54",
+      "origin": "と感じてしまうのも事実です。",
+      "content": "and that's a reality I can't ignore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:46:15",
+      "origin": "そうなんですね。お子さんの事がお好きなんですね。",
+      "content": "I see. So you do like the child."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:46:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:46:46",
+      "origin": "でも、自分のお子さんではないと感じてしまうそれは、お辛いですね。",
+      "content": "But feeling that she isn't your own child must be painful for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:46:58",
+      "origin": "そうですね。たまに虚しくなります。",
+      "content": "Yes. I feel a sense of emptiness at times."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:47:41",
+      "origin": "そうなんですね。お辛い気持ちが伝わってきます。",
+      "content": "I see. I can sense how painful that is for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:48:07",
+      "origin": "少しお話をまとめさせていただいてもよろしいでしょうか。",
+      "content": "Would it be alright if I summarized what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:48:19",
+      "origin": "はい、おねがいします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:49:44",
+      "origin": "ありがとうございます。あなたは、彼女さんを愛していらっしゃいますね。そして彼女さんには２歳のお子さんがいらっしゃってあなたはお子さんが好きで楽しいけれどご自身の子供ではないという現実に、虚しさを感じていらっしゃるこのような理解でよろしいでしょうか。",
+      "content": "Thank you. You love your girlfriend. She has a two-year-old child, and while you like the child and enjoy your time with her, you feel a sense of emptiness at the reality that she is not your own. Is that a correct understanding?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:50:08",
+      "origin": "はい、そうです。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:50:35",
+      "origin": "ありがとうございます。彼女さんは、あなたの辛いお気持ちに気づいていらっしゃいますか？",
+      "content": "Thank you. Is your girlfriend aware of how difficult this feels for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:50:46",
+      "origin": "はい、話したことはあります。",
+      "content": "Yes, I've talked to her about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:51:05",
+      "origin": "そうなんですね。どのようなお答えでしたか？",
+      "content": "I see. How did she respond?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:51:30",
+      "origin": "お世話とか、無理しなくていいよって",
+      "content": "She said I don't have to force myself to take care of her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:52:08",
+      "origin": "そのようにおっしゃったんですね。とても優しい言い方の方だと感じましたがいかがでしょうか。",
+      "content": "That's what she said. It sounds like a very kind way to put it. Would you agree?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:52:29",
+      "origin": "そうですね。優しいとおもいます。",
+      "content": "Yes, I think she's kind."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:52:45",
+      "origin": "ただ、彼女もまだ若いので",
+      "content": "But she's still young,"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:53:06",
+      "origin": "いくらでも再婚のチャンスはあるとおもっていて。",
+      "content": "so I think she has plenty of chances to remarry."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:53:14",
+      "origin": "ええ（聞いています）",
+      "content": "Mm-hmm (I'm listening)."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:53:55",
+      "origin": "それが、自分がいることで阻まれているなら離れた方が良いのかなあと思うことがあります。",
+      "content": "Sometimes I wonder if I should step away, if my being here is getting in the way of that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:54:56",
+      "origin": "あなたは、そのように感じていらっしゃるんですね。彼女さんもあなたも優しい方なんですね。",
+      "content": "I see that's how you feel. It seems both you and your girlfriend are very kind people."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:55:12",
+      "origin": "彼女さんはおいくつですか？",
+      "content": "How old is she?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:55:17",
+      "origin": "28です。",
+      "content": "She's 28."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:55:47",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:57:19",
+      "origin": "彼女さんのあなたへのお気持ちは聴いてみたことはありますか？",
+      "content": "Have you ever asked her how she feels about you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:57:45",
+      "origin": "はい、この先もずっと一緒にいたいと言ってくれました。",
+      "content": "Yes, she told me she wants to be with me forever."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:58:03",
+      "origin": "ただ、いずれ父親は欲しいと言っていたので",
+      "content": "But she also said that eventually she wants a father for her child,"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:58:11",
+      "origin": "そこが引っかかっています。",
+      "content": "and that's what's bothering me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:58:53",
+      "origin": "そのようなお返事だったのですね。お互いに思いやりの深い方々だと感じました。でも、引っかかるところもおありなんですね。",
+      "content": "I see, that was her response. It feels like you both care deeply for each other. But there's still something that's bothering you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T15:59:33",
+      "origin": "どのように引っかかるか教えていただけますか？",
+      "content": "Could you tell me more about what's bothering you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T15:59:58",
+      "origin": "自分は、彼女だけなら愛せる自信はあるけど、子どもを無償の愛情を注げるのか、、不安です。自分の子どもではないので、気づいたらいた感じなので",
+      "content": "I'm confident I can love just her, but I'm anxious about whether I can give unconditional love to her child. Since she's not my own child, it feels like she was just already there when I came into the picture,"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:00:04",
+      "origin": "覚悟ができていないです。",
+      "content": "I'm not prepared for it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:01:04",
+      "origin": "なるほど。あなたはそのようにお感じなんですね。",
+      "content": "I see. So that's how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:01:11",
+      "origin": "はい。その確証が得られないまま、彼女と一緒にいていいのか、、悩んでしまいます。",
+      "content": "Yes. Without that certainty, I worry about whether it’s right for me to stay with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:01:54",
+      "origin": "それは、悩まれますよね。無理もないことだと思います。",
+      "content": "Of course that would weigh on you. It's perfectly natural to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:02:02",
+      "origin": "それなら、すぐに父親になってくれる人を探した方が良いんじゃないかとか。",
+      "content": "And then I start thinking, maybe it would be better for her to find someone who can be a father right away."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:02:27",
+      "origin": "なるほど。そのように思われるんですね。",
+      "content": "I see. So that's something that crosses your mind."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:02:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:03:01",
+      "origin": "私が感じたことをお伝えしてもよろしいでしょうか。",
+      "content": "May I share what I’m sensing?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:03:11",
+      "origin": "はい、お願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:04:04",
+      "origin": "ありがとうございます。あなたは、彼女さんの事を愛していらっしゃって、彼女さんも、あなたを大切に思っていらっしゃるということは、素晴らしいことだと思います。",
+      "content": "Thank you. I think it’s wonderful that you love her and that she also cares deeply for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:05:17",
+      "origin": "彼女さんには２歳のお子さんがいらっしゃってその事実も含めて彼女さんの素晴らしさに繋がっていると思います。",
+      "content": "The fact that she has a two-year-old child, I believe, is part of what makes her such a wonderful person."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:06:01",
+      "origin": "そうですね。",
+      "content": "That’s true."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:06:16",
+      "origin": "今すぐに、あなたがお子さんの父親にならなければいけないと思うと、大きなプレッシャーではないでしょうか。",
+      "content": "If you feel you have to become her child’s father right away, that’s a lot of pressure, isn’t it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:06:25",
+      "origin": "と、私は感じました。",
+      "content": "That’s what I sense."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:06:31",
+      "origin": "はい、プレッシャーを感じます。",
+      "content": "Yes, I do feel the pressure."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:06:57",
+      "origin": "その子の人生を左右してしまうみたいで、自分では決められないです。",
+      "content": "It feels like I'd be deciding the course of that child's life, and I can't make that decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:08:00",
+      "origin": "そうですよね。お悩みになりますよね。",
+      "content": "I understand. That is a lot to worry about."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:08:20",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:09:23",
+      "origin": "子育ては難しいですが、お母さんは、自分が愛されていると、子供にも愛情を注ぎやすいと言われています。もし、あなたの彼女さんへの愛情が深ければ、彼女さんはお幸せだと感じますが、いかがでしょうか",
+      "content": "Parenting is difficult, but it’s said that when a mother feels loved, it becomes easier for her to give love to her child. If your love for your girlfriend is deep, I imagine she would feel happy—how does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:10:15",
+      "origin": "そうなんですね。それは、知らなかったです。",
+      "content": "I see. I didn’t know that."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:11:01",
+      "origin": "じゃあ、間接的に彼女の子どもも幸せにできてる、ということでしょうか",
+      "content": "So, does that mean I'm indirectly making her child happy too?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:11:09",
+      "origin": "そうなんです。愛情をたっぷり受け取っているお母さんは子育てに余裕が出ると、研究でも出ているそうなんです。",
+      "content": "That's right. Research has shown that mothers who receive plenty of love have more emotional capacity when it comes to child-rearing."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:11:56",
+      "origin": "へえ。たしかに、最近彼女は幸せそうにみえます。",
+      "content": "Huh. Come to think of it, she does look happy lately."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:12:05",
+      "origin": "はい、おっしゃる通り、あなたが彼女さんを深く愛し、大切にすることが間接的に、お子さんを幸せにすると私は思います。",
+      "content": "Yes, just as you said, I believe that by deeply loving and cherishing your girlfriend, you are indirectly contributing to her child’s happiness."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:12:27",
+      "origin": "そうなんですね。彼女さんはお幸せそうなんですね。良かったっです。",
+      "content": "I see—she seems happy. I’m glad to hear that."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:13:00",
+      "origin": "父親になれる確証がなくても、彼女の時間を奪うことにはならないでしょうか、そこが不安で。",
+      "content": "Even if I'm not sure I can be a father, am I not just wasting her time? That's what I'm worried about."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:14:27",
+      "origin": "ご不安なんですね。彼女の時間を奪うとは再婚の可能性もあるのに、あなたがその時期を逃させるのでは・・・という意味でしょうか。",
+      "content": "You're anxious about that. When you say 'wasting her time,' do you mean you're worried you might be causing her to miss out on other opportunities for remarriage?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:14:39",
+      "origin": "はい、そのとおりです。",
+      "content": "Yes, that’s exactly it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:15:21",
+      "origin": "そのようにお感じなんですね。あなたは優しくて、本当に彼女さんを愛していらっしゃるのだと感じています。",
+      "content": "I see that's how you feel. I can tell you're a kind person and that you truly love your girlfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:16:43",
+      "origin": "ただ、最初から、父親になれる自信のある人は世の中にはいないと私は感じています。自分の子供でも、自分が産んでないので自信が無いとよく伺います。",
+      "content": "However, I feel that no one in this world starts out with the confidence to be a father. I often hear from men that even with their own biological children, they lack confidence because they didn't give birth to them."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:17:30",
+      "origin": "たしかにそうですね。",
+      "content": "That's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:17:54",
+      "origin": "今、目の前の事実としてあなたは彼女さんを心から愛していらっしゃるそして",
+      "content": "Right now, the immediate fact is that you love your girlfriend from the bottom of your heart, and..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:18:35",
+      "origin": "彼女さんもあなたを大切に、ずっと一緒に居たいと思っていらっしゃる。それが一番確実な事実ですよね。",
+      "content": "...she also cherishes you and wants to be with you forever. That's the most certain fact, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:18:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:19:29",
+      "origin": "そして２歳のお子さんがいらっしゃってあなたは父親になる自信はないけれど子供を好きで、遊んだりしてあげるのは楽しい",
+      "content": "And there is her two-year-old child. You don't have the confidence to be a father, but you like the child and enjoy playing with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:20:54",
+      "origin": "このような状況で、彼女さんが幸せそうにされているので、間接的にお子さんも幸せだと感じますが、いかがでしょうか。",
+      "content": "In this situation, since your girlfriend seems happy, I feel that her child is indirectly happy as well. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:21:32",
+      "origin": "はい、ちょっと心が楽になりました。でも、たまに何で俺が自分の子どもじゃないのにお世話しているんだろうとかせめて出産の時に立ち合ったり、自分の遺伝子が入っていれば覚悟が決まるのに",
+      "content": "Yes, my heart feels a little lighter. But sometimes I still wonder, \"Why am I taking care of a child who isn’t mine?\" If I had at least been there for the birth, or if she had my genes, I feel like I could be more resolved."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:21:49",
+      "origin": "正直ずっと二人で過ごせたら良いのに。。って思ってしまう自分がいるんです。",
+      "content": "Honestly, there’s a part of me that wishes it could just be the two of us forever."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:22:59",
+      "origin": "そうですよね。そのように思われるのも、無理のない事だと思います。それが、正直なお気持ちですよね。話してくださって、ありがとうございます。",
+      "content": "I understand. It's not unreasonable to feel that way. Those are your honest feelings. Thank you for sharing them with me."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:23:11",
+      "origin": "はい。約1年、一緒に時を過ごしてきてこんな考えでは、この先も変わることがあるのかと。",
+      "content": "Yes. We've spent about a year together, and with these thoughts, I wonder if things will ever change in the future."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:23:51",
+      "origin": "一年お過ごしなんですね。だからお悩みなんですよね。お辛いですよね。",
+      "content": "You've been together for a year. That's why this is weighing on you so much. It must be very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:24:03",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:24:43",
+      "origin": "彼女さんは、お子さんのことを大切にされているのですね。",
+      "content": "Your girlfriend cherishes her child, doesn't she?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:25:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:28:10",
+      "origin": "そうなんですね。では、彼女さんと一緒に居たいなら、お子さんとも一緒に過ごすことになるまたは",
+      "content": "I see. So, if you want to be with her, that means you will also be spending time with her child. Or..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:29:06",
+      "origin": "お子さんと一緒に居れないとなれば、彼女さんともお別れすることになる。この２つの選択になるのかなと感じますが、いかがでしょうか。",
+      "content": "...if you feel you cannot be with the child, it would mean parting ways with her as well. It seems to come down to those two choices. How does that sit with you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:29:17",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:30:58",
+      "origin": "そうなんですね。とても悩まれることと思いますがあなたが愛していらっしゃる彼女さんとのご縁は素晴らしいものだと感じています。お付き合いのなかで、ご一緒に話し合いながらゆっくりと決めていかれてはいかがでしょうか。",
+      "content": "I see. I'm sure this is a very difficult decision, but I feel that the connection you have with the woman you love is something truly wonderful. Perhaps you could take your time, discussing it together as your relationship continues, and decide slowly."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:31:14",
+      "origin": "はい、そうしてみます。",
+      "content": "Yes, I’ll try that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:32:01",
+      "origin": "お返事ありがとうございます。そろそろお時間になりますが今日お話をしてみていかがでしたか？",
+      "content": "Thank you for your response. Our time is almost up. How do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:32:24",
+      "origin": "ちょっとでも役に立ってるのかとおもうと、少し楽になれました。",
+      "content": "Thinking that I might be helping, even a little, made me feel a bit lighter."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:32:29",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:33:42",
+      "origin": "こちらこそ、ありがとうございました。あなたが、少しでも幸せに過ごされますように心から願っております。また、いつでもご相談にいらしてくださいね。",
+      "content": "Thank you as well. I sincerely wish that you can spend your days with even a little more happiness. Please feel free to come back and talk with me anytime."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:34:03",
+      "origin": "本日はこちらで終了になりますが、よろしいでしょうか。",
+      "content": "That concludes our session for today, if that's alright with you."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:34:16",
+      "origin": "はい、大丈夫です。ありがとうございました。",
+      "content": "Yes, that’s fine. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:34:30",
+      "origin": "ありがとうございました。失礼いたします。",
+      "content": "Thank you. Goodbye."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:34:37",
+      "origin": "失礼します。",
+      "content": "Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:35:02",
+      "origin": "（本日はありがとうございました。終了させていただいてよろしいですか？）",
+      "content": "(Thank you for today. May I conclude the session now?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-08T16:35:13",
+      "origin": "(はい、大丈夫です。ありがとうございました。)",
+      "content": "(Yes, that's fine. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-08T16:35:18",
+      "origin": "（失礼いたします）",
+      "content": "(Goodbye.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "シングルマザーとの関係における子どもへの愛情の不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 2825,
+    "evaluation_created_at": "2021-12-08T16:53:00",
+    "client_id": 244,
+    "counselor_id": 208,
+    "score": 80,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

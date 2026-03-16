@@ -1,0 +1,873 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-08-12T14:23:37",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:28:46",
+      "origin": "こんにちわ相談員です。宜しくお願いします。",
+      "content": "Hello, I'm the counselor. It's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:28:55",
+      "origin": "よろしくお願いします",
+      "content": "It's nice to meet you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:29:25",
+      "origin": "本日はどのようなご相談でしたでしょうか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:29:43",
+      "origin": "仕事がいやで…辞めたくて。",
+      "content": "I hate my job... I want to quit."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:30:01",
+      "origin": "なるほど、、それはお悩みですね",
+      "content": "I see... that must be very troubling for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:30:11",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:30:22",
+      "origin": "どのような状況か、教えて頂いてよろしいでしょうか？",
+      "content": "Would you be willing to tell me a bit more about the situation?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:31:24",
+      "origin": "私は保育園で保育士をしています。まだ2年目なんですが。同じクラス担任の先輩保育士さんが怖くて…",
+      "content": "I'm a teacher at a nursery school. It's only my second year. The senior teacher who co-teaches my class is scary..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:31:51",
+      "origin": "なるほど、、それはお辛いですね・・・",
+      "content": "I see... that must be very difficult for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:31:57",
+      "origin": "いつ頃から、",
+      "content": "Since about when has this been the situation?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:32:07",
+      "origin": "どのような状態なのでしょうか？",
+      "content": "(This utterance is combined with the previous one for a more natural translation.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:33:01",
+      "origin": "4月から新しくクラス編成されて、でも前々から圧が強くて怖い印象だったのですが、",
+      "content": "Our classes were reorganized in April, and even before that, I found her presence intense and intimidating,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:33:35",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:34:27",
+      "origin": "同じクラス担任になったら、いいところは見てくれていて褒めてくれたりするんですが、なんか私に対しても、子供に対しても怖いです。",
+      "content": "Now that we're co-teachers for the same class, she does notice and praise the good things I do, but somehow she's scary, both toward me and toward the children."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:35:14",
+      "origin": "なるほど、、それは気になりますね・・・",
+      "content": "I see... that does sound concerning."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:35:31",
+      "origin": "良いところを褒めてくださるのは、",
+      "content": "When she praises you for the good things you do,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:35:47",
+      "origin": "具体的にどんな場面がございましたか？",
+      "content": "could you give me some specific examples?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:37:07",
+      "origin": "あの時こんなことしてたのは良かったと思う。とか",
+      "content": "She'll say things like, \"I think what you did back then was good.\""
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:37:21",
+      "origin": "声かけがいいとか",
+      "content": "Or that the way I talk to the children is good."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:37:22",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:37:27",
+      "origin": "ですかね",
+      "content": "Things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:37:52",
+      "origin": "なるほど、、ちゃんと見てくれてる感じなのでしょうか？",
+      "content": "I see. So it feels like she is paying proper attention to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:38:19",
+      "origin": "そうですね。たぶん近くにいないと分からないようなことで褒めてくれるので、見てくれていると思います。",
+      "content": "Yes. She praises me for things you wouldn’t notice unless you were nearby, so I think she is watching me closely."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:39:06",
+      "origin": "なるほど、、そこの部分は先輩らしく、有難い感じですかね。",
+      "content": "I see. So in that respect, does it feel like she's acting like a senior colleague, and you feel grateful for that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:39:48",
+      "origin": "そうですね。だから最初は少し厳しくても尊敬出来る感じがしていたんですが、最近は怒られてばかりのような気がします",
+      "content": "Right. So at first, even if she was a bit strict, I felt I could respect her, but lately, it feels like I’m just getting scolded all the time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:40:27",
+      "origin": "なるほど、、怒られると全て否定された感があってガッカリしますよね・・・",
+      "content": "I see... When you get scolded, it can feel like you're being completely rejected, which is disheartening, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:41:08",
+      "origin": "失礼ですが、なおさんとお呼びしてよろしいでしょうか？",
+      "content": "Excuse me for asking, but may I call you Nao?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:41:09",
+      "origin": "そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:41:18",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:41:28",
+      "origin": "はい、有難うございます",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:41:50",
+      "origin": "ちなみに、なおさんの事を少し教えてください。",
+      "content": "By the way, could you tell me a little about yourself, Nao?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:41:55",
+      "origin": "はい",
+      "content": "Sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:42:06",
+      "origin": "今の保育園は2年、お勤めでしょうか？",
+      "content": "Have you been working at your current nursery school for two years?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:42:13",
+      "origin": "そうです。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:42:28",
+      "origin": "その前は、学生とかですか？",
+      "content": "And before that, were you a student?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:42:45",
+      "origin": "そうです。新卒で今の職場です！",
+      "content": "Yes. I started at my current job right after graduating!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:43:27",
+      "origin": "そうですか、、フレッシュな気持ちで就職されたのですね。いいですね！！",
+      "content": "I see. So you started your career with fresh enthusiasm. That's wonderful!!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:44:07",
+      "origin": "ちなみに、保育士になられたきっかけとか、どんな感じでしたでしょうか？",
+      "content": "By the way, what made you decide to become a nursery school teacher?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:44:09",
+      "origin": "はい、保育園自体も新しくて、園長先生もとてもいい方なので、ここに決めました。",
+      "content": "Well, the nursery school itself is new, and the director is a very nice person, so I decided on this place."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:44:27",
+      "origin": "なるほど、有難うございます！",
+      "content": "I see, thank you for sharing that!"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:44:34",
+      "origin": "子供が好きなので保育士になりたいと思いました！",
+      "content": "I wanted to become a nursery school teacher because I love children!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:45:48",
+      "origin": "なるほど、、子供好きなんですね。そんな優しい保育士さんがいると、お子さんたちも、",
+      "content": "I see... so you love children. With such a kind teacher like you, the children must..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:46:02",
+      "origin": "毎日が楽しいでしょうね、",
+      "content": "have a lot of fun every day,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:46:21",
+      "origin": "親の立場でも安心ですし。",
+      "content": "and from a parent's perspective, that would be reassuring as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:46:38",
+      "origin": "ありがとうございます。でも今は楽しいって思えないんです。",
+      "content": "Thank you. But right now, I can’t feel that it’s enjoyable."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:46:51",
+      "origin": "そうですよね・・・",
+      "content": "I understand..."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:47:04",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:47:09",
+      "origin": "この4月までの2年間は、どうでしたでしょうか？",
+      "content": "How were things in the year leading up to this April?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:48:43",
+      "origin": "今年2年目です去年は優しい先輩保育士さんでした。子供たちも可愛かったです！",
+      "content": "This is my second year. Last year, my senior teacher was very kind. The children were adorable too!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:50:13",
+      "origin": "失礼しました・・・この1年間は、優しさがあったのですね、、で、今の先輩保育士さんですが、",
+      "content": "My apologies... So for that first year, there was kindness. Now, about your current senior teacher,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:50:37",
+      "origin": "怖い、、、とはどんな感じなのでしょうか？",
+      "content": "when you say she’s 'scary,' what do you mean by that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:54:31",
+      "origin": "（届いてませんか？）怖い、、、とはどんな感じなのでしょうか？",
+      "content": "(Is my message not getting through?) When you say she's scary, what is that like?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:54:48",
+      "origin": "子供たちにはにこやかなんですが、私には無表情で、圧が強いというか、保育中私にかける言葉が「こっち先にやった方がいいでしょ💢と低い声でボソッと言われたり。大きい声で子供を叱ったりするのは聞いてて嫌で。まだ2歳の子にそんなに集団を意識させなくてもいいのに…と",
+      "content": "She's cheerful with the children, but with me, she's expressionless and intimidating. During class, she'll mutter to me in a low, angry voice, \"Shouldn't you do this first?\" It's also unpleasant to hear her scold the children in a loud voice. I feel like you don't need to make two-year-olds so conscious of being in a group yet..."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:54:57",
+      "origin": "返事おくれてすみません。",
+      "content": "Sorry for the late reply."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:55:12",
+      "origin": "（いいえ、すみません）",
+      "content": "(No, not at all, you don't need to apologize.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:55:54",
+      "origin": "すみません。が口癖になってしまってて。",
+      "content": "\"I'm sorry\" has become a habit of mine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:56:35",
+      "origin": "なるほど、、お子さんを大声で叱るのは気になりますね・・・それと、なおさんに対する圧も、いかがなものでしょうか？",
+      "content": "I see. Scolding the children in a loud voice is concerning... And the pressure she puts on you, Nao, that's not right either, is it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:56:46",
+      "origin": "ちなみに、、",
+      "content": "By the way..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:57:03",
+      "origin": "この件はどなたかにご相談とかされてらっしゃいますか？",
+      "content": "Have you talked with anyone else about this?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:57:54",
+      "origin": "同期の子には相談出来ていますが、ほかの先輩方には誰にも…",
+      "content": "I've been able to talk to my peers who started at the same time, but not to any of the other senior teachers..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:58:22",
+      "origin": "そうですか、、でも、同期の方には話されてらっしゃるのですね、、",
+      "content": "I see... but you have been able to talk with your peers."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T14:58:34",
+      "origin": "同期の方は何とおしゃってますか？",
+      "content": "What do your peers say?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T14:59:40",
+      "origin": "そうですね。同期の子も大変そうなので、お互い傷の舐め合いというか。結果どうにも出来ないよね。ということに至ります。頑張ろうね。と…",
+      "content": "Well, my peers seem to be having a hard time too, so we just end up commiserating. We always conclude that there's nothing we can really do about it, and just tell each other to hang in there..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:00:19",
+      "origin": "なるほど、、お互い悩まれてらっしゃるのですね・・・お辛いですね・・・",
+      "content": "I see... so you’re all struggling with this. That must be very hard..."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:00:31",
+      "origin": "はい。もう辞めたいです。",
+      "content": "Yes. I just want to quit."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:00:43",
+      "origin": "毎日泣いてます。",
+      "content": "I cry every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:00:48",
+      "origin": "はい、、そうですか・・・",
+      "content": "Yes... I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:01:06",
+      "origin": "そんなに酷く、お辛い状況なのですね・・・",
+      "content": "It sounds like it's a truly awful and painful situation for you..."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:01:18",
+      "origin": "そうですね。",
+      "content": "It is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:02:34",
+      "origin": "ちなみに、同期の方以外、相談できる窓口的な人とかはいらっしゃいませんか？メンター社員、スタッフとか",
+      "content": "By the way, besides your peers, is there anyone else you can talk to, like a formal contact person? A mentor or other staff member?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:03:16",
+      "origin": "いません。園長先生とか主任の先生には言えませんし。",
+      "content": "No. I can’t tell the director or the head teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:03:52",
+      "origin": "はい、、そうですか・・・言えない理由とかは？教えていただけますか？",
+      "content": "I see... Could you share what makes it hard to tell them?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:06:26",
+      "origin": "園長先生は先輩保育士さんを仕事ができる人と認めていて、これまでも何人かの保育士さんがその先輩保育士さんのことで園長先生に抗議的なことをしたそうなんですが、特になにも変わりなく。",
+      "content": "The director recognizes that senior teacher as someone who gets the job done, and I’ve heard that several other teachers have complained to the director about her in the past, but nothing ever changed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:07:21",
+      "origin": "なるほど、、これまでそういうことがあったのですね、、で解決されてないと、",
+      "content": "I see... so this kind of thing has happened before, and it wasn't resolved."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:07:33",
+      "origin": "主任の先生は園長先生を慕っているので、その先輩保育士さんには何も言わないです。はい、そうです。",
+      "content": "The head teacher admires the director, so she doesn’t say anything to that senior teacher. Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:08:32",
+      "origin": "なるほど、、園長先生も主任さんも、その対応が理解できかねますね・・・",
+      "content": "I see... It's hard to understand the way the director and the head teacher are handling this..."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:08:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:08:53",
+      "origin": "なおさん、そこまでお辛い思いをされてて、辞めることも考えられてて、体調とかはいかがですか？夜とか、ちゃんと寝れてますか？",
+      "content": "Nao, you're going through so much pain that you're even thinking about quitting... how is your physical health? Are you able to sleep properly at night?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:10:07",
+      "origin": "家に帰ってもやらなきゃいけないこととかあったり、もうほんとに疲れて。夜は睡眠時間短いですが寝れてると思います。",
+      "content": "Even when I get home, there are things I have to do, and I'm just so exhausted. I don't get much sleep at night, but I think I am sleeping."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:11:09",
+      "origin": "そうですか、寝れてるのは良かったです。でも、早めに解決しないと体調にも悪影響ですよね、、ちなみに、これまで抗議された保育士さんとかは、今はどんな状況でしょうか？",
+      "content": "I see—it’s good that you’re getting some sleep. But if this isn’t resolved soon, it could affect your health. By the way, those teachers who previously complained—do you know what their situation is now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:14:12",
+      "origin": "直接聞いた話ではないので、私も自分のことでいっぱいなので、あまり分からないのですが、うちのクラスにヘルプでほかの先輩保育士さんが入ってもらうこともよくあるんですが、やっぱりその声がけとかに「ピリッとした空気になるよね、大丈夫？」とか声かけていただくことはあります。",
+      "content": "I haven’t heard directly, and I’m overwhelmed with my own situation, so I don’t know for sure, but other senior teachers often come to help in our class, and they do sometimes ask me things like, 'The atmosphere gets so tense when she talks like that, doesn't it? Are you okay?'"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:14:40",
+      "origin": "直接本人へは誰も言えないんだと思います。",
+      "content": "I don’t think anyone can say anything to her directly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:15:00",
+      "origin": "なるほど、、皆さん圧を同様に感じてらっしゃるのですね・・・",
+      "content": "I see... so everyone feels the same pressure from her."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:15:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:15:42",
+      "origin": "なおさんは、今後どうなれベストと思ってらっしゃいますか？",
+      "content": "Nao, what would be the best possible outcome for you going forward?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:16:08",
+      "origin": "どうなればベストと思ってらっしゃいますか？",
+      "content": "What would be the best-case scenario for you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:16:31",
+      "origin": "仕事が楽しくできたらいいなと思います。",
+      "content": "I'd like to be able to enjoy my work."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:16:59",
+      "origin": "でも私向いていないのかも。",
+      "content": "But maybe I’m not cut out for this."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:17:38",
+      "origin": "そうですか、、それは先輩保育士さんの影響でしょうか？",
+      "content": "I see... is that feeling influenced by the senior teacher?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:18:00",
+      "origin": "それとも、もともとそんな思いがあったのでしょか？",
+      "content": "Or did you feel that way to begin with?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:18:47",
+      "origin": "そうなのかもしれません。働き始めは思わなかったのですが、だんだんと",
+      "content": "That might be it. I didn’t think so when I first started working, but gradually..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:19:21",
+      "origin": "なるほど、、それはどんな事から向いてないとお考えになられるのですか？",
+      "content": "I see... what kinds of things make you feel you’re not suited for it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:20:55",
+      "origin": "私は楽しい遊びも考えられないし、自分で作ったものも、年齢に合ってないといわれ、何度も作り直したり。保育計画も直されてばかり。",
+      "content": "I can't think of fun activities, and when I make things myself, they're criticized for not being age-appropriate, so I have to remake them over and over. My lesson plans are always being corrected."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:23:01",
+      "origin": "なるほど、、そういったこともあったのですね・・・それはなおさんが向いてないのか、、先輩保育士さんが教えてくださってるのか、、状況はわかりませんが、なおさんがお辛い思いをされてるのは確かですから、、何とかしなきゃいけないですね・・・",
+      "content": "I see... so those things have been happening, too. I can’t say for sure whether that means you’re not suited for the work or if the senior teacher is just trying to teach you. But it’s clear that you’re suffering, and that's something we need to address."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:23:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:23:34",
+      "origin": "ここまでいろいろとお聞かせいただき、",
+      "content": "Thank you for sharing so much with me up to this point."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:23:40",
+      "origin": "有難うございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:24:07",
+      "origin": "少し、わたしの方で感じた事をお伝えしてもよろしいでしょうか？",
+      "content": "May I share a few of my thoughts on what I've heard?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:24:15",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:24:43",
+      "origin": "まず、なおさんは今すごくお辛く、毎日泣いてて、しごとも辞めたいと思ってる。",
+      "content": "First, Nao, you're in a lot of pain right now, crying every day, and you want to quit your job."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:24:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:25:28",
+      "origin": "保育のお仕事は好きだったのですが、最近、向いてないのかな・・・と感じることもある。",
+      "content": "You used to like your work as a teacher, but recently you’ve started to feel that you might not be suited for it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:25:37",
+      "origin": "で、ですが、",
+      "content": "However,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:26:20",
+      "origin": "その先輩保育士さんの対応は、なおさんだけじゃなく、他の保育士さんも疑問に思ってる。",
+      "content": "it's not just you; other teachers also have issues with this senior teacher's behavior."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:26:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:27:04",
+      "origin": "ってことは、普通の対応ではなく、やはりパワハラと感じる言動なのだと思います。",
+      "content": "This means it's not normal behavior, and I think it constitutes what could be called power harassment."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:27:12",
+      "origin": "どうでしょうか？",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:27:29",
+      "origin": "そうですね。",
+      "content": "I agree."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:27:32",
+      "origin": "だとすると、、",
+      "content": "In that case..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:27:48",
+      "origin": "このままでは、お子さんたちにも悪影響ありますし、",
+      "content": "if things continue like this, it will have a negative impact on the children,"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:28:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:28:11",
+      "origin": "保育園自体の存続の危機にもなりかねません。",
+      "content": "and it could even threaten the very existence of the nursery school itself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:28:17",
+      "origin": "なので、、",
+      "content": "So..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:28:37",
+      "origin": "これまで疑問に思ってた保育士さん達とともに、",
+      "content": "together with the other teachers who have had concerns,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:28:59",
+      "origin": "主任さんや園長先生に相談された方がよろしいかと感じました。",
+      "content": "I feel it would be best to consult the head teacher and the director."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:29:16",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:30:16",
+      "origin": "でないと、保育園が無くなることもかんがえられますよね、",
+      "content": "Otherwise, it's possible the nursery school could even shut down, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:30:36",
+      "origin": "今の時代、パワハラとかすぐネットでも炎上しますし",
+      "content": "In this day and age, issues like power harassment can quickly blow up online."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:30:56",
+      "origin": "そうですねぇ",
+      "content": "That's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:30:57",
+      "origin": "園長先生の無視できない問題と思いますが、",
+      "content": "I believe this is an issue the director cannot ignore,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:31:03",
+      "origin": "いかがでしょうか？",
+      "content": "What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:31:42",
+      "origin": "そうですね、ら園長先生に一度相談してみます。",
+      "content": "You're right. I'll try talking to the director about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:32:05",
+      "origin": "はい、、そうなさる事をお勧めします。それと、",
+      "content": "Yes, I recommend that you do. Also,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:32:28",
+      "origin": "なおさんが向いてないかは、その問題を扱いつつ、",
+      "content": "as for whether you're suited for this work, while you're addressing that issue,"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:33:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:33:19",
+      "origin": "一度じっくり、自分の遣り甲斐なども含め、心の中の整理をされたらいかがでしょうか。",
+      "content": "I suggest you take some time to carefully sort out your feelings, including what you find rewarding about your work."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:33:48",
+      "origin": "わかりました。ありがとうございました。",
+      "content": "I understand. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:34:11",
+      "origin": "はい、ぜひ頑張ってみていただければと思います。",
+      "content": "Yes, I truly hope you'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:34:20",
+      "origin": "応援しております。",
+      "content": "I'm rooting for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:34:37",
+      "origin": "はい、相談に乗っていただきありがとうございました。",
+      "content": "Yes, thank you for listening and advising me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:34:52",
+      "origin": "また、進展やご相談などありましたら、お越しいただければと思います。",
+      "content": "If there are any developments or if you need to talk again, please feel free to come back."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:35:04",
+      "origin": "はい、そうします",
+      "content": "Yes, I will."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:35:21",
+      "origin": "本日はこの辺で宜しかったでしょうか？",
+      "content": "Shall we wrap up here for today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:35:29",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:35:40",
+      "origin": "はい、本日は有難うございました。",
+      "content": "Okay, thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:35:47",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-12T15:36:03",
+      "origin": "失礼します。お疲れ様でした。",
+      "content": "Take care. Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-12T15:36:11",
+      "origin": "お疲れ様でした！",
+      "content": "Thank you, you too!"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "保育士の先輩とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 324,
+    "evaluation_created_at": "2020-08-12T16:03:00",
+    "client_id": 73,
+    "counselor_id": 31,
+    "score": 82,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

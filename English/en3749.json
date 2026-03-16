@@ -1,0 +1,507 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-08-02T17:00:21",
+      "origin": "こんにちは相談者役ですよろしくお願いいたします",
+      "content": "Hello, I'll be playing the role of the client. It's a pleasure to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:00:42",
+      "origin": "はじめまして。よろしくおねがします。",
+      "content": "Nice to meet you. I look forward to our session."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:00:54",
+      "origin": "よろしくお願いいたします",
+      "content": "Likewise."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:01:49",
+      "origin": "それでは、年齢、性別、相談内容を教えてください。",
+      "content": "Alright, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:02:44",
+      "origin": "４８歳女性です職場の人間関係で悩んでいて仕事辞めようか悩んでいます",
+      "content": "I’m a 48-year-old woman. I’m struggling with workplace relationships and considering quitting my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:03:47",
+      "origin": "かしこまりました。あと、なんてお呼びしたらいいですか？ニックネームでも大丈夫ですよ。",
+      "content": "I see. Also, what should I call you? A nickname is fine, too."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:04:49",
+      "origin": "さやか　でお願いします",
+      "content": "Please call me Sayaka."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:05:42",
+      "origin": "さやかさんですね。分かりました。職場の人間関係とは誰かが苦手とかそういった事でしょうか？",
+      "content": "Sayaka, got it. When you say 'relationships at work,' does that mean there's someone you have difficulty with?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:06:20",
+      "origin": "ええ、挨拶しても何も言ってくれない人がいます",
+      "content": "Yes, there's a person who doesn't say anything back even when I greet them."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:07:29",
+      "origin": "なるほど。それは不快な思いになりますね。挨拶以外のやり取りはどんな感じですか？",
+      "content": "I see. That must feel unpleasant. What are your other interactions like, besides greetings?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:08:27",
+      "origin": "業務上の連絡をしてもぶすっとした表情で聞いているだけで、返事もしません",
+      "content": "Even when I communicate work-related matters, they just listen with a sullen expression and don't reply."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:09:14",
+      "origin": "そんな状態なのでほとんど話しません",
+      "content": "Because of that, we hardly talk at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:09:43",
+      "origin": "確かにそんな状態なら、話をしたいと思わないですよね。",
+      "content": "I can certainly understand why you wouldn't want to talk to her in that situation."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:10:03",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:12:17",
+      "origin": "さやかさんとしては、その人とそれなりにやり取りが出来るようになりたいと思っていますか？",
+      "content": "As for you, Sayaka, would you like to be able to have at least workable interactions with that person?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:13:11",
+      "origin": "そうですね、可能であるのなら。",
+      "content": "Well, if it's possible, yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:13:58",
+      "origin": "なるほど。ちなみにいつからそのような状態になったのでしょうか？",
+      "content": "I see. By the way, when did this situation begin?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:15:00",
+      "origin": "そうですね、、、その方が4月に入ってきて最初は少しは話していましたが、だんだん今の様な状態になりました",
+      "content": "Let's see... She started in April, and we talked a little at first, but it gradually became the way it is now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:15:28",
+      "origin": "徐々に少なくなっていったんですね。",
+      "content": "So the interactions gradually decreased."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:15:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:16:40",
+      "origin": "少し話していた頃は、挨拶や返事もあったという事でしょうか？",
+      "content": "Back when you were talking a little, did she greet you and give you replies?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:17:21",
+      "origin": "そうですね、挨拶はありましたが、なんとなく他の人との対応と私への対応は最初っから違いました",
+      "content": "Well, she did greet me, but I somehow felt that the way she treated me was different from how she treated others, right from the start."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:19:39",
+      "origin": "そうでしたか。何かぎこちないとか、あまり話を聞いてくれない様な感じでしょうか？",
+      "content": "I see. Was it something like she was awkward, or did it seem like she wasn't really listening to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:20:34",
+      "origin": "そうですね、他の人とは笑顔で楽しそうに話すのに私にだけ表情が暗いので明らかに私とは話をしたくないというのがわかります",
+      "content": "That's right. She talks to others with a smile and seems to be enjoying herself, but with me, her expression is grim, so it's clear she doesn't want to talk to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:22:57",
+      "origin": "なんとなくその人が拒絶している雰囲気があったんですね。ちなみにその方はいくつ位の方ですか？",
+      "content": "So there was an atmosphere of rejection from her. By the way, about how old is she?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:23:27",
+      "origin": "同じくらいの年齢だと思います、女性です",
+      "content": "I think she's around the same age as me. She's a woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:24:59",
+      "origin": "同年代の方なんですね。同僚の方も同じような年代の方ばかりですか？",
+      "content": "So she's in the same age group. Are your other colleagues also in a similar age range?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:25:52",
+      "origin": "そうですね、40代、50代といった感じです",
+      "content": "Yes, they're mostly in their 40s and 50s."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:28:00",
+      "origin": "そうなんですね。ほかの同年代の方が好かれている一方、自分だけ拒絶されているのは心地よくないですね。",
+      "content": "I see. It must not feel good to be rejected when other colleagues of the same age seem to be liked."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:28:56",
+      "origin": "はい、心当たりがないので直しようもないし。",
+      "content": "Yes, and I can't think of any reason for it, so I don't know how to fix it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:30:05",
+      "origin": "ちなみにその合わない人と関係が良くないことで、業務に支障が出ているのでしょうか？",
+      "content": "By the way, is this poor relationship with her causing any problems with your work?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:31:08",
+      "origin": "支障はでていませんが、仕事を頼んだりができないので私の残業がおおくなります",
+      "content": "It's not causing any direct problems with operations, but since I can't ask her to take on tasks, my overtime increases."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:31:42",
+      "origin": "残業が多くなるのはつらいですね。",
+      "content": "Having more overtime must be tough."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:31:46",
+      "origin": "仕事中もその人の機嫌をみながら仕事をするのは私自身がしんどいです",
+      "content": "It's very draining for me to have to work while constantly being mindful of her mood."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:32:42",
+      "origin": "それだと仕事に行くたびに、精神的にも疲れてしまいますよね。",
+      "content": "That must be mentally exhausting every time you go to work."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:33:55",
+      "origin": "はい、とっても疲れるし仕事に行くのが憂鬱です",
+      "content": "Yes, it's very tiring, and I dread going to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:34:56",
+      "origin": "辛い状況なのですね。それで辞めようか悩んでいたのですね。その人との問題が解決できれば、大丈夫でしょうか。",
+      "content": "That sounds like a difficult situation. So that's why you were considering quitting. If the problem with this person could be resolved, would things be okay?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:35:41",
+      "origin": "そうですね、仲良くはしなくていいのでその人がもう少し普通に接してくれれば他に問題はないので、続けたいです",
+      "content": "Yes. We don't have to be friends, but if she would just treat me a little more normally, there are no other problems, so I'd like to continue working there."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:37:31",
+      "origin": "さやかさん自身が気持ちよく仕事が出来ればいいですよね。",
+      "content": "The most important thing is for you to feel comfortable at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:38:41",
+      "origin": "一緒に解決策を考えましょう。",
+      "content": "Let's think of a solution together."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:38:54",
+      "origin": "宜しくお願いします",
+      "content": "Thank you, I appreciate it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:41:00",
+      "origin": "これは個人的な経験からの質問ですが、違和感を感じてきた時、その人に注意・指導したりすることがよくあったとかそういった事はないですか？",
+      "content": "This is a question from my personal experience, but when you started to sense something was off, was there ever a time you had to correct or instruct her?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:42:21",
+      "origin": "職場は高齢者の介護施設なのですが、",
+      "content": "Our workplace is a nursing home for the elderly,"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:42:54",
+      "origin": "私は看護師でその方は介護職員なので、状況を確認したり、指示をだしたりする関係性です",
+      "content": "and I'm a nurse and she's a care worker, so our relationship involves me checking on situations and giving her instructions."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:43:23",
+      "origin": "なるほど。立場上さやかさんが上になるのでしょうか。",
+      "content": "I see. So in terms of position, are you her superior?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:45:10",
+      "origin": "上下関係はありません。",
+      "content": "There's no hierarchical relationship."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:45:26",
+      "origin": "ただ仕事の役割が違うというかんじです",
+      "content": "It's just that our job roles are different."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:46:19",
+      "origin": "でも私はパートでその方は正社員です",
+      "content": "But I’m a part-time worker and she’s a full-time employee."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:48:07",
+      "origin": "なるほど。お互い支えあう関係だが、雇用区分だとその人が上になるんですね。",
+      "content": "I see. So it's a relationship where you support each other, but in terms of employment type, she has a more senior status."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:48:41",
+      "origin": "そういうことになりますね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:49:53",
+      "origin": "何かその人の中で私の方が地位は上って感じていると考えましたが、どうでしょうか？",
+      "content": "I was thinking that perhaps she feels that she has a higher status than you. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:51:27",
+      "origin": "そうですね、、、",
+      "content": "Well..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:52:13",
+      "origin": "その方はまだ入って4ヶ月くらいだし、介護の仕事も初めてらしいので、",
+      "content": "She's only been here for about four months, and I heard this is her first time working in caregiving,"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:54:03",
+      "origin": "良かれと思って私が言ったことが、下に見られたと感じたのでしょうか？",
+      "content": "so maybe she felt like she was being looked down on when I said things with good intentions?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:55:26",
+      "origin": "その方は今までずっと銀行でお勤めだったようです。最近結婚されたのをきっかけに仕事を辞めて、ご主人が介護施設のスタッフなので、その紹介で入ってこられました",
+      "content": "Apparently, she had been working at a bank for a long time. She quit her job when she got married recently, and she started here through an introduction from her husband, who is also a staff member at the facility."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:56:17",
+      "origin": "その可能性はあると思います。その人の中では地位が下の人に教えてもらうのは気に食わないと考えている、だからさやかさんに色々教えてもらうのが癪で拒絶みたいな態度をとったかもしれません。",
+      "content": "I think that’s a possibility. In her mind, she may dislike being taught by someone she perceives as lower in status, so being taught various things by you might irritate her, leading her to adopt a rejecting attitude."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:57:07",
+      "origin": "ずっと人の上にたって仕事をしていたから、その感覚が抜けていないのかもしれません。",
+      "content": "Perhaps she worked in a managerial position for a long time, and she hasn't shaken that mindset."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:57:45",
+      "origin": "そういうこともあるのですね仕事が分からないと困るだろうとおもって親切心でお伝えしていた事が彼女のプライドを傷つけてしまったという可能性があるということですね",
+      "content": "So that's a possibility... that the things I told her out of kindness, thinking she'd be in trouble if she didn't understand the work, may have hurt her pride."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:58:30",
+      "origin": "でもそれでも挨拶しないとか人としてどうかと思います",
+      "content": "But even so, not greeting someone back... I think that's just wrong as a person."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T17:58:55",
+      "origin": "挨拶は必要ですよね。",
+      "content": "Greetings are important, aren't they?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T17:59:41",
+      "origin": "ただそのプライドは彼女の問題で私はどうしようもないですよね",
+      "content": "But her pride is her problem, and there's nothing I can do about it, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:01:32",
+      "origin": "残業などの業務の支障は、上司に相談してみるのはどうでしょうか。そして、さやかさん自身はその人にあまり干渉しないで、挨拶しなければさやかさんも挨拶しないやり方はどうでしょうか。",
+      "content": "How about consulting your supervisor about the work-related issues, like the overtime? And as for you, Sayaka, how about you try not to interact with her too much? For instance, if she doesn't greet you, you don't greet her either."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:02:43",
+      "origin": "わかりました。残業の件は上司に相談しますでも朝あったら、やはり返してくれなくも私は挨拶はしようと思います",
+      "content": "Okay. I'll talk to my supervisor about the overtime. But when I see her in the morning, I think I will still greet her, even if she doesn't respond."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:05:17",
+      "origin": "さやかさんがそう思われているなら、それでいきまししょう。おそらくですが、さやかさんはものすごく人を大切にする方なんだと思います。それが今回裏目にでてしまったのでしょう。",
+      "content": "If that's how you feel, Sayaka, then let's go with that. I suspect you're a person who truly values others. It seems that this time, it may have backfired."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:06:14",
+      "origin": "ええ、いつも周りの人を大切にしていますそれが裏目にでることってあるんですね",
+      "content": "Yes, I always try to treat the people around me with care. I didn't realize that could backfire."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:08:49",
+      "origin": "その感覚は大切です。すばらしい事です。特に今のお仕事ならなおさらです。頑張ってください。ただそれが負担となってしまう事もあるので、時には自分優先「あんたの方が立場が上なら、もっと仕事頑張れ」と後を任せたりするのも必要だと思います。",
+      "content": "That quality is important. It's a wonderful thing, especially in your line of work. Please keep it up. However, it can sometimes become a burden, so at times it's necessary to prioritize yourself. It might be necessary to leave things to her, while thinking, 'If you're in a higher position, then you should work harder.'"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:09:36",
+      "origin": "はい、とても参考になるご意見ありがとうございますそこまでの勇気がありませんでした",
+      "content": "Yes, thank you for the very helpful advice. I didn't have the courage to do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:11:13",
+      "origin": "言い方は悪いですが、多少人にひどくなってもいいと思いますよ。逆にまわりの人もさやかさんに同じくらい大切にしようという感覚は持ってないかもしれませんから。",
+      "content": "It might sound harsh, but I think it's okay to be a little less considerate to others sometimes. Conversely, the people around you might not feel the need to treat you with the same level of care that you show them."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:12:20",
+      "origin": "自分優先、やってみますありがとうございました",
+      "content": "Prioritizing myself... I'll try it. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:14:29",
+      "origin": "では今回職場の人間関係の悩みについて、その人とはあまり関わらない。作業量も問題は上司に相談。そしてさやかさんは自分を優先（大切に）する。という事ですが、いかがでしょうか？",
+      "content": "So, to summarize our plan for your workplace relationship concerns: first, don't get too involved with that person. Second, discuss the workload problem with your supervisor. And third, prioritize taking care of yourself. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:15:37",
+      "origin": "はい、アドバイスありがとうございました",
+      "content": "Yes, thank you for the advice."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:16:18",
+      "origin": "あと、肉体面もそうですが精神面でも疲れたら体を休めることに努めてくださいね。",
+      "content": "Also, when you feel tired, not just physically but mentally as well, please make sure to rest."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:16:38",
+      "origin": "はい、そうします",
+      "content": "Yes, I will."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:16:50",
+      "origin": "では以上で相談を終わりたいと思いますが大丈夫ですか？",
+      "content": "Then I’d like to wrap up the session here. Is that alright?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:17:06",
+      "origin": "はい、大丈夫ですありがとうございました",
+      "content": "Yes, that’s fine. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:17:52",
+      "origin": "（では本日ありがとうございました。お疲れ様でした。あと、ロールプレイ時間が延びてしまい申し訳ありません。）",
+      "content": "(Well, thank you for today. You did a great job. Also, I'm sorry that the role-play went over time.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-02T18:18:35",
+      "origin": "(ありがとうございました参考になるご意見でしたので時間過ぎてもお聞きしたいとおもいました)",
+      "content": "(Thank you. Your advice was so helpful that I wanted to keep listening even if we went over time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-02T18:20:41",
+      "origin": "（すみません。もっと話をうまく進めていたら、その人について考察できたかなと思いました。それではまた機会がありましたらよろしくお願いします。では。）",
+      "content": "(My apologies. I feel I could have explored more about that person if I had guided the conversation better. Well, I hope we have the chance to do this again. Goodbye.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場の人間関係の摩擦とその解決策"
+  },
+  "review_by_client": {
+    "evaluation_id": 3749,
+    "evaluation_created_at": "2022-08-02T18:38:00",
+    "client_id": 296,
+    "counselor_id": 302,
+    "score": 89,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

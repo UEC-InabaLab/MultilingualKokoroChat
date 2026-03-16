@@ -1,0 +1,861 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-10T12:51:02",
+      "origin": "こんにちは。今日はよろしくお願いいたします。",
+      "content": "Hello. Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T12:51:13",
+      "origin": "よろしくお願いいたします",
+      "content": "Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T12:51:26",
+      "origin": "お時間になりましたら、お声がけさせていただきますね。",
+      "content": "I will let you know when our time is up."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T12:51:35",
+      "origin": "お願いいたします",
+      "content": "Please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:00:29",
+      "origin": "こんにちは、相談員です。",
+      "content": "Hello, I’m the counselor."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:00:35",
+      "origin": "こんにちわ",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:00:52",
+      "origin": "お越しいただきましてありがとうございます",
+      "content": "Thank you for coming in."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:01:02",
+      "origin": "はじめに、ご年齢・性別・ご相談になりたいことを教えていただけますか？",
+      "content": "To start, could you tell me your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:02:11",
+      "origin": "25歳で、男性として生活してます相談したいのは、最近とてもやる気が出なくて困っています",
+      "content": "I'm 25 years old and male. What I'd like to discuss is that I've been struggling with a lack of motivation lately."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:02:36",
+      "origin": "そうなのですね。教えていただきありがとうございます",
+      "content": "I see. Thank you for sharing that."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:03:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:03:45",
+      "origin": "やる気が出なくてお困りのですね。例えばどんなことでそう感じておられますか？",
+      "content": "So you're troubled by a lack of motivation. For example, in what situations do you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:04:35",
+      "origin": "やる気というか、元気がないっていうか、何となく憂鬱だなあって感じです",
+      "content": "It’s less about motivation and more like I have no energy—just a vague sense of feeling down."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:05:33",
+      "origin": "なんとなく憂鬱…ご自身でもよくわからないのですね…",
+      "content": "Feeling vaguely down... It seems like you don't quite understand it yourself..."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:06:02",
+      "origin": "そんな感じですなんでこんなに元気ないのかわからないって感じです",
+      "content": "That’s right. I don’t really know why I feel this drained."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:06:37",
+      "origin": "ええ、ご自身でもつかみどころがないのは、とてもモヤモヤしますよね…",
+      "content": "Yes, it must be very frustrating when you can't quite put your finger on it yourself..."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:06:55",
+      "origin": "そうですね ....",
+      "content": "Yes, it is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:07:49",
+      "origin": "ちなみに、お仕事とかされていますか？例えば、お仕事の上では何か感じることはありますか？",
+      "content": "By the way, are you working? For example, is there anything you’ve been feeling at work?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:09:01",
+      "origin": "仕事は、医療職してます色々思うことはありますが、最近これといって急に状況が変わったことはないですね",
+      "content": "I work in the medical field. There are many things on my mind, but nothing has suddenly changed in my situation recently."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:09:35",
+      "origin": "そうなのですね。思いあたることはなさそうなのですね。",
+      "content": "I see. It sounds like nothing specific comes to mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:09:54",
+      "origin": "でも色々思うことはあるのですね",
+      "content": "But you do have many things on your mind."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:10:15",
+      "origin": "そうですね",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:10:20",
+      "origin": "例えば、どんなことを思っておられますか？",
+      "content": "For example, what kind of things are on your mind?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:10:31",
+      "origin": "(お話しやすい範囲でかまいませんよ)",
+      "content": "(Please feel free to share only what you're comfortable with.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:10:59",
+      "origin": "うーん、職場の上司が頼りないとか、人手が少なくて忙しいとかそんな有り触れた感じです",
+      "content": "Well, things like my boss being unreliable, or being busy because we're short-staffed... just common complaints like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:12:01",
+      "origin": "そうなのですね、いろんな思いがあっても、日々通っておられるのですね",
+      "content": "I see. Even with all of that on your mind, you still go in every day."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:12:30",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:14:12",
+      "origin": "ありふれたことのようでも、毎日のことでは、きっと大変なこともあろうかと思います。人手が足りなくて忙しいとのことですが、お体の調子はいかがですか？",
+      "content": "Even if they seem like common issues, dealing with them every day must be difficult. You mentioned being busy and understaffed; how are you feeling physically?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:14:50",
+      "origin": "大丈夫ですよ特に身体面では調子悪くないです",
+      "content": "I'm fine. Physically, I'm not feeling unwell."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:15:31",
+      "origin": "急に憂鬱になりだしたんです",
+      "content": "I just suddenly started feeling depressed."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:16:21",
+      "origin": "体調良いのはよかったですが、、、急にですか…憂鬱に…",
+      "content": "I'm glad your physical health is good, but... it came on suddenly... this feeling of being down..."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:16:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:17:10",
+      "origin": "それは、不安ですよねどの様なことがあったのでしょう？",
+      "content": "That must feel unsettling. Did anything happen around that time?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:17:17",
+      "origin": "それがわからないんです",
+      "content": "That's the thing, I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:17:37",
+      "origin": "ええ、だからこそ、なお、悩んでしまいますよね",
+      "content": "Yes, that's precisely why it's even more troubling."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:17:46",
+      "origin": "そうなんです",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:18:28",
+      "origin": "急にとのことですが、それはいつのことだったのでしょう？",
+      "content": "You mentioned it came on suddenly—about when did that start?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:18:44",
+      "origin": "2週間くらい前から急にです",
+      "content": "It started suddenly about two weeks ago."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:19:05",
+      "origin": "特に何かきっかけがあったわけじゃなくて",
+      "content": "There wasn’t any particular trigger."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:19:42",
+      "origin": "そうでしたか、もう2週間もそのような思いを抱えてこられているのですね",
+      "content": "I see—you’ve been carrying that feeling for two weeks now."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:19:44",
+      "origin": "今まで楽しめたことも、急に楽しくなくなってしまって",
+      "content": "Even things I used to enjoy suddenly aren't fun anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:19:54",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:20:18",
+      "origin": "どうすればいいのか困ってます",
+      "content": "I'm at a loss as to what to do."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:20:35",
+      "origin": "うつ病にでもなってしまったのでしょうか？",
+      "content": "Could I be depressed?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:21:10",
+      "origin": "そう思うくらい不安になっておられるのですね",
+      "content": "You're feeling so anxious that you're starting to think that."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:21:27",
+      "origin": "そうですね、不安です",
+      "content": "Yes, I’m anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:22:12",
+      "origin": "あなたの憂鬱なお気持ち・・・言葉にしてみると、どんなことになりそうですか？",
+      "content": "If you were to put your low mood into words, what might it sound like?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:22:44",
+      "origin": "今のお気持ち、どんなことでも構いませんので、吐き出してみませんか",
+      "content": "Why don't you try to let out how you're feeling right now? It can be anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:23:05",
+      "origin": "どんなお気持ちをお話しいただいても大丈夫ですよ",
+      "content": "It’s okay to share whatever feelings come up."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:23:14",
+      "origin": "急に元気がなくなって、どうしたんだろう",
+      "content": "It's like, \"My energy suddenly disappeared, what happened?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:23:21",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:23:31",
+      "origin": "どうすれば元に戻るんだろう？って感じです",
+      "content": "And, \"How can I get back to normal?\" That's what it feels like."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:24:32",
+      "origin": "ええ、元の元気な状態に戻りたいですよねそのために一緒に考えて行けたらと思います",
+      "content": "Yes, you want to get back to your energetic self. I hope we can think about how to do that together."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:24:46",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:25:38",
+      "origin": "はい。少し質問させてくださいね。今までは、",
+      "content": "Yes. May I ask a few questions? Up until now,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:26:03",
+      "origin": "どんなことをどんなふうに楽しめていたのでしょうか？",
+      "content": "what kinds of things did you enjoy, and how did you enjoy them?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:26:47",
+      "origin": "仕事も、趣味も、人と会ったりも好きで楽しく過ごしてました",
+      "content": "I enjoyed my work, my hobbies, and meeting up with people. I had a good time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:29:05",
+      "origin": "そうだったのですね。それなのに・・・・今はどんな風に過ごしていますか、例えば、趣味の事では、どんな変化があったでしょう？",
+      "content": "I see. And yet... how are you spending your time now? For example, with your hobbies, what has changed?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:29:51",
+      "origin": "元気のないまま、何となく日常をこなしてます",
+      "content": "I just go through the motions of daily life without any energy."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:30:44",
+      "origin": "趣味は草野球をやってますが、ほんと趣味で別にすごい力を入れてやってる訳じゃない",
+      "content": "My hobby is playing recreational baseball, but it's really just for fun; I'm not super serious about it."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:31:26",
+      "origin": "強いて言えば、メンバーが一人辞めてしまうことが残念だなと思ったくらいですでも別に特段仲良くしていたわけじゃないです",
+      "content": "If I had to say, I was a bit disappointed that one of the members is quitting, but we weren't particularly close or anything."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:32:01",
+      "origin": "あとは資格取得の勉強をしてます",
+      "content": "Other than that, I'm studying to get a certification."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:32:33",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:33:05",
+      "origin": "なんとなくスッキリしない中で、それでも、仕事も趣味も、そのうえ、資格の勉強までされているのですね",
+      "content": "So even while not feeling quite right, you're still managing work, hobbies, and on top of that, studying for a certification."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:33:14",
+      "origin": "そうですね",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:33:40",
+      "origin": "やる気のないと思う中でもここまでされているのですね",
+      "content": "You're doing all of this even while feeling you have no motivation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:34:39",
+      "origin": "そんな中で、日常の中でもたくさんのことをされているあなたの姿が浮かんできました",
+      "content": "It paints a picture of you doing so much in your daily life, even in the midst of this."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:35:21",
+      "origin": "やる気なくなってからは、そこまでガツガツはやってないですよ",
+      "content": "Since I lost my motivation, I haven't been pushing myself that hard."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:36:25",
+      "origin": "普段はなんかもやもやしても寝たら治るんですが、今回はずっと続いていて",
+      "content": "Usually, even if I feel a bit down, I'm better after a night's sleep, but this time it's just continuing."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:36:33",
+      "origin": "どうしたらいいでしょう？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:37:03",
+      "origin": "ええ。でも、憂鬱に感じながら、変わらずこなしていくのは、決して簡単なことではないはずです。",
+      "content": "I understand. Even so, carrying on as usual while feeling low is by no means an easy thing to do."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:37:20",
+      "origin": "そうですね",
+      "content": "That’s true."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:38:00",
+      "origin": "いつもと違う、ずっと続くのはしんどいですよね",
+      "content": "It must be tough when it's different from usual and it just keeps going."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:38:13",
+      "origin": "そうですね",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:39:21",
+      "origin": "あなたの今のご様子は、周りの方も気づかれているのではありませんか？　どなたかとお話はされていますか？",
+      "content": "Have people around you noticed how you’re doing lately? Have you talked with anyone about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:40:07",
+      "origin": "母と彼女には相談しました",
+      "content": "I've talked to my mother and my girlfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:40:47",
+      "origin": "ええ。そうなんですね。お話しできる方がいらっしゃってよかったです",
+      "content": "I see. I’m glad you have people you can talk to."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:40:58",
+      "origin": "どんなお話をされましたか？",
+      "content": "What did you talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:41:10",
+      "origin": "最近、なんかメンタル調子が悪いって",
+      "content": "That lately my mental state feels off."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:41:27",
+      "origin": "ええ",
+      "content": "Mhm."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:42:07",
+      "origin": "僕、いつもそういう時、ひとりで過ごすと良くなることが多いので、2人はいつものようにそっとしておいてくれてます",
+      "content": "Usually when this happens, I tend to get better by spending time alone, so they're both giving me my space like they always do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:43:08",
+      "origin": "あなたは、ご自身がどうやったらよくなりそうかご存じなんですね",
+      "content": "It sounds like you know what tends to help you feel better."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:43:25",
+      "origin": "今回はどれをやっても治らないんです",
+      "content": "But this time, nothing I try is working."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:44:01",
+      "origin": "それでも、うまくいかないのは本当にお辛いですよね",
+      "content": "It must be really difficult when your usual methods aren't working."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:44:16",
+      "origin": "そうなんですだから困ってしまって",
+      "content": "Exactly. That's why I'm at a loss."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:45:16",
+      "origin": "メンタルの調子が悪い時、ひとりで過ごすと良くなることが多いと教えてくださいましたが、",
+      "content": "You mentioned that when your mental state is off, spending time alone often helps,"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:45:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:46:02",
+      "origin": "一人で過ごしている時は、どんなことが頭に浮かんでいますか？",
+      "content": "When you're spending time alone, what tends to be on your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:46:59",
+      "origin": "普段、バタバタしてるんでそういう時はひとりで部屋でゲームしたり、動画みたり、好きな時に寝たりするんです",
+      "content": "I’m usually so busy that at those times I just stay in my room, play games, watch videos, and sleep when I want."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:47:15",
+      "origin": "だから、ボーッとしてるっていうか何も考えてはないですね",
+      "content": "So I’m kind of spacing out—not really thinking about anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:47:36",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:48:48",
+      "origin": "バタバタしている時こそ、一人になって、思うに任せてすごしているのですね",
+      "content": "Especially when things are hectic, you spend time alone doing whatever you feel like."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:49:15",
+      "origin": "普段はそれで結構元気になりますね",
+      "content": "Usually, that helps me recharge quite a bit."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:50:33",
+      "origin": "そうなのですね。教えてくださってありがとうございます。以前はご自身をコントロールできていたようですね",
+      "content": "I see. Thank you for sharing. It sounds like you were able to manage your feelings well before."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:51:00",
+      "origin": "では、ここ最近は、どの様に過ごしていましたか？",
+      "content": "And in the past couple of weeks, how have you been spending your time?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:51:23",
+      "origin": "その様に過ごしました",
+      "content": "I’ve been doing the same."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:51:33",
+      "origin": "でも改善しない感じです",
+      "content": "But it doesn't feel like I'm getting any better."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:51:59",
+      "origin": "なるほど。あなたはいつものようにやってみてるのに…",
+      "content": "I see—even though you’re doing what usually helps..."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:52:12",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:53:12",
+      "origin": "少し、お話振り返ってみてもよいでしょうか？",
+      "content": "May we take a moment to reflect on what you’ve shared?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:53:22",
+      "origin": "よろしくお願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:53:31",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:55:17",
+      "origin": "あなたはお仕事に趣味に、勉強に、バタバタしていると思う中にも、ご自身なりに、楽になれる方法を取り入れながらも日々日常を過ごしてこられました",
+      "content": "You've been managing your daily life—your busy work, hobbies, and studies—by incorporating your own ways of relaxing."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:56:20",
+      "origin": "でも今回は、いつもと何か違う、",
+      "content": "But this time, something feels different from usual,"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:56:27",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:57:14",
+      "origin": "この憂鬱な気持ちは何なのだろういつまで続くのだろうと思うと本当にどうしたらよいからなくなってしまっている",
+      "content": "Wondering what this low mood is and how long it will last has left you completely at a loss for what to do."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:57:26",
+      "origin": "そうです",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:58:22",
+      "origin": "本当に悩んでしまいますよね私が思ったこと　お伝えしてもよろしいでしょうか？",
+      "content": "It’s truly troubling, isn’t it? May I share something that came to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T13:58:38",
+      "origin": "よろしくお願いします",
+      "content": "Please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T13:59:27",
+      "origin": "はい、あなたのご自身でもつかみきれないお気持ち・・・伝わってきています",
+      "content": "Yes—I can sense that you’re struggling with feelings that are hard even for you to grasp."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:00:02",
+      "origin": "ご自身の気持ちを見つめてみるためにも、",
+      "content": "To help you look at your own feelings,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:00:51",
+      "origin": "紙に、何がつらいのか、不安なのか、思いついた感情などを書き出してみるのはどうかなと思いました",
+      "content": "I was thinking, how about trying to write down on paper—what's difficult, what's causing anxiety, any emotion that comes to mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:01:05",
+      "origin": "そうすることで、",
+      "content": "By doing so,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:02:13",
+      "origin": "形にならない気持ちを　まずはご自身が表に表して、気持ちに気づいてみることからやってみるのがいいかなと思いました。",
+      "content": "I thought it might be good to start by externalizing those formless feelings, to help you become aware of them."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:02:20",
+      "origin": "いかがでしょう？",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:02:25",
+      "origin": "わかりましたやってみます",
+      "content": "Okay, I'll try it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:03:05",
+      "origin": "ええ。そうすることで、分からなかったことが、少しずつでも見えてくるといいのかな。と思いました。",
+      "content": "Yes. My hope is that, by doing so, things that were unclear may start to come into view, little by little."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:03:37",
+      "origin": "だといいんですけどね....とにかくやってみます",
+      "content": "I hope so... In any case, I'll give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:04:05",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:04:09",
+      "origin": "少しずつやってみることで、ご自身でも気づかなかった、本当は吐き出したい気持ちが見つかったりすることもあるかもせれません",
+      "content": "By trying it out little by little, you might discover feelings you didn't even realize you wanted to let out."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:04:42",
+      "origin": "急には難しいかもしれませんが、少しずつやってみていただけたらと思います。",
+      "content": "It might be difficult at first, but I hope you'll give it a try, a little at a time."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:04:57",
+      "origin": "わかりました",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:05:32",
+      "origin": "その中で、何かなんとかしたい気持ちが浮かんできたら、またお話に来ていただけると嬉しいです",
+      "content": "If, in the process, any feelings arise that you want to work on, I’d be glad if you came to talk again."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:05:57",
+      "origin": "わかりました",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:06:04",
+      "origin": "お時間来てしまいましたが、次は、あなたの大切な気持ちについて、お話して行けたらと思います。",
+      "content": "Our time is up, but next time, I hope we can talk more about these important feelings of yours."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:06:24",
+      "origin": "またよろしくお願い致します",
+      "content": "Thank you—I’ll look forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:07:33",
+      "origin": "ぜひいらしてくださいね。気持は、内に秘めているとつらくなることもあったりします。少しずつ書いてみて、表に出してあげてくださいね。あなたをいつでも見守っていますね",
+      "content": "Please do come back. It can be painful to keep your feelings bottled up inside. Try writing them down little by little to let them out. I'm always here to support you."
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:08:40",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:08:56",
+      "origin": "それでは、今日のご相談は、終了でよろしいでしょうか？",
+      "content": "Shall we conclude today’s session here?"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:09:18",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:09:34",
+      "origin": "あなたが少しでも楽になれることを願っていますねまたのお越しをお待ちしております",
+      "content": "I hope you can feel even a little more at ease. I look forward to seeing you again."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:09:51",
+      "origin": "ご相談いただきまして、ありがとうございました。",
+      "content": "Thank you for coming in to talk today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:10:18",
+      "origin": "（お時間遅くなってすみません。ありがとうございました）",
+      "content": "(Sorry for going over time. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:10:29",
+      "origin": "(ありがとうございました！)",
+      "content": "(Thank you!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:11:12",
+      "origin": "（改善点、感じたことなど、評価に挙げていただけたら、と思います。お疲れさまでした)",
+      "content": "(If you could share any points for improvement or what you felt in your evaluation, I’d appreciate it. Thank you for your time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-10T14:11:45",
+      "origin": "(終了いたします)",
+      "content": "(This concludes the session.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-10T14:11:53",
+      "origin": "(ありがとうございました)",
+      "content": "(Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "憂鬱感の持続と原因不明の無気力"
+  },
+  "review_by_client": {
+    "evaluation_id": 2442,
+    "evaluation_created_at": "2021-09-10T14:31:00",
+    "client_id": 217,
+    "counselor_id": 108,
+    "score": 67,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

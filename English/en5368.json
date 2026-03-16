@@ -1,0 +1,585 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-01T16:51:12",
+      "origin": "(本日はよろしくお願いいたします。時間になりましたら始めさせてもらいます。）",
+      "content": "(Thank you for being here today. We will begin when it is time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T16:51:35",
+      "origin": "よろしくお願い致します。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:00:27",
+      "origin": "こんにちは。本日は相談に来てくださりありがとうございます。はじめに、年齢、性別、相談内容を教えてください。",
+      "content": "Hello. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:01:34",
+      "origin": "よろしくお願いします。年齢は46歳、男性です。で、相談というか今回話したいことなのですが・・・",
+      "content": "Thank you. I'm 46 years old, male. And, it's not a consultation, per se, but more about what I want to talk about today..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:01:52",
+      "origin": "ちょっと長くなるのですがよろしいですか。",
+      "content": "It might take a while to explain, is that alright?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:02:24",
+      "origin": "ありがとうございます。話したいことがあるのですね。",
+      "content": "Thank you. It sounds like there's something specific you want to talk about."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:02:40",
+      "origin": "はい、大丈夫ですよ。",
+      "content": "Yes, that's perfectly fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:03:31",
+      "origin": "どんなことをお話ししに来てくださいましたか？",
+      "content": "What has brought you here to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:04:36",
+      "origin": "はい。あらかじめ言っておきますと、何か正解を見つけるとか、気持ちの支持をしてもらうといった類を目的にしてはないのです。あえて言うなら、整理とか気づきにあたるかもしれません。",
+      "content": "Yes. I should say upfront, my goal isn't to find some \"right answer\" or to get emotional support. If I had to put it into words, it might be more about organizing my thoughts or gaining some insight."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:05:07",
+      "origin": "ちょっと長くなりますが、分けて話しますね。",
+      "content": "It's a bit of a long story, but I'll break it down into parts."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:05:39",
+      "origin": "ご丁寧にありがとうございます。はい、よろしくお願いします。どうなさいましたか？",
+      "content": "Thank you for being so considerate. Yes, please go ahead. What's on your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:07:39",
+      "origin": "一年半ほど前に父親が亡くなって。ただ、父親とは関係があまりよくなく、父親が亡くなる前、2年ほどは無視をしていた状態で。",
+      "content": "My father passed away about a year and a half ago. However, we didn't have a very good relationship, and for about two years before he died, I was ignoring him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:09:05",
+      "origin": "そうだったのですね、それは悲しいですね、、父親との関係がよくなく無視をされていたのですね。",
+      "content": "I see, that must have been a difficult situation... So you had a strained relationship with your father and were ignoring him."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:10:38",
+      "origin": "で、亡くなる年の数ヶ月前に父親が倒れて。入院するのですが、「余命いくばくもない」と言われて。「このまま無視をしたまま、　父親が死んでいくのも、なんか違うよな」と思い、父親退院後は、話をしたり、体の世話や介護をするようになって。",
+      "content": "Then, a few months before he passed away, my father collapsed. He was hospitalized, and we were told he didn't have much time left. I thought, \"It just doesn't feel right to let him die while I'm still ignoring him,\" so after he was discharged from the hospital, I started talking to him and taking care of him physically."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:12:01",
+      "origin": "で、父親退院後に亡くなるのですが、亡くなって一年半経った今頃からなのですが、テレビを見ていても、気になることが出てきて。",
+      "content": "So, he passed away after being discharged from the hospital, and now, about a year and a half later, I've started noticing things that bother me when I watch TV."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:12:19",
+      "origin": "なるほど、退院後は話をしたり、介護などをしていらしたのですね。",
+      "content": "I see, so after he was discharged, you started talking to him and providing care."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:12:44",
+      "origin": "気になることが出てきたのですね。どんなことでしょうか？",
+      "content": "Things have started to bother you. What kind of things are they?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:13:21",
+      "origin": "まあ、家族の番組で、介護したり、葬式あげたりしている内容なのですが、",
+      "content": "Well, it's on TV shows about families, where they're caring for someone or holding a funeral, that sort of thing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:13:43",
+      "origin": "はい、なるほど。",
+      "content": "Yes, I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:13:53",
+      "origin": "見ていて自分をどこかで責めるようになってきているんですよね。",
+      "content": "When I watch them, I somehow start blaming myself."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:14:14",
+      "origin": "この感覚は何なんだろうと。",
+      "content": "I wonder what this feeling is."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:14:34",
+      "origin": "長くなりましたが、そういう話なのです。",
+      "content": "Sorry for the long explanation, but that's what it's about."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:15:02",
+      "origin": "父親のことはいまだにいい印象は持ってないのですが。",
+      "content": "I still don't have a good impression of my father, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:15:19",
+      "origin": "なるほど、ありがとうございます。そのようなテレビを見ているとなぜかわからないけど自分を責めるような形になったのですね。",
+      "content": "I see, thank you. When you watch those kinds of programs, you somehow end up blaming yourself without quite knowing why."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:15:49",
+      "origin": "なんか出来たんじゃないかとかもつとああすればよかったんじゃないかとか思ったりしてしまうのです。",
+      "content": "I start thinking things like, \"Maybe I could have done more,\" or \"I should have done things differently.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:16:05",
+      "origin": "この感覚は何なんですかね？",
+      "content": "What is this feeling, I wonder?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:16:17",
+      "origin": "という話なのです。",
+      "content": "That's what I wanted to talk about."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:16:39",
+      "origin": "「知らねーよ」と言われればそれまでですが。",
+      "content": "You could just tell me, \"I don't know,\" and that would be that."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:16:57",
+      "origin": "すいません。こんな話で。",
+      "content": "I'm sorry for bringing up something like this."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:17:25",
+      "origin": "そうだったのですね。いえいえ、貴重な話ありがとうございます。この感覚は何なのか、このカウンセリングで一緒に考えていきませんか",
+      "content": "I see. Not at all, thank you for sharing such a valuable story with me. Shall we explore this feeling together in our session and try to understand what it is?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:18:17",
+      "origin": "そうですね。どうお感じになるか、伺えればなそこから何か見えればと思います。",
+      "content": "Yes. I'd like to hear your thoughts, and maybe something will become clear from there."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:19:37",
+      "origin": "何なんですかね？喪の作業の一種なんですかね？",
+      "content": "What could it be, I wonder? Could it be a part of the grieving process?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:19:56",
+      "origin": "はい、ありがとうございます。今の話を聞かせていただいて相談者様はすごく父親のことを大切に思っていらっしゃるなと感じました。いかがでしょうか？",
+      "content": "Yes, thank you. As I was listening to you, I got the impression that you cared for your father a great deal. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:21:03",
+      "origin": "いや、大切じゃないんですよ。好きか嫌いかで言えば嫌いなんです。結局。親子間の長年の争いがありまして。",
+      "content": "No, I didn't care for him. If you ask me whether I liked or disliked him, I'd say I disliked him. In the end. We had a long history of conflict between us."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:21:54",
+      "origin": "なるほど、そのようなことがあったのですね。その「争い」とはどんなことなのでしょうか？",
+      "content": "I see, so that was going on. What kind of 'conflict' was it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:23:09",
+      "origin": "あまり言いたくはないですが、やり取りの相違と言いましょうか、恐ろしいまでに理解力のない父親だったので。",
+      "content": "I would rather not go into it, but let's call it a mismatch in our interactions. He had an astonishing lack of understanding."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:23:57",
+      "origin": "普通の人なら1分もかからずやり取りできる内容を理解するのに1時間かかったりしましたから。",
+      "content": "It would take him an hour to understand something a normal person could grasp in less than a minute."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:24:36",
+      "origin": "そうだったのですね、、それはすごく大変な状況ですね、",
+      "content": "I see... that sounds like a very difficult situation."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:24:55",
+      "origin": "はい、本気で嫌になります。",
+      "content": "Yes, it was truly frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:25:15",
+      "origin": "話通じないし、あらぬ疑いかけられますし。",
+      "content": "We couldn't communicate, and he would make baseless accusations against me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:25:53",
+      "origin": "あらぬ疑いをかけられたのですか、どんなことだったのでしょうか？",
+      "content": "He made baseless accusations? What kind of things were they?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:26:45",
+      "origin": "そういうのはあまり言いたくないです。すみません。そのことは話がややこし過ぎて説明しづらいのです。",
+      "content": "I'd rather not talk about that. I'm sorry. It's just too complicated to explain."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:27:42",
+      "origin": "すごい簡単に言えばおまえを訴えるとかそんなことです。",
+      "content": "To put it very simply, it was things like, \"I'm going to sue you.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:28:10",
+      "origin": "訴えられないレベルの話なのですが、本気で言ってくるのです。",
+      "content": "It was over things you couldn't even be sued for, but he was completely serious when he said it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:28:36",
+      "origin": "失礼しました。正直に言っていただきありがとうございます。訴える・・・そこまで言われていたのですね、",
+      "content": "I apologize. Thank you for your honesty. \"Sue you\"... so he went that far."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:29:23",
+      "origin": "だから話し合いが出来ないのです。で、困って、困り果てて、無視するに至ったのですが。",
+      "content": "That's why we couldn't have a proper conversation. I was at my wit's end, and that's why I resorted to ignoring him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:30:24",
+      "origin": "なるほど、そのような話の流れだったのですね。それはとても困りますよね、、",
+      "content": "I see, so that's how it all unfolded. That must have been incredibly distressing for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:31:04",
+      "origin": "はい。で、テレビ見てても「なんでここの家族はこんな仲がいいんだ」と思うわけです。ただ、一方、、、",
+      "content": "Yes. So, when I watch TV, I find myself thinking, \"Why is this family so close?\" But on the other hand..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:31:25",
+      "origin": "なんか出来なかったのかなと思っている自分がいるわけです。",
+      "content": "There is a part of me that thinks, maybe there was something more I could have done."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:31:46",
+      "origin": "すごい矛盾が共存してるのです。",
+      "content": "A huge contradiction is coexisting inside me."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:32:54",
+      "origin": "どこかでいまだに理想の親子関係を求めているんですかね？",
+      "content": "Am I, somewhere deep down, still hoping for an ideal parent-child relationship?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:34:11",
+      "origin": "なるほど、矛盾が共存しているのですね。テレビをみて、うらやましいな、と思うことがあれば求めている可能性もあるのではないでしょうか？",
+      "content": "I see, so those contradictions are coexisting within you. If you watch TV and feel a sense of envy, isn't it possible that you are indeed hoping for that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:35:42",
+      "origin": "仮にそうだとして、そこに何を求めてるんだろうとは思います。",
+      "content": "If that's the case, I wonder what exactly I'm seeking there."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:35:50",
+      "origin": "どうお感じになりますか？こういう人。",
+      "content": "What do you think of a person like this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:36:17",
+      "origin": "頭おかしいと言われれば否定できませんが。",
+      "content": "If you said I was crazy, I couldn't deny it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:37:12",
+      "origin": "なるほど、何を求めているのかというのがはっきりとわからないですよね。理想を描くことは間違っていないと感じます。",
+      "content": "I see, so it's not clear what you're looking for. I don't think there's anything wrong with having an ideal in mind."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:38:33",
+      "origin": "この感覚は今後も続くと思いますが、なんか気持ち悪い感じですね。",
+      "content": "I think this feeling will continue, and it's just... an unsettling feeling."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:39:32",
+      "origin": "理想を描くことが間違いではないそうなんですかねそうとも確かに言えますがなんかしっくり来ない感じです。",
+      "content": "So, envisioning an ideal isn't wrong, you say? I suppose that's true, but it doesn't quite sit right with me."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:40:41",
+      "origin": "理想を求めて、その先に何があるかですよね、、、",
+      "content": "It's about seeking an ideal, but the question is what lies beyond that..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:41:12",
+      "origin": "「つながる感覚」とかですかねえ？",
+      "content": "A \"sense of connection,\" maybe?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:41:41",
+      "origin": "それが欲しくてなんか色々考えているんですかね。",
+      "content": "Maybe that's what I want, and that's why I'm thinking about all of this."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:42:12",
+      "origin": "なるほど、その先に何があるかなどは疑問になりますね、、繋がる感覚というのはどんなイメージなのでしょうか",
+      "content": "I see, it's natural to wonder what lies beyond that. What kind of image do you have of a \"sense of connection\"?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:42:30",
+      "origin": "長くなりますが、、",
+      "content": "This may be a bit long, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:43:10",
+      "origin": "イメージを持っていらっしゃるということでしょうか？",
+      "content": "Does that mean you have an image in mind?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:43:32",
+      "origin": "聞かせていただいてもよろしいでしょうか。",
+      "content": "Would you be willing to share it with me?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:44:11",
+      "origin": "話が通じてこなかったストレスと「身体的ケア」とか何か誰にでもわかる形のものが提供できていたら、",
+      "content": "If, despite the stress of our inability to communicate, I had been able to provide something tangible that anyone could understand, like \"physical care,\""
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:44:14",
+      "origin": "少なくともその部分に関しては繋がれた気はするのです。",
+      "content": "I feel like we could have connected, at least in that respect."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:45:30",
+      "origin": "「つながりたかった」が本来求めていたものなのかもしれないですね。こう考えていくと。",
+      "content": "Now that I think about it, \"wanting to connect\" might be what I was really seeking all along."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:45:43",
+      "origin": "まあ、無理なんですが。",
+      "content": "Well, it's impossible now, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:46:28",
+      "origin": "なるほど、そのようなイメージを持っていらしてるのですね。やはり「つながる」というところに相談者様は引っかかっていたのではないでしょうか？",
+      "content": "I see, so that's the image you have. Perhaps this idea of \"connecting\" is what you've been struggling with?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:47:52",
+      "origin": "父親はもういないですが、いれば、いた時にこういうことしてればその時くらいは繋がれたかなというのを求めて、いまだに自分が何かやっているのかもしれません。",
+      "content": "My father is gone now, but perhaps I'm still doing things in pursuit of that thought: 'If he were still here, if I had done this back when he was alive, maybe we could have connected, at least for that moment.'"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:48:05",
+      "origin": "つながるはキーワードかもしれませんね。",
+      "content": "\"Connection\" might be the keyword."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:48:33",
+      "origin": "なんかさっきより腑に落ちた感じがしますね。",
+      "content": "Somehow, that makes more sense to me than before."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:49:06",
+      "origin": "バシッとココという感じではないですが近づいた感じがします。",
+      "content": "It's not like a perfect fit, but I feel like I'm getting closer."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:49:52",
+      "origin": "なんか、ちょっと頭のモヤモヤが薄らいだ感じがします。",
+      "content": "I feel like the fog in my head has lifted a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:50:30",
+      "origin": "なるほど、確かにキーワードのなるかもしれないですね。そうでしたか、少し楽な気持ちになれましたでしょうか？",
+      "content": "I see, it certainly could be the keyword. Is that so? Do you feel a little more at ease now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:51:02",
+      "origin": "ありがとうございます。なんかいい感じです。うまく表現できないのですが。",
+      "content": "Thank you. I feel... better, somehow. I can't quite describe it."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:51:31",
+      "origin": "早いですが、ここで終わりにしてもいいぐらいです。",
+      "content": "It's a bit early, but I feel like I could even end the session here."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:52:50",
+      "origin": "いえいえ、よかったです。そしたら今日話をして、なにか感想などあれば聞かせていただけますか？",
+      "content": "Not at all, I'm glad to hear that. In that case, could you share any thoughts or feelings you have about our conversation today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:53:48",
+      "origin": "頭の中のモヤモヤを整理できてよかったなという感じでしょうか。",
+      "content": "I suppose I'd say I'm glad I was able to sort out the fog in my head."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:54:31",
+      "origin": "そうですね、もやもやが整理出来たら気持ちも楽になりますよね。",
+      "content": "Yes, when you can clear up that foggy feeling, you tend to feel more at ease, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:55:07",
+      "origin": "カウンセラーさんはやってて手応えなかったかもしれませんが。ありがたいことでした。",
+      "content": "You, as the counselor, may not have felt like you made much progress, but this was very helpful for me. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:55:34",
+      "origin": "ここで終了でよいですか？",
+      "content": "Is it alright if we end here?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:56:25",
+      "origin": "こちらこそありがとうございました。そうですね、なにか話足りないことなどはないですか？",
+      "content": "Thank you as well. Of course. Is there anything else you feel you need to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:56:50",
+      "origin": "大丈夫です。また何かありましたら、話に来ます。",
+      "content": "No, I'm fine. If something else comes up, I'll come back to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:57:29",
+      "origin": "わかりました。もしまた疑問に思うことなどがあればいつでも来てくださいね。",
+      "content": "All right. Please feel free to come back anytime if you have more questions or things you want to discuss."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:57:36",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:57:55",
+      "origin": "それでは少し早いですが終了させていただきます。",
+      "content": "Then, we will end our session a little early today."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-01T17:58:22",
+      "origin": "（ありがとうございました。勉強になりました）",
+      "content": "(Thank you. I learned a lot.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:58:49",
+      "origin": "（本日はありがとうございました。こちらこそ勉強になりました。）",
+      "content": "(Thank you for today. I learned a lot as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-01T17:59:13",
+      "origin": "終了させていただきます。失礼します。",
+      "content": "This concludes our session. Goodbye."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "父親との関係と喪の作業"
+  },
+  "review_by_client": {
+    "evaluation_id": 5368,
+    "evaluation_created_at": "2023-07-01T18:13:00",
+    "client_id": 382,
+    "counselor_id": 396,
+    "score": 74,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

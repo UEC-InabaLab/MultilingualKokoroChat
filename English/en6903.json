@@ -1,0 +1,513 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-21T20:53:10",
+      "origin": "(こんばんは。本日はよろしくお願いいたします。お時間になりましたら、始めさせていただきます。）",
+      "content": "(Good evening. Thank you for being here today. We will begin when it's time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:00:14",
+      "origin": "こんにちは。相談員です。本日はお越しいただきありがとうございます。まずはじめに年齢・性別・相談内容を教えていただけますでしょうか。",
+      "content": "Hello. I’m the counselor. Thank you for coming in today. To start, could you please tell me your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:01:44",
+      "origin": "こんばんは",
+      "content": "Good evening."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:02:34",
+      "origin": "50歳女、仕事でうまく行きません",
+      "content": "I’m a 50-year-old woman. Things aren’t going well at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:02:44",
+      "origin": "教えていただきありがとうございます。",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:03:12",
+      "origin": "仕事でうまくいかないとのことですが、どのようなことなのか詳しく教えていただけますか？",
+      "content": "You mentioned that things aren't going well at work. Could you please tell me more about what has been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:04:07",
+      "origin": "なかなか覚えられず、気まずいです",
+      "content": "I'm having trouble learning things, and it feels awkward."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:04:51",
+      "origin": "そうだったのですね。それはやりづらさも感じますね・・ちなみに今はどのようなお仕事をされているのでしょうか？",
+      "content": "I see. That must make things difficult for you. By the way, what kind of work are you doing now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:05:06",
+      "origin": "医療事務をしています",
+      "content": "I work in medical administration."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:05:27",
+      "origin": "そうなのですね。いつ頃から今のお仕事をされているのですか？",
+      "content": "I see. How long have you been doing your current job?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:07:09",
+      "origin": "半年前に仕事内容がガラリと変わりました",
+      "content": "My job responsibilities changed drastically six months ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:07:53",
+      "origin": "そうでしたか・・それは戸惑うことも多いことと思います。",
+      "content": "I see. I imagine that must be quite confusing for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:08:20",
+      "origin": "例えば、どういった変化があったのでしょうか？",
+      "content": "For example, what kinds of changes were there?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:09:05",
+      "origin": "取り扱う公費の種類が変わりました",
+      "content": "The types of public funding we handle changed."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:10:16",
+      "origin": "そうだったのですね。今まで取り扱っていなかったものを取り扱うようになって、新たに覚えることが増えたのですね・・",
+      "content": "I see. So you started handling things you hadn’t dealt with before, and there’s a lot more to learn."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:10:35",
+      "origin": "そうです",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:11:41",
+      "origin": "ええ、そうなのですね。先ほど、気まずいとおっしゃっていましたが、どういったときにそのように感じたりするのでしょうか？",
+      "content": "Yes, I see. You mentioned earlier that you feel awkward. When do you tend to feel that way?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:12:31",
+      "origin": "例えば、周りに何か言われたりするのでしょうか・・",
+      "content": "For example, do people around you say anything?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:13:28",
+      "origin": "失敗が多くて、指摘されます請求額と入金額が合わないとか…",
+      "content": "I make a lot of mistakes and get called out on them—for example, when the billed amount doesn’t match the payment received."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:14:22",
+      "origin": "そうなのですね。それはおつらいですね。",
+      "content": "I see. That must be very difficult for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:14:43",
+      "origin": "ちなみにどなたに指摘されるのでしょうか？",
+      "content": "By the way, who points these things out to you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:15:10",
+      "origin": "入金確認担当の人です",
+      "content": "The person in charge of payment verification."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:16:56",
+      "origin": "そうなのですね。入金確認の方から指摘を受けて、気まずさを感じているのですね。",
+      "content": "I see. So you feel awkward when the person in charge of payment verification points things out."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:17:18",
+      "origin": "それもあります",
+      "content": "That’s part of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:17:50",
+      "origin": "そうでしたか・・それもということは、ほかにもあるのでしょうか？",
+      "content": "I see. You said, \"that's part of it.\" Does that mean there are other things as well?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:18:35",
+      "origin": "周りにひそひそ言われてるのです仕事が遅いくせに、とか",
+      "content": "People around me are whispering about me, saying things like, \"She's so slow at her job...\""
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:20:12",
+      "origin": "そうなのですね。そういったことが聞こえてくると嫌な気持ちになりますよね・・",
+      "content": "I see. It must be upsetting to hear things like that."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:20:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:21:55",
+      "origin": "ええ、そのような状況のなか、仕事をやっておられるのですね。",
+      "content": "I understand. And you're continuing to work in the midst of that situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:22:06",
+      "origin": "半年前に仕事内容が変わって、苦労されているようですが、医療事務自体は長くお勤めなのでしょうか？",
+      "content": "It sounds like you've been struggling since your job responsibilities changed six months ago. Have you been working in medical administration for a long time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:24:40",
+      "origin": "今の会社は5年目です",
+      "content": "I’m in my fifth year at my current company."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:25:26",
+      "origin": "教えていただきありがとうございます。",
+      "content": "Thank you for sharing that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:26:09",
+      "origin": "5年間続けてこられて、仕事でうまくいかないと感じるのは今回が初めてなのでしょうか？以前はいかがでしたか？",
+      "content": "You’ve been there for five years. Is this the first time you’ve felt that things aren’t going well at work? How were things before?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:28:56",
+      "origin": "前もあったと思います",
+      "content": "I think it's happened before."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:30:23",
+      "origin": "そうなのですね。前はどういったときに感じていたのでしょうか？",
+      "content": "I see. When did you feel that way before?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:31:48",
+      "origin": "手順通りやってるのにミスが出たときや、先方との齟齬で業務がうまく流れないときです",
+      "content": "When I make mistakes even though I'm following the procedures, or when work doesn't go smoothly due to discrepancies with the other party."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:33:16",
+      "origin": "そうだったのですね。そういったことからうまくいかないと感じることがあったのですね。",
+      "content": "I see. So those were the kinds of situations that made you feel like things weren't going well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:35:39",
+      "origin": "あなたとしては、これからどうなっていきたい、どうなりたいなど考えていることは何かあるのでしょうか？",
+      "content": "As for you, are you thinking at all about how you'd like things to be, or what you'd like to become, going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:36:25",
+      "origin": "マニュアル通りに業務を進められるようになりたいです",
+      "content": "I want to be able to carry out my tasks according to the manual."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:37:45",
+      "origin": "今はそのように感じているのですね。マニュアル通りというのは、「正確に」というようなイメージですか？",
+      "content": "So that's how you're feeling right now. When you say \"according to the manual,\" do you mean something like \"accurately\"?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:38:07",
+      "origin": "そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:40:00",
+      "origin": "そうなのですね。きっと仕事内容が変わり、戸惑うことも多いのでは・・と想像しています。",
+      "content": "I see. I imagine the change in your job responsibilities has left you feeling confused in many ways."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:40:39",
+      "origin": "戸惑います",
+      "content": "I do feel confused."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:41:45",
+      "origin": "今までとは違う知識も必要になってくるかと思いますし、思い通りにいかないこともあるのではないでしょうか・・",
+      "content": "I would think you need different knowledge than before, and there are probably times when things don't go as you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:42:10",
+      "origin": "たくさんあります",
+      "content": "That happens a lot."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:44:32",
+      "origin": "ええ、そうなのですね。マニュアル通りに業務を進められるなりたいとおっしゃっていたので、日々慎重にお仕事をされているのかな、と思いました。",
+      "content": "Yes, I see. Since you said you want to be able to do your work according to the manual, I thought you might be working very carefully every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:46:16",
+      "origin": "だからこそ、今までと仕事内容が違うことで思い通りにいかなくて悔しい思いもされているのでは・・と感じています。",
+      "content": "And for that very reason, I feel you might be experiencing frustration when things don't go as you intend, because your job is so different from before."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:47:44",
+      "origin": "悔しさはあります",
+      "content": "I do feel frustrated."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:48:43",
+      "origin": "ええ、そうなのですね。どういった悔しさがあるのでしょうか？",
+      "content": "I see. What kind of frustration is it for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:50:24",
+      "origin": "マニュアル通りにできない自分に腹が立つし、マニュアルに書いてない部分の理解を求めてくる周囲にも腹が立ちます",
+      "content": "I get angry at myself for not being able to follow the manual, and I also get angry at others for expecting me to understand things that aren't even in the manual."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:51:31",
+      "origin": "そうだったのですね。今は自分にも周りにも苛立つお気持ちもあるのですね。",
+      "content": "I see. So right now, you're feeling irritated with both yourself and those around you."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:51:53",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:53:28",
+      "origin": "きっと５年間勤められてきたからこそ、求められているものも高かったりするのでは・・と感じましたが、いかがでしょうか",
+      "content": "I was wondering if, because you’ve been there for five years, the expectations placed on you might be higher. Is that how it feels?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:54:51",
+      "origin": "それはどうでしょう長く働いてるんだからこれくらいできるでしょ、とか、思われてそうです",
+      "content": "I'm not sure... It seems like they probably think things like, \"She's been working here a long time, so she should be able to do this much.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:55:55",
+      "origin": "ええ、そのように感じているのですね。",
+      "content": "I see. That’s how it feels to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:57:24",
+      "origin": "そういう周りからの雰囲気をも察しながら、やっておられるのですね・・",
+      "content": "So you’re working while also picking up on that atmosphere from those around you."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:57:48",
+      "origin": "周りの様子は気になります",
+      "content": "I do worry about what others are thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T21:58:48",
+      "origin": "ええ、そのように感じているのですね。",
+      "content": "I see. That’s how you’re feeling."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T21:59:06",
+      "origin": "そうですね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:00:03",
+      "origin": "新しいことを覚えていくのは、どうしても戸惑うことも多いですし、失敗して落ち込むこともあるかと思います。",
+      "content": "Learning new things naturally involves a lot of confusion, and it’s understandable to feel discouraged when you make mistakes."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:00:51",
+      "origin": "よくあります",
+      "content": "That happens often."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:01:13",
+      "origin": "今までと違うだけにスムーズに業務をすすめられないこともありますよね・・",
+      "content": "Precisely because it’s different from before, there are times when you can’t carry out your tasks smoothly."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:01:47",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:03:03",
+      "origin": "今はそうやってトライ＆エラーをしながら、少しずつ前に進む成長期間なのかもしれませんね。",
+      "content": "Perhaps this is a period of growth for you, where you're moving forward little by little through trial and error."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:03:30",
+      "origin": "そうだといいんですが",
+      "content": "I hope so."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:05:45",
+      "origin": "ええ、きっと今までやってこられたからこその気づきもあるかと思いますし、正確に仕事をこなしたいあなたの思いが伝わってきました。",
+      "content": "Yes, I'm sure you have insights that come precisely from your years of experience, and I can clearly see your desire to do your job accurately."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:07:11",
+      "origin": "そうでしょうか",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:07:45",
+      "origin": "少し違う感じでしょうか？",
+      "content": "Does that not quite fit for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:08:27",
+      "origin": "いえ、そうだったらいいなと思いました",
+      "content": "No, I was just thinking that I hope that's the case."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:09:10",
+      "origin": "こちらにはそう伝わってきましたよ。",
+      "content": "That’s how it came across to me."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:09:20",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:11:43",
+      "origin": "今はうまくいかないこともあるかもしれませんが、１つずつやれることをやっていかれたら、と思います。",
+      "content": "Things may not always go well right now, but I encourage you to keep doing what you can, one step at a time."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:12:03",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:12:21",
+      "origin": "そして、引き続きこちらでもあなたが感じているお気持ちを聴かせていただきたいと思っています。",
+      "content": "And I'd like to continue to be here to listen to your feelings."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:12:40",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:13:08",
+      "origin": "こちらこそ、大切なお話を聞かせていただき、ありがとうございました。またお待ちしていますね。",
+      "content": "Thank you as well for sharing your important story with me. I’ll look forward to seeing you again."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:14:02",
+      "origin": "（すみません。力不足で統合までもっていけませんでした。時間超過してしまい、すみません。これでロープレを終わらせていただきます）",
+      "content": "(I'm sorry. I wasn't skilled enough to bring it to a conclusion. My apologies for going over time. This concludes the role-play.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-21T22:14:37",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-21T22:14:55",
+      "origin": "（ありがとうございました。）",
+      "content": "(Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "医療事務における業務の変化による戸惑いと人間関係のストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 6903,
+    "evaluation_created_at": "2024-05-22T14:07:00",
+    "client_id": 478,
+    "counselor_id": 294,
+    "score": 69,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

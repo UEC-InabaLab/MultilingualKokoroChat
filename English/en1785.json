@@ -1,0 +1,621 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:07:28",
+      "origin": "（もう11時を過ぎておりますが、初めてよろしいでしょうか。）",
+      "content": "(It's already past 11 o'clock, but is it alright if we begin?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:08:00",
+      "origin": "失礼いたしました。お願いいたします",
+      "content": "My apologies. Please go ahead."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:08:39",
+      "origin": "こんにちわ。相談員です。今日はお話に来て下さり、ありがとうございます。",
+      "content": "Hello. I'm a counselor. Thank you for coming to talk with me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:09:55",
+      "origin": "初めに、年齢（年代）、性別、お呼びするお名前（ニックネームで結構です）、教えていただけますでしょうか。",
+      "content": "To start, could you please tell me your age (or age range), gender, and the name you'd like me to call you (a nickname is fine)?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:11:16",
+      "origin": "16才　女子　さわです",
+      "content": "I'm 16, female, and my name is Sawa."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:11:50",
+      "origin": "ありがとうございます。さわさん、今日は、どのようなご相談でしょうか。",
+      "content": "Thank you. Sawa, what would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:13:25",
+      "origin": "進学校なんですけど毎日何をしてもやる気が起きません",
+      "content": "I go to a college preparatory school, but I have no motivation to do anything every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:14:25",
+      "origin": "そうなんですね、やる気が、、それは毎日しんどいですね。いつ頃から、そうなったのですか。",
+      "content": "I see—a lack of motivation... That must be exhausting day after day. About when did this start?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:14:56",
+      "origin": "入学してからずっと",
+      "content": "Ever since I enrolled."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:15:44",
+      "origin": "そうですか、、初めに、さわさんは、この四月に、高校1年に入学されたのでしょうか。",
+      "content": "I see. To clarify, did you start your first year of high school this April?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:16:01",
+      "origin": "去年です",
+      "content": "Last year."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:16:38",
+      "origin": "それでは、今は、高校2年生、ですか？",
+      "content": "So, you're a sophomore now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:17:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:17:31",
+      "origin": "では、もう、一年以上、そのような感じが続いているということでしょうか。",
+      "content": "So, you've been feeling this way for over a year, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:18:05",
+      "origin": "そうなんです。週４日小テストがあったり",
+      "content": "That's right. We have quizzes four days a week,"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:18:37",
+      "origin": "先生からは進路を早く決めるように言われたりで",
+      "content": "and the teachers keep telling us to decide on our future paths quickly,"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:18:47",
+      "origin": "ついていくのがやっと",
+      "content": "it's all I can do just to keep up."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:19:25",
+      "origin": "なるほど、進学校だと、なかなかハードなのでしょうね、、そうですか、進路を、、ついていくのが精いっぱいで、余裕がないかんじでしょうか。",
+      "content": "I see. An academic school must be quite demanding. So with all the pressure about future plans, it feels like you're using all your energy just to keep up, with no room to breathe—is that about right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:20:12",
+      "origin": "やりたくないけど、しないとついていけなくなるから、仕方なくやってる感じです",
+      "content": "I don't want to do it, but if I don't, I'll fall behind, so I'm just forcing myself to do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:21:16",
+      "origin": "そうなんですね、つらくなりますね、中学の時は、やる気が、普通にあったのですよね。",
+      "content": "I see, that must be tough. Back in middle school, you had a normal amount of motivation, right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:21:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:23:09",
+      "origin": "では、がんばって、今の進学校に入ったわけですね。入学してから、やる気がないのは、勉強がハードになったから、ということでしょうか。また、他に、なにか思い当たることは、ありますか？",
+      "content": "So you worked hard to get into your current school. Do you think the lack of motivation since you enrolled is because the studies have gotten more intense? Or is there anything else that comes to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:24:13",
+      "origin": "それもあるし、話せる友達もいないし、何も楽しくない",
+      "content": "That's part of it, and I also don't have any friends I can really talk to, so nothing is enjoyable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:25:04",
+      "origin": "そうなんですね、それは、さびしくなりますね、、少し話す人は、いるのですか？",
+      "content": "I see. That must feel lonely. Is there anyone you talk with, even a little?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:25:56",
+      "origin": "話すと言っても心から話せる人はいません",
+      "content": "Even if I talk to people, there's no one I can really open up to."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:27:10",
+      "origin": "なるほど・・表面だけ話はするけど、本当の思いを話せる人ではないのですね、、お家の人には、お話したりしてますか。",
+      "content": "I understand... you have surface-level conversations, but there's no one you can share your true feelings with. Do you talk with your family at home?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:27:52",
+      "origin": "話しません",
+      "content": "I don't."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:28:58",
+      "origin": "そう、、おうちの方は、さわさんが、勉強がきついことや、進路も決めにくいことなど、全く知らないのかな？話さないのは、どういうお気持ちからですか？",
+      "content": "I see. So, does your family know at all that your studies are so tough and that it's hard to decide on your future? What are your feelings behind not talking with them?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:30:17",
+      "origin": "自分がやらなきゃだし、親が勉強するわけじゃないから",
+      "content": "Because it's something I have to do myself, not my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:31:21",
+      "origin": "そっか、そうですよね、、さわさんは、しっかりしていらっしゃると思います。さわさん、進路は、ぼんやりでも、考え、ありますか？",
+      "content": "I see, that makes sense. You strike me as very responsible. Sawa, do you have any ideas about your future path, even if they're vague?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:32:13",
+      "origin": "毎日の勉強についていくのが必死で、浮かんでもこない",
+      "content": "I'm so desperate just to keep up with my daily studies that nothing comes to mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:32:59",
+      "origin": "そうなんですね、、ついていくのが必死の時、どんなことが、頭に浮かびますか？",
+      "content": "I see... When you're desperately trying to keep up, what thoughts go through your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:33:45",
+      "origin": "ただクリアするしかない、みたいな感じ",
+      "content": "It's like, I just have to get through it, and that's it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:34:37",
+      "origin": "そう、とにかく、クリアすることだけ、考えているのですね、、切羽詰まった感じですよね、、その時、どんな気持ちでしょうか。",
+      "content": "I see, so you're only thinking about getting through it... It sounds like you're under a lot of pressure. How do you feel at those times?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:34:57",
+      "origin": "焦るし、虚しい",
+      "content": "I feel anxious and empty."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:35:58",
+      "origin": "ううん、そうですよね、そういうふうに、とにかく走っている自分が、虚しく感じるんですね、、無理ないですよね、、",
+      "content": "Mmm, yes, I understand. Feeling empty when you're just constantly running like that... that's perfectly understandable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:36:24",
+      "origin": "さわさん、少し、整理させていただいてよろしいでしょうか、、",
+      "content": "Sawa, would it be alright if I summarized things for a moment?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:36:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:39:21",
+      "origin": "さわさんは、昨年、高校に入学された。進学校なので、とても勉強がハードで、ついていくだけで精一杯。先生からは、進路のことも聞かれるが、今は考えられない。学校で、本当に話せる友達もいない。楽しくない。しかし、さわさんは、勉強をしなければと、思っている。だから、どうしたらいいかと悩んでいらっしゃる。",
+      "content": "You entered high school last year. Because it's an academic school, the workload is very heavy, and you can barely keep up. Your teachers ask you about your future plans, but you can't think about that right now. You don't have friends at school you can truly talk to, and nothing feels enjoyable. Still, you feel you must study. So you're struggling with what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:39:53",
+      "origin": "このような感じでしょうか。もし、違うところや、足りないところ、あったら教えてもらえますか。",
+      "content": "Does that sound about right? If there's anything different or if I missed anything, please let me know."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:40:41",
+      "origin": "はい、学校生活が楽しくありません",
+      "content": "Yes, my school life isn't enjoyable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:42:08",
+      "origin": "そうですよね、、楽しいと思えないのは、ハードな勉強のことででしょうか、、友達がいないことからでしょうか、、どちらもかもしれませんが・・。",
+      "content": "Right... And the reason you don't find it enjoyable, is it because of the demanding studies... or because you don't have friends? It might be both, of course..."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:42:29",
+      "origin": "どちらもです",
+      "content": "It's both."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:44:12",
+      "origin": "本当に、どちらかが充実していれば、少し楽しいと思えるかもしれませんが、これでは、つらいですよね。。さわさんは、今の学校生活を、楽しく過ごしたい、という思いで、相談に来て下さったということで、よろしいですか。",
+      "content": "I can see that. If even one of those areas were fulfilling, you might find things a little enjoyable, but with both, it must be tough... Is it correct to say that you came to talk today because you want to find a way to enjoy your school life?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:45:01",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:46:08",
+      "origin": "ありがとうございます。少しでも、楽しく感じられるよう、一緒に考えてみたいと思います。さわさんは、好きな教科は、ありますか。",
+      "content": "Thank you. I'd like for us to think together about how you can find even a little more enjoyment in things. Do you have any subjects you like, Sawa?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:46:56",
+      "origin": "今はどれも好きだとは思わなくなりました",
+      "content": "I don't feel like I like any of them anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:47:48",
+      "origin": "そう、、前は、なにが好きだったのでしょうか？",
+      "content": "I see... What did you used to like?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:48:57",
+      "origin": "うーん、家庭科",
+      "content": "Hmm, home economics."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:49:45",
+      "origin": "そうなんですか、、その中で、どんなことをするのが、特に好きなのかな。",
+      "content": "Oh, really? And what part of it did you particularly enjoy?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:50:14",
+      "origin": "調理実習",
+      "content": "Cooking class."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:50:57",
+      "origin": "ああ、それはいいですね、、今も、学校で、調理実習の時間、あるんですか。",
+      "content": "Oh, that's nice. Do you still have cooking classes at school now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:51:09",
+      "origin": "ありません",
+      "content": "No, we don't."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:51:46",
+      "origin": "そっか、、おうちでは、どんなことをしている時が楽しいのかな。",
+      "content": "I see. At home, what kinds of things do you do that feel enjoyable?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:53:04",
+      "origin": "好きなスイーツを食べてる時",
+      "content": "When I'm eating my favorite sweets."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:54:04",
+      "origin": "ああ、それは、ほっとして、癒される時間ですよね。。お友達と、なにか食べたりすること、あるの？",
+      "content": "Ah, that must be a relaxing and comforting time. Do you ever eat sweets with your friends?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:54:48",
+      "origin": "今はありません",
+      "content": "Not anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:55:28",
+      "origin": "前はあったのですね、、今は、そんな余裕がない、という感じ？",
+      "content": "So you used to... Does it feel like you just don't have the time or energy for that now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:55:49",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:56:45",
+      "origin": "さわさんは、今の学校生活が、、、可能だったら、どんな感じになったら、嬉しいと思いますか。",
+      "content": "Sawa, if it were possible, what would you like your school life to be like for you to feel happy?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:58:39",
+      "origin": "自分らしくゆったりと、勉強もこなして、友達とも楽しく過ごしたい",
+      "content": "I want to be myself and feel relaxed, handle my studies, and enjoy my time with friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T11:59:37",
+      "origin": "ほんとうですよね、そうなりたいですよね、、お話を聞いていて、少し感じたことを言ってもいいですか？",
+      "content": "Of course you do, that's completely understandable. As I've been listening, may I share an impression I've had?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T11:59:52",
+      "origin": "お願いします",
+      "content": "Please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:01:26",
+      "origin": "さわさんは、とてもしっかりと真面目でいらっしゃるように思います。勉強もしなければ、と強く思っていらっしゃる。それで、少し、自分を、がんじがらめに縛って、なお余裕がなくなっている感じもするのですが、、どうでしょうか、そんな感覚、おありですか。",
+      "content": "I get the impression that you're a very responsible and earnest person. You feel very strongly that you *must* study. Because of that, it seems you might be tying yourself up in knots, which leaves you with even less room to breathe. Does that resonate with you at all?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:03:48",
+      "origin": "余裕もないし、学力もたりてないし、ついていけないと、進路どころか、進級も危ういです",
+      "content": "I have no breathing room, my academic ability isn't enough, and if I can't keep up, it's not just my future plans—even advancing to the next grade is at risk."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:06:34",
+      "origin": "うん、焦る気持ちは、当然ですよね。ただ、ギュﾂと堅く縛った感じだと、苦しいですし、さわさんの持っている力を、十分に発揮しにくいように思うのですが、どんなふうに思いますか。",
+      "content": "Yes, it's natural to feel so anxious. But when you're tied up that tightly, it's painful, and I think it probably makes it difficult to use your abilities to their fullest. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:07:56",
+      "origin": "はい",
+      "content": "I agree."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:09:27",
+      "origin": "今のさわさんは、少し、息がしにくい、、ちょっと窒息気味というか、こわばっている印象を持って、せつなく感じます。",
+      "content": "As you are now, it seems like it's a little hard for you to breathe—as if you're suffocating, or tensed up—and that makes my heart ache for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:10:24",
+      "origin": "どうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:12:59",
+      "origin": "そうですね、、勉強も大変でしょうが、その中でも、もう少し自分に優しくしてあげることも、必要なのではないでしょうか。今、苦しんでいる、さわさんを、もう一人のさわさんが、少し遠くから客観的に見ると、どんな感じでしょうか。",
+      "content": "Let's see... Your studies are tough, I know, but even so, maybe it's necessary to be a little kinder to yourself. If another you could look at the Sawa who is suffering right now, from a distance and objectively, what do you think she would see?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:16:27",
+      "origin": "自分に優しく？優しくしたとしたら、ついていけなくなるとかわいそう",
+      "content": "Be kind to myself? If I'm kind to myself, I'm afraid I'll fall behind, and that would be a terrible outcome."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:18:35",
+      "origin": "そう不安になりますよね、、今は、勉強しなきゃしなきゃ、だけかも知れませんが、そう強く思えば思う程、焦ったり、不安が大きくなったるすることもあるのかな、とも思うのですが、さわさんは、どんなふうに感じますか。",
+      "content": "It's natural to feel anxious about that. Right now, it might just feel like 'I have to study, I have to study,' but I wonder if the more strongly you think that, the more your anxiety and panic might actually grow. How does that feel to you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:19:28",
+      "origin": "その不安も大きいし、誰とも話せないのも不安です",
+      "content": "That anxiety is a big part of it, and not being able to talk to anyone also makes me anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:22:59",
+      "origin": "誰とも話せないのも、さびしいですよね。ちょっと思いきって、興味のあることで、話かけられたり、しないかな。",
+      "content": "Not being able to talk to anyone is lonely, isn't it? I wonder if you could try taking a small leap, maybe by starting a conversation about something you're interested in?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:24:25",
+      "origin": "話せるといいです",
+      "content": "It would be nice if I could."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:24:45",
+      "origin": "メールやLineで話したりは、どうかな？",
+      "content": "What about talking via email or an app like LINE?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:25:34",
+      "origin": "そうですね",
+      "content": "That's a thought."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:26:36",
+      "origin": "さわさん、ごめんなさいね、もうそろそろ終わりの時間なのですが、すごく解決できなかったかもしれませんが、、感じることを、お伝えしてもいいでしょうか。",
+      "content": "Sawa, I'm so sorry, but our time is almost up. We may not have been able to resolve everything, but may I share one final thought I'm having?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:27:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:29:21",
+      "origin": "心の中に、小さな泉を持ったら、、例えば、砂漠でも、ほんの小さなオアシスに、救われる、、自分の心を砂漠だけにしないで、好きなこと、癒されることを、十分味わう心の泉を持つこと、そんなこと、気持ちの中に置いて置くことを心がけること、、どんなでしょうか。",
+      "content": "What if you tried to keep a small spring in your heart? For example, even in a desert, a tiny oasis can be a lifesaver. Try not to let your heart become only a desert; try to have a spring in your heart where you can fully savor the things you like, the things that soothe you. What do you think about trying to keep that idea in mind?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:30:03",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:30:30",
+      "origin": "そうしてみます",
+      "content": "I'll try that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:32:13",
+      "origin": "そこで、ちょっとだけ立ち止まって、自分を癒してあげてみることも、いいのかな、と思います。そのことが、勉強のパフォーマンスも上げてくれるのではないかしら、、どうかな？",
+      "content": "I think it might be a good idea to pause there for just a moment and allow yourself to heal. I wonder if that might even improve your academic performance... What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:33:09",
+      "origin": "立ち止まってみます",
+      "content": "I'll try pausing."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:34:11",
+      "origin": "お友達とも、ハードルがあるかもしれませんが、ほんの小さなきっかけを作ってみるのもどうでしょう、やり易い方法で。",
+      "content": "With friends, too, there may be hurdles, but how about trying to create a tiny opening, in whatever way feels easiest for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:35:30",
+      "origin": "そうしてみますありがとうございました",
+      "content": "I'll try that. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:36:16",
+      "origin": "今日は、さわさんの全てにお答えすることが出来なかったかもしれませんが、お話して、どんな感じでしょうか。",
+      "content": "I may not have been able to answer all of your questions today, but how do you feel after our talk?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:37:00",
+      "origin": "楽になるためにできることからやってみようと思います",
+      "content": "I think I'll start by doing what I can to make things easier for myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:38:37",
+      "origin": "そうですか、よかったです。中学の時に、とっても頑張ったさわさんですが、少し大人にあったさわさんが、ちょっと違った形の頑張り方を見つけて下さったら嬉しいと思います。",
+      "content": "I'm so glad to hear that. You worked so hard in middle school; now that you're a bit older, I hope you can find a different way of trying your best, one that suits the person you are becoming."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:39:40",
+      "origin": "はい今日はありがとうございました",
+      "content": "Yes, thank you very much for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:41:13",
+      "origin": "お話して下さり、ありがとうございます。少しづつ、出来ることから、ほんの少しの余裕を。それでは、今日の相談は終わらせていただいてよろしいですか。",
+      "content": "Thank you for talking with me. Little by little, starting with what you can, try to find just a little bit of breathing room. With that, may I conclude our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:41:28",
+      "origin": "はい、失礼します",
+      "content": "Yes. Thank you. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:41:45",
+      "origin": "また、なにかあった時は、お話に来てくださいね、お待ちしています。ありがとうございました。それでは、終了とさせていただきます。",
+      "content": "If anything comes up again, please feel free to come talk. I'll be here. Thank you. I will end the session now."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:42:16",
+      "origin": "（とっても長くなってしまいました、すみません。）",
+      "content": "(This ran very long, my apologies.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T12:42:41",
+      "origin": "(こちらこそ、急なうえに遅くまでありがとうございました。お会い疲れ様でした。)",
+      "content": "(Not at all, thank you for accommodating me on such short notice and for staying so late. I appreciate all your hard work.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:42:55",
+      "origin": "（また、承認も遅くなりすみませんでした。直前の承認でしたのに、お受けいただきありがとうございました。）",
+      "content": "(Also, I apologize for the late approval. Thank you for accepting even though it was approved at the last minute.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T12:43:16",
+      "origin": "では終了ボタンを押させていただきます。失礼します。",
+      "content": "I will press the end button now. Goodbye."
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "高校生活での進路選択に対する焦りとストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 1785,
+    "evaluation_created_at": "2021-05-05T13:08:00",
+    "client_id": 108,
+    "counselor_id": 180,
+    "score": 65,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,783 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:51:09",
+      "origin": "こんにちは、今日はよろしくお願いします。",
+      "content": "Hello, thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:51:15",
+      "origin": "こちらこそ、よろしくお願いします",
+      "content": "Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:51:29",
+      "origin": "時間になれば始めさせていただきます。",
+      "content": "We'll get started once it's time."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:51:46",
+      "origin": "はい、宜しくお願い致します。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:00:11",
+      "origin": "こんにちは、相談員です。今日はよろしくお願いします。",
+      "content": "Hello, I'm the counselor. Thank you for being here today."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:00:18",
+      "origin": "こちらこそ、よろしくお願いします",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:00:27",
+      "origin": "最初に年齢と性別をうかがってもよろしいでしょうか？",
+      "content": "May I start by asking your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:00:51",
+      "origin": "はい、20歳、男です。",
+      "content": "Yes, I’m 20 and male."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:01:05",
+      "origin": "ありがとうございます。今日はどのようなご相談でしょうか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:01:45",
+      "origin": "はい、本当に陰鬱な話なのですが、モテなくて悩んでます。",
+      "content": "Well, it's a rather gloomy topic, but I'm worried because I'm not popular with women."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:02:43",
+      "origin": "そのように感じてられるのですね。少し詳しくお聞きしてもよろしいでしょうか？",
+      "content": "I see that's how you're feeling. Would it be all right if I asked for a few more details?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:02:55",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:03:22",
+      "origin": "いつごろからそのようなお気持ちがありますか？",
+      "content": "Since about when have you been feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:03:49",
+      "origin": "私は昔から勉強も中途半端、運動も芸術も駄目、取り柄がない、のび太みたいな人間でして、気持ちはもう昔からですね。",
+      "content": "I've always been mediocre at my studies, bad at sports and art, with no real talents... kind of like the character Nobita. So, I've felt this way for a long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:04:50",
+      "origin": "そうだったのですね。かなり長い時間悩んでられるのですね。",
+      "content": "I see. It sounds like you’ve been struggling with this for a very long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:05:27",
+      "origin": "そのようなお気持ちを周りの方にお話しされたことはありますか？",
+      "content": "Have you ever talked about these feelings with anyone around you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:06:11",
+      "origin": "ええ、モテる人が羨ましい、それで陰鬱になります。真面目で優しいとよく言われますが、全然嬉しくない。話したことはありますが、分かって貰えなかった。気にする必要あるのか、仕事に関係無いでしょうと。",
+      "content": "Yes, I'm envious of people who are popular, and it makes me feel gloomy. I'm often told I'm serious and kind, but that doesn't make me happy at all. I have talked about it, but they didn't understand. They said things like, 'Is that something to worry about?' or 'It has nothing to do with your job.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:07:03",
+      "origin": "そうだったのですね、とてもお辛い経験をされていらっっしゃると思います。",
+      "content": "I see. That must have been a very painful experience for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:07:20",
+      "origin": "ありがとうございます。ええ、辛いです。",
+      "content": "Thank you. Yes, it's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:08:10",
+      "origin": "もてる人が羨ましいと感じるのは具体的にどういう時とかありますか？",
+      "content": "Are there any specific times when you feel envious of people who are popular?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:09:37",
+      "origin": "例えば、会社で私より後に入社した男性が、私より先に私が好意的に思う女性と仲良くなった時ですかね。何で自分より早くって思います。",
+      "content": "For example, when a man who joined the company after me became friendly with a woman I liked before I did. I think to myself, 'Why him before me?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:10:41",
+      "origin": "教えてくださいありがとうございます。それはやるせない気持ちになりますね。",
+      "content": "Thank you for sharing that. I can see how that would feel frustrating and disheartening."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:10:56",
+      "origin": "ください→くださり",
+      "content": "Correction: The previous line should have used a form indicating gratitude for the action of sharing, not a request."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:11:23",
+      "origin": "ええ、、自分が嫌になります。真面目とか優しいなんて、何の取り柄にもならない。",
+      "content": "Yes... I end up hating myself. Being 'serious' or 'kind' doesn’t count for anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:12:57",
+      "origin": "そのように感じておられるのですね。ちなみにその後輩の男性の方は、何か大きな魅力があるように思われますか？",
+      "content": "I see that's how you feel. By the way, do you see any particular qualities that make that junior colleague especially attractive?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:13:28",
+      "origin": "うーん、コミュニケーションは上手いかな。後、いわゆるイケメンです。",
+      "content": "Hmm, I guess he's good at communication. And he’s what you’d call good-looking."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:13:39",
+      "origin": "話上手ですね",
+      "content": "He’s a good talker."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:14:56",
+      "origin": "そうなのですね。確かにコミュ力って最初の段階では、相手の方にすれば話やすいと馴染みやすくはなりますよね。",
+      "content": "I see. It's true that communication skills can make it easier for others to talk to and get to know you in the beginning, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:15:24",
+      "origin": "ええ、ああ、そういえば",
+      "content": "Yes... ah, come to think of it..."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:15:55",
+      "origin": "その男性、女性から、「大人!すっと懐に入り込む。」と言われましたね。",
+      "content": "A woman once said about him, \"He's so mature! He gets close to you so effortlessly.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:16:32",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:16:48",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:17:05",
+      "origin": "ただ、優しさ、真面目さといったあなたの魅力も時間がたつにつれて、とても大きな魅力に感じてくる方も多いと私は感じますが、いかがでしょうか？",
+      "content": "At the same time, I feel that qualities like your kindness and sincerity become very attractive to many people as time goes by. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:17:27",
+      "origin": "いや、私は、そうは思えないです。",
+      "content": "No, I can’t see it that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:17:43",
+      "origin": "得した記憶がない",
+      "content": "I don’t recall it ever benefiting me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:18:56",
+      "origin": "そうなのですね。今日はどうすれば持てるようになるかといったことでのご相談になりますでしょうかね？",
+      "content": "I see. So, would it be right to say your consultation today is about how you can become more popular?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:19:23",
+      "origin": "そうなりますかね。本当に陰鬱で。。。",
+      "content": "I guess so. It's just so gloomy..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:20:48",
+      "origin": "大切お気持ちを話してくださりありがとうございます。何か少しでも、今より前向きなお気持ちを持っていただければと思いますので、ぜひ一緒に考えていきましょう。",
+      "content": "Thank you for sharing such important feelings with me. I hope we can help you feel even a little more positive than you do now, so let's think about this together."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:22:01",
+      "origin": "ありがとうございます。今は本当に自分が嫌になっています。コミュニケーションを改善するために色々しましたが、結局、改善されてなかった。それもあって絶望しています。",
+      "content": "Thank you. Right now, I really hate myself. I tried various things to improve my communication skills, but in the end, nothing improved. That's another reason I feel hopeless."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:23:10",
+      "origin": "コミュニケーションを改善するためにすでにたくさん努力されたのですね、とても素晴らしいと感じます。",
+      "content": "So you've already put in a lot of effort to improve your communication. I think that's truly commendable."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:23:38",
+      "origin": "具体的にはどのようなことを試されたか伺っても良いでしょうか？",
+      "content": "May I ask what specific things you've tried?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:23:54",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:24:02",
+      "origin": "試したことは、例えば",
+      "content": "Things I tried include, for example—"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:24:27",
+      "origin": "コミュニケーションの本を読んだり、営業職についたりといった所でしょうか。",
+      "content": "I guess things like reading books on communication and getting a job in sales."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:25:51",
+      "origin": "その前向きな努力はほんとに素晴らしいことだと思います。現在は営業のお仕事なのでしょうか？",
+      "content": "I think that proactive effort is truly admirable. Are you currently working in sales?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:26:24",
+      "origin": "いえ、今は違います。うつ病みたいになって辞めました。",
+      "content": "No, not anymore. I became something like depressed and quit."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:26:36",
+      "origin": "コミュニケーションが改善されてないと思い知らされたから。",
+      "content": "Because it made me realize my communication skills hadn't improved."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:27:11",
+      "origin": "そうだったのですね。話してくださってありがとうございます。",
+      "content": "I see. Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:27:35",
+      "origin": "いえ、",
+      "content": "Not at all."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:27:52",
+      "origin": "返信早いですね。安心して話せます。ありがとうございます",
+      "content": "Your replies are quick. It makes me feel at ease talking with you. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:28:22",
+      "origin": "いえ、ありがとうございます。",
+      "content": "Not at all, thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:28:35",
+      "origin": "いえいえ",
+      "content": "No, no."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:29:24",
+      "origin": "今、お辛い毎日かもしれませんが、何かこうなればいいな、とか理想の自分とかはありますか？",
+      "content": "I know it may be a difficult time for you right now, but do you have an image of how you’d like things to be, or an ideal version of yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:29:58",
+      "origin": "モテたいです。",
+      "content": "I want to be popular with women."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:30:14",
+      "origin": "コミュニケーションが上手くなりたい",
+      "content": "I want to get better at communication."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:30:22",
+      "origin": "その男性と同じ位に",
+      "content": "As good as that man."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:30:27",
+      "origin": "もう",
+      "content": "Anymore..."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:30:40",
+      "origin": "優しくて真面目だねと言われる人生は嫌です。",
+      "content": "I'm tired of a life where I'm just told, \"You're so kind and serious.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:31:11",
+      "origin": "ありがとうございます。やはりそこが一番に感じておられるのですね。",
+      "content": "Thank you. So that's what you feel most strongly about."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:31:22",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:31:58",
+      "origin": "ひとつ、参考程度にお聴きいただければありがたいのですが、",
+      "content": "If I may, I'd like to share something, just for your consideration."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:32:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:32:16",
+      "origin": "何なりと",
+      "content": "Please, go ahead."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:32:52",
+      "origin": "私の友人に、とても話すのが苦手で、コミュニケーションの取り方に悩んでいた男性がいるのですが、",
+      "content": "I have a male friend who was very poor at talking and struggled with how to communicate,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:33:21",
+      "origin": "実は、とてももてるんです。",
+      "content": "but he's actually very popular."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:33:32",
+      "origin": "そうなんですか！",
+      "content": "Oh, really?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:33:46",
+      "origin": "ええ、なぜだと思われますか？",
+      "content": "Yes. Why do you think that is?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:34:00",
+      "origin": "聞き上手とか",
+      "content": "Maybe he’s a good listener?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:34:19",
+      "origin": "おっしゃる通りです。素晴らしいですね。",
+      "content": "Exactly. That’s a great insight."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:34:30",
+      "origin": "やはり",
+      "content": "I thought so."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:35:02",
+      "origin": "とても優しい笑顔で話を聴けることが一番の魅力とみんな集まってきます。",
+      "content": "His greatest appeal is his ability to listen with a very kind smile, and people flock to him because of it."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:35:30",
+      "origin": "本当にモテるのですか？",
+      "content": "Is he really popular?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:35:42",
+      "origin": "恋人もいるのですか?",
+      "content": "Does he have a partner?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:35:58",
+      "origin": "本当にもててますよ。今は結婚しています。",
+      "content": "He truly is. He’s married now."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:36:18",
+      "origin": "ああ、そうですか。",
+      "content": "Oh, I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:36:22",
+      "origin": "凄いですね",
+      "content": "That's amazing."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:37:07",
+      "origin": "イケメンやコミュニケーション力は、入口としてはポイントになることもあるとは思いますが、",
+      "content": "I think being handsome or having good communication skills can be a plus at the beginning,"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:37:21",
+      "origin": "ええ",
+      "content": "Right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:37:48",
+      "origin": "結局は、見ている人は中身の魅力に引っ張られるのではないでしょうか？",
+      "content": "but in the end, aren't people ultimately drawn to a person's inner qualities?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:38:42",
+      "origin": "うーん、中身ですか。その割にはイケメンやコミュニケーションが上手い話上手がモテますね。。。",
+      "content": "Hmm, inner qualities, you say? And yet, it seems like good-looking, smooth-talking people are the ones who are popular..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:41:06",
+      "origin": "なぜだか、これから少しずつ年齢を重ねられて、優しさにも磨きがかかっていくであろうあなたに魅力を感じる人は増える一方にのように感じてなりません。",
+      "content": "For some reason, I can't help but feel that as you get a little older and your kindness becomes even more refined, the number of people who find you attractive will only increase."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:41:58",
+      "origin": "そうですか、大して増えていませんが。優しさや真面目を褒められても、恋愛になると引かれるのが常なので。",
+      "content": "Is that so? The number hasn't really increased much. Even if I'm praised for being kind and serious, when it comes to romance, people are always put off by it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:43:09",
+      "origin": "そうなんですか。引かれるとは、どのようなことがありましたかお聞きしても良いですか？",
+      "content": "Is that so? When you say they're \"put off,\" could you tell me what kinds of things have happened?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:44:52",
+      "origin": "自分が好意を持ってる女性に、LINEを聞いたり食事に誘ったりしても、嫌がられるのです。真面目とか優しいと褒められても、なんにもならない",
+      "content": "When I ask a woman I'm interested in for her LINE contact or invite her to a meal, she seems put off. Being praised as serious or kind doesn’t get me anywhere."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:46:16",
+      "origin": "そのようなことがあったのですね。ありがとうございます。いやがられるとは、断られてしまうのでしょうか？",
+      "content": "I see that's what happened. Thank you. When you say you're \"put off,\" does that mean they turn you down?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:47:39",
+      "origin": "ええ、そうです。断られるのです。真面目で優しいなんて、恋愛では何のメリットもないと思ってます。考えてみたら、大抵の人は、優しいし、真面目って恋愛ではつまらないと感じる時もあると思うのです。",
+      "content": "Yes, that’s right—they turn me down. I believe that being serious and kind offers no advantages in dating. When you think about it, most people are kind, and I think being 'serious' can sometimes feel boring in a romantic context."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:48:02",
+      "origin": "楽しくないと恋愛なんて、続かないですから。",
+      "content": "Because if it isn't fun, a relationship won't last."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:49:11",
+      "origin": "お気持ち詳しく話していただきありがとうございます。相手の方が楽しくないと感じているのではと思っておられるのですね。",
+      "content": "Thank you for explaining your feelings in detail. So you’re thinking that the other person might feel it isn't enjoyable for them."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:50:21",
+      "origin": "ええ、それが正解かは分かりませんが",
+      "content": "Yes, although I'm not sure if that's the correct answer."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:51:43",
+      "origin": "大抵の人は優しいとおっしゃっておられたのですが、それは決して当たり前にできることではないと私は思います。",
+      "content": "You said that most people are kind, but I don't think that's something everyone can do as a matter of course."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:52:25",
+      "origin": "そうですか、そう思われるのは何故でしょうか？お聞かせ頂けると幸いです。",
+      "content": "Is that so? I'd be interested to hear why you think that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:53:01",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:53:16",
+      "origin": "お願い致します",
+      "content": "Please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:53:52",
+      "origin": "なかなか、本当に優しいと感じる人はさほど多くないと、私は感じることも多いです。",
+      "content": "I often feel that there aren't that many people who are truly kind."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:54:20",
+      "origin": "それはまたどうしてですか?",
+      "content": "And why is that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:54:33",
+      "origin": "最初はもてていても、お付き合いが始まるとうまくいかないひとはたくさんいます。",
+      "content": "There are many people who are popular at first but find that their relationships struggle once they begin."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:54:47",
+      "origin": "そうですか",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:55:21",
+      "origin": "原因はちょっとした思いやりの不足などがほとんどではないかと感じることが多いです。",
+      "content": "I often feel the cause is usually a lack of small considerations or thoughtfulness."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:55:49",
+      "origin": "へぇ",
+      "content": "Huh."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T16:57:06",
+      "origin": "順番としては、もてる→付き合える→うまくいかない。よりも、時間をかけてでも本当の優しい人と付き合えた人の方が幸せになれるように思うのですが、いかがでしょうか？",
+      "content": "Rather than the pattern of 'be popular → start dating → it doesn’t go well,' it seems to me that people who take their time and end up with someone truly kind are the ones who ultimately find happiness. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:58:09",
+      "origin": "幸せになれるとは思いますが、最初のモテる、付き合うからして上手くいかないから、どうにもなりません。",
+      "content": "I think that could lead to happiness, but I can’t even get past the first steps of being popular and starting to date, so it feels hopeless."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:58:19",
+      "origin": "結局、幸せになれない",
+      "content": "In the end, I can’t be happy."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:58:31",
+      "origin": "誰も分かってくれないから",
+      "content": "Because no one understands."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:58:33",
+      "origin": "だから",
+      "content": "That's why..."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T16:58:41",
+      "origin": "優しいや真面目なんてバカバカしいのです。",
+      "content": "being kind and serious is just ridiculous."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:00:26",
+      "origin": "そのようにやはり強く感じておられるのですね。私の力不足で、今日はお時間になってしまい申し訳ありません。また続きをお聴きできればと思うのですが。",
+      "content": "I see you still feel very strongly about that. I'm sorry, but we're out of time for today. I apologize if I wasn't more helpful. I would like to hear more if you'd be willing to continue this another time."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:00:47",
+      "origin": "ええ、また是非宜しくお願いします。",
+      "content": "Yes, I would definitely like that. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:01:23",
+      "origin": "今日は、大切なお気持ちをたくさん話してくださりありがとうございました。",
+      "content": "Thank you so much for sharing your important feelings with me today."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:01:36",
+      "origin": "こちらこそ聴いて頂きありがとうございました。",
+      "content": "No, thank you for listening."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:01:51",
+      "origin": "是非またお待ちしおります。",
+      "content": "I look forward to seeing you again."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:01:58",
+      "origin": "少し気持ちが、楽になりました。また宜しくお願いします。",
+      "content": "I feel a little better now. I look forward to our next session."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:02:12",
+      "origin": "こちらこそ、ありがとうございました。",
+      "content": "The pleasure was all mine. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:02:18",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:02:28",
+      "origin": "（では終了させていただいてもよろしいでしょうか）",
+      "content": "(Then, may I conclude the session?)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:02:33",
+      "origin": "（ありがとうございました。大変参考になりました。すみません、一つだけ教えて頂いて宜しいでしょうか？）",
+      "content": "(Thank you. This was very helpful. Excuse me, may I ask just one more thing?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:02:47",
+      "origin": "（お願いします）",
+      "content": "(Please, go ahead.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:03:35",
+      "origin": "（ありがとうございます。受容と共感もさることながら、返信の速さが素晴らしいと思いました。この速さはタイピングを練習なさったのでしょうか？）",
+      "content": "(Thank you. Your acceptance and empathy were wonderful, of course, but I was also very impressed by the speed of your replies. Did you practice your typing to get this fast?)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:03:53",
+      "origin": "それとも、私の答えを予測してある程度打たれていたのでしょうか？",
+      "content": "Or did you anticipate my answers and type some of it in advance?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:04:41",
+      "origin": "（いいえ、全く初心者です。必死で打ってます。なので、あまり考えられてはいないとは思います。）",
+      "content": "(No, I'm a complete beginner. I'm just typing as fast as I can, so I don't think my responses are that well-thought-out.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:04:58",
+      "origin": "（そうなのですね、驚きです。教えて頂きありがとうございます。本当に素晴らしいと感じました。お疲れ様でした!）",
+      "content": "(I see, that’s surprising. Thank you for telling me. I thought you did a truly wonderful job. Thank you again for your time.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:05:42",
+      "origin": "（終了して頂いて大丈夫です。）",
+      "content": "(You can end the session now, thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:05:50",
+      "origin": "（とんでもないです、私は思うように進められなかったと猛省中です）",
+      "content": "(Not at all, I'm currently reflecting on the fact that I couldn't proceed as well as I'd hoped.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T17:06:09",
+      "origin": "（ありがとうございました）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T17:06:17",
+      "origin": "（いえいえ、こちらこそありがとうございました。）",
+      "content": "(No, no, thank you as well.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "モテないことによる自信の喪失"
+  },
+  "review_by_client": {
+    "evaluation_id": 3189,
+    "evaluation_created_at": "2022-02-24T11:24:00",
+    "client_id": 251,
+    "counselor_id": 263,
+    "score": 83,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

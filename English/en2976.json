@@ -1,0 +1,591 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-01-16T20:52:05",
+      "origin": "こんばんは。本日はよろしくお願いします。時間になりましたら始めますね。",
+      "content": "Good evening. Thank you for joining me today. It looks like it's time, so let's begin."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T20:59:13",
+      "origin": "こちらこそどうぞよろしくお願いします。",
+      "content": "Yes, thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:00:50",
+      "origin": "こんばんは。相談員です。本日はご相談に来ていただきありがとうございます。はじめに年齢、性別を教えていただけますか？",
+      "content": "Good evening. I'm the counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:01:28",
+      "origin": "こんばんは、20才男です",
+      "content": "Good evening, I'm a 20-year-old male."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:02:01",
+      "origin": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "content": "Thank you. What brings you here today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:02:42",
+      "origin": "ずっと家にいるのでこのままどうなるのか不安で",
+      "content": "I've been staying at home all the time, and I'm anxious about what will happen to me if this continues."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:03:17",
+      "origin": "ええ（聴いていますよ）",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:03:45",
+      "origin": "だいじょうぶかなって",
+      "content": "I keep wondering if I’ll be okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:04:23",
+      "origin": "そうなんですね。いつ頃からずっと家にいるのですか？",
+      "content": "I see. Since about when have you been staying at home?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:04:52",
+      "origin": "いつかな、、、17歳くらいから",
+      "content": "Let's see... since I was around 17."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:05:56",
+      "origin": "そうなのですね。それは不安な気持ちにもなってしまいますよね、、、",
+      "content": "I see. That would understandably make you feel anxious…"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:06:11",
+      "origin": "はい、、、、",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:07:23",
+      "origin": "何かその頃に家にずっといるきっかけになるようなことがあったのですか？無理に話さなくても大丈夫ですよ。",
+      "content": "Did something happen around that time that triggered you to start staying at home? You don't have to talk about it if you don't want to."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:08:12",
+      "origin": "よくわからないけど、朝起きれなくて、なんかだるいっていうか",
+      "content": "I’m not really sure, but I couldn’t get up in the morning—I just felt sluggish, kind of drained."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:09:39",
+      "origin": "ええ、ええ。朝おきれなかったりするとつらいですよね。他にも何か思い当たる事はありそうですか？",
+      "content": "Yes, yes. It must be tough when you can't get up in the morning. Is there anything else that comes to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:09:58",
+      "origin": "うーん、、、よくわからないです",
+      "content": "Hmm... I'm not really sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:10:57",
+      "origin": "そうなんですね。ちなみに17歳のときは高校性ですかね？",
+      "content": "I see. By the way, were you in high school when you were 17?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:11:36",
+      "origin": "はい、2年生からです",
+      "content": "Yes, from my second year."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:13:14",
+      "origin": "教えていただきありがとうございます。しかし原因がわからず、朝起きれなくなってだるくなってしまうのはしんどいですよね、、",
+      "content": "Thank you for sharing. It must be really hard not knowing the cause, being unable to get up, and feeling so lethargic."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:13:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:14:46",
+      "origin": "学校に通っていた時はどのように過ごしていたのですか？",
+      "content": "How were things for you when you were attending school?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:15:34",
+      "origin": "1年生までは普通に楽しかったんですけど、2年の途中から少しずつおかしくなりました",
+      "content": "Up through my first year, it was normal and enjoyable, but partway through the second year, things gradually started to feel off."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:16:26",
+      "origin": "そうだったのですね。どンな感じでおかしくなったのでしょうか？",
+      "content": "I see. In what way did things start to feel off?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:17:09",
+      "origin": "朝起きた時から不快感というか、なんだかつらい気持ちになって、、、",
+      "content": "From the moment I woke up in the morning, I'd have this unpleasant feeling... like I just felt miserable..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:17:49",
+      "origin": "ええ（聴いていますよ）",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:18:31",
+      "origin": "そういう、不快感が続いたかんじ",
+      "content": "That unpleasant feeling just continued."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:19:24",
+      "origin": "そうなんですね、、それはとてもつらいですよね、、",
+      "content": "I see... That must have been very hard for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:19:47",
+      "origin": "今は朝起きた時はどのような感じですか？",
+      "content": "How do you feel now when you wake up in the morning?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:19:57",
+      "origin": "それで学校に行かなくなりました",
+      "content": "That's why I stopped going to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:20:16",
+      "origin": "そうなんですね、、",
+      "content": "I see..."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:21:02",
+      "origin": "学校も辞めました",
+      "content": "I dropped out of school, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:22:34",
+      "origin": "そうだったのですね、、それを決断するのも勇気がいったと思います、、",
+      "content": "I see... I imagine it must have taken a lot of courage to make that decision."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:23:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:24:37",
+      "origin": "2年生ではどのように学校などで過ごしていたのですか？例えば、友人との関係やクラスや部活など、、、話せる範囲で大丈夫ですよ。",
+      "content": "How were things for you at school during your second year? For example, your relationships with friends, your class, or any clubs... You only have to share what you're comfortable with."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:25:22",
+      "origin": "うーん、普通に",
+      "content": "Umm, it was just normal."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:26:32",
+      "origin": "友達はあんまりいなかったので、普通に過ごしていました。",
+      "content": "I didn't have many friends, so I just went about my days normally."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:27:32",
+      "origin": "そうなのですね。同じクラスにはあまりいなかった感じでしょうか？",
+      "content": "I see. Was it that you didn't have many in your class?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:28:15",
+      "origin": "うーん、、学校の時の話はあんまり話したくないです",
+      "content": "Umm... I don't really want to talk about my school days."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:28:42",
+      "origin": "なんで細かく聞くのですか？",
+      "content": "Why are you asking me in such detail?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:28:46",
+      "origin": "わかりました。思い出させてしまいすみませんでした。",
+      "content": "I understand. I’m sorry for bringing up difficult memories."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:30:28",
+      "origin": "2年生の頃から家にいると言われたので、何かきっかけのようなことがあったかと思いお聴きしました。深入りしていまいすみませんでした。",
+      "content": "You mentioned you've been staying home since your second year, so I was wondering if something might have triggered it. I apologize for prying too much."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:30:55",
+      "origin": "いえ",
+      "content": "No, it's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:32:16",
+      "origin": "先程、このままどうなるか不安と話されていましたが、どう不安なのでしょうか？",
+      "content": "Earlier, you mentioned you were anxious about what will happen if this continues. Could you tell me more about that anxiety?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:33:09",
+      "origin": "もう20才なのに外に出られなくて、アルバイトとかもしてみたいけど勇気がなくて",
+      "content": "I’m already 20, but I can’t get myself to go out. I’d like to try a part-time job, but I don’t have the courage."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:33:18",
+      "origin": "困っています",
+      "content": "I’m struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:34:39",
+      "origin": "そうだったのですね。たしかにずっと家にいて急に外に出るのは、勇気がいりますし、どうしたらいいかわからなくなるのも無理もないと思います。",
+      "content": "I see. It certainly takes courage to suddenly go outside after being at home for so long. It's completely understandable that you wouldn't know what to do."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:35:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:36:29",
+      "origin": "普段はどのように生活されているのですか？",
+      "content": "How do you usually spend your days?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:38:12",
+      "origin": "最近は夜昼が逆転していて、でも犬の散歩と母親に頼まれた食材を買いに行ったり、家事をしたりはしています。",
+      "content": "Lately my days and nights are flipped, but I do walk the dog, go buy groceries when my mother asks, and do housework."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:40:36",
+      "origin": "そうなのですね。ずっと家にいるわけではなく、外に出たり、家事をして行動されているのですね。",
+      "content": "I see. So it's not that you're always at home; you are going out and taking action by doing housework."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:40:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:42:26",
+      "origin": "では、本日はどうしたら外に出たり、アルバイトをしていけれるか考えていくということでよろしいでしょうか？",
+      "content": "So, for today, would you like for us to think about how you might be able to go out more and get a part-time job?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:43:15",
+      "origin": "そうですね",
+      "content": "Yes, that sounds good."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:43:51",
+      "origin": "わかりました。一緒に考えていきましょう。",
+      "content": "Understood. Let’s think it through together."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:44:34",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:45:12",
+      "origin": "外に出られないのは、何か理由があるのでしょうか？",
+      "content": "Is there any particular reason you find it hard to go outside?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:45:47",
+      "origin": "。。。。",
+      "content": "...."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:46:18",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:46:39",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:47:32",
+      "origin": "アルバイトをしてみたいと思ったのは、どのようなきっかけだったのですか？",
+      "content": "What made you start thinking you'd like to get a part-time job?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:48:09",
+      "origin": "まずは出来そうなアルバイトなんかを探してみたらと親に言われたので",
+      "content": "My parents suggested I look for part-time jobs that seem doable."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:49:07",
+      "origin": "そうなんですね。これならできそうというアルバイトはありましたか？",
+      "content": "I see. Have you found any jobs that seem doable?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:49:44",
+      "origin": "うーん、何もやったことがないのでやれる自信がないです",
+      "content": "Umm, I've never done anything, so I don't have the confidence I can do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:50:38",
+      "origin": "そうなんですね。やったことがないことは不安にもなりますよね、、",
+      "content": "I understand. It’s natural to feel anxious about something you’ve never done."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:52:08",
+      "origin": "どのようなことに興味や関心がありますか？",
+      "content": "What kinds of things are you interested in?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:52:32",
+      "origin": "好きなものでも構いませんよ。",
+      "content": "It could be anything you like."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:53:11",
+      "origin": "興味があるのは心理師とか興味があるけど、そんなバイトないし",
+      "content": "I’m interested in being a psychologist, but there aren’t part-time jobs like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:54:02",
+      "origin": "そうなのですね。なかなか心理関係のバイトはないですよね、、",
+      "content": "I see. It's true that psychology-related part-time jobs are rare."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:54:35",
+      "origin": "どうして心理に興味があるのですか？",
+      "content": "What draws you to psychology?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:55:47",
+      "origin": "カウンセリングを受けた時にカウンセラーさんが優しかったから、こんな仕事についてみたいなって思いました",
+      "content": "When I received counseling before, the counselor was very kind to me, so I thought I'd like to have a job like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:57:09",
+      "origin": "そうなのですね。そういう理由があったのですね。素敵です。",
+      "content": "I see. That’s a lovely reason."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T21:58:13",
+      "origin": "そうですかね",
+      "content": "You think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T21:59:54",
+      "origin": "はい。そのカウンセラーさんに憧れて、心理師の仕事をしてみたいと思うのはとても素敵ですし、向上心があるなと感じました。",
+      "content": "Yes. I think it's wonderful that you admire that counselor and want to become one yourself. It shows you have a desire to grow."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:00:20",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:00:44",
+      "origin": "勉強などされているのですか？",
+      "content": "Are you studying it at all?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:01:10",
+      "origin": "いえ、漠然と思っているだけで、特に勉強はしていません",
+      "content": "No, it's just a vague idea. I haven't been studying it in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:02:20",
+      "origin": "そうなのですね。私も学んでいますが、自己理解もできるのでおもしろいですよ。",
+      "content": "I see. I'm studying it myself, and it's interesting because you can also understand yourself better."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:03:13",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:03:24",
+      "origin": "すみません、残念ながらそろそろお時間になってきました、、今日は話してみてどうでしたか？",
+      "content": "I'm sorry, but unfortunately, our time is almost up. How did you feel about talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:04:15",
+      "origin": "そうですね、、、カウンセラーになりたい気持ちがあることに少し気が付いた気がします",
+      "content": "Let's see... I feel like I've realized that I do have a desire to become a counselor."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:06:43",
+      "origin": "そうなのですね。その大事な気持ちに気づけて嬉しく思います。今日お話を聴いて、あなたはすごく繊細で聡明な方だと感じました。きっと人の気持ちに寄り添える素敵なカウンセラーになれると思います。",
+      "content": "I see. I'm glad you were able to realize that important feeling. Listening to you today, I felt that you are a very sensitive and intelligent person. I'm sure you could become a wonderful counselor who can empathize with people's feelings."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:07:40",
+      "origin": "そうなんでしょうか、、、でも、お気遣いありがとうございます。",
+      "content": "Do you really think so...? But thank you for your kind words."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:08:25",
+      "origin": "遅くまで聞いてくださりありがたかったです",
+      "content": "I'm grateful that you listened to me so late."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:08:26",
+      "origin": "気遣いではないですよ、本当にそう思っています。",
+      "content": "It's not just a kind gesture; I truly mean it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:08:46",
+      "origin": "はいこちらこそありがとうございました。",
+      "content": "Yes, thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:09:08",
+      "origin": "また話したくなったらいつでも相談に来てくださいね。",
+      "content": "Please feel free to come back and talk anytime you feel like it."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:09:13",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:09:32",
+      "origin": "ではこれで終了しますね。",
+      "content": "Then, we'll end the session here."
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:09:32",
+      "origin": "では失礼します、ありがとうございました",
+      "content": "Alright then, goodbye. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:10:19",
+      "origin": "（お時間すぎてすみません。勉強になりました。ありがとうございました）",
+      "content": "(Sorry for going over time. This was a great learning experience. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-16T22:10:43",
+      "origin": "(ありがとうございました、しつれいします)",
+      "content": "(Thank you. Goodbye.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-16T22:10:56",
+      "origin": "（では終了します）",
+      "content": "(Ending the session now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "カウンセリングに興味を持った理由"
+  },
+  "review_by_client": {
+    "evaluation_id": 2976,
+    "evaluation_created_at": "2022-01-16T23:52:00",
+    "client_id": 243,
+    "counselor_id": 155,
+    "score": 33,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

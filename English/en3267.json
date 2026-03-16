@@ -1,0 +1,639 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-03-14T19:53:49",
+      "origin": "こんばんは。本日よろしくおねがいします。",
+      "content": "Good evening. Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T19:54:21",
+      "origin": "ロールプレイでしたい内容があるのですが、いいですか?",
+      "content": "I have a specific scenario I'd like to role-play. Would that be alright?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T19:59:16",
+      "origin": "ほとんど自分から話さないタイプの相談者役で、行います。よろしくおねがい致します",
+      "content": "I'll be playing the role of a client who doesn't talk much on their own. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:01:14",
+      "origin": "はい、すみません、遅くなりました。今日はカウンセラー役をさせていただきます。",
+      "content": "Yes, I'm sorry for the delay. I'll be playing the role of the counselor today."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:01:25",
+      "origin": "よろしくおねがいします",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:02:12",
+      "origin": "今日はようこそお出で頂きました。初めに年齢と性別を教えて頂けますか?",
+      "content": "Welcome, and thank you for coming today. To start, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:02:35",
+      "origin": "中1 女子",
+      "content": "First-year middle school, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:03:06",
+      "origin": "ありがとうございます。今日のご相談は何でしょうか?",
+      "content": "Thank you. What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:03:23",
+      "origin": "友達の作り方",
+      "content": "How to make friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:04:17",
+      "origin": "そうなんですね。友達の作り方ですね。具体的にもっとお聞きしてもよろしいですか?",
+      "content": "I see—how to make friends. Could I ask you to be a bit more specific?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:04:51",
+      "origin": "リーちゃんさんとお呼びしてもよろしいですか?",
+      "content": "May I call you Rii-chan?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:05:46",
+      "origin": "〈名前は言ってないので、名前は無しでお願いします〉",
+      "content": "<I haven't given a name, so please don't use one.>"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:06:03",
+      "origin": "話しにくい",
+      "content": "It's hard to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:06:11",
+      "origin": "わかりました。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:07:34",
+      "origin": "友だちの作り方ですが、クラスか部活の中で、他にも、ということでしょうか?",
+      "content": "Regarding making friends, do you mean in your class or your club, or elsewhere as well?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:07:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:08:31",
+      "origin": "どのような友だちを作りたいと思われていますか?",
+      "content": "What kind of friends would you like to make?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:09:06",
+      "origin": "明るい人",
+      "content": "Cheerful people."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:09:38",
+      "origin": "そうなんですね。クラスの中に明るい人はいますか?",
+      "content": "I see. Are there any cheerful people in your class?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:10:00",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:10:36",
+      "origin": "その方と友達になることは出来そうですか?",
+      "content": "Do you think you could become friends with them?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:11:04",
+      "origin": "どうだろう",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:11:25",
+      "origin": "その方に話しかけられそうですか?",
+      "content": "Do you feel like you could talk to them?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:11:41",
+      "origin": "話しかけにくい",
+      "content": "It's hard to approach them."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:12:21",
+      "origin": "話しかけにくいのですね。話しかけようと思われたことはありますか?",
+      "content": "It's hard to approach them, I see. Have you ever thought about trying to talk to them?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:13:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:14:16",
+      "origin": "話しかけようとするとどんな気持ちになるのかなあ?",
+      "content": "I wonder, what kind of feelings come up when you try to talk to them?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:14:41",
+      "origin": "緊張する",
+      "content": "I get nervous."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:16:08",
+      "origin": "そうなんですね。緊張するよね。例えば話しかける練習をしてみるのはどうかな?",
+      "content": "I see. It is nerve-wracking, isn't it? For example, how about we practice starting a conversation?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:16:36",
+      "origin": "練習…",
+      "content": "Practice..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:17:35",
+      "origin": "深呼吸して肩の力抜いて、朝教室に入ったら「おはよう。」って声かける練習。",
+      "content": "Take a deep breath, relax your shoulders, and practice saying \"Good morning\" when you enter the classroom in the morning."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:18:11",
+      "origin": "うん…",
+      "content": "Yeah..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:18:36",
+      "origin": "人と向き合うと誰にでも緊張するタイプですか?",
+      "content": "Do you tend to get nervous when facing anyone?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:18:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:19:13",
+      "origin": "そうなんですね。人と向き合うとどんな気持ち?",
+      "content": "I see. What feelings come up when you’re face-to-face with people?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:19:27",
+      "origin": "緊張する",
+      "content": "I get nervous."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:20:18",
+      "origin": "そうだったね。緊張すると何か頭に思い浮かぶことってあるかな?",
+      "content": "Right, you mentioned that. When you get nervous, does anything come to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:20:46",
+      "origin": "どうだろう…",
+      "content": "I'm not sure..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:21:28",
+      "origin": "緊張するといつも心に浮かんでくる情景ってあるかな?",
+      "content": "When you’re nervous, is there a scene or image that tends to come to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:21:58",
+      "origin": "笑われるんじゃないかとか…",
+      "content": "Like... that they might laugh at me..."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:22:24",
+      "origin": "そんな感じ",
+      "content": "Something like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:22:49",
+      "origin": "そっか。そう思うんだね。話をして以前笑われたこととかあるの?",
+      "content": "I see. So that's what you think. Have you ever been laughed at before when you've talked to someone?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:23:24",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:23:44",
+      "origin": "小5のとき",
+      "content": "In fifth grade."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:24:31",
+      "origin": "そうなんだ。悔しくて恥ずかしかったね。もっと詳しく聞かせて貰っていいかな?",
+      "content": "I see. That must have been frustrating and embarrassing. Would you be willing to tell me more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:24:58",
+      "origin": "話しかけたら、笑われたから",
+      "content": "Because when I tried to talk to them, they laughed at me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:25:29",
+      "origin": "そうなんだ。どうしてその人はわらったのかなあ?",
+      "content": "I see. I wonder why that person laughed."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:25:37",
+      "origin": "わからない。",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:26:21",
+      "origin": "話しかけたら、クスクス笑って一緒にいた人と、遠くに行った",
+      "content": "When I tried to talk to them, they snickered and walked away with the person they were with."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:27:27",
+      "origin": "そうなんだ。せっかく勇気を出して話しかけたのに、意味わかんないよね。",
+      "content": "I see. You gathered up all that courage to talk to them, and that's what happened. It doesn't make any sense, does it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:27:35",
+      "origin": "はい",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:28:24",
+      "origin": "他のクラスメイトにも話しかけてみた?",
+      "content": "Have you tried talking to any other classmates?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:28:45",
+      "origin": "してない",
+      "content": "No."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:29:25",
+      "origin": "それきり自分からはしてない",
+      "content": "I haven't initiated a conversation myself since then."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:29:41",
+      "origin": "そっか。また笑われて離れるかもって思うと、尻込みしちゃうよね。",
+      "content": "I see. When you think you might get laughed at and they'll walk away again, it makes you hesitate, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:29:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:30:54",
+      "origin": "でもそうじゃないかもしれないよ。100人いれば100通りの反応が返ってくるかもしれないし・・。",
+      "content": "But it might not be like that. If there are 100 people, you might get 100 different reactions."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:31:12",
+      "origin": "どうかな",
+      "content": "I wonder..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:33:08",
+      "origin": "笑って遠くに行ってしまった人たちに理由を聞いたとしても、特に覚えてないと思うよ。",
+      "content": "Even if you asked the people who laughed and walked away for a reason, I doubt they would even remember it."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:33:21",
+      "origin": "そうかな",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:33:53",
+      "origin": "なんでわかるの？",
+      "content": "How do you know?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:35:34",
+      "origin": "私もそうだったから。傷つくのは辛いけど、何度もチャレンジして友達が出来た時の方が自信につながるよ。",
+      "content": "Because I was the same way. It's painful to get hurt, but when you keep trying and finally make a friend, it really builds your confidence."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:35:52",
+      "origin": "そうなんだ。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:37:21",
+      "origin": "そうだよ。自分の中の可能性を信じてまたトライしてみて。",
+      "content": "That's right. Believe in your own potential and try again."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:37:58",
+      "origin": "…なんかしんどい",
+      "content": "...This is kind of overwhelming."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:39:04",
+      "origin": "そっか。しんどいよね。少しずつでいいから前にすすんでみよう。まずはイメージして練習してみて。",
+      "content": "I see. It is overwhelming, isn't it? Let's try to move forward, just a little at a time. First, try imagining it and practicing."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:39:13",
+      "origin": "イメージ？",
+      "content": "Imagining?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:40:01",
+      "origin": "進むのは怖い",
+      "content": "It's scary to move forward."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:40:52",
+      "origin": "そっか。進むのが怖いって思うんだね。その理由は何かな?",
+      "content": "I see. You feel that it's scary to move forward. What do you think the reason is?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:42:18",
+      "origin": "…なんか怖い",
+      "content": "...It's just scary somehow."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:43:21",
+      "origin": "そっか。じゃあ進まないでその場で足踏みてみよう。いつでも前に出られるように練習してもよう。",
+      "content": "I see. In that case, instead of moving forward, let’s just 'march in place' for a while. We can practice so that you're ready to step forward anytime."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:44:13",
+      "origin": "足踏み？",
+      "content": "March in place?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:45:13",
+      "origin": "おかしくない?",
+      "content": "Isn't that weird?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:45:19",
+      "origin": "ごめんなさい、誤字脱字が多くて。実際に足踏みするわけじゃなくて、いつでも話しかけられるように、練習しましょう。",
+      "content": "I'm sorry, I'm making a lot of typos. I don't mean literally marching in place; I mean let's practice so you can talk to someone anytime."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:45:45",
+      "origin": "練習がいるの？",
+      "content": "Do I need to practice?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:46:16",
+      "origin": "そうだよ、すぐに話しかけるには勇気がいるでしょ?",
+      "content": "Yes, it takes courage to just start talking to someone, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:46:23",
+      "origin": "1人でするの？",
+      "content": "Do I do it alone?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:46:50",
+      "origin": "そうだよ、自分で友達つくるのだから。",
+      "content": "Yes, because you're the one who is making friends."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:47:19",
+      "origin": "どうやって?",
+      "content": "How?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:49:17",
+      "origin": "まず、教室に入ったら「おはよう。」って挨拶する練習をしてみて。声に出して。",
+      "content": "First, practice saying \"Good morning\" out loud when you enter the classroom."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:49:56",
+      "origin": "…変に思われないかな?",
+      "content": "...Won't people think I'm weird?"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:50:57",
+      "origin": "誰も聞いてないのに。",
+      "content": "Even though no one is listening."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:50:57",
+      "origin": "それは相手が感じることだから、今は誰にも分からないけど、まずやってみよう。",
+      "content": "That's for the other person to feel, and we can't know how they'll react right now. For now, let’s just give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:51:15",
+      "origin": "…難しい",
+      "content": "...It's difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:52:03",
+      "origin": "私が聞いてるよ、クラスメイトだと思って話しかけてみて。",
+      "content": "I'm listening. Try talking to me as if I were your classmate."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:52:27",
+      "origin": "教室にはいないじゃん",
+      "content": "But you're not in the classroom."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:53:22",
+      "origin": "いないけど、練習して話せるようになろう。",
+      "content": "I'm not, but let's practice so you get used to talking."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:53:49",
+      "origin": "もういいです。",
+      "content": "That's enough for today."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:54:18",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:56:08",
+      "origin": "人に話しかけるのは勇気がいるけど、明日話したい人に声かけてみて。",
+      "content": "It takes courage to talk to people, but try to speak to someone you want to talk to tomorrow."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:57:47",
+      "origin": "考えてみます",
+      "content": "I’ll think about it."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:58:19",
+      "origin": "相談員さんは、男性？女性？",
+      "content": "Counselor, are you male or female?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T20:58:58",
+      "origin": "女性です。応えてくれてありがとう。",
+      "content": "I'm a woman. Thank you for engaging with me."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T20:59:25",
+      "origin": "そうですか。ありがとうございました。",
+      "content": "I see. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T21:00:09",
+      "origin": "うまく解決できなくてごめんなさい。私も考えてみます。",
+      "content": "I'm sorry I couldn't help you find a solution. I will think about it as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T21:00:45",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T21:01:09",
+      "origin": "これで終了とさせていただきます。（今日はクライアント役ありがとうございました。）",
+      "content": "This concludes our session. (Thank you for playing the client role today.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T21:01:28",
+      "origin": "こちらこそありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-03-14T21:01:40",
+      "origin": "終わって下さいね😊",
+      "content": "Please end the session now. 😊"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-14T21:01:57",
+      "origin": "はい、終了とさせていただきます。",
+      "content": "Okay, I will now end the session."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達作りの課題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3267,
+    "evaluation_created_at": "2022-03-16T00:12:00",
+    "client_id": 112,
+    "counselor_id": 261,
+    "score": 0,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": "チェックあり",
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

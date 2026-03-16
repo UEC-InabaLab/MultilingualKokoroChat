@@ -1,0 +1,531 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:00:04",
+      "origin": "こんにちは、相談員です。宜しくお願いします。では初めに、年齢と性別、相談内容からお聞きしても宜しいですか？",
+      "content": "Hello, I'm the counselor. It's nice to meet you. To begin, could you please tell me your age, gender, and what you'd like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:00:20",
+      "origin": "23歳",
+      "content": "I'm 23."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:00:31",
+      "origin": "男です",
+      "content": "I'm male."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:00:57",
+      "origin": "毎日ただつらくて",
+      "content": "Every day is just painful."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:01:14",
+      "origin": "どうしたら楽になれますか",
+      "content": "What can I do to feel better?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:02:10",
+      "origin": "ありがとうございます。毎日が辛いとのことですね、、それはいつ頃からそう感じましたか？",
+      "content": "Thank you for sharing that. You said that every day is painful... When did you start feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:02:34",
+      "origin": "去年の秋くらいから",
+      "content": "Since around last fall."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:03:14",
+      "origin": "そうでしたか、ずいぶん長い間辛い気持ちでいらっしゃるんですね、、",
+      "content": "I see. You’ve been carrying these painful feelings for quite a long time."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:03:34",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:03:59",
+      "origin": "去年の秋くらいに何かきっかけがあったのでしょうか？",
+      "content": "Was there something that happened around last fall that might have triggered this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:04:39",
+      "origin": "仕事を止めました",
+      "content": "I quit my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:05:43",
+      "origin": "お仕事をおやめになったんですね。ちなみに現在は何かされていますか？",
+      "content": "You quit your job, I see. By the way, are you doing anything at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:06:08",
+      "origin": "いえ、なにもしていないです",
+      "content": "No, I'm not doing anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:07:09",
+      "origin": "お仕事を辞めたのは何かきっかけがありましたか？",
+      "content": "Was there anything in particular that led you to quit?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:09:14",
+      "origin": "大学を卒業してただなんとなく入った会社員だったのでなんでこんなことをしているのかよくわからなくてなんか行きたくなくなってしまってやめました",
+      "content": "After graduating from university, I just sort of fell into an office job. I didn't really understand why I was doing what I was doing, and I just lost the desire to go anymore, so I quit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:10:43",
+      "origin": "そうでしたか、、ちなみにそのお仕事はどんな職種で何年くらい務めていらっしゃったのでしょうか？",
+      "content": "I see. By the way, what kind of job was it, and how long did you work there?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:10:56",
+      "origin": "半年です",
+      "content": "For six months."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:11:41",
+      "origin": "今はずっと部屋でひきこもっています",
+      "content": "Now I just stay shut in my room all the time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:13:53",
+      "origin": "そうだったんですね。そのころからいろいろ考えていたのですね、、",
+      "content": "I understand. You’ve had a lot on your mind since then."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:14:37",
+      "origin": "何もする力がわいてこないし",
+      "content": "I can't seem to muster the energy to do anything,"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:14:48",
+      "origin": "毎日がつらくて",
+      "content": "and every day is painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:14:48",
+      "origin": "今は辛い気持ちが大きと思いますが体調はいかがですか？",
+      "content": "I know you're feeling a great deal of emotional pain right now, but how is your physical health?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:15:34",
+      "origin": "あまりよく眠れないです",
+      "content": "I'm not sleeping very well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:16:43",
+      "origin": "それは辛いですよね、何かお薬も処方されていたりもいしますか？",
+      "content": "That must be difficult. Have you been prescribed any medication?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:17:03",
+      "origin": "いえ",
+      "content": "No."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:17:45",
+      "origin": "ただ、消えてしまった方が楽かなと思って、ネットで薬を調べています",
+      "content": "It's just, I've been thinking it might be easier if I just disappeared, so I've been looking up medications online."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:19:10",
+      "origin": "消えてしまった方が楽なのかなと思うくらい毎日が辛いんですね。",
+      "content": "So you're feeling so much pain every day that you've started to think it would be easier to just disappear."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:19:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:19:48",
+      "origin": "自分なんて",
+      "content": "Someone like me…"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:20:02",
+      "origin": "生きていても意味がないと思います",
+      "content": "I feel there’s no point in me being alive."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:20:07",
+      "origin": "あなたは今どんなことをしながらお過ごしですか？",
+      "content": "How are you spending your time these days?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:21:25",
+      "origin": "何もしていないです",
+      "content": "Nothing."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:22:21",
+      "origin": "では以前まではどんなことが好きでしたか？",
+      "content": "Then what about before? What did you used to enjoy?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:23:55",
+      "origin": "特に好きなものとかないですたまにアニメを見たり",
+      "content": "There’s nothing I particularly like, but I sometimes watch anime."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:24:36",
+      "origin": "そうなんですね。どんなアニメがお好きなんですか？",
+      "content": "I see. What kind of anime do you like?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:25:42",
+      "origin": "特にないです",
+      "content": "Nothing in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:26:35",
+      "origin": "大学卒業後何となく入った会社と言っていましたが、どんな職種だったのでしょうか？",
+      "content": "You mentioned you joined a company without much thought after graduating. What kind of work did you do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:27:28",
+      "origin": "誰にも迷惑をかけないようにひっそりと消えたい",
+      "content": "I want to disappear quietly, without bothering anyone."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:28:38",
+      "origin": "親にも迷惑をかけたくない",
+      "content": "I don’t want to be a burden to my parents either."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:29:19",
+      "origin": "そう思うほど今は苦しいんですよね、、",
+      "content": "You're in so much pain right now that you're thinking that way..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:29:40",
+      "origin": "つらいでふ",
+      "content": "It's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:30:04",
+      "origin": "今の状態をどなたかに相談されたことはありますか？",
+      "content": "Have you talked to anyone about how you’re feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:30:14",
+      "origin": "消えたいと思う気持ちが強くなっています",
+      "content": "The feeling of wanting to disappear is getting stronger."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:30:27",
+      "origin": "相談する相手はいないです",
+      "content": "I don’t have anyone to talk to."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:31:15",
+      "origin": "親は",
+      "content": "My parents…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:31:24",
+      "origin": "そうでしたか、先ほど親にも迷惑をかけたくないとのことでしたが",
+      "content": "I see. A moment ago, you mentioned not wanting to be a burden to your parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:31:58",
+      "origin": "とても親のことを思っているように感じましたがいかがですか？",
+      "content": "It sounds like you care a lot about your parents. Does that feel accurate?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:32:05",
+      "origin": "たまに顔を合わせると、そろそろ働けばと言ってくるので、会いたくない",
+      "content": "When I do see them, they tell me I should get a job soon, so I don't want to see them."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:32:50",
+      "origin": "ただ、これ以上迷惑をかけたくない",
+      "content": "But I just don't want to be any more of a burden."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:33:32",
+      "origin": "そんなこと言われたら苦しくなってしまいますね。以前はどんな親でしたか？",
+      "content": "That must be difficult to hear. What were your parents like before?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:34:18",
+      "origin": "ふつうだと思います",
+      "content": "I think they were just normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:35:06",
+      "origin": "今あなたは何となく入った会社で何をしているんだろうと感じ仕事を辞め、今毎日が辛いとのことですが、",
+      "content": "So, you quit your job after feeling like you didn't know what you were doing at a company you joined without much thought, and now every day is painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:35:41",
+      "origin": "これからどのようになったらこの辛さが少なると思われますか？",
+      "content": "Looking forward, what do you think would need to happen for this pain to lessen?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:36:24",
+      "origin": "辛さが小さくなると思われますか？",
+      "content": "For the pain to get smaller?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:36:27",
+      "origin": "消えてしまうのが一番だと思います",
+      "content": "I think disappearing would be the best."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:37:51",
+      "origin": "そう思われていますよね、、では二番目にはどうなればいいと思いますか？",
+      "content": "I hear that. Then, what would be the second-best option?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:38:39",
+      "origin": "思いつかないです",
+      "content": "I can’t think of anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:39:57",
+      "origin": "では先ほどアニメが好きとのことでしたがアニメを見ている時はどんなお気持ちになりますか？",
+      "content": "Well, you mentioned earlier that you sometimes watch anime. How do you feel when you're watching it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:41:08",
+      "origin": "時間つぶしになります",
+      "content": "It helps pass the time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:42:01",
+      "origin": "辛い時間を忘れられる感じでしょうか？",
+      "content": "Does it feel like you can forget the painful times for a little while?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:42:19",
+      "origin": "少しは",
+      "content": "A little."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:42:50",
+      "origin": "他に忘れられる時間はありますか？",
+      "content": "Are there other times when you can forget for a while?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:43:24",
+      "origin": "特にないです　眠っている時とか？",
+      "content": "Not really. Maybe when I'm sleeping?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:45:56",
+      "origin": "そうなんですね。ここまでお話をお聞きして、",
+      "content": "I see. Hearing what you’ve shared so far,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:47:43",
+      "origin": "今あなたはいろんな思いがあり、いろんなことを体験して人生のなかでの休憩期間だと感じました。こんなに長くお辛い気持ちを抱えて、耐えてこられたのは周りの人に迷惑をかけたくないからでしょうか？",
+      "content": "It seems to me that you're going through a lot of feelings and experiences, and that you're in a period of rest in your life. Have you been able to endure these painful feelings for so long because you don't want to be a burden to others?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:48:48",
+      "origin": "どうしたらいいのかわからないまま時間が過ぎていく感じです",
+      "content": "It feels like time is just passing while I have no idea what I should do."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:49:32",
+      "origin": "でもこんなに周りの人のことを思ってくれるあなたは優しい方だと思います。",
+      "content": "But I think you're a very kind person for being so considerate of those around you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:50:19",
+      "origin": "あなたが今一番お話しできそうな方はどなたでしょうか？",
+      "content": "Who do you feel you could most easily talk with right now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:50:51",
+      "origin": "すみません　思いつかないです",
+      "content": "I’m sorry, I can’t think of anyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:51:40",
+      "origin": "ではアニメのお話をできる方はどうでしょうか？",
+      "content": "What about someone you could talk about anime with?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:51:56",
+      "origin": "特に…",
+      "content": "Not really…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:55:25",
+      "origin": "ではこのような相談以外でお話しされる方はいらっしゃいますか？",
+      "content": "Well, is there anyone you talk to about things other than this kind of issue?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:56:15",
+      "origin": "いえ、誰もいなくてこちらに思いきって連絡してみたんです",
+      "content": "No, there’s no one, so I worked up the courage to contact you here."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T12:58:21",
+      "origin": "本日はそろそろお時間になってしましますが、今あなたは人生のなかでの休憩期間だと思います。今は焦らずに休んでいいと思います。",
+      "content": "We’re just about out of time for today, but I think you’re in a resting period in your life right now. It’s okay to rest without rushing."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:58:51",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T12:58:58",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T13:00:01",
+      "origin": "今はお辛い時間が忘れられるアニメなど休んでいいと思います。本日はあまり力になれませんでしたが、これからゆっくりお話ししたいと思ってます。",
+      "content": "For now, I think it's fine to rest and do things like watch anime that help you forget the painful times. I may not have been much help today, but I would like to talk with you more at your own pace."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T13:00:23",
+      "origin": "良ければまた来ていただけますか？",
+      "content": "If you'd like, would you be open to coming back?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T13:01:04",
+      "origin": "最近見たアニメのお話でも気軽に来てください。",
+      "content": "Please feel free to come back, even just to talk about an anime you've seen recently."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T13:01:59",
+      "origin": "少し考えてみます",
+      "content": "I'll think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-26T13:02:14",
+      "origin": "本日はありがとうございました。ではまた、後日お話ししましょう。",
+      "content": "Thank you for today. Let’s talk again another day."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-26T13:02:27",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "生きる意味の喪失感"
+  },
+  "review_by_client": {
+    "evaluation_id": 6790,
+    "evaluation_created_at": "2024-04-26T13:43:00",
+    "client_id": 485,
+    "counselor_id": 443,
+    "score": 77,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

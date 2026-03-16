@@ -1,0 +1,639 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:18:05",
+      "origin": "こんにちは、相談員です。少しトラブル在りましたが初めていきたいと思います。よろしいでしょうか？＾＾",
+      "content": "Hello, I'm your counselor. We had a small technical issue, but I'd like to get started now. Would that be alright? ^^"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:18:19",
+      "origin": "お願いします！",
+      "content": "Please go ahead!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:19:40",
+      "origin": "ここでは安心してどんなことでもお話ください。はじめに、年齢、性別、相談内容お聞かせ願えますか？",
+      "content": "Please feel free to talk about anything here in confidence. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:20:08",
+      "origin": "60歳　男性 息子が引きこもり",
+      "content": "I'm a 60-year-old man. My son is socially withdrawn."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:21:30",
+      "origin": "ありがとう御座います。息子さんが引きこもりという事ですね。それは、お辛いですよね、もう少し詳しくお話し伺ってよろしいでしょうか？",
+      "content": "Thank you. So your son is socially withdrawn. That must be very difficult for you. May I ask for a few more details?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:22:05",
+      "origin": "息子が引きこもりで家からでてほしいんです。",
+      "content": "My son is socially withdrawn, and I want him to leave the house."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:22:38",
+      "origin": "できれば家からでていって欲しくて",
+      "content": "Ideally, I'd like him to move out."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:22:59",
+      "origin": "ありがとう御座います。息子さんが引きこもりという事なのですが今、息子さんはおいくつの年齢でいらっしゃいますでしょうか？",
+      "content": "Thank you for sharing that. You mentioned your son is socially withdrawn; may I ask how old he is now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:24:50",
+      "origin": "２３歳",
+      "content": "He's 23."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:25:51",
+      "origin": "ありがとう御座います。２３歳でらっしゃいますと、もう何年くらいその状態が続いているのでしょうか？",
+      "content": "Thank you. At 23 years old, how long has this situation been going on?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:26:22",
+      "origin": "精神疾患もあって1.2年前からです",
+      "content": "He also has a mental health condition, and it's been for about one or two years."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:27:34",
+      "origin": "ありがとう御座います。精神疾患もお持ちの息子さん何ですね。それは、相談者さんも大変な状況なのではないでしょうか？",
+      "content": "Thank you. So your son also has a mental health condition. I imagine this has been very difficult for you as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:28:18",
+      "origin": "はい、だからなのか引きこもってしまって。今定年退職になる時期なので支えられないし",
+      "content": "Yes, that's probably why he became withdrawn. Now that I'm approaching retirement age, I won't be able to support him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:30:10",
+      "origin": "ありがとう御座います。そうなのですね。その様な状況ですと、不自由な事も沢山在るのではとお察しいたします。ご自宅では現在、息子さんとお二人でお住まいなのでしょうか？",
+      "content": "Thank you. I see. In such circumstances, I imagine there are many difficulties. Are you currently living just with your son?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:30:29",
+      "origin": "いや妻もいます。",
+      "content": "No, my wife is with us as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:32:33",
+      "origin": "ありがとう御座います。奥様もお見えなのですね。＞定年退職になる時期なので支えられないと書いていただきましたが、具体的にどの様な、生活に障害が起こっているのでしょうか？少し詳しく教えていただけますでしょうか？",
+      "content": "Thank you. So your wife lives with you as well. You mentioned, \"with retirement approaching, you can't support him\"—what specific difficulties are you facing in your daily life? Could you tell me a bit more?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:32:37",
+      "origin": "あまり息子と話しにくいのもありますね",
+      "content": "It's also difficult to talk with my son."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:33:22",
+      "origin": "補足の説明ありがとう御座います。",
+      "content": "Thank you for clarifying."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:33:45",
+      "origin": "それは息子が引きこもりで働けないので支えられないですし、",
+      "content": "That's because my son is socially withdrawn and can't work, so I can't support him, and..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:33:58",
+      "origin": "話もできないので",
+      "content": "...and we can't talk to each other either."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:34:13",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:35:52",
+      "origin": "ありがとう御座います。それは、時間も金銭的にも大変な状況ですよね。。それに、加えてお話しも出来ないとなると",
+      "content": "Thank you. That sounds like a very difficult situation, both in terms of time and money... And on top of that, not being able to talk..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:35:54",
+      "origin": "自分の年齢的に",
+      "content": "Given my age..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:36:02",
+      "origin": "ええ",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:36:41",
+      "origin": "そうですね。時間も金銭もどうしたらいいやら",
+      "content": "That's right. I don't know what to do about time or money."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:36:52",
+      "origin": "そうですよね",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:36:56",
+      "origin": "だから出ていってもらえるようにしたい",
+      "content": "That's why I want to get him to move out."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:37:07",
+      "origin": "ご不安になりますよね",
+      "content": "It must make you very anxious."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:37:12",
+      "origin": "らい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:37:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:39:18",
+      "origin": "一人立ちしてほしいと言う思いと息子さんも精神疾患を患っているので、無理やりも出来ないと言う状況でも在るのではないかと、お察ししておりますが、相談者さんと奥様のお考えはどの様なお考えでしょうか？",
+      "content": "I imagine you're in a situation where you want him to become independent, but because he's suffering from a mental illness, you can't force him out. Could you tell me what you and your wife think about this?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:40:56",
+      "origin": "すみません。ご夫婦ではどの様な会話がされているのかも、教えていただいても宜しいでしょうか？",
+      "content": "Excuse me. Could you also tell me what kind of conversations you and your wife have about this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:43:44",
+      "origin": "そうですね、無理矢理できないというよりむり。息子に自分たちの状況とか出て行って自活して欲しいことも一度いいましたが「お前たちのせい」と。妻はもう諦めてしまいました",
+      "content": "Right, it's not just that we can't force it—it feels impossible. We told our son once about our situation and that we want him to move out and live on his own, but he said, 'It's your fault.' My wife has already given up."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:44:00",
+      "origin": "すこし暴力的になりますし",
+      "content": "He can get a little violent, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:44:22",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:44:30",
+      "origin": "自分たちの育て方がいけなかったのかとはなしてます",
+      "content": "We've talked about whether our parenting was the problem."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:44:58",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:45:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:46:05",
+      "origin": "言いづらい事をありがとう御座います。それは、ご夫婦もお辛い状況ですよね。",
+      "content": "Thank you for sharing something so difficult. That must be a painful situation for you and your wife."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:47:48",
+      "origin": "そうですね。どうしたらいいやら。",
+      "content": "It is. I just don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:48:06",
+      "origin": "「お前たちのせい」と言われると書いて頂きましたが、具体的に子育ての中で、何が問題だったのかと思いあたる部分はありますでしょうか？",
+      "content": "You mentioned he says, 'It's your fault.' Is there anything specific from his upbringing that you feel might have been a problem?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:49:20",
+      "origin": "相談者さんと奥様のお考えと言いましょうか。ここが不味かったんではないかと言う認識や具体的な出来事はありますでしょうか？",
+      "content": "In other words, in your and your wife's view, is there any specific event or recognition of 'this is where we went wrong'?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:49:39",
+      "origin": "統合失調症なので会話が難しいのすると特に厳しくはしていないつもりです。",
+      "content": "He has schizophrenia, so conversations can be difficult. We try not to be too strict with him."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:51:11",
+      "origin": "仕事についてから様子がおかしくて心療内科にいって診断もらって気がつきました",
+      "content": "He started acting strange after he got a job. We took him to a psychosomatic clinic, and that's when we found out from the diagnosis."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:51:34",
+      "origin": "そうなのですね、統合失調症でいらっしゃるのですね。それは、大変な状況とお察しいたします。それが１、２年前からと言う事でよろしかったでしょうか？",
+      "content": "I see, so he has schizophrenia. I can only imagine how difficult that situation is. And this started about one or two years ago, is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:51:59",
+      "origin": "一応仕事はしてたみたいなんですが、たまに聞いたのは仕事が難しいと",
+      "content": "He was working, apparently, but I sometimes heard him say that the work was difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:52:29",
+      "origin": "成る程、お仕事についてからその様な状態になったと言う事ですね。",
+      "content": "I see, so this condition began after he started working."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:52:48",
+      "origin": "そうですね。仕事初めて1年たって引きこもりになってしまって今なので2年はたとうとしてます",
+      "content": "Yes. About a year after he started working, he became withdrawn, and now it's been almost two years."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:52:57",
+      "origin": "おそらく",
+      "content": "Probably."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:53:56",
+      "origin": "1年前はまだ話せててそれで仕事の辛かった話とかはしてくれたんです。次第に話さなくなって引きこもりました",
+      "content": "A year ago, we could still talk, and he would tell me about how hard his job was. Gradually, he stopped talking and became socially withdrawn."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:54:24",
+      "origin": "成る程、ありがとう御座います。その前、お話しはできていたのですね。お仕事の何が、その様な状況にさせてしまったのでしょうか、相談者さんはどうお考えになられますでしょうか。",
+      "content": "I see, thank you. So before that, he was able to talk. What about the job do you think led to this situation? What are your thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:54:31",
+      "origin": "今はとにかく定年近いですし自活してもらわないと",
+      "content": "Right now, the main thing is I'm close to retirement, and I need him to become independent."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:54:52",
+      "origin": "それは本人に聞かないとわからないですよね",
+      "content": "I suppose you'd have to ask him to know for sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:55:03",
+      "origin": "ええ",
+      "content": "Right."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:55:43",
+      "origin": "仕事についていけないみたいでしたけどね",
+      "content": "It seemed like he couldn't keep up with the work, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:55:56",
+      "origin": "身だしなみも注意されるし",
+      "content": "He was also getting criticized for his appearance."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:56:19",
+      "origin": "ただ今は仕事も辞めてますから、できれば再就職してほしい",
+      "content": "But now he's quit that job, so ideally, I'd like him to find new employment."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:57:05",
+      "origin": "ありがとう御座います。＞1年前はまだ話せててそれで仕事の辛かった話とかはしてくれたんです。お仕事についていけないや、環境に適応できなかった事が原因かもしれませんね。",
+      "content": "Thank you. You said, 'A year ago, we could still talk, and he would tell me about how hard his job was.' It may be that he couldn't keep up with the work or adapt to the environment."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T13:57:20",
+      "origin": "どうでしょうか？",
+      "content": "What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T13:58:32",
+      "origin": "そうなのかもしれないですね",
+      "content": "That might be the case."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:01:21",
+      "origin": "ありがとう御座います。かなり大変なご状況とお察しいたします。その上で今、相談者さんは息子さんが再就職して欲しいと考えておられる様ですが、今の息子さんの状態は就職ができる状態と父親の立場として、ご判断はできますでしょうか？",
+      "content": "Thank you. I understand this is a very difficult situation. That being said, you're hoping your son will find another job. From your perspective as his father, do you believe he is currently in a state where he can work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:01:54",
+      "origin": "そうですね、定年も近くですし",
+      "content": "Well, I'm close to retirement, and..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:02:07",
+      "origin": "金銭ではかなりきついです",
+      "content": "...financially, it's very tight."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:02:26",
+      "origin": "ええ、ええ、ご不安ですし、きついですよね",
+      "content": "Yes, yes, I can see how that would be stressful and difficult."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:03:08",
+      "origin": "一応息子にできることはしました。福祉施設にも行かせましたし、生活保護申請ですこしでもって",
+      "content": "I did what I could for my son. I had him go to a welfare facility, and we tried applying for public assistance to get even a little help."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:03:23",
+      "origin": "話は聞かないし、難しいんです。",
+      "content": "But he won't listen, and it's difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:03:27",
+      "origin": "成る程、そうなのですね",
+      "content": "I see, so that's how it is."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:03:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:04:43",
+      "origin": "状態はわかってますよ。引きこもりになってしまって出てこないですし、出てきたと思ったら話にならないです。",
+      "content": "I understand his condition. He's become a shut-in and won't come out of his room, and when he does, you can't have a proper conversation with him."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:05:07",
+      "origin": "優しい言葉もかけてみましたが、自分も余裕がないので",
+      "content": "I've tried speaking to him gently, but I don't have the emotional capacity myself anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:05:33",
+      "origin": "ありがとう御座います。そうですよね。本当に大変なご状況だと感じております",
+      "content": "Thank you. I understand. I feel this is a truly difficult situation for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:05:57",
+      "origin": "そうですね、ふんだりけったり",
+      "content": "It is. It's just one thing after another."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:06:05",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:06:59",
+      "origin": "そういうご状況なのですね。",
+      "content": "I understand that's the situation you're in."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:07:30",
+      "origin": "その上で",
+      "content": "With that in mind,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:08:17",
+      "origin": "ご相談者さんは自活して欲しいとお考えなのですから",
+      "content": "since you want him to live independently,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:08:51",
+      "origin": "それを、するにはどうして行ったら良いとお思いでしょうか？",
+      "content": "what do you think would be the best way to achieve that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:15:02",
+      "origin": "すみません。メッセージは届いておりますでしょうか？",
+      "content": "Excuse me. Are you receiving my messages?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:15:25",
+      "origin": "きました。",
+      "content": "I just got it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:15:45",
+      "origin": "前のものは見えておりますでしょうか？",
+      "content": "Can you see the previous ones?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:15:52",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:16:03",
+      "origin": "（いま確認しました）",
+      "content": "(I just checked.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:16:21",
+      "origin": "ありがとう御座います＾＾",
+      "content": "Thank you. ^^"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:16:28",
+      "origin": "自活するならとりあえず部屋からでてほしいです",
+      "content": "If he's going to live independently, I'd like him to at least come out of his room first."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:16:43",
+      "origin": "ありがとう御座います。そうですよね、これは私の考えなので、あっている訳でもないですが、私の方から、一つご提案させて頂いて宜しいでしょうか？",
+      "content": "Thank you. I understand. This is just my perspective, so it may not be entirely right, but may I offer one suggestion?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:16:44",
+      "origin": "そして仕事にいってほしい",
+      "content": "And then I want him to go to work."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:16:55",
+      "origin": "お願いします",
+      "content": "Please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:18:40",
+      "origin": "ありがとう御座います。統合失調症と言う状態を鑑みて、今のご状況は相談者さんも、奥様も、息子さんも皆様がかなりお辛い緊張状態に見えるとお見受けいたしました。本当にお辛い状況を頑張ってお見えだとお察しします。",
+      "content": "Thank you. Considering his diagnosis of schizophrenia, it seems to me that the current situation is a very painful and tense one for you, your wife, and your son. I can see you are all trying your best in this truly difficult situation."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:18:57",
+      "origin": "そうですね、頑張ってはいます",
+      "content": "That's true, we are trying our best."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:20:10",
+      "origin": "ただ、今のご状況で直ぐに外に出てというのは、かなり無理が在るのではと思いますし、職場もその状態ですと、就職が難しのではと推測はいたします。",
+      "content": "However, in the current situation, forcing him to go out immediately seems quite unreasonable, and I suspect finding employment in that state would be difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:21:55",
+      "origin": "やはり、相談者さんと奥様には凄くご負担がかかる事は承知で、やはりまずこ精神疾患の方をケアしてあげる事に全力を向けれられる事が一番の近道ではないかと考えます。",
+      "content": "I know this would place a great burden on you and your wife, but I believe that focusing all your energy on caring for his mental illness first might be the fastest path forward."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:23:46",
+      "origin": "まずは、定年退職で大変なご状況である中だとは察しますが、あとまだ将来長い人生を考えるとそこに注力することが近道かと感じておりますがいかがでしょうか？",
+      "content": "I understand you are in a difficult position with your impending retirement, but when you think about the long life still ahead, I feel that focusing on his care now could be a shortcut in the long run. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:26:00",
+      "origin": "なるほどです。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:26:26",
+      "origin": "難しいですね。私も経済的にに支えていけるかわからないですし",
+      "content": "It's difficult. I don't know if I can continue to support him financially."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:27:25",
+      "origin": "息子もですが自分も限界があるので。でも息子の疾患のケアが大事なんですね",
+      "content": "It's not just my son; I have my own limits too. But I understand that caring for his illness is what's important."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:27:38",
+      "origin": "すみません。これにて次がありますので失礼いたします。パソコントラブルで色々バタバタしましたが、少しでもお役にたていたら、幸いです。すみません。本日はこれにて終了させて頂きます。またいつでも相談してくださいね＾＾",
+      "content": "I'm very sorry. I have another appointment, so I must go now. We had some computer trouble that made things hectic, but I hope I was able to help even a little. My apologies, but we will have to end the session for today. Please feel free to reach out anytime. ^^"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:27:53",
+      "origin": "自分では厳しです。かなりいっぱいいっぱいなんで",
+      "content": "It's too hard for me on my own. I'm already at my limit."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:28:14",
+      "origin": "（承知しました！！ギリギリまでありがとうございました！）",
+      "content": "(Understood!! Thank you for your time right up to the very end!)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T14:28:23",
+      "origin": "また相談にきます",
+      "content": "I'll come back for another consultation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T14:28:32",
+      "origin": "ありがと御座いました＾＾",
+      "content": "Thank you very much. ^^"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "息子の引きこもりと精神疾患の問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5384,
+    "evaluation_created_at": "2023-07-03T14:43:00",
+    "client_id": 383,
+    "counselor_id": 387,
+    "score": 18,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 0,
+    "conversation_felt_comfortable": 0,
+    "felt_appropriate_and_satisfying": 0,
+    "conversation_was_valuable": 0,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

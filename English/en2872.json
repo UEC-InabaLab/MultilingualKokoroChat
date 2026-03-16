@@ -1,0 +1,585 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:11:06",
+      "origin": "こんにちは。相談員です。今日はどんなご相談で来られましたか?",
+      "content": "Hello. I'm a counselor. What brings you here today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:11:30",
+      "origin": "学校を辞めたいのですが、親が納得してくれません",
+      "content": "I want to quit school, but my parents won't agree."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:12:17",
+      "origin": "そうなんですね。大事なお話なので、もう少し詳しくお聞きしていいですか?",
+      "content": "I see. This is an important matter—may I ask for a few more details?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:13:16",
+      "origin": "学校で友達とけんかして、先生に相談しても突き放されて、先生も友達に会うのも嫌になりました。",
+      "content": "I got into a fight with a friend at school, and when I tried to talk to a teacher, they brushed me off. Now I don’t want to see the teacher or my friend."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:13:44",
+      "origin": "なるほど。それは辛いですね。",
+      "content": "I understand. That must be difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:14:12",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:15:12",
+      "origin": "もう少し詳しくお話を伺いたいので、あなたの学年•年齢•性別•どのようにお呼びすればいいかを教えてもらっていいですか?",
+      "content": "I'd like to understand your situation a bit better. Could you please tell me your grade, age, gender, and how you would like me to address you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:15:44",
+      "origin": "16　高1　男",
+      "content": "16, first year of high school, male."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:16:06",
+      "origin": "みきお",
+      "content": "Mikio."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:16:53",
+      "origin": "高校1年生の男性で、みきおさんですね。教えて下さってありがとうございます。",
+      "content": "So you’re a first-year high school student, and your name is Mikio. Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:20:03",
+      "origin": "みきおさんの話しやすい所からでいいですよ。",
+      "content": "You can start wherever you feel most comfortable, Mikio."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:21:03",
+      "origin": "何から話せばいいかわかりません",
+      "content": "I don't know where to start."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:23:57",
+      "origin": "そうですね…学校で友達とけんかして、先生に相談しても突き放されてって書かれていたけど、どのような事がきっかけだったのでしょうか?",
+      "content": "I see... You mentioned that you fought with a friend and felt brushed off when you spoke to a teacher. What sparked that situation?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:24:18",
+      "origin": "くだらないことです",
+      "content": "It was over something stupid."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:24:37",
+      "origin": "くだらないこと…ですか。",
+      "content": "Something stupid... you say?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:26:27",
+      "origin": "話すほどの内容でもないです",
+      "content": "It’s not even worth talking about."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:26:58",
+      "origin": "みきおさんはそう思われるんですね。",
+      "content": "That’s how it feels to you, Mikio."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:27:34",
+      "origin": "ちなみに、みきおさんにとってくだらない事ってどんな事ですか?",
+      "content": "Just out of curiosity, what kind of things do you consider to be 'stupid,' Mikio?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:28:51",
+      "origin": "話す必要のない事です",
+      "content": "Something that doesn’t need to be talked about."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:31:13",
+      "origin": "そうなんですね。では別の事をお聞きしますね。",
+      "content": "I see. Well then, let me ask you about something else."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:32:25",
+      "origin": "学校を辞めたいと書かれているけど、どのような事から、そう思うのかな?",
+      "content": "You mentioned you want to quit school. What led you to feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:33:22",
+      "origin": "友達にも先生にも会いたくなくなったから",
+      "content": "Because I don’t want to see my friend or the teacher anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:35:36",
+      "origin": "なるほど…。それはさっき書いてくれてた喧嘩の事が原因なのかな。",
+      "content": "I see... Is that because of the fight you mentioned earlier?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:36:27",
+      "origin": "そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:38:24",
+      "origin": "そうなんですね…確かに1人だったら、さびしいし、辛いですよね。",
+      "content": "I understand... Being on your own can feel lonely and painful."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:38:42",
+      "origin": "一人？",
+      "content": "On my own?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:40:52",
+      "origin": "…学校で、みきおさんの事をわかってくれる人は、喧嘩した友達や相談した先生以外に誰かいますか?",
+      "content": "At school, besides the friend you fought with and the teacher you consulted, is there anyone who understands you, Mikio?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:42:21",
+      "origin": "いないけど、そもそも先生もわかってはくれていません",
+      "content": "There's no one, and the teacher didn't understand me in the first place."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:42:53",
+      "origin": "それは寂しいですよね。",
+      "content": "That must be lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:46:04",
+      "origin": "…それで学校を辞めたいと、ご両親に話してみたんですね。",
+      "content": "...And so, you told your parents you want to quit school, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:46:47",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:47:50",
+      "origin": "でも納得してくれないんです",
+      "content": "But they won't agree."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:49:17",
+      "origin": "どうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:50:40",
+      "origin": "そうなんですね…確かにわかってもらえないのは、もやもやしますよね。",
+      "content": "I see... Not being understood can really leave you feeling unsettled."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:50:45",
+      "origin": "ちなみにご両親はどんな事をみきおさんに言われたんですか?",
+      "content": "By the way, what did your parents say to you, Mikio?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:51:49",
+      "origin": "高卒は当たり前だし、今のところで頑張れ、としかいいません",
+      "content": "They just say that graduating high school is a given and to tough it out where I am."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:54:11",
+      "origin": "そうだったんですね…。その状況だと、どうしたらいいか、迷ってしまうのも自然な事だと思います。",
+      "content": "I see... In that situation, I think it's natural to feel lost about what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:54:37",
+      "origin": "よかったら、一緒に考えてみましょう。",
+      "content": "If you’d like, let's think it through together."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:55:38",
+      "origin": "はい、どうしたらいいですか",
+      "content": "Yes, what should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:56:20",
+      "origin": "では今までのお話をまとめてみてもいいですか?",
+      "content": "Alright, would it be okay if I summarize what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T16:56:31",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T16:58:39",
+      "origin": "学校で友達と喧嘩をして、その事を先生に相談しても、取り合ってくれなかった。",
+      "content": "You had a fight with a friend at school, and when you tried to talk to a teacher about it, they didn't take you seriously."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:00:28",
+      "origin": "その事から学校を辞めたいと両親に相談したが、高卒は当たり前だし、今のところで頑張れとしかいわず、納得してくれない",
+      "content": "Because of that, you told your parents you want to quit school, but they won't agree, saying only that graduating high school is expected and that you should stick it out where you are."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:00:51",
+      "origin": "そんな所でしょうか。",
+      "content": "Is that about right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:01:03",
+      "origin": "はい、そうです。どうしたらいいですか？",
+      "content": "Yes, that's right. So what should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:03:18",
+      "origin": "そうですね…。まず、確認でお聞きしますが、友達と仲直りしたら、今の学校はずっと通いたいですか?",
+      "content": "Let's see... First, just to confirm, if you were to make up with your friend, would you want to stay at your current school?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:04:07",
+      "origin": "通いたいとも思っていません",
+      "content": "I don't really want to stay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:05:35",
+      "origin": "そうなんですか…。",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:06:07",
+      "origin": "ちなみに今の学校を選んだのはどういった事からですか?",
+      "content": "By the way, what made you choose your current school?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:06:43",
+      "origin": "テキトーに、行けるところだったから",
+      "content": "I just picked it randomly because it was a place I could get into."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:07:16",
+      "origin": "なるほど…。",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:09:52",
+      "origin": "特に今の学校でもなくてもいいっという事でしょうか。",
+      "content": "So it doesn’t necessarily have to be your current school, then?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:10:26",
+      "origin": "みんな真面目でつまんない　気の合うやつもいないし、",
+      "content": "Everyone’s so serious and boring, and there’s no one I click with."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:10:46",
+      "origin": "うんうん(聞いています)",
+      "content": "Mm-hmm (I’m listening)."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:11:18",
+      "origin": "行く意味あるのかと思う",
+      "content": "I wonder if there’s any point in going."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:14:45",
+      "origin": "なるほど…そうだったんですね。",
+      "content": "I see... so that’s how it’s been for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:15:49",
+      "origin": "そう思いながら過ごしていくのは、毎日の事だし、モヤモヤしますよね。",
+      "content": "Feeling that way day after day must really leave you feeling stuck."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:18:14",
+      "origin": "…ちなみにみきおさんは、将来の夢やしたい事は、どんな事でしょうか?",
+      "content": "By the way, Mikio, do you have any dreams for the future or things you’d like to do?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:18:51",
+      "origin": "別にない",
+      "content": "Not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:19:39",
+      "origin": "そっかそっか…。",
+      "content": "I see, I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:20:42",
+      "origin": "(1時間過ぎてますが大丈夫ですか?)",
+      "content": "(We’ve gone over an hour—are you okay to continue?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:21:16",
+      "origin": "(おしまいでも構いませんし、お任せします)",
+      "content": "(I’m fine with ending here; I'll leave it up to you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:21:45",
+      "origin": "(もう少しだけ続けます)",
+      "content": "(Let’s continue for just a little longer.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:22:07",
+      "origin": "（はい、）",
+      "content": "(Okay.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:22:40",
+      "origin": "では、みきおさんは今後どうなったらいいと思いますか?",
+      "content": "Then, Mikio, how would you like things to be going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:26:23",
+      "origin": "みんな頭ごなしに上から言ってほしくない",
+      "content": "I don’t want people to talk down to me right from the start."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:26:45",
+      "origin": "うんうん(聴いています)",
+      "content": "Mhm (I'm listening)."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:27:17",
+      "origin": "すぁう。",
+      "content": "Yeah."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:27:23",
+      "origin": "です。",
+      "content": "That's it."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:27:45",
+      "origin": "ムカつく",
+      "content": "It pisses me off."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:28:28",
+      "origin": "確かに、頭ごなしに上から言われると嫌だよね。",
+      "content": "I agree—it feels awful to be talked down to right from the start."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:29:24",
+      "origin": "その事は誰かに伝えましたか?",
+      "content": "Have you told anyone about that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:31:07",
+      "origin": "はい、伝えました",
+      "content": "Yes, I have."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:32:28",
+      "origin": "そうなんですね。それは誰に伝えたんですか?",
+      "content": "I see. Who did you tell?"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:33:39",
+      "origin": "先生や親にも伝えました",
+      "content": "I told my teacher and my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:34:06",
+      "origin": "それはすごいですね！",
+      "content": "That's amazing!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:36:51",
+      "origin": "では、何があれば、みきおさんが望む方向にいくと思いますか?",
+      "content": "Then what do you think would help things move in the direction you want, Mikio?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:38:52",
+      "origin": "(後10分位で終わります。返しが難しかったら、時間がないとか用事がある等の内容で切って下さい)",
+      "content": "(We’ll wrap up in about 10 minutes. If it’s hard to respond, feel free to say you’re short on time or have something to do.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:40:08",
+      "origin": "みんなが人の話をちゃんと聞くようになればいいです",
+      "content": "It would be good if people actually listened to what others have to say."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:40:52",
+      "origin": "でも、今日はもう塾の時間になったので、",
+      "content": "But it’s time for my cram school now, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:40:52",
+      "origin": "なるほど…。みきおさんは、皆に話を聞いてもらいたいんですね。",
+      "content": "I see... You want people to really listen to you, Mikio."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:41:13",
+      "origin": "また今度でもいいですか",
+      "content": "Can we continue this another time?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:41:48",
+      "origin": "わかりました。では1つ提案があるので、お伝えします。",
+      "content": "Understood. In that case, I have a suggestion I'd like to share."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:44:48",
+      "origin": "まず、書けそうな人について、手紙を書いてみてはどうでしょうか?",
+      "content": "First, how about writing a letter to someone you feel you can write to?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:45:47",
+      "origin": "口頭だと相手に残らない事があるけど、文字にする事で伝わる事があります。",
+      "content": "Sometimes when you speak, it doesn't leave a lasting impression on the other person, but putting it in writing can help get your message across."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:46:06",
+      "origin": "良かったら試してみて下さい。",
+      "content": "If you’d like, please give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:47:33",
+      "origin": "今日は相談に来てもらってありがとうございました。またいつでも気軽に相談に来て下さいね。",
+      "content": "Thank you for coming in today. Please feel free to reach out again anytime."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:48:27",
+      "origin": "はい、ありがとうございました。失礼します",
+      "content": "Yes, thank you very much. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:49:57",
+      "origin": "よかったら次回結果を教えて下さいね。あなたの事を応援していますよ。それでは今回はこれで失礼します。",
+      "content": "If you'd like, let me know how it goes next time. I’m rooting for you. We’ll end here for today."
+    },
+    {
+      "role": "client",
+      "time": "2021-12-16T17:50:25",
+      "origin": "（マッチングが遅れてしまい、大変失礼しました。長時間、貴重なお時間をいただきまして、ありがとうございました)",
+      "content": "(I'm very sorry for the delay in matching. Thank you so much for your valuable time over this long session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-16T17:50:50",
+      "origin": "こちらこそありがとうございました。では終了しますね。",
+      "content": "Thank you as well. I'll end the session now."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達との喧嘩による学校への通学意欲の低下"
+  },
+  "review_by_client": {
+    "evaluation_id": 2872,
+    "evaluation_created_at": "2021-12-16T19:12:00",
+    "client_id": 108,
+    "counselor_id": 112,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:22:04",
+      "origin": "（こんばんは。相談員役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）",
+      "content": "(Good evening. I am playing the role of the counselor. I look forward to working with you today. We will begin when it's time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:30:37",
+      "origin": "こんばんは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。",
+      "content": "Good evening. I'm the counselor. Thank you for coming in. To begin, could you please tell me your age, gender, and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:31:12",
+      "origin": "30歳、男。今の仕事を変えようか悩んでいます。",
+      "content": "I'm 30, male. I'm wondering if I should change my current job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:32:27",
+      "origin": "ええ。転職するかどうかお悩みなのですね。どんなところで悩んでいるのか、少し詳しく聴かせてもらえますか？",
+      "content": "I see. You’re wondering whether to change jobs. Could you tell me a little more about what you're struggling with?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:33:12",
+      "origin": "コールセンターの仕事をしているのですが、クレーマーの対応が多く、うんざりしています。",
+      "content": "I work at a call center, and I'm fed up with dealing with so many complaints and difficult callers."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:34:02",
+      "origin": "そうだったんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:35:16",
+      "origin": "対応の多さもそうですが、色々と傷つくようなことを言われるのではないかとお察しします。",
+      "content": "It’s not just the volume of calls, but I imagine you also get told things that can be quite hurtful."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:35:34",
+      "origin": "そうですね、心無い言葉を言われたりもします。",
+      "content": "That's right, people say some heartless things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:36:01",
+      "origin": "そうでしたか・・・心が痛みますね。",
+      "content": "I see… That must be painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:36:33",
+      "origin": "営業なので、仕方ないとは思っているんですよね。",
+      "content": "Since it's a sales job, I feel like it's unavoidable."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:37:00",
+      "origin": "そのように思っているのですね。",
+      "content": "So that's how you see it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:37:24",
+      "origin": "とは言いつつも、しんどい思いをすることが多いのではないでしょうか。",
+      "content": "Even so, I imagine there are many times when it feels very tough."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:38:02",
+      "origin": "多いですね、日によりますが、嫌だなーと思ってしまうこともあります。",
+      "content": "Yes, quite often. It depends on the day, but sometimes I just think, \"I hate this.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:39:12",
+      "origin": "なんとも思わない日もありますが、やっぱりメンタル削られてるってことですかね？",
+      "content": "There are days when it doesn't bother me, but I guess it's taking a toll on my mental health, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:39:42",
+      "origin": "そうなのですね。そう思うくらい、辛いお気持ちになったりするのですね。",
+      "content": "I see. So you have moments where you feel distressed enough to think that."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:40:40",
+      "origin": "はい、いらないって言われてガチャって強く受話器置かれたり、迷惑なんだよとか言われます。",
+      "content": "Yes, people will say, \"I don't want it\" and slam the phone down, or tell me things like, \"You're a nuisance.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:41:30",
+      "origin": "どうでしょう・・・でもそれだけ心にダメージを受けやすいお仕事であり、それは誰にでもできる仕事ではないと思いますよ。",
+      "content": "Well... it’s a job that can take a real emotional toll, and I don’t think it’s something just anyone can do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:41:45",
+      "origin": "そうなんですね・・・それは悲しくなりますね。",
+      "content": "I see... That must make you feel sad."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:42:13",
+      "origin": "まあ、時給がいいので妥当かなとは思っていますが。",
+      "content": "Well, the hourly pay is good, so I figure it’s fair enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:43:11",
+      "origin": "そうなんですね。今のお仕事は勤めてどれくらいになるのですか？",
+      "content": "I see. How long have you been at your current job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:43:28",
+      "origin": "ちょうど3ヶ月目くらいです。",
+      "content": "It's been about three months now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:44:02",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:44:39",
+      "origin": "アルバイトなので好きに辞めようと思えば辞めれるのですが、なんだかなーって思ってます。",
+      "content": "It's a part-time job, so I can quit if I want to, but I'm not sure..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:45:46",
+      "origin": "ええ、そう思うのですね。なんだかなーというと、どんなことが引っかかっている感じでしょうか？",
+      "content": "Yes, I understand. When you say you're \"not sure,\" what is it that's holding you back?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:46:46",
+      "origin": "もし辞めるとしたら、次の仕事を探さなきゃですし、生活費も稼がなきゃだしって感じです。",
+      "content": "If I were to quit, I'd have to find another job, and I also have to earn enough to cover my living expenses, that sort of thing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:48:10",
+      "origin": "ええ。次のお仕事も生活費も何とかする必要があるのですね。",
+      "content": "Right. You would need to figure out both your next job and your living expenses."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:49:03",
+      "origin": "はい、仕事しなきゃなのは分かってますが、今が嫌すぎて逃避したいくらいです。",
+      "content": "Yes, I know I have to work, but I hate my current situation so much that I just want to escape."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:50:06",
+      "origin": "そうなのですね。それだけ今のお仕事で嫌な思いをされているのですね。",
+      "content": "I see. That's how much you're struggling with your current job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:50:44",
+      "origin": "あなたのお気持ちとしては、今のところ「転職」と「今の仕事を続ける」では、どちらをお考えなのでしょうか？",
+      "content": "As for how you're feeling right now, between ‘changing jobs’ and ‘continuing your current job,’ which are you leaning toward?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:51:30",
+      "origin": "うーん、次探す方がより面倒だと思っているので、その2つであれば続ける、ですかね。",
+      "content": "Hmm, I think looking for a new job would be more of a hassle, so between those two, I'd say continue, I guess."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:52:00",
+      "origin": "でも仕事に行きたくないですし",
+      "content": "But I don't want to go to work."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:52:15",
+      "origin": "どうしたもんかなーと。",
+      "content": "I'm not sure what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:52:44",
+      "origin": "なるほど・・・そのようにお考えなのですね。",
+      "content": "I see... so that's what you're thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:55:28",
+      "origin": "仕事に行きたくないと思うほど、今のお仕事で嫌な思いをされていることが伝わってきますが、",
+      "content": "I can tell that you're having such a hard time at your current job that you don't want to go, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:56:06",
+      "origin": "次探す方がより面倒というのは、どうしてそう感じるのでしょうか？",
+      "content": "...why do you feel that looking for a new job would be more of a hassle?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:57:19",
+      "origin": "履歴書を書いたり、面接したり、時間とエネルギーをまた使わなきゃいけないのかーって思うからです。",
+      "content": "Because I'd have to write resumes, go to interviews, and spend all that time and energy again."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:57:39",
+      "origin": "そもそも次探すところからってのもありますし",
+      "content": "And on top of that, I'd have to start from the very beginning of just looking for a new job."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T19:57:49",
+      "origin": "あんまり時間は使いたくないなーと。",
+      "content": "I don't really want to spend too much time on it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T19:58:51",
+      "origin": "なるほど・・・時間とエネルギーをたくさん使うのは確かに手間がかかりますね。",
+      "content": "I see... Using a lot of time and energy is certainly a hassle."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:00:53",
+      "origin": "そうすると今の時点ではしばらく今の仕事を続けていこうかとお考えなのですね。",
+      "content": "So it sounds like, for now, you're thinking of continuing with your current job for a while."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:01:11",
+      "origin": "どちらかと言えば、ですが、、、",
+      "content": "If I had to choose, yes, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:02:15",
+      "origin": "ちなみに、今の職場の上司にはクレーマー対応のことを相談したりしているのでしょうか？",
+      "content": "By the way, have you spoken to your supervisor about dealing with difficult customers?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:03:02",
+      "origin": "相談といいますか、一応付きものという前提があるんですよ。",
+      "content": "It's not so much a consultation; it's just assumed to be part of the job."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:03:20",
+      "origin": "たぶん相談したところで、辞めたら？としか言われない気がします、、",
+      "content": "I have a feeling that even if I did talk to them, they would just say, \"Why don't you quit then?\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:04:03",
+      "origin": "じゃあなんでやってるんだと言われたら、何も言い返せません、、",
+      "content": "And if they asked, ‘Then why are you still doing it?’ I wouldn’t have anything to say back."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:04:35",
+      "origin": "そうなんですね・・・そうすると、仕事のしんどさを誰にも言わず、今まで一人で抱え込んできたのですね。",
+      "content": "I see... So you've been shouldering the burden of your work struggles all by yourself without telling anyone."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:05:23",
+      "origin": "そうですね、最初は気にしてなかったんですけど、徐々に気になり始めまして。",
+      "content": "That's right. It didn't bother me at first, but gradually it started to get to me."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:05:46",
+      "origin": "今では、あー行きたくないって思っちゃいます。",
+      "content": "Now, I find myself thinking, \"Ugh, I don't want to go.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:06:55",
+      "origin": "そうでしたか。あなたのしんどい気持ちを分かってもらえそうにないのは悲しいですね。",
+      "content": "I see. It's sad that it feels like they won't understand how difficult this is for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:08:51",
+      "origin": "いつも、クレーマー対応の後は、どうやり過ごしているのですか？",
+      "content": "How do you usually cope after dealing with a difficult customer?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:09:30",
+      "origin": "その日が終わるまでひたすら我慢してやってます。",
+      "content": "I just grit my teeth and endure it until the day is over."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:10:19",
+      "origin": "ええ・・・いつも耐え凌いでいるのですね。",
+      "content": "I see... you're always just toughing it out."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:11:38",
+      "origin": "その我慢している気持ちを表現するとしたら、どんな感じですか？例えば、",
+      "content": "If you were to put that feeling of endurance into words, what would it be like? For example,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:12:35",
+      "origin": "腹が立つとか、いい加減にしてほしいとかです。",
+      "content": "...something like \"I'm angry\" or \"I wish they would just stop.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:13:13",
+      "origin": "うーん、早く終わってくれ、ですかね。",
+      "content": "Hmm, I guess it would be, \"Just let this be over quickly.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:13:56",
+      "origin": "ええ。そう思うのは最もだと思います。他にはどんなことがありそうですか？",
+      "content": "Yes. It's completely understandable to feel that way. What else might be there?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:14:31",
+      "origin": "どんなこと、と言いますと？",
+      "content": "When you say ‘what else,’ what do you mean?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:14:42",
+      "origin": "感情のことですか？",
+      "content": "Do you mean emotions?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:14:59",
+      "origin": "はい。どんな感情がありますか？",
+      "content": "Yes. What kind of emotions do you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:15:20",
+      "origin": "辛い、ですかね。",
+      "content": "Painful, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:16:32",
+      "origin": "ええ。そんなお気持ちですね。",
+      "content": "Yes. That's how you feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:17:29",
+      "origin": "今、感情のお話をしたのは、",
+      "content": "The reason I asked about your emotions just now is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:19:27",
+      "origin": "普段、我慢したり溜め込んでいる感情を吐き出すことで、わずかかもしれませんが心がスッキリする効果があります。",
+      "content": "...that by letting out the emotions you usually endure and keep bottled up, it can help clear your mind, even if just a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:20:04",
+      "origin": "確かに、ちょっと楽になったかもしれません。",
+      "content": "You're right, I feel a bit lighter now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:21:46",
+      "origin": "そう思ってくれて良かったです。こうやって第三者に話すのも一つですし、もし、職場で共感してくれそうな人がいなければ、（家とかで）紙に今の感情を書き出し、それを破いたり、丸めて捨てるのも一つですよ。",
+      "content": "I’m glad to hear that. Talking to a third party like this is one option. And if there isn’t anyone at work who seems empathetic, another way is to write down your current feelings on a piece of paper (at home, for example), and then rip it up or crumple it and throw it away."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:22:11",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:23:19",
+      "origin": "後はご友人などに、クレーマーのことを笑いのネタにするのも、ありかもしれませんね。",
+      "content": "Another idea might be to turn your experiences with difficult customers into funny stories to tell your friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:24:39",
+      "origin": "そうすることで、もしクレーマー対応になった時に、「笑いのネタにしてやる」と思うことで、少しだけダメージは避けれるかもしれません。",
+      "content": "By doing that, when you have to deal with a difficult customer, you might be able to lessen the emotional impact by thinking, \"I'm going to turn this into a funny story.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:24:57",
+      "origin": "なるほど、やってみます。",
+      "content": "I see, I’ll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:26:22",
+      "origin": "ええ。私がお伝えしたことは参考程度に、あなたなりにやってみてくださいね。",
+      "content": "Yes. Please take what I've said just as suggestions and try to find what works for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:26:34",
+      "origin": "分かりました。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:27:02",
+      "origin": "ひどいことを言われたら傷つくのは自然なことだと思います。だからこそあなたはメンタルが弱いわけではありませんからね。",
+      "content": "It’s natural to feel hurt when people say harsh things to you. That doesn’t mean you’re mentally weak."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:27:49",
+      "origin": "そうだったんですね。",
+      "content": "I didn't realize that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:29:16",
+      "origin": "ええ。そして転職の話ですが、転職するかしないかはあなた自身があなたのタイミングで決めていいですからね。",
+      "content": "Yes. And regarding changing jobs, whether you do it or not is something you can decide for yourself, at your own pace."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:29:30",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:30:11",
+      "origin": "ただ人間の脳の性質上、面倒なことはストレスを感じ、避けたがる習性があります。",
+      "content": "However, it's in the nature of the human brain to find tedious tasks stressful and to have a tendency to avoid them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:31:10",
+      "origin": "なので面接や履歴書などを面倒だと思うのは自然なことだと思いますが、それを終わった後には「あれ、意外と面倒くないかも」と思うかもしれません。",
+      "content": "So, it’s natural to feel that interviews and resumes are a hassle, but after you get through them, you might find yourself thinking, ‘Huh, that wasn’t as bad as I thought.’"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:31:38",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:32:02",
+      "origin": "（お疲れ様でした。キリの良いところでロープレ完了して下さい。）",
+      "content": "(Thank you for your hard work. Please conclude the role-play at a good stopping point.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:32:50",
+      "origin": "あなたが今日ここに来てくださったのは勇気のある行動であり、前進したいお気持ちからだと思います。またあなたのお役に立てたらと思うので、話たいことがあったらいつでもお越しくださいね。",
+      "content": "Coming here today was a courageous step, and I believe it shows your desire to move forward. I would be happy to help you again, so please feel free to come back anytime you want to talk."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:33:03",
+      "origin": "分かりました。ありがとうございます。",
+      "content": "I understand. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:33:13",
+      "origin": "本日はありがとうございました。お時間となりましたので終了させていただきますね。",
+      "content": "Thank you for your time today. Our time is up, so we'll conclude the session here."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:33:51",
+      "origin": "あなたのこれからを応援しています。それではこれで終了いたします。お疲れ様でした。",
+      "content": "I’ll be rooting for you going forward. With that, we'll end here. Thank you for your time."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-20T20:34:13",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:34:18",
+      "origin": "（ロープレお疲れ様でした。お時間長引いてすみません。）",
+      "content": "(Thank you for the role-play. I'm sorry we went over time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-20T20:34:50",
+      "origin": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）",
+      "content": "(I would appreciate it if you could provide feedback when you have a moment. Thank you. I will end the session now. Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "転職の不安と面倒さについて"
+  },
+  "review_by_client": {
+    "evaluation_id": 5093,
+    "evaluation_created_at": "2023-05-20T21:15:00",
+    "client_id": 342,
+    "counselor_id": 136,
+    "score": 63,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-12-17T21:24:36",
+      "origin": "(こんばんは。よろしくお願いいたしま¥",
+      "content": "(Good evening. Thank you for your time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:24:42",
+      "origin": "(本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）",
+      "content": "(Thank you for coming today. We will begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:25:43",
+      "origin": "(こんばんは。よろしくお願い致します)",
+      "content": "(Good evening. Thank you for your time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:29:58",
+      "origin": "ご相談ありがとうございます。相談員です。始めに年齢と性別を教えてください。",
+      "content": "Thank you for reaching out. I'm your counselor. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:30:45",
+      "origin": "28歳、女性です。",
+      "content": "I'm 28 years old and female."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:31:48",
+      "origin": "ありがとうございます。ご相談内容を教えてください。",
+      "content": "Thank you. Please tell me what you'd like to talk about."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:32:06",
+      "origin": "子育てが辛いです",
+      "content": "Parenting is hard for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:32:59",
+      "origin": "そうなんですね、子育てがお辛いのですね。お子様は何歳ですか？",
+      "content": "I see, so you're finding parenting difficult. How old is your child?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:33:31",
+      "origin": "1歳です",
+      "content": "One year old."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:34:45",
+      "origin": "お子様はお小さいのですね。色々と慣れないことがおありなのでしょうか？",
+      "content": "Your child is still very young. Are there many things you're still getting used to?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:35:44",
+      "origin": "慣れないせいなんでしょうか？",
+      "content": "Do you think it's because I'm not used to it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:36:51",
+      "origin": "失礼いたしました。どういったことでおなやみなのですか？",
+      "content": "My apologies. What specifically is troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:38:57",
+      "origin": "あまり寝てくれないし、疲れてしまいます",
+      "content": "They don't sleep much, and it's making me exhausted."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:39:59",
+      "origin": "そうなのですね、それではご相談者様が疲れてしまいますよね。",
+      "content": "I see, that must be very tiring for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:40:11",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:41:47",
+      "origin": "お時間をとって、お休みはとられていますか？",
+      "content": "Have you been able to make time to rest?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:43:11",
+      "origin": "ごめんなさい、ちょっと質問が理解できないのですが。仕事の休みということですか？",
+      "content": "I'm sorry, I don't quite understand the question. Do you mean time off from work?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:45:42",
+      "origin": "失礼いたしました。お仕事があってお子様が夜寝てくれないのがお悩みなのでしょうか？",
+      "content": "My apologies. Is your concern that you're working and your child doesn't sleep at night?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:47:02",
+      "origin": "いえ、仕事は今、育休中です",
+      "content": "No, I'm currently on parental leave."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:48:01",
+      "origin": "そうなんですね。では今はフルタイムで育児をなさっている、ということですね。",
+      "content": "I see. So you're caring for your child full-time right now."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:48:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:50:44",
+      "origin": "そうなんですね、お子様がお小さいとなんでもお母様を呼ぶときは、泣いて呼びますものね。",
+      "content": "I understand. When children are that young, they cry whenever they need their mother."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:51:11",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:51:30",
+      "origin": "気持ちが鎮まる時が、なかなか取れないですよね。",
+      "content": "It must be hard to find a moment of peace."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:51:55",
+      "origin": "それはお辛いですね。",
+      "content": "That must be very hard."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:52:17",
+      "origin": "そうですね",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:54:10",
+      "origin": "ご相談者様の周りで、だれかお手伝いしてくださる方はいますか？",
+      "content": "Is there anyone around you who can help?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:54:36",
+      "origin": "いいえ、いません",
+      "content": "No, there isn't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:55:37",
+      "origin": "そうなんですね、それではおひとりで今も子育てをなさっているのですね。",
+      "content": "I see, so you're raising your child all by yourself right now."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:56:37",
+      "origin": "あ、すみません、もしかしたら勘違いしてたかもしれません。夫はいます。",
+      "content": "Oh, sorry—I may have given the wrong impression. I do have a husband."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:57:28",
+      "origin": "そうなんですね。でもご主人様はお手伝いはしていただけているのでしょうか？",
+      "content": "I see. But is your husband able to help out?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:58:12",
+      "origin": "いえ、仕事で出張不在が多いです",
+      "content": "No, he's away on business trips a lot."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T21:59:01",
+      "origin": "なるほど、では必然的にお一人、ということなのですね。",
+      "content": "I understand, so essentially, you're on your own."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T21:59:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:00:41",
+      "origin": "ご両親様はお近くにお住まいではないのですか？",
+      "content": "Don't your parents live nearby?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:01:58",
+      "origin": "住んでいますが、残念ながら手伝ってはくれません",
+      "content": "They do, but unfortunately, they don't help."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:02:37",
+      "origin": "そうなのですね、それはどうしてなのですか？",
+      "content": "I see. May I ask why that is?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:04:44",
+      "origin": "うーん、、、",
+      "content": "Hmm..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:05:17",
+      "origin": "何か言いずらいことがおありなのでしょうか？",
+      "content": "Is there something that's hard to talk about?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:05:59",
+      "origin": "それでしたら、無理に答えなくても結構ですよ。",
+      "content": "If so, you don't have to answer if you're not comfortable."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:06:23",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:06:35",
+      "origin": "それよりもご相談者様のお体が心配です。",
+      "content": "More importantly, I'm concerned about your well-being."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:07:26",
+      "origin": "ご相談者様は、どうなさりたいとお考えですか？",
+      "content": "What is it that you would like to be able to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:08:21",
+      "origin": "気持ちに余裕がなくなってくるので、ゆっくり寝たいです",
+      "content": "I'm losing emotional room to breathe, so I'd like to get some proper sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:09:04",
+      "origin": "そうなんですね、、。ゆっくりとお休みしたいですよね。",
+      "content": "I see... You just want to get a good rest, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:09:20",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:10:08",
+      "origin": "このままだと、そのうち子供に当たってしまいそうで、怖いんです",
+      "content": "If this continues, I'm afraid I might end up taking it out on my child."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:10:39",
+      "origin": "それくらいお疲れなんですね。",
+      "content": "That shows just how exhausted you are."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:10:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:11:58",
+      "origin": "どこかお子様を一時的に預かってくださる場所など、調べたことはおありですか？",
+      "content": "Have you looked into any places that can temporarily take care of your child?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:12:44",
+      "origin": "はい、あります",
+      "content": "Yes, I have."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:13:28",
+      "origin": "そうなんですね、そこには連絡はされましたか？",
+      "content": "I see. Have you contacted them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:13:43",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:14:24",
+      "origin": "それはなぜなのでしょうか？何か不都合がおありなのですか？",
+      "content": "Why is that, if I may ask? Is there some difficulty?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:15:08",
+      "origin": "かわいそう、自分で育てなさいと言われました",
+      "content": "I was told, 'Poor thing—raise your child yourself.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:15:42",
+      "origin": "そうなんですね、それはどなたに言われたのですか？",
+      "content": "I see. Who said that to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:16:09",
+      "origin": "親です",
+      "content": "My parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:17:10",
+      "origin": "ご両親様がそういわれたのですね。それを聞いてご相談者様はどう思われましたか？",
+      "content": "Your parents said that. How did you feel when you heard it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:17:39",
+      "origin": "従わなきゃと思いました",
+      "content": "I felt I had to obey."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:18:57",
+      "origin": "そうなのですね、なぜそう思われるのですか？",
+      "content": "I see. Why do you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:20:23",
+      "origin": "なんとなく……",
+      "content": "I just... I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:20:56",
+      "origin": "怖いんです",
+      "content": "I'm scared."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:21:44",
+      "origin": "そうなんですね、怖い、とはなぜそういう思いがあるのですか？",
+      "content": "I understand. What is it that makes you feel scared?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:23:33",
+      "origin": "親は絶対なので、逆らえません",
+      "content": "My parents are absolute authority, so I can't go against them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:24:37",
+      "origin": "そうなのですね、そのように思われてお育ちになられたのですね。",
+      "content": "I see. You were raised to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:24:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:25:36",
+      "origin": "ご相談者様にとって、ご両親様はどのような存在なのですか？",
+      "content": "What kind of presence are your parents in your life?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:26:05",
+      "origin": "怖い人たちです",
+      "content": "They are scary people."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:27:09",
+      "origin": "そうなのですね、それではご実家に行くのもはばかられますよね。",
+      "content": "I see. Then you must be reluctant to even visit your parents' home."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:27:36",
+      "origin": "はい子供を連れて行かないのは、守るためです",
+      "content": "Yes. I don't take my child there in order to protect them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:28:45",
+      "origin": "そうなのですね、、。もしよろしければ、幼少期のことをお聞かせください。",
+      "content": "I see... If you don't mind, could you tell me about your childhood?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:29:29",
+      "origin": "虐待されてました。",
+      "content": "I was abused."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:30:00",
+      "origin": "だから、わたしもカッとなると、子供に同じことしちゃうんじゃないかと、怖いんです",
+      "content": "So I'm afraid that if I lose my temper, I might do the same to my child."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:32:01",
+      "origin": "それはお辛い思い出ですね。ご相談者の過去を考えて、ご両親様には子供に合わせない、もしかしたら同じ思いをさせてしまうかもしれない、と思われているのですね。",
+      "content": "That's a painful memory. Considering your past, you choose not to let your parents meet your child because you think they might make your child feel the same way."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:32:20",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:33:05",
+      "origin": "またご自身もお子様に同じことをしてしまうのではないかと思われているのですね、、。",
+      "content": "And you also fear that you yourself might do the same to your child."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:33:25",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:33:49",
+      "origin": "それは本当に辛い記憶ですね。",
+      "content": "Those are truly painful memories."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:34:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:34:35",
+      "origin": "でもおひとりでここまで頑張られてきたのですね。",
+      "content": "But you've worked so hard on your own to get this far."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:34:54",
+      "origin": "頭が下がる思いです。",
+      "content": "I have so much respect for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:35:57",
+      "origin": "ありがとうございます。ただ、子供が寝てくれないと、冷静でいられなくて辛いです。",
+      "content": "Thank you. But when my child doesn't sleep, I can't stay calm, and it's tough."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:36:27",
+      "origin": "何で寝てくれないの、って、怒鳴りそうになります",
+      "content": "I feel like I'm about to yell, 'Why won't you sleep?!'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:37:37",
+      "origin": "そうですよね、睡眠がしっかりとれないと、いらいらしますよね。。",
+      "content": "I understand. It's natural to get irritable when you can't get enough sleep."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:38:09",
+      "origin": "はいゆっくり寝たいです",
+      "content": "Yes. I just want to get some good sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:39:09",
+      "origin": "もっとお話をお聞きしたいので、またお時間を見つけてきていただけますか？相談員はいつでもご相談者様を応援しています。",
+      "content": "I'd like to hear more—could you find another time to come again? I'm always here to support you."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:39:35",
+      "origin": "わかりました。ありがとうございました。",
+      "content": "I understand. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:41:21",
+      "origin": "(お疲れさまでした。ありがとうございました)",
+      "content": "(Thank you for your time. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:41:46",
+      "origin": "やはり一時的に預かっていただくのが良いかと思いますが、それをしてみるのもご両親様とは違う、という意思表示だと思います。",
+      "content": "I do think using temporary childcare would be good; doing so is also a way of expressing that you are different from your parents."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:43:10",
+      "origin": "意思表示、、そうかもしれませんね。",
+      "content": "A way of expressing myself... you might be right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:43:12",
+      "origin": "お体大切になさってください。（長くなってしまい、失礼いたしました。）これで終わりにしたいと思います。",
+      "content": "Please take care of yourself. (My apologies for the long session.) I'd like to conclude here."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T22:43:35",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T22:43:59",
+      "origin": "ありがとうございました。ご相談者様のお幸せをお祈りしています。",
+      "content": "Thank you. I wish you all the best."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親からのプレッシャーによる子育ての不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 6143,
+    "evaluation_created_at": "2023-12-18T00:25:00",
+    "client_id": 420,
+    "counselor_id": 439,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

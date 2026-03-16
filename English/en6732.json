@@ -1,0 +1,603 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:21:03",
+      "origin": "（こんにちは。本日はよろしくお願いします。お時間になったら始めさせていただきます。）",
+      "content": "(Hello. Thank you for coming today. We will begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:24:14",
+      "origin": "（こちらこそ宜しくお願いします）",
+      "content": "(Thank you as well. I look forward to our session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:30:09",
+      "origin": "こんにちは。相談員です。はじめに、年齢と性別、相談内容を教えていただけますか。",
+      "content": "Hello. I'm a counselor. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:30:42",
+      "origin": "16歳女部活に行きたくない",
+      "content": "16 years old, female. I don't want to go to club activities."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:31:40",
+      "origin": "そうなんですね。どうして部活に行きたくないと思っているのか、教えてくれますか？",
+      "content": "I see. Could you tell me why you feel you don't want to go to club activities?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:31:50",
+      "origin": "先生が、きらい",
+      "content": "I don't like the coach."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:32:29",
+      "origin": "そうなんですね。ちなみに、何の部活をされているんですか？",
+      "content": "I see. By the way, what club are you in?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:32:41",
+      "origin": "バレーボールです",
+      "content": "Volleyball."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:33:31",
+      "origin": "教えてくれてありがとうございます。先生の、どんなところが「きらい」と感じてますか？",
+      "content": "Thank you for sharing. What is it about the coach that makes you feel that you don't like him?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:34:00",
+      "origin": "怒る、話が長い、先生の世話をさせられる、、たくさんあります",
+      "content": "He gets angry, talks on and on, and makes us take care of him... There are a lot of things."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:35:25",
+      "origin": "そうですか、そんなに先生に嫌なところがたくさんあると、部活に行くのもしんどくなりますよね。",
+      "content": "I see. With so many things you dislike about the coach, it must be really tough to go to club activities."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:35:35",
+      "origin": "しんどい",
+      "content": "It is tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:36:28",
+      "origin": "ええ、きついですね。「先生の世話をさせられる」というのは、どんなことをさせられるんですか？",
+      "content": "Yes, that sounds tough. When you say you're \"made to take care of the coach,\" what kinds of things are you asked to do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:37:02",
+      "origin": "お茶をだす、靴を用意する、雨が降ったら傘をさす",
+      "content": "Serve tea, prepare his shoes, and hold an umbrella for him when it rains."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:37:57",
+      "origin": "・・え、そんなことまでさせられるんですか・・？それはちょっと度が過ぎている気がしますね。",
+      "content": "...Oh, you're made to do all that? That seems a bit excessive."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:38:41",
+      "origin": "先生がしろとは言わないけど、伝統なんです。先生もやめましょうとは言わない、、",
+      "content": "The coach doesn't explicitly tell us to do it, but it's a tradition. And he also doesn't say we should stop."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:39:08",
+      "origin": "先生の誕生日プレゼントやら結婚記念日のプレゼントまで",
+      "content": "Even birthday presents and wedding anniversary presents for the coach."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:40:20",
+      "origin": "なるほど。それが当たり前のようになっているんですね。え、結婚記念日のプレゼントまで・・？それを先生も受け取っているということなんですね。",
+      "content": "I see. So it's become the norm. Wow, even wedding anniversary gifts...? And the coach accepts them."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:40:26",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:40:39",
+      "origin": "他の部活のお友達はいかがですか？同じようなことをされているんでしょうか？",
+      "content": "What about your friends in other clubs? Do they have to do similar things?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:41:19",
+      "origin": "私はマネージャーなんで、私の仕事なんです。プレゼントはみんなからお金はもらって買いにいきます",
+      "content": "I'm a manager, so it's my job. For the presents, I collect money from everyone and go buy them."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:42:33",
+      "origin": "そうだったんですね。では、あなたにだけ負担がかかっているような状況なんですね。他にマネージャーの子はいるんでしょうか？",
+      "content": "I see. So the burden is falling particularly on you. Are there any other managers?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:42:47",
+      "origin": "あと二人います",
+      "content": "There are two others."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:43:30",
+      "origin": "そのお二人とは、このことについて、何か話したりされていますか？",
+      "content": "Have you talked about this with the other two managers?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:43:50",
+      "origin": "はいみんな辞めたいって",
+      "content": "Yes, everyone says they want to quit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:45:03",
+      "origin": "そう思っちゃいますよね・・。辞めることについては、どう思われますか？",
+      "content": "That's understandable... How do you feel about quitting?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:45:57",
+      "origin": "私も辞めたいですでも楽しい日もあるし、、内申点もあるし、、",
+      "content": "I want to quit too... but some days are fun, and there's also the matter of my school record..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:47:27",
+      "origin": "そうなんですね。楽しいこともある分、簡単には辞めれず悩ましいですよね。内申点も気になるんですね。",
+      "content": "I see. The fact that there are also fun times makes it hard to just quit. It's a difficult situation. And you're concerned about your school record, too."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:47:35",
+      "origin": "はい、、",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:48:01",
+      "origin": "マネージャー以外の、部活のお友達は、どう感じているんでしょうか？",
+      "content": "How do your friends in the club who aren't managers feel about it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:48:54",
+      "origin": "2年生は辞めたいって3年はわかりません、夏までだし、、1年は入ったばかりです",
+      "content": "The second-years say they want to quit. I'm not sure about the third-years; it's only until summer for them... and the first-years just joined."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:49:32",
+      "origin": "何人かは残りたいって人もいます。強豪校なので",
+      "content": "Some people want to stay, since we're a powerhouse school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:50:09",
+      "origin": "そうなんですね。みんな、色々な思いを抱えて悩んでいるんですね。",
+      "content": "I see. So everyone is struggling with different feelings and concerns."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:50:20",
+      "origin": "遊ぶ暇もないし",
+      "content": "I don't have any time to hang out, either."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:50:29",
+      "origin": "遊びたい！",
+      "content": "I want to have fun!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:51:06",
+      "origin": "１６歳ですし、一番遊びたい時期ですよね！",
+      "content": "You're 16—it's the time you most want to have fun!"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:51:15",
+      "origin": "はい！",
+      "content": "Yeah!"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:51:32",
+      "origin": "青春が先生の世話で終わっちゃう",
+      "content": "My youth is going to be wasted just taking care of the coach."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:51:53",
+      "origin": "それはとても悲しいですね・・。部活を辞めたとしたら、どんなことをしたいですか？",
+      "content": "That's really sad... If you were to quit the club, what would you like to do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:52:38",
+      "origin": "今、土日は全部試合なので、、土日に遊園地とか彼氏も欲しい！",
+      "content": "Right now, all my weekends are taken up by games... I want to go to an amusement park on the weekend, and I want a boyfriend, too!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:53:15",
+      "origin": "それは楽しそうですね！恋愛もしたいですよね。",
+      "content": "That sounds fun! You'd like to experience dating, too."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:53:31",
+      "origin": "はい友達が羨ましい！",
+      "content": "Yes! I'm so envious of my friends!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:54:02",
+      "origin": "他のお友達は、そんな風に過ごしているんですね。",
+      "content": "So your other friends are spending their time like that."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:55:09",
+      "origin": "はい可愛い服きてストーリー上げて、、私はマネージャーなのにめちゃくちゃショートカットで",
+      "content": "Yes, they wear cute clothes and post stories... but even though I'm a manager, I have a super short haircut."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:55:17",
+      "origin": "刈り上げ",
+      "content": "An undercut."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:56:10",
+      "origin": "そうなんですね。それは、なにか決まりとかがあるんですか？",
+      "content": "I see. Is there some kind of rule about that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:56:38",
+      "origin": "先生が切ってこいって",
+      "content": "The coach told us to get it cut."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:56:50",
+      "origin": "みんなそうだから",
+      "content": "Because everyone else does."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:57:20",
+      "origin": "え！そうなんですね。とても厳しい雰囲気が伝わってきました・・",
+      "content": "Oh! I see. I'm getting a sense of a very strict atmosphere..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:57:48",
+      "origin": "バレー部はどこの学校も強いとこはみんなそんな感じ",
+      "content": "In volleyball, all the strong schools are like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:58:29",
+      "origin": "そうなんですね。そんな厳しい状況の中、がんばっているんですね。",
+      "content": "I see. You've been working hard in such a tough situation."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:58:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:58:48",
+      "origin": "少し、これまでのお話をまとめさせていただきたいのですが、",
+      "content": "I'd like to summarize what we've talked about so far, if that's okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T11:59:24",
+      "origin": "あなたの中には、先生のお世話などが嫌で部活を辞めたい気持ちと、楽しいこともあったり内申点も気になるので簡単には辞められないという気持ち、両方の気持ちがあるんですね。",
+      "content": "It seems you have two conflicting feelings: on one hand, you want to quit the club because you dislike taking care of the coach and other things, but on the other hand, you can't easily quit because there are fun aspects and you're concerned about your school record."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T11:59:54",
+      "origin": "そうです",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:00:34",
+      "origin": "辞めたい気持ちと、辞めたくない気持ち、どちらかというと、どっちが強い感じですか？",
+      "content": "Between the feeling of wanting to quit and not wanting to quit, which one feels stronger?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:00:47",
+      "origin": "辞めたい",
+      "content": "I want to quit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:01:26",
+      "origin": "ええ、それほどしんどい思いをしてこられたんですよね。",
+      "content": "Yes, it shows just how much you've been struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:01:45",
+      "origin": "辞めることで、一番気がかりなのはどんなことですか？",
+      "content": "What is your biggest concern about quitting?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:02:58",
+      "origin": "この前一人辞めて、その時も辞めさせないとか言って、保護者会まで開いて大変そうで、、その子はめっちゃ説得されてて",
+      "content": "Someone quit recently, and they were saying they wouldn't let her quit; they even held a parents' meeting—it was a huge ordeal... They really pressured her to stay."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:03:26",
+      "origin": "怒られるのが怖い",
+      "content": "I'm scared of being yelled at."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:04:04",
+      "origin": "そんなことがあったんですか・・。そんな話を聞いたら、「辞めたい」ってとても言いづらいですよね・・。",
+      "content": "That happened...? After hearing a story like that, it must be very difficult to say you want to quit..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:04:26",
+      "origin": "はいめちゃくちゃ話長くて、怖くて",
+      "content": "Yes, they talk forever, and it's scary."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:04:51",
+      "origin": "辞めた子は親が出てきて何とかやめられた",
+      "content": "The girl who quit only managed to leave because her parents stepped in."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:05:17",
+      "origin": "そんなに大変だったんですね・・。",
+      "content": "It was that much of an ordeal..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:05:34",
+      "origin": "あなたは、ご家族にこのことはご相談されているんですか？",
+      "content": "Have you discussed this with your family?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:05:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:06:07",
+      "origin": "ご家族の方は、なんと仰っていますか？",
+      "content": "What does your family say?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:07:40",
+      "origin": "父はそんなとこで礼儀とかを学ぶと将来役に立つって母はそんな今時じゃない考え方は変だから辞めていいよって",
+      "content": "My dad says learning things like etiquette in a place like that will be useful in the future, but my mom says that way of thinking is old-fashioned and strange, and that it's okay for me to quit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:08:21",
+      "origin": "ご両親でも、考え方が違う感じなんですね。あなたはお父様とお母様のお話を聞いて、どう思いましたか？",
+      "content": "So even your parents have different views. After hearing what your father and mother had to say, what did you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:09:55",
+      "origin": "どっちもわかるけど私はもう我慢したくないけど先生にいいに行くのは怖い母はやめたらいいって言うけど自分で何とかしなさいってもう高校生だから",
+      "content": "I can understand both sides, but I don't want to endure it anymore. But I'm scared to go tell the coach. My mom says I can quit, but she also says I have to handle it myself since I'm a high school student now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:11:54",
+      "origin": "ええ、あなたは、自分の気持ちをしっかり分かっているんですね。とても大切な気持ちだと思います。でも、それを先生に伝えるのは怖いですよね。例えば、他の先生など、学校で相談できそうな大人の人は誰かいませんか？",
+      "content": "Yes, it sounds like you know your own feelings very well. I think those feelings are very important. But it's scary to tell that to your coach, isn't it? For example, is there another teacher or any other adult at school you feel you could talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:12:20",
+      "origin": "いないボス的な先生",
+      "content": "No—the coach is like the boss."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:12:40",
+      "origin": "うちはバレーボールしか強く無くて",
+      "content": "At my school, only the volleyball team is strong."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:13:32",
+      "origin": "そうでしたか・・。それはなかなか悩ましいですね。",
+      "content": "I see... That makes it quite a dilemma."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:13:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:16:11",
+      "origin": "このように辞めるのがとても難しい状況は、お母様も知っているんでしょうか？",
+      "content": "Does your mother know that it's this difficult to quit?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:17:25",
+      "origin": "んーどうだろう私が怒られるのが怖い人なのは知ってるから私がいい出せないだけど思ってるかも",
+      "content": "Hmm, I'm not sure. She knows I'm the type of person who's afraid of being yelled at, so she might just think I can't bring myself to say it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:19:40",
+      "origin": "ええ、そうなんですね。例えば、この前辞めた子の話をしてみて、辞めたいけど辞めるのがとても難しいから困っているというあなたのお気持ちを、一度しっかり伝えてみるのも、一つの方法かと感じましたがいかがでしょうか？",
+      "content": "I see. For example, perhaps one option could be to tell her about the student who quit recently, and clearly explain your own feelings—that you want to quit but you're struggling because it's so difficult. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:20:49",
+      "origin": "強くなれって言われそうだけど、、言ってみよいかな",
+      "content": "She might tell me to toughen up... but maybe I should try telling her."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:22:25",
+      "origin": "ええ、一度しっかり伝えてみると、相談にのってくれたり、辞めることに協力してくれるかもしれませんね。",
+      "content": "Yes, if you try explaining it to her clearly, she might listen to your concerns or even help you with the process of quitting."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:22:56",
+      "origin": "はいそっちの方が頑張れそう",
+      "content": "Yes, that seems more manageable."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:24:24",
+      "origin": "ええ、お話してみて、もし上手くいかなかったり、また悩むことがあれば、また一緒にどうすればいいか考えていけたらな、と思います。",
+      "content": "Yes. And if you talk to her and it doesn't go well, or if you find yourself struggling again, I hope we can think about what to do next together."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:24:46",
+      "origin": "はいありがとうございます",
+      "content": "Okay, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:24:51",
+      "origin": "そろそろ終了のお時間となりますが、本日はお話してみていかがでしたか？",
+      "content": "It's almost time for our session to end. How did you feel about talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:26:11",
+      "origin": "やめられないと思ってたから、、お母さんにちゃんと言ってみるってことが、思いつかなかったです。",
+      "content": "I thought I'd never be able to quit... It didn't occur to me to try properly explaining it to my mom."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:28:21",
+      "origin": "そうだったんですね。お母様に言ってみようと思えたということは、あなたにとってお母様が味方だということだと思います。",
+      "content": "I see. The fact that you feel you can try talking to your mother suggests to me that you see her as an ally."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:28:39",
+      "origin": "部活というのは本来、強制されるものではなく、やりたい人がやるものです。あなたの、「遊びたい！」「今を楽しみたい」という気持ちは、とても大切で大事にすべきものだと思います。あなたのまっすぐな思いが、お母様にも伝わることを願っています。また何かあれば、いつでもご相談に来てくださいね。",
+      "content": "Club activities are not supposed to be forced on anyone; they're for people who want to do them. Your feelings of \"I want to have fun!\" and \"I want to enjoy the present!\" are very important and should be cherished. I hope your sincere feelings get through to your mother. And if anything else comes up, please feel free to come and talk to me anytime."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:29:28",
+      "origin": "はいお母さんも青春は今だけよっていつも言ってくれますありがとうございました",
+      "content": "Yes, my mom always tells me that \"youth only happens once.\" Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:30:19",
+      "origin": "そうですね。今の時期は、本当にかけがえのない貴重な時期だと思います。あなたが今を思いっきり楽しめるようになることを願っています。",
+      "content": "That's right. This time in your life is truly irreplaceable and precious. I hope you'll be able to enjoy the present to the fullest."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:30:43",
+      "origin": "本日は、ご相談にきていただきありがとうございました。",
+      "content": "Thank you for coming to talk with me today."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:30:56",
+      "origin": "はいありがとうございました！",
+      "content": "Yes, thank you very much!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-13T12:31:17",
+      "origin": "（お疲れさまでした。本日はありがとうございました。この後、終了メッセージを送らせていただきますね。）",
+      "content": "(Good work today. Thank you very much. I will send a closing message shortly.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-13T12:31:46",
+      "origin": "（はい　ありがとうございました）",
+      "content": "(Yes, thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "部活動における教師との人間関係問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 6732,
+    "evaluation_created_at": "2024-04-13T13:01:00",
+    "client_id": 494,
+    "counselor_id": 469,
+    "score": 87,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

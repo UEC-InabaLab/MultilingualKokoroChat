@@ -1,0 +1,531 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:22:11",
+      "origin": "こんにちは、時間になったら始めますね。本日はよろしくお願いいたします",
+      "content": "Hello, we'll begin now that it's time. I look forward to speaking with you today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:30:09",
+      "origin": "こんにちは、相談員です。本日はご相談ありがとうございます。はじめに年齢、性別、相談内容をお願いします。",
+      "content": "Hello, I’m the counselor. Thank you for reaching out today. To start, could you please tell me your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:31:06",
+      "origin": "38歳、男。現在休職をしてまして、手当をもらっているのですが、担当の人の対応が遅くて悩んでいます。",
+      "content": "I’m 38, male. I’m currently on leave from work and receiving benefits, but I’m troubled because the person in charge is slow in handling things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:32:00",
+      "origin": "それは、お困りですね。もう少し詳しくお話をきかせていただけますか？",
+      "content": "That sounds troubling. Could you please tell me a bit more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:32:55",
+      "origin": "頂いている手当で毎月家賃を払っているのですが、なぜか今月だけ遅くなるとのことで、あまり納得がいきません。",
+      "content": "I pay my rent each month with the benefits I receive, but for some reason they said only this month's payment will be delayed, and I’m having trouble accepting that."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:33:14",
+      "origin": "もしかしたら払えないかもしれないと思っています。",
+      "content": "I’m worried I might not be able to pay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:34:05",
+      "origin": "そうですよね。こちらとしても予定があるので、遅れると困りますよね。担当の方には、なぜ遅くなるか理由を聞かれたのですか？",
+      "content": "I understand. You have your own financial plans, so a delay is certainly a problem. Did you ask the person in charge why it would be late?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:34:34",
+      "origin": "聞いてみたのですが、理由は話してくれませんでした。",
+      "content": "I did ask, but they wouldn’t tell me the reason."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:35:07",
+      "origin": "不備があったみたいですが、届いてから5日経って連絡してきたんですよ。",
+      "content": "Apparently there was an issue with the paperwork, but they only contacted me five days after they received it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:36:23",
+      "origin": "そうでしたか・・・。それは納得がいきませんね。お相手の事情とはいえ、予定が狂いますよね・・・。ちなみにいつ頃、振り込まれるか聞かれましたか？",
+      "content": "I see... That's certainly frustrating. Whatever their reasons, it disrupts your plans... By the way, did you ask when you could expect the payment?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:36:40",
+      "origin": "来月になりそうとのことでした。",
+      "content": "They said it would likely be next month."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:37:03",
+      "origin": "こっちは急を要するのに、のんびりしてるなーと。",
+      "content": "It's urgent for me, but they seem to be taking their sweet time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:37:33",
+      "origin": "本当ですよね・・・。家賃の事なども担当の方にお話しされましたか？",
+      "content": "I completely agree... Did you also tell the person in charge about your rent situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:38:01",
+      "origin": "話しましたが、こちらはお仕事なので・・・としか言わないんですよ。",
+      "content": "I did, but they just said, 'This is our job, so...'"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:38:30",
+      "origin": "いいよな、働けているやつらは。",
+      "content": "It must be nice for people who are able to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:39:35",
+      "origin": "それでは、よけいに相談者様も腹立だしくなりますよね。先程、払えないかもしれないと言っていましたが、それは期日中に払えないかもしれないという意味ですか？",
+      "content": "That must make you feel even more frustrated. You mentioned earlier that you might not be able to pay. Did you mean you might not be able to pay by the due date?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:40:37",
+      "origin": "本当にイライラします。期日というのはなく、だいたいこの日に振り込まれるというもので、それがいつもより遅くなるといった感じです。",
+      "content": "I'm really irritated. There isn't a strict due date; it's more like a day it's usually deposited, and this time it's just later than usual."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:42:19",
+      "origin": "そうでしたか・・。お聞かせくださいましてありがとうございます。相談者様は、休職中だという事でしたが、差し支えなければ、休職されている理由を聞かせてもらえますか？",
+      "content": "I see... Thank you for sharing that with me. You mentioned you're on leave from work. If you don't mind my asking, could you tell me the reason you're on leave?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:42:38",
+      "origin": "適応障害と言われています。",
+      "content": "I've been diagnosed with adjustment disorder."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:42:52",
+      "origin": "いわゆる、鬱です。",
+      "content": "In other words, depression."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:43:37",
+      "origin": "そうなのでしたか、では、よけいに、約束の日程など遅れたりすると、お気持ちも不安定になられますよね・・・",
+      "content": "I see. In that case, when things like scheduled payments are delayed, it must make you feel even more emotionally unstable..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:44:13",
+      "origin": "はい、アパートを追い出されるのかと思うと不安で眠れない時もあります。",
+      "content": "Yes, sometimes I get so anxious thinking I'll be evicted from my apartment that I can't sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:45:22",
+      "origin": "ご不安になられるのは当然かと思います。相談者様が悪いわけではないないのに・・・。",
+      "content": "It's natural to feel anxious. It's not your fault at all..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:45:56",
+      "origin": "私も、休みたくて休んでいるわけではないので、どうしたらよいか分かりません。",
+      "content": "It's not like I want to be on leave, so I don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:47:04",
+      "origin": "そうですよね・・。もしよければ、今一番、気になっていることをお聞かせいただいてよろしいですか？",
+      "content": "I understand... If you’re comfortable, could you share what is weighing on you the most right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:47:38",
+      "origin": "やはり、生活をどうしようかというところです。",
+      "content": "It's really about how I'm going to get by."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:48:25",
+      "origin": "食材もギリギリ買えるかどうかというところで、備えてあった缶詰に手を出しています。",
+      "content": "I’m barely able to buy groceries, so I’ve started dipping into the canned food I had stored."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:49:14",
+      "origin": "ありがとうございます。再度、確認させていただきたいのですが、休職手当が振り込まれたら家賃が支払えるという事ですね？それ以外では、食料の購入も困難になってくるという事ですか？",
+      "content": "Thank you. To confirm: once the leave benefits are deposited, you’ll be able to pay the rent, correct? Otherwise, purchasing food will also become difficult, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:49:42",
+      "origin": "そうですね、そもそものお金がないということになるので、、",
+      "content": "Yes, basically it means I don’t have any money to begin with..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:50:58",
+      "origin": "そうなのですね・・・。来月に支払いがあるとの事だったのですが、その間、ご家族の方など相談できる方はいらっしゃいますか？",
+      "content": "I see... The payment will be next month, you said. In the meantime, do you have any family or others you can consult?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:51:22",
+      "origin": "家族には、なるべく言いたくないです。",
+      "content": "I'd rather not tell my family, if possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:52:06",
+      "origin": "そうお思いなのですね。もしよければ理由をお聞きしてもいいですか？",
+      "content": "I understand. If you’re comfortable, may I ask why?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:52:48",
+      "origin": "あまり心配をかけたくないと言いますか、実家もあまりお金ないことが分かっているので、、",
+      "content": "I don’t want to worry them, and besides, I know my family doesn’t have much money either..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:54:34",
+      "origin": "ご家族を心配されているのですね。いろいろお話を聞かせていただいてありがとうございます。",
+      "content": "You're concerned about your family. Thank you for sharing all of this with me."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:54:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:55:33",
+      "origin": "もしよければ相談員と一緒に、どのようにすればいいか考えていきませんか？",
+      "content": "If you’d like, shall we think through together what might help?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:55:41",
+      "origin": "お願いしたいです。",
+      "content": "I’d appreciate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:56:22",
+      "origin": "まずは、家賃の事ですが、オーナーさんにご事情をお話して少し家賃待っていただくことはできないでしょうか？",
+      "content": "First, regarding your rent, do you think you could explain the situation to your landlord and ask if they could wait a little while for the payment?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:57:16",
+      "origin": "なるほど、待ってもらえるのでしょうか？",
+      "content": "I see... Do you think they would wait?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T13:59:00",
+      "origin": "聞いてみないとわかりませんが、1カ月滞納したことで追い出されることはないと思います。また、事情が事情ですので、前もって話されていれば、少しは待ってもらえると思いますよ",
+      "content": "I can't say for sure without asking, but I don't think you would be evicted for being one month late. Also, given the circumstances, if you explain it to them in advance, I think they would be willing to wait a bit."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T13:59:54",
+      "origin": "そうなんですね、分かりました。",
+      "content": "I see, understood."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:00:17",
+      "origin": "食べ物とかはどうしたらいいですか？",
+      "content": "What should I do about food and such?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:00:52",
+      "origin": "家賃の事は、まずオーナーさんに相談してみましょうね！次は、食べ物ですが、ご家族の方に心配かけたくないとの事でしたが",
+      "content": "Let's start by talking to your landlord about the rent, okay? Next, about food, you mentioned you don't want to worry your family."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:01:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:01:55",
+      "origin": "休職中という事はご存じなのですか？",
+      "content": "Do they know that you're on leave from work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:02:12",
+      "origin": "それは、言ってないです、、",
+      "content": "No, I haven't told them..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:02:55",
+      "origin": "そうなのですね。なのでご事情がお話しできないとのことなのですか？",
+      "content": "I see. So that’s why you feel you can’t share your situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:03:58",
+      "origin": "心配されたくないからです。",
+      "content": "Because I don’t want them to worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:05:54",
+      "origin": "そうですか・・・。家族思いなのですね。もしご家族に相談したとして、どのような展開なると想像できますか？",
+      "content": "I understand... You’re very considerate of your family. If you were to consult them, how do you imagine it might unfold?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:07:15",
+      "origin": "どうなるか、ですよね。最近連絡も取ってないので、想像しにくいです。",
+      "content": "How would it go... Right. I haven’t been in touch recently, so it’s hard to imagine."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:07:38",
+      "origin": "5年以上、顔合わせていないので。",
+      "content": "I haven’t seen them in person for over five years."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:08:50",
+      "origin": "そうでしたか・・・。そんなに長く連絡とっていないのですね・・・。では相談者様は他に相談できる相手などはいらっしゃいますか？",
+      "content": "I see... It’s been that long since you’ve been in contact. Do you have anyone else you could turn to for support?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:09:37",
+      "origin": "いなくはないですが、といった感じです。",
+      "content": "It’s not that there’s no one, but it’s complicated."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:10:51",
+      "origin": "そうなのですね。色々お聞かせいただいてありがとうございます。相談員から少し感じたことをお話ししてもいいですか？",
+      "content": "I understand. Thank you for sharing. May I share an observation from my side?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:11:00",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:12:20",
+      "origin": "ありがとうございます。まずお話を整理させていただきますね。今、あなたは適応障害で、気持ちも不安定なうえに、手当ての振り込みが遅れたりして、アパートを追い出されるのではないかと思ってらっしゃる、そして",
+      "content": "Thank you. First, let me summarize what we've discussed. You're currently dealing with an adjustment disorder, which makes you feel emotionally unstable, and on top of that, your benefits payment is delayed, making you worry you might be evicted from your apartment. And,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:13:43",
+      "origin": "家族には心配かけたくなく、今の状態を相談されることもできない。でも、現実に食料を購入するお金も今、困っているとの事ですね。合っていますか？",
+      "content": "you don't want to worry your family, so you can't talk to them about your current situation. But in reality, you're also having trouble affording food right now. Is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:14:04",
+      "origin": "はい、問題ないです。",
+      "content": "Yes, that’s correct."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:15:36",
+      "origin": "ありがとうございます。まずは家賃の事はオーナー相談してみる。そして、今後お金の事ですが、まずは相談者様のお身体が一番心配なので、",
+      "content": "Thank you. First, you'll try talking to your landlord about the rent. Then, regarding your finances going forward, since my main concern is your well-being,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:17:32",
+      "origin": "先に、ご家族に相談されてはいいのでは？と思います。もちろんご心配かけたくない気持ちはわかりますが、現状を知らないご家族が、もし相談者様に何かあった時、どういう気持ちになられるか考えていただきたいなと思いました。いかがですか？",
+      "content": "I think it might be a good idea to talk to your family first. Of course, I understand you don't want to worry them, but I'd like you to consider how they would feel if something happened to you and they didn't know what you were going through. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:19:14",
+      "origin": "そうですね、家族に話した方がいいかもしれないとは思っています。",
+      "content": "You're right, I do think it might be better to talk to my family."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:20:19",
+      "origin": "ただ、もし他に案があれば聞いておきたいのですが、、",
+      "content": "However, if there are other options, I’d like to hear them..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:20:52",
+      "origin": "それを聞いてほっとしました。お辛いかもしれませんが、これをきっかけに、ぜひお伝えしてみて下さい。それでも伝えれない場合は、先ほど、他に相談できる相手がいらっしゃるとのことでしたので",
+      "content": "I’m relieved to hear that. It may be difficult, but please use this as an opportunity to share with them. If you still feel you can’t, you mentioned earlier that there are others you could consult,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:21:26",
+      "origin": "その方にお願いしてみるなどいかかでしょう？振り込まれる数日の間ですので、お力添えいただけるのではないでしょうか？",
+      "content": "how about asking that person for help? It would only be for a few days until your payment comes through, so perhaps they could lend you a hand?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:22:08",
+      "origin": "いるとしても友達なので、中々言いづらいといいますか、、",
+      "content": "Even if there is someone, they’re a friend, so it’s hard to bring it up..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:23:13",
+      "origin": "そうでしたか・・・。なぜ相談しずらいのですか？",
+      "content": "I see... Why is it hard to ask for help?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:23:39",
+      "origin": "顔を知ってると言いづらいと感じます。",
+      "content": "It feels harder to say it to someone who knows me personally."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:24:11",
+      "origin": "家賃の場合は、オーナーの顔が分からないから言えるという感じです。",
+      "content": "In the case of the rent, I feel I can say something because I don’t know the landlord personally."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:25:09",
+      "origin": "そうお思いなのですね。もし相談者様が逆の立場だったいかがでしょう？お友達がお困りだったら、どうされますか？",
+      "content": "I understand you feel that way. If the roles were reversed, how would you respond? If a friend were in trouble, what would you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:25:38",
+      "origin": "お金があったら、という場合でしょうか？",
+      "content": "Do you mean if I had the money?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:25:44",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:26:08",
+      "origin": "んー、確かにちょっとは貸してもいいかもと思いますね。",
+      "content": "Hmm, I suppose I might be willing to lend them a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:26:43",
+      "origin": "家族もこんな感じなのでしょうか？",
+      "content": "Do you think my family would feel the same way?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:28:06",
+      "origin": "相談者様がご家族を心配されるように、ご家族も心配してくれると思います。なので、これを機に色んな事を伝えられて",
+      "content": "Just as you’re concerned for your family, I believe they would be concerned for you. So, taking this opportunity to share various things—"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:28:59",
+      "origin": "色々お話をされてみてはいかがですか？きっと支えてくれると相談員は思いますが、いかがですか？",
+      "content": "—how about talking with them more? I believe they will support you. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:29:14",
+      "origin": "はい、ちょっと頑張ってみます。",
+      "content": "Yes, I’ll try to make an effort."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:30:00",
+      "origin": "そろそろお時間ですが、また何かお困りごとがありましたら、いつでも相談してください。一緒にまた考えていきましょう。",
+      "content": "Our time is almost up, but if you run into any other difficulties, please feel free to reach out anytime. We can think it through together again."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:30:13",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:30:29",
+      "origin": "少しでも前進できることを応援してますね。本日はありがとうございました",
+      "content": "I'll be rooting for you to make even a little progress. Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-21T14:30:48",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:31:12",
+      "origin": "（ありがとうございます。お時間ある時に評価いただけると嬉しいです。）",
+      "content": "(Thank you. If you have time, I would appreciate it if you could leave a rating.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-21T14:31:47",
+      "origin": "（システム終了しますね。では失礼します）",
+      "content": "(I’ll go ahead and end the session. Take care.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "休職手当の遅延による生活不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 4652,
+    "evaluation_created_at": "2023-02-21T15:00:00",
+    "client_id": 342,
+    "counselor_id": 331,
+    "score": 91,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

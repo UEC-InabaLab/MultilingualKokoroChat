@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:00:18",
+      "origin": "こんばんは。相談員です。本日はよろしくお願い致します。",
+      "content": "Good evening. I'm your counselor. It's a pleasure to speak with you today."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:00:29",
+      "origin": "よろしくお願いいたします。",
+      "content": "Thank you for speaking with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:00:36",
+      "origin": "本日はどのようなご相談でしょうか？",
+      "content": "What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:01:12",
+      "origin": "はい、実は同居している母とのことでご相談です。",
+      "content": "Yes, I'd like to talk about my mother, who I live with."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:01:57",
+      "origin": "そうなんですね。どのような状況なのでしょうか？",
+      "content": "I see. Could you tell me more about the situation?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:03:24",
+      "origin": "母は85歳で、認知症です。昔はしっかり者の母でしたが、最近は言ったことをすぐ忘れてしまいます。",
+      "content": "My mother is 85 and has dementia. She used to be very sharp, but recently she forgets things right after they're said."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:06:43",
+      "origin": "そうなんですね。お母さまのサポートをしていらっしゃるんですね。",
+      "content": "I understand. So you're supporting your mother."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:08:59",
+      "origin": "はい、そうなんです。認知症は病気なので仕方ないのですが、母はたまにイライラすると、夜中に台所でものを激しくぶつけるんです。その音が２階の私の部屋に響いて、とても怖いんです。",
+      "content": "Yes, that's right. I know dementia is an illness, so I try to be understanding, but sometimes when she gets irritated, she'll violently slam things around in the kitchen in the middle of the night. The sound echoes up to my room on the second floor, and it's very frightening."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:09:00",
+      "origin": "物忘れは気になりますよね。",
+      "content": "The forgetfulness must be concerning."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:09:41",
+      "origin": "怖いですし心配になりますよね。。",
+      "content": "That must be frightening and worrisome for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:10:27",
+      "origin": "そのようなとき、あなたはどのようにされているんですか？",
+      "content": "What do you do when that happens?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:11:32",
+      "origin": "何も手につかなくて、布団の中で音がおさまるのを待っています。",
+      "content": "I can't focus on anything, so I just wait in my bed for the noise to stop."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:12:37",
+      "origin": "様子を見に行くのも怖いですよね。。",
+      "content": "It must feel scary to go check on her, too."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:12:53",
+      "origin": "そうなんです。",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:13:11",
+      "origin": "そのようなお母さまの行動はどのくらいの頻度で起きていますか？",
+      "content": "How often does that kind of behavior occur?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:14:16",
+      "origin": "昔はよくありましたが、最近は2ヶ月に1回くらいでしょうか。",
+      "content": "It used to happen often, but recently it’s about once every two months."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:14:39",
+      "origin": "以前より落ち着いてきているのですね。",
+      "content": "So it has become less frequent than before."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:14:52",
+      "origin": "そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:16:32",
+      "origin": "お母さまがイライラしてそうなる、とのことでしたが、その日にはどのような出来事があったとか、お母さまの様子はいかがですか？",
+      "content": "You mentioned she does that when she's irritated. On the days it happens, do you notice any particular events or changes in her mood?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:19:50",
+      "origin": "いつもと違うことだと、私が夕飯の母の食器を洗って、ご飯のついた茶碗だけ、洗い桶に浸けておいたことかな。普段は母の食器は全て洗わないようにしています。夕飯を食べていないというから。",
+      "content": "Something different might be that I washed my mother's dinner dishes, but left the rice bowl with rice stuck on it soaking in the basin. Usually, I don't wash all of her dishes because she'll claim she hasn't eaten dinner."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:21:16",
+      "origin": "理由は思い当たりません。",
+      "content": "I can't think of any reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:22:15",
+      "origin": "お母さまの食事後の食器を全部洗わずに敢えて残しておいているということで合っていますか？",
+      "content": "So, to confirm, you intentionally leave some of your mother’s dishes unwashed after meals, is that right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:23:00",
+      "origin": "思い当たることがないとびっくりしてしまいますよね。。",
+      "content": "It must be startling when you can't pinpoint a reason for it."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:23:14",
+      "origin": "合っています。母は食器の洗い片付けは出来るから。",
+      "content": "That's correct, because she's capable of washing and putting away the dishes herself."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:24:37",
+      "origin": "昔からイライラすると、物に当たることで、家族に八つ当たりしていました。",
+      "content": "She has always taken her frustration out on the family by lashing out at things when she gets irritated."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:25:23",
+      "origin": "普段はお母さまご自身で食器の片付けをするけれども、あなたが食器の片づけをした日にお母さまの例の行動が起きたということですね。",
+      "content": "So, your mother usually does her own dishes, but this behavior occurred on a day when you did the dishes for her. Is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:25:58",
+      "origin": "それが原因かどうかは、確認していません。",
+      "content": "I haven't confirmed if that was the cause."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:26:40",
+      "origin": "ですが、その日で間違いないです。",
+      "content": "But it definitely happened on that day."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:26:47",
+      "origin": "そうなのですね。ありがとうございます。",
+      "content": "I see. Thank you for clarifying."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:27:15",
+      "origin": "昔からそのようなことはあったのですね。。",
+      "content": "So this has been happening for a long time."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:27:30",
+      "origin": "はい、しょっちゅうでした。",
+      "content": "Yes, it was very frequent."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:28:10",
+      "origin": "怖い思いをされてきたのですね。。",
+      "content": "You must have been frightened for a long time."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:28:35",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:29:09",
+      "origin": "しょっちゅうだった、というのは大体いつ頃のお話ですか？",
+      "content": "When you say it was frequent, about when are you referring to?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:30:24",
+      "origin": "1年位前まででしょうか。",
+      "content": "Up until about a year ago, I'd say."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:30:50",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:31:44",
+      "origin": "それから急に認知症がひどくなってきて、少し穏やかになってきました。",
+      "content": "After that, her dementia suddenly worsened, and she became a bit calmer."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:32:14",
+      "origin": "そういうことなのですね。",
+      "content": "I see, so that's what happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:33:05",
+      "origin": "先ほどお母さまはイライラすると八つ当たりをする、とのことでしたが、他にはどのような行動をされていらっしゃったんですか？",
+      "content": "You mentioned earlier that your mother lashes out when she's irritated. Were there any other behaviors like that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:35:09",
+      "origin": "気になる行動はそれくらいです。私への対応は、支配的でした。",
+      "content": "That’s about the only behavior that concerns me. Her attitude toward me was controlling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:36:38",
+      "origin": "そういう態度だったのですね。。",
+      "content": "So that was her attitude toward you..."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:37:22",
+      "origin": "私の家が全て引き戸の部屋なので、支配しやすかったと思います。",
+      "content": "I think it was easy for her to control me because all the rooms in my house have sliding doors."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:37:48",
+      "origin": "そういうことだったのですね。",
+      "content": "I see, so that was the situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:38:15",
+      "origin": "支配的、というのはどのような感じだったのでしょうか？",
+      "content": "When you say 'controlling,' what did that look like?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:39:55",
+      "origin": "嘘は絶対NG。少しでも仕事が遅くなると、会社に電話かけてくる。",
+      "content": "Lying was absolutely forbidden. If I was even a little late from work, she would call my office."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:41:08",
+      "origin": "社会人になっても・・それは息苦しかったですね。。",
+      "content": "Even as an adult... that must have felt suffocating."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:41:41",
+      "origin": "それはいつ頃からこのような感じだったのですか？",
+      "content": "Since about when had it been like that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:42:20",
+      "origin": "中学生の頃からです。",
+      "content": "Since I was in junior high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:43:04",
+      "origin": "中学生から１年ほど前まで。。ちなみにあなたは今おいくつでいらっしゃいますか？",
+      "content": "From junior high school until about a year ago... By the way, may I ask how old you are now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:44:00",
+      "origin": "59歳です。",
+      "content": "I’m 59."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:44:29",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:44:43",
+      "origin": "ずっと一緒というわけではありませんが。",
+      "content": "But we weren't living together the whole time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:45:50",
+      "origin": "そうなのですね。お母様とはどのくらいの期間離れてお過ごしだったのですか？",
+      "content": "I see. How long were you living apart from your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:46:49",
+      "origin": "20年位かな。",
+      "content": "About 20 years, I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:47:08",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:47:31",
+      "origin": "どのようなきっかけで再びお母さまと一緒に暮らすことになったのですか？",
+      "content": "What prompted you to start living with your mother again?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:47:53",
+      "origin": "離婚しました。",
+      "content": "I got divorced."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:48:30",
+      "origin": "そうだったのですね。",
+      "content": "I see, that's what happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:49:03",
+      "origin": "ご実家に帰られてからのお母さまの様子はどのような感じだったのですか？",
+      "content": "What was your mother like after you returned to your family home?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:50:07",
+      "origin": "いろいろあって、ハッキリ覚えていません。",
+      "content": "A lot happened, so I don't remember clearly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:50:50",
+      "origin": "覚えきれないほどたくさんのことがあったんですね。",
+      "content": "It sounds like so much happened that it’s hard to remember it all."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:51:46",
+      "origin": "思い出したくないのかも。",
+      "content": "Or maybe I just don't want to remember."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:52:10",
+      "origin": "そういうこともありますよね。。",
+      "content": "That can certainly happen."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:54:14",
+      "origin": "その時も、母とは仲が良くなかったです。",
+      "content": "Even back then, my mother and I didn't get along."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:54:30",
+      "origin": "そうだったのですね。。",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:55:01",
+      "origin": "お母様のことで、どなたかにご相談されたことはありますか？",
+      "content": "Have you ever talked with anyone about your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:55:18",
+      "origin": "はい、あります。",
+      "content": "Yes, I have."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:55:48",
+      "origin": "どなたにご相談されたかお伺いできますか？",
+      "content": "May I ask who you spoke with?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:56:34",
+      "origin": "精神科に行って話してみました。",
+      "content": "I went to a psychiatrist and talked about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:56:44",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:57:05",
+      "origin": "そのときはどのようなお話をされましたか？",
+      "content": "What did you talk about then?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:59:18",
+      "origin": "過保護、過干渉で支配されている。「周囲の人に話しても、あんたのことなんか誰も信用しないよ」と言われたことなどを話しました。",
+      "content": "I explained that she was overprotective, overbearing, and controlling. I also told them how she used to say, 'Even if you tell people, no one will ever believe you.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:00:03",
+      "origin": "そうだったのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:00:25",
+      "origin": "過保護、過干渉ということを聞いてどのようにお感じになりましたか？",
+      "content": "How did you feel when you heard the terms overprotective and overbearing?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:01:13",
+      "origin": "すみません、それは、私が先生に説明した言葉です。",
+      "content": "Sorry, those are the words I used to explain it to the doctor."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:01:39",
+      "origin": "あ！失礼しました。",
+      "content": "Oh! My apologies."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:02:03",
+      "origin": "それをお話ししてみて、先生はどのようなお話をされましたか？",
+      "content": "After you explained that, what did the doctor say?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:03:01",
+      "origin": "聞いてはくれましたが、特にこれということもなく、お薬を出してくれました。",
+      "content": "They listened, but didn't say anything in particular and just gave me some medication."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:03:37",
+      "origin": "そうだったのですね。なんとなくすっきりしないですね。",
+      "content": "I see. That must have felt somewhat unsatisfying."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:03:52",
+      "origin": "そうですね。",
+      "content": "No, it wasn't."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:05:11",
+      "origin": "すみません、もう時間がきてしまいました。",
+      "content": "I'm sorry, but our time is up."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:05:47",
+      "origin": "ここまでのお話をまとめさせていただいて本日は終了させて頂きたいと思いますが、",
+      "content": "I'd like to summarize what we've discussed today before we finish,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:06:05",
+      "origin": "あと５分ほどお時間よろしいですか？",
+      "content": "would you have another five minutes or so?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:06:27",
+      "origin": "はい、大丈夫です。",
+      "content": "Yes, that’s fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:06:36",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:07:21",
+      "origin": "現在認知症のお母さまと一緒に住んでいらして、夜中にイライラして物に当たるお母様が怖い",
+      "content": "You are currently living with your mother who has dementia, and you are frightened when she gets irritated and takes it out on things in the middle of the night."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:08:13",
+      "origin": "１年ほど前まではしょっちゅうだったが、頻度が減ったと同時に認知症が進行した",
+      "content": "This used to happen frequently up until about a year ago, but the frequency has decreased as her dementia has progressed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:08:49",
+      "origin": "お母様はあなたが中学生の頃から支配的な態度だった",
+      "content": "Your mother has had a controlling attitude towards you since you were in junior high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:09:43",
+      "origin": "嘘は絶対にNGで、仕事が少しでも遅くなると会社に電話がかかってきていた",
+      "content": "Lying was absolutely forbidden, and she would call your office if you were even a little late from work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:10:56",
+      "origin": "あなたが実家に戻ったときにはお母さまとは色々ありすぎて、その頃のことは思い出したくないのかもしれない",
+      "content": "After you returned to your family home, so much happened with your mother that you may not want to remember that period."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:11:34",
+      "origin": "精神科にお母さまのことを相談し、母が過保護・過干渉であることを伝えたが",
+      "content": "You consulted a psychiatrist about your mother, explaining that she was overprotective and overbearing,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:11:59",
+      "origin": "これといったことはなく薬を処方された",
+      "content": "but nothing specific was addressed, and you were prescribed medication."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:12:07",
+      "origin": "ここまででよろしいでしょうか？",
+      "content": "Does that sound correct so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:12:22",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:12:44",
+      "origin": "おしてしまって申し訳ありません。",
+      "content": "I’m sorry for running over."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:12:55",
+      "origin": "大丈夫です。",
+      "content": "That’s alright."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:13:17",
+      "origin": "この続きはまたお聞かせくださいね。本日はありがとうございました。",
+      "content": "Please tell me more next time. Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:13:31",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:13:38",
+      "origin": "ロールプレイを終了致します。",
+      "content": "This concludes the role-play session."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母との支配的な関係によるストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 96,
+    "evaluation_created_at": "2020-06-29T10:12:00",
+    "client_id": 49,
+    "counselor_id": 48,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

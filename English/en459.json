@@ -1,0 +1,939 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-09-25T09:54:35",
+      "origin": "こんにちは相談員です。",
+      "content": "Hello, I'm the counselor."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T09:54:56",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T09:55:23",
+      "origin": "よろしくお願いいたします。本日はどのようなご相談でしょうか？",
+      "content": "It's nice to meet you. What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T09:57:09",
+      "origin": "すみません。10時まで待ってもらえますか？",
+      "content": "I'm sorry. Could you wait until 10 o'clock?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T09:57:29",
+      "origin": "はい承知しました。",
+      "content": "Yes, certainly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T09:57:50",
+      "origin": "失礼しました。",
+      "content": "My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:00:57",
+      "origin": "すみません大丈夫ですはじめますね",
+      "content": "Sorry about that, I'm ready now. Let's begin."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:01:09",
+      "origin": "言葉が足りず申し訳ありませんでした。",
+      "content": "I apologize for not being clearer."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:01:28",
+      "origin": "いえ、ちょっとバタバタしていて",
+      "content": "No, it's fine. I was just a bit rushed."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:01:41",
+      "origin": "はじめます",
+      "content": "I'm ready to start."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:01:43",
+      "origin": "あさはあわただしいですよね",
+      "content": "Mornings can be quite hectic, can't they?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:01:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:02:00",
+      "origin": "よろしくお願いいたします。本日はどのようなご相談でしょうか？",
+      "content": "Alright then. What would you like to discuss today?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:02:13",
+      "origin": "途中何かあれば遠慮なくお知らせください。",
+      "content": "If anything comes up during our session, please don't hesitate to let me know."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:02:37",
+      "origin": "最近、夜、寝るのが遅くなります",
+      "content": "Lately, I end up staying up late at night."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:03:02",
+      "origin": "そうなのですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:03:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:03:17",
+      "origin": "寝るのが遅くなるといろいろずれてきてしまいますね。",
+      "content": "Going to bed late can throw off your whole schedule, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:03:37",
+      "origin": "身体がきついです",
+      "content": "It's physically draining."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:04:10",
+      "origin": "そうですよね。つらくなりますよね",
+      "content": "I understand. That must be very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:04:23",
+      "origin": "今どのような感じなのですか？",
+      "content": "How are you feeling right now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:05:30",
+      "origin": "今日は朝から用事があってバタバタしているので、そうでもないのですが、いつもは、なかなか動けません",
+      "content": "Today I've had errands since this morning and have been busy, so it's not as bad, but usually, I can hardly get myself going."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:06:05",
+      "origin": "そうなのですね朝が動けないのは、大変ですよね。",
+      "content": "I see. It must be very difficult when you can't get going in the morning."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:06:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:06:35",
+      "origin": "今の睡眠時間はどのような感じなのですか？",
+      "content": "How much sleep are you getting right now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:07:11",
+      "origin": "多分、4時間位です",
+      "content": "Probably around four hours."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:07:38",
+      "origin": "あらそれは、だいぶ少ないですね。",
+      "content": "Oh, that's very little sleep."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:07:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:07:52",
+      "origin": "毎日そのような感じなのですか？",
+      "content": "Is it like that every day?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:08:12",
+      "origin": "最近はずっとです",
+      "content": "It has been for a while now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:08:38",
+      "origin": "そうなのですねそれは、不安になりますよね。",
+      "content": "I see. That must be worrying."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:08:58",
+      "origin": "いつごろからその様な感じなのですか？",
+      "content": "About how long has it been like this?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:09:54",
+      "origin": "もう、1か月位は",
+      "content": "For about a month now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:10:30",
+      "origin": "そうなのですね・・・それでは、疲れがたまってしまいますよね。",
+      "content": "I see... You must be getting really exhausted, then."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:10:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:11:12",
+      "origin": "朝がうごかないということでしたが、日中はどのように過ごされているのですか？",
+      "content": "You mentioned having trouble moving in the morning; how do you spend your days?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:12:43",
+      "origin": "在宅で仕事をしたり、家の事をしたりでほとんど家の中にいます。たまに外出です",
+      "content": "I work from home and do things around the house, so I'm mostly indoors. I go out occasionally."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:13:57",
+      "origin": "そうなのですね。在宅は、コロナの影響からですか？",
+      "content": "I see. Is working from home due to the pandemic?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:14:22",
+      "origin": "そうですね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:15:58",
+      "origin": "そうなのですね。いろいろ変わってしまった感じなのですね。",
+      "content": "I understand. It sounds like a lot has changed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:16:19",
+      "origin": "それまではどのような生活だったのですか？",
+      "content": "What was your life like before that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:17:13",
+      "origin": "元々外に出るのはあまり好きではないのですが、今よりは色々と外出していました。",
+      "content": "I've never been a big fan of going out, but I used to go out more than I do now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:17:47",
+      "origin": "そうだったのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:18:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:19:15",
+      "origin": "睡眠時間が減ってしまっていらっしゃるのは、なにかきっかけなどあったのですか？",
+      "content": "Was there any particular trigger for your sleep time decreasing?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:20:48",
+      "origin": "自分でも良くわからないのですが、もしかしたら、父との事があるのかもしれないと思ったりしました。今",
+      "content": "I'm not quite sure myself, but I've been thinking it might have something to do with my father."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:21:23",
+      "origin": "そうなのですねお父さん・・・よければ、詳しくお聞かせいただけませんか？",
+      "content": "I see, your father... If you're comfortable, could you tell me more about that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:22:24",
+      "origin": "お話しできる範囲で大丈夫です。",
+      "content": "Only as much as you're comfortable sharing is fine."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:22:42",
+      "origin": "実の父親との価値観の違いを最近はっきりと感じて、モヤモヤしています。",
+      "content": "Lately, I've clearly felt a difference in values with my biological father, and it leaves me feeling unsettled."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:23:23",
+      "origin": "そうだったのですね。それは、気になってしまいますよね。",
+      "content": "I see. That would certainly weigh on your mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:23:57",
+      "origin": "価値観の違いというのはどのようなところがあったのですか？",
+      "content": "In what ways are your values different?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:25:25",
+      "origin": "私が考える老後の生活の幸せと、父との違いですね。認めなくてはと、頭では分かってきているのですが",
+      "content": "It's the difference between what I consider a happy life in old age and what my father does. I'm starting to understand in my head that I have to accept it, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:25:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:26:26",
+      "origin": "ただ、それが眠れない原因かは分かりません。でも、モヤモヤはしています、",
+      "content": "But I don't know if that's the reason I can't sleep. Still, I have this nagging feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:27:52",
+      "origin": "そうなのですね。老後の生活に関してお父様と違うとなると大切なお話ですよね。",
+      "content": "I see. When there's a difference with your father regarding life in old age, that's a very important topic, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:28:35",
+      "origin": "いろいろ考えてしまうと眠れなくなってしまうのも無理ないかと思います。",
+      "content": "I think it's understandable that you can't sleep when you have so much to think about."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:29:03",
+      "origin": "お父様のことを認めなければというのはどのようなことなのですか？",
+      "content": "When you say you need to accept your father, what does that mean to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:30:33",
+      "origin": "うーん色々と違いはありますが、何だか、考え出すと、昔からの事とか思い出してしまって",
+      "content": "Well, there are various differences, but when I start thinking about it, I end up recalling things from the past."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:31:23",
+      "origin": "そうなのですね。思い出してしまうのとどんな気持ちになるのですか？",
+      "content": "I see. When those memories come up, how do you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:31:31",
+      "origin": "父親の事、嫌いなのかな、とか思ってきました",
+      "content": "I've started to wonder if maybe I dislike my father."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:32:02",
+      "origin": "自分でも良く分かりません",
+      "content": "I'm not really sure myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:32:30",
+      "origin": "そうだったのですねそれは、苦しくなってしまいますね。",
+      "content": "I see. That must be painful for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:33:05",
+      "origin": "ただ、いつもその事を考えている程ではありません。",
+      "content": "It's not like I'm thinking about it all the time, though."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:33:47",
+      "origin": "諦めてます。父の人生なので",
+      "content": "I've resigned myself to it. It's his life, after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:34:19",
+      "origin": "そうなのですねお父様のことを受け入れたいと思われているのですね。",
+      "content": "I see. So you're feeling that you have to accept your father."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:34:39",
+      "origin": "でも、なにかひっかかっていらっしゃるのですよね。",
+      "content": "But something is still bothering you, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:34:55",
+      "origin": "いえ、どちらかというと、突き放した感じです。",
+      "content": "No, if anything, it's more like I've pushed him away."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:35:07",
+      "origin": "多分",
+      "content": "Probably."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:35:47",
+      "origin": "ただ、突き放し切れてないんでしょうね、モヤモヤしてるのは",
+      "content": "But I guess I haven't been able to push him away completely, which is why I feel unsettled."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:36:05",
+      "origin": "そうだったのですね。突き放した・・・それほどまでに、あなたにとってそれは、大切なことだったのですよね。",
+      "content": "I see. Pushing him away... it must have been something very important to you to go that far."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:36:28",
+      "origin": "そうなんでしょうか…",
+      "content": "I wonder if that's so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:36:50",
+      "origin": "そのようにお感じなのですね。",
+      "content": "That's how it feels to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:37:15",
+      "origin": "突き放し切れなかったというのは、どのような思いがあったからだと思いますか？",
+      "content": "What feelings do you think kept you from fully pushing him away?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:39:07",
+      "origin": "そうですね…度々顔をあわせるみたいな",
+      "content": "Well... I guess because we have to see each other from time to time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:39:31",
+      "origin": "はいそうなのですね。",
+      "content": "Yes, I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:40:00",
+      "origin": "でも、もういいです。考えても仕方ないです",
+      "content": "But, it's fine. Thinking about it won't help."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:40:31",
+      "origin": "お父様のことを認めなければとお話されていましたが・・・どのようなことかよければ教えていただけませんか？",
+      "content": "You mentioned needing to accept your father—if you’re comfortable, could you share a bit more about what that means?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:41:28",
+      "origin": "もし、難しければ、無理なさらなくて大丈夫です。",
+      "content": "If it's difficult, please don't force yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:42:53",
+      "origin": "私の考える老後と父の考える老後が違うという事です。結局、孤立していくんじゃ無いかと思うんですがそれで父が良いなら仕方ないかと",
+      "content": "It's that my idea of old age and my father's are different. I think he'll end up isolated, but if he's okay with that, then I guess it can't be helped."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:43:41",
+      "origin": "はいお父様はこのままだと孤立してしまうのではないかと心配されているのですね。",
+      "content": "Yes, so you're worried that your father might become isolated if he continues on this path."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:44:20",
+      "origin": "はい。思い過ごしかもしれませんが",
+      "content": "Yes. It might just be me overthinking it."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:45:01",
+      "origin": "幸せって人それぞれだから",
+      "content": "Because happiness is different for everyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:45:10",
+      "origin": "そうなのですねでもそう思ってしまえばそれは確かに突き放し切れないですよね。",
+      "content": "I see. But if you think that way, it's true that you can't completely push him away, can you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:45:42",
+      "origin": "人それぞれとお考えでもあるのですね。",
+      "content": "So you also believe that it's different for everyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:45:59",
+      "origin": "難しい問題ですね。",
+      "content": "It's a difficult issue."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:46:06",
+      "origin": "はい。頭では分かっています",
+      "content": "Yes. I understand it intellectually."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:46:40",
+      "origin": "私の割り切れない性格のせいですね",
+      "content": "It's because of my personality; I can't just let things go."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:47:16",
+      "origin": "そんな無理もないと思います。お父様からは具体的にどのようなお話を聴いてそのように感じているのですか？",
+      "content": "I think that's perfectly understandable. What specifically did you hear from your father that made you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:49:20",
+      "origin": "父も色々と悩んではいると思うのですが、そのたびに、相談に乗るんですが、結局、自分のやりたい様にやるから、考えるだけ無駄に",
+      "content": "I think my father has his own worries, and I offer advice each time, but in the end, he just does what he wants, so it feels like a waste of time to even think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:50:15",
+      "origin": "そうだったのですね。相談に乗られててでも・・・という感じなのですね。",
+      "content": "I see. So you're there for him, and yet... that's how it feels."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:50:30",
+      "origin": "もう、ほっときたいですが、きっと何か問題や心配事がおこると連絡がきますね",
+      "content": "I want to just leave him be, but I'm sure he'll contact me whenever a problem or worry comes up."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:50:59",
+      "origin": "そうなのですね。そのたびに、あなたに相談されるのですね。",
+      "content": "I see. And each time, he comes to you for advice."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:51:36",
+      "origin": "相談はしますが、その通りにはなりません。時間の無駄です。",
+      "content": "He consults me, but he doesn't follow my advice. It's a waste of time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:52:11",
+      "origin": "一生懸命相談に乗ってる方としては、辛くなってしまいますよね。",
+      "content": "As the person trying your best to give him advice, that must be very painful for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:53:04",
+      "origin": "でも、お父様は自分のやりたいようにとおっしゃっていますがお父様はその時どのような感じなのですか？",
+      "content": "But you said your father does what he wants; how does he seem at those times?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:53:34",
+      "origin": "どの様な感じとは？",
+      "content": "What do you mean by 'how he seems'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:54:10",
+      "origin": "怒ってしまうとか喜んでいるとかすみません",
+      "content": "I'm sorry, I mean, does he get angry, or is he happy... that sort of thing."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:54:40",
+      "origin": "お父さんはあなたと話しているときにどのような感情をお持ちでいらしてそうかなと疑問に思いました。",
+      "content": "I was wondering what emotions he might have when he's talking with you."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:54:56",
+      "origin": "電話なので良く分からないですが、おこってはいません。",
+      "content": "It's over the phone, so I can't tell for sure, but he's not angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:55:18",
+      "origin": "電話なのですね遠くにいらっしゃるのですか？",
+      "content": "I see, it's over the phone. Does he live far away?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:55:40",
+      "origin": "離れてはいます。",
+      "content": "We do live apart."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:56:01",
+      "origin": "そうなのですね。今お父様のご家族はどのような感じなのですか？",
+      "content": "I see. What is your father's family situation like now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:56:21",
+      "origin": "母と2人で住んでいます",
+      "content": "He lives with my mother, just the two of them."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:56:54",
+      "origin": "そうだったのですね。でも、孤独という言葉がよぎられているのですね。",
+      "content": "I see. And yet, the word 'lonely' comes to your mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:57:36",
+      "origin": "お母様とはお話することはあるのですか？",
+      "content": "Do you ever speak with your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:58:13",
+      "origin": "それは私が勝手に思っている事です。父は孤独と思っていないかも。母とも電話で",
+      "content": "That's just what I'm assuming. My father might not feel lonely. I also speak with my mother on the phone."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:58:33",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:59:59",
+      "origin": "いつも、電話をするのは私からなので",
+      "content": "It's always me who initiates the calls."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:00:49",
+      "origin": "そうだったのですねそれほど、心配されているのですね。",
+      "content": "I see. That shows how worried you are about them."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:01:20",
+      "origin": "ここまでのところまとめさせていただいてもよいでしょうか？",
+      "content": "Would it be all right if I summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:01:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:02:10",
+      "origin": "睡眠時間が少なくて、朝が特に動かないことを心配されています。",
+      "content": "You're concerned about your lack of sleep and that it's especially hard for you to get moving in the morning."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:02:25",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:02:53",
+      "origin": "在宅になったりと環境も変わられているようですが、お父様のことが、気になっていると思われました。",
+      "content": "Your environment has also changed with working from home, and it seems your father has been on your mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:03:26",
+      "origin": "いつも、相談に乗ってあげているけれど、結局お父様は自分のやりたいようにされていて",
+      "content": "You always offer him advice, but in the end, your father does what he wants."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:04:00",
+      "origin": "ご自身は納得できていない思いがあるけれど、受け入れなければならないと考えていらっしゃる。",
+      "content": "You have feelings of not being able to accept this, but you also think you have to."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:04:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:04:30",
+      "origin": "昔のことも思い出したりして、父のことが嫌いなのかもと思われたりもしています。",
+      "content": "Memories from the past also come up, and you sometimes wonder if you might dislike your father."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:04:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:05:29",
+      "origin": "お父様との老後の幸せの考え、価値観に自分と違いがあることは理解できてはいるが、孤独になるのではないかと心配されている。",
+      "content": "You understand that your ideas and values about a happy old age differ from your father's, but you're worried he might become lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:05:38",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:06:30",
+      "origin": "あきらめているという。思いと、あきらめたくない思いがごちゃごちゃしている。",
+      "content": "Feelings of having given up and of not wanting to give up are all mixed together."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:06:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:07:29",
+      "origin": "とても責任感が強く、ご両親の幸せのために、いろいろなことをされてきたのだと思いました。",
+      "content": "I feel that you have a very strong sense of responsibility and have done many things for your parents' happiness."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:07:43",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:08:13",
+      "origin": "自分が報われなくても、ご両親が幸せであることが一番だと思われているところが、すごいなと思いました。",
+      "content": "I’m struck by how, even if you don't feel rewarded yourself, you prioritize your parents’ happiness above all."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:09:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:09:06",
+      "origin": "私の考えをお伝えしてもよろしいでしょうか？",
+      "content": "Would it be all right if I shared my thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:09:17",
+      "origin": "はいお願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:09:45",
+      "origin": "お父様は、あなたとの会話で、怒っていらっしゃらないのであれば、その会話を楽しんでいて、必要とされているのかなと思いました。",
+      "content": "If your father isn't angry during your conversations, I thought that perhaps he enjoys talking with you and feels needed."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:10:06",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:10:15",
+      "origin": "あなたと電話で話ができていることで、孤独なお気持ちは持たずにいられていると思います。",
+      "content": "I believe that by being able to talk with you on the phone, he is able to keep from feeling lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:10:27",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:10:58",
+      "origin": "それで、十分、孤独にさせたくないあなたの思いは行動になっていると思いましたがいかがでしょうか？",
+      "content": "So in that way, I feel that your wish not to let him be lonely is already reflected in your actions. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:11:18",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:11:41",
+      "origin": "会えないのに電話で話をすること自体とても大変なことだと思います。",
+      "content": "I think just talking on the phone when you can't meet in person is a very significant thing."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:12:18",
+      "origin": "お父様も、それがわかっているからこそ、いろいろ話題を作っているような気がしました。",
+      "content": "I felt that your father might be creating topics for conversation precisely because he understands that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:12:30",
+      "origin": "あなたの思いは伝わっていると思います。",
+      "content": "I believe your feelings are getting through to him."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:12:39",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:12:50",
+      "origin": "問題の解決にはなってはいないので、心苦しいですが、",
+      "content": "I feel bad that this doesn't solve the problem, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:12:59",
+      "origin": "いえいえ",
+      "content": "No, not at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:13:10",
+      "origin": "今の行動をぜひ続けていただけたら、",
+      "content": "If you could please continue what you’re doing now,"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:13:28",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:13:29",
+      "origin": "お父様は孤独ではなく、幸せだなと思います。",
+      "content": "I believe your father will feel happy, not lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:13:44",
+      "origin": "分かりました。ありがとうございました。",
+      "content": "I understand. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:14:16",
+      "origin": "今日はこのような感じになりますが、よろしいでしょうか？",
+      "content": "That will be all for today; is that alright?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:14:29",
+      "origin": "はい。大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:15:05",
+      "origin": "はい、お話に来てくださりありがとうございました。",
+      "content": "Okay, thank you for coming to talk with me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:15:20",
+      "origin": "これでロールプレイを終了いたします。",
+      "content": "This concludes the role-play."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:15:24",
+      "origin": "ありがとうございました。失礼します。",
+      "content": "Thank you very much. Goodbye."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "実の父親との価値観の違い"
+  },
+  "review_by_client": {
+    "evaluation_id": 459,
+    "evaluation_created_at": "2020-09-25T11:46:00",
+    "client_id": 85,
+    "counselor_id": 30,
+    "score": 35,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:21:18",
+      "origin": "こんばんは。本日はよろしくお願い致します。時間になりましたら始めますね。",
+      "content": "Good evening. Thank you for coming today. We'll begin at our scheduled time."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:22:08",
+      "origin": "こんばんは。こちらこそよろしくお願い致します。",
+      "content": "Good evening. Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:30:18",
+      "origin": "こんばんは。相談員です。本日は相談にお越しいただきありがとうございます。相談にあたって最初に年齢、性別、相談内容を教えていただけますか？",
+      "content": "Good evening. I'm a counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:31:06",
+      "origin": "こんばんは。20歳女性です。母のことで悩んでいるので相談したいです",
+      "content": "Good evening. I'm a 20-year-old woman. I'm having some trouble with my mother, and I'd like to talk about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:32:30",
+      "origin": "教えていただきありがとうございます。お母さんのことでどんなことで悩んでいるのでしょうか？（話せる範囲で大丈夫ですよ）",
+      "content": "Thank you for sharing that with me. What kind of troubles are you having with your mother? (You only need to share what you're comfortable with.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:33:34",
+      "origin": "3年ほど前に母がうつ病になって、ここ最近はずっと死にたいって言ってるんです",
+      "content": "About three years ago, my mother was diagnosed with depression, and lately, she's been saying she wants to die all the time."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:34:18",
+      "origin": "たまに殺してと暴れます",
+      "content": "Sometimes she gets violent and says, 'Kill me.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:34:48",
+      "origin": "そうなのですね、、それは怖いし、不安な気持ちになりますね、、",
+      "content": "I see... That must be scary and make you feel very anxious..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:35:10",
+      "origin": "はい。。辛くて辛くて",
+      "content": "Yes... It's just so painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:35:47",
+      "origin": "ええ、、あなたのお気持ち伝わってきます、、",
+      "content": "Yes... I can really feel what you're going through."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:36:07",
+      "origin": "どう接したらいいのかわかりません",
+      "content": "I don't know how to interact with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:37:18",
+      "origin": "そうなのですねたしかに死にたい、殺してと言われたら、そう思われるのは自然なことだと思いますよ、、",
+      "content": "I understand. It's natural to feel that way when someone says things like 'I want to die' or 'kill me.'"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:38:11",
+      "origin": "一緒にいるのも辛いんです",
+      "content": "It's painful just to be with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:39:23",
+      "origin": "ええ、そうなんですね、、今はどんなふうにお母さんと関わっているのですか？",
+      "content": "Yes, I see... How are you currently interacting with your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:40:29",
+      "origin": "ひとりにすると死んでしまいそうで怖いのでなるべく一緒に過ごすようにはしているんですけど、私も大学行ったりしてるので、、",
+      "content": "I'm afraid she might die if I leave her alone, so I try to spend as much time with her as possible, but I also have to go to university..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:41:55",
+      "origin": "そうなのですね、、大学も通いながら、お母さんのことを気にかけているのですね、、",
+      "content": "I see... So you're looking after your mother while also attending university."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:42:23",
+      "origin": "はい。。でもだんだん家に帰るのが億劫になってきました",
+      "content": "Yes... But I've gradually started to dread going home."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:43:26",
+      "origin": "そうですか、、いつ頃から億劫になっていたのですか？",
+      "content": "I see... When did you start to feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:44:37",
+      "origin": "いつからか忘れちゃったんですけど、ずっとこんな生活続くのかって考えたら疲れてきちゃって。家に帰りたくないんです。",
+      "content": "I don't remember exactly when, but thinking about this life continuing forever makes me exhausted. I don't want to go home."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:46:20",
+      "origin": "そうだったのですね先の事も考えると疲れてしんどくなりますよね、、",
+      "content": "I understand. Thinking about the future can make you feel drained and overwhelmed..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:46:59",
+      "origin": "ちなみに他にご家族の方はいるのでしょうか？",
+      "content": "By the way, do you have any other family members?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:47:22",
+      "origin": "いえ、母と2人暮らしです",
+      "content": "No, it's just me and my mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:48:39",
+      "origin": "そうなのですね。お母さんのことをどなたかにご相談されたりしましたか？",
+      "content": "I see. Have you talked to anyone about your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:48:55",
+      "origin": "していないです。",
+      "content": "No, I haven't."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:50:01",
+      "origin": "そうでしたか。本日は勇気を出して相談に来てくださったのですね。ありがとうございます。",
+      "content": "I see. It must have taken a lot of courage to come and talk today. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:50:32",
+      "origin": "はい。誰にも相談できなくて。ここでなら話せるかなって",
+      "content": "Yes. I couldn't talk to anyone about it. I thought maybe I could talk here."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:51:29",
+      "origin": "ええ、ここではどんなことも安心してお話していただいて大丈夫ですよ。",
+      "content": "Yes, please know that you can talk about anything here in confidence."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:51:39",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:53:35",
+      "origin": "いえいえ。ちなみにお母さんは三年前からうつ病ということですが、症状はどんな感じなのでしょうか？",
+      "content": "You're welcome. By the way, you mentioned your mother has had depression for three years—what are her symptoms like?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:54:27",
+      "origin": "落ち着いてるときもあるんですけど、たまにひどいときはさっき言ったみたいに暴れ出したりしますね",
+      "content": "There are times when she's calm, but when it gets bad, she sometimes gets violent, like I mentioned earlier."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:56:10",
+      "origin": "そうなのですね。３年前からそのような状況を繰り返されているかんじでしょうか、、？",
+      "content": "I see. Has this pattern been repeating for the past three years?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:56:27",
+      "origin": "そんな感じですね",
+      "content": "That's about right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:57:12",
+      "origin": "あなたはずっと献身的にお母さまを支えてきたのですね、、",
+      "content": "You've been so dedicated to supporting your mother all this time..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T19:57:40",
+      "origin": "支えないと、死んでしまうと思ったので",
+      "content": "I felt that if I didn't support her, she might die."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:58:37",
+      "origin": "ええ、そうでしたか、、",
+      "content": "Yes, I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T19:59:19",
+      "origin": "お母さんが死にたい、殺してと言われるときは、どう対応されているのですか？",
+      "content": "When your mother says she wants to die or 'kill me,' how do you respond?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:00:20",
+      "origin": "大丈夫。私がいるからってなだめますけど、母は大泣きしてて。そばにいることしかできません",
+      "content": "I try to calm her down by saying, \"It's okay. I'm here for you,\" but she just cries uncontrollably. All I can do is be by her side."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:01:27",
+      "origin": "そうなのですね、、それはおつらいですね、、",
+      "content": "I see... That must be very painful for you..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:02:01",
+      "origin": "はい。死んでほしくないですし、死にたいって言われるのが辛いです",
+      "content": "Yes. I don't want her to die, and it's painful to hear her say she wants to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:03:23",
+      "origin": "そうですよね、、死にたいと言われるのは、つらいし悲しい気持ちにもなりますね、、",
+      "content": "I understand... Hearing someone say they want to die must be painful and make you feel sad..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:03:42",
+      "origin": "はい。出来れば聞きたくないです",
+      "content": "Yes. I wish I didn't have to hear it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:04:52",
+      "origin": "そうですね、、毎日一緒にいるなら尚更聞きたくないですよね、、",
+      "content": "Yes... Especially if you're together every day, it's even harder to hear."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:05:10",
+      "origin": "私までダメになりそうです",
+      "content": "I feel like I'm going to break down too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:05:11",
+      "origin": "一度お話を整理してもよろしいでしょうか？",
+      "content": "May I summarize what you've shared so far?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:05:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:06:15",
+      "origin": "そうなのですね、、今の状況が続いたらあなたもしんどいですよね、、",
+      "content": "I see... If this situation continues, it must be really tough for you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:06:26",
+      "origin": "入れ違い失礼しました。",
+      "content": "My apologies for our messages crossing."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:09:24",
+      "origin": "お母さんが3年前からうつ病で、落ち着いている時もあるが、最近死にたいや殺してと言われる。大学に通いながら、なるべく一緒に過ごすようにしているが、ずっと今の状況が続くと思うといつからかだんだん家に帰るのが億劫になってきた。↓",
+      "content": "Your mother was diagnosed with depression three years ago, and while there are calm periods, recently she has been saying she wants to die or 'kill me.' While attending university, you try to spend as much time with her as possible, but the thought of this situation continuing forever has made you gradually start to dread going home. ↓"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:11:10",
+      "origin": "死にたいなど言われるときは、大丈夫私がいるからとなだめ、そばにいることしかできないし、死にたいと言われるのがつらい。聞きたくない。このままだとだめになりそう。",
+      "content": "When she says she wants to die, you try to calm her by saying, 'It's okay, I'm here,' but you feel you can't do anything but be by her side. It's painful to hear her say she wants to die, and you don't want to hear it. You feel like you're going to break down if this continues."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:11:24",
+      "origin": "このような感じでよろしいでしょうか？",
+      "content": "Does that sound accurate?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:11:33",
+      "origin": "はい、そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:12:17",
+      "origin": "ありがとうございます。では、今まで話されたことをふまえて本日はどのようなことをお話されたいでしょうか？",
+      "content": "Thank you. Based on what we've discussed so far, what would you like to focus on today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:13:38",
+      "origin": "母と一緒に暮らすのが辛いのでそれを聞いてほしかったです",
+      "content": "It's painful to live with my mother, and I wanted you to hear me out on that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:14:43",
+      "origin": "そうなのですね、、ではお話このまま聴かせていただきますね。",
+      "content": "I see... Then, please continue sharing, and I'll listen."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:14:58",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:16:09",
+      "origin": "先程、ダメになりそうと言われてましたが、どうダメになりそうなのでしょうか？",
+      "content": "Earlier, you said you feel like you're going to break down—could you tell me more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:16:37",
+      "origin": "私まで死にたくなってきそうで",
+      "content": "I feel like I might start wanting to die too."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:17:21",
+      "origin": "もういっそのこと2人で死んでしまおうか。とか馬鹿な考えが出てきそうで",
+      "content": "Foolish thoughts, like 'maybe we should just die together,' start to pop into my head."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:17:51",
+      "origin": "ええ（聴いていますよ）",
+      "content": "Mm-hmm (I'm listening)."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:18:10",
+      "origin": "心が折れそうです",
+      "content": "My spirit is about to break."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:18:56",
+      "origin": "あなたのお気持ち痛いほど伝わってきます、、そこまで追い詰められているのですね、、",
+      "content": "I can feel your pain so acutely... You've been pushed that far into a corner..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:19:23",
+      "origin": "はい。辛いです",
+      "content": "Yes. It's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:20:43",
+      "origin": "ええ、、あなたがとても心配です、、、",
+      "content": "Yes... I'm very worried about you..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:21:47",
+      "origin": "でも、母はきっと私よりもめちゃくちゃ辛いと思うんです",
+      "content": "But, I'm sure my mother is in much more pain than I am."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:22:34",
+      "origin": "そうなのですね、、あなたはそう思うのですね、、",
+      "content": "I see... That's how you feel..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:23:15",
+      "origin": "だから、私程度で弱音吐いちゃダメなのかなとも思います",
+      "content": "So I also think that someone like me shouldn't be complaining."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:24:36",
+      "origin": "そうなのですね、、どんな時にそう思われるのでしょうか、、？",
+      "content": "I see... When do you find yourself thinking that way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:25:42",
+      "origin": "ずっと思ってます。私より母の方が何倍も辛いんだから、私が弱音吐いてる場合じゃないんだろうなって。",
+      "content": "I always think that. My mother is suffering so much more than I am, so I feel like this is no time for me to be complaining."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:27:14",
+      "origin": "ずっと自分は弱音を吐いてる場合じゃないという思い抱えてきたのですね、、",
+      "content": "So you've been carrying this feeling that you're not in a position to complain for a long time..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:27:34",
+      "origin": "誰にも言えなかった、、",
+      "content": "I couldn't tell anyone..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:28:26",
+      "origin": "ええ、勇気がないと言えることではないですよ、、お話してくれて本当にありがとうございます。",
+      "content": "Yes, that's not something you can say without courage... Thank you so much for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:28:52",
+      "origin": "私はあなたがとても頑張っていると感じましたよ、、、",
+      "content": "I feel that you have been trying so very hard..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:29:59",
+      "origin": "死なせないように頑張っていただけなのかもしれません",
+      "content": "Maybe I was just trying hard to keep her from dying."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:31:13",
+      "origin": "そうなのですね、、しかし死なせないようにすることは、とても大事なことだと思いますよ、、",
+      "content": "I see... But trying to keep someone from dying is a very important thing to do..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:31:41",
+      "origin": "失うのが物凄く怖くて",
+      "content": "I'm so incredibly scared of losing her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:32:07",
+      "origin": "ええ、、",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:33:50",
+      "origin": "いなくなったら、怖いですよね、、",
+      "content": "It's scary to think of her being gone, isn't it..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:35:11",
+      "origin": "でもどうしてあげることもできない",
+      "content": "But there's nothing I can do for her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:35:42",
+      "origin": "そう思われるのですね、、",
+      "content": "That's how you feel..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:37:16",
+      "origin": "私はあなたがとてもお母さん想いだと感じました。あなたは何もしてあげれないと思う気持ちになるのも無理はありませんが、",
+      "content": "I feel that you care so deeply for your mother. It's understandable that you feel like you can't do anything for her, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:37:53",
+      "origin": "あなたのような娘さんがいてお母さんは幸せだなと私は感じましたよ、、",
+      "content": "...I feel that your mother is very fortunate to have a daughter like you."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:38:08",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:39:05",
+      "origin": "でもあなたがつらいと思われるのも無理もないことだとも思います、、",
+      "content": "But I also think it's completely understandable that you're finding this difficult."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:39:44",
+      "origin": "ここで話せたので少し楽になりました",
+      "content": "I feel a little better now that I've been able to talk about it here."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:40:06",
+      "origin": "それはなによりです。また次お話しませんか？",
+      "content": "I'm so glad to hear that. Would you like to talk again?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:40:25",
+      "origin": "母が落ち着いてるときにまた来ます",
+      "content": "I'll come again when my mother is feeling calmer."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:41:23",
+      "origin": "はい。またつらい、疲れたなど思ったらいつでも来てくださいね。お待ちしております。",
+      "content": "Yes. Please feel free to come back anytime you feel distressed or tired. We'll be waiting for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:41:31",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:42:00",
+      "origin": "本日は勇気を出してお話していただきありがとうございました。それでは相談を終了しますね。",
+      "content": "Thank you for mustering the courage to speak with me today. We'll end the session here."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:42:57",
+      "origin": "（ありがとうございました）",
+      "content": "(Thank you very much.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:43:02",
+      "origin": "（お時間過ぎてすみません！またこんなこともっと話したかったことなど評価よろしくお願いします）",
+      "content": "(I'm sorry we went over time! I would appreciate your feedback, including anything you would have liked to talk about more.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:43:31",
+      "origin": "（ありがとうございました。それではロールプレイ終了しますね。）",
+      "content": "(Thank you. We'll end the role-play here.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-20T20:43:32",
+      "origin": "（後ほど評価送らせていただきます」",
+      "content": "(I will send my feedback later.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-20T20:44:00",
+      "origin": "（承知しました。では失礼します。）",
+      "content": "(Understood. I'll take my leave then.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母のうつ病とその影響"
+  },
+  "review_by_client": {
+    "evaluation_id": 4254,
+    "evaluation_created_at": "2022-11-20T22:24:00",
+    "client_id": 294,
+    "counselor_id": 155,
+    "score": 60,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

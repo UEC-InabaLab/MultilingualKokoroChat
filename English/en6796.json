@@ -1,0 +1,585 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:00:13",
+      "origin": "おはようございます。相談員です、宜しくお願いします。初めに、年齢と性別、相談内容を教えていただけますか？",
+      "content": "Good morning. I'm a counselor, and it's nice to meet you. To begin, could you please tell me your age, gender, and what you'd like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:01:34",
+      "origin": "14歳女、学校行きたくない",
+      "content": "I'm a 14-year-old girl. I don't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:03:08",
+      "origin": "ありがとうございます。学校に行きたくないとのことですね。ではもう少し詳しくお話しできますか？",
+      "content": "Thank you. So, you don't want to go to school. Could you tell me a little more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:04:24",
+      "origin": "最近気が重くて、嫌だって感じます",
+      "content": "Lately, I've been feeling down about it, and I just hate the idea."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:05:24",
+      "origin": "そうでしたか、学校に行くことに気が重くて嫌だと感じているのですね。",
+      "content": "I see, so you've been feeling weighed down and reluctant about going to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:05:44",
+      "origin": "最近とはいつ頃からでしょうか？",
+      "content": "When you say 'lately,' how long has this been going on?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:06:11",
+      "origin": "1カ月前",
+      "content": "For about a month."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:07:15",
+      "origin": "学校に行きたくないと感じて１カ月間は学校には行っていないのですか？",
+      "content": "Have you not been going to school for the past month since you started feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:07:45",
+      "origin": "一応無理矢理行ってます",
+      "content": "I've been forcing myself to go."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:09:37",
+      "origin": "そうでしたか、1ヶ月も嫌だと思っている学校に無理やり行って闘い続けて来られたんですね。すごく苦しかったですね、、",
+      "content": "I see. So for a whole month, you've been fighting and forcing yourself to go to a school you don't want to go to. That must have been really tough."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:10:09",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:10:43",
+      "origin": "ちなみに今は学年は何年生ですか？",
+      "content": "By the way, what grade are you in now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:11:05",
+      "origin": "中3です",
+      "content": "I'm in the 9th grade."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:12:08",
+      "origin": "1か月前から嫌だと感じているとのことでしたが",
+      "content": "You said you've been feeling this way for about a month,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:12:23",
+      "origin": "何かきっかけはありましたか？",
+      "content": "Was there any particular trigger?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:12:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:12:53",
+      "origin": "お聞きしてもよろしいでしか？",
+      "content": "Would it be okay to ask what it was?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:13:17",
+      "origin": "クラス替えがありました",
+      "content": "Our classes were reassigned."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:14:08",
+      "origin": "新しい学年になってクラス替えがあったんですね",
+      "content": "So, when the new school year started, you were assigned to a new class."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:14:28",
+      "origin": "それでどうされましたか？",
+      "content": "And how was that for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:14:46",
+      "origin": "メンバーが変わり戸惑ってます",
+      "content": "The people in my class changed, and I'm feeling unsettled."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:16:15",
+      "origin": "そうでしたか、、今まで仲良しのお友達は離れてしまったのでしょうか？",
+      "content": "I see. Were you separated from your close friends?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:16:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:17:44",
+      "origin": "それは戸惑ってしまいますね、、今までも学年が上がるたびにクラス替えはあったと思いますがその時はどうだったんでしょうか？",
+      "content": "That would certainly be unsettling. I imagine you've had class reassignments every year when you moved up a grade. How was it in the past?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:18:04",
+      "origin": "大丈夫でした",
+      "content": "It was fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:19:11",
+      "origin": "では今回のクラス替えと今までのクラス替えの違いはどんなところですか？",
+      "content": "Then what's different about this time compared to previous class reassignments?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:20:01",
+      "origin": "嫌な人と一緒になりました",
+      "content": "I ended up in the same class as someone I don't like."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:20:59",
+      "origin": "それは戸惑うのも自然の事ですね、、",
+      "content": "It's only natural to feel unsettled by that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:21:44",
+      "origin": "嫌な人はお一人ですか？",
+      "content": "Is it just one person you're having trouble with?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:21:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:22:32",
+      "origin": "嫌になった出来事はどんなことがありましたか？",
+      "content": "What happened that made you feel this way about them?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:23:19",
+      "origin": "昔好きで告白して、振られました。その人が隣の席になり、気まずいです",
+      "content": "I used to like them and confessed, but I was rejected. Now they're sitting next to me, and it's awkward."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:24:21",
+      "origin": "そうだったのですね。それも隣の席、、、",
+      "content": "I see. And right next to you, of all places..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:24:45",
+      "origin": "その後はお話はされていないのですか？",
+      "content": "Have you two not spoken since then?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:24:51",
+      "origin": "はい",
+      "content": "No, we haven't."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:26:30",
+      "origin": "では、その方からも話しかけたりはしてこないですか？",
+      "content": "And they haven't tried to start conversations with you either?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:26:58",
+      "origin": "久しぶりくらいの軽い話はしましたが、あとはしてない",
+      "content": "We had a brief chat, like saying \"it's been a while,\" but nothing more than that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:28:09",
+      "origin": "そうですか、あなたから見て今その方はどんな風に見えてますか？",
+      "content": "I see. From your perspective, how do they seem to you now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:28:26",
+      "origin": "気まずい",
+      "content": "Awkward."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:29:10",
+      "origin": "その方も気まずそうにされているのですね",
+      "content": "They seem awkward too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:29:30",
+      "origin": "それはどんなことからそう思いますか？",
+      "content": "What makes you think that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:30:36",
+      "origin": "あまり、話せないし、自然じゃないから",
+      "content": "Because we can't really talk, and it doesn't feel natural."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:31:19",
+      "origin": "そうでしたか、、お互いそんなお気持ちになっているんですね",
+      "content": "I see. So it sounds like you're both feeling that way."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:31:41",
+      "origin": "向こうはわかりません",
+      "content": "I'm not sure about them."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:33:23",
+      "origin": "そうですね、、お互い同じ気持ちかもしれないし、その方は昔のことは気にしていないかもしれませんし、わかりませんよね。",
+      "content": "That's true. You might both feel the same way, or they might not be thinking about the past at all. There's no way to know for sure."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:33:44",
+      "origin": "はい",
+      "content": "Right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:33:54",
+      "origin": "ではあなたはその方のことは今はどう思われていますか？",
+      "content": "So, how do you feel about them now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:34:28",
+      "origin": "まだ好きですが、振られたので恥ずかしい",
+      "content": "I still like them, but I feel embarrassed because I was rejected."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:35:46",
+      "origin": "好きだからこそ今の戸惑いが出てくるんですよね。",
+      "content": "It's precisely because you like them that you're feeling so unsettled right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:36:12",
+      "origin": "ではあなたはこれからどうなっていきたいですか？",
+      "content": "So, what would you like to see happen from here?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:36:29",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:38:12",
+      "origin": "では、質問変えますね。今の戸惑いと恥ずかしさはどうなったら小さくなりそうですか？",
+      "content": "Okay, let me rephrase. What do you think would help these feelings of confusion and embarrassment get smaller?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:40:33",
+      "origin": "この一年、その子と離れていてあまり考えなかったので、その子が、いなくなれば楽になるかと思いました",
+      "content": "For the past year, we were in different classes and I didn't think about them much, so I thought it would be easier if they weren't around."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:42:55",
+      "origin": "そうでしたか忘れようとしているけど、忘れられずに好きという想いがあるように見えましたが、いかがですか？",
+      "content": "I see. It seems like you've been trying to forget, but you still have feelings for them that you can't let go of. Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:43:25",
+      "origin": "はい、そうかもしれないです",
+      "content": "Yes, that might be true."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:44:32",
+      "origin": "無理に忘れようとすると忘れられないってありますよね",
+      "content": "You know, sometimes the more you try to forget something, the harder it is to forget."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:44:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:44:57",
+      "origin": "無理に忘れなくてもいいとおもいます",
+      "content": "I think it's okay not to force yourself to forget."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:45:22",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:45:54",
+      "origin": "人を時間がたっても好きというのは素敵なことです！",
+      "content": "To still like someone after time has passed is a wonderful thing!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:46:16",
+      "origin": "一途で素敵です",
+      "content": "It shows you're very devoted, and that's wonderful."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:46:24",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:47:10",
+      "origin": "とても魅力のある方なんですね",
+      "content": "They must be a very charming person."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:47:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:47:42",
+      "origin": "どんなところが魅力に感じましたか？",
+      "content": "What do you find attractive about them?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:47:54",
+      "origin": "イケメン",
+      "content": "They're handsome."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:48:10",
+      "origin": "他にもありますか？",
+      "content": "Anything else?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:48:22",
+      "origin": "性格",
+      "content": "Their personality."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:49:41",
+      "origin": "性格も魅力に感じたのは以前は良くお話しされていたんですね！",
+      "content": "Finding their personality charming must mean you used to talk with them a lot!"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:49:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:50:06",
+      "origin": "ではこれからもお話ししたいですか？",
+      "content": "So, would you like to be able to talk with them again?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:50:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:50:36",
+      "origin": "そっか、お話ししたいけど恥ずかしいですね",
+      "content": "I see. You want to talk, but you feel embarrassed."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:50:52",
+      "origin": "気まずい",
+      "content": "It's awkward."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:51:11",
+      "origin": "でも好きな人と隣の席になるチャンスはもう来ないかもしれないし。すごい確率だとおもいましたが、いかがですか？",
+      "content": "But a chance to sit next to the person you like might not come again. The odds must be incredible, don't you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:51:55",
+      "origin": "そういう考え方もありますね",
+      "content": "That's one way to look at it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:52:50",
+      "origin": "もし、これからお話しできる隣の席にもうならないとしたら、あなたは今どうしたいですか？",
+      "content": "If you knew you wouldn't have this chance to sit next to them and talk again, what would you want to do right now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:53:48",
+      "origin": "もう話せない",
+      "content": "I wouldn't be able to talk to them anymore."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:53:57",
+      "origin": "だからあきらめる",
+      "content": "So I'll give up."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:54:42",
+      "origin": "なんで今更隣に来て運命のイタズラで、最悪",
+      "content": "Why, of all times, are they sitting next to me now? It's like a cruel joke of fate. This is the worst."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:55:02",
+      "origin": "死にたくなりました",
+      "content": "It made me want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:56:37",
+      "origin": "そっかそっか。運命のいたずらがあったのですね。",
+      "content": "I see, I see. It feels like a cruel trick of fate."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:57:24",
+      "origin": "お友達はお話しされていますか？",
+      "content": "Have you been talking with your friends about this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:57:45",
+      "origin": "話せなくて悩んでここに来ました",
+      "content": "I couldn't talk to anyone about it, so I was struggling and came here."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:59:38",
+      "origin": "そろそろ時間になりますが、ここまで話してどうでしたか？",
+      "content": "We're almost out of time, but how do you feel after talking about all this today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T11:00:20",
+      "origin": "はい、素直に話ができる人がいなかったので、少し話ができて楽になりました",
+      "content": "Yes, I didn't have anyone I could speak honestly with, so getting to talk a little has made me feel lighter."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T11:02:24",
+      "origin": "すみません、今回ではここまでしかお話しできませんでしたが、また後日もう少し一緒に考えていきたいのですが、また相談に来てください。",
+      "content": "I'm sorry, this is all the time we have for today, but I'd like to think about this more with you another time. Please come back for another session."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T11:02:46",
+      "origin": "はい、もう時間なんですね。ありがとうございました",
+      "content": "Okay, so it's time already. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T11:04:06",
+      "origin": "素直で素敵なあなたの力になれるようにお待ちしています！",
+      "content": "I'll be here, waiting to help a wonderful and honest person like you."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T11:04:17",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T11:04:34",
+      "origin": "ありがとうございました。では、失礼します",
+      "content": "Thank you. Well then, take care."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "クラス替えによる人間関係の戸惑い"
+  },
+  "review_by_client": {
+    "evaluation_id": 6796,
+    "evaluation_created_at": "2024-04-29T11:34:00",
+    "client_id": 449,
+    "counselor_id": 443,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

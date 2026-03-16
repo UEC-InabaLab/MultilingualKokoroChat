@@ -1,0 +1,609 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-31T10:52:09",
+      "origin": "（おはようございます。本日は、私の操作ミスで、再度お時間を調整して頂くというご迷惑をおかけしてしまい、大変申し訳ありませんでした。）",
+      "content": "(Good morning. I sincerely apologize for the inconvenience caused by my mistake, which required you to adjust your schedule again.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T10:52:40",
+      "origin": "（再度マッチングして頂いて、本当にありがとうございます。定刻になったら、始めさせて頂きますね。）",
+      "content": "(Thank you so much for matching with me again. We'll get started at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T10:53:25",
+      "origin": "(おはようございます。とんでもないです。こちらこそ、よろしくお願いします。)",
+      "content": "(Good morning. It's no problem at all. I'm looking forward to our session as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T10:53:48",
+      "origin": "（ありがとうございます。はい、よろしくお願い致します。）",
+      "content": "(Thank you. Yes, I look forward to working with you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:00:02",
+      "origin": "おはようございます、相談員です。本日はご相談にお越し頂き、ありがとうございます。はじめに、年齢、性別、ご相談内容を教えて頂けますか？",
+      "content": "Good morning, this is the counselor. Thank you for coming in today. To start, could you please tell me your age, gender, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:01:06",
+      "origin": "３０歳　女　今後の人生をどう過ごしていけばいいのか分からなくなりました",
+      "content": "30 years old, female. I've lost sight of how I should live my life going forward."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:01:43",
+      "origin": "そうなのですね。お話下さり、ありがとうございます。よろしければ、もう少し具体的に聞かせて頂けますか？",
+      "content": "I see. Thank you for sharing that with me. If you're comfortable, could you tell me a little more specifically?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:03:31",
+      "origin": "３０歳になって周りの友達は結婚したり子供ができたり、出世したり、色んな変化があるのに私は何もなくて不安です",
+      "content": "I've turned 30, and my friends are getting married, having children, getting promotions, and experiencing all sorts of changes, but nothing is happening for me, and it makes me anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:04:33",
+      "origin": "そうなのですね。周りの友達が変化が大きいと、自分には変化がないと感じやすくなるのも自然なことと思います。",
+      "content": "I see. When you see your friends going through big changes, I think it's natural to feel like there's no change in your own life."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:04:56",
+      "origin": "どうしても比べてしまいますよね。",
+      "content": "It's hard not to compare, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:05:26",
+      "origin": "そうですね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:06:51",
+      "origin": "相談者さんは、今は毎日どのように過ごされていますか？たとえば、お仕事や趣味など。",
+      "content": "How do you usually spend your days? For example, with work or hobbies."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:08:07",
+      "origin": "固定休がないので、仕事の日は仕事と家事で終わりますし、趣味なんてないんです",
+      "content": "I don't have fixed days off, so on workdays, my time is just filled with work and chores. I don't really have any hobbies."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:08:27",
+      "origin": "探したほうがいいんでしょうけど",
+      "content": "I suppose I should look for one, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:08:42",
+      "origin": "なんもやる気になれないというか",
+      "content": "I just can't seem to feel motivated to do anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:09:18",
+      "origin": "そうなのですね。お仕事と家事を頑張られているのですね。趣味は、あればいいですし、なくても気にすることはないと思いますよ。",
+      "content": "I see. You're working hard with both your job and housework. It's nice to have a hobby, but I don't think there's a need to worry if you don't have one right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:09:58",
+      "origin": "ちなみに、やる気になれないことに、何か心当たりはありますか？",
+      "content": "By the way, do you have any idea why you might be feeling unmotivated?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:11:17",
+      "origin": "趣味ってお金がかかるなとか外にでて運動することも別に好きじゃないし、何か作るのも好きじゃないし、好きだと思うものがないからかなとさ",
+      "content": "I just think hobbies cost money, I don't particularly like going out to exercise, I don't like making things... I guess it's because there's nothing I feel I like."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:11:30",
+      "origin": "ええ、ええ",
+      "content": "Mmm, I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:11:45",
+      "origin": "なんか色々考えるとやろうとも思えないです",
+      "content": "When I think about all that, I don't even feel like trying."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:13:14",
+      "origin": "なるほど、趣味を楽しむためのハードルが高いと感じられているのですね。確かに、お金や移動など、趣味をするために準備が必要なもの多いですよね。",
+      "content": "I see, so you feel the hurdles to enjoying a hobby are high. It's true that many hobbies require preparation, like money or travel."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:13:59",
+      "origin": "なにかに興味をもつとかそういう気持ちがないからいけないんだろうなとおもいます",
+      "content": "I think the problem is that I don't have that feeling of being interested in anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:15:37",
+      "origin": "そう感じられるのですね。私個人の意見にはなりますが、趣味は自然に見つかれば良いと思いますし、好きな飲み物を飲んだり、漫画を読む、道端のお花を楽しむ、など、小さなことでも趣味と呼べると思いますよ。",
+      "content": "That's how you feel. This is just my personal opinion, but I think it's fine if you find a hobby naturally. Even small things like drinking your favorite beverage, reading a comic, or enjoying the flowers on the side of the road can be called a hobby."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:17:37",
+      "origin": "そうですかでも、自然に見つかる感じもいつになるんだろうかって感じですよね",
+      "content": "Is that so? But then I wonder when I'll \"naturally\" find one."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:18:04",
+      "origin": "そういうのも不安になっちゃうんですよねずっとなにもないんじゃないかなって",
+      "content": "That kind of thing makes me anxious too... like maybe nothing will ever come along."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:19:03",
+      "origin": "なるほど、そうお感じなのですね。確かに、自然に見つかるのを待つというのは、いつになるか確定していないものですものね。",
+      "content": "I see - that's how you feel. Indeed, waiting for something to appear naturally has no set timeline."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:19:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:20:06",
+      "origin": "相談者さんのお友達の変化も、そういった人生の上で確定していないものばかりですものね。",
+      "content": "The changes your friends are experiencing are also things in life that aren't certain or guaranteed, aren't they?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:20:43",
+      "origin": "そうですね",
+      "content": "That's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:22:02",
+      "origin": "ええ、ええ。先ほど、相談者さんがお友達の変化としてあげて下さったことに「結婚」「出産」「出世」などがありましたが、相談者さんはこれからどうなったらいいなと思いますか？",
+      "content": "Mm-hm. Earlier, you mentioned changes among your friends such as marriage, having children, and promotions. What would you like to see happen for yourself in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:23:13",
+      "origin": "全然想像できないんです",
+      "content": "I can't imagine it at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:23:55",
+      "origin": "なるほど、そうなのですね。それは知りたかったり、見つけたかったりするお気持ちもあるのではないかと思いますが、いかがですか？",
+      "content": "I see. I imagine there might also be a part of you that would like to know or discover that - how does that feel to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:26:34",
+      "origin": "結婚とか出産とかそういうのがあったらいいなとは思いますし、出世もできたらいいなとは思いますけど、それを行動に移す自分が想像できないんです",
+      "content": "I do think it would be nice to have things like marriage or children, and it would be nice to get promoted too, but I can't picture myself taking action toward those things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:28:08",
+      "origin": "そうお感じなのですね。どれもできたらいいなというお気持ちなのですね。",
+      "content": "That's how you feel. They all sound like things that would be nice if they happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:28:14",
+      "origin": "ちなみに、",
+      "content": "By the way,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:29:07",
+      "origin": "行動に移す自分が想像できない、というのは、具体的な方法が思いつかない、というようなお気持ちでしょうか？",
+      "content": "When you say you \"can't imagine yourself taking action,\" does that mean you can't think of specific ways to do so?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:31:24",
+      "origin": "なんとなくこうすればいいんだろうなっていうのは思います。でも、そうしたときに良いイメージはないんです。結局うまくいかなくてもういいやってなってる感じがします。",
+      "content": "I kind of have an idea of what I probably should do. But when I think of doing it, I don't have a positive image. It feels like it wouldn't work out, and I'd end up thinking, 'Whatever, never mind.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:33:04",
+      "origin": "なるほど、そのように感じられるのですね。うまくいかないと、やめたくなるのは当然のことだと思います。",
+      "content": "I see, that's how it feels to you. I think it's perfectly natural to want to give up when things don't go well."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:33:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:34:12",
+      "origin": "そうなのですね。ここまでのお話を一度まとめさせて頂きますね。",
+      "content": "I see. Let me try to summarize what we've discussed so far."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:36:59",
+      "origin": "相談者さんは、３０代に入り、周りの友達の大きな変化などを見て、自分には何もなくて不安を感じておられる。趣味を見つけることなども含め、それは確定していないことに対する不安である。結婚や出産、出世などをしたい気持ちはあるが、自分が行動するにあたり良いイメージが浮かばず、うまくいかないと感じていらっしゃる。",
+      "content": "You've entered your 30s, and seeing the significant changes in your friends' lives makes you feel anxious that nothing is happening in your own. This includes things like finding a hobby, and it's an anxiety about things that are uncertain. You have a desire for marriage, childbirth, and career advancement, but you can't form a positive image of yourself taking action and feel that you won't succeed."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:38:45",
+      "origin": "いかがですか？何か間違いや気になるところがあれば、言って下さいね。",
+      "content": "How does that sound? If there's anything I've misunderstood or anything that concerns you, please let me know."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:39:06",
+      "origin": "そうですね、書いてあるとおりだと思います。",
+      "content": "Yes, I think that's exactly right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:39:49",
+      "origin": "ありがとうございます。ちなみに、行動されるにあたって、良いイメージが浮かばない理由など、お心当たりはありますか？",
+      "content": "Thank you. By the way, do you have any idea why you can't form a positive image when you think about taking action?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:40:27",
+      "origin": "いや、わからないです",
+      "content": "No, I'm not sure."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:40:48",
+      "origin": "良いイメージを感じたことがほとんどないです",
+      "content": "I've hardly ever had a positive image of things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:41:35",
+      "origin": "そうなのですね。良いイメージではないとすると、例えばどんなイメージが浮かびますか？",
+      "content": "I see. If it's not a positive image, what kind of image comes to mind, for example?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:43:21",
+      "origin": "良いイメージは出来てるかもしれないです。ただ、良かった後に失敗する、結局だめになるってイメージになります",
+      "content": "I might be able to form a positive image. But then, it turns into an image of failing after things go well, of it all falling apart in the end."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:44:59",
+      "origin": "なるほど、そうなのですね。そのように感じられていることだけでも、心にご負担がかかっておらえるのではないかと思います。",
+      "content": "I see, so that's how it is. Just feeling that way must be a heavy burden on you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:45:23",
+      "origin": "おられるのではないか、の間違いです。失礼致しました。",
+      "content": "That was a typo. My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:46:38",
+      "origin": "そうかもしれないですね",
+      "content": "That might be true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:47:00",
+      "origin": "ええ、ええ。ここまでお話を伺って、私から一つ提案なのですが、",
+      "content": "Mm-hm. Having heard what you've shared so far, I have one suggestion."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:48:59",
+      "origin": "相談者さんがなぜ良かった後に失敗するイメージを持ってしまうかについて、残りのお時間でじっくり考えてみることは、相談者さんがご自分を理解することに繋がり、少し楽になれるかもしれない、と思うのですがいかがですか？",
+      "content": "For the remainder of our time, how about we take a closer look at why you have this image of failing after things go well? I think understanding yourself better could help you feel a little more at ease. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:49:44",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:50:08",
+      "origin": "わかりました",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:51:02",
+      "origin": "ありがとうございます。じっくりご自分への理解を深めるには、時間がかかるかもしれませんので、今回だけは終わらないかもしれませんが、よろしいですか？",
+      "content": "Thank you. Deepening your self-understanding may take time, so we might not finish this in just one session. Is that alright with you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:51:23",
+      "origin": "記録をとっておくので続きからまたいつでも話して頂けますし、",
+      "content": "I'll keep notes, so you can always pick up from where we left off,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:51:55",
+      "origin": "それ以外のことで、今日お話しになりたいことがあれば、言って下さいね。",
+      "content": "and if there's anything else you'd like to talk about today, please let me know."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:52:06",
+      "origin": "わかりました",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:53:11",
+      "origin": "ありがとうございます。では、少しイメージに関連してお聞きしたいのですが、相談者さんは、小さな頃はどんなお子さんだったとご自分で思われますか？",
+      "content": "Thank you. I'd like to ask something related to the images you mentioned: how would you describe yourself as a child?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:54:27",
+      "origin": "人見知りで話すのが苦手だったと思います",
+      "content": "I think I was shy around strangers and had trouble speaking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:55:29",
+      "origin": "そうなのですね。それはいつ頃のことになりますか？年齢や小学生、など、だいたいで大丈夫ですよ。",
+      "content": "I see. Around what age was that? Roughly is fine - like by age or 'in early elementary school,' for example."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:56:14",
+      "origin": "小学生より前だった気がします。小学生のころにはそんなことなかったので",
+      "content": "I think it was before elementary school. I wasn't like that when I was in elementary school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:56:56",
+      "origin": "そうなのですね、ありがとうございます。小学生の頃は、どんなお子さんでしたか？どんな風に過ごされていたか、などでもいいですよ。",
+      "content": "I see, thank you. What were you like in elementary school? You can tell me about how you spent your time."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:57:51",
+      "origin": "学校にはちゃんと行ってて、友達とも沢山遊んでいました。",
+      "content": "I went to school regularly and played a lot with friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T11:58:39",
+      "origin": "そうなのですね。小学校生活を楽しまれていたのですね。小学生の頃に、何か印象に残っている思い出などはありますか？",
+      "content": "I see. So you enjoyed your elementary school life. Are there any memories from elementary school that stand out to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T11:59:42",
+      "origin": "運動会とか学校の行事が楽しかったですね",
+      "content": "I enjoyed things like sports day and other school events."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:00:02",
+      "origin": "そうなのですね。いつもと違う行事は、ワクワクしますよね。",
+      "content": "I see. Special events that are different from the usual routine can be exciting, can't they?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:00:14",
+      "origin": "そうですね",
+      "content": "Yes, they can."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:01:59",
+      "origin": "ええ、ええ。今、小学生の頃のところまで聴かせて頂きましたが、もしよければ次回までに、同じように中学、高校、そしてそれ以降、現在までを振り返ってみて頂けますか？と言いますのも、",
+      "content": "Mm-hm. We've talked up through your elementary school years. If you're willing, could you reflect in a similar way on junior high, high school, and beyond up to the present before our next session? The reason I ask is,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:02:58",
+      "origin": "これまでの相談者さんのご経験の中に、今のような「良かった後に失敗するイメージ」に繋がる出来事をご経験されている可能性がああり、",
+      "content": "it's possible that somewhere in your past experiences, there was an event that led to this current \"image of failing after things go well,\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:03:24",
+      "origin": "それが無意識に今の相談者さんに影響している可能性があります。",
+      "content": "and it might be unconsciously affecting you now."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:03:58",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:04:34",
+      "origin": "はい、そこから、何かわかるかもしれないと考えておりますが、その作業の中で心にとめておいて頂きたいのが、",
+      "content": "Yes, I think we might discover something from that. But there's something I'd like you to keep in mind during this process."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:05:04",
+      "origin": "もしそれがどのような出来事であっても、ご自分を責めることはなさらないで頂きたいと思っています。",
+      "content": "Whatever event it may be, I'd like you to try not to blame yourself for it."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:05:24",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:05:50",
+      "origin": "もしよければ、次回、一緒に話す中で見つけていく形でも良いですし、もしご自身で見つけられた場合は、",
+      "content": "If you'd like, we can try to find it together while we talk next time, or if you find something on your own,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:06:13",
+      "origin": "「そうだったんだね」とその頃のご自分を理解して、受け入れて頂くと良いと思います。",
+      "content": "it can be helpful to say to your younger self, 'So that's what it was like,' and meet that version of you with understanding and acceptance."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:06:33",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:06:58",
+      "origin": "それだけで、癒されることがありますので、次回までに、お気持ちが向くようでしたら、取り組んでみて下さいね。",
+      "content": "Sometimes that alone can be healing. If you feel up to it before our next session, please try giving it a go."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:07:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:07:51",
+      "origin": "もし、お気持ちが苦しいときは、すぐにご相談に来ていただければ、続きからお話して頂けます。",
+      "content": "If you start to feel distressed, please feel free to come back and talk anytime, and we can continue from where we left off."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:08:12",
+      "origin": "わかりました",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:08:35",
+      "origin": "ありがとうございます。途中になってしまいましたが、相談されてみて、今のお気持ちはいかがですか？",
+      "content": "Thank you. We're pausing partway through, but how are you feeling after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:09:02",
+      "origin": "自分のこと少し考えてみようかなと思います。",
+      "content": "I feel like I might try thinking about myself a bit."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:10:11",
+      "origin": "そのように感じられているのですね。相談者さんは、お話させて頂いていても、とても素直で誠実な方だと感じますので、ひとつひとつこれまで感じたお気持ちを振り返っていく中で、きっと良いイメージを持ち続けられるようになると私は感じています。",
+      "content": "That's how you're feeling. From our conversation, I feel that you are a very honest and sincere person, so I believe that as you reflect on each of the feelings you've had, you will surely become able to hold onto a positive image."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:10:59",
+      "origin": "今後もそのお手伝いをさせて頂ければと思いますので、おひとりで抱えたりなさらずに、またいつでも来て下さいね。",
+      "content": "I would be happy to continue helping you with that, so please don't try to carry it all by yourself. Come back anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:11:07",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:11:37",
+      "origin": "こちらこそ、ありがとうございます。それでは、今日の相談を終了させて頂いてもよろしいですか？",
+      "content": "Thank you as well. Shall we end today's session here?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:11:46",
+      "origin": "大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:12:10",
+      "origin": "ありがとうございます。相談者さんを心から応援しております。それでは、本日の相談を終了させて頂きます。",
+      "content": "Thank you. I'm truly rooting for you. We'll conclude today's session here."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:12:18",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:12:58",
+      "origin": "（ありがとうございました。大変勉強になりました。お手数ですが、また評価をよろしくお願い致します。）",
+      "content": "(Thank you very much. I learned a great deal. If it's not too much trouble, I'd appreciate your rating again.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T12:13:23",
+      "origin": "(こちらこそありがとうございました。)",
+      "content": "(Thank you as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T12:14:00",
+      "origin": "（では、ロールプレイを終了させて頂きますね。再度のマッチング、本当にありがとうございました。）",
+      "content": "(We'll end the role-play here. Thank you again for matching with me.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "今後の人生の過ごし方に対する不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 5179,
+    "evaluation_created_at": "2023-05-31T12:28:00",
+    "client_id": 355,
+    "counselor_id": 363,
+    "score": 85,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

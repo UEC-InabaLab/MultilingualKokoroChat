@@ -1,0 +1,447 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:21:44",
+      "origin": "（こんばんわ。時間になったら始めさせていただきます。よろしくお願いします。）",
+      "content": "(Good evening. We will begin at the scheduled time. I look forward to working with you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:23:57",
+      "origin": "(こちらこそよろしくお願いいたします)",
+      "content": "(I look forward to it as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:30:14",
+      "origin": "こんばんわ。相談員です。まず初めに年齢、性別、お話したいことを教えてください。",
+      "content": "Good evening. I am your counselor. To begin, could you please tell me your age, gender, and what you would like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:31:04",
+      "origin": "こんばんは。50歳、男です。妻と飲酒のことでご相談したいと思って来ました。",
+      "content": "Good evening. I'm a 50-year-old man. I've come here to talk about my wife and her drinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:32:13",
+      "origin": "お話してくださってありがとうございます。奥様と飲酒のこととを詳しく教えていただけますか？",
+      "content": "Thank you for sharing that with me. Could you please tell me more about your wife and the drinking issue?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:34:06",
+      "origin": "妻は車を運転する日以外は、1日も欠かさず酒を飲みます。それで精神の安定を保っていると思われるほどで、落ち込んだり機嫌が悪い時でも酒を飲むと元気になるほどなんですが、",
+      "content": "My wife drinks every day, except on days when she has to drive. It seems to be how she maintains her emotional stability; even when she’s down or in a bad mood, drinking perks her up, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:35:31",
+      "origin": "はい（つづけてください）",
+      "content": "I see. (Please continue.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:35:53",
+      "origin": "いくらなんでも飲みすぎだと思うのです。でも本人から酒を取り上げると不機嫌になるし、健康診断でも肝臓の数値は正常なので飲み続けているのです。",
+      "content": "I think she drinks far too much, no matter how you look at it. But if I try to take the alcohol away from her, she gets upset, and since her liver function tests are normal at her health checkups, she just keeps on drinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:36:46",
+      "origin": "そうなんですね。それは心配になりますよね。",
+      "content": "I see. That must be very worrying for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:36:53",
+      "origin": "でも最近は血圧も上がってきて、少し抑えてほしいとも思っているのですが、ストレスが溜まることも多いのでなかなか止められそうになくて困っています。",
+      "content": "But her blood pressure has been rising recently, and I want her to cut back a little. However, she's under a lot of stress, so it seems difficult for her to stop, and I'm at a loss as to what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:37:32",
+      "origin": "奥様はいつぐらいからそのようにお酒を飲むようになったのですか？",
+      "content": "Around when did your wife start drinking like this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:38:24",
+      "origin": "結婚したのが13年前だったんですが、その時から既にそんな感じでした。",
+      "content": "We got married 13 years ago, and she was already like that back then."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:39:48",
+      "origin": "ずいぶん長くそのような状態が続いているのですね。きっかけは何かわかりますか？",
+      "content": "So this has been going on for quite a long time. Do you know what might have triggered it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:41:15",
+      "origin": "きっかけは、職場でよく飲む人がたくさんいる部署に移って、それで飲むようになったと言ってました。それまでは飲めなかったみたいですけど。",
+      "content": "She said it started when she was transferred to a department at work where a lot of people drank heavily. Apparently, she couldn't drink much before that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:42:54",
+      "origin": "そうなんですね。仕事をきっかけに飲むことが多くなったんですかね。奥様が飲みすぎているとどういうお気持ちになられますか？",
+      "content": "I see. So it seems work was the trigger for her increased drinking. How do you feel when your wife drinks too much?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:44:24",
+      "origin": "適度に飲むのはいいと思うのですが、最近飲みすぎると自虐的になったり歩くのもやっとの状態になったりすることが増えて、そういう時は飲ませるんじゃなかったと思います。",
+      "content": "I think drinking in moderation is fine, but recently, when she drinks too much, she has been getting more self-deprecating and can barely walk. At times like that, I regret letting her drink."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:46:00",
+      "origin": "歩くのもやっとなくらい飲んでいると心配になりますよね。相談者さん自身はお酒は飲まれるのですか？",
+      "content": "It must be worrying when she drinks so much that she can barely walk. Do you drink alcohol yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:47:23",
+      "origin": "飲みますけど、私はそこまで酔いつぶれるほどではないです。妻の介抱もしないといけないですし。このあいだは転んで怪我をしてしまって大変でした。。",
+      "content": "I do drink, but not to the point of passing out. I have to take care of my wife, too. The other day she fell and injured herself, which was really tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:48:17",
+      "origin": "転んだのは奥様のほうですか？けがは大丈夫でしたか？",
+      "content": "Was it your wife who fell? Was she okay?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:49:25",
+      "origin": "そうです。一瞬目を離した時に顔から転んでしまって、鼻から流血してしまったのですが、今はもう治っています。",
+      "content": "Yes. I looked away for a moment, and she fell flat on her face, causing a nosebleed. It's all healed now, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:50:36",
+      "origin": "想像しただけで痛々しいです・・・。治って安心しました。",
+      "content": "Just imagining it sounds painful... I’m relieved to hear she’s recovered."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:51:43",
+      "origin": "はい。顔でしたのですりむいてしまって大変でしたが、何とか痕も残らずに済みました。",
+      "content": "Yes. It was on her face, so it was a bad scrape, but thankfully it healed without leaving a scar."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:53:24",
+      "origin": "それを聞いて安心しました。相談者さん的には奥様にはお酒をほどほどにしてほしいとお考えですか？",
+      "content": "I'm glad to hear that. From your perspective, do you want your wife to drink in moderation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:54:18",
+      "origin": "そうですね。止めろとは言わないから、少しずつでも酒量を抑えていってほしいです。",
+      "content": "That's right. I'm not telling her to quit, but I would like her to reduce the amount she drinks, even if it's just little by little."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:56:59",
+      "origin": "それだけ奥様のことが心配されているのですね。奥様にはお酒の量を減らしてほしいとお話されたことはありますか？",
+      "content": "That shows how much you're worried about her. Have you ever talked to her about wanting her to reduce her drinking?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T19:58:05",
+      "origin": "直接的に言ったことはないですね。とても不機嫌になるので。",
+      "content": "I've never said it to her directly. She gets very upset."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T19:59:26",
+      "origin": "そうだったのですね。不機嫌になられるとなかなか話しにくいですよね。",
+      "content": "I see. It must be difficult to bring it up when she gets upset like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:00:18",
+      "origin": "どうやったら奥様の飲酒量を減らせそうですか？",
+      "content": "What do you think might help your wife reduce her alcohol intake?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:00:34",
+      "origin": "そうなんです。今の一番の楽しみが酒みたいなものなので。嫌なことを忘れるために飲んでるというか。。",
+      "content": "Exactly. Right now, drinking is like her greatest pleasure. It's like she drinks to forget unpleasant things..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:01:37",
+      "origin": "そうですね。。",
+      "content": "Yes..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:02:53",
+      "origin": "自分で作れる店だと、私が作る時に少しずつ酒の濃さを薄くしていったりはしてますが。",
+      "content": "At places where we can mix our own drinks, I do try to gradually make them a little weaker when I'm the one making them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:03:13",
+      "origin": "なるほど。嫌なことを忘るためにとかお酒を楽しみにしているとなかなかや減らしにくいかもしれませんね。",
+      "content": "I see. If she drinks to forget unpleasant things or sees it as her main source of enjoyment, it might be difficult for her to cut back."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:04:36",
+      "origin": "そうですね。でも自虐的にもなっちゃうんですけどね。そういう時は「これ以上そういうことを言うと飲ませないぞ！」と怒ったりするのですが、",
+      "content": "That's right. But she also gets self-deprecating. When that happens, I sometimes get angry and say, \"If you keep talking like that, I'm cutting you off!\" but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:04:56",
+      "origin": "本人は泥酔してるので聞く耳もたずですね。",
+      "content": "She’s dead drunk, so she doesn’t listen."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:05:44",
+      "origin": "お酒の濃さを薄くして作ってあげているのですね。ほんとに奥様のお身体を気遣っておられるのですね。",
+      "content": "So you make her drinks weaker for her. You are truly concerned about your wife's health."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:06:45",
+      "origin": "泥酔していると話をちゃんと聞けていないのかもしれませんね。",
+      "content": "When she's that intoxicated, she may not be able to properly hear what you're saying."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:07:07",
+      "origin": "そうですね。いくら肝臓が強くても、年齢も年齢ですし、倒れてしまったら困るので。。",
+      "content": "Yes. Even if her liver is strong, considering her age, it would be a problem if she were to collapse..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:08:03",
+      "origin": "休肝日も作る気ないみたいだし、正直とても困っています。",
+      "content": "She doesn't seem to have any intention of taking alcohol-free days, so honestly, I'm at a complete loss."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:09:17",
+      "origin": "そうですよね。アルコールは体には良いものではないですものね。少し相談員からの提案なのですが、お二人の共通も趣味などを持つのはどうかな？と思ったのですがいかがですか？",
+      "content": "I understand. Alcohol isn't good for the body, after all. This is just a suggestion from me, but what do you think about finding a hobby you could both enjoy together?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:10:32",
+      "origin": "共通の趣味はないこともないです。ただそれが酒を抑えることに繋がるかどうか。。",
+      "content": "It's not that we don't have any hobbies in common. I’m just not sure if that would lead to her curbing her drinking..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:13:17",
+      "origin": "お話を聴いていて奥様はお酒が好きなのもあるけどストレス解消でもお酒を飲んでいるのかなと感じました。",
+      "content": "Listening to you, I get the sense that your wife drinks not only because she likes alcohol, but also as a way to relieve stress."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:14:15",
+      "origin": "そうです。公私ともにストレスが溜まることが多くて、それで飲むことが最近は多いです。",
+      "content": "That's right. She deals with a lot of stress both at work and personally, and that's why she's been drinking more lately."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:14:34",
+      "origin": "共通の趣味があるとお互いのコミュニケーションも増えて色んな意見を言えるし、ストレス解消や気分転換にもなるのかなと思ったのですが。。",
+      "content": "I thought that having a shared hobby might increase your communication, allow you to exchange various opinions, and serve as stress relief or a change of pace..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:15:24",
+      "origin": "ちなみに共通の趣味はどういったことなんですか？",
+      "content": "By the way, what are your shared hobbies?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:15:57",
+      "origin": "共通の趣味は野球観戦です。あと、ラジオを聴いたり動画サイトを見たりとか。",
+      "content": "Our shared hobby is watching baseball games. We also listen to the radio and watch videos online."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:16:45",
+      "origin": "でも野球観戦にビールはつきものですし、色んな意見を言い合うと酒がそれに拍車をかけて、余計飲んでしまうので。？",
+      "content": "But beer goes hand in hand with watching baseball, and when we start exchanging opinions, the alcohol just adds fuel to the fire, and she ends up drinking even more, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:18:55",
+      "origin": "野球観戦いいですね。確かに今の時期球場のビールはおいしく感じられますよね。行く前に今日はビール何杯まで。とか決めることは難しそうですか？",
+      "content": "Watching baseball sounds nice. And beer at the stadium certainly tastes good this time of year. Would it be difficult to decide on a limit, like \"only a certain number of beers today,\" before you go?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:20:59",
+      "origin": "それは難しいと思います。酒を飲む量を管理されてまで飲みたくない！とたぶん怒りが先に出て、趣味どころではなくなります。",
+      "content": "I think that would be difficult. She would probably get angry first, thinking, \"I don't want to drink if you're going to manage how much I have!\" and it would ruin the hobby for her."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:22:31",
+      "origin": "なるほど。怒りが出てきてしまうんですね。そこはノンアルとかでも難しいですか？",
+      "content": "I see. So anger would come up. Would non-alcoholic options be difficult as well?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:23:12",
+      "origin": "ノンアルは論外だと思います。とにかく酒を飲むことが大前提なので。",
+      "content": "Non-alcoholic is out of the question, I think. For her, drinking alcohol is the entire point."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:24:17",
+      "origin": "そうなんですね。そしたら球場にいくのはお酒を減らすという意味では向いていないかもしれませんね。",
+      "content": "I see. In that case, going to the stadium might not be a suitable way to reduce her drinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:25:37",
+      "origin": "お二人で散歩とかはしないのですか？",
+      "content": "Do the two of you ever go for walks together?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:26:15",
+      "origin": "歩くことは避けたがる人なのでなかなか難しいです。",
+      "content": "She tends to avoid walking, so that's quite difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:28:00",
+      "origin": "なるほど。身体を動かすといい感じに疲労が出てお酒を減らすことに有効なのかなと思ったのですが。",
+      "content": "I see. I thought that getting some physical activity might create a healthy sense of fatigue and be effective in reducing her drinking."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:29:13",
+      "origin": "まあ、それが本来ですし、そうしてほしいのは山々ですが、あまりにも疲れると飲む気も失せて寝ることはたまにありますけどね。",
+      "content": "Well, that's how it should be, and I'd love for that to happen. There are rare occasions when she gets so tired that she loses the desire to drink and just goes to sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:31:35",
+      "origin": "そういうことはあるのですね。何かうまくお酒を減らせる方法があればいいのですが。。。。",
+      "content": "So that does happen sometimes. I wish there were a good way to help her reduce her drinking..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:32:28",
+      "origin": "今のところ、まあ飲む気も失せるくらい疲れるとかしかないかなぁ。。",
+      "content": "For now, I suppose the only thing is for her to get so tired she doesn't feel like drinking..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:34:44",
+      "origin": "難しい相談で申し訳なかったですね。。",
+      "content": "I'm sorry for bringing such a difficult problem to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:34:51",
+      "origin": "そうですね。お家の中の趣味でもお酒のことを忘れらるくらいのことがあればいいのですが。",
+      "content": "I agree. It would be great if there were a hobby you could do at home that's engaging enough to make her forget about drinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:35:35",
+      "origin": "お話の途中で申し訳ないのですが、相談時間終了のお時間になってしまいました。続きをお話したいときはまたこちらにきていただければと思います。",
+      "content": "I'm sorry to interrupt, but our time for today's session is up. If you'd like to continue this conversation, please feel free to come back again."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:35:47",
+      "origin": "そうですねぇ…なかなか難しいけど、探してみます。",
+      "content": "Right... It’s not easy, but I’ll try to look for something."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:36:05",
+      "origin": "わかりました。ありがとうございました。",
+      "content": "I understand. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:36:45",
+      "origin": "そうですね。焦らずゆっくり解決していけたらと思います。また一緒に考えていきましょう。",
+      "content": "Yes. I hope we can work toward a solution without rushing. Let’s keep thinking about it together."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:37:07",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:37:43",
+      "origin": "本日はご相談いただきありがとうございました。これで相談を終了させていただきます。",
+      "content": "Thank you for coming in for a consultation today. This concludes our session."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:38:03",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-20T20:39:00",
+      "origin": "（お疲れさまでした。時間過ぎてしまい申し訳ありませんでした。お手数ですが評価のほうをよろしくお願いいたします。ありがとうございました。）",
+      "content": "(Thank you for your time. I apologize for going over time. If you wouldn't mind, I'd appreciate it if you could leave an evaluation. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-20T20:39:20",
+      "origin": "(こちらこそありがとうございました)",
+      "content": "(Thank you as well.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "妻の飲酒問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5498,
+    "evaluation_created_at": "2023-07-21T00:27:00",
+    "client_id": 322,
+    "counselor_id": 410,
+    "score": 51,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:20:37",
+      "origin": "（待機しています、本日はよろしくお願い致します。）",
+      "content": "(I’m standing by. I look forward to our session today.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:20:49",
+      "origin": "（定刻になりましたら始めさせていただきますね。）",
+      "content": "(We will begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:21:05",
+      "origin": "(よろしくお願いします。本日ご希望のケース等はございますでしょうか？)",
+      "content": "(Thank you. Do you have any preferred cases for today?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:21:44",
+      "origin": "（特にありませんので、お任せでお願い致します。）",
+      "content": "(Not in particular, so I'll leave it up to you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:21:53",
+      "origin": "(かしこまりました)",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:30:05",
+      "origin": "こんにちは、相談員です。はじめに年齢、性別、相談内容を教えてください。",
+      "content": "Hello, I'm the counselor. To begin, please tell me your age, gender, and what you'd like to discuss."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:30:20",
+      "origin": "25　男",
+      "content": "25, male."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:30:26",
+      "origin": "仕事を辞めたいです",
+      "content": "I want to quit my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:30:51",
+      "origin": "辞めたいと思うことがあったのですね。何があったか教えていただけますか？",
+      "content": "I see you've been feeling like you want to quit. Could you tell me what happened?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:31:37",
+      "origin": "新卒で、広告の会社を数ヶ月勤務してますが、人間関係が煩わしくなってきました。",
+      "content": "I’m a new graduate and have been working at an advertising company for a few months, but the interpersonal relationships are becoming bothersome."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:32:18",
+      "origin": "社会人になって、環境が大きく変わられたのですね。",
+      "content": "It sounds like your environment changed a great deal when you started working."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:32:32",
+      "origin": "人間関係とは、具体的にはどのような事でしょうか？",
+      "content": "When you say \"relationships,\" what specifically do you mean?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:32:54",
+      "origin": "上司との関係です",
+      "content": "It's my relationship with my boss."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:33:31",
+      "origin": "なるほど。上司の方の、どういったところが煩わしかったのでしょううか？",
+      "content": "I see. What specifically about your boss feels bothersome?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:34:01",
+      "origin": "言っていることがコロコロ変わるところです",
+      "content": "It's that what they say keeps changing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:34:21",
+      "origin": "それは不信感を抱いてしまいますね・・・",
+      "content": "That can lead to feeling distrustful…"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:34:47",
+      "origin": "不信感とは？",
+      "content": "Distrustful?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:35:43",
+      "origin": "言っていることが変わると、信用できないきもちになってしまうかな、と思いましたが、いかがですか？",
+      "content": "When what someone says keeps changing, I wondered if you might feel you can’t trust them—does that resonate with you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:36:22",
+      "origin": "元から信用してないのでよくわかりません",
+      "content": "I never trusted them to begin with, so I don't really know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:37:03",
+      "origin": "なるほど、そうだったのですね。コロコロ変わると振り回されていることが煩わしいと感じる、といったところでしょうか？",
+      "content": "I see, that's how it is. So, perhaps the bothersome part is feeling jerked around by the frequent changes?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:37:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:38:04",
+      "origin": "そうだったのですね、それは煩わしいですよね。",
+      "content": "I understand, that must be really bothersome."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:38:44",
+      "origin": "これはロボットが対応しているのですか",
+      "content": "Is this being handled by a robot?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:39:59",
+      "origin": "いいえ、相談員が担当しています。ロボットのように聞こえてしまいましたか？",
+      "content": "No, it's being handled by a counselor. Did I come across like a robot?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:40:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:41:06",
+      "origin": "それは大変失礼いたしました。相談者様のお気持ちに寄り添ってお話を聞きたいなと思っています。",
+      "content": "I sincerely apologize. I would like to listen in a way that’s attuned to your feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:42:24",
+      "origin": "お話をもう少し伺わせて頂いてもよろしいですか？",
+      "content": "May I hear a bit more about your story?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:42:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:42:47",
+      "origin": "仕事を辞めたいと思われたのは、他にも理由などあるのでしょうか？",
+      "content": "Are there any other reasons you’re thinking of quitting your job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:43:18",
+      "origin": "強いていうなら仕事がつまらないからですかね",
+      "content": "If I had to say, I guess it's because the work is boring."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:44:11",
+      "origin": "そうなのですね。広告会社のお仕事をされているとの事でしたが、どんな内容をされているのですか？",
+      "content": "I see. You mentioned you work at an advertising company—what kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:44:50",
+      "origin": "営業",
+      "content": "Sales."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:46:26",
+      "origin": "なるほど、とても多くの人と関わる大変なイメージがありますが、大変ではなかったですか？",
+      "content": "I see. I imagine it involves interacting with many people and can be demanding—has that been challenging for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:46:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:48:00",
+      "origin": "そうだったのですね、営業って具体的にはどのような事を毎日されるのですか？",
+      "content": "I see. What specifically do you do every day in sales?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:49:05",
+      "origin": "営業すること",
+      "content": "Doing sales."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:50:36",
+      "origin": "なるほど。営業することがつまらないとの事でしたが、部署の異動などはあるのでしょうか？",
+      "content": "I see. You mentioned that doing sales feels boring; is there any possibility of transferring to another department?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:50:53",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:51:27",
+      "origin": "そうでしたか・・・それではなかなか楽しい未来が想像しにくいかもしれませんね。",
+      "content": "I see... In that case, it might be difficult to imagine an enjoyable future there."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:51:50",
+      "origin": "ちなみに、今のお仕事に就いたきっかけはなんだったのでしょうか？",
+      "content": "By the way, what led you to take your current job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:52:05",
+      "origin": "なんとなく",
+      "content": "No real reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:53:16",
+      "origin": "そうだったのですね、なんとなく受けたけれど、そこで合格するというのはプレゼン力が高いのですね。",
+      "content": "I see. Even if you applied on a whim, being accepted suggests you may have strong presentation skills."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:53:44",
+      "origin": "何も知らないのによくそれが言えますね",
+      "content": "How can you say that when you don't know anything about me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:55:30",
+      "origin": "全部はわかりきっていませんが、お話した内容から想像するに、そう思えました。ぜひ知りたいと思うので、相談者様のことを教えていただきたいのですが、よろしいですか？",
+      "content": "I don’t claim to know everything, but based on what you’ve shared, that’s what I imagined. I’d very much like to understand you better—would you be willing to tell me more about yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:55:56",
+      "origin": "あくまで想像ですよね？適当なことは控えてほしいです。",
+      "content": "That's just your imagination, right? I'd appreciate it if you'd refrain from making careless remarks."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:56:34",
+      "origin": "そう聞こえてしまったのですね、それは大変失礼しました。",
+      "content": "I'm sorry it came across that way; that was very rude of me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:58:52",
+      "origin": "今の上司の方が煩わしい件については、どなたかにお話しされてたことなどあるのでしょうか？",
+      "content": "Regarding the issue with your boss being bothersome, have you talked to anyone about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:59:06",
+      "origin": "あります",
+      "content": "Yes, I have."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T14:59:30",
+      "origin": "どのような返答がありましたか？",
+      "content": "What kind of response did you get?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T14:59:56",
+      "origin": "仕方ないとしか返ってきません",
+      "content": "They just say it can't be helped."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:00:16",
+      "origin": "なるほど。皆さん諦めている、という感じでしょうか？",
+      "content": "I see. Does it feel like everyone has just given up?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:00:30",
+      "origin": "それは知りません",
+      "content": "I wouldn't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:01:21",
+      "origin": "なるほど。新卒で働かれているとの事でしたが、同期の方などもいらっしゃるのですか？",
+      "content": "I see. You mentioned you're a new graduate; do you have colleagues who started at the same time as you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:01:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:02:43",
+      "origin": "そうでしたか。同期の方ともお話などされますか？",
+      "content": "I see. Do you talk with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:02:56",
+      "origin": "たまに",
+      "content": "Sometimes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:04:30",
+      "origin": "そうだったのですね、同期の方がいると心強いところもありますね。",
+      "content": "I see. It can be reassuring to have colleagues who are in the same boat."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:04:50",
+      "origin": "相談者様としては、上司が変われば働きやすさはよくなるのでしょうか？",
+      "content": "From your perspective, if your supervisor changed, would that make it easier to work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:05:02",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:06:23",
+      "origin": "なるほど。ちなみにお仕事は、どのくらいの時間で働かれているのですか？例えば、出勤時間や定時で上がれるなど、です。",
+      "content": "I see. By the way, what are your work hours like? For example, what time do you start, and are you able to leave on time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:07:22",
+      "origin": "それを聞きたい理由は何でしょうか。",
+      "content": "Why do you want to know that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:08:32",
+      "origin": "営業職と伺い、お時間忙しかったりするのかな、と思いました。相談者様がどのように過ごされているか。まずは知ったうえでお仕事をどうするかなどお話したいと思いました。",
+      "content": "I heard you work in sales, so I thought you might be busy with long hours. I wanted to understand what your days are like first, before we talk about what to do with your job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:09:23",
+      "origin": "もし答えられない内容などありましたら遠慮なくおっしゃってくださいね。",
+      "content": "If there's anything you don't feel comfortable answering, please don't hesitate to say so."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:09:47",
+      "origin": "仕事が忙しいとは言ってませんし、それはあくまで想像ですよね。",
+      "content": "I never said my work is busy—that’s just your assumption, isn’t it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:11:59",
+      "origin": "ありがとうございます。私の想像で誤解せず、教えて頂けて良かったです。",
+      "content": "Thank you. I'm glad you corrected me so I don't misunderstand based on my assumptions."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:12:33",
+      "origin": "褒めてませんよ",
+      "content": "I'm not complimenting you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:13:34",
+      "origin": "はい、承知しております。",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:13:57",
+      "origin": "本日のお話は、お仕事を辞めたい、理由は上司が煩わしいことと、お仕事がつまらない、という事でしたが、転職先など探されたことはありますか？",
+      "content": "To summarize our conversation today, you want to quit your job because your boss is a hassle and the work is boring. Have you looked for another job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:14:05",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:14:35",
+      "origin": "そうだったのですね、理由はあるのでしょうか？",
+      "content": "I see. Is there a reason?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:15:34",
+      "origin": "めんどくさいから",
+      "content": "Because it’s a hassle."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:16:50",
+      "origin": "そうでしたか。今のお仕事が少しでも楽しく感じていただけるよう一緒に考えられたらな、と思いますが、いかがでしょうか？",
+      "content": "I see. I was thinking we could explore ways to make your current job at least a little more enjoyable. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:17:35",
+      "origin": "それで解決するのですか",
+      "content": "Will that solve it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:18:20",
+      "origin": "解決できるかどうかわかりませんが、せっかくお越しいただいたのでお力にはなりたいと思っています。",
+      "content": "I don't know if it will solve the problem, but since you took the time to come here, I do want to help."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:21:49",
+      "origin": "ちなみに、なぜ本日こちらにご相談に来ていただけたのでしょうか？",
+      "content": "By the way, what brought you to consult with us today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:22:17",
+      "origin": "どうしたらいいのかわからないから",
+      "content": "Because I don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:22:38",
+      "origin": "それは、お仕事について、でしょうか？",
+      "content": "Is that about your job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:22:47",
+      "origin": "全部",
+      "content": "Everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:23:28",
+      "origin": "なるほど、そうだったのですね。そのような中、本日は来てくださってありがとうございます。",
+      "content": "I see, so that's how it is. Thank you for coming in today, especially when you're feeling that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:23:57",
+      "origin": "なかなか私が相談者様のお気持ちを汲み取れず、失礼いたしました。",
+      "content": "I apologize for my inability to fully grasp your feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:24:30",
+      "origin": "ただ、こうして来てくださって、現状をお話してくれて嬉しいです。",
+      "content": "But I'm glad that you came and told me about your current situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:26:43",
+      "origin": "いつ頃からどうしたらいいかわからない状態は続いていたのでしょうか？",
+      "content": "How long have you been feeling like you don't know what to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:26:58",
+      "origin": "最近",
+      "content": "Recently."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:27:20",
+      "origin": "そうだったのですね。何かきっかけがあったのでしょうか？",
+      "content": "I see. Was there any particular trigger?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:27:45",
+      "origin": "最初に話しましたけど",
+      "content": "I already told you at the beginning."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:30:03",
+      "origin": "やはり人間関係の煩わしさ、というところなのですね。お時間が来てしまいました。どうしたらいいか、という点の解決まで至りませんでしたが、本日の内容は記録しておきますので、次回はさらに未来についてお話で聞いたらと思います。",
+      "content": "So it comes back to the hassle with relationships at work. Our time is up for today. We weren't able to reach a solution for what you should do, but I'll keep a record of our conversation, and I hope we can talk more about the future next time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:30:27",
+      "origin": "本日はお話してくださり、ありがとうございました。",
+      "content": "Thank you for speaking with me today."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-10T15:30:40",
+      "origin": "（お疲れ様でした。このまま終了メッセージ送信で、ロープレ完了をお願いします",
+      "content": "(Good work. Please send the closing message to complete the role-play.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-10T15:31:11",
+      "origin": "（ありがとうございました。初めてのパターンでしたので、大変勉強になりました。ありがとうございました。）",
+      "content": "(Thank you. This was a new pattern for me, so it was a great learning experience. Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司との関係の煩わしさ"
+  },
+  "review_by_client": {
+    "evaluation_id": 4875,
+    "evaluation_created_at": "2023-04-10T15:44:00",
+    "client_id": 125,
+    "counselor_id": 358,
+    "score": 45,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

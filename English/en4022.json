@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-23T14:52:33",
+      "origin": "こんにちは。本日はよろしくお願いいたします。定刻より始めますか？もしくは今からでも始めれますが、どうしますか？",
+      "content": "Hello. Thank you for meeting with me today. Shall we begin at the scheduled time, or would you prefer to start now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T14:53:47",
+      "origin": "今日はよろしくお願いします。定刻から始めたいです。また、1時間で終了する様にお願いしたいです。",
+      "content": "Thank you for seeing me today. I’d like to start at the scheduled time. Also, I’d appreciate it if we could finish in one hour."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T14:54:27",
+      "origin": "承知いたしました。よろしくお願いいたします。",
+      "content": "Certainly. I look forward to our session today."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T14:54:53",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:00:08",
+      "origin": "こんにちは。相談員です。本日はよろしくお願いいたします。初めに年齢、性別、相談内容を教えていただけますでしょうか？",
+      "content": "Hello, I'm your counselor. Thank you for meeting with me today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:00:30",
+      "origin": "27才、女性",
+      "content": "I'm 27, female."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:00:36",
+      "origin": "彼氏の事です",
+      "content": "It’s about my boyfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:01:25",
+      "origin": "ご相談ありがとうございます。彼氏さんのことで、どのようなご相談でしょうか？",
+      "content": "Thank you for sharing that. What about your boyfriend would you like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:02:38",
+      "origin": "約束をよく破るんです。この連休も旅行に行く約束してたのに、急に行けないって。",
+      "content": "He often breaks his promises. We had plans to go on a trip this long weekend, but he suddenly said he couldn't go."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:03:15",
+      "origin": "そうなのですね。それは楽しみにしていた約束を破られて悲しくなりますよね。",
+      "content": "I see. It must be so upsetting to have a promise you were looking forward to broken like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:04:05",
+      "origin": "彼氏さんはよく破るということですが、理由はそれぞれ違うのですか？",
+      "content": "You mentioned he often breaks promises. Are the reasons different each time?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:04:26",
+      "origin": "悲しいっていうか、狡いんです！いつも同じ理由です。仕事が忙しいからって。",
+      "content": "It’s not just sad—it’s unfair! It’s always the same reason: he says he’s busy with work."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:06:12",
+      "origin": "独立してるから急な仕事が入るのは分かるけど、そればっかりなんです。",
+      "content": "I understand that urgent work can come up since he’s self-employed, but it’s always that same excuse."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:06:49",
+      "origin": "そうなのですね。仕事といえばなんでも破っていいみたいになってるのが、狡いっということですね。",
+      "content": "I see. So you feel it's unfair that he seems to think he can break any promise as long as he uses work as an excuse."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:07:43",
+      "origin": "急に約束破られて相談者さんはどのような反応を彼氏さんにするのですか？",
+      "content": "When he suddenly breaks a promise, how do you react to him?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:09:13",
+      "origin": "ひどいって言います。仕事だって言われたら、私はどうしようもないし。言い方もひどいです。",
+      "content": "I tell him it’s awful. But when he says it’s for work, there’s nothing I can do. The way he says it is awful, too."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:10:39",
+      "origin": "こっちは楽しみにして、調べたり荷物まとめたりしてるのに、全部わかってないんですよ、彼は。",
+      "content": "I get excited, research things, and pack my bags, but he just doesn't get any of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:12:36",
+      "origin": "それはひどいって思いますよね。仕事といわれたらどうしようもないお気持ちにもなると思います。楽しみにしている気持ちを蔑ろにされたら、辛いですよね。",
+      "content": "That would understandably feel awful. And when he says it's for work, it's natural to feel like there’s nothing you can do. It's painful to have your excitement brushed aside like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:12:47",
+      "origin": "言い方がひどいということですが、どのような言い方をされるのですか？",
+      "content": "You mentioned his way of saying things is harsh—in what way? What kinds of things does he say?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:14:35",
+      "origin": "まあ、仕事の事です。仕事が回ってくるために自分が頑張ってる事とか、私のためだとか、分かって欲しいとか。言い訳ばっかりです。",
+      "content": "Well, it's about his work. He talks about how hard he's working to get more jobs, that it's for my sake, and that he wants me to understand. It's all just excuses."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:16:22",
+      "origin": "そうなのですね。でも相談者さんのためとはいえ、楽しみを奪われたらいい気持ちはしないですよね。",
+      "content": "I see. But even if he says it's for your sake, it doesn't feel good to have what you were looking forward to taken away from you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:17:44",
+      "origin": "急に約束を破ったりするのは最近なのですか？",
+      "content": "Is this habit of suddenly breaking promises a recent thing?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:17:45",
+      "origin": "そうなんです。四年付き合ってますが、何回も何回もこんな事の繰り返しです。",
+      "content": "That's right. We’ve been together for four years, and this has happened over and over again."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:18:02",
+      "origin": "何回も繰り返しなのですね。",
+      "content": "So it's been happening repeatedly."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:18:12",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:18:30",
+      "origin": "本当にひどいです",
+      "content": "It’s really awful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:19:12",
+      "origin": "4年間もそれを繰り返されたら我慢も限界ですよね。でも我慢されている相談者さんはすごいと思います。",
+      "content": "After four years of that, anyone’s patience would reach its limit. I think it’s remarkable that you've endured it for so long."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:19:45",
+      "origin": "限界っていうか、。",
+      "content": "It’s not exactly that I’ve reached my limit…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:19:58",
+      "origin": "はい。",
+      "content": "Yes...?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:20:10",
+      "origin": "我慢するしかないから。",
+      "content": "It’s more that I have no choice but to put up with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:21:39",
+      "origin": "なるほど。我慢するぐらい彼氏さんのことを大事にされているのですね。",
+      "content": "I see. It sounds like you care about your boyfriend so much that you're willing to endure it."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:22:13",
+      "origin": "そうですね。",
+      "content": "I suppose so."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:23:42",
+      "origin": "4年間も我慢できるぐらい大事にされている相談者さんは本当にすごいと思います。",
+      "content": "I truly think it's amazing that you care about him enough to endure this for four years."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:25:02",
+      "origin": "会うと楽しいけど、ひどいって思います。",
+      "content": "It’s fun when we're together, but I still think what he does is awful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:26:30",
+      "origin": "そうなのですね。4年間もそのようなことがあったら普通は気持ちが冷めて分かれてしいそうですが、会う時の楽しさがそれに優っていらっしゃるのですね。",
+      "content": "I see. After four years of this, many people's feelings might fade, leading to a breakup, but it seems for you, the enjoyment of your time together outweighs that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:26:47",
+      "origin": "相談者さんは今後どうなりたいと思っていらっしゃいますか？",
+      "content": "Looking ahead, what would you like to happen?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:27:05",
+      "origin": "そうじゃないとやってられません。",
+      "content": "Otherwise, I wouldn't be able to keep going."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:27:37",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:27:48",
+      "origin": "とにかく約束は守って欲しいです。",
+      "content": "More than anything, I just want him to keep his promises."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:29:01",
+      "origin": "そうですよね。では本日の相談は約束を守ってもらうためにどうしたらいいのか一緒に考えていければと思いますが、いかがでしょうか？",
+      "content": "I understand. For our session today, then, how about we think together about what can be done to get him to keep his promises?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:29:59",
+      "origin": "4年間こんな状態で、変えることってできるんでしょうか？",
+      "content": "It’s been like this for four years. Is it really possible for things to change?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:32:22",
+      "origin": "はっきり変えれるとはいえませんが、やれることはあるかもしれないので、もうちょっとお話し伺ってもよろしいですか？",
+      "content": "I can't say for certain that things will change, but there might be things we can do. Would it be all right if I asked a few more questions?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:33:07",
+      "origin": "はい。彼が変わってくれるなら話してみたいです",
+      "content": "Yes. If there's a chance he'll change, I want to talk about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:33:56",
+      "origin": "ありがとうございます。彼氏さんの約束を破ることはお友達や他の人に相談されたりしたのですか？",
+      "content": "Thank you. Have you spoken with friends or anyone else about him breaking his promises?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:34:25",
+      "origin": "あります。友達もひどいって言ってます",
+      "content": "Yes, I have. My friends say it’s awful, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:35:42",
+      "origin": "そうですよね。友達さんからはどうしたらいいなどのアドバイスはありましたか？",
+      "content": "I can imagine. Did your friends give you any advice on what to do?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:37:09",
+      "origin": "うーん…、そうですね。そういえば、アドバイスっていうか、お互いの彼氏の愚痴で終わりますね",
+      "content": "Hmm… let's see. Now that you mention it, it’s less about advice and more that we just end up complaining to each other about our boyfriends."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:38:01",
+      "origin": "なるほど。愚痴を言った後はどのような気持ちですか？",
+      "content": "I see. How do you feel after you've vented?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:38:22",
+      "origin": "あ、でもお詫びにプレゼントをねだればって話になって、それもいいなと思って買ってもらったりしてます。",
+      "content": "Oh, but the conversation turned to asking for a gift as an apology, and I thought that was a good idea, so I've had him buy me things."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:39:14",
+      "origin": "あ！なるほど。それいいですね。逆に約束やぶられたらメリットが出てきますね。",
+      "content": "Ah, I see. That's a good idea. In a way, there's a benefit for you when he breaks a promise."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:39:17",
+      "origin": "喋るとその時は気が楽になるけど、収まらなくてまた彼の事を考えてしまいます",
+      "content": "Talking about it makes me feel better at the time, but the feeling doesn't really go away, and I just end up thinking about him again."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:40:15",
+      "origin": "プレゼントはメリットでしょうか。嬉しいけど、気は治らないです。",
+      "content": "Is a present really a benefit? It’s nice to get one, but it doesn't fix how I feel about the situation."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:40:37",
+      "origin": "それでうやむやにされた気がします",
+      "content": "It feels like the issue just gets swept under the rug that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:41:14",
+      "origin": "なるほど。確かに気が治らないならそうですね。今は彼氏さんとは一緒に住んでいらっしゃるのですか？",
+      "content": "I understand. That makes sense if it doesn't resolve your feelings. Are you and your boyfriend living together currently?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:41:31",
+      "origin": "一緒ではないです",
+      "content": "No, we don't live together."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:42:39",
+      "origin": "私は約束を守って欲しいんであって、プレゼントが欲しい時はちゃんと別に貰いたいです。",
+      "content": "What I want is for him to keep his promises. When I want a gift, I want to receive it properly, for a different reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:45:20",
+      "origin": "確かに。その通りですよね。彼氏さんに約束を守ってくれないときの相談者さんのお気持ちを伝えたことはありますか？",
+      "content": "That's absolutely right. Have you ever told your boyfriend how you feel when he breaks his promises?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:47:00",
+      "origin": "ひどいって言います。もっともらしいことを言うけど、約束破ってるのは変わらないって伝えてます",
+      "content": "I tell him it’s terrible. He says things that sound plausible, but I tell him that doesn’t change the fact that he broke his promise."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:48:07",
+      "origin": "そうですよね。それに対して彼氏さんは、それでも仕事だからと言い返してくる感じですか？",
+      "content": "I see. And in response, does he still just come back with, “But it’s for work”?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:48:28",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:50:05",
+      "origin": "それで私は何も言えなくなってしまうけど、治らなくて。",
+      "content": "And then I can't say anything more, but it still doesn't sit right with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:51:04",
+      "origin": "それは治らないですよね。もやもやが解消されたわけではないので。今さらの質問になるのですが、相談者さんが約束を守ってほしいと思うのはなぜでしょうか？",
+      "content": "Of course it wouldn't be resolved. The frustration hasn't gone away. This may seem like an obvious question, but why is it so important to you that he keeps his promises?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:52:17",
+      "origin": "守れない約束をして期待させて落とすのはひどいと思うからです！",
+      "content": "Because I think it's awful for him to make promises he can't keep, getting my hopes up only to let me down!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:54:17",
+      "origin": "なるほど。期待させて落とされるのが、いやだということですね。",
+      "content": "I see. So what you hate is getting your hopes up and then being let down."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:55:06",
+      "origin": "ただ、彼氏さんが言うように仕事でだから仕方ないという部分は納得されている？",
+      "content": "But do you accept his point that, because it's for work, it can't be helped?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:55:11",
+      "origin": "そうですね。落とさせると倍辛いです。",
+      "content": "Yes. Being let down makes it twice as painful."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:56:11",
+      "origin": "納得というか、そうですね、仕方ない面はあるので納得してます。",
+      "content": "It's not that I'm fully convinced, but... yes, I accept that there are some aspects that can't be helped."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:56:53",
+      "origin": "ただ正論なのは分かるけど、私ばっかり分かってあげるのは狡いです。",
+      "content": "I understand that he has a point, but it's unfair that I'm always the one who has to be understanding."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:57:49",
+      "origin": "なるほど。そうですよね。でも彼氏に今の仕事を辞めてもらうというのは、違いますかね？",
+      "content": "I see, that makes sense. But it’s not that you want him to quit his current job, is it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:58:27",
+      "origin": "それは違います。独立して頑張ってるのは知ってますから。",
+      "content": "No, that's not it. I know he's working hard to be independent, and I support that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T15:59:24",
+      "origin": "そうですよね。応援されているのですもんね。であれば彼氏の環境が変えれないので、相談者さんの捉え方を変えるというのはいかがでしょうか？",
+      "content": "Right, of course. You're supporting him. In that case, since his circumstances can't be changed, what are your thoughts on trying to change your own perspective?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T15:59:48",
+      "origin": "私の捉え方ですか？",
+      "content": "My perspective?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:00:21",
+      "origin": "私、今まで我慢してきてるのに、まだ何かしないといけないんですか",
+      "content": "I’ve already been putting up with this for so long. Do I still have to be the one to do something more?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:01:27",
+      "origin": "そうですよね。ただ、考え方を少し変えるだけで辛い気持ちはやわらぐかと、、、たとえば急な仕事は相談者さんと今後ずっと一緒にいるために頑張っているんだ、など、、、",
+      "content": "I understand. However, sometimes just a small shift in your thinking can ease the pain... for example, thinking of this urgent work as him working hard to build a future with you..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:01:49",
+      "origin": "（ごめんなさい。時間きちゃったのですが、まだ大丈夫ですか？）",
+      "content": "(I'm sorry, it looks like our time is up. Would it be alright to continue for a few more minutes?)"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:02:35",
+      "origin": "（本当ですね。時間になりました。途中ですが、収束に向かっていただけますでしょうか。）",
+      "content": "(Oh, you're right. Our time is up. I know we're in the middle of things, but could we start to wrap up the session?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:03:05",
+      "origin": "（承知しました。すみません）",
+      "content": "(Understood. My apologies.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:03:16",
+      "origin": "そんな風に考えるには、すごく力がいります",
+      "content": "It takes a lot of energy to think that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:04:01",
+      "origin": "彼が仕事を私のためって言うのを受け入れて許すとか？",
+      "content": "You mean, like, accepting it when he says the work is for my sake, and forgiving him?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:05:16",
+      "origin": "もし受け入れれるのであればそれがいいと思いますが、いかがでしょうか？",
+      "content": "If you feel you are able to accept that, it might be a good path forward. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:06:09",
+      "origin": "言われている事は分かります。",
+      "content": "I understand what you’re saying."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:06:39",
+      "origin": "でも納得できない気持ちです",
+      "content": "But I don't feel like I can accept it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:07:46",
+      "origin": "確かにそうですよね。もしくは環境を変えてみると相手のこともいろいろわかってくると思うのですが、例えば一緒に住んでみるなどは難しいですかね？",
+      "content": "That's understandable. As an alternative, sometimes changing your environment can help you understand each other in new ways. For example, would it be difficult to try living together?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:08:48",
+      "origin": "結婚話は出ていて家族公認ですが、同棲はちょっと。親の許可はおりません。",
+      "content": "We've discussed marriage, and our families approve, but living together is difficult. My parents wouldn't allow it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:10:48",
+      "origin": "そうなのですね。もし同棲など、他に環境が変わると行動や考え方が変わったりすることもあると思うので、その方向で動いてみるのもいいかと思います。",
+      "content": "I see. A change in environment, such as living together, can sometimes lead to changes in behavior and thinking, so it might be worthwhile to explore options in that direction."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:12:11",
+      "origin": "何かを変えるって事ですね。彼は変わらない、私も変えるエネルギーがない、あとは環境や行動？",
+      "content": "So it's about changing something. He won't change, I don't have the energy to change myself... so that just leaves the environment or our actions?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:12:46",
+      "origin": "行動を変える…。",
+      "content": "Change my actions…"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:13:36",
+      "origin": "今は彼を責める気持ちが強くて、変えるのは難しいです。",
+      "content": "Right now, my desire to blame him is too strong, so it's difficult to change."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:14:26",
+      "origin": "気持ちが落ち着いたら、2人で話せるかも知れません",
+      "content": "Once my feelings have settled, maybe we'll be able to talk it over together."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:14:43",
+      "origin": "また責めちゃうかな…。分からないけど。",
+      "content": "I’m afraid I might just end up blaming him again… I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:15:49",
+      "origin": "なるほど。そうですよね。まずは気持ちを落ち着かせてから冷静に今後のことをお話しされるのもいいと思います。すみません。お時間が来てしまったのですが、ここまでお話しできていかがだったでしょうか？",
+      "content": "I see, that makes sense. I think it's a good idea to let your feelings settle first, and then you can discuss the future more calmly. I'm sorry, but our time is up. How has it been for you to talk about this today?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:16:26",
+      "origin": "まだまだ解決できない点が多かったと思うので、ぜひまた違うお時間で相談にきていただければと思います。",
+      "content": "I know there are still many unresolved issues, so please feel free to schedule another session to continue our discussion."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:17:24",
+      "origin": "はい。お時間ありがとうございました。彼を責める気持ちでいっぱいで、我慢をいっぱいしてきた事は分かりました。",
+      "content": "Yes, thank you for your time. I've realized that I'm filled with a desire to blame him, and that I've been enduring a great deal."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:17:49",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:18:08",
+      "origin": "なるほど。少しでも気づきがあって良かったです。本日のご相談はこれで終了とさせていただきます。ありがとうございました。",
+      "content": "I see. I’m glad you were able to gain some insight from our session. We’ll conclude for today. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:18:21",
+      "origin": "こちらこそありがとうございました",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:19:01",
+      "origin": "（上手く統合できなくてすみません。時間もかかちゃって申し訳ありません。ありがとうございました。）",
+      "content": "(I'm sorry I wasn't able to wrap things up very smoothly. I also apologize for going over time. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T16:19:47",
+      "origin": "（こちらこそ、ありがとうございました。時間も大丈夫です！　統合まで行けました！）",
+      "content": "(Thank you as well. And don't worry about the time, it was fine! I think we reached a good stopping point!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T16:20:38",
+      "origin": "（そう言っていただけて嬉しいです。ありがとうございました。）",
+      "content": "(I'm happy to hear you say that. Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼氏との約束破りに対する不満"
+  },
+  "review_by_client": {
+    "evaluation_id": 4022,
+    "evaluation_created_at": "2022-09-23T17:41:00",
+    "client_id": 320,
+    "counselor_id": 314,
+    "score": 74,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

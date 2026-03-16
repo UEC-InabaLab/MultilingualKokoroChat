@@ -1,0 +1,795 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-07-20T14:58:22",
+      "origin": "（こんにちは、相談者役です。）",
+      "content": "(Hello, I'm playing the client.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T14:58:37",
+      "origin": "こんにちは相談員です。よろしくお願いいたします。",
+      "content": "Hello, I'm the counselor. It's a pleasure to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T14:58:57",
+      "origin": "（よろしくお願いいたします）",
+      "content": "(Pleased to meet you too.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:00:08",
+      "origin": "最初に年齢と性別を教えていただけますか？",
+      "content": "First, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:00:24",
+      "origin": "30歳　女",
+      "content": "30 years old, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:00:36",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:00:50",
+      "origin": "今日はどのようなご相談でしょうか？",
+      "content": "What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:01:11",
+      "origin": "自分に自信がないんです",
+      "content": "I don't have any self-confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:01:24",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:01:49",
+      "origin": "どんなことからそう思われるのですか？",
+      "content": "What makes you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:02:19",
+      "origin": "人と話していても、相手がどう思っているのか気になります。",
+      "content": "Even when I'm talking to people, I worry about what they're thinking of me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:03:35",
+      "origin": "そうなんですね。それは落ち着かないですよね。例えばどんな話をしている時とかですか？",
+      "content": "I see. That must make you feel uneasy. For example, during what kinds of conversations does this happen?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:04:23",
+      "origin": "普通の、何でもないような会話です。いつもそうなんです。",
+      "content": "Just ordinary, everyday conversations. It's always like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:05:30",
+      "origin": "そうなんですね。いつも相手が何を思っているのか気になってしまうと、自分の言いたいこともなかなか言えなくなってしまうのでは？",
+      "content": "I see. If you're always worried about what the other person is thinking, it might make it hard for you to express what you want to say, right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:05:42",
+      "origin": "そうですね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:07:40",
+      "origin": "そんな時はどうしているのですか？",
+      "content": "What do you do in those situations?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:08:08",
+      "origin": "どうにもならないなと思っています",
+      "content": "I feel like there's nothing I can do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:08:32",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:09:03",
+      "origin": "そんな時ってどんな気持ちでいるのでしょう？",
+      "content": "What kind of feelings do you have at times like that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:09:42",
+      "origin": "自身がないって気持ちです",
+      "content": "It's a feeling of having no confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:10:08",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:11:24",
+      "origin": "例えば、沈んでしまうような感じなのでしょうか？",
+      "content": "For example, is it a feeling of being down?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:11:49",
+      "origin": "そうですね",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:12:11",
+      "origin": "重苦しい雰囲気とか？",
+      "content": "A heavy, oppressive feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:12:35",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:13:48",
+      "origin": "そんな時って、全然楽しくないですよね。",
+      "content": "That must not be enjoyable at all."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:14:24",
+      "origin": "はい",
+      "content": "No, it's not."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:14:43",
+      "origin": "特に、どんな人と一緒にいる時にそんな気持ちになるのですか？",
+      "content": "In particular, what kinds of people are you with when you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:15:25",
+      "origin": "同僚とか、友人とかです。特にこの人、といったことはありません。",
+      "content": "Colleagues or friends. There isn't one specific person."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:16:36",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:17:05",
+      "origin": "多くの人と、そうなりがち　ということのようですね・・・",
+      "content": "It sounds like this tends to happen with many people..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:17:17",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:20:39",
+      "origin": "人といることが楽しくないということになっているみたいですね・・・",
+      "content": "It sounds like it has gotten to the point where being with people isn't enjoyable for you..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:24:18",
+      "origin": "いつごろからそんなお気持ちになったのですか？",
+      "content": "When did you start feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:24:45",
+      "origin": "10年ほど前からです",
+      "content": "It started about 10 years ago."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:25:44",
+      "origin": "学生時代の友人から距離を置かれたことがありました。それがきっかけだったように感じています。",
+      "content": "A friend from my school days started to distance themselves from me. I feel like that was the trigger."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:26:22",
+      "origin": "そうだったのですね。長い事辛い気持ちをかかえてこられたのですね・・・",
+      "content": "I see. You've been carrying these painful feelings for a long time..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:26:49",
+      "origin": "よければ、その時のことを教えていただけますか？",
+      "content": "If you're comfortable, could you tell me more about what happened then?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:27:21",
+      "origin": "なんとなく友人がよそよそしくなって。",
+      "content": "My friend just started acting distant for some reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:27:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:27:48",
+      "origin": "私と距離を取っていることがわかりました。",
+      "content": "I could tell they were keeping their distance from me."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:28:11",
+      "origin": "私に、そうなった心当たりはなく、",
+      "content": "I had no idea why it was happening,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:28:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:28:52",
+      "origin": "なぜだかわからないから、何かか悪いことをしたのか、",
+      "content": "Since I didn't know why, I started wondering if I had done something wrong,"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:29:07",
+      "origin": "だとか、気に障るようなことをしたかな、",
+      "content": "or if I had done something to offend them,"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:29:34",
+      "origin": "だとか思い始め、人と関わるのが怖くなってきたように思います。",
+      "content": "I started thinking things like that, and I think that's when I became afraid of interacting with people."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:30:08",
+      "origin": "そんな体験をされたんですね・・・",
+      "content": "So that's what you went through..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:31:41",
+      "origin": "何故その人がそんな態度を取ったのかわからないと、こちらが悪かったのかと不安になってしまいますよね・・・",
+      "content": "When you don't know why someone acted that way, it's natural to feel anxious and wonder if you were at fault..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:31:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:32:45",
+      "origin": "未だに　その人がその時　どうしてそんな態度をしたのか　分からないままなのですね。",
+      "content": "So even now, you still don't know why that person acted that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:32:54",
+      "origin": "ええ。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:34:08",
+      "origin": "理由が分かれば、手の打ちようもあるのに、訳が分からないままだと、心にひっかかったまま深く残ってしまったのですね・・・",
+      "content": "If you knew the reason, you might be able to do something about it, but since you still don't understand why, it has remained stuck with you..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:37:11",
+      "origin": "もしかして、その人はあなたにとって、大事な人だったのかもしれませんね・・・",
+      "content": "Perhaps that person was important to you..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:37:39",
+      "origin": "んー、そうですね",
+      "content": "Hmm, yes, I suppose so."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:38:30",
+      "origin": "ここまでの所を少し整理させていただいてもいいですか？",
+      "content": "Would it be alright if I summarized what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:38:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:39:07",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:39:39",
+      "origin": "人といると自分に自信がない。相手が何を思っているのか気になってしまうため。",
+      "content": "You feel a lack of self-confidence when you're with people because you worry about what they're thinking of you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:40:05",
+      "origin": "同僚とか友達とか、いろんな人とそんな感じになってしまう。",
+      "content": "This happens with various people, like colleagues and friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:41:48",
+      "origin": "思い返すと、10年ほどまでに、学生時代の友人から距離を置かれてしまったことがきっかけだったと思う。自分としては、何故そうされたのか、訳が分からなかった。",
+      "content": "Looking back, you feel it was triggered by a friend from your school days distancing themselves from you about 10 years ago. You didn't understand why they did that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:42:25",
+      "origin": "今でもそのことが心に引っかかっている。",
+      "content": "That incident still weighs on your mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:42:40",
+      "origin": "このような理解でよろしいでしょうか？",
+      "content": "Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:42:45",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:42:55",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:44:01",
+      "origin": "あなたとしては、本当はどうなっていきたいと思っておいでですか？",
+      "content": "How would you truly like things to be for yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:44:44",
+      "origin": "不安なく人とかかわれたり、",
+      "content": "I'd like to be able to interact with people without feeling anxious,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:44:57",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:45:58",
+      "origin": "私のどんなところが悪いのか、わかったらいいと思います",
+      "content": "and it would be good if I could understand what's wrong with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:46:53",
+      "origin": "何か悪いところがあったら改善していきたいということですね。",
+      "content": "So you mean, if there's something that needs improvement, you'd like to work on it."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:47:05",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:47:25",
+      "origin": "ステキな考えですね。",
+      "content": "That's a wonderful mindset."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:48:09",
+      "origin": "ちなみに、こんなところが改善できたらいいなと思う点を1つだけ上げるとしたら、どんなところですか？",
+      "content": "Just out of curiosity, if you were to name just one thing you'd like to improve, what would it be?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:49:23",
+      "origin": "私の何か悪いのかわからなくて。なのでどこを改善したらいいのかもわからないんです。",
+      "content": "I don't know what's wrong with me, so I don't know what to improve."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:50:06",
+      "origin": "なるほど。確かに悪いところを探すとそうなってしまいますよね。",
+      "content": "I understand. It's true, when you're looking for what's wrong with yourself, it can end up feeling that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:50:41",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:50:57",
+      "origin": "そこで、人といる時にどんな風になれたらいいなというイメージとしては、どんな感じでしょうか？",
+      "content": "In that case, what image do you have of how you'd like to be when you're with people?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:52:11",
+      "origin": "不安にならなかったらいいなと思います。",
+      "content": "I wish I didn't feel anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:52:24",
+      "origin": "そうですよね。",
+      "content": "That makes sense."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:52:41",
+      "origin": "行動の面ではいかがですか？",
+      "content": "How about in terms of your behavior?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:53:03",
+      "origin": "たとえば、自分から誰かに話しかけてみるとか・・・",
+      "content": "For example, trying to initiate a conversation with someone..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:53:48",
+      "origin": "こちらから挨拶の声をかけてみるとか・・・",
+      "content": "Or greeting someone first..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:54:27",
+      "origin": "話しかけない訳ではないし、挨拶しない訳ではないです。",
+      "content": "It's not that I don't initiate conversations or greet people."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:54:47",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:54:51",
+      "origin": "ただ、話していると不安になって、",
+      "content": "But when I'm talking, I get anxious,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:55:00",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:55:32",
+      "origin": "話し終わると、こうしたら良かったかな、とか、私ってダメだなとか思うので、つらいです。",
+      "content": "and when the conversation is over, I think things like, \"I should have done this differently,\" or \"I'm useless,\" and it's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:56:23",
+      "origin": "確かに、そう思うと辛くなりますよね。",
+      "content": "It's true, thinking that way would be painful."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:56:34",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:57:04",
+      "origin": "もしかして、いつもうまく行かなかったことの方に思いが行ってしまうのでは？",
+      "content": "Perhaps your thoughts always tend to focus on what didn't go well?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:57:17",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:57:27",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:57:42",
+      "origin": "1つだけ提案してもいいですか？",
+      "content": "May I offer one suggestion?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T15:58:01",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:58:15",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:58:35",
+      "origin": "ご存知のように、誰でも、完璧な人はいません。",
+      "content": "As you know, nobody is perfect."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:59:00",
+      "origin": "誰でも、何かをやった時、うまく行った面と、うまく行かなかった面があります。",
+      "content": "Whenever anyone does something, there are aspects that go well and aspects that don't."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T15:59:41",
+      "origin": "まじめな人ほど、完璧を無意識に求めるため、うまく行かなかった所に目が行ってしまい、ダメ出しをしてしまいます。",
+      "content": "The more conscientious a person is, the more they unconsciously seek perfection, so their attention goes to what didn't go well and they end up criticizing themselves."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:00:15",
+      "origin": "それで　自分はこれもできていない、あれもできていない。となり、結果落ち込んでしまうということが起こることがよくあります。",
+      "content": "This often leads to thinking, \"I can't do this, and I can't do that either,\" and as a result, they end up feeling down."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:00:35",
+      "origin": "そこで、ご提案は、バランスを取ってみることです。",
+      "content": "So, my suggestion is to try to find a balance."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:01:02",
+      "origin": "バランスですか",
+      "content": "Balance?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:01:16",
+      "origin": "要改善点をみつけるのと同様に、ご自分のうまく行った点も同じだけ見つけてみることをお勧めします。",
+      "content": "Just as you identify areas for improvement, I recommend trying to find just as many things that you did well."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:01:35",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:01:51",
+      "origin": "あなたにも、うまく行かなかった面と、うまく行った面と、両方あると思います。",
+      "content": "I believe that you, too, have both sides: things that didn't go well and things that did."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:02:10",
+      "origin": "その両方に、敢えて、目を向けてあげることをお勧めします。",
+      "content": "I recommend you make a conscious effort to pay attention to both."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:02:21",
+      "origin": "いかがでしょうか？",
+      "content": "What do you think of that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:04:20",
+      "origin": "両方ある、んですかね。目を向けたいと思いますが、目を向けるってどうすればできるのか、ちょっとわからない気もしています。",
+      "content": "I wonder if I really have both. I'd like to try to pay attention to them, but I'm not quite sure how to do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:05:32",
+      "origin": "その時、うまくできたことを、小さなことでいいので、１つ見つけてみるということです。",
+      "content": "It means finding one thing you did well in that moment, no matter how small."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:05:54",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:06:19",
+      "origin": "たとでば、先ほど、自分から声をかけると話してくれましたね。それが　あなたの１つのいいところだと思いますよ。",
+      "content": "For example, you mentioned earlier that you do start conversations with people. I think that's one of your good qualities."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:06:36",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:06:56",
+      "origin": "自分から挨拶することもある、と言ってくれましたね。それも、あなたのいいところだと思いますよ。",
+      "content": "You also said that you sometimes greet people first. I think that's another one of your good qualities."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:07:21",
+      "origin": "小さなことでいいので、ご自分のいいところを見つけてあげてください。",
+      "content": "Please find your own good qualities, even if they're small things."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:07:54",
+      "origin": "ご自分のいいとこ探しを、続けていくと、自信につながっていきます。",
+      "content": "If you continue to look for your own good qualities, it will build your self-confidence."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:07:55",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:08:14",
+      "origin": "あなたのいいとこ探しを応援しています。",
+      "content": "I'll be cheering you on as you look for your good qualities."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:08:23",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:08:32",
+      "origin": "気になることが出てきたら、またご相談にいらしてください。",
+      "content": "If anything else comes up that you're concerned about, please feel free to come back and talk."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:08:37",
+      "origin": "はい",
+      "content": "I will."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:08:52",
+      "origin": "その時にまたご一緒に考えさせていただきます。",
+      "content": "We can think it through together again at that time."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:09:30",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:10:03",
+      "origin": "こちらこそ、ご相談にいらしてくださりありがとうございます。",
+      "content": "No, thank you for coming in to talk today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:10:17",
+      "origin": "では、今日はこの辺でよろしいでしょうか？",
+      "content": "Shall we wrap up here for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:10:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:10:39",
+      "origin": "では失礼させていただきます。",
+      "content": "Alright then, take care."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-20T16:10:59",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-20T16:11:30",
+      "origin": "こちらこそありがとうございました。",
+      "content": "Thank you as well."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自信の欠如と対人関係の不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 2226,
+    "evaluation_created_at": "2021-07-20T16:23:00",
+    "client_id": 111,
+    "counselor_id": 5,
+    "score": 89,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

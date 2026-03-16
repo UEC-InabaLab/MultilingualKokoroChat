@@ -1,0 +1,909 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:50:55",
+      "origin": "こんばんは。本日はどうぞよろしくお願いします。",
+      "content": "Good evening. Thank you for joining me today."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:51:30",
+      "origin": "こんばんは、どうぞ宜しくお願いします",
+      "content": "Good evening. Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:52:04",
+      "origin": "少し早いですがはじめてもよろしいでしょうか？",
+      "content": "It's a little early, but would it be alright to begin?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:52:48",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:53:05",
+      "origin": "ではよろしくお願いいたします。",
+      "content": "Alright then, let's get started."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:53:34",
+      "origin": "よろしくお願いします",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:54:02",
+      "origin": "こんばんは。相談員です。はじめに年齢と性別、お話の中でなんとお呼べすれば良いか教えていただけますか？",
+      "content": "Good evening. I'm your counselor. To start, could you please tell me your age, gender, and what you would like me to call you during our conversation?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:54:41",
+      "origin": "17才、男",
+      "content": "17, male."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:54:53",
+      "origin": "ゆうき",
+      "content": "Yuuki."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:55:45",
+      "origin": "ゆうきさん、教えていただきありがとうございます。本日はどのようなご相談でしょうか？",
+      "content": "Thank you for sharing that, Yuuki. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:56:10",
+      "origin": "何でも話して大丈夫ですか？",
+      "content": "Is it okay to talk about anything?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:56:53",
+      "origin": "ここでは、なんでもお話していただいて大丈夫です。",
+      "content": "Yes, you can talk about anything here."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:57:29",
+      "origin": "母との関係で悩んでいます",
+      "content": "I'm struggling with my relationship with my mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:58:24",
+      "origin": "お母さまとのご関係でのご相談ですね。具体的にどのようなことか教えていただけますか？",
+      "content": "I see—it's about your relationship with your mother. Could you tell me more specifically what's been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:00:00",
+      "origin": "母が急に怒り出して、おまえはあいつ(父)と顔がそっくりだ",
+      "content": "My mother suddenly gets angry and says, 'You look exactly like that guy (my father).'"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:00:20",
+      "origin": "おまえはあっちの血を引いている",
+      "content": "'You have his blood in you.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:00:29",
+      "origin": "はい。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:00:41",
+      "origin": "最低の人間だと言って",
+      "content": "She says I'm the worst kind of person."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:00:49",
+      "origin": "ええ。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:01:36",
+      "origin": "おまえなんか居なくなればいいと言ってきます",
+      "content": "She tells me it would be better if you just disappeared."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:02:22",
+      "origin": "そうだったのですね。母親にそう言われると悩んでしまいますよね。",
+      "content": "I see. It must be very distressing to hear your mother say those things."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:02:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:02:59",
+      "origin": "何か具体的な出来事があったのですか？",
+      "content": "Was there a specific incident that triggered this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:03:57",
+      "origin": "父と離婚したので、それが原因だと思います",
+      "content": "My parents divorced, so I think that's the cause."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:04:41",
+      "origin": "そうだったのですね。お母さんもそうですが、ゆうきさんもお辛かったのではと思います。",
+      "content": "I see. That must have been difficult for your mother, and for you as well, Yuuki, I imagine."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:04:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:05:22",
+      "origin": "失礼ですが、お母さんは今、おいくつなのでしょうか？",
+      "content": "Forgive me for asking, but how old is your mother now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:05:43",
+      "origin": "39才です",
+      "content": "She's 39."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:06:23",
+      "origin": "ありがとうございます。そのことについてどなたかにご相談されたことはありますか？",
+      "content": "Thank you. Have you spoken to anyone else about this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:07:02",
+      "origin": "いいえ誰にも相談してません",
+      "content": "No, I haven't talked to anyone."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:07:26",
+      "origin": "こういうことは普通なのでしょうか？",
+      "content": "Is this kind of thing normal?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:08:19",
+      "origin": "そうでしたか。なかなか言えずに、この相談窓口に相談してくださったのですね。個人的には普通ではないのではないかと思います。",
+      "content": "I see. It must have been hard to talk about, so thank you for reaching out here. Personally, I don't think this is normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:09:01",
+      "origin": "両親が離婚したのはいつ頃なのでしょうか？",
+      "content": "When did your parents get divorced?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:09:22",
+      "origin": "4年前です",
+      "content": "Four years ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:10:06",
+      "origin": "そうでしたか。暴言のようなことが始まったのもそのあたりでしょうか？",
+      "content": "I see. Is that around when the verbal abuse started?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:10:45",
+      "origin": "そうですね、離婚してしばらくしてからだったと思います",
+      "content": "Yes, I think it was a little while after the divorce."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:11:20",
+      "origin": "そうだったのですね。急な変化にびっくりされたのではないでしょうか？",
+      "content": "I see. That sudden change must have been surprising for you, wasn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:12:16",
+      "origin": "はい普段は優しいのですが、ふとすると急に怒り出して",
+      "content": "Yes. She's usually kind, but then out of the blue she gets angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:12:25",
+      "origin": "ええ。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:12:36",
+      "origin": "子供なんか産まなきゃよかった",
+      "content": "'I should never have had a child.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:12:44",
+      "origin": "はい。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:13:02",
+      "origin": "生んだから私の人生はめちゃくちゃになったと",
+      "content": "'Having you ruined my life.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:13:12",
+      "origin": "はい。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:13:14",
+      "origin": "怒り散らすのです",
+      "content": "She just lashes out."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:14:36",
+      "origin": "そうだったのですね。急に怒り出されるとびっくりしてしまいますよね。精神的に不安定になっているようですね。",
+      "content": "I see. It must be startling when she suddenly gets angry like that. It sounds like she might be emotionally unstable."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:15:14",
+      "origin": "どこ怒り出すかわかりません",
+      "content": "I don't know what will set her off."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:15:38",
+      "origin": "そうですよね。構えていないとびっくりしてしまいますよね。",
+      "content": "I understand. It must be shocking when you're not expecting it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:15:49",
+      "origin": "ちなみにですが、",
+      "content": "By the way,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:16:41",
+      "origin": "お母さんは、「更年期障害って言われた。」なんてことはありませんでしたか？",
+      "content": "has your mother ever mentioned anything like, \"I was told I have menopausal symptoms\"?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:03",
+      "origin": "それは分かりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:12",
+      "origin": "怖くて",
+      "content": "I'm scared,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:24",
+      "origin": "聞くこともできません",
+      "content": "so I can't even ask."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:34",
+      "origin": "またいつ怒り出すか",
+      "content": "because I don't know when she'll get angry again."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:17:36",
+      "origin": "そうですよね。大変失礼いたしました。",
+      "content": "Of course. I apologize; that was an inappropriate question."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:18:11",
+      "origin": "心理学的にお話させていただいてもよろしいですか？",
+      "content": "Would it be okay if I talked about this from a psychological perspective?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:18:19",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:19:03",
+      "origin": "怒りというのは、二次感情といって、",
+      "content": "Anger is what's called a secondary emotion,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:19:26",
+      "origin": "他の感情に隠れています。",
+      "content": "which means it's hiding other emotions."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:19:36",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:19:41",
+      "origin": "一次感情としては、",
+      "content": "As for the primary emotions,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:20:27",
+      "origin": "不安や、恐怖といったようなことがあり、その感情が怒りに繋がっているという考え方になります。",
+      "content": "they could be things like anxiety or fear, and the idea is that those feelings are what lead to the anger."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:20:43",
+      "origin": "お母さんは、",
+      "content": "In your mother's case,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:21:14",
+      "origin": "もしかすると、怒りの前に不安や恐怖の感情があるのかもしれません。",
+      "content": "she might be experiencing feelings of anxiety or fear before she gets angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:21:28",
+      "origin": "何か思い当たることってありますか？",
+      "content": "Does anything come to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:21:44",
+      "origin": "そうなんですか",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:22:09",
+      "origin": "はい。怒りは何かの感情から発動します。",
+      "content": "Yes. Anger is triggered by some other emotion."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:22:25",
+      "origin": "思いあたることは無いのですが",
+      "content": "Nothing comes to mind, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:22:32",
+      "origin": "ええ。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:23:24",
+      "origin": "父との関係でかな？",
+      "content": "Maybe it has to do with her relationship with my father?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:24:33",
+      "origin": "それもあるかもしれませんよね。怒りの前にある感情を無くして行ければ急に怒り出すことも減るのではと思います。",
+      "content": "That could be possible. If we can address those underlying emotions, her sudden outbursts might decrease."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:24:55",
+      "origin": "一緒に考えてみませんか？",
+      "content": "Would you like to think it through together?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:25:13",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:25:43",
+      "origin": "ゆうきさんは、お母さん思いで優しいかたですね。",
+      "content": "Yuuki, you're a very kind and thoughtful son."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:25:58",
+      "origin": "では、一緒に考えていきましょうね。",
+      "content": "Alright, let's figure this out together."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:26:26",
+      "origin": "そうなんでしょうかいつ怒り出すか怖いです",
+      "content": "I'm not sure... I'm scared because I never know when she'll get angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:27:41",
+      "origin": "怖さもあると思いますが、お母さんを思っているからこそご相談してくださっているわけですからね。素晴らしいことだと思います。怒りの前の感情として思い当たることはありますか？",
+      "content": "I'm sure you're scared, but the very fact that you're seeking help shows how much you care about your mother. I think that's wonderful. Can you think of any feelings that might be preceding her anger?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:28:15",
+      "origin": "ないです",
+      "content": "No."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:29:00",
+      "origin": "以前、学校でいじめられていたのですが",
+      "content": "I used to be bullied at school, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:29:09",
+      "origin": "例えば、お父さんと別れたことによる寂しさとか。これからの不安などなんでも結構です。",
+      "content": "For example, feelings like loneliness from the separation from your father, or anxiety about the future—anything at all is fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:29:14",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:29:43",
+      "origin": "その時も最初はかばってくれていたのですが",
+      "content": "At first, she defended me, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:29:50",
+      "origin": "ええ。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:30:09",
+      "origin": "急にどうせおまえが悪いことしたんだろ",
+      "content": "suddenly she said, 'It must have been your fault, anyway. You did something wrong, didn't you?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:30:23",
+      "origin": "ええ。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:30:29",
+      "origin": "おまえが原因でいじめられたんだと言って",
+      "content": "She said, 'You're the reason you're being bullied.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:30:37",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:30:55",
+      "origin": "私が悪者にされてしまいました",
+      "content": "She made me out to be the bad guy."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:31:18",
+      "origin": "おまえはあいつにそっくりだ",
+      "content": "'You're just like him.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:31:31",
+      "origin": "そうだったのですか。少し理不尽に思ってしまいますよね。",
+      "content": "I see. That sounds very unfair."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:31:32",
+      "origin": "おまえなんか産まなきゃよかった",
+      "content": "'I wish I'd never had you.'"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:31:47",
+      "origin": "と怒り散らすのです",
+      "content": "and she would lash out like that."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:04",
+      "origin": "これって普通なんでしょうか",
+      "content": "Is this normal?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:19",
+      "origin": "毒親だとは思いますが",
+      "content": "I think she's a toxic parent, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:32:30",
+      "origin": "普通ではないと思いますが、いじめを受けていたのは離婚後ということでしょうか？",
+      "content": "I don't think it's normal. Did the bullying happen after the divorce?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:35",
+      "origin": "機嫌が悪いだけなのでしょうか？",
+      "content": "Is she just in a bad mood?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:33:26",
+      "origin": "機嫌が悪いだけでそのようになるとは考えにくにような気もしてしまいますよね。",
+      "content": "It seems unlikely that just being in a bad mood would cause all of that, doesn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:34:02",
+      "origin": "繰り返しになってしまいますが、急に怒るということは、",
+      "content": "I know I'm repeating myself, but when she suddenly gets angry,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:34:29",
+      "origin": "急に何かしらの感情に襲われるのだと思います。",
+      "content": "I believe she's suddenly being overwhelmed by some kind of emotion."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:34:46",
+      "origin": "解決方法の一つとしては、",
+      "content": "As one possible way to approach this,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:35:30",
+      "origin": "お母さんのその感情についてお聞きし、それを取り除いてあげるのが重要かと思いますがいかがですか？",
+      "content": "I think it’s important to ask about those feelings your mother is having and try to help address them. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:35:59",
+      "origin": "いつ怒り出すか分からず",
+      "content": "I never know when she's going to get angry,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:36:07",
+      "origin": "はい。",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:36:29",
+      "origin": "あの人の生活音だけでびくびくしてしまいます",
+      "content": "and just the sound of her moving around the house makes me anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:37:33",
+      "origin": "そう思うのも無理もありませんよね。ゆうきさんもその恐怖を無くしていきたいですよね。",
+      "content": "It's completely understandable that you'd feel that way. You want to get rid of that fear too, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:38:03",
+      "origin": "一つご提案よろしいですか？",
+      "content": "May I make a suggestion?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:38:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:38:53",
+      "origin": "お母さんとの思い出の場所なんてありますか？お母さんが安らげるようなところならなおさら良いですね。",
+      "content": "Is there a place that holds special memories for you and your mother? Somewhere she can feel at ease would be even better."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:39:37",
+      "origin": "母は働き詰めで",
+      "content": "My mother was always working non-stop,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:39:45",
+      "origin": "はい。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:40:01",
+      "origin": "あまり遊んでもらった記憶は無いのですが",
+      "content": "so I don't have many memories of her playing with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:40:10",
+      "origin": "ええ。",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:40:48",
+      "origin": "昔子供の頃に住んでた家の近くの公園かな？",
+      "content": "Maybe the park near the house where we lived when I was a little kid?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:41:21",
+      "origin": "おお。お話するには絶好の場所ですね。",
+      "content": "Oh, that sounds like a perfect place to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:41:36",
+      "origin": "そこに誘ってみて、",
+      "content": "How about inviting her there,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:42:01",
+      "origin": "お母さんの素直なお気持ちを聞いてみるのはいかがでしょう？",
+      "content": "and trying to ask her about her true feelings?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:42:11",
+      "origin": "そして、",
+      "content": "And then,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:42:46",
+      "origin": "お母さんが、「不安」という感じの感情であれば、",
+      "content": "if your mother expresses feelings of 'anxiety,'"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:42:49",
+      "origin": "また急に怒り出しておまえの顔なんか見たくないって言われたらどうしたらいいですか？",
+      "content": "What should I do if she suddenly gets angry again and says, 'I don't want to see your face'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:44:14",
+      "origin": "「いつもそう言われるとこっちも辛くなるよ」と、ゆうきさんもまず、本音でお話することを提案いたします。",
+      "content": "I would suggest you start by sharing your honest feelings as well, by saying something like, \"It really hurts me when you say that.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:44:22",
+      "origin": "そうすることで、",
+      "content": "By doing so,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:45:01",
+      "origin": "お母さんも、ゆうきさんのお気持ちを察知し「はっ」と気づくかもしれません。",
+      "content": "your mother may sense your feelings and have a moment of realization."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:45:44",
+      "origin": "本音で語り合うことほど心を動かすものはないかと思います。",
+      "content": "I believe there's nothing more moving than speaking honestly from the heart."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:46:05",
+      "origin": "なかなかお辛いことは承知しております。",
+      "content": "I know this is very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:46:30",
+      "origin": "現状を打破するためのご提案になります。",
+      "content": "I’m offering this as a suggestion to help change the current situation."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:47:42",
+      "origin": "これで母からおまえなんか産まなきゃよかったとか、おまえはあいつにそっくりで最低の人間だと言われなくなりますか？",
+      "content": "Will this make her stop saying things like, 'I should never have had you,' or 'You're just like him, the worst kind of person'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:49:02",
+      "origin": "はい。怒りの前にある感情（不安など）が少なくなれば、きっと言わなくなってくると思います。",
+      "content": "Yes. If the feelings that precede her anger (such as anxiety) decrease, I believe she will stop saying those things."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:49:29",
+      "origin": "そうなんでしょうか",
+      "content": "Do you really think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:49:56",
+      "origin": "今すごくお辛いかと思いますが、お母さん思いのゆうきさんならきっと心を開けると思います。",
+      "content": "I know it's very painful for you right now, but a caring son like you can surely reach her heart."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:50:33",
+      "origin": "誘うのも怖いですが、どうこえかけたらいいですか？",
+      "content": "I'm scared to even ask her... what should I say?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:51:24",
+      "origin": "「お母さん、恥ずかしいけどデートしてみない？」なんてのはだめでしょうか？",
+      "content": "How about something like, \"Mom, this is a bit embarrassing, but would you like to go on a date with me?\""
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:51:36",
+      "origin": "えっ…",
+      "content": "Uh..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:51:47",
+      "origin": "それはちょっと…",
+      "content": "That's a bit..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:51:54",
+      "origin": "お母さんはドキッとするのではないでしょうか？",
+      "content": "Don't you think it would get her attention?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:52:04",
+      "origin": "そうなんでしょうか",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:52:40",
+      "origin": "「それだけ大事なお話がある」という風に持って行くことが重要かと思いますがいかがですか？",
+      "content": "I think it’s important to frame it as, 'There’s something important I want to talk about.' How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:53:04",
+      "origin": "はい、わかりました",
+      "content": "Okay, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:54:07",
+      "origin": "ゆうきさんなら必ずお母さんの心の氷を溶かすことができると思います。また何かありましたらいつでもご相談くださいね。",
+      "content": "I believe you can melt the ice around your mother’s heart, Yuuki. If anything else comes up, please feel free to reach out anytime."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:54:16",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:54:48",
+      "origin": "それでは本日のご相談を終了いたしますね。ありがとうございました。",
+      "content": "Alright, that concludes our session for today. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:54:57",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:55:11",
+      "origin": "（ロールプレイ終了してもよろしいですか？",
+      "content": "(May we conclude the role-play?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:55:26",
+      "origin": "はい、お疲れ様でした！",
+      "content": "Yes, thank you for your time!"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:55:38",
+      "origin": "また宜しくお願い致します",
+      "content": "I look forward to working with you again."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:55:51",
+      "origin": "はい。お疲れ様でした。それでは失礼いたします。",
+      "content": "Yes. Thank you for your time. Take care."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母との関係の改善方法"
+  },
+  "review_by_client": {
+    "evaluation_id": 1354,
+    "evaluation_created_at": "2021-02-17T21:14:00",
+    "client_id": 39,
+    "counselor_id": 113,
+    "score": 55,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

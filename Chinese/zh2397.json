@@ -1,0 +1,585 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:00:40",
+      "origin": "時間になりましたので、ロールプレイを始めさせていただきます。よろしくお願いいたします。",
+      "content": "时间到了，我们现在开始角色扮演。请多指教。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:00:49",
+      "origin": "よろしくお願いいたします",
+      "content": "请多指教。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:01:05",
+      "origin": "こんにちは、相談員です。",
+      "content": "您好，我是咨询师。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:01:53",
+      "origin": "本日のご相談内容と、差し支えなければ、年齢と性別をお聞かせください。",
+      "content": "请问您今天的咨询内容是什么？如果方便的话，能否告知您的年龄和性别？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:02:14",
+      "origin": "休み明けに学校に行きたくありません",
+      "content": "假期结束后我不想去学校。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:02:19",
+      "origin": "16 男",
+      "content": "16岁，男。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:02:46",
+      "origin": "夏休み明けで、学校に行きたくないのですね",
+      "content": "暑假结束后不想去学校，是这样吗？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:03:30",
+      "origin": "学校に行きたくない理由は思い当たりますか？",
+      "content": "您能想到不想去学校的原因吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:04:16",
+      "origin": "授業が面倒くさいです",
+      "content": "上课很麻烦。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:04:56",
+      "origin": "そうなんですね。授業のどんなところが面倒くさいのですか？",
+      "content": "是这样啊。上课的哪些方面让您觉得麻烦呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:05:12",
+      "origin": "面白くありません",
+      "content": "没意思。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:05:53",
+      "origin": "学校の授業が面白くないんですね",
+      "content": "学校的课程觉得没意思，是吗？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:06:31",
+      "origin": "学校の授業、全部が面白くないのかな？",
+      "content": "是学校所有的课程都觉得没意思吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:06:38",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:07:31",
+      "origin": "例えば、特に面白くないものはありますか？",
+      "content": "比如说，有没有特别没意思的课程呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:08:14",
+      "origin": "多すぎて答えられません",
+      "content": "太多了，答不上来。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:10:01",
+      "origin": "体育とかはどうですか？",
+      "content": "那体育课之类的怎么样呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:10:28",
+      "origin": "なぜ体育なのですか",
+      "content": "为什么问体育呢？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:11:17",
+      "origin": "体を動かすのは好きな人もいるので、聞いてみたんです。",
+      "content": "因为有些人喜欢运动，所以就问了一下。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:11:34",
+      "origin": "私は好きではないのですが",
+      "content": "但我不喜欢。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:13:13",
+      "origin": "そうでしたか。授業が面白くないのは、なぜでしょう。例えば、先生がきらいとか？",
+      "content": "是这样啊。觉得上课没意思，原因会是什么呢？比如说，不喜欢老师之类的？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:13:53",
+      "origin": "なぜと言われても、、",
+      "content": "您问我为什么，我也说不上来……"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:15:51",
+      "origin": "答えにくい質問でしたね",
+      "content": "是个不太好回答的问题呢。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:16:41",
+      "origin": "じゃあ、学校に行きたくないのが、授業が面白くないからと言われてましたね",
+      "content": "那么，您是说不想去学校是因为课程没意思，对吗？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:17:26",
+      "origin": "学校を面白いと感じたことはないですか？",
+      "content": "您有没有觉得学校有趣的时候呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:17:38",
+      "origin": "あんまりないです",
+      "content": "几乎没有。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:18:03",
+      "origin": "今、16歳でしたね",
+      "content": "您现在16岁，对吧？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:18:15",
+      "origin": "高校1年生？",
+      "content": "高一吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:18:18",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:18:56",
+      "origin": "学校に行きたくないと思ったのは、今が初めてですか？",
+      "content": "不想去学校这种想法，现在是第一次吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:19:08",
+      "origin": "いいえ",
+      "content": "不是。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:19:18",
+      "origin": "そうなんですね",
+      "content": "是这样啊。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:19:42",
+      "origin": "いつ頃に思ったのか聞かせてもらえますか？",
+      "content": "可以告诉我大概是什么时候开始有这种想法的吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:19:52",
+      "origin": "小学生くらいからです",
+      "content": "大概是小学的时候开始的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:20:08",
+      "origin": "そんなころからなんですね",
+      "content": "原来从那么早就开始了啊。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:20:28",
+      "origin": "その時は、なにか気になることがあったのですか？",
+      "content": "那时候，有什么让您在意的事情吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:20:45",
+      "origin": "はっきりとは覚えていません",
+      "content": "记不太清楚了。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:21:33",
+      "origin": "小学生の時には、学校に行くことはできていたんですか？",
+      "content": "小学的时候，能正常去上学吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:21:47",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:22:29",
+      "origin": "なんか、もやもやして行きたくなかったけど、なんとか行っていた感じなのかな？",
+      "content": "是不是那种心里有点闷，不太想去，但还是勉强去的感觉？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:22:50",
+      "origin": "そんなところです",
+      "content": "差不多是那样。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:23:16",
+      "origin": "中学生のころも、同じようなかんじですか？",
+      "content": "初中的时候也是差不多的感觉吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:23:20",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:23:51",
+      "origin": "やっぱり、授業が面白くなかったから？",
+      "content": "果然还是因为课程没意思吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:24:15",
+      "origin": "そうですね",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:25:09",
+      "origin": "授業が嫌い、面白くないと思ったきっかけは、何か思い当たることがあるのかな？",
+      "content": "有没有什么契机让您开始讨厌上课、觉得没意思呢？能想到吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:25:50",
+      "origin": "きっかけも何もそのまま感じたことですよ",
+      "content": "也没什么契机，就是直接这么感觉的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:28:08",
+      "origin": "面白い授業って、今まで経験したことがなかったということかな？",
+      "content": "也就是说，您至今为止都没有体验过有意思的课程，是这样吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:28:18",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:31:24",
+      "origin": "学校では、授業の他にもいろんな行事があると思うけれど",
+      "content": "在学校里，除了上课，应该还有各种各样的活动吧。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:32:10",
+      "origin": "そういうのは、どうでしたか？",
+      "content": "那些活动您觉得怎么样呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:32:22",
+      "origin": "それも同じです",
+      "content": "那些也一样。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:32:39",
+      "origin": "そうなんですね",
+      "content": "是这样啊。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:34:11",
+      "origin": "学校に行きたくない理由は、授業が面白くないだけでなく、学校そのものが面白くないということなのかな？",
+      "content": "您不想去学校的理由，不仅是课程没意思，是不是也觉得学校本身就没意思呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:34:33",
+      "origin": "それもあるかもしれませんね",
+      "content": "可能也有这方面的原因吧。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:35:11",
+      "origin": "いま、何をしている時が楽しいのかな？",
+      "content": "现在，您做什么事情的时候会感到开心呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:35:34",
+      "origin": "家でゲームしてる時です",
+      "content": "在家玩游戏的时候。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:37:33",
+      "origin": "夏休み中は、ほとんどゲームしてすごしてたの？",
+      "content": "暑假期间，您是不是大部分时间都在玩游戏呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:37:59",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:38:05",
+      "origin": "どんなゲームが好きなのかな？",
+      "content": "喜欢什么样的游戏呢？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:38:11",
+      "origin": "課題もやってましたが",
+      "content": "不过作业也做了。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:38:51",
+      "origin": "rpgです",
+      "content": "是RPG（角色扮演游戏）。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:38:55",
+      "origin": "夏休みの課題は、しっかりやってたんですね？",
+      "content": "暑假作业都好好地完成了，是吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:39:06",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:39:53",
+      "origin": "ちなみに、課題は全部できたの？",
+      "content": "顺便问一下，作业全部都做完了吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:39:58",
+      "origin": "はい",
+      "content": "是的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:41:02",
+      "origin": "すごいね、勉強は、得意なのかな？",
+      "content": "很棒呢。学习方面，您算是擅长的吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:41:19",
+      "origin": "それはわかりません",
+      "content": "这个我不太清楚。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:41:40",
+      "origin": "塾とかは、行ってるの？",
+      "content": "有上补习班之类的吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:41:47",
+      "origin": "行ってません",
+      "content": "没有去。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:47:42",
+      "origin": "学校に行きたくないということ、",
+      "content": "关于不想去学校这件事，"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:48:02",
+      "origin": "だったんですが、",
+      "content": "不过，"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:49:27",
+      "origin": "高校にいこうと思ったのは、何か目標とかあったのかな？",
+      "content": "当初决定上高中，是有什么目标吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:49:35",
+      "origin": "いいえ",
+      "content": "没有。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:50:07",
+      "origin": "将来、こんなことがしたいとかは？",
+      "content": "将来想做什么之类的事吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:50:14",
+      "origin": "わかりません",
+      "content": "不知道。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:52:00",
+      "origin": "好きなものは、ゲームのほかにもありますか？",
+      "content": "除了游戏，还有其他喜欢的东西吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:52:06",
+      "origin": "ありません",
+      "content": "没有。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:53:34",
+      "origin": "ゲームがすきなんですね？そういう方面は興味あるのかな？",
+      "content": "您很喜欢游戏是吧？那对游戏相关的领域有兴趣吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:54:09",
+      "origin": "その方面は興味ありません",
+      "content": "对那个领域没有兴趣。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:54:23",
+      "origin": "というかこれ何の話してるんです？",
+      "content": "话说回来，我们这是在聊什么？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:57:08",
+      "origin": "学校に行きたくないということは、逆に行かないと何か困ることがありますか？",
+      "content": "您说不想去学校，那么反过来说，如果不去学校的话，会有什么困扰吗？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:57:57",
+      "origin": "行かない理由がないからです",
+      "content": "因为没有不去的理由。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:58:54",
+      "origin": "用事があるので失礼します",
+      "content": "我有点事，先失陪了。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:59:28",
+      "origin": "分かりました。",
+      "content": "好的，我明白了。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:01:19",
+      "origin": "今日は、お時間もないようですので、これで終了いたします。また、お時間のある時に、お話を聞かせてください。ご相談ありがとうございました。",
+      "content": "今天看来您的时间也不多了，我们就先到这里。如果您下次有时间，欢迎再来和我们聊聊。感谢您的咨询。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:02:52",
+      "origin": "クライアント役、ありがとうございました。",
+      "content": "感谢您扮演来访者的角色，辛苦了。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T15:02:58",
+      "origin": "ありがとうございました",
+      "content": "谢谢您。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:03:35",
+      "origin": "いろいろと勉強になりました。これから、もっと精進していきます。",
+      "content": "我学到了很多。今后会更加努力精进的。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:04:44",
+      "origin": "これで終了いたします",
+      "content": "那么本次就到此结束。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T15:04:49",
+      "origin": "はい",
+      "content": "好的。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "授業が面白くない問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 2397,
+    "evaluation_created_at": "2021-08-28T08:15:00",
+    "client_id": 125,
+    "counselor_id": 214,
+    "score": 42,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

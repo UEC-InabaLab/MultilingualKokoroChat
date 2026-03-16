@@ -1,0 +1,765 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:51:11",
+      "origin": "こんにちは。よろしくお願い致します。",
+      "content": "Hello. It's a pleasure to speak with you today."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:51:35",
+      "origin": "スタンバイ出来ました。いつからでも、よろしくお願いします。",
+      "content": "I'm ready. We can start whenever you are. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:51:59",
+      "origin": "ありがとうございます。それでは始めさせていただきたいと思います。",
+      "content": "Thank you. In that case, I'd like to begin."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:52:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:52:26",
+      "origin": "こんにちは、相談員です。相談に入る前に年齢と性別を教えていただいてもよろしいでしょうか？",
+      "content": "Hello, I'm the counselor. Before we begin, may I ask your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:53:08",
+      "origin": "こんにちは、よろしくお願いします。70歳、女、です。",
+      "content": "Hello, thank you. I'm a 70-year-old woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:53:33",
+      "origin": "こちらこそよろしくお願い致します。それでは本日はどのようなご相談でしょうか？",
+      "content": "It's a pleasure to speak with you too. So, what would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:53:51",
+      "origin": "夫の運転が怖くて、",
+      "content": "I'm scared of my husband's driving,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:54:10",
+      "origin": "助手席でつい、口を出してしまうのですが",
+      "content": "and I can't help but say something from the passenger seat."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:54:19",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:54:41",
+      "origin": "その声が危ないとキレるんです。",
+      "content": "He loses his temper, saying my outbursts are dangerous."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:55:08",
+      "origin": "歳のせいか、だんだん瞬間湯沸器になってきて、",
+      "content": "Maybe it's because of his age, but he's become more and more short-tempered."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:55:17",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:55:43",
+      "origin": "でも、危ないから、何とか注意を聞いてもらえる方法はないかと、、",
+      "content": "But it's dangerous, so I was wondering if there's any way to get him to listen to my warnings..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:56:49",
+      "origin": "そうですよね。命に係わることですから、安全のためにも注意を聞き入れてもらいたいですよね。",
+      "content": "I understand. It's a matter of life and death, so you want him to heed your warnings for safety's sake."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:57:26",
+      "origin": "ちなみに夫さんはおいくつなのでしょうか？",
+      "content": "By the way, how old is your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:57:54",
+      "origin": "72歳です",
+      "content": "He's 72."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:58:49",
+      "origin": "年齢は近いんですね。",
+      "content": "So you're close in age."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:59:11",
+      "origin": "まぁ",
+      "content": "Well, yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:59:15",
+      "origin": "運転が危ないというのは具体的にはどのような感じなのでしょうか？",
+      "content": "Specifically, in what ways do you find his driving dangerous?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:00:12",
+      "origin": "左右への注意が足りない時や、道に迷っている時の焦り方とか、",
+      "content": "Like when he doesn't pay enough attention to his left and right, or how he panics when he's lost,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:00:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:01:16",
+      "origin": "一回だけですが、逆走した事があるので、私にとってトラウマです。",
+      "content": "and although it only happened once, he drove on the wrong side of the road, which was traumatic for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:02:11",
+      "origin": "ええ、そうでしたか・・・。それは大変怖い想いをされましたね。他のものも事故につながりそうなことばかりで、心配されるのは当然のことかと思います。",
+      "content": "Oh, I see... That must have been a very frightening experience. The other things you mentioned could also lead to an accident, so it's perfectly natural for you to be worried."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:03:01",
+      "origin": "逆走をした後、夫さんとはどのようはお話をされましたか？",
+      "content": "After the wrong-way incident, what kind of conversation did you have with your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:03:20",
+      "origin": "2人とも、しばらく黙ってしまいました。",
+      "content": "We both stayed silent for a while."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:04:04",
+      "origin": "そうでしたか・・・。どのようなお気持ちから黙ってしまっていたのでしょうか？",
+      "content": "I see... What were the feelings behind that silence?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:04:19",
+      "origin": "本人も響いていると思うので、私からもほとんど話しません",
+      "content": "I think it hit him hard too, so I didn't say much either."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:05:09",
+      "origin": "相当危なかったよね、とは言ったかな",
+      "content": "I think I might have said something like, 'That was really dangerous, wasn't it?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:05:10",
+      "origin": "そうだったんですね。夫さんの気持ちを察して、ご配慮されたのですね。",
+      "content": "I see. You were being considerate, sensing how your husband was feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:06:02",
+      "origin": "ええ、せめてそういった感想くらいは言いたいですよね。",
+      "content": "Yes, at the very least, you'd want to express that kind of sentiment."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:06:55",
+      "origin": "でと、目の前の危ないことには、瞬間的に「あ！」とか言ってしまうので、それが余計危ないんだ、運転ペースを乱す、とか、怒ります。",
+      "content": "But when something dangerous is right in front of us, I instinctively blurt out 'Ah!' and he gets angry, saying that's even more dangerous and it disrupts his driving rhythm."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:06:56",
+      "origin": "ちなみによく二人で車でお出かけされるのですか？",
+      "content": "By the way, do you two often go out by car together?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:07:06",
+      "origin": "でと。は、でも、",
+      "content": "Um... I mean, but—"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:07:11",
+      "origin": "すいません、行き違ってしまいましたね。",
+      "content": "Sorry, we crossed messages."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:07:21",
+      "origin": "出かけます",
+      "content": "We do go out."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:08:28",
+      "origin": "なるほどですね。でも危ない時って反射的に声が出たりしますよね。",
+      "content": "I see. But it's natural to cry out instinctively when you're in danger, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:08:36",
+      "origin": "そうなんです",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:08:52",
+      "origin": "怖いとなるとなおさらだと思います。",
+      "content": "I imagine that's even more true when you're scared."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:09:24",
+      "origin": "指示するなと言われます",
+      "content": "He tells me not to give instructions."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:10:23",
+      "origin": "夫さんはそう捉えているんですね。そうはいっても助手席に座っている身としてはハラハラしてしまいますよね。",
+      "content": "So that's how your husband perceives it. Even so, sitting in the passenger seat must be nerve-wracking for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:10:58",
+      "origin": "夫さんは車の運転をしていない時はどのような感じなのでしょうか？",
+      "content": "What is your husband like when he's not driving?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:12:00",
+      "origin": "割と穏やかですが、突然キレる事はあります。歳のせいなのかなと、思います。",
+      "content": "He's relatively calm, but he can suddenly lose his temper. I think it might be due to his age."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:12:26",
+      "origin": "ダメ出しをすると、反抗的です。",
+      "content": "If I criticize him, he gets defiant."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:13:04",
+      "origin": "そうなんですね。それは困りますね。",
+      "content": "I see. That must be difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:13:19",
+      "origin": "このことは誰かに相談はされましたか？",
+      "content": "Have you spoken to anyone else about this?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:13:29",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:14:11",
+      "origin": "そうでしたか。どのような理由があって相談をされなかったのでしょうか？",
+      "content": "I see. Was there any particular reason you haven't?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:14:29",
+      "origin": "相談する人はいないです",
+      "content": "I don't have anyone to talk to about it."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:14:46",
+      "origin": "ここに、相談しています",
+      "content": "I'm consulting with you here."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:15:17",
+      "origin": "そうでしたか。それで来ていただいたんですね。",
+      "content": "I see. So that's why you came to us."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:16:07",
+      "origin": "運転のことについてお話しされるのは、いつもどのような時なのでしょうか？",
+      "content": "When do you usually talk about his driving?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:16:40",
+      "origin": "ごめんなさい、どういう質問なのか、良くわかりません。",
+      "content": "I'm sorry, I don't quite understand the question."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:17:01",
+      "origin": "いえ、こちらこそすいません。言い直しますね。",
+      "content": "No, I apologize. Let me rephrase that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:19:03",
+      "origin": "普段どのような時に、夫さんと運転のことについてお話しされますか？（分かりづらかったら、遠慮なくお伝えくださいね）",
+      "content": "Under what circumstances do you usually discuss driving with your husband? (Please don't hesitate to tell me if that's still unclear.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:20:12",
+      "origin": "運転の事で話し合う事はありません。助手席で、危ない時に助言のつもりで言葉を発します。",
+      "content": "We don't really have discussions about his driving. I just say things from the passenger seat when it's dangerous, intending it as advice."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:21:04",
+      "origin": "そうだったんですね。",
+      "content": "I see, so that's how it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:23:44",
+      "origin": "もしかしたら夫さんも運転に集中していて、運転中の助言が気になって、それで焦りが出てきて余計忠告が聞き入れられなくなるのかもれないですね。",
+      "content": "Perhaps your husband is concentrating on driving, and your advice during that time distracts him, making him anxious and even less able to accept your warnings."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:24:47",
+      "origin": "でもやはり命に係わることなので、きちんとお話しされたいですよね。",
+      "content": "But still, since it's a matter of life and death, you want to be able to have a proper conversation about it, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:26:37",
+      "origin": "歳も歳なので、後3年で運転はやめようと言う話しはしています。",
+      "content": "Given our age, we've talked about stopping driving in three years."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:27:53",
+      "origin": "そうだったんですね。ただそれまでは安全に運転してもらいたいですよね。ちなみにそれはいつお話しされたのでしょうか？",
+      "content": "I see. But until then, you want him to drive safely. By the way, when did you have that conversation?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:28:52",
+      "origin": "夫が70歳になる頃から、いつやめようかは、ぼちぼちと。",
+      "content": "Since around when he turned 70, we've been gradually discussing when to stop."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:29:27",
+      "origin": "でも、車が使えると便利なのでのびのびに。",
+      "content": "But because having a car is convenient, it keeps getting postponed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:30:20",
+      "origin": "たしかに、遠くに行けて荷物も積めて便利ですよね。その時はどちらでお話をされたのでしょうか？",
+      "content": "Indeed, it's convenient for going far and carrying luggage. Where did you have those conversations?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:30:49",
+      "origin": "食事の時とか、です。",
+      "content": "During meals, and things like that."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:30:56",
+      "origin": "日常で",
+      "content": "In our daily life."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:31:05",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:33:00",
+      "origin": "その時の夫さんの様子はどのような感じでしたか？",
+      "content": "What was your husband's demeanor like during those conversations?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:34:03",
+      "origin": "お互いに、いつごろまで出来るか、どうしようか、と言う会話です。",
+      "content": "We would talk about how long we could continue and what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:36:11",
+      "origin": "ええ、割と冷静にお話をされた感じなんですね。どういう経緯からその話をすることになったのでしょうか？",
+      "content": "Yes, it seems like you had calm conversations. What led to starting those talks?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:37:00",
+      "origin": "高齢者の事故のニュースを見てとかです。",
+      "content": "Seeing news about accidents involving elderly drivers, for example."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:37:51",
+      "origin": "なるほどですね。という事は夫さんも運転の怖さについては十分ご理解をされているという事でしょうか？",
+      "content": "I see. So does that mean your husband also fully understands the dangers of driving?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:38:14",
+      "origin": "それは当然かなと思います。",
+      "content": "I think that goes without saying."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:38:46",
+      "origin": "ええ、そうですよね。",
+      "content": "Yes, you're right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:39:59",
+      "origin": "これまでお話を聴かせていただいて、お二人とも運転の怖さを十分に理解しており、それに向かってお二人で建設的なお話がきちんとできているんだなという事が伝わってきました。",
+      "content": "From what you've told me, it's clear that you both fully understand the dangers of driving and that you are able to have constructive conversations about it together."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:40:28",
+      "origin": "そうですか",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:41:05",
+      "origin": "ただ、夫さんは運転の焦りからあなたの忠告が聞き入れづらい状況にあるだけなのかなと、感じたのですか、いかがでしょうか？",
+      "content": "However, I got the impression that perhaps your husband is just in a state where it's difficult for him to accept your warnings due to his anxiety while driving. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:42:17",
+      "origin": "はい、そんな時に、どう伝えれば聞いてもらえるかというのが、はじめにお伝えした質問です。",
+      "content": "Yes, and my original question was how I can communicate in those moments so that he will listen."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:42:38",
+      "origin": "はい、そうでしたね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:44:04",
+      "origin": "ですので運転をやめる時期をお話された時のように、運転中以外でお話をされてみてはと思うのですが、いかがでしょうか？",
+      "content": "So, as when you discussed when to stop driving, how about trying to talk about it when you're not in the middle of driving? What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:44:51",
+      "origin": "あの時、こんな風に危なかったよねという事でしょうか？",
+      "content": "Like saying, 'That time, it was dangerous in this way, right?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:45:46",
+      "origin": "そうですね。あと、夫さんにどういう風に伝えてもらうのが良いのか等も訊いてみるといいかもしれませんね。",
+      "content": "Yes. It might also help to ask him how he would prefer you to convey things."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:46:31",
+      "origin": "あの時、なんて持ち出すと、しつこいとか、根に持つとか言われそうです。",
+      "content": "If I bring up 'that time,' he's likely to say I'm nagging or holding a grudge."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:47:14",
+      "origin": "危ない時は突然で、反射的に声が出るのも瞬間なので。",
+      "content": "Dangerous situations happen suddenly, and my voice comes out reflexively in an instant."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:47:40",
+      "origin": "そういった心配がおありなんですね。確かに話がこじれるのは嫌ですよね。",
+      "content": "You have those concerns. Indeed, you don't want the conversation to get complicated."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:47:43",
+      "origin": "黙ってて欲しい、気が付いてるんだから、と言われます。",
+      "content": "He says, 'I want you to stay quiet—I'm aware of it.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:48:42",
+      "origin": "そいういう事を言われるのですね。それだとたしかにお話がしづらくなりますね。",
+      "content": "He says things like that. That certainly would make it difficult to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:50:21",
+      "origin": "でしたら反射的に出る言葉をどうにかするのは難しそうなので、運転中以外で話をするときの伝え方を考えていくのが、良さそうですね。",
+      "content": "In that case, since it seems difficult to control what you say reflexively, it might be best to think about how to communicate when you talk outside the car."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:51:02",
+      "origin": "そうですか、よろしくお願いします。",
+      "content": "I see, yes please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:51:19",
+      "origin": "そこで提案なのですが、「アイメッセージ」というものを試されてみるのが良いかもしれません。",
+      "content": "In that case, I have a suggestion. It might be good to try something called 'I-messages'."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:51:33",
+      "origin": "それは何ですか？",
+      "content": "What is that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:51:47",
+      "origin": "はい、ご説明させていただきますね。",
+      "content": "Yes, let me explain."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:53:15",
+      "origin": "「アイ」というのは英語で言う「自分」を示す言葉なのですが、相手にメッセージを伝えるときに、主語が自分になるように相手にメッセージを伝えるというものです。",
+      "content": "'I' is the English word for 'oneself,' and it's a way of communicating where the subject of the message you're conveying is yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:53:24",
+      "origin": "例えば、",
+      "content": "For example,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:54:48",
+      "origin": "どうして片づけをしないの！だと主語が「あなた」になるのですが、片付けられてないのは困るな。だと主語が「自分」になります。",
+      "content": "'Why don't you clean up?!' has 'you' as the subject, whereas 'It's hard for me when things aren't put away' has 'I' as the subject."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:56:07",
+      "origin": "このような感じで相手のことを責める感じでなく、自分の気持ちを伝えるようにすることで、相手に話を聴いてもらいやすくするという効果が得られることがあるんです。",
+      "content": "By communicating your own feelings this way, rather than blaming the other person, it can sometimes have the effect of making them more willing to listen."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:56:54",
+      "origin": "自分が主人公になると、どんな言い方になりますか？片付けの事ですが",
+      "content": "If I make myself the subject, what would be an example—about the tidying up?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:57:27",
+      "origin": "私は困るな、ですか？",
+      "content": "'I'm troubled'?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:58:38",
+      "origin": "では、怖かったよ、とか、危なそう、とか？",
+      "content": "So, something like, 'I was scared,' or 'That looked dangerous to me'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:58:46",
+      "origin": "そうですね。そういう感じですね。",
+      "content": "Yes, that's the idea."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:59:13",
+      "origin": "トライしてみますね",
+      "content": "I'll give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:59:52",
+      "origin": "私も瞬間湯沸器になってるかもしれませんね。",
+      "content": "I might be getting short-fused myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:00:08",
+      "origin": "はい、お二人のためによければトライしてみてください。",
+      "content": "Yes, please do try it if you think it would be good for both of you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:00:17",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:00:42",
+      "origin": "いえ、命にかかわることなので過敏になるのは当然かと思います。",
+      "content": "Not at all. It's a matter of life and death, so it's only natural to be sensitive about it."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:01:35",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:01:49",
+      "origin": "お互いに危険なことを理解して実際にお話をされてきた、そしてこれまで連れ添われてきたお二人ならきっと建設的なお話ができると思います。",
+      "content": "Since you both understand the dangers, have actually talked about it, and have been together for so long, I'm sure you can have a constructive conversation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:02:22",
+      "origin": "なので一度じっくりお話をされてみてくださいね。",
+      "content": "So please try taking some time to talk it through."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:02:40",
+      "origin": "それでは本日の相談は終了ということで大丈夫でしょうか？",
+      "content": "Shall we conclude today's session here?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:03:30",
+      "origin": "じっくり話すのは無理かもですが、瞬間的な言い方を変える訓練をしたいと思います。",
+      "content": "A thorough talk might be difficult, but I'd like to practice changing how I speak in the moment."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:03:39",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:04:00",
+      "origin": "なるほどそれはいいですね。",
+      "content": "I see, that's a good idea."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:04:27",
+      "origin": "こちらこそお話聴かせていただきありがとうございました。それでは相談の方終了させていただきますね。",
+      "content": "Thank you for sharing your story with me. I will now conclude the session."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:04:33",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:04:36",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:04:55",
+      "origin": "本日はお越しいただきありがとうございました。それでは失礼いたします。",
+      "content": "Thank you for coming today. Take care."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:05:24",
+      "origin": "それではRPの方も終了させていただくのですが、大丈夫でしょうか？",
+      "content": "We'll also conclude the role-play (RP) now, if that's alright?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:05:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:05:37",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T14:06:03",
+      "origin": "はい、こちらこそありがとうございました。お疲れさまでした。失礼いたします。",
+      "content": "Yes, thank you as well. Thank you for your time. Take care."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T14:06:12",
+      "origin": "お疲れ様でした",
+      "content": "Thank you for your time."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "夫の運転についてのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 974,
+    "evaluation_created_at": "2020-12-19T01:09:00",
+    "client_id": 106,
+    "counselor_id": 115,
+    "score": 74,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,789 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:00:04",
+      "origin": "こんにちは、相談員です。本日はご相談に来てくださり、ありがとうございます。まず初めに、年齢、性別、ご相談内容を教えてください。",
+      "content": "Hello, I'm the counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age, gender, and what you'd like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:00:59",
+      "origin": "15歳女子学校に疲れました",
+      "content": "I'm a 15-year-old girl. I'm exhausted by school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:01:29",
+      "origin": "教えて頂き、ありがとうございます。",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:01:56",
+      "origin": "そうなんですね。どんなことがありましたか？",
+      "content": "I see. Could you tell me more about what's been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:02:32",
+      "origin": "何となく、行きたくなくなった感じです",
+      "content": "Somehow, I just don't feel like going anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:03:34",
+      "origin": "なるほど、そう思うようになったきっかけは、何かありますか？",
+      "content": "I understand. Was there anything in particular that led you to feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:03:58",
+      "origin": "べつに喧嘩もしていません。合わせるのに疲れた感じです",
+      "content": "It's not like I've had a fight or anything. I just feel worn out from trying to fit in."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:04:54",
+      "origin": "うんうん。それは、お友達とのことでしょうか？",
+      "content": "Mm-hmm. Is this about your friends?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:05:49",
+      "origin": "そうですね。学校から家に帰ると凄くしんどくなります",
+      "content": "Yes. When I get home from school, I feel completely drained."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:06:43",
+      "origin": "なんか　疲れるんです",
+      "content": "It's just so draining."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:06:52",
+      "origin": "そうなんですね。気を遣ってたからこそ、疲れがどっと出てしまった感じですよね。",
+      "content": "I see. It sounds like because you've been so considerate of others, all the fatigue hits you at once."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:07:13",
+      "origin": "そうなのかなぁ…",
+      "content": "I wonder if that's it..."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:07:57",
+      "origin": "仲は良いけど、いつも笑ってないといけない感じだし",
+      "content": "We get along, but it feels like I always have to be smiling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:08:26",
+      "origin": "そうなんですね。普段は仲良く接しているのですね。",
+      "content": "I see. So you usually get along well with them."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:08:33",
+      "origin": "気を使ってるのかもしれないのかな",
+      "content": "Maybe I'm being too considerate."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:08:50",
+      "origin": "普段いつも一緒にいます",
+      "content": "We're always together."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:09:08",
+      "origin": "8人のイツメンです",
+      "content": "There are eight of us—our usual group."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:09:47",
+      "origin": "そうなんですね。疲れが出るということは、やはりエネルギーを使っているので、そうなのかもしれませんね。",
+      "content": "I see. The fact that you feel tired suggests you're using a lot of energy, so that might be the case."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:10:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:11:05",
+      "origin": "学校で目立つグループなんですが、その中にいるとやりたくないことも一緒にするので疲れる",
+      "content": "We're a group that stands out at school, and being in it is exhausting because I end up doing things I don't want to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:11:23",
+      "origin": "そんなことがあるのですね。これからそのイツメンの方々と、どう接していこうか、悩まれているということでしょうか？",
+      "content": "I see, so that's been happening. Are you feeling unsure about how to interact with your usual group going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:11:53",
+      "origin": "でも　離れるのもさみしいかな",
+      "content": "But I think I'd feel lonely if I drifted away from them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:12:23",
+      "origin": "確かに、離れるとなるとそういうお気持ちも出てきますよね。",
+      "content": "Certainly, those feelings can come up when you think about distancing yourself."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:12:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:13:23",
+      "origin": "でも歩道橋の上から車に何か投げようとかいう話をしてたりして嫌なんです",
+      "content": "But they talk about things like throwing something off a pedestrian bridge onto cars, and I really don't like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:13:40",
+      "origin": "そんなお話をされているのですね。",
+      "content": "So they talk about things like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:13:41",
+      "origin": "やりたくないので",
+      "content": "I don't want to do that."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:13:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:14:05",
+      "origin": "でも　やりたくないって言えないです",
+      "content": "But I can't say that I don't want to."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:14:31",
+      "origin": "確かに、何言われるかわからないですもんね。",
+      "content": "I understand. You don't know how they would react."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:14:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:14:52",
+      "origin": "言うことによって関係が悪くなるのも、嫌ですよね。",
+      "content": "And you wouldn't want your relationship with them to get worse by saying something, would you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:15:44",
+      "origin": "元々、どのようにして関わるようになったのですか？",
+      "content": "How did you originally start spending time with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:15:48",
+      "origin": "そうなんですそんなこというと一緒に居れなくなります",
+      "content": "Exactly. If I say something like that, I won't be able to stay with them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:16:10",
+      "origin": "そうですよね",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:16:36",
+      "origin": "だから　学校も行きたくなくなってきて",
+      "content": "That's why I'm starting to not want to go to school."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:16:51",
+      "origin": "疲れる",
+      "content": "It's exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:17:11",
+      "origin": "うんうん、疲れますよね。",
+      "content": "Mm-hmm, that must be exhausting."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:17:19",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:18:10",
+      "origin": "そのイツメンの方々といて、楽しいときは、どんなときですか？",
+      "content": "When you're with your usual group, when do you find it enjoyable?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:19:14",
+      "origin": "いろんな話をしたり、してるかな",
+      "content": "I guess when we're talking about various things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:19:35",
+      "origin": "お話されているときなのですね。",
+      "content": "So it's when you're talking with them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:19:48",
+      "origin": "どんなお話をされますか？",
+      "content": "What kinds of things do you talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:20:55",
+      "origin": "普通に遊んでいるときは楽しいし、話は友達の事とか、snsのことです",
+      "content": "It's fun when we're just hanging out, and we talk about friends and social media."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:21:42",
+      "origin": "なるほど、色々なことでお話されていて、遊んでいる時も楽しいのですね。",
+      "content": "I see, so you talk about various things and have fun when you're hanging out."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:21:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:23:21",
+      "origin": "今までお話されてきた中で、改めて相談者様が一番悩まれているのは、何でしょうか？",
+      "content": "Based on what we've discussed so far, what would you say is the main thing that's troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:24:21",
+      "origin": "みんなのなかでいつも笑っていないといけないのが疲れる",
+      "content": "Having to always be smiling around everyone is exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:25:04",
+      "origin": "そうでしたね。合わせないと、どうなりますか？",
+      "content": "Right. What happens if you don't go along with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:25:36",
+      "origin": "合わせないとテンション低いって言われる",
+      "content": "If I don't, they say I'm 'low energy' or a downer."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:25:54",
+      "origin": "なるほど、そう言われてしまうのですね。",
+      "content": "I see, so they say that to you."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:26:03",
+      "origin": "はい、",
+      "content": "Yes,"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:26:16",
+      "origin": "笑いたくない時もあるから",
+      "content": "Because sometimes I just don't feel like smiling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:26:40",
+      "origin": "確かに、そういうときもありますよね。",
+      "content": "Of course. Everyone has times like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:26:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:27:18",
+      "origin": "相談者様の中で、どうなるのが理想か、お考えはありますか？",
+      "content": "Do you have any idea what an ideal situation would be for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:28:55",
+      "origin": "どうなるのが理想なのか今はわからないですでも　先生にもクラスを引っ張ってねって言われるけどなんで私が引っ張って行かないといけないのかわからないです",
+      "content": "I don't know what an ideal situation would be right now. But my teacher tells me to 'lead the class,' and I don't understand why I'm the one who has to do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:29:57",
+      "origin": "うんうん。なるほど、先生の方からそのように言われているのですね。",
+      "content": "Mm-hmm. I see, so your teacher has been saying that to you."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:30:54",
+      "origin": "私が言えばみんながついてくるからって言われても困るんです",
+      "content": "They say that if I speak up, everyone will follow, but that puts me in a difficult position."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:31:23",
+      "origin": "なんで私が　頑張らないといけないのか？",
+      "content": "Why do I have to be the one who has to try so hard?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:31:56",
+      "origin": "うーん、押し付けられても、という感じですよね。",
+      "content": "Mmm, it sounds like you feel it's being forced on you."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:32:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:32:54",
+      "origin": "自分だけそうするのも、違うのではないか、ということですよね。",
+      "content": "It doesn't feel right to be the only one doing it, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:33:29",
+      "origin": "そのように、引っ張ってくれと言われる心当たりはありますか？",
+      "content": "Do you have any idea why they're asking you to take the lead like that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:34:29",
+      "origin": "はい勝手にすればいいのに私が言えばみんなが聞いてくれるからって",
+      "content": "Yes. They say it's because if I'm the one to say it, everyone will listen, but I wish they'd just do it themselves."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:35:09",
+      "origin": "そんなこと言われてもわからないです",
+      "content": "Even if they say that, I still don't get it."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:35:43",
+      "origin": "心あたりはわからないです",
+      "content": "I have no idea why."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:35:55",
+      "origin": "うんうん、そうなんですね。実際、みんなは言うこと聞いてくれますか？",
+      "content": "Mm-hmm, I see. In practice, do people actually listen to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:36:51",
+      "origin": "どうなんだろ？先生は私が言えばみんなが文句を言わないって言ってた",
+      "content": "I'm not sure. The teacher said that if I say it, no one complains."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:37:56",
+      "origin": "なるほど、先生の方はそのように仰ったのですね。",
+      "content": "I see, so that's what your teacher said."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:38:34",
+      "origin": "はい先生がみんなに言えばいいのに",
+      "content": "Yes. I wish the teacher would just tell everyone themselves."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:39:01",
+      "origin": "そうですよね。みんなに言うってだけでも、相当なエネルギーがいると思います。",
+      "content": "I agree. Just being the one to tell everyone must take a lot of energy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:39:08",
+      "origin": "疲れちゃいますよね。",
+      "content": "It's exhausting, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:39:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:39:51",
+      "origin": "ちなみに先生とは、仲良いですか？",
+      "content": "By the way, are you on good terms with your teacher?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:40:01",
+      "origin": "仲はいいです",
+      "content": "Yes, we get along well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:40:14",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:40:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:40:57",
+      "origin": "先生の荷物も運んであげます",
+      "content": "I even help carry the teacher's things."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:41:05",
+      "origin": "本とか",
+      "content": "Like books and stuff."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:41:25",
+      "origin": "力になってあげているのですね。お優しいですね。",
+      "content": "So you're helping them out. That's very kind of you."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:41:43",
+      "origin": "いっぱい持っていたので",
+      "content": "They were carrying a lot."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:41:59",
+      "origin": "手伝いました",
+      "content": "So I helped."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:42:27",
+      "origin": "うんうん。そのとき、助けなきゃと、思われたんですよね？",
+      "content": "Mm-hmm. At that moment, you felt you had to help them, didn't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:42:46",
+      "origin": "そうかな",
+      "content": "I guess so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:43:17",
+      "origin": "そうだと思います。きっと、人の助けになりたいというのが、あるんだと思いますよ。",
+      "content": "I believe so. I'm sure you have a genuine desire to be of help to others."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:43:51",
+      "origin": "そうなのかも？かな",
+      "content": "Maybe that's it... I guess?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:44:00",
+      "origin": "はい、素晴らしいことですよ。",
+      "content": "Yes, that's a wonderful quality."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:44:10",
+      "origin": "少しお話をまとめますね。",
+      "content": "Let me just summarize what we've talked about."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:44:18",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:46:30",
+      "origin": "相談者様は、ご友人との付き合いであったり、学校でまとめ役を頼まれたりしている。ただ、人を助けたい思いもあれば、迷惑をしたくない思いもあり、その状況がくるとどっと疲れを感じてしまう。",
+      "content": "You are dealing with your friendships and are also being asked to take on a leadership role at school. While you want to help people, you also don't want to be a bother, and these situations leave you feeling completely drained."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:47:17",
+      "origin": "そうかもしれません",
+      "content": "That might be true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:48:13",
+      "origin": "もしかしたらですが、精神的にもかなり疲れているのだと思いますよ。",
+      "content": "It's quite possible that you're very mentally exhausted."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:48:27",
+      "origin": "体の疲れとは別に。",
+      "content": "Separate from physical fatigue."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:49:07",
+      "origin": "そうなのかなでも疲れるのは確かで凄く眠たくなります",
+      "content": "Maybe so, but it's true I get tired and feel very sleepy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:49:33",
+      "origin": "そうですよね。相談員としては、一度ゆっくり休むことを提案したいと思います。",
+      "content": "Right. As your counselor, I would like to suggest that you take some time to really rest."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:49:48",
+      "origin": "そのお時間はとれそうでしょうか？",
+      "content": "Do you think you can make some time for that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:50:15",
+      "origin": "学校休んでも大丈夫かな",
+      "content": "Would it be okay to take a day off from school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:50:48",
+      "origin": "行きたくなかったし",
+      "content": "I didn't want to go anyway."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:51:02",
+      "origin": "良いと思います。事情をしっかりお話すれば、親御さんも納得してくれると思いますよ。",
+      "content": "I think that would be fine. If you explain the situation properly, I'm sure your parents will understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:51:39",
+      "origin": "行きたくないと思っているのに、行っても良いことはないですからね。",
+      "content": "After all, nothing good comes from forcing yourself to go when you don't want to."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:51:48",
+      "origin": "納得するかなぁうるさそうです",
+      "content": "I wonder if they'll agree... They'll probably give me a hard time."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:52:06",
+      "origin": "でも　話てみます",
+      "content": "But I'll try talking to them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:52:56",
+      "origin": "確かに、何か言われるかもしれませんね。ただ、親御さんも大事な子供である相談者様のお話は、真剣に聞いてくれると思いますよ。",
+      "content": "They might say something, that's true. However, I'm sure your parents will listen seriously to what you, their child, have to say."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:53:05",
+      "origin": "相談員も応援しております。",
+      "content": "I'll be here to support you."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:53:18",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:53:24",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:53:54",
+      "origin": "いえいえ、こちらこそありがとうございました。",
+      "content": "You're welcome. Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:54:28",
+      "origin": "ご友人の関係など、考えることはありますが、まずは相談者様の体調を回復することから優先してみてはと思いました。",
+      "content": "There are things to consider, like your friendships, but I think it would be best to prioritize your own recovery first."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:54:39",
+      "origin": "ここまでお話されて、いかがでしたか？",
+      "content": "How do you feel now that we've had this talk?"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:55:22",
+      "origin": "なんか　誉めてもらった気がしました",
+      "content": "I feel like... you praised me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:56:07",
+      "origin": "はい、お話を聞く限り、相談者様はとても頑張られていると感じました。お手伝いも積極的にされますからね。",
+      "content": "Yes, from listening to you, I really feel that you've been trying very hard. You're always actively helping others."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:56:37",
+      "origin": "そうなのかな",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:56:44",
+      "origin": "先生の方からは、そういった点を認められているのかもしれませんね。",
+      "content": "Your teacher may recognize those qualities in you."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:57:23",
+      "origin": "わからないですが",
+      "content": "I'm not sure, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:57:34",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:57:40",
+      "origin": "きっとそうだと思いますよ。",
+      "content": "I'm sure that's the case."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:58:12",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:58:24",
+      "origin": "そろそろ終了のお時間となりますが、一度ゆっくり休んで、また解決できないことがあれば、ぜひまた来てくださいね。",
+      "content": "It's almost time for our session to end, but please take some time to rest. If there's anything else you're struggling with, please don't hesitate to come back."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:58:45",
+      "origin": "はい今日はありがとうございました",
+      "content": "Yes. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:59:04",
+      "origin": "こちらこそ、ありがとうございました。いつでもお待ちしていますよ。",
+      "content": "Thank you as well. I'm always here whenever you need."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:59:16",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:59:20",
+      "origin": "それでは、終了メッセージを送らせて頂きますね。",
+      "content": "Alright, I'll send the closing message now."
+    },
+    {
+      "role": "client",
+      "time": "2023-03-18T10:59:29",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-18T10:59:38",
+      "origin": "はい、ありがとうございました。",
+      "content": "Okay, thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友人関係の疲れ"
+  },
+  "review_by_client": {
+    "evaluation_id": 4771,
+    "evaluation_created_at": "2023-03-18T11:48:00",
+    "client_id": 237,
+    "counselor_id": 342,
+    "score": 79,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

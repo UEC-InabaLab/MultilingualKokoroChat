@@ -1,0 +1,495 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-04T19:55:11",
+      "origin": "（こんばんは。本日はよろしくお願いいたします。時間になりましたら、はじめさせていただきます。）",
+      "content": "(Good evening. I look forward to our session today. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T19:55:53",
+      "origin": "（こんばんは。はい、宜しくお願いします）",
+      "content": "(Good evening. Yes, I look forward to it.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:00:45",
+      "origin": "こんばんは。本日はお越しいただきありがとうございます。はじめに、年齢と性別、相談内容をおしえていただけますか。",
+      "content": "Good evening. Thank you for coming today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:01:25",
+      "origin": "35歳女性孤独です",
+      "content": "I'm a 35-year-old woman, and I'm lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:03:41",
+      "origin": "そうなのですね。それは寂しいですね・・・よろしければ、もう少し詳しく教えていただけますか。",
+      "content": "I see. That must feel very lonely... If you're comfortable, could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:06:14",
+      "origin": "働きながら夫と住んでいます。毎日にとても虚しさを感じます。",
+      "content": "I work and live with my husband. I feel very empty every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:08:10",
+      "origin": "ええ。相談者様がつらい状況にいらっしゃるように感じます。どのような時に孤独や虚しさをかんじられるのでしょうか。",
+      "content": "I understand. It sounds like you’re in a difficult situation. When do you find yourself feeling lonely or empty?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:10:49",
+      "origin": "働いても仕事以外の会話もなく、帰ってからも夫との会話もほとんどないです。周りに沢山人は居ても、自分だけが置き去りになっている感じがします。",
+      "content": "At work, there's no conversation beyond what's work-related, and when I get home, my husband and I barely talk. Even though there are many people around me, I feel like I'm the only one being left behind."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:12:52",
+      "origin": "そうなのですか。そのような状況では孤独や虚しさを感じてしまうのは、もっともだと思います。それは、いつ頃からなのでしょうか。",
+      "content": "I see. It's completely understandable that you would feel lonely and empty in that situation. About how long has it been like this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:13:23",
+      "origin": "2年前くらいからです",
+      "content": "It started about two years ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:14:44",
+      "origin": "そうなのですか。ずっとそのようなお気持ちでいるのはおつらかっただろうと感じます。",
+      "content": "I see. It must have been so difficult to feel that way for so long."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:15:13",
+      "origin": "２年前くらいにこのような状況になった、きっかけなどはあったのでしょうか。",
+      "content": "Was there anything that happened around two years ago that might have triggered this situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:15:19",
+      "origin": "気づいたらこんな風になっていましま。",
+      "content": "Before I knew it, it had become like this."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:16:21",
+      "origin": "きっかけや原因がわからないと、どうしたらよいか、わからなくなってしまいますよね。",
+      "content": "When you don’t know the trigger or cause, it’s hard to know what to do, isn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:17:00",
+      "origin": "その頃、コロナで前の仕事を退職しました。その後に今の仕事につきましたが、今ひとつ馴染めずにいます。",
+      "content": "Around that time, I left my previous job due to COVID. After that, I started my current job, but I haven't been able to fit in well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:18:46",
+      "origin": "新しいお仕事をはじめられたのですね。仕事になれるのも大変な中で、職場になじめないのは不安になりますね。",
+      "content": "So you started a new job. It's already tough getting used to a new job, so not being able to fit in must be worrying."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:20:21",
+      "origin": "生活のためなので、仕事さえやれば良いのかな、と最近は諦めています。",
+      "content": "Since it's for making a living, I've recently been resigning myself to thinking that as long as I do the work, that's enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:22:44",
+      "origin": "そうなのですね。職場になじむことを諦めてしまおうかと思われるくらい、長く悩んでこられたのですね。お一人でここまで、気持ちを抱え込んでこられたのではないかと、私も心配に感じます。",
+      "content": "I see. You've been struggling with this for so long that you're thinking of giving up on fitting in at work. I'm concerned that you may have been holding these feelings in all by yourself."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:23:42",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:24:40",
+      "origin": "ご主人との会話も少ないとお話があり、職場、ご家庭と気持ちを吐き出すところがないように感じます。どなたか、話をきいてくださるような方はいらっしゃるでしょうか。",
+      "content": "You mentioned that you don't talk much with your husband, so it seems like you don't have an outlet to express your feelings at work or at home. Is there anyone you can talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:24:59",
+      "origin": "いません",
+      "content": "No, there isn't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:27:16",
+      "origin": "そうなのですね。話をじっくり聞いてもらえないのは本当に寂しいと感じます。自分の悩みを相談することも勇気が必要だと思います。今日はお話に来てくださって、本当にありがとうございます。",
+      "content": "I see. It must be truly lonely not to have someone who will really listen. I think it takes courage to talk about one's problems. Thank you so much for coming to talk today."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:27:44",
+      "origin": "はたあ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:27:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:30:05",
+      "origin": "ここまでのお話を伺い、新しい職場でなじめないこと、その不安をご家庭などでもご相談できないことで孤独を感じられ、それが続いていくという思いから、毎日への虚しさを感じられているように受け止めました。どうでしょうか。",
+      "content": "From what you've told me so far, it seems that you feel lonely because you can't fit in at your new workplace and can't talk about that anxiety at home, and the thought that this will continue makes you feel a sense of emptiness every day. Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:31:19",
+      "origin": "はい。そうだと思います。",
+      "content": "Yes, I think that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:32:29",
+      "origin": "おつらい状況でしたね。このような生活が続かれている中で、少し気持ちが楽になるような時、心がホッとするような時はあるでしょうか。",
+      "content": "That sounds like a very difficult situation. As you've been living like this, are there any times when you feel a little more at ease, or when your heart feels relieved?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:33:43",
+      "origin": "家に着いた時ですかね。唯一安全な場所に戻った気がします",
+      "content": "I guess when I get home. It feels like I’ve returned to the only safe place."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:36:03",
+      "origin": "ええ。ご家庭が一番安心されるのですね。それだけ、職場では仕事と人間関係に気を使って頑張っていらっしゃるのではないかと感じます。",
+      "content": "I see. So home is where you feel most at ease. It sounds like you're trying very hard at work, being careful with both your tasks and your relationships."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:37:16",
+      "origin": "そして、安全と思われる場所があり、少し安心しました。",
+      "content": "And I'm a little relieved to hear that you have a place where you feel safe."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:37:55",
+      "origin": "家は安心します",
+      "content": "I feel safe at home."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:39:06",
+      "origin": "初めは頑張ってみましたが、私にはやはり無理なのだと思います。",
+      "content": "I tried my best at first, but I think it's just impossible for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:40:28",
+      "origin": "ええ。しっかり頑張ってこられたのですよね。そのような中で、どのようなことから、無理だと感じられたのでしょうか。",
+      "content": "I understand. You really have been trying hard. What was it that led you to feel that it's impossible?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:41:45",
+      "origin": "昔から頑張ってみても駄目なんです。友達も、仕事や勉強も、妊娠も。沢山諦めてきました。",
+      "content": "It's always been this way; even when I try, it doesn't work out. Friends, work, studies, even getting pregnant. I've given up on so many things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:43:31",
+      "origin": "そうですか。そのような経験が続くと諦めたい気持ちになってしまうのは、当然だと感じますよ。",
+      "content": "I see. When experiences like that continue, it’s only natural to feel like giving up."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:43:54",
+      "origin": "社会の役にも立てません。",
+      "content": "I can't even contribute to society."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:46:04",
+      "origin": "そのように感じられるのですね。つらくなってしまいますね。ちなみに、以前の職場やこれまでのお友達関係等、楽しかった思い出やよかったと思われることはなかったでしょうか。",
+      "content": "You feel that way. That must be painful. By the way, were there any happy memories or good things you can recall from your previous job or past friendships?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:47:23",
+      "origin": "夫とは前の職場で出会い結婚しました。",
+      "content": "I met my husband at my previous workplace and we got married."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:47:47",
+      "origin": "けれど、今はほとんど話しません",
+      "content": "But now we hardly talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:48:45",
+      "origin": "そうだったのですね。ご主人はもともと寡黙な方なのでしょうか。",
+      "content": "I see. Is your husband a quiet person by nature?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:48:50",
+      "origin": "他はそれなりに友達交流などはありましたが、今は連絡も取っていません。みんな、それぞれ忙しいでしょうし。。",
+      "content": "I used to socialize with friends, but I don't keep in touch with them anymore. I suppose everyone is busy with their own lives..."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:49:43",
+      "origin": "夫は今は話しませんが、昔は沢山話しました。こんな私のことが嫌になったのだと思います",
+      "content": "My husband doesn't talk much now, but we used to talk a lot. I think he's grown tired of me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:50:18",
+      "origin": "ええ。そうだったのですね。状況をしっかり教えてくださってありがとうございます。",
+      "content": "I see. Thank you for explaining the situation so clearly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:51:12",
+      "origin": "わたしは、ここまでお話を伺って、相談者様がこれまでうまくいっていないことをすべてご自分の責任と思われているように感じました。",
+      "content": "From what I've heard so far, I get the impression that you feel responsible for everything that hasn't gone well."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:52:23",
+      "origin": "はい、そうだと思っています私が悪いんです。",
+      "content": "Yes, I think so. It's my fault."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:52:56",
+      "origin": "そう思っていらっしゃるんですね。わたしは、今、詳しくお話を聴くとお友達との交流が途切れたら、お友達が忙しいかも・・・",
+      "content": "So that's how you see it. As I listen to you now, it seems that when you lost touch with your friends, you thought it might be because they were busy..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:53:36",
+      "origin": "仕事になじめないから、社会の役に立ってない・・・",
+      "content": "...that because you can't fit in at work, you feel you're not contributing to society..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:54:12",
+      "origin": "ご妊娠の件もご自分だけの責任と思われ、ご主人のせいにはされていません。",
+      "content": "And with the pregnancy, you see it as solely your own responsibility, and you don't blame your husband."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:54:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:54:50",
+      "origin": "とても、周りの方のことを思われる優しい方だと感じました。",
+      "content": "I feel that you are a very kind person who is considerate of others."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:56:03",
+      "origin": "全然そんなことないです。私がもっと優しくしっかりしてれば、きっと明るい家庭を築けたはずなのに。。",
+      "content": "Not at all. If only I had been kinder and more dependable, I’m sure we could have built a happy home."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T20:57:26",
+      "origin": "そうではないと思っていらっしゃるのですね。優しくしっかりできなかったと、後悔されることがあったのでしょうか。",
+      "content": "So you don't feel that's the case. Have there been things you've regretted, feeling you weren't kind or dependable enough?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:57:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T20:59:16",
+      "origin": "もっとしっかりと家事もして、料理も上手に、優しく夫を迎えてあげていれば、こんなふうに夫にも寂しい思いをさせずにすみました。",
+      "content": "If I had done the housework more properly, cooked better, and welcomed my husband home more kindly, I wouldn't have made him feel so lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:00:34",
+      "origin": "そうだったのですね。ご主人に寂しい思いをさせてしまったと思われているのですね。",
+      "content": "I see. So you feel that you've made your husband feel lonely."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:00:59",
+      "origin": "申し訳なく思っています",
+      "content": "I feel sorry about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:01:30",
+      "origin": "私には、その言葉はご主人を思っていらしゃる優しい言葉に感じます。",
+      "content": "To me, those words sound like they come from a place of care for your husband."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:01:47",
+      "origin": "その言葉をご主人にお伝えされたことはありますか。",
+      "content": "Have you ever said that to your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:02:34",
+      "origin": "一度、謝ったことはあります。",
+      "content": "I apologized once."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:05:26",
+      "origin": "そうだったのですね。私は、これまでのお話で相談者様だけが責任を感じることはないと感じております。しかし、最後にお聞きしたご主人への言葉は、ご主人のことを考えた正直なお気持ちなのではないかと感じます。謝るのではなく、寂しい思いをさせていたのではないと心配だと伝えてみられても良いのではないかと感じます。",
+      "content": "I see. From our conversation so far, I don't think you alone should feel responsible. However, what you just said about your husband feels like your honest feelings, thinking of him. Instead of apologizing, perhaps you could try telling him you're worried that you might have been making him feel lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:06:40",
+      "origin": "すみません。「寂しい思いをさせていたのではないかと心配」です。打ち間違えてしまいました。",
+      "content": "My apologies. I meant, \"I'm worried that I might have been making you feel lonely.\" I made a typo."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:06:46",
+      "origin": "それは伝えたことはありませんでした。",
+      "content": "I've never told him that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:07:35",
+      "origin": "ご主人も心配をされて、きっと嫌な思いはされないと思いますし、相談者様の不安も少し伝えられるのではないかと感じます。",
+      "content": "I'm sure your husband would be concerned and wouldn't feel bad about it, and it might also be a way for you to convey some of your own anxiety."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:08:22",
+      "origin": "ちゃんと話をしたことはありませんでした。",
+      "content": "We haven't really had a proper talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:08:51",
+      "origin": "それだけ、お相手のことを考えながらお話をされていたのだと思いますよ。",
+      "content": "I think that just shows how much you were considering his feelings as you spoke."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:09:35",
+      "origin": "ご自分のお気持ちを伝えるのは難しいと思いますが、きっと相談者様の気持ちを聴きたい方はいらっしゃると思います。",
+      "content": "It can be difficult to express your own feelings, but I believe there are people who would want to hear what you have to say."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:10:15",
+      "origin": "はい。話すこと。考えてみます",
+      "content": "Okay. I'll think about... talking to him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:11:00",
+      "origin": "話すこともとても勇気が必要ですよね。よろしければ、うまく伝えられないなど不安がでてきたら、またお話をきかせていただけないでしょうか。",
+      "content": "It takes a lot of courage to talk, doesn't it? If you'd like, should you feel anxious about not being able to express yourself well, would you be open to talking with me again?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:12:08",
+      "origin": "相談者様が少しでも心の負担が解放できることを心から願っております。",
+      "content": "I sincerely hope that you can find some relief from your emotional burden."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:12:30",
+      "origin": "はい。ありがとうございます",
+      "content": "Yes. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:12:58",
+      "origin": "上手く話せる自信もないので、また来るかもしれません",
+      "content": "I'm not confident I can talk about it well, so I might come back again."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:14:10",
+      "origin": "はい。簡単にできることではないですもんね。お待ちしています。お話してくださり、本当にありがとうございました。それでは今日の相談を終了させていただきます。",
+      "content": "Yes, it's not something that's easy to do, is it? I'll be here for you. Thank you so much for talking with me. With that, I will conclude today's session."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:14:22",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:15:01",
+      "origin": "（時間が長くなってしまい、申し訳ありません。とても勉強になりました。ありがとうございました）",
+      "content": "(I'm sorry for going over time. This was a very valuable learning experience. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-04T21:15:35",
+      "origin": "（こちらこそありがとうございました。誤字脱字申し訳ありません！）",
+      "content": "(Thank you as well. I apologize for any typos!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-04T21:16:12",
+      "origin": "（こちらこそです。誤字が多くて申し訳ないです。それでは終了させていただきます。）",
+      "content": "(Same here. I'm sorry for the many typos. I'll end the session now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫とのコミュニケーション不足"
+  },
+  "review_by_client": {
+    "evaluation_id": 5569,
+    "evaluation_created_at": "2023-08-04T22:12:00",
+    "client_id": 412,
+    "counselor_id": 398,
+    "score": 83,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

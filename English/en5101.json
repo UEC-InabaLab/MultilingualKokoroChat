@@ -1,0 +1,543 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-22T09:51:07",
+      "origin": "(おはようございます。本日も宜しくお願い致します。お時間になりましたら始めさせていただきます。）",
+      "content": "(Good morning. I look forward to working with you today. We'll begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T09:52:11",
+      "origin": "(おはようございます。はい、時間になりましたら、よろしくお願いいたしますっ。)",
+      "content": "(Good morning. Yes, please begin when you're ready.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:00:08",
+      "origin": "こんにちは。相談員です。本日は相談にお越し頂きありがとうございます。はじめに、年齢と性別、相談内容を教えて頂けますでしょうか。",
+      "content": "Hello. I'm the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:01:17",
+      "origin": "17歳、女、学校に行けないです…",
+      "content": "I'm 17, female, and I can't go to school..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:02:52",
+      "origin": "ありがとうございます。学校にいけないのですね。学校で何かあったのでしょうか？",
+      "content": "Thank you. So you're finding it hard to go to school. Did something happen at school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:03:33",
+      "origin": "昔から集団行動が苦手です",
+      "content": "I've always been bad at group activities."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:05:36",
+      "origin": "苦手なことをするときは嫌な気分になりますね。",
+      "content": "It feels unpleasant when you have to do something you're not comfortable with, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:06:00",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:07:02",
+      "origin": "そんなときは、どのような事を考えたりしていますか？",
+      "content": "At those times, what kinds of thoughts go through your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:07:55",
+      "origin": "早くこの場からいなくなりたいって思ってます",
+      "content": "I just want to get out of there as soon as possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:09:11",
+      "origin": "そうですね。そう考えますね。",
+      "content": "I see. That's understandable."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:09:56",
+      "origin": "集団行動にも色々あると思いますが、苦手な行動はどんなことでしょうか？",
+      "content": "There are many different kinds of group activities, I imagine. What specific activities do you find difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:11:29",
+      "origin": "みんなと一緒にいること事態が苦痛ですね",
+      "content": "Just being with everyone is distressing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:13:11",
+      "origin": "そうなのですね。集団でいることに苦痛を感じていらっしゃるのですね。過去に何か、嫌になるようなことがおありですか？",
+      "content": "I see. So you find being in a group distressing. Has anything happened in the past that made you feel this way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:16:19",
+      "origin": "単純に、ぼっちでした",
+      "content": "Simply put, I was a loner."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:17:19",
+      "origin": "そうでしたか。ご兄弟はいらっしゃいますか。",
+      "content": "I see. Do you have any siblings?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:17:46",
+      "origin": "いえ、一人です",
+      "content": "No, I'm an only child."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:19:24",
+      "origin": "では、仲のいいお友達もいらっしゃらないのでしょうか？",
+      "content": "So, does that mean you don't have any close friends either?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:19:49",
+      "origin": "いないですね",
+      "content": "No, I don't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:20:39",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:21:20",
+      "origin": "相談者さんの中で、これから、どうして行こうか考えがおありでしょうか？",
+      "content": "Have you thought about what you want to do moving forward?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:22:22",
+      "origin": "学校に行かないと卒業すらできないので、行かなきゃいけないのかなとは思います。",
+      "content": "If I don't go to school, I can't even graduate, so I suppose I have to go."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:23:09",
+      "origin": "そうですね。卒業はしておいた方がいいですね。あと、1年くらいでしょうか？",
+      "content": "Right. It would be good to graduate. Do you have about one more year left?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:23:21",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:24:04",
+      "origin": "それまでを乗り切る方法を一緒に考えてみますか？",
+      "content": "Shall we think together about ways to get through until then?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:25:17",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:25:26",
+      "origin": "とは言っても社会に出ても人とのかかわりは、なくなりませんね。",
+      "content": "That said, even when you enter the workforce, interactions with people won't disappear."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:25:40",
+      "origin": "最悪ですね",
+      "content": "That's the worst."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:26:08",
+      "origin": "そうですね。先のことも考えながら、やっていきましょうか？",
+      "content": "It is, isn't it? Shall we work on this while also thinking about the future?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:26:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:27:11",
+      "origin": "今、辛さを耐えるためにご自身でやられていることは、ございますか？",
+      "content": "Is there anything you're currently doing on your own to cope with the difficulties?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:28:28",
+      "origin": "行く日は、できるだけイヤホンつけてます",
+      "content": "On days I do go, I wear earphones as much as possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:29:01",
+      "origin": "うんうん。いいですね。好きな音楽も聴いたりされてますか？",
+      "content": "Mm-hmm. That's a good idea. Do you listen to music you like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:29:49",
+      "origin": "聞いてたりもしますが、耳栓かわりというか",
+      "content": "Sometimes I do, but it's more like using them as earplugs."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:30:19",
+      "origin": "雑音を気にしないようにしているような感じですか？",
+      "content": "So it's like you're trying to block out the noise?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:31:21",
+      "origin": "はい。大きな音とか、人の声が嫌いなんで。少し緩和されます",
+      "content": "Yes. I don't like loud sounds or people's voices. It helps a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:32:13",
+      "origin": "そうですね。乗り物に乗っているときには好きな音楽を聴いてリラックスすのは如何ですか？",
+      "content": "I see. When you're on public transport, how about listening to music you like to help you relax?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:32:51",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:34:20",
+      "origin": "音楽には、リラックス効果もあるのでいいと思います。歩いているときだと危険もあるので、乗り物の中だけの方がいいかも知れません。",
+      "content": "Music has a relaxing effect, so I think it's a good idea. It can be dangerous while walking, so it might be better to do it only on public transportation."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:34:58",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:35:20",
+      "origin": "通学は電車やバスを利用されていますか？",
+      "content": "Do you use a train or bus to get to school?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:36:37",
+      "origin": "今さらで申し訳ありません。",
+      "content": "I'm sorry for asking this so late."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:36:47",
+      "origin": "はい、つかいます",
+      "content": "Yes, I do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:37:11",
+      "origin": "その時間帯は、かなり混んでいますね。",
+      "content": "It must be quite crowded at that time."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:37:42",
+      "origin": "人混みは嫌いなので、遅刻していきます",
+      "content": "I hate crowds, so I go in late."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:38:11",
+      "origin": "そうでしたか。それもいいですね。",
+      "content": "I see. That's a good approach, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:39:31",
+      "origin": "遅刻して学校に着いたときはどんな気持ちですか？",
+      "content": "When you arrive at school late, how do you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:40:09",
+      "origin": "また見られるなーって。遅刻は目立つから。",
+      "content": "Like I'm being stared at again. Being late stands out."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:40:26",
+      "origin": "そうですね。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:41:12",
+      "origin": "遅刻ってなぜか、目立っちゃうんですよね。気まずくなりますね。",
+      "content": "For some reason, being late really makes you stand out, doesn't it? It feels awkward."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:41:38",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:42:17",
+      "origin": "私から一つ、考え方の提案をさせて頂いて宜しいでしょうか？",
+      "content": "May I suggest one way of thinking about this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:42:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:43:08",
+      "origin": "相談者さんは、スターなんです。自分はスターなのだと思い込んでみてください。",
+      "content": "You are a star. Try to convince yourself that you are one."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:44:04",
+      "origin": "学校にろくに行けてないクズですよ",
+      "content": "I'm a loser who can't even go to school properly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:44:36",
+      "origin": "いいんです。人には皆、苦手なことはあるんです。",
+      "content": "That's okay. Everyone has things they're not good at."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:45:48",
+      "origin": "遅刻して見られているときは、スターの自分が注目されていると思う。どうでしょうか？",
+      "content": "When you're late and people are looking at you, think of it as your star self being in the spotlight. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:45:49",
+      "origin": "そうかな",
+      "content": "I wonder..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:46:13",
+      "origin": "うーん、、どうなんだろ",
+      "content": "Hmm... I'm not sure."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:46:24",
+      "origin": "やってみます",
+      "content": "I'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:46:30",
+      "origin": "苦手は誰でもありますよ。それを隠して生きている人の方が多いと思います。",
+      "content": "Everyone has weaknesses. I think most people just live their lives hiding them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:46:45",
+      "origin": "はい。前後してごめんなさい。",
+      "content": "Yes. Sorry for jumping around."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:47:16",
+      "origin": "そうかもしれないです",
+      "content": "That might be true."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:47:25",
+      "origin": "いえ",
+      "content": "No, it's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:47:46",
+      "origin": "そして、周りにいる大勢の人は、相談者さんのファンなんだと思ってみてください。",
+      "content": "And try to think of the crowd of people around you as your fans."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:48:39",
+      "origin": "それは現実逃避じゃないんですか？",
+      "content": "Isn't that just escapism?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:50:10",
+      "origin": "現実逃避は嫌でしょうか？",
+      "content": "Do you dislike the idea of escapism?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:50:55",
+      "origin": "私は、人混みが苦手で現実逃避しながら通勤してます。",
+      "content": "I'm not good with crowds myself, so I use a bit of escapism to get through my commute."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:51:38",
+      "origin": "なんか、慣れないです",
+      "content": "It just feels... unfamiliar."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:51:43",
+      "origin": "そうなんですね",
+      "content": "Oh, is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:52:12",
+      "origin": "これは、先輩からの受け売りなのですが、",
+      "content": "This is something I learned from a senior colleague, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:52:54",
+      "origin": "一時期、電車に乗るのが嫌で嫌で、会社に遅刻して行ってました。",
+      "content": "For a while, I hated riding the train so much that I would go to work late."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:54:32",
+      "origin": "相談者さんも最初はなれないかも知れませんが、現実逃避も少しは悪くないと思いますがいかがでしょうか？",
+      "content": "You might not be used to it at first, but I think a little escapism isn't so bad. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:55:05",
+      "origin": "はい、やってみます",
+      "content": "Okay, I'll try it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:57:15",
+      "origin": "一人でいるのは悪いことではないですし、でも集団社会生活からも逃げられないので、少しでも気分が楽になれることを見つけることが良いと思います。",
+      "content": "There's nothing wrong with being alone, but we can't escape living in a society with groups of people, so I think it's good to find things that can ease your mind, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:58:02",
+      "origin": "そうですね",
+      "content": "You're right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T10:58:09",
+      "origin": "まもなく、１時間になりますが、本日は、お役に立てましたでしょうか？",
+      "content": "Our hour is almost up. Was I able to help you today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T10:58:27",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T11:00:27",
+      "origin": "ありがとうございます。何かありましたら、気軽に相談にお越しください。次回は他の相談員が対応させていただくことになると思いますが、必要に応じて今回の内容を参照させて頂きますのでご安心ください。",
+      "content": "Thank you. If anything comes up, please feel free to come in for a consultation. Another counselor will likely be assisting you next time, but please rest assured they will be able to refer to the contents of our session today if needed."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T11:00:59",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T11:01:02",
+      "origin": "本日は、相談にお越し頂きありがとうございました。",
+      "content": "Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T11:01:02",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-22T11:01:57",
+      "origin": "（お疲れ様でした。本日も多くの気づきを頂きありがとうございました。ロールプレイを終了させて頂きます。）",
+      "content": "(Good work today. Thank you again for the many insights. This concludes the role-play.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-22T11:02:16",
+      "origin": "(ありがとうございました！)",
+      "content": "(Thank you so much!)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "集団行動に対する苦手意識"
+  },
+  "review_by_client": {
+    "evaluation_id": 5101,
+    "evaluation_created_at": "2023-05-22T11:22:00",
+    "client_id": 391,
+    "counselor_id": 105,
+    "score": 73,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

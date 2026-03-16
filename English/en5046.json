@@ -1,0 +1,663 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:00:07",
+      "origin": "こんにちは、相談員です。はじめに性別、年齢、ご相談内容を教えてください。",
+      "content": "Hello, I'm the counselor. To begin, could you please tell me your gender, age, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:00:35",
+      "origin": "60代　女性7年前に母を亡くしました。その時私は海外に住んでいたので死に目には会えませんでした。大好きだった母なのに、悲しさもあまり感じず、涙も出ず、それが7年間続いています。私は人間的にどこか欠陥があるのでは？とそれ以来ずーっと自分に不信感を持っています。",
+      "content": "I'm a woman in my 60s. I lost my mother seven years ago. At that time, I was living abroad, so I couldn't be there for her last moments. Even though I loved my mother dearly, I haven't felt much sadness or shed any tears, and it's been that way for seven years. Ever since, I've constantly doubted myself, wondering if there's something fundamentally wrong with me as a person."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:01:38",
+      "origin": "そのようなことがあったのですね。お話してくださってありがとうございます。",
+      "content": "I see—so that's what you've been through. Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:01:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:02:40",
+      "origin": "海外に住まわれていたとのことですが、その頃はお母さまとはどのように連絡を取ったりされていたのでしょうか？",
+      "content": "You mentioned you were living overseas. How did you stay in touch with your mother during that time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:03:23",
+      "origin": "母は父が介護しており、私は時々日本に帰って実際に会っていました",
+      "content": "My father was caregiving for my mother, and I would return to Japan from time to time to see her in person."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:03:56",
+      "origin": "lineビデオ電話も確か使っていました",
+      "content": "I believe we also used LINE video calls."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:04:48",
+      "origin": "そうだったのですね。直接お会いしに行くほど、お母さまを大切に思われていたのですね。ビデオ通話があり、離れていても直接顔が見られるのは安心しますね。",
+      "content": "I see. The fact that you would travel to see her in person shows how much you cared for your mother. It must have been reassuring to be able to see each other's faces on video calls, even when you were far apart."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:04:58",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:05:38",
+      "origin": "相談者様は海外でどのように過ごされていたのでしょうか？",
+      "content": "How were you spending your time abroad?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:06:08",
+      "origin": "主人の仕事で息子を連れての赴任でした。",
+      "content": "It was for my husband's job; we moved there with our son."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:06:31",
+      "origin": "私は息子(当時中1)の面倒を見るので精一杯でした",
+      "content": "I had my hands full taking care of my son, who was in his first year of junior high at the time."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:07:07",
+      "origin": "母が亡くなったのは、赴任して1年経った時です",
+      "content": "My mother passed away a year after we moved there."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:07:45",
+      "origin": "なので、赴任直後から行ったり来たり、それも子供を置いて、でしたので、大変でした",
+      "content": "So, right after moving, I was traveling back and forth. I had to leave my son behind, so it was very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:09:00",
+      "origin": "そうだったのですね、お子様のことで落ち着かない中、海外と日本の行き来でとても忙しかっただろうな、と感じました。",
+      "content": "I see. It must have been incredibly busy for you, traveling between Japan and overseas while feeling unsettled about your child."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:09:11",
+      "origin": "今尋ねられて思い起こしてみると、本当に大変な一年でした。",
+      "content": "Now that you ask, looking back, it really was a tough year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:09:55",
+      "origin": "ええ、経験したことはないですが、国内でも離れていれば大変なので、海外ではさらにかな、と思いました。",
+      "content": "Yes, I can imagine. I haven't experienced it myself, but it's hard enough being far apart within the same country, so I imagine it's even more so when you're overseas."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:10:26",
+      "origin": "特に相談者様が大変だと感じられたのは、どういったところでしたか？",
+      "content": "What aspects did you find particularly difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:10:37",
+      "origin": "はい。直行便もないところなので、遠かったです",
+      "content": "Yes. There were no direct flights, so it was a long journey."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:11:18",
+      "origin": "息子が現地校に慣れない中、息子の面倒もちゃんと見られず、日本で母と父のお世話をしなくてはならなかったことです",
+      "content": "While my son was struggling to adjust to the local school, I couldn't take proper care of him because I also had to care for my mother and father in Japan."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:11:59",
+      "origin": "父は家事が何もできないので、父が母の介護をするのは至難の技でした",
+      "content": "My father couldn't do any housework, so it was extremely difficult for him to care for my mother."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:12:43",
+      "origin": "なので、帰るとヘルパーさんの手配や汚れ切った家のディープクレンジングなどやることが沢山ありました",
+      "content": "So, when I returned, I had a lot to do, like arranging for home helpers and deep cleaning the filthy house."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:13:31",
+      "origin": "なるほど、そういった背景があったのですね。相談者様の大切な方だからこそ、気になりますし心配になってしまいますね。",
+      "content": "I see—so that was the situation. It's only natural that you were concerned and worried, precisely because they are so important to you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:13:44",
+      "origin": "私自身更年期障害もあり、体調が優れず、よく眠れませんでした",
+      "content": "I was also dealing with menopausal symptoms, so I wasn't feeling well and often couldn't sleep well."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:14:49",
+      "origin": "両親のことも息子のことも大事なので、心配でした",
+      "content": "My parents and my son are both important to me, so I was worried."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:14:57",
+      "origin": "そうだったのですね・・ご自身がそのような体調の中、大切な人たちのことまで気をまわして向き合ってこられていたのですね。",
+      "content": "I see... So even while dealing with your own health issues, you were still attending to and caring for your loved ones."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:15:23",
+      "origin": "今思うとよくやっていたなと思います",
+      "content": "Looking back now, I think I did quite well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:15:57",
+      "origin": "そうですよね、とても簡単な事ではないと私も思います。",
+      "content": "I agree. I think it was far from easy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:16:09",
+      "origin": "今は体調の方はいかがですか？",
+      "content": "How is your health now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:17:09",
+      "origin": "もうすっかり良くなりました。父はその後1人暮らしが難しくなり一昨年ホームに入れましたので",
+      "content": "I'm completely better now. After that, it became difficult for my father to live alone, so we placed him in a care home the year before last."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:17:28",
+      "origin": "心配事が減ったのです",
+      "content": "So, I have fewer things to worry about."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:18:36",
+      "origin": "そうだったのですね。相談者様はとても家族思いな方なのだと思いましたので、体調がよくなったと聞いて安心しました。",
+      "content": "I see. You strike me as someone very devoted to your family, so I'm relieved to hear your health has improved."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:18:59",
+      "origin": "当時はしんぱいごとのオンパレードだったのですね",
+      "content": "Back then, it was just a constant parade of worries."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:19:55",
+      "origin": "ちょうど重なってしまったのかもしれませんね。それを乗り越えることができた相談者様は、忍耐強く、愛情深い方なのかな、と思いましたが、いかがですか？",
+      "content": "Perhaps it all just piled up at once. Being able to get through that makes me think you are a patient and loving person. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:20:25",
+      "origin": "でも、悲しみをいまだに感じられないのはおかしいのではないのかなと感じています",
+      "content": "But I feel it's strange that I still can't feel sadness."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:21:09",
+      "origin": "一緒に暮らしていた祖母が30年前に亡くなった時は号泣して、しばらくうつ状態に陥ってしまいました",
+      "content": "When my grandmother, who lived with us, passed away 30 years ago, I sobbed uncontrollably and fell into a depressive state for a while."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:21:54",
+      "origin": "母を亡くした時は号泣できなかったんです",
+      "content": "But when my mother died, I couldn't sob like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:22:21",
+      "origin": "なるほど。そういったことがあったのですね。そのおばあ様の時と比較すると、悲しみが少ないように感じられる、というところでしょうか？",
+      "content": "I see. So, is it that you feel your grief is less this time, compared to when your grandmother passed away?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:22:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:23:31",
+      "origin": "おばあさまが亡くなったのは、突然でしょうか？",
+      "content": "Was your grandmother's passing sudden?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:24:29",
+      "origin": "いえ、肺炎をこじらせ、入院中に亡くなりました。私はもしかしたら冷血人間なのではないでしょうか？",
+      "content": "No, she developed complications from pneumonia and passed away in the hospital. Could it be that I'm a cold-hearted person?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:27:35",
+      "origin": "入院中の出来事だったのですね・・30年前のおばあ様の時と、お母さまが亡くなられたときでは、相談者様の状況がちがったのかな？と思いましたが、いかがでしょうか？",
+      "content": "So it happened while she was hospitalized... It seems to me that your circumstances were different 30 years ago when your grandmother passed away compared to when your mother did. Would you agree?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:29:10",
+      "origin": "祖母は明治の人で気骨のある優しい人でした。母は物凄く気が強く、でも愛情も深い人でした",
+      "content": "My grandmother was from the Meiji era—a woman of strong character and kindness. My mother was extremely strong-willed but also deeply loving."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:30:15",
+      "origin": "どちらもとても尊敬できる方だったのですね。そんな方に出会えて育てられた相談者様は、とても幸せですね。",
+      "content": "They were both very admirable people. You were fortunate to have been raised by them."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:30:22",
+      "origin": "祖母にとっては私は孫、母にとっては私は娘なので、当然両者との関係は異なりますね",
+      "content": "To my grandmother, I was a granddaughter, and to my mother, I was a daughter, so of course my relationships with them were different."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:31:06",
+      "origin": "母は気が強すぎて、エネルギーもあり、私は母とよく衝突していました。",
+      "content": "My mother was too strong-willed and energetic, and we often clashed."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:32:05",
+      "origin": "なるほど、親と子、祖母と孫では、愛情の掛け方がまた違ったりしますものね。",
+      "content": "I see. The way love is expressed between a parent and child versus a grandparent and grandchild can be quite different."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:32:18",
+      "origin": "そんな母が脳梗塞で倒れ、介護なしでは生活できなくなったので、母は自分1人では何もできなくなりストレスを感じていたのだと思います",
+      "content": "My mother had a stroke and could no longer live without care. I think she felt stressed about not being able to do anything by herself anymore."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:33:19",
+      "origin": "気の強い人が介護を受ける場合、本人のプライドが許さないのでしょう",
+      "content": "When a strong-willed person needs to receive care, their pride probably doesn't allow for it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:33:38",
+      "origin": "そうだったのですね。お母さまが介護が必要になった時も、相談者様と衝突することもあったのでしょうか？",
+      "content": "I see. When your mother needed care, did you still clash with her?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:34:30",
+      "origin": "大好きな母ではありましたが、倒れて以来、少し鬱っぽくなっていました",
+      "content": "I loved my mother dearly, but after her stroke, she became a bit depressed."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:34:40",
+      "origin": "衝突はしませんでした",
+      "content": "We didn't clash."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:35:03",
+      "origin": "でも前の快活な母とは違っていました",
+      "content": "But she wasn't the same cheerful mother she used to be."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:35:42",
+      "origin": "もっと可愛く甘えてくれたらよかったのに、と今は思います",
+      "content": "Now, I wish she could have been more endearing and relied on me more."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:35:56",
+      "origin": "そうだったのですね・・相談者様からみて、お母さまが精神的に今までと違うところが見受けられたのですね。",
+      "content": "I see... So from your perspective, you noticed changes in your mother's mental state compared to before."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:36:02",
+      "origin": "ひ",
+      "content": "Uhm..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:36:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:36:30",
+      "origin": "でもそれを受け止めてあげられなかった私はやはり優しくないと思います",
+      "content": "But I feel that because I couldn't accept that, I'm really not a kind person."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:37:06",
+      "origin": "そのようになっていれば受け止められていた、という状態だったのでしょうか？",
+      "content": "If she had been that way, would you have been able to accept it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:37:21",
+      "origin": "失礼しました、冒頭「どのように」です",
+      "content": "My apologies, I meant to start with 'In what way'."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:37:21",
+      "origin": "恐らく",
+      "content": "Probably."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:39:08",
+      "origin": "老いては子に従えではないですが、自分の弱い部分も認め、助けを素直に求めて欲しかったです",
+      "content": "It's not exactly 'as you age, obey your children,' but I wanted her to acknowledge her own vulnerabilities and honestly ask for help."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:40:45",
+      "origin": "なるほど、相談者様はそのように感じられているのですね。大切に思うからこそ力になりたいから、頼っていいよ、という気持ちが大きかったのですね。",
+      "content": "I see, so that's how you feel. Because you care for her so deeply, you had a strong desire to help and for her to feel she could rely on you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:42:06",
+      "origin": "はい。それから、母は糖尿病を患っていたのに、甘いものを好きなだけとっていました。自分でもっとコントロールして欲しかったです",
+      "content": "Yes. Also, although my mother had diabetes, she ate as many sweets as she liked. I wanted her to exercise more self-control."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:42:54",
+      "origin": "周りがどんなにアドバイスしても聞き入れませんでした",
+      "content": "No matter how much those around her advised her, she wouldn't listen."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:43:53",
+      "origin": "それは心配になってしまいますね・・また、聞き入れてもらえないと、無力感から周りは諦める気持ちにもなってしまいますものね。",
+      "content": "That must have been very worrying. And when advice isn't heeded, it can lead to a sense of helplessness and resignation for those around."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:43:58",
+      "origin": "それで倒れてしまったと私は考えています。倒れたのは母のせい、と思っているから、私は悲しくないのでしょうか？",
+      "content": "I think that's why she had the stroke. Is it because I blame her for it that I don't feel sad?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:46:05",
+      "origin": "もっと自分で自分の身体をコントロールできていたら、母自身も楽しい生活が送れ、周りにも迷惑がかからなかったのではないか？と。",
+      "content": "I feel that if she had controlled her body better, she could have had a more enjoyable life and not been a burden to those around her."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:46:32",
+      "origin": "母が迷惑をかけたときっと私は思っているんですね。",
+      "content": "I must think that my mother was a burden."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:47:00",
+      "origin": "それが私が悲しみを感じない理由なのでしょうか？",
+      "content": "Is that why I don't feel sadness?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:47:08",
+      "origin": "なるほど。相談者様としては、当時のお母さまに、どうなってほしいと今なら思いますか？",
+      "content": "I see. Looking back now, what would you have wished for your mother at that time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:47:59",
+      "origin": "病気のことをもっと勉強して、食事や運動に気をつけて欲しかったです",
+      "content": "I wanted her to learn more about her illness and be careful with her diet and exercise."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:48:51",
+      "origin": "運動もほとんどしませんでした。いつも車を運転していました。運転が大好きだったんです。",
+      "content": "She hardly exercised at all. She was always driving; she loved driving."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:49:37",
+      "origin": "そうだったのですね、運転が好きで、運動は少ないけれど活動的なお母さまだったのですね。",
+      "content": "I see—so she was an active mother who loved to drive, even if she didn't exercise much."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:50:12",
+      "origin": "車でどこにでも出かけ、大変活動的でした",
+      "content": "She would drive everywhere and was very active."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:51:32",
+      "origin": "そんなお母さまだと、自分の思い通りに自分が動かないことが、歯がゆかったのかもしれませんね。",
+      "content": "For a mother like that, it must have been frustrating for her when her body wouldn't move the way she wanted."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:51:34",
+      "origin": "私にとって大切な母が、自分自身のことを大切にしていないことに対し、私は腹を立てていたのだと思います",
+      "content": "I think I was angry that my mother, who was so important to me, wasn't taking good care of herself."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:51:53",
+      "origin": "母は大変歯痒がっていました。",
+      "content": "My mother was very frustrated."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:52:45",
+      "origin": "ええ、相談者様は愛情深い方だと私は思いましたので、腹も立つと思います。",
+      "content": "Yes, I see you as a deeply caring person, so it's understandable that you would feel angry."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:52:53",
+      "origin": "自分の身体の一部であった車の運転もできなくなってしまった、と嘆き悲しんでいました",
+      "content": "She lamented and grieved that she could no longer drive, which had felt like a part of her body."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:53:37",
+      "origin": "そうだったのですね。また、相談者様がお母さまに話を聞き入れてもらえなかったことに対し、腹が立つ以外にはどのような感情がありましたか？",
+      "content": "I see. Besides anger, what other emotions did you feel when your mother wouldn't listen to your advice?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:54:51",
+      "origin": "自由な生活送れなくなった母をしっかりと受け止められてあげなかった、という罪悪感です",
+      "content": "A sense of guilt for not being able to fully accept and support my mother, who could no longer live her life freely."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:55:40",
+      "origin": "母の側に立って考えることができませんでした",
+      "content": "I couldn't put myself in her shoes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:56:01",
+      "origin": "そうでしたか・・罪悪感を感じていらっしゃるのですね。ここまでお話を聞いて、最後に私からもお伝えしてよろしいでしょうか？",
+      "content": "I see... so you're feeling a sense of guilt. Now that I've heard your story, may I share something with you before we finish?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:56:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:56:45",
+      "origin": "ここまでお話を聞いて、相談者様は冷血な人間でも冷たい方なわけでもないのではないかと思いました。",
+      "content": "After listening to your story, I don't think you are a cold-hearted or unfeeling person at all."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:57:01",
+      "origin": "そうでしょうか",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:57:15",
+      "origin": "理由は、自分のことよりも家族のことで行動することが多かったこと、",
+      "content": "The reasons are that you often acted for your family's sake rather than your own,"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:57:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T16:58:24",
+      "origin": "とても大変な状況でも、家族のことでなら乗り越えられていたこと、また、お母さまに対し、これだけ声をかけて考えを改めてほしいと向き合ったにもかかわらず、なくなってしまった今も罪悪感を感じられているところからそう思いました。",
+      "content": "that you were able to overcome very difficult situations for your family's sake, and that even now that she's gone, you still feel guilt despite having tried so hard to talk to your mother and get her to change her ways. That's why I think so."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:59:01",
+      "origin": "有難うございます。確かに自分のことはさておき、いつも家族のこと優先でした",
+      "content": "Thank you. It's true, I always put my family first, setting aside my own needs."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T16:59:24",
+      "origin": "どうも有難うございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T17:00:05",
+      "origin": "自分のしてきたことを認めてもらえて、そんなに自分は冷血ではないのかもと思えるようになりました",
+      "content": "Having what I've done acknowledged has made me feel that maybe I'm not so cold-hearted after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T17:00:29",
+      "origin": "一方で、相談者様もやれることはすべてやったのかな？とも感じました。大変な状況の中、ご自身の感情に向き合う時間がなかったのではないかな、とも思いました。",
+      "content": "On the other hand, I also feel that you did everything you could. I suspect that in such a difficult situation, you simply didn't have time to face your own emotions."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T17:00:50",
+      "origin": "その時はとてもそのような余裕はありませんでした",
+      "content": "I really didn't have the luxury for that at the time."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T17:01:16",
+      "origin": "やれることは全てやりました",
+      "content": "I did everything I could."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T17:02:01",
+      "origin": "そうですよね。本日は時間になってしまいましたが、もしまたご相談に来ていただけるようでしたら、もう少しお母さまがどんな人だったのか、相談者様がどんな環境で今まで介護に子育てに取り組まれてきたのか、ぜひゆっくりお話し聞かせていただけると嬉しいです。",
+      "content": "I understand. We're out of time for today, but if you'd like to talk again, I would be happy to take the time to listen more about what kind of person your mother was, and the environment in which you've been juggling caregiving and child-rearing."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T17:02:11",
+      "origin": "どうも有難うございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T17:03:22",
+      "origin": "（時間を過ぎてしまい、申し訳ありません。最後にもう一文だけ送って終了とさせていただきますね。とても勉強になりました。まとまりませんでしたが、また機会がありましたら宜しくお願い致します。）",
+      "content": "(I'm sorry we've gone over time. I'll send just one more sentence to wrap things up. This has been a great learning experience. My thoughts weren't very organized, but I look forward to another opportunity. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T17:03:30",
+      "origin": "そのように言っていただけて、またお話ししたいと思いました",
+      "content": "Hearing you say that makes me want to talk with you again."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T17:03:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T17:05:05",
+      "origin": "そうすると相談者様の隠れた感情が見えてくるかもしれません。ぜひ一緒に見つけさせてくださいね。本日の内容は記録しておきますので、次回も続きから話すことができますので、ご安心ください。本日はありがとうございました。",
+      "content": "Doing so might allow us to uncover some of your hidden emotions. Please let me help you find them. I will keep a record of today's session, so we can pick up where we left off next time, so please rest assured. Thank you for your time today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-14T17:05:18",
+      "origin": "（ありがとうございました）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-14T17:05:21",
+      "origin": "こちらこそ有難うございました",
+      "content": "No, thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "悲しみを感じられないことへの自責感"
+  },
+  "review_by_client": {
+    "evaluation_id": 5046,
+    "evaluation_created_at": "2023-05-14T18:05:00",
+    "client_id": 397,
+    "counselor_id": 358,
+    "score": 90,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

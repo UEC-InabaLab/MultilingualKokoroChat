@@ -1,0 +1,651 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:01:17",
+      "origin": "こんにちは。相談員です。本日は相談にお越しいただきありがとうございます。年齢と性別、相談内容をお教えいただけますか？",
+      "content": "Hello. I'm a counselor. Thank you for coming in for a consultation today. Could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:02:10",
+      "origin": "38才男性仕事を続けるか悩んでいます",
+      "content": "I'm a 38-year-old man, and I'm struggling with whether to continue my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:02:46",
+      "origin": "そうなんですね。どのようなお仕事なんですか？",
+      "content": "I see. What kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:02:58",
+      "origin": "売店の販売員です",
+      "content": "I'm a sales clerk at a kiosk."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:03:25",
+      "origin": "売店というと、駅とかにあるようなものなんでしょうか？",
+      "content": "When you say a kiosk, is it like one you'd find at a train station?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:03:54",
+      "origin": "続けるか悩んでる、とのことですかもう少し詳しく伺ってもいいですか？",
+      "content": "You mentioned you're struggling with whether to continue. Could you tell me a little more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:04:22",
+      "origin": "はいテーマパークなので土日は賑わうんですが平日はすごく暇なんです",
+      "content": "Yes, it's in a theme park, so it's busy on weekends, but very slow on weekdays."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:04:55",
+      "origin": "平日暇なんですね。そのことが嫌、という感じなんでしょうか？",
+      "content": "So it's slow on weekdays. Does that bother you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:05:03",
+      "origin": "小さな、1畳半くらいのスペースの中でずっと一日中立っていなければならなくて",
+      "content": "I have to stand all day long in a small space, about one and a half tatami mats in size."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:05:33",
+      "origin": "ええ",
+      "content": "Mmm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:05:44",
+      "origin": "暇な間も、ゲストは通るので笑顔を絶やさずにいる感じで",
+      "content": "Even during the slow times, guests are passing by, so I have to keep a smile on my face."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:06:25",
+      "origin": "お昼休憩はあるのですがとにかく一日中、1人で店番をするんです",
+      "content": "I do get a lunch break, but other than that, I'm manning the store by myself all day."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:06:58",
+      "origin": "暇な時間に本でも読めたらまだいいんですけどね",
+      "content": "It would be better if I could at least read a book during the downtime."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:07:23",
+      "origin": "笑顔を絶やすことなく、本も読めずで、1日中一人でお店に立っていらっしゃるんですね…",
+      "content": "So you have to stand in the store by yourself all day, constantly smiling, without even being able to read a book..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:07:59",
+      "origin": "ご相談の間、あなたのことはなんとお呼びしたらいいですか？",
+      "content": "During our consultation, how would you like me to address you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:07:59",
+      "origin": "はい職場の人間関係は良好で元々1人でいるのは苦痛ではないんですけど",
+      "content": "The relationships at work are good, and I don't usually mind being alone, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:08:16",
+      "origin": "カブトでお願いします",
+      "content": "Please call me Kabuto."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:08:45",
+      "origin": "カブトさん、ですね。ありがとうございます。お話、続けてください。",
+      "content": "Kabuto-san, got it. Thank you. Please continue."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:09:17",
+      "origin": "はい契約社員なので3ヶ月ごとに契約更新があるんです。",
+      "content": "Yes. I'm a contract employee, so my contract is renewed every three months."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:10:00",
+      "origin": "僕としては募集の時にアルバイトや契約から正社員への道もあると聞いていたのですが",
+      "content": "When I applied, I heard there was a path from a part-time or contract position to full-time employment, but—"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:10:47",
+      "origin": "このところの募集では、正社員へ、という文章がいつの間にか消えていて、",
+      "content": "Lately, that line about 'a path to full-time employment' has disappeared from the job postings."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:11:18",
+      "origin": "そうだったんですね。もともとは正社員になる道も考えていたのに、その文言が募集に乗らなくなってしまったんですね。",
+      "content": "I see. You were originally considering the path to becoming a full-time employee, but that wording has been removed from the job postings."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:11:37",
+      "origin": "（どうぞ続けてくださいね）",
+      "content": "(Please, go on.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:12:21",
+      "origin": "はい。それで不安になって上司に聞いたら、お前のチームリーダーも契約だろ？まずはリーダーに昇格して、それからだと言われてしまって",
+      "content": "Yes. I got worried and asked my boss, who told me, \"Your team leader is also on a contract, right? First, you need to be promoted to leader, and then we'll see.\""
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:13:06",
+      "origin": "チームリーダーは僕より一回りも若い子で辞めるとも思えないし",
+      "content": "The team leader is much younger than me and doesn't seem likely to quit."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:14:08",
+      "origin": "なんだかやりがいが無くなった気がして…",
+      "content": "I feel like I've lost my sense of purpose..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:15:35",
+      "origin": "正社員になる前にリーダーになるのが先だと言われたけどそのリーダーのポジションは空く見通しもない…そんな状況の中にいるんですね…",
+      "content": "You were told you need to become a leader before becoming a full-time employee, but there's no prospect of the leader position opening up... That's the situation you're in..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:16:21",
+      "origin": "カブトさんは正社員になりたい、そのお気持ちがとても強かったんだな…とお話を聞いて感じましたが、理由が何かあるんですか？",
+      "content": "Listening to you, I get the sense that your desire to become a full-time employee was very strong... Is there a particular reason for that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:16:31",
+      "origin": "そもそも、最初の面接で一度落とされたんですよ、僕。でも開園の直前にやっぱり入らないかと声がかかってきて",
+      "content": "To begin with, I was actually rejected after my first interview. But right before the park opened, they called and asked if I would join after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:16:57",
+      "origin": "ええ",
+      "content": "Mmm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:17:51",
+      "origin": "だからこのままいてもやっぱりダメかなと。今までも、契約社員で2年ごととかで終了すると次を探す、の繰り返しで、安定したいです。",
+      "content": "So I'm wondering if things won't work out if I stay. In the past, I've just repeated the cycle of being a contract employee, having my contract end every two years or so, and then looking for the next job. I want stability."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:18:39",
+      "origin": "先方からやっぱり入って、と声をかけていただいての職場だったんですね。だからこそそこでの未来に期待する気持ちもあったんですね。",
+      "content": "So they were the ones who reached out and asked you to join after all. That must be why you had hopes for a future there."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:19:14",
+      "origin": "通勤にも便利な場所だっていうのも大きいです。",
+      "content": "The fact that it's a convenient location for commuting is also a big factor."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:19:52",
+      "origin": "ご自宅から通いやすいんですね。",
+      "content": "So it's easy to commute from your home."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:20:52",
+      "origin": "実家に両親と暮らしているんですが、山を持ってるけど使い道がなくて宝の持ち腐れですよ辺鄙な所なので",
+      "content": "I live with my parents at their home. We own a mountain, but it's in a remote area and we have no use for it—it's a wasted asset."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:22:17",
+      "origin": "そうなんですね。山の使い道がないことも今の気になってることの一つなんですか？",
+      "content": "I see. Is the fact that there's no use for the mountain one of the things on your mind right now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:23:09",
+      "origin": "そうですね…まぁ、まだ今は父の持ち物ですから関係ないっちゃ無いですけど、一応長男なので…",
+      "content": "I suppose so... Well, it's still my father's property, so in a way it's not directly my concern yet, but since I'm the eldest son..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:24:08",
+      "origin": "将来的に…という部分では気になる部分もおありなんですね。お仕事の話に戻りますが、もし、今の仕事で正社員になれるとしたらそれがカブトさんにとっては一番うれしい状況なんでしょうか？",
+      "content": "So it's something that concerns you in terms of the future. Going back to your work, if you were able to become a full-time employee at your current job, would that be the best possible situation for you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:24:57",
+      "origin": "続ければなれるんだったらなりたいとは思います。",
+      "content": "If I could become one by continuing to work there, then yes, I would want to."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:25:03",
+      "origin": "長男っていうお立場についても色々と考えを巡らせたりもされているんですね。ご家族思いですね。",
+      "content": "It seems you're also thinking a lot about your position as the eldest son. You're very thoughtful of your family."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:26:10",
+      "origin": "入社の時点ではリーダーがいて、とか何も分からないのでとにかくやってみようと思ったのですが",
+      "content": "When I joined, I didn't know anything about there being a leader or anything like that, so I just thought I'd give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:26:28",
+      "origin": "ええ",
+      "content": "Mmm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:27:21",
+      "origin": "リーダーの仕事と言っても別に難しいものじゃないと感じているんですけどね。",
+      "content": "I don't feel that the leader's job is particularly difficult, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:27:55",
+      "origin": "リーダーの仕事内容には不安はなく、どちらかというとポジションが空かないかも、というのが気になっていらっしゃるんですね。",
+      "content": "You're not anxious about the leader's duties themselves, but more concerned that the position might not open up."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:29:22",
+      "origin": "はい。その上にもう一つ役職があって、その人たちは正社員になったみたいなんですけど、こう言っちゃなんですがすごく適当にやってるようにしか見えなくて",
+      "content": "Yes. There's another position above that, and those people seem to have become full-time employees, but... I hate to say it, but it just looks to me like they're doing their jobs very carelessly."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:30:24",
+      "origin": "立候補しなかったからこうなっているんですけどね…",
+      "content": "This is how it is because I didn't put myself forward, though..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:30:55",
+      "origin": "リーダーは立候補制だったんですか？",
+      "content": "Was the leader position by self-nomination?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:31:26",
+      "origin": "いや、募集の段階で希望を言わなかったということです",
+      "content": "No, I mean I didn't express my interest at the application stage."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:32:25",
+      "origin": "管理職ですから",
+      "content": "Because it's a management position."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:33:04",
+      "origin": "リーダーは、適性検査の結果とかで会社が勝手に決めたんですけど",
+      "content": "The company just decided on the leader based on things like aptitude test results."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:33:21",
+      "origin": "すみません分かりづらくて",
+      "content": "Sorry, that was confusing."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:34:05",
+      "origin": "いえいえ、ありがとうございます。最初に少し希望を言えばリーダーになれたのかな、と感じたりもしているんですね。とはいえ、リーダーが正社員になる近道だと当時は知らなかったんですもんね。",
+      "content": "No, not at all, thank you for clarifying. So you feel that if you had expressed some interest at the beginning, you might have become a leader. That said, you didn't know at the time that being a leader was a shortcut to becoming a full-time employee, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:34:31",
+      "origin": "そのような中でカブトさんがリーダー希望です、とはなかなか言えなかっただろうなと感じます。",
+      "content": "I can imagine it would have been difficult for you to say \"I want to be a leader\" under those circumstances."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:34:58",
+      "origin": "先ほど上司の方と少し話した、とのことだったんですが、",
+      "content": "You mentioned earlier that you spoke with your boss,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:35:21",
+      "origin": "それはリーダーの一つ上の役職の方、なんですか？",
+      "content": "Was that the person in the position one level above the leader?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:36:05",
+      "origin": "いえ、管理職希望の採用枠があってそちらには応募しなかったということで、リーダー以下は会社が決めたんです。結果的には管理職に手をあげた人から正社員になったと。",
+      "content": "No, there was a separate hiring track for management positions, which I didn't apply for. The company decided who would be a leader and below. It turned out that the people who applied for the management track became full-time employees."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:37:05",
+      "origin": "上司はもっと上の幹部みたいな人です。契約更新の面談があったので聞いてみました。",
+      "content": "My boss is more like a senior executive. I asked during my contract renewal interview."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:37:06",
+      "origin": "採用時に管理職採用枠もあったんですね。ご訂正ありがとうございます。",
+      "content": "I see, so there was a management track at the time of hiring. Thank you for the correction."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:38:03",
+      "origin": "いいえ今話していたら自分の歳とか考えるとそうしていたら良かったのかと思えてきて。",
+      "content": "No problem. As I'm talking about it now, I'm starting to think I should have done that, considering my age and all."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:39:00",
+      "origin": "やっぱり、次を探そうと思います。",
+      "content": "I think I'm going to look for a new job after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:39:28",
+      "origin": "そうなんですね。その上司とのご面談の際、カブトさんは例えばリーダーになりたい、みたいな意向はお伝えになったりしましたか？",
+      "content": "I see. During that interview with your boss, did you express any intention of wanting to become a leader, for example?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:40:19",
+      "origin": "それはしていません。今のリーダーさんもよくやってるし",
+      "content": "I didn't. The current leader is doing a good job."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:41:15",
+      "origin": "例えばカブトさんの今いる売店以外で、リーダーになる、みたいな道はないんでしょうか？",
+      "content": "For example, is there no path to becoming a leader in a different section, outside of your current kiosk?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:42:04",
+      "origin": "それは、どうですかね…異動はあるにはあるんですが。",
+      "content": "I wonder... Transfers do happen, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:42:49",
+      "origin": "カブトさんがご存じのないところで、そういうお話があったとき、上司が意向を知っていたら考えてくださるかもしれないですよ。",
+      "content": "If such an opportunity were to come up without you knowing, your boss might consider you for it if they knew you were interested."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:43:46",
+      "origin": "カブトさんのお話お話を聞いていると、リーダーのお仕事だったり、その上の方の働きぶりだったり…すごくこのお仕事に真剣に向き合っていらっしゃるなと感じます",
+      "content": "Listening to you talk about the leader's job and how your superiors work... I get the sense that you take this job very seriously."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:44:01",
+      "origin": "そうですか？いやー、でももういいかな〜って気持ちになりました。",
+      "content": "You think so? Well, I'm starting to feel like I've had enough."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:45:04",
+      "origin": "契約はあるのであと3ヶ月は続けますが、その先は他で探そうと思います。",
+      "content": "I still have my contract, so I'll continue for another three months, but after that, I think I'll look for something else."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:46:49",
+      "origin": "もちろん、次を探すのも一つの選択ですよね。カブトさんに後悔がないならそれも一つの決断だと思います。",
+      "content": "Of course, looking for a new job is an option. If you have no regrets, then I think that's a valid decision."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:47:39",
+      "origin": "はい。続けても、役職付きのあの人達と対等にやれる自信も無いなって。",
+      "content": "Yes. Even if I stay, I don't have the confidence to work on equal footing with those people in higher positions."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:48:37",
+      "origin": "そうなんですね。ほかの方と対等にやれるか、というと？",
+      "content": "I see. What do you mean by working on equal footing with others?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:49:43",
+      "origin": "その、今回正社員になった人たちはなんていうか、すごく個性がキツくてガンガン怒ってくるし、かと言ってやってる事は適当で",
+      "content": "Well, the people who became full-time employees this time... how should I put it... they have very strong personalities and really lay into people, and yet their work is sloppy."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:50:29",
+      "origin": "下の気持ちは考えないタイプなんです。",
+      "content": "They're the type of people who don't consider the feelings of those under them."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:51:19",
+      "origin": "そうだったんですね。そういう方たちの下で今は働いていらっしゃる…大変なことも多そうですね…",
+      "content": "I see. So you're working under people like that now... It sounds like there must be many challenges."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:51:47",
+      "origin": "リーダーは泣かされてます。だから余計リーダー以下はまとまってると言われればそれまでなんですけど",
+      "content": "They make the leader cry. That's why the team under the leader is so united, I guess you could say."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:52:51",
+      "origin": "いい人が多いのでそれだけが救いですね",
+      "content": "There are a lot of good people, so that's the one saving grace."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:53:15",
+      "origin": "リーダーの方が泣かされる程、なんですね…。その立場に自分も立ちたいか、と考えた、ということなんでしょうか？",
+      "content": "So much so that the leader is made to cry... Is it that you've thought about whether you would want to be in that position yourself?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:53:57",
+      "origin": "同じような立ち位置のメンバーは本当にいい方が多いんですね。繰り返し人は良いっておっしゃってますもんね。",
+      "content": "The members at a similar level are truly good people, aren't they? You've said multiple times that the people are good."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:54:19",
+      "origin": "はい。怒られて泣くなんてバカらしいじゃないですか。",
+      "content": "Yes. Isn't it ridiculous to be yelled at until you cry?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:54:46",
+      "origin": "慰めあってます",
+      "content": "We console each other."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:55:54",
+      "origin": "それをばからしい、と感じたんですね。確かに、リーダーになる、それはきっとつらいことも多いかもしれませんね。",
+      "content": "You felt that it was ridiculous. It's true, becoming a leader might indeed come with many hardships."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:56:13",
+      "origin": "だけども一方でカブトさんがそこを経て社員になればその方達を守ってあげられる存在になれるのかもしれない、とも私はお話を伺って感じました。",
+      "content": "However, on the other hand, listening to you, I also felt that if you were to go through that and become a full-time employee, you could become someone who could protect those people."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:56:45",
+      "origin": "はい…そうですか？",
+      "content": "Yes... Do you think so?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:57:23",
+      "origin": "社員になれれば、ですよね…",
+      "content": "If I could become a full-time employee, that is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:58:03",
+      "origin": "リーダーとして、というところもだと思います。カブトさんと今のリーダーが協力できる未来、も想像できますよ。",
+      "content": "I think that applies to being a leader as well. I can imagine a future where you and the current leader could work together."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T11:58:51",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T11:59:11",
+      "origin": "仲間を大切にされるカブトさんだからできることは、そのような環境だからこそ、いろいろあるかもしれません。",
+      "content": "Because you value your colleagues, there may be many things you could do, precisely because of that environment."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T12:00:05",
+      "origin": "続ける、続けないはカブトさんの決断です。続けた場合に大変なこともあるとは思います。",
+      "content": "Whether to continue or not is your decision. I'm sure there would be challenges if you did decide to stay."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:01:11",
+      "origin": "職場に男は僕だけなんです。他はリーダーも全て女性で、僕自身は違和感はあまりないんですが、本当に協力できているかというと、自分でもよくわかりません。",
+      "content": "I'm the only man at my workplace. Everyone else, including the leader, is female. I don't feel particularly out of place, but when it comes to whether I'm truly cooperating well, I'm not really sure myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T12:02:02",
+      "origin": "そういう気持ちもあるんですね。",
+      "content": "So you have those feelings as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:02:07",
+      "origin": "物を運んだりの力仕事は頼りにされてる気もしますけどね",
+      "content": "I do feel like they rely on me for physical tasks like carrying things, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T12:02:34",
+      "origin": "仲間の役に立てているか…協力できているか…すごくお仲間のことを考えているんですね。",
+      "content": "\"Am I being helpful to my colleagues... Am I cooperating well...\" You think a lot about your colleagues, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:02:45",
+      "origin": "元々、当たり障りのない性格なので",
+      "content": "I've always had an inoffensive personality."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:04:27",
+      "origin": "協調性はある方かもしれないです^_^",
+      "content": "I might be fairly cooperative. ^_^"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T12:04:55",
+      "origin": "そうなんですね。続ける・続けないはとても大きな決断の一つだと思いますが、そんな自分の活かし方を考えるのも大切だなと感じます。",
+      "content": "I see. Whether to stay or leave is a very big decision, but I feel it's also important to think about how to make the most of who you are in that situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T12:05:01",
+      "origin": "実はそろそろお時間なのですが、お話しされてみていかがでしたでしょうか。",
+      "content": "Actually, our time is almost up. How do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:05:32",
+      "origin": "はい話させてもらってすごく気持ちがすっきりしました。",
+      "content": "Yes, I feel so much better having been able to talk about it."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:05:39",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T12:05:58",
+      "origin": "また相談にいらしてくださいね。ありがとうございました。",
+      "content": "Please feel free to come back anytime. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:06:32",
+      "origin": "はい。またそうさせてもらうかもしれません。",
+      "content": "Yes. I might just do that."
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T12:06:40",
+      "origin": "その時はよろしくお願いします。",
+      "content": "I look forward to it then."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T12:07:04",
+      "origin": "ぜひ。では失礼いたします。",
+      "content": "By all means. Take care."
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "正社員登用の機会を巡る不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 576,
+    "evaluation_created_at": "2020-10-16T12:49:00",
+    "client_id": 26,
+    "counselor_id": 100,
+    "score": 99,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

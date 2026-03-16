@@ -1,0 +1,873 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-01-12T10:22:01",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:22:40",
+      "origin": "こんにちはカウンセラー役ですどうぞよろしくお願いいたします",
+      "content": "Hello, I'll be your counselor today. It's a pleasure to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:25:29",
+      "origin": "お時間前ですが、よろしければ始めさせていただきます。お声掛けください。",
+      "content": "It's a little before our scheduled time, but if you're ready, we can begin. Please let me know."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:27:33",
+      "origin": "はい、大丈夫です！",
+      "content": "Yes, I'm ready!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:27:51",
+      "origin": "ありがとうございます。それでは、はじめさせていただきますね。",
+      "content": "Thank you. Then, let's begin."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:28:08",
+      "origin": "宜しくお願いします",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:28:13",
+      "origin": "よろしくお願いいたします。",
+      "content": "You're welcome."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:28:35",
+      "origin": "こんにちは、相談員です。",
+      "content": "Hello, I'm your counselor."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:28:46",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:29:05",
+      "origin": "こちらにお越しいただきありがとうございます。今日は、どういったご相談ですか？",
+      "content": "Thank you for coming in today. What brings you here?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:29:42",
+      "origin": "職場で浮いてるみたいで",
+      "content": "I feel like I'm being isolated at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:30:00",
+      "origin": "そうなんですね。それはお困りですよね。",
+      "content": "I see. That must be difficult for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:30:14",
+      "origin": "よろしければ、詳しくお話しいただけますか？",
+      "content": "If you're comfortable, could you tell me more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:30:21",
+      "origin": "私ともう一人の人だけ無視されてて",
+      "content": "Only one other person and I are being ignored."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:30:34",
+      "origin": "ええ。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:31:06",
+      "origin": "仕事の伝達とかもされないことがあります",
+      "content": "Sometimes, we're not even given work-related information."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:31:54",
+      "origin": "なるほど、そんな状況なんですね。おつらいですね。",
+      "content": "I understand. That must be very painful."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:32:03",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:32:38",
+      "origin": "よろしければ、相談者さんの呼び名と、性別、年代を教えていただけますか？",
+      "content": "If you don't mind, could you tell me your preferred name, gender, and age group?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:32:57",
+      "origin": "まき、33才、じょせいです",
+      "content": "Maki, 33, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:33:08",
+      "origin": "まきさん、ありがとうございます。",
+      "content": "Thank you, Maki."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:33:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:34:01",
+      "origin": "まきさんが無視と感じていらっしゃるのは、いつごろからでしたか？",
+      "content": "When did you start feeling ignored, Maki?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:34:39",
+      "origin": "4月からです",
+      "content": "Since April."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:35:31",
+      "origin": "そうだったんですね。長い間、つらい思いを抱えていらしたんですね。",
+      "content": "I see. You've been carrying this painful feeling for a long time."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:36:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:36:57",
+      "origin": "今日、こうしてお話に来てくださってありがとうございます。４月から、とのことでしたが、何かきっかけはあったんですか？",
+      "content": "Thank you for coming to talk about this today. You mentioned it has been since April; was there anything that triggered it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:37:52",
+      "origin": "その相手が転勤してきてからだんだんって感じです。きっかけって事はないんです",
+      "content": "It started gradually after that person transferred to our office. There wasn't a specific incident."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:38:46",
+      "origin": "そうねんですね。相手、というのは、じゅみさんに無視するような態度を向けてくる方のことでしたか？",
+      "content": "I see. And by 'that person,' do you mean the one who is ignoring you, Maki?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:39:05",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:40:00",
+      "origin": "そうなんですね。その人が職場に加わったことで、状況が変わってきたんですね。",
+      "content": "I see. So the situation began to change when that person joined your workplace."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:40:26",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:40:48",
+      "origin": "その、“相手”の方は、どんな方なのか、教えていただけますか？",
+      "content": "Could you tell me what that 'person' is like?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:41:36",
+      "origin": "チームリーダーで私を入れて6人のチームです",
+      "content": "They're the team leader. It's a team of six, including me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:42:06",
+      "origin": "うんうん。（お話しこのまま続けてくださいね）",
+      "content": "Mm-hmm. (Please go ahead and continue.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:42:13",
+      "origin": "なので、仕事の指示をしたりします",
+      "content": "So they give us work instructions."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:42:42",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:42:45",
+      "origin": "仕事はすごく出来ると思います",
+      "content": "I think they're very good at their job."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:43:11",
+      "origin": "そうなんですね。。",
+      "content": "I see..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:43:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:44:10",
+      "origin": "その“相手”が仕事のできるリーダーで、６人チームでお仕事をしているんですね。",
+      "content": "So this 'person' is a capable leader, and you work together in a team of six."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:44:20",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:44:52",
+      "origin": "もう一人、無視されているとお話しいただきましたが、その方も同じチームでしたでしょうか？",
+      "content": "You mentioned there's one other person being ignored. Are they on the same team as well?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:45:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:46:26",
+      "origin": "なるほど、そうなんですね。同じチームのリーダーが無視してきて、仕事の伝達もされない状態だと、お困りのこともとても多いですよね。",
+      "content": "I see, I understand. It must be very challenging when your own team leader ignores you and doesn't pass on work-related information."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:46:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:47:28",
+      "origin": "まきさんは、今の状況で、一番、どういったことがつらいとお感じですか？",
+      "content": "In your current situation, what feels the most painful for you, Maki?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:48:31",
+      "origin": "無視です",
+      "content": "Being ignored."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:49:02",
+      "origin": "そうなんですね。無視されると、精神的にも参ってしまいますよね。",
+      "content": "I understand. Being ignored can really take a mental toll, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:49:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:50:09",
+      "origin": "今日、こうしてお話に来ていただきましたので、どうしたらこの無視という状況を少しでも良く変化させられるか、一緒に考えていきたいと思いましたが、いかがですか？",
+      "content": "Since you've come to talk about this today, I'd like to think together about how we might be able to improve this situation of being ignored, even just a little. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:50:24",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:50:48",
+      "origin": "はい、ありがとうございます。それでは、一緒に考えてみましょう。",
+      "content": "Yes, thank you. Let's think about it together."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:51:36",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:52:38",
+      "origin": "ここまでまきさんから状況を教えていただいたのですが、無視されていない、同じチームの３人とリーダーとはどのような関係に見えますか？",
+      "content": "You've explained the situation to me so far. How would you describe the relationship between the leader and the other three team members who are not being ignored?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:53:00",
+      "origin": "とても仲良くやっていると思います",
+      "content": "I think they get along very well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:53:45",
+      "origin": "そうなんですね。それを感じながらお仕事をしなくてはいけないのも、苦しいですよね。",
+      "content": "I see. Having to work while witnessing that must also be painful."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:53:57",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:54:54",
+      "origin": "このお悩みをどなたかにお話になったことはありましたか？",
+      "content": "Have you talked to anyone about this concern?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:55:03",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:55:10",
+      "origin": "先輩に",
+      "content": "To a senior colleague."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:55:34",
+      "origin": "気にしすぎじゃない？って言われました",
+      "content": "They told me, “Aren’t you overthinking it?”"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:56:05",
+      "origin": "そうだったんですね。そう言われて、まきさんはどうお感じになりましたか？",
+      "content": "I see. How did that make you feel, Maki?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T10:56:42",
+      "origin": "わかってもらえない・・・って",
+      "content": "Like they didn't understand..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:57:50",
+      "origin": "そうだったんですね。状況を知っていても、わかってもらえず、悲しかったですね。",
+      "content": "I see. It must have been sad to not be understood, even by someone who knows the situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T10:59:29",
+      "origin": "チーム内では、そういった話になったことはありますか？",
+      "content": "Has this kind of discussion ever come up within the team?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:01:02",
+      "origin": "いえ、ならないです",
+      "content": "No, it hasn’t."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:01:31",
+      "origin": "そうだったんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:02:35",
+      "origin": "もしかして、お話しが行き違いになってしまったかな？私の質問と行違っても構いませんので、お話あれば、送信してくださいね！",
+      "content": "Perhaps we've had a bit of a miscommunication? Please feel free to send your message even if it's not a direct answer to my question!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:02:52",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:02:56",
+      "origin": "大丈夫です",
+      "content": "It’s okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:03:05",
+      "origin": "わかりました。",
+      "content": "Understood."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:03:25",
+      "origin": "では、お話し戻りますが、、",
+      "content": "Then, getting back to our conversation..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:03:34",
+      "origin": "相談とかしても気にしすぎって言われるし、それ以上周りと話すことないです",
+      "content": "Even if I talk to someone, they just say I'm overthinking it, so I don't talk about it with anyone else."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:05:04",
+      "origin": "そうだったんですね。無視されて気にしないなんて、できる事じゃないですよね。",
+      "content": "I see. It's not possible to just not mind being ignored, is it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:05:31",
+      "origin": "はい",
+      "content": "Right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:06:54",
+      "origin": "リーダーが無視する人と仲良くする人をどんな違いで区別しているのか、感じることはありますか？",
+      "content": "Do you have any sense of what distinguishes the people the leader ignores from the people they get along with?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:07:22",
+      "origin": "正直言ってわかりません",
+      "content": "To be honest, I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:08:03",
+      "origin": "そうなんですね。理由の想像すらできない状況では、理不尽にも感じてしまいますね。",
+      "content": "I see. When you can't even imagine the reason, it must feel very unfair."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:08:18",
+      "origin": "私ともう一人の人もみんなとおんなじに仕事してるし、どちらかと言うと無口な方なので、嫌なことをいったりもしてないです",
+      "content": "The other person and I are working just like everyone else, and if anything, we're both on the quiet side, so it's not like we've said anything unpleasant."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:08:36",
+      "origin": "うんうん。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:10:47",
+      "origin": "心辺りもないのに。。仕事中は、始まりからずっと無視されるような状況ですか？",
+      "content": "Even though you can't think of any reason... Are you ignored for the entire workday, from beginning to end?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:10:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:11:27",
+      "origin": "どうしても話さないといけない事はメールできます",
+      "content": "When we absolutely have to communicate, it's done by email."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:12:27",
+      "origin": "メールですか。。直接会って話せる環境ではあるんですか？",
+      "content": "By email... Are you in an environment where you could talk face-to-face?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:12:35",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:13:08",
+      "origin": "そっか。。それは、つらいですよね。。",
+      "content": "I see... That must be so painful..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:13:38",
+      "origin": "ちなみに挨拶はチームメンバー間で、できていますか？",
+      "content": "By the way, are you able to exchange greetings among the team members?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:13:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:14:30",
+      "origin": "挨拶のみ。っていう状況なのでしょうか。",
+      "content": "So is it a situation where it's just greetings and nothing more?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:16:38",
+      "origin": "他の人とは話してます",
+      "content": "I do talk with the others."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:16:55",
+      "origin": "無視はりーだーだけです",
+      "content": "The leader is the only one who ignores me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:18:00",
+      "origin": "そうなんですね。他のメンバーとは話しているけど、リーダーとは必要なことをメールでやりとりするんですね。",
+      "content": "I see. So you talk with the other members, but you only communicate with the leader by email for necessary things."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:19:47",
+      "origin": "まきさんは、リーダーから無視はやめて欲しいと思っていますよね。もし、できるとしたら、どんな関係で仕事をしていきたいと思っていますか？",
+      "content": "You want the leader to stop ignoring you, right? If it were possible, what kind of working relationship would you like to have?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:26:00",
+      "origin": "まきさん、お返事入力中でしたか？もう少し、お返事お待ちしていたいなと思っています。",
+      "content": "Maki, were you in the middle of typing your response? I’m happy to wait a little longer for your reply."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:29:34",
+      "origin": "はい、そうですね。。。",
+      "content": "Yes, that's right..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:29:45",
+      "origin": "和あらないって感じです",
+      "content": "It feels like... I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:29:49",
+      "origin": "わからない",
+      "content": "I don’t know."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:29:53",
+      "origin": "どうしていいか",
+      "content": "I don’t know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:30:35",
+      "origin": "そっか、リーダーとどういう関係になりたいのかも想像がつかないほど、今の状況がおつらいんですね。",
+      "content": "I see. The current situation is so painful that you can't even imagine what kind of relationship you'd want with your leader."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:30:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:30:54",
+      "origin": "しごとさえできればいいんです",
+      "content": "I just want to be able to do my job."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:31:14",
+      "origin": "別にリーダーと仲良くしたいわけではないんです",
+      "content": "It's not that I want to be friends with the leader."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:31:14",
+      "origin": "そっか、仕事さえスムーズにできればいいんですね。",
+      "content": "I see—you just want to be able to do your work smoothly."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:31:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:33:39",
+      "origin": "ここまでお話をしていただいて、まきさんがリーダーから無視されても、何とか我慢をして仕事を進めてきたこと、理解はしてもらえなかったけれど、先輩に相談してみたり、どうにかしたいと強く思っていることが伝わってきました。",
+      "content": "From what you've told me, I can tell that even though you're being ignored by your leader, you've somehow endured it and carried on with your work. And even though you weren't understood, you tried talking to a senior colleague. It's clear that you strongly want to do something about this."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:33:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:34:43",
+      "origin": "長い間苦しい状況の中、とても頑張ってこられたんだなと感じています。",
+      "content": "I feel that you've been trying very hard for a long time in this difficult situation."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:34:52",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:35:56",
+      "origin": "そこで、リーダーと仕事が進められる関係になりたいとお考えですよね。",
+      "content": "So, with that in mind, you'd like to have a relationship with your leader where you can get work done."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:36:01",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:36:50",
+      "origin": "例えば、リーダーに、挨拶の時に一言付け加えて、関係性の変化を促すのはどうかな、と思いました。",
+      "content": "For example, I was thinking you could add a brief comment when greeting the leader to encourage a shift in the relationship."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:36:59",
+      "origin": "例えば、なんですが、",
+      "content": "For example..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:37:23",
+      "origin": "どんな一言ですか？",
+      "content": "What kind of brief comment?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:38:29",
+      "origin": "おはようございます、の後に、特に感情が入らなくてもつたえられるような、今日は曇りですね、だとか。いつもより、早いですね、だとか。単に状況を伝えているだけなのですが、これまでのやりとりとは、少し変化を出していけるのかなと思ったのですが、いかがでしょうか。",
+      "content": "After saying \"Good morning,\" you could add something that doesn't require much emotion, like \"It's cloudy today,\" or \"You're in earlier than usual.\" You're simply stating a fact, but I thought it might create a slight change from your usual interactions. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:38:47",
+      "origin": "わかりました！",
+      "content": "Got it!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:38:54",
+      "origin": "やってみます",
+      "content": "I’ll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:39:31",
+      "origin": "そうですか、そう思ってもらえてよかったです。また、やってみて、困ったらお話にも来ていただきたいなと思います。",
+      "content": "I see, I'm glad you feel that way. I hope you'll come back and talk with me again if you try it and run into any trouble."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:39:51",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:40:23",
+      "origin": "それから、まきさんが一人ですごく頑張っていらっしゃるので、どなたかお話しできそうな人がいたら、つらいんだよね、とか、悲しいんだよねって、気持ちを伝えてみるのも、いいのかなと思いました",
+      "content": "Also, since you've been trying so hard all by yourself, I thought it might be good to try telling someone you feel you can talk to how you're feeling—like, \"This is hard,\" or \"This makes me sad.\""
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:40:30",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:41:00",
+      "origin": "解決にはならなくても、きっとまきさんの心が少し休まるのかなと思います。",
+      "content": "Even if it doesn’t solve the problem, I think it could give your heart a bit of rest."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:41:09",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:41:47",
+      "origin": "少しづつでも、やってみてくださいね。ここから変化しようと頑張るまきさんを心から応援しています。",
+      "content": "Please try, even little by little. I’m sincerely cheering you on as you work to create change from here."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:42:00",
+      "origin": "ここまでお話ししてみていかがでしたか？",
+      "content": "How do you feel after our talk today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:42:30",
+      "origin": "挨拶の時に一言はいってみます",
+      "content": "I’ll try adding a brief comment when I greet them."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:43:22",
+      "origin": "はい。どうぞやってみてっくださいね。",
+      "content": "Yes. Please do give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:43:40",
+      "origin": "ありがとうござインした",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:43:44",
+      "origin": "ございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:43:54",
+      "origin": "こちらこそ、ありがとうございました。今日のご相談はここまででよろしいですか？",
+      "content": "Thank you as well. Shall we conclude today’s session here?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:44:05",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:44:13",
+      "origin": "しつれいします",
+      "content": "Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:44:35",
+      "origin": "はい、それでは、終了させていただきますね。また困ったことがあったら、いつでもお話に来てください。ありがとうございました。",
+      "content": "All right, then we'll conclude our session. If you run into any more trouble, please feel free to come back and talk anytime. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:44:58",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:45:05",
+      "origin": "（ロールプレイありがとうございました！！）",
+      "content": "(Thank you for the role-play!)"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:45:28",
+      "origin": "ありがとうございました！",
+      "content": "Thank you very much!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:45:40",
+      "origin": "（ロールプレイもここで終了させていただいてよろしいですか？）",
+      "content": "(Is it okay if we end the role-play here?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-12T11:45:47",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-12T11:46:05",
+      "origin": "（はい、それでは、終了させていただきます。ありがとうございました。）",
+      "content": "(Okay, then we'll end it here. Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場での無視やコミュニケーションの問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1159,
+    "evaluation_created_at": "2021-01-12T11:59:00",
+    "client_id": 121,
+    "counselor_id": 111,
+    "score": 75,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

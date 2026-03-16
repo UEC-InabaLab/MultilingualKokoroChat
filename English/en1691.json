@@ -1,0 +1,753 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:21:39",
+      "origin": "こんばんは、本日はよろしくお願いいたします。",
+      "content": "Good evening, thank you for being here today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:22:50",
+      "origin": "お時間になりましたら声を掛けさせていただきます。",
+      "content": "I'll let you know when it's time to start."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:23:00",
+      "origin": "よろしくお願いいたします。クライアント役は初めてなのですが、お題とか決めるのでしょうか？",
+      "content": "Thank you. This is my first time playing the client role. Do we need to decide on a topic or something?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:23:51",
+      "origin": "お題は決めてもいいですし、お好きにして頂いて大丈夫です。",
+      "content": "You can decide on a topic, or feel free to proceed however you prefer."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:24:19",
+      "origin": "何か決めた方がやりやすそうですか？",
+      "content": "Would it be easier for you if we decided on something?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:24:48",
+      "origin": "大丈夫です。ルールがあるのかなとおもったので、お聞きしました。",
+      "content": "It's fine. I just asked because I was wondering if there were any rules."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:25:53",
+      "origin": "そうでしたか。自由にできますのでどのようなお話でも大丈夫です。宜しくお願い致します。",
+      "content": "I see. You're free to discuss anything you'd like. I look forward to our session."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:26:04",
+      "origin": "よろしくお願いいたします。",
+      "content": "I look forward to it as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:26:29",
+      "origin": "30分になったら始めますね。",
+      "content": "We'll start at the 30-minute mark."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:26:42",
+      "origin": "はい。よろしくお願いいたします。",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:31:26",
+      "origin": "こんばんは、相談員です。本日はご相談にお越しいただきありがとうございます。差し支えなければ初めにご年齢と性別を教えていただけますか？",
+      "content": "Good evening, I'm the counselor. Thank you for coming in for a consultation today. If you don't mind, could you please tell me your age and gender to start?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:31:53",
+      "origin": "こんばんは４０代 女性です。",
+      "content": "Good evening. I'm a woman in my 40s."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:32:43",
+      "origin": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:33:13",
+      "origin": "仕事に行くのが嫌で嫌でどうしようもないです",
+      "content": "I hate going to work so much, I don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:33:50",
+      "origin": "そうなんですね・・・いやいや行っていらっしゃる感じなんですね・・・",
+      "content": "I see... It sounds like you're forcing yourself to go."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:34:01",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:34:11",
+      "origin": "何か思い当たるようなことがありますか？",
+      "content": "Is there anything in particular that you think might be causing this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:34:27",
+      "origin": "雰囲気が最悪",
+      "content": "The atmosphere is just awful."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:35:26",
+      "origin": "そうでしたか・・・雰囲気は気になりますよね。何人くらいの職場なのですか？",
+      "content": "I see... a bad atmosphere can be very stressful, can't it? How many people work there?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:36:30",
+      "origin": "シフトで入るので、SVにバイトが三人ぐらいが常勤です",
+      "content": "We work in shifts; typically there’s a supervisor (SV) and about three part-timers on duty."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:36:59",
+      "origin": "私はバイトです",
+      "content": "I'm one of the part-timers."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:37:44",
+      "origin": "なるほど、そうなんですね。ちなみに、最悪な雰囲気の原因はどんなことなのでしょうか？",
+      "content": "I see. By the way, what do you think is causing this awful atmosphere?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:38:26",
+      "origin": "SVが気分屋で、パワハラ半端ないんです。",
+      "content": "The supervisor is moody, and the power harassment is unbelievable."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:39:12",
+      "origin": "みんなビクビクしてるけど、お気に入りとは、ペチャクチャ楽しげに喋ってる時もあるし",
+      "content": "Everyone is walking on eggshells, but then there are times when the supervisor is happily chatting away with their favorites."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:39:37",
+      "origin": "なるほど・・・",
+      "content": "I see..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:39:44",
+      "origin": "それが、めちゃ当て付けみたいに喋ってるんですよ",
+      "content": "And it feels like they're doing it to spite the rest of us."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:39:52",
+      "origin": "鬱陶しわー",
+      "content": "It's so annoying."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:40:24",
+      "origin": "そう感じてしまいますよね",
+      "content": "I can see why you would feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:40:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:41:21",
+      "origin": "先ほどパワハラ気味と言われましたが、例えばどのような事がありますか？",
+      "content": "You mentioned it felt like power harassment earlier. Could you give me an example of what happens?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:42:10",
+      "origin": "パワハラ気味ではなく、パワハラそのものでしたね",
+      "content": "My apologies, you said it was power harassment, not just that it felt like it."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:44:52",
+      "origin": "そうですねコールセンターなのですが、お客様に案内してるときに、言い違いをしていたとします。その場で訂正してくれれば、良いのに誤案内してたことを、今の対応ですけどね～って感じでイヤホン持ってきて一回聞いてみて",
+      "content": "That's right. It's a call center, and let's say I misspeak while assisting a customer. It would be fine if they corrected me on the spot, but instead, after the call, they'll say something like, \"About that call you just took...\" and bring over a headset, telling me to listen to the recording."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:45:40",
+      "origin": "えぇ（お聴きしていますので続けてくださいね）",
+      "content": "Mm-hm. I’m listening—please go on."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:45:41",
+      "origin": "とか、それっていつから案内して良かったん？勝手に決めんといてって感じです",
+      "content": "Or they'll say things like, \"Since when were you allowed to give that information? Don't just make things up.\""
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:46:33",
+      "origin": "自分の、お気に入りには途中で、ちょっと待ってって保留してもらって、懇切丁寧に教えてるのにね～",
+      "content": "But with their favorites, they'll have them put the customer on hold and patiently and politely teach them what to do."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:47:19",
+      "origin": "お金もらってる分は仕事して下さいねとかも言われますね",
+      "content": "They also say things like, “You’re getting paid, so do your job.”"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:47:38",
+      "origin": "そんなことまで・・・",
+      "content": "They say things like that...?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:48:03",
+      "origin": "ええ恥ずかしくないんかなぁと、世間話してはります",
+      "content": "Yeah, and they just chat about everyday stuff—I find myself wondering, don’t they feel embarrassed?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:50:26",
+      "origin": "あまりにも扱いが違ってあなたが嫌なお気持ちになっているのが伝わってきます。",
+      "content": "It's clear that the vastly different treatment is making you feel very upset."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:51:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:52:19",
+      "origin": "そんな嫌な環境の中で我慢して働いておられる感じなのでしょうかね。",
+      "content": "It sounds like you're enduring and forcing yourself to work in such an unpleasant environment."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:52:47",
+      "origin": "イラッとポイントがあるみたいで、私を褒め称えることもあるのですが、その時は別の誰かの当て付けって感じで、居心地が悪くて嫌になります",
+      "content": "They seem to have their trigger points; sometimes they lavish praise on me, but it feels like it’s a jab at someone else, and it makes me uncomfortable."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:53:44",
+      "origin": "その人達か居ない日は、嫌ではないですが…",
+      "content": "On days when those people aren’t there, it’s not so bad..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:54:12",
+      "origin": "特定の人だけがそうなんですね",
+      "content": "So it's only certain people who are like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:56:07",
+      "origin": "他の人はそのようなパワハラはない感じですか？",
+      "content": "Do the other people not engage in that kind of power harassment?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:56:27",
+      "origin": "特定の人？SVのことですか？ターゲットにされてる人ですか？どちらかと言えば、仲良しチーム以外は、いつでもターゲットになる可能性あるので、おとなしくしです。",
+      "content": "“Specific people”? Do you mean the SVs, or the people being targeted? If I had to say, anyone outside their \"buddy group\" could be targeted at any time, so we just keep our heads down."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:57:06",
+      "origin": "分かりにくくてすみません。SVの事でした。",
+      "content": "I'm sorry for being unclear. I was referring to the SVs."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:57:17",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:58:18",
+      "origin": "SVは五人で24時間365日回しているのですが、そのうちの仲良し二人組かキツイです",
+      "content": "There are five supervisors (SVs) covering 24/7/365, and a close-knit pair among them are the harsh ones."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:59:00",
+      "origin": "なるほど、二人もいるんですね・・・",
+      "content": "I see, so there are two of them..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:59:10",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:00:05",
+      "origin": "その人たちとはどのくらいの頻度でシフトが重なるのですか？",
+      "content": "How often do your shifts overlap with theirs?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:00:06",
+      "origin": "先日、他の時間帯に入ってるバイトに話してみたら、その時間帯は、もっとキツイらしくて悩んでました",
+      "content": "The other day I talked with a part-timer from another time slot, and it sounds like that slot is even harsher—they were really struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:00:20",
+      "origin": "すみません、行違いました",
+      "content": "My apologies, our messages crossed."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:00:50",
+      "origin": "私の時間帯は、ほぼどちらかが管理者として入ってます。",
+      "content": "During my shift, one of them is almost always the supervisor on duty."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:01:27",
+      "origin": "そうでしたか",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:01:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:02:42",
+      "origin": "今までのお話を少しまとめてみますのでお待ちいただけますか",
+      "content": "Could I take a moment to summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:02:48",
+      "origin": "はい",
+      "content": "Sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:07:49",
+      "origin": "職場のSVが気分屋でパワハラもあり雰囲気がとても悪く、仕事に行くのが嫌でどうしようもない。人によって対応が違いすぎる。時々褒められることもあるが居心地が悪い。その嫌な二人組がいない時は嫌ではない。他の時間帯はもっときついらしい。",
+      "content": "The SVs at your workplace are moody and engage in power harassment, creating a terrible atmosphere, which makes you hate going to work. Their treatment of people is drastically different. You are sometimes praised, but it makes you feel uncomfortable. It's not so bad when that unpleasant pair isn't there. And you've heard that other shifts are even worse."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:08:05",
+      "origin": "このような感じで間違いないでしょうか？",
+      "content": "Does that sound accurate?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:08:17",
+      "origin": "そんな感じです",
+      "content": "That's about right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:09:17",
+      "origin": "ありがとうございます。そこで、あなたは今後どのようになれば気持ちが楽になりそうですか？",
+      "content": "Thank you. What do you think might help you feel more at ease going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:09:50",
+      "origin": "どうでしょう楽になれるんでしょうか？",
+      "content": "I don't know... is it even possible to feel better?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:11:32",
+      "origin": "他人を変えることは出来ないので、このままだと難しいのかもしれませんが、",
+      "content": "Since we can't change other people, it might be difficult if things stay as they are, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:12:24",
+      "origin": "あなたが環境を変えたり、または考え方を少し変えると違ってくるかもしてないですね。",
+      "content": "if you were to change your environment, or perhaps shift your perspective a little, things might start to feel different."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:13:43",
+      "origin": "私が変わるのですか？何を？どうやって？この年から仕事を変えるとかキツイですけど…",
+      "content": "I have to change? What, and how? Changing jobs at my age would be tough..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:14:27",
+      "origin": "こんな年でバイト生活してるから、嫌でも我慢して働くしかないですもんね",
+      "content": "Being a part-timer at this age, I have no choice but to put up with it and work, even if I hate it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:14:41",
+      "origin": "今そう思われるのですね・・・",
+      "content": "That’s how you feel right now..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:14:55",
+      "origin": "そう思いませんか？",
+      "content": "Don't you think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:15:42",
+      "origin": "そうですよね・・・",
+      "content": "I can see why you’d feel that way..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:17:21",
+      "origin": "ですよね～",
+      "content": "Right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:18:07",
+      "origin": "ちなみに、今まではそのような嫌な気持ちになったときはどのようにされてきたのですか？",
+      "content": "By the way, when you’ve felt these unpleasant feelings up to now, how have you coped?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:20:24",
+      "origin": "我慢するか落書きとかして、現実逃避してました。寝てるふりすることもありました。仕事中ですけど…仲良しさん達がドラマの話とかで盛り上がってる時とか、うるさいなぁと寝たふりいや、爆睡してたかもしれません",
+      "content": "I'd either endure it or escape reality by doodling. Sometimes I'd pretend to be asleep, even during work hours... like when the \"buddy group\" was getting excited talking about TV shows, I'd think, \"This is so loud,\" and pretend to sleep. Actually, I might have been fast asleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:21:30",
+      "origin": "なるほど・・・現実逃避も必要ですよね。",
+      "content": "I see... escaping reality is necessary sometimes, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:21:57",
+      "origin": "落書きとかはなかなかいいですね。",
+      "content": "Doodling sounds like a pretty good coping mechanism."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:21:57",
+      "origin": "そうですね",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:22:29",
+      "origin": "そうですかね～",
+      "content": "You think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:23:54",
+      "origin": "はい、嫌な気持ちを書いたり、話したりしてモヤモヤを少しでも吐き出すのはとてもいいのですよ。",
+      "content": "Yes, writing down or talking about unpleasant feelings to vent even a little of that frustration is a very good thing to do."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:24:21",
+      "origin": "そうなんですか",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:25:25",
+      "origin": "そうなんです。少しでも発散することが大事なのです。",
+      "content": "It is. It's important to release that stress, even just a little bit."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:25:52",
+      "origin": "はぁ…発散ほどでもないのですが…",
+      "content": "Sigh... It doesn’t feel like I’m really releasing anything, though..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:27:02",
+      "origin": "そうですか・・・発散している感じでもないのですね",
+      "content": "I see... so it doesn't feel like you're actually venting your frustrations."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:27:11",
+      "origin": "嫌な気持ちは変わらないしバイト自体、すでに罰ゲームですもん",
+      "content": "The unpleasant feelings don't go away, and the part-time job itself already feels like a punishment game."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:27:26",
+      "origin": "しゃぁないから、罰ゲームするって感じです",
+      "content": "It feels like I have no choice, so I'm just playing the punishment game."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:27:53",
+      "origin": "前は、やりがいあったのになぁ",
+      "content": "It used to be rewarding, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:28:38",
+      "origin": "そうだったんですね。前と今ではどこが違っていますか？",
+      "content": "It did? What's different between then and now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:29:47",
+      "origin": "原因の二人が入社する前と後です",
+      "content": "It’s the difference between before and after those two—the cause of the problem—joined the company."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:30:13",
+      "origin": "底意地悪いのん入ってきたって、さっさと辞めた人もいます。",
+      "content": "Some people even quit right away, saying someone with a really mean streak had joined."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:30:31",
+      "origin": "なるほど、その二人が間違いなく原因だったんですね。",
+      "content": "I see—so those two were definitely the cause."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:30:54",
+      "origin": "少なくとも、私はそうです",
+      "content": "At least for me, they are."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:31:55",
+      "origin": "その二人は部署を移動する可能性はないのでしょうか？",
+      "content": "Is there any possibility of those two being transferred to another department?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:32:47",
+      "origin": "何もなければ、無いと思います。移動なしを希望していたと思いますし。",
+      "content": "Unless something happens, I don't think so. I believe they requested not to be transferred."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:33:43",
+      "origin": "そうでしたか・・・ちなみに、会社でそのパワハラの事とか相談できるところはないのですか？",
+      "content": "I see... By the way, is there anywhere in the company where you can go to discuss this power harassment?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:34:35",
+      "origin": "コンプライアンス部が、ありますが…すぐ、バレるでしょ？",
+      "content": "There's a Compliance Department, but... they'd find out it was me right away, wouldn't they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:35:12",
+      "origin": "そう思われるんですね・・・",
+      "content": "That’s what you're concerned about..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:35:49",
+      "origin": "ただでさえ、ややこしいのに。もっと、ややこしくなりそうです",
+      "content": "It's already complicated enough. I feel like it would just get even more complicated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:36:46",
+      "origin": "なるほど、そんな感じで考えておられるのですね・・・",
+      "content": "I see, so that's how you're thinking about it..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:36:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:39:11",
+      "origin": "少しでもお気持ちが楽になるような方法があるといいのですが・・・",
+      "content": "I hope we can find a way to make things even a little easier for you..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:39:49",
+      "origin": "他の方とこの事でお話をされることはありますか？",
+      "content": "Do you talk about this with anyone else?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:42:10",
+      "origin": "さっき言ったと思うのですが、時間帯が違うバイトの人と話しました。毎日が罰ゲームしてるみたいやね！って。そしたら、別時間帯は、もっと深刻みたいで…聞いてて気の毒になってしまい、自分のことは話せませんでした。",
+      "content": "I think I mentioned it earlier, but I spoke with a part-timer from a different shift. I said, \"It feels like we're playing a punishment game every day!\" But it turns out their shift is even more serious... I felt so sorry for them listening to their story that I couldn't talk about my own situation."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:43:34",
+      "origin": "私の時間帯は、仲良しチームと、ターゲットになっても何を言われてるか、あまり解ってない感じの人達なので",
+      "content": "In my time slot, it’s the \"buddy team\" and people who, even when they’re targeted, don’t seem to fully grasp what’s being said to them."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:43:57",
+      "origin": "誰にも話してません",
+      "content": "So I haven't told anyone."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:44:54",
+      "origin": "ただ、落書きついでにコンプラへ提出出きるよう本日のパワハラ日記はつけてます",
+      "content": "However, along with my doodling, I've started keeping a daily \"power harassment diary\" so I can submit it to Compliance if I need to."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:45:26",
+      "origin": "なるほど、それはいい方法ですね。",
+      "content": "I see, that's a very good idea."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:45:57",
+      "origin": "憂さ晴らしですいざと言う時の証拠は固めてます。",
+      "content": "It’s a way to let off steam, and I’m also building up solid evidence for when the time comes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:46:46",
+      "origin": "それはとてもいいと思います。証拠にもなるし、気持ちの整理もできるので。",
+      "content": "I think that's an excellent idea. It serves as evidence, and it can also help you organize your thoughts and feelings."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:47:02",
+      "origin": "そうなんですね",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:47:41",
+      "origin": "はい。それから今日のように誰かに気持ちを話すのも良いのですよ。",
+      "content": "Yes. And talking about your feelings with someone, like you are today, is also a very helpful thing to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:48:30",
+      "origin": "嫌な気持ちはため込まないで、少しでも吐き出してください。",
+      "content": "Please don't bottle up these unpleasant feelings; let them out, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:48:44",
+      "origin": "はいありがとうございます。",
+      "content": "Okay, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:49:58",
+      "origin": "またこちらでもお話を聞かせてくださいね。",
+      "content": "Please feel free to talk with me here again."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:50:20",
+      "origin": "はい",
+      "content": "I will."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:51:23",
+      "origin": "あなたがあなたらしく毎日を過ごせるよう応援しています。それでは本日は終了してもよろしいでしょうか？",
+      "content": "I'll be cheering for you to be able to live each day as your true self. Would it be all right if we conclude our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:51:37",
+      "origin": "はいありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:52:24",
+      "origin": "本日はご相談に来ていただきありがとうございました。それでは、終了メッセージを送ります。",
+      "content": "Thank you for coming in for a consultation today. I will now send the closing message."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:52:49",
+      "origin": "(ありがとうございました。)",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:53:11",
+      "origin": "（時間をオーバーしてしまいすみませんでした。こちらこそありがとうございました）",
+      "content": "(I apologize for going over time. Thank you as well.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "パワハラによる職場の雰囲気の悪化"
+  },
+  "review_by_client": {
+    "evaluation_id": 1691,
+    "evaluation_created_at": "2021-04-21T22:14:00",
+    "client_id": 128,
+    "counselor_id": 179,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

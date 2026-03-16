@@ -1,0 +1,501 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-04-05T21:31:49",
+      "origin": "(こんばんは。本日は、よろしくお願いします。)",
+      "content": "(Good evening. Thank you for your time today.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:32:35",
+      "origin": "(よろしくお願いいたします。）",
+      "content": "(Thank you as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:33:34",
+      "origin": "こんばんは、相談員です。",
+      "content": "Good evening, I'm your counselor."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:34:08",
+      "origin": "こんばんは。",
+      "content": "Good evening."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:34:32",
+      "origin": "はじめに、年齢と性別と相談内容を教えてもらえますか？",
+      "content": "First, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:34:59",
+      "origin": "20代　女性　仕事についての相談です。",
+      "content": "I'm a woman in my 20s, and I'd like to talk about my career."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:35:15",
+      "origin": "教えていただいてありがとうございます。",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:35:58",
+      "origin": "仕事についてということですが、もう少し具体的におしえてもらえますか。",
+      "content": "You mentioned your career. Could you tell me a bit more specifically?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:36:35",
+      "origin": "今年、就活なのですが、やりたいことがなくて。",
+      "content": "I’m job hunting this year, but I don’t know what I want to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:36:51",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:37:02",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:38:05",
+      "origin": "就活でやりたいことがないと、焦ってしまうのも無理ないですね。",
+      "content": "It's understandable to feel anxious when you're job hunting and don't know what you want to do."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:38:42",
+      "origin": "はい。周りの友達はみんなやりたいことあって、自信がなくなりめす。",
+      "content": "Yes. All my friends seem to know what they want to do, and I’m losing my confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:39:10",
+      "origin": "そう感じておられんですね。",
+      "content": "I see—that’s how you’re feeling."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:39:25",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:40:14",
+      "origin": "そのような状況だと、不安になってしまうのも自然なことかもしれませんね。",
+      "content": "In a situation like that, it’s natural to feel anxious."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:40:33",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:41:37",
+      "origin": "今年、就活ということですが、今は大学生4年生ということでよろしいでしょうか？",
+      "content": "You said you’re job hunting this year; are you currently a fourth-year university student?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:42:40",
+      "origin": "専門学校の3年生です。",
+      "content": "I’m a third-year vocational school student."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:43:09",
+      "origin": "そうだったんですね。教えていただいて、ありがとうございます。",
+      "content": "Oh, I see. Thank you for clarifying."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:44:03",
+      "origin": "専門学生ということですが、どんな専門学校に行かれているのでしょうか？",
+      "content": "You mentioned a vocational school. What kind of school do you attend?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:44:20",
+      "origin": "福祉の学校に行ってます。",
+      "content": "I’m attending a school for social welfare."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:45:24",
+      "origin": "そうなんですね。どんなところから、福祉の学校に行こうと思ったのでしょうか？",
+      "content": "I see. What led you to decide to study in the welfare field?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:46:15",
+      "origin": "もともと介護の仕事をやりたくて行きました。",
+      "content": "I originally wanted to do caregiving work, so I enrolled."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:46:38",
+      "origin": "そう思っておられたんですね。",
+      "content": "So that's what you had in mind."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:46:51",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:47:41",
+      "origin": "でも、施設実習でちょっと無理かもと思ってしまいました。",
+      "content": "But during my placement at a facility, I started to feel it might be difficult for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:48:34",
+      "origin": "そうだったのですね。実習する中でそう感じられたんですね。",
+      "content": "I understand. So you came to feel that way during your practicum."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:48:44",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:49:30",
+      "origin": "どんなところから無理かもしれないと感じられたのでしょうか？",
+      "content": "What made you feel it might be difficult for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:50:06",
+      "origin": "利用者さんとうまく会話ができませんでした。",
+      "content": "I couldn't communicate well with the residents."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:52:04",
+      "origin": "そうなんですね。それは不安にもなるかもしれません。",
+      "content": "I see. That could understandably make you anxious."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:52:47",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:54:40",
+      "origin": "うまく会話ができなかったということですが、もう少し詳しく教えてもらってもよいでしょうか？",
+      "content": "You mentioned you couldn’t communicate well—could you tell me a bit more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:55:36",
+      "origin": "利用者の方のしてほしいことを、うまく聞き出せなかったり、実習担当者とうまく話せませんでした。",
+      "content": "I couldn’t draw out what the residents wanted me to do, and I couldn’t communicate well with my practicum supervisor either."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:57:02",
+      "origin": "そうだったんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:57:15",
+      "origin": "そうなんです。",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:57:51",
+      "origin": "ちなみに普段の会話はいかがでしょうか？",
+      "content": "Just out of curiosity, how are your everyday conversations?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:58:30",
+      "origin": "普段の会話というのは、友達とかと話す時、ということですか？",
+      "content": "Do you mean conversations with friends and such?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T21:59:07",
+      "origin": "そうですね。親とか友達とか先生など・・・です。",
+      "content": "Yes, exactly. With your parents, friends, teachers, and so on."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T21:59:28",
+      "origin": "多分、普通に会話していると思います。",
+      "content": "I think I talk normally."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:00:00",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:01:09",
+      "origin": "ありがとうございます。少しまとめさせていただきますね。",
+      "content": "Thank you. Let me try to summarize what you've shared."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:04:27",
+      "origin": "もともと介護の仕事をしたくて、専門学校に入ったが、実習で利用者さんや担当者さんとうまく会話ができなかった。そこから自信がなくなってしまった。ただ、普段の会話では特に気になるようなことはなく、普通に会話はできている。と、いうことでよろしいでしょうか？",
+      "content": "You originally wanted to do caregiving work and entered a vocational school, but during your practicum, you had trouble communicating with the residents and your supervisor. That led to a loss of confidence. However, you don't feel there are any particular issues with your everyday conversations and you can talk normally. Is that a fair summary?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:05:54",
+      "origin": "はい。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:07:04",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:10:18",
+      "origin": "就活どうしたらいいでしょうか？",
+      "content": "What should I do about job hunting?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:11:03",
+      "origin": "もともと福祉をやりたいというお気持ちがあったということなので、少しでも一歩進めるよう一緒に考えていきたいと思います。",
+      "content": "Since you originally had the desire to work in welfare, I'd like for us to think together about how you can take even a small step forward."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:11:33",
+      "origin": "もともとあったのですが、今はあるかわかりません。、",
+      "content": "I did originally, but now I’m not sure if I still do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:11:57",
+      "origin": "そうなんですね。今はどんなお気持ちなのでしょうか？",
+      "content": "I see. How are you feeling right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:12:15",
+      "origin": "やりたいことが見つからなくて不安です。",
+      "content": "I’m anxious because I can’t find what I want to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:14:16",
+      "origin": "そう感じてらっしゃるんですね。",
+      "content": "So that's how you're feeling."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:14:34",
+      "origin": "そうです。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:16:30",
+      "origin": "やはり、福祉の専門学校なのでそういう仕事についた方がいいのでしょうか？",
+      "content": "Since I’m at a vocational school for welfare, should I go into that kind of work after all?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:17:13",
+      "origin": "そのように考えておられるんですね。",
+      "content": "That’s something you’re considering."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:17:46",
+      "origin": "やりたいことが変わることはよくあることだと思いますが、いかがでしょうか？",
+      "content": "I think it’s quite common for what you want to do to change over time. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:18:30",
+      "origin": "やりたいことが、変わるというか、やりたいことが見えなくなりました。",
+      "content": "It’s not so much that what I want to do has changed; it’s more that I can’t see what I want to do anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:19:39",
+      "origin": "そのようなお気持ちだと、不安になるのも無理ないですね。",
+      "content": "With feelings like that, it's no wonder you feel anxious."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:20:01",
+      "origin": "どうすればいいのでしょうか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:20:44",
+      "origin": "あなたは、見えなくなっているとおっしゃっていますが、",
+      "content": "You say you can't see it anymore, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:22:10",
+      "origin": "私は、ご自分の大切な人生に、きちんと向き合っていると感じています。",
+      "content": "I feel that you are truly facing your own precious life."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:22:28",
+      "origin": "そうですか。",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:24:29",
+      "origin": "向き合っているからこそ、不安に感じておられるのだと思います。人は時には立ち止まって、人生を見つめる時間も大切なのではないかと思いますが、いかがでしょうか？",
+      "content": "I believe it's precisely because you are facing it that you feel anxious. I think it's sometimes important for people to pause and take time to reflect on their lives. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:25:47",
+      "origin": "人生を見つめるとは、どういうことですか？",
+      "content": "What do you mean by 'reflect on my life'?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:26:06",
+      "origin": "私は、どんなことを見つめればいいのでしょうか？",
+      "content": "What kinds of things should I be reflecting on?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:28:57",
+      "origin": "自分の中で、大切にしていることや好きなこと、気持ちがワクワクすることを考えてみることだと思います。",
+      "content": "I think it's about considering things you cherish, things you like, and things that excite you."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:29:35",
+      "origin": "わかりました。考えてみます。",
+      "content": "I understand. I'll try to think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:29:57",
+      "origin": "あなたの人生はあなたのものであり、唯一無二なものです。",
+      "content": "Your life is your own, and it's one of a kind."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:31:57",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:33:11",
+      "origin": "あなたのその大切な人生を、自分の納得できる選択ができるよう、時には立ち止まって考えるのも一つだと思います。",
+      "content": "In order to make choices for your precious life that you can be truly satisfied with, I think pausing to reflect is one good option."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:33:23",
+      "origin": "わかりました。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:33:48",
+      "origin": "お時間が過ぎてしまい、申し訳ありません。あなたのことを応援しています。",
+      "content": "I’m sorry we’ve run over time. I’m rooting for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:34:07",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:34:50",
+      "origin": "こちらこそあなたの大切なお話を聴かせてくださり、ありがとうございました。",
+      "content": "No, thank you for sharing your important story with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:35:18",
+      "origin": "それでは、終了メッセージをお送りします。",
+      "content": "Now, I'll send the closing message."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-05T22:35:51",
+      "origin": "(本日は、ありがとうございました。お願いします。)",
+      "content": "(Thank you for today. Please go ahead.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-05T22:36:16",
+      "origin": "（こちらこそありがとうございました！）",
+      "content": "(Thank you so much as well!)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "就職活動における方向性の不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 4863,
+    "evaluation_created_at": "2023-04-05T22:47:00",
+    "client_id": 341,
+    "counselor_id": 156,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:23:03",
+      "origin": "(こんばんは、本日はよろしくお願いいたします。時間になりましたら始めさせていただきますね。）",
+      "content": "(Good evening, and thank you for your time today. We will begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:23:30",
+      "origin": "こんばんは。よろしくお願いします。リクエストはありますか？",
+      "content": "Good evening. I'm ready when you are. Do you have any requests?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:23:55",
+      "origin": "（）つけるの忘れました(困る)",
+      "content": "I forgot to add the parentheses (oops)."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:25:04",
+      "origin": "（ありがとうございます、まだそんなにカウンセラー役をやっていないのでチャレンジさせていただけるだけで大丈夫です。）",
+      "content": "(Thank you. I haven’t played the counselor role much yet, so just letting me give it a try is perfectly fine.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:25:18",
+      "origin": "（了解しました！）",
+      "content": "(Understood!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:30:09",
+      "origin": "こんばんは、相談員です。初めに性別、年齢、相談内容を教えてください。",
+      "content": "Good evening, I'm the counselor. To start, could you please tell me your gender, age, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:30:51",
+      "origin": "24歳女彼氏について",
+      "content": "24, female, about my boyfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:31:38",
+      "origin": "ご回答ありがとうございます。彼氏さんがいらっしゃるんですね。どのようなお悩みか少し教えていただけますか？",
+      "content": "Thank you for sharing. I understand you have a boyfriend. Could you tell me a bit about what’s troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:32:32",
+      "origin": "どうしたら、うまく別れられるか悩んでる",
+      "content": "I’m struggling with how to break up with him smoothly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:33:14",
+      "origin": "彼氏さんとは、どのようなことで困っているのですか？",
+      "content": "What kind of difficulties are you having with your boyfriend?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:33:59",
+      "origin": "普段優しいけど、怒ると歯止めがきかない",
+      "content": "He’s usually gentle, but when he gets angry, he loses control."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:34:42",
+      "origin": "それは、お辛い状況ですね。今、彼氏さんは近くにいらっしゃいますか？",
+      "content": "That must be a very difficult situation. Is your boyfriend nearby right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:34:50",
+      "origin": "いません",
+      "content": "No, he's not."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:35:57",
+      "origin": "そうでしたか。先ずは、相談者様に危害はない感じでしょうか？",
+      "content": "I see. First of all, are you in any immediate danger?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:36:27",
+      "origin": "今のところは…でも、いつ殴られるかビクビクしてる",
+      "content": "Not at the moment... but I'm constantly on edge, wondering when he might hit me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:37:17",
+      "origin": "そうなんですね、それはとても不安ですね。",
+      "content": "I see, that must be very frightening."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:37:43",
+      "origin": "はい、怖いです",
+      "content": "Yes, I’m scared."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:37:52",
+      "origin": "今日は、こちらに来ていただいて良かったです。",
+      "content": "I'm glad you were able to come and speak with me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:38:24",
+      "origin": "少しでもお力になれたらと思います。",
+      "content": "I hope I can be of some help."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:38:44",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:38:52",
+      "origin": "今は、一緒に住んでいるんですか？",
+      "content": "Are you living together at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:39:12",
+      "origin": "いいえ、時々泊まりにきます",
+      "content": "No, he sometimes stays over."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:39:43",
+      "origin": "そうなんですね。どんな時に暴力を振るわれるのでしょうか？",
+      "content": "I see. In what kinds of situations does he become violent?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:41:23",
+      "origin": "いろんなことが理由としてありますが、例えば、私が友達とご飯に行ったり、遊びに行ったりしたとき、女友達じゃないのでは？と疑われる時とか、",
+      "content": "There are various reasons. For example, when I go out for a meal or to hang out with friends, he gets suspicious that they aren't female friends... things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:42:24",
+      "origin": "そうなんですね。それは本当に気がきでは無いですね。彼氏さんのことは、どう感じていますか？",
+      "content": "I see. That must be incredibly stressful. How do you feel about your boyfriend?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:42:35",
+      "origin": "理由がよくわからない時もあったりもします",
+      "content": "Sometimes I don’t even understand the reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:42:54",
+      "origin": "そうですよね。",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:43:21",
+      "origin": "穏やかな時はすごく優しいので、落差がすごいです。",
+      "content": "When he’s calm, he’s very gentle, so the contrast is huge."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:43:56",
+      "origin": "そうなんですね、彼氏さんのことは好きですか？",
+      "content": "I see. Do you love him?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:44:32",
+      "origin": "好きなんだと思います。でも、その落差に疲れています",
+      "content": "I think I do. But I'm exhausted by that contrast."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:45:10",
+      "origin": "そうですよね。相談者様はとても疲れていると思います。",
+      "content": "I can imagine. You must be very tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:45:34",
+      "origin": "それに、彼氏さんのことも好きなのは間違いないと思います。",
+      "content": "And it’s clear that you do care about him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:45:48",
+      "origin": "でも",
+      "content": "But..."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:45:50",
+      "origin": "でも、別れたいとか言えばまたキレられると思うと怖くて",
+      "content": "But I'm afraid that if I say I want to break up, he'll snap again."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:46:56",
+      "origin": "そうですよね。確かにそうですよね。一番に、相談者様の体、命を大切にしてほしいと私は思います。",
+      "content": "I understand; that makes sense. Above all, I want you to prioritize your safety and your life."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:47:15",
+      "origin": "相談できる場所を一緒に考えませんか？",
+      "content": "Shall we think together about places you can go for help?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:47:33",
+      "origin": "いかがでしょうか？",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:47:36",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:48:02",
+      "origin": "少し、質問してもいいでしょうか？",
+      "content": "May I ask you a few questions?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:48:11",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:49:17",
+      "origin": "警察には相談しようと思ったこととか、このことを誰かに相談できた方はいらっしゃいますか？",
+      "content": "Have you considered contacting the police, or have you been able to talk to anyone else about this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:49:56",
+      "origin": "友達には少し話してます",
+      "content": "I've told my friends a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:50:21",
+      "origin": "お友達は、なんとおっしゃっているんですか？",
+      "content": "What have your friends been saying?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:50:38",
+      "origin": "早く別れろと",
+      "content": "That I should break up with him right away."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:51:01",
+      "origin": "そうですよね。心配してくれているんですね。",
+      "content": "Right. They're worried about you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:51:16",
+      "origin": "親御さんはいかがですか？",
+      "content": "What about your parents?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:51:26",
+      "origin": "言ってません",
+      "content": "I haven't told them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:51:51",
+      "origin": "そうでしたか、心配かけてくないのですね。",
+      "content": "I see. You don't want to worry them."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:52:25",
+      "origin": "そうですね。もともと、一人暮らしは反対なのですぐに帰らされると思うと言えません",
+      "content": "That's right. They were against me living alone in the first place, so I can't tell them because I think they would make me move back home immediately."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:53:18",
+      "origin": "なるほど。でも、相談者様の周りには心配してくださる方がいらっしゃっるということですね。少し、安心しました。",
+      "content": "I see. But it means there are people around you who are worried about you. That reassures me a bit."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:53:48",
+      "origin": "その、皆さんの愛情を受けながら勇気を出してみませんか？",
+      "content": "Why don't you try to draw on their love and support to find some courage?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:54:44",
+      "origin": "例えば、DV相談ができるところはたくさんあります。",
+      "content": "For example, there are many places you can go for domestic violence counseling."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:55:43",
+      "origin": "これはDVにあたるのですか？そんな大事にするのは怖いです",
+      "content": "Does this count as domestic violence? I’m afraid of making it such a big deal."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:57:06",
+      "origin": "相談者様に暴力を振るうことは、何があっても許されないことですよ。もちろん、相談者様に危害が及そうになった時、警察に伝えつこともとても勇気がいつことだと思います。",
+      "content": "Using violence against you is unacceptable, no matter what. And of course, I think it takes a lot of courage to report it to the police when it seems like you're in danger."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:58:14",
+      "origin": "DVかどうかは専門家に相談してみるのも一つの手だと私は思いますがいかがでしょうか？",
+      "content": "I think talking to a professional to determine if it's DV could be one option. What do you think?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:59:30",
+      "origin": "とても、怖いんですね。",
+      "content": "You're very scared, aren't you."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:59:57",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:00:00",
+      "origin": "ちょっと、急がせてしまいました。申し訳ありません。",
+      "content": "I might have rushed you a bit. I'm sorry."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:00:29",
+      "origin": "相談者様の命を考えると心配になりました。",
+      "content": "I got worried thinking about your safety."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:00:51",
+      "origin": "体の方は、大丈夫ですか？",
+      "content": "Are you physically okay?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:01:11",
+      "origin": "大丈夫です",
+      "content": "I’m okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:01:28",
+      "origin": "少し、安心しました。",
+      "content": "That’s a bit of a relief."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:02:09",
+      "origin": "今、相談者様はどんなお気持ちですか？今後のこととか、どのように考えていますか？",
+      "content": "How are you feeling right now? What are your thoughts about the future?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:03:35",
+      "origin": "彼のことは好きだけど、相手が変わらないならこのまま付き合ってても婚期が遅れるだけだから別れた方がいいかなと思っています。",
+      "content": "I love him, but if he doesn’t change, continuing to date him will just delay my chances of getting married, so I think it's better to break up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:04:17",
+      "origin": "そうですよね、人生一度きり！時間はとても貴重ですものね。",
+      "content": "That makes sense. You only live once! Time is very precious."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:05:05",
+      "origin": "相談者様は、どんな夢を持っていらっしゃいますか？これから、どんなふうになったらいいなと思いますか？",
+      "content": "What kind of dreams do you have? What would you like your future to look like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:05:41",
+      "origin": "普通に結婚して、楽しい家庭を作りたい",
+      "content": "I want to have a normal marriage and create a happy family."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:06:01",
+      "origin": "それは、とても素晴らしい夢ですね！",
+      "content": "That's a wonderful dream!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:06:25",
+      "origin": "きっと実現できますよ。",
+      "content": "I’m sure you can make that happen."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:07:24",
+      "origin": "まず、何から始めれば実現できそうですか？一緒に考えてみましょう。",
+      "content": "What do you think is the first step to making that happen? Let's think about it together."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:08:03",
+      "origin": "今は、お仕事とかは充実してますか？",
+      "content": "Right now, is your work life fulfilling?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:08:26",
+      "origin": "充実かどうかはわかりません",
+      "content": "I don't know if I'd call it fulfilling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:09:06",
+      "origin": "どんなお仕事をしていらっしゃるんですか？",
+      "content": "What kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:09:29",
+      "origin": "一般企業の事務です",
+      "content": "I do clerical work at a regular company."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:11:06",
+      "origin": "そうなんですね。しっかり人生進めていらっしゃいますね。お仕事仲間と飲みに行ったりストレス発散などはどんな感じですか？",
+      "content": "I see. It sounds like you're steadily moving forward in life. How do you relieve stress, like going out for drinks with colleagues?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:12:13",
+      "origin": "ストレス発散はあまりできてないかもしれません",
+      "content": "I might not be relieving stress very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:13:21",
+      "origin": "ストレスは、夢を遠ざけてしまいます。ご自分にもう少し癒しの時間も作ることから始めるのもいいかもしれませんね。",
+      "content": "Stress can push our dreams further away. It might help to start by making a bit more time to soothe yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:14:12",
+      "origin": "ストレス発散することもままならないのでしょうか？彼氏さんが怒るとか",
+      "content": "Is it difficult to even take time to relieve stress—perhaps because your boyfriend gets angry?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:14:39",
+      "origin": "そうですね…",
+      "content": "Yes, that's right..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:16:00",
+      "origin": "彼氏さんのことでたくさん頑張って、たくさん傷ついてきたように感じるのですが、今振り返っていかがですか？",
+      "content": "It feels like you've tried so hard and been hurt so much because of your boyfriend. Looking back on it now, how do you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:17:13",
+      "origin": "うまく別れられる方法があればいいのですが",
+      "content": "I wish there were a way to break up smoothly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:17:56",
+      "origin": "そうですね、うまくというと、一人では限界があると思うのですがいかがですか？",
+      "content": "Right. When it comes to doing it safely and smoothly, I think there are limits to what you can do alone. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:18:30",
+      "origin": "そうなんですか？",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:19:43",
+      "origin": "やはり、男性は力もありますし、もし暴力が始まれば誰かが止めに入ることも必要だと思いましたが、どうですか？",
+      "content": "Well, men are generally physically stronger, and if he becomes violent, I think it would be necessary to have someone there to intervene. What are your thoughts on that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:20:34",
+      "origin": "誰かがいれば怖さも軽減されますし、勇気も出ると思いますよ。",
+      "content": "Having someone with you can lessen the fear and help you feel more courageous."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:20:44",
+      "origin": "そういうことですね。別れることはすごい覚悟がいるんだということですね…",
+      "content": "I see. So breaking up requires a great deal of resolve..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:21:08",
+      "origin": "もちろんです。",
+      "content": "Absolutely."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:21:32",
+      "origin": "どんな方であっても、別れは辛く覚悟が入ります。",
+      "content": "No matter who it is, breaking up is painful and requires resolve."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:22:05",
+      "origin": "今後の人生、夢を掴むのも覚悟が入ります。",
+      "content": "It also takes resolve to pursue your future and your dreams."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:22:32",
+      "origin": "今、どう感じますか？",
+      "content": "How are you feeling now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:23:01",
+      "origin": "とても不安です",
+      "content": "I feel very anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:23:32",
+      "origin": "そうですよね、みんなそうです。自信満々で生きている人は少ないですよ。",
+      "content": "That's understandable. Everyone feels that way. Few people live their lives full of confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:23:41",
+      "origin": "私もそうです。",
+      "content": "I’m the same."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:23:56",
+      "origin": "みんな一緒ですよ。",
+      "content": "We’re all in this together."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:24:35",
+      "origin": "周りの心配してくれる人を頼りにしながら少し勇気を出してみませんか？",
+      "content": "Why don't you try to find a little courage by relying on the people around you who care?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:25:10",
+      "origin": "一番大事にできるのは、自分自身でもあります。",
+      "content": "The person who can cherish you the most is also yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:25:36",
+      "origin": "自分を粗末に扱わないでください、私からのお願いです。",
+      "content": "Please don’t treat yourself poorly—that is my heartfelt request."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:27:08",
+      "origin": "相談者様の、命、人生、楽しみ、豊かさたくさんのものを大切に生きてほしいと私は思います。",
+      "content": "I sincerely hope you will live a life that treasures your own life, future, joy, and wellbeing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:27:25",
+      "origin": "いかがでしょうか？",
+      "content": "How does that feel?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:29:55",
+      "origin": "時間が、少なくなってしまいました。この内容は記録されていますので、いつでも続きから相談できます。またぜひお話を聞かせてください。今は、彼氏さんと少し距離を置くところから始めるのもいいかもしれません。",
+      "content": "Our time is running short. This conversation is recorded, so you can continue from where we left off anytime. Please feel free to talk to me again. For now, it might be a good idea to start by putting a little distance between you and your boyfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:31:16",
+      "origin": "でも、何かあったら先ずは警察に相談してください。",
+      "content": "But if anything happens, please contact the police first."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:32:00",
+      "origin": "（ありがとうございました。終了メッセージをお願いします）",
+      "content": "(Thank you very much. Please give the closing message.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:32:21",
+      "origin": "（ありがとうございました）",
+      "content": "(Thank you very much.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:35:33",
+      "origin": "（「ロールプレイを終了する」をクリックしてくださいね）",
+      "content": "(Please click \"End Role-Play.\")"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼氏との暴力やコミュニケーションの課題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5585,
+    "evaluation_created_at": "2023-08-10T21:08:00",
+    "client_id": 376,
+    "counselor_id": 347,
+    "score": 18,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

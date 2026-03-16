@@ -1,0 +1,885 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:27:19",
+      "origin": "こんにちは。相談員です。",
+      "content": "Hello. I'm the counselor."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:27:30",
+      "origin": "よろしくお願いします。",
+      "content": "Pleased to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:28:03",
+      "origin": "こちらこそ、よろしくお願いいたします。",
+      "content": "Likewise, pleased to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:28:17",
+      "origin": "はじめに、ご年齢と、性別、ご相談の中で、なんとお呼びしたらよいかをお伺いしてもよろしいでしょうか？",
+      "content": "To begin, may I ask your age, gender, and what you would like me to call you during our session?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:28:59",
+      "origin": "れいか、20代、女です。よろしくお願いします。",
+      "content": "Reika, in my 20s, female. Nice to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:29:42",
+      "origin": "れいかさんですね。お教えてくださって、ありがとうございます。",
+      "content": "Reika, I see. Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:29:55",
+      "origin": "今日はどんなご相談ですか？",
+      "content": "What brings you here today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:31:01",
+      "origin": "縁を切りたい友達があって、でもそうすると、やっと出来た友達グループとも切れちゃうので、悩んでいます。",
+      "content": "There's a friend I want to cut ties with, but if I do, I'll also lose the group of friends I finally made, so I'm struggling with what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:31:35",
+      "origin": "それはお困りですね",
+      "content": "That sounds like a difficult situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:32:39",
+      "origin": "それはどんなお仲間なのですか？",
+      "content": "Could you tell me more about this group?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:33:56",
+      "origin": "SNSのチャットで繋がった友達グループです。",
+      "content": "It's a friend group connected through chat on social media."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:34:06",
+      "origin": "カラオケにも行きます。",
+      "content": "We also go to karaoke."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:34:39",
+      "origin": "そうなんですね。皆さんと出かけて楽しんだりするお仲間なのでしょうか？",
+      "content": "I see. So it's a group of friends you go out and have fun with?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:35:01",
+      "origin": "カラオケにも行きます",
+      "content": "We go to karaoke."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:35:52",
+      "origin": "小学校の時から家事を任されていて忙しくて友達を作れませんでした。",
+      "content": "Since I was in elementary school, I've been in charge of the housework, so I was too busy to make friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:35:52",
+      "origin": "楽しそうですが、そのお仲間の中に、縁を切りたいと思う方がいるのですね",
+      "content": "It sounds fun, yet there's someone in that group you're thinking of cutting ties with."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:36:15",
+      "origin": "愚痴ばかり吐くので凄く嫌なんです。",
+      "content": "They're always venting and complaining, and I really dislike it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:37:10",
+      "origin": "そうだったんですねお友達になれた時は、うれしかったのに、今はそう感じてしまうのですね",
+      "content": "I see. So even though you were happy when you first became friends, this is how you feel now."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:37:18",
+      "origin": "他の人みたいに適当に慰めたり出来なくて。",
+      "content": "I can't just casually comfort them like other people do."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:38:05",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:38:28",
+      "origin": "その人は最近同棲する事になって、それで時間が無くなったとか、忙しいとか、大変だとか、",
+      "content": "That person recently started living with their partner, and now it's all, \"I don't have time,\" \"I'm busy,\" \"it's so hard,\" and so on."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:38:48",
+      "origin": "はい",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:39:32",
+      "origin": "前はみんなで楽しい話してたのに、1人だけぐちぐちと、",
+      "content": "We used to have fun conversations, but now it's just this one person grumbling on and on."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:40:20",
+      "origin": "不幸の自慢くらべは最低だと思うから、もう、縁を切りたいな、この人！て思います。",
+      "content": "I think competing over who has it worse is the lowest of the low, so I just think, \"I want to cut ties with this person!\""
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:40:49",
+      "origin": "そうですよね楽しい話ならいいけど、ぐちは聞いているのも嫌になってしまいますよね",
+      "content": "I agree. Fun conversations are great, but it can be draining to listen to complaints, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:40:57",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:41:29",
+      "origin": "れいかさんだって、",
+      "content": "Reika, you too,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:42:50",
+      "origin": "おうちのことでも、大変なこともあったでしょうに、楽しくふるまっておられることもありますよね。",
+      "content": "I imagine you've had your own difficulties with things at home, yet you still try to act cheerful, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:43:35",
+      "origin": "今も祖母の介護に実家に通っているし、家事も全部やっています。",
+      "content": "Even now, I go to my family home to care for my grandmother, and I do all the housework."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:44:32",
+      "origin": "でも、そんな事は言いません。",
+      "content": "But I don't talk about things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:44:47",
+      "origin": "そうだったんですね。おうちのこと、しっかりと向き合ってられるんですね。それでも、",
+      "content": "I see. You're facing your family responsibilities head-on. And yet,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:45:28",
+      "origin": "ぐちなんかこぼさずに、一生懸命されていて、頭が下がります。",
+      "content": "you work so hard without complaining. I truly admire that."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:45:56",
+      "origin": "独り言は言いますけど",
+      "content": "I do mutter to myself, though."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:46:36",
+      "origin": "やる事が条件で一人暮らしができたし。",
+      "content": "And I was only able to live alone on the condition that I'd do all that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:46:37",
+      "origin": "それくらい、時には、言っちゃうことあっても、頑張ってるんですもの",
+      "content": "It's only natural to let something slip sometimes, especially when you're working so hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:46:51",
+      "origin": "そうなんですね！",
+      "content": "I see!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:47:33",
+      "origin": "ご家族のご理解や",
+      "content": "Your family's understanding"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:47:50",
+      "origin": "協力もあるのですね",
+      "content": "and cooperation are there as well, I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:48:56",
+      "origin": "母は私が小学校の時に、突然家事をやらなくなって、それで私がやってきました。",
+      "content": "When I was in elementary school, my mother suddenly stopped doing the housework, so I've been doing it ever since."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:49:13",
+      "origin": "だから友達を作る時間は無かったんです。",
+      "content": "That's why I never had time to make friends."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:49:47",
+      "origin": "祖母が育ててくれたから、祖母の面倒を見るのは当たり前だと言われます。",
+      "content": "I'm told that since my grandmother raised me, it's only natural for me to take care of her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:49:47",
+      "origin": "それは、さぞ、大変で、さみしい思いもされましたね",
+      "content": "That must have been so difficult, and you must have felt lonely as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:50:19",
+      "origin": "大変でした",
+      "content": "It was very hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:51:00",
+      "origin": "どなたからそう言われるのですか？",
+      "content": "Who tells you that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:51:22",
+      "origin": "母親",
+      "content": "My mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:51:34",
+      "origin": "そんな・・・",
+      "content": "Oh, my..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:51:54",
+      "origin": "お母さまは",
+      "content": "Your mother..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:52:14",
+      "origin": "私もあたりまえかなと思います。",
+      "content": "I also think it's natural, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:53:12",
+      "origin": "お母さまが家事をやれなくなったから、自分が協力しなきゃと受け止められたのですね",
+      "content": "Since your mother could no longer do the housework, you felt you had to step up and help, didn't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:53:26",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:53:58",
+      "origin": "協力じゃなく全部",
+      "content": "Not help, I did everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:54:18",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:54:55",
+      "origin": "全部！？！！！",
+      "content": "Everything?!?!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:55:30",
+      "origin": "れいかさんはお勤めされているのですか？",
+      "content": "Are you employed, Reika?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:55:52",
+      "origin": "していません",
+      "content": "No, I'm not."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:56:32",
+      "origin": "普段はおひとり暮らしで、どうされているのですか？ご自分のこともおありでしょうに！",
+      "content": "You usually live alone—how do you manage? You must have your own things to take care of, too!"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:56:32",
+      "origin": "祖母が認知症になったので",
+      "content": "My grandmother developed dementia, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:57:07",
+      "origin": "それは、本当に大変ですよね",
+      "content": "That must be incredibly difficult."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:57:19",
+      "origin": "実家のことをやって、自分の部屋に戻ります。そしてチャット(^^)",
+      "content": "I take care of things at my family's house, then go back to my own apartment. And then I chat online (^^)."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:57:44",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:58:12",
+      "origin": "ご実家で家事や介護をされて、しんどい中にも",
+      "content": "So you do the housework and caregiving at your family home, and even though it’s tough,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:59:00",
+      "origin": "ひとりになると、チャットで楽しまれているのですね",
+      "content": "when you get to be alone, you enjoy yourself by chatting online."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:59:53",
+      "origin": "たまに近めの人とはカラオケも出来て楽しいです。",
+      "content": "Sometimes I can go to karaoke with people who live nearby, and it’s fun."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:00:18",
+      "origin": "はじめてのグループ",
+      "content": "It's my first group."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:00:24",
+      "origin": "はい",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:00:59",
+      "origin": "友達って楽しいなとわかりました。",
+      "content": "I’ve come to realize that having friends is fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:01:51",
+      "origin": "それはよかったですね。楽しい時間を過ごせる友達っていいですよね",
+      "content": "That’s wonderful. Friends you can spend enjoyable time with are great, aren’t they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:03:20",
+      "origin": "どうせなら、友達とは、",
+      "content": "If possible, with friends,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:03:58",
+      "origin": "楽しく付き合っていく方がいいですよね。頑張る力にもなりますもんね",
+      "content": "it's better to have a fun relationship, isn't it? It can give you the strength to keep going."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:04:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:04:49",
+      "origin": "ここで少し、お話を整理させていただきますね",
+      "content": "Let me take a moment to summarize what we've discussed."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:04:55",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:06:26",
+      "origin": "れいかさんは、お母さんの代わりに、ご実家の家事や、おばあさまの介護に追われる日々",
+      "content": "So, Reika, you're busy every day doing the housework for your family and caring for your grandmother in your mother's place."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:06:38",
+      "origin": "そんな中でも、",
+      "content": "Even with all that,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:07:26",
+      "origin": "やっとつながれたお友達と、これからも楽しく付き合っていきたい",
+      "content": "you want to continue to have a fun relationship with the friends you finally made."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:08:04",
+      "origin": "ご実家のことを全部引き受けているのは、大変なことだけど、",
+      "content": "Taking on everything at your family home is a lot,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:08:28",
+      "origin": "ご自分のすべきことにしっかり向き合っておられると思います",
+      "content": "but I believe you are facing your responsibilities head-on."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:09:00",
+      "origin": "小さいころから、お友達と遊びたかったけど、",
+      "content": "Since you were little, you wanted to play with friends,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:09:24",
+      "origin": "なかなか叶えられなかったのですよね？",
+      "content": "but that was something you couldn't really do, right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:09:33",
+      "origin": "はい",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:10:03",
+      "origin": "あなたは本当に頑張ってきました。",
+      "content": "You have worked so hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:11:00",
+      "origin": "同年代の子たちと一緒に遊びたかったですよね",
+      "content": "You wanted to hang out with other kids your age, didn't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:11:13",
+      "origin": "はい、楽しく",
+      "content": "Yes, I wanted to have fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:11:26",
+      "origin": "そうですよね",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:12:13",
+      "origin": "だからこそ、これからの仲間との付き合いを楽しいものにしていきたい",
+      "content": "And that's precisely why you want your relationships with your friends from now on to be enjoyable."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:13:08",
+      "origin": "空気を乱さず、仲良くしたいと思っておられるように思いますが",
+      "content": "It seems to me that you want to get along well without disrupting the harmony of the group,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:13:17",
+      "origin": "いかがですか？",
+      "content": "is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:14:51",
+      "origin": "その空気をひどく乱している人とだけ、縁を切りたいと思うが、どうしたら良いのかと悩んでいます。",
+      "content": "I want to cut ties only with the person who is severely disrupting that harmony, but I'm struggling with how to do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:15:04",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:15:40",
+      "origin": "少しお話を聞かせてくださいね",
+      "content": "Let me ask you a few things, then."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:15:54",
+      "origin": "その方と",
+      "content": "About that person..."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:16:04",
+      "origin": "楽しそうですが、そのお仲間の中に、縁を切りたいと思う方がいるのですねって、言ってくれましたよね？",
+      "content": "You said earlier, \"It sounds fun, yet there’s someone in that group you’re thinking of cutting ties with,\" right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:16:29",
+      "origin": "はい",
+      "content": "Yes, I did."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:17:04",
+      "origin": "このことは、",
+      "content": "Regarding this,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:17:40",
+      "origin": "お仲間の中に、共有している方はいらっしゃいますか？",
+      "content": "have you shared this with anyone else in the group?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:17:47",
+      "origin": "いません",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:18:11",
+      "origin": "そうなんですね。少し質問をさせてくださいね",
+      "content": "I see. May I ask a few questions?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:19:30",
+      "origin": "その方のぐちは、れいかさんだけに向けられてくるものなのでしょうか？",
+      "content": "Are that person's complaints directed only at you, Reika?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:19:46",
+      "origin": "グループチャットの中です",
+      "content": "It's in the group chat."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:20:53",
+      "origin": "そうなんですね。ぐちが出た時には、どんな方が答えているのでしょうか？",
+      "content": "I see. When the complaints come up, who tends to respond?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:21:14",
+      "origin": "ほかのメンバーです",
+      "content": "The other members."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:21:43",
+      "origin": "そうなんですね。れいかさんは、その時どうされているのですか？",
+      "content": "I see. And what do you do at those times, Reika?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:22:24",
+      "origin": "防寒ですが、それでは雰囲気が悪くなるかなぁと思います",
+      "content": "I just stay silent, but I worry that makes the atmosphere worse."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:22:33",
+      "origin": "でも、共感できなくて",
+      "content": "But I can't empathize."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:22:47",
+      "origin": "私、がおかしいですか？",
+      "content": "Is there something wrong with me?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:23:00",
+      "origin": "傍観の間違い",
+      "content": "That was a typo. I meant 'observing'."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:23:21",
+      "origin": "そんなことはないと思いますよ（大丈夫ですよ）",
+      "content": "I don't think there's anything wrong with you at all. It's okay."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:23:56",
+      "origin": "どうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:24:49",
+      "origin": "本当に、たのしくしたいですよね！一緒に考えていきましょうね",
+      "content": "You really want to keep things enjoyable, don’t you? Let’s think it through together."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:25:01",
+      "origin": "はいよろしくお願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:25:44",
+      "origin": "ぐちは、何もみんなの前で発信することはないって思いますよね。",
+      "content": "You feel that there's no need to air complaints in front of everyone, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:25:52",
+      "origin": "それに",
+      "content": "And what's more,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:26:17",
+      "origin": "なぐさめたりするのも、どうかと思ってしまう。",
+      "content": "you feel hesitant about offering comfort."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:27:10",
+      "origin": "なんだか、同調する気にもなれないですよね。",
+      "content": "Somehow, you just can't bring yourself to agree with them, can you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:27:20",
+      "origin": "そんなもん大変じゃ無いでしょって思います。",
+      "content": "I feel like, 'That’s not even that hard, is it?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:28:26",
+      "origin": "そうですよね！私は、もっと大変でも頑張っている人がここにいるのに！！って思います。",
+      "content": "Exactly! I'm sure you think, 'But there's someone right here who is working hard through much more difficult things!!'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:28:42",
+      "origin": "れいかさんは",
+      "content": "Reika,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:30:21",
+      "origin": "ご家族やお友達を大切にされてきた中で、お友達の大切さ、ありがたさを知っているからこそ、そう思われるのだと思います。",
+      "content": "I believe you feel this way precisely because you've always cherished your family and friends, and you know how precious and important friends are."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:31:13",
+      "origin": "そんな周りのことに心配りができるあなたに、お伝えしたいことがあります。",
+      "content": "There’s something I’d like to share with you, since you’re someone who is so considerate of those around you."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:31:21",
+      "origin": "はい",
+      "content": "Yes?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:31:51",
+      "origin": "お伝えしたいところではありますが、、、、",
+      "content": "I would like to tell you, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:32:26",
+      "origin": "お時間のご都合もありますが、",
+      "content": "we are running out of time,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:33:47",
+      "origin": "いったん、ここで、一区切りとさせていただいて、次回にまた、続きをお願いしたいと存じます。",
+      "content": "so I’d like to pause here for today and ask if we can continue next time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:34:02",
+      "origin": "このお話は",
+      "content": "This discussion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:34:30",
+      "origin": "担当が変わりましても、継続してご相談いただくことができます。",
+      "content": "can be continued even if you have a different counselor next time."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:34:43",
+      "origin": "今日はここで、お終いになるんですか？(shocked)",
+      "content": "So, we're stopping here for today? (shocked)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:36:46",
+      "origin": "中途で申し訳ございません。",
+      "content": "I am very sorry to stop in the middle."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:36:55",
+      "origin": "わかりました",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:37:19",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:37:59",
+      "origin": "人とのつながりを大切にされるれいかさん、きっと、楽しいつながりを続けていかれることをお祈りしております。",
+      "content": "Reika, you value your connections with people, and I truly hope you can continue to have fun and meaningful connections."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:38:39",
+      "origin": "お越しくださって、ありがとうございました。またのお越しをお待ちしております。",
+      "content": "Thank you for coming in today. We look forward to seeing you again."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:38:56",
+      "origin": "さようなら",
+      "content": "Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:39:29",
+      "origin": "それでは、失礼いたします。",
+      "content": "Goodbye for now, then."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:39:46",
+      "origin": "（お疲れ様でした）",
+      "content": "(Thank you for the session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:39:48",
+      "origin": "、時間切れで、失礼いたしました。",
+      "content": "I apologize for cutting it short due to time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:40:03",
+      "origin": "すみませんでした",
+      "content": "I'm sorry."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:40:29",
+      "origin": "（また、よろしくお願いします）",
+      "content": "(I look forward to our next session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:40:40",
+      "origin": "大変勉強になりました。ありがとうございました。",
+      "content": "This was a great learning experience. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:41:06",
+      "origin": "こちらこそよろしくお願いいたします。",
+      "content": "The pleasure was all mine."
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:41:15",
+      "origin": "（終了して下さい）",
+      "content": "(Please end the session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:41:23",
+      "origin": "それでは、失礼いたしますね",
+      "content": "Well then, goodbye."
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "友達との付き合い方の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 693,
+    "evaluation_created_at": "2020-11-13T15:01:00",
+    "client_id": 106,
+    "counselor_id": 108,
+    "score": 47,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

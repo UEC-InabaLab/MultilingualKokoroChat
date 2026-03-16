@@ -1,0 +1,501 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-18T14:51:05",
+      "origin": "（こんにちは。お時間になりましたら始めさせていただきます。本日は、どうぞよろしくお願いいたします。）",
+      "content": "(Hello. We will begin at the scheduled time. I look forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T14:51:21",
+      "origin": "こちらこそ、よろしくお願いします",
+      "content": "Thank you, I look forward to working with you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:00:05",
+      "origin": "こんにちは、相談員です。本日はご相談に来て下さり、ありがとうございます。",
+      "content": "Hello, I’m the counselor. Thank you for coming in today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:00:15",
+      "origin": "はじめに、年齢、性別、本日の相談内容を教えて下さい。",
+      "content": "To start, could you please tell me your age, gender, and what you’d like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:01:00",
+      "origin": "55歳、男です。仕事に行くのが辛いです。",
+      "content": "I'm 55 years old, and male. It's painful for me to go to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:01:48",
+      "origin": "そうなのですね。毎日しんどいですよね。そのように感じるようになったのはいつ頃からですか？",
+      "content": "I see. That must be difficult every day. When did you start feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:02:43",
+      "origin": "昨年の10月頃からです",
+      "content": "It started around October of last year."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:03:18",
+      "origin": "半年以上、苦しまれてきたのですね。お仕事に行くのが辛く感じるようになったのは、どんなきっかけがあったのでしょうか？",
+      "content": "So you’ve been struggling for over half a year. Was there any particular trigger that made going to work feel so difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:04:25",
+      "origin": "課長が変わってから求められる事が難しくて、できないことが多くなってからです",
+      "content": "It was after my manager changed; the expectations became harder, and there are more things I can’t do."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:05:19",
+      "origin": "求められることが難しくなり、苦労されているのですね。ご自身ができないことが多い、と思ってしまうと自己否定感で悩んでしまいますよね。",
+      "content": "The demands have gotten tougher, and you’ve been having a hard time. When you feel there’s so much you can’t do, it’s easy to struggle with self-doubt, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:05:34",
+      "origin": "変わった課長とは、あなたの直属の上司でしょうか？",
+      "content": "Is this new manager your direct supervisor?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:05:44",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:06:15",
+      "origin": "そうなのですね、それまでの課長と求められることがどのように変化したのでしょうか。",
+      "content": "I see. How did the expectations change compared to your previous manager?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:07:44",
+      "origin": "ITやデジタルのスキルを求められてついていけないです",
+      "content": "I'm expected to have IT and digital skills, but I can't keep up."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:09:27",
+      "origin": "なるほど、新しいスキルを求められているということなのですね。ITやデジタルはいきなり身につくものではないので、しんどくなってしまいますよね。「できないことが多い」というのはご自身で感じられているのでしょうか？どなたかがあなたに言ってこられたのでしょうか？",
+      "content": "I understand, so you’re being asked to learn new skills. IT and digital skills aren’t something you can acquire overnight, so it's understandable that it feels overwhelming. Is the feeling that there’s a lot you can’t do something you feel yourself, or has someone said that to you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:10:20",
+      "origin": "誰かにに言われたわけでは無いです",
+      "content": "No one has said it to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:10:50",
+      "origin": "ご自身でそのように感じて、ご負担に感じていらっしゃるのですね。",
+      "content": "So you feel that way yourself, and it’s weighing on you."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:11:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:11:47",
+      "origin": "ITやデジタルのスキルについて頼れる方は職場にいらっしゃいますか？昨年の１０月から、どのようにお仕事を進めてこられたのでしょうか？",
+      "content": "Is there anyone at work you can rely on for IT and digital skills? How have you been managing your work since last October?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:13:54",
+      "origin": "周りのわ会社員は抵抗なくやってますがなかなか聞きづらくて。営業する事は変わらないのですが、デジタルのことを知らないと仕事が進まないです。",
+      "content": "My colleagues seem to do it without any resistance, but it's hard for me to ask them. The sales part of my job hasn't changed, but I can't move forward with my work if I don't understand the digital aspects."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:14:17",
+      "origin": "周りの若い社員",
+      "content": "The younger employees around me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:15:09",
+      "origin": "そう、聞きづらくてあまり周りの若い社員には聞けていない状況なのですね。それはお仕事を進めづらくて困惑してしまいますよね。",
+      "content": "Right—so you find it hard to ask, and you haven’t really been able to ask your younger colleagues. That must make it confusing and difficult to move forward with your work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:15:28",
+      "origin": "どんな場面でデジタルを知らないと進まない、と感じているのでしょうか？",
+      "content": "In what kind of situations do you feel that you can't proceed without digital knowledge?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:15:58",
+      "origin": "デジタルの商材を売り込む時に必要です",
+      "content": "It's necessary when I'm pitching digital products."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:16:48",
+      "origin": "なるほど、売り込む時に商材をよく理解していないと営業しにくいですよね。きっと四苦八苦しながらも懸命にお仕事に取り組まれてきたのですね。",
+      "content": "I see. It's hard to sell a product if you don’t understand it well. It sounds like you’ve been working very hard and doing your best, despite the struggle."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:17:20",
+      "origin": "営業としてのキャリアには自信をお持ちなのかな、と感じたのですがいかがでしょうか？",
+      "content": "I get the sense that you’re confident in your sales career. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:18:57",
+      "origin": "そうですね。もう30年やってますから、それなりの実績も作ってきましたし、新しいことやらなくても今までのやり方でもやれると思ってるんです",
+      "content": "That's right. I've been doing this for 30 years, so I've built up a decent track record. I believe I can still do my job with my existing methods without having to do new things."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:19:55",
+      "origin": "３０年・・・、それだけの実績と自信があれば、今までのやり方でもやれると思われるのは自然なことだと思います。",
+      "content": "Thirty years… With that level of experience and confidence, it’s only natural to feel that your established approach should still work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:20:48",
+      "origin": "若い社員の方に聞きづらい、と思うのは、それだけのキャリアをお持ちだからこそなのでしょうか？",
+      "content": "Do you think you find it difficult to ask younger employees for help precisely because you have such a long career?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:21:38",
+      "origin": "みんな忙しそうにしてるし、営業のノウハウはわたしが教えてきましたからね",
+      "content": "Everyone seems busy, and besides, I'm the one who taught them the ropes of sales."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:23:51",
+      "origin": "そう、あなたが育成してきた方々なのですね。先輩としての立場のあなたは聞きづらく思っているのですね。きっと若手社員の方たちはノウハウを教えてもらってきたあなたを敬愛していて、もしあなたがデジタルの面で頼りにしたら喜んで力になってくれるのではないか、と思ったのですが、いかがでしょうか？",
+      "content": "I see, so these are people you've trained. As their senior, you find it difficult to ask. I imagine that your junior employees respect you for the know-how you've taught them, and if you were to rely on them for digital matters, they would be happy to help. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:25:05",
+      "origin": "どうでしょうか？若い社員に教えてくれとは言えないですね",
+      "content": "I'm not so sure. I just can't bring myself to ask a younger employee to teach me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:25:50",
+      "origin": "そうなのですね。課長にはあなたの悩みを相談したことはありますか？",
+      "content": "I understand. Have you talked with your manager about these concerns?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:27:22",
+      "origin": "課長は年下のくせに生意気でもっと努力して下さいって言われて、とてもじゃないけど相談できる感じではないです。",
+      "content": "The manager is younger than me and arrogant. He just tells me to \"try harder,\" so he's not someone I feel I can talk to at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:28:20",
+      "origin": "課長には怒りや不信感をお持ちで相談する気にはなれないのですね。",
+      "content": "So you feel anger and distrust toward your manager and don’t feel inclined to consult him."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:29:03",
+      "origin": "今まで、課長にも相談できず、若い社員にも頼れず、孤独感でも苦しまれてきましたよね。",
+      "content": "So all this time, you haven't been able to talk to your manager or rely on your younger colleagues. You must have been suffering from a sense of isolation as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:29:51",
+      "origin": "同僚の中で、少しでも話しやすい人、頼れる方はいらっしゃいますか？",
+      "content": "Among your colleagues, is there anyone you find even a little easier to talk to or lean on?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:30:10",
+      "origin": "いないですね",
+      "content": "No, there isn't."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:30:54",
+      "origin": "それは、心もとなかったですよね。あなたが３０年の営業のお仕事の実績の中で特に自信をもてていることはどんなことでしょうか？",
+      "content": "That must have felt unsettling. In your 30 years of sales experience, what are you most confident about?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:31:38",
+      "origin": "お得意さまとの関係づくりは若いものには負けません",
+      "content": "When it comes to building relationships with key clients, I won’t be outdone by the younger ones."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:32:07",
+      "origin": "なるほど、それはまさに、あなたにしかできないことなんですね。",
+      "content": "I see. That’s truly something only you can do."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:32:56",
+      "origin": "あなたはそれだけの営業としての強みをもっていらっしゃる、それだけで会社としてはかなりの戦力、中核を担う人材なのだと思います。",
+      "content": "You have such a great strength as a salesperson. With that alone, I believe you’re a significant asset to the company and a core member of the team."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:33:32",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:33:57",
+      "origin": "これまで、昨年１０月以降、ITやデジタルについてご自身で何か勉強されたり、というのは試されたのでしょうか？",
+      "content": "Since last October, have you tried studying IT or digital topics on your own?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:34:06",
+      "origin": "そう言って下さると救われる気持ちになります",
+      "content": "It's a relief to hear you say that."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:35:24",
+      "origin": "ITパスポートという資格を会社から取得する様に言われてるんですが、なかなか合格できないんです",
+      "content": "The company told me to get a certification called the “IT Passport,” but I just can’t seem to pass."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:36:23",
+      "origin": "お得意様との関係づくりは人間にしかできない一番大事なポイントだと思います。苦手意識を持ちながらも、ITパスポートの勉強にチャレンジされてきたのですね。",
+      "content": "I believe building relationships with clients is the most important part of the job, and it's something only humans can do. Despite knowing it’s not your strength, you’ve been challenging yourself to study for the IT Passport."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:36:49",
+      "origin": "その努力はとても尊いものだと思います。",
+      "content": "I think that effort is truly admirable."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:37:48",
+      "origin": "とはいえ、なかなか合格できないと、やるせないお気持ちになってしまいますよね。",
+      "content": "That said, when you can't seem to pass, it's natural to feel disheartened, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:37:58",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:39:40",
+      "origin": "ITパスポートは会社に取るように言われているかもしれませんが、あなたにしかできない重要な任務を全うし続けているのだと、お話をきいて思いました。もっとあなたにしかできない強みにフォーカスしてもいいのではないかと思ったのですが、いかがでしょうか？",
+      "content": "While the company may be asking you to get the IT Passport, listening to you, I feel that you’re continuing to fulfill critical responsibilities that only you can handle. I wonder if it might be okay to focus more on your unique strengths. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:41:21",
+      "origin": "はい、そうなんですが、資格を取らないと課長からの評価も下がるし、やらないといけないとは思ってるんですが、結果が出せないので、しんどいです。",
+      "content": "Yes, that's true, but if I don’t get the certification, my evaluation from my manager will drop. I know I have to do it, but I can't get the results, and it's exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:41:59",
+      "origin": "なるほど、資格を取らないとそういった影響があるからこそ、悩まれているのですね。",
+      "content": "I see. So it’s precisely because not getting the certification has those consequences that you’re struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:42:47",
+      "origin": "私からすると、お得意様との関係づくりは試験でははかれないもので、もっと重要なものだと思いますが・・・",
+      "content": "From my perspective, building relationships with key clients is something that can't be measured by an exam, and I believe it's far more important..."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:44:19",
+      "origin": "それは大事な事だと思ってます。でもそれだけではもう通用しない時代何だとも分かっているんですが。",
+      "content": "I agree that it’s important. But I also understand that we’re in an era where that alone is no longer enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:45:26",
+      "origin": "そのように感じられているのですね。そう考えると仕事に行くのが辛くなってしまいますよね。今あなたの一番の希望は、試験に合格することでしょうか？それとも日々のお仕事での苦痛を少しでも減らすことでしょうか？",
+      "content": "So that's how you feel. Thinking that way must make it difficult to go to work. Right now, is your main priority passing the exam, or is it to lessen the day-to-day distress at work, even just a little?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:46:54",
+      "origin": "今までのように自分のペースで仕事できればいいと思ってます。資格は取れればいいですが、それが全てだとも思ってないです",
+      "content": "I wish I could just work at my own pace like before. It would be nice to get the certification, but I don't think it's everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:47:27",
+      "origin": "明確に、ご自身のプライオリティを自覚されているのですね。",
+      "content": "You’re clearly aware of your own priorities."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:47:52",
+      "origin": "どうなれば、ご自身のペースで仕事ができると思いますか？",
+      "content": "What do you think needs to happen for you to be able to work at your own pace?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:48:36",
+      "origin": "課長がうるさいこと言わず見守ってくれればいいんですけどね",
+      "content": "It would be great if my manager would stop nitpicking and just trust me to do my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:49:45",
+      "origin": "なるほど、課長が口うるさく、気になってしまうのですね。上司がうるさいことを言ってくるのは非常に不快ですよね。",
+      "content": "I see, so your manager is nagging you, and it's really bothering you. It's very unpleasant when a supervisor nags."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:50:25",
+      "origin": "うるさいことを言われた時、どんな思考がよぎりますか？",
+      "content": "When he nags you, what thoughts go through your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:51:12",
+      "origin": "あなたの実績を作るために仕事してるわけではないと考えてます",
+      "content": "I think to myself, \"I’m not working just to build your track record.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:52:01",
+      "origin": "なるほど、そうですよね。課長は自分の評価をあげるために、部下に口うるさく言ってくるのですね。それは腹が立ちますよね",
+      "content": "I see, that makes sense. So the manager nags his subordinates to improve his own evaluation. That must be infuriating."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:53:19",
+      "origin": "あなたはあなたにしかできない、お得意様との関係づくり、という強力な強みをもっていらっしゃる。それはゆるぎない確固たるものだと思います。うるさいことを言ってきたときどう対処していますか？",
+      "content": "You possess a powerful strength that only you have: building relationships with your key clients. I believe that is a solid, unshakable asset. How do you deal with it when he nags you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:53:46",
+      "origin": "聞いたフリだけしてます",
+      "content": "I just pretend to listen."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:54:59",
+      "origin": "それはとてもスマートな対処法ですね。部下の成長のためでなく自分の利益のために動くような上司には、「はい、気を付けます」と言うだけであとは放っておけばいいと私は思いますが、いかがでしょうか？",
+      "content": "That’s a very smart way to handle it. With a boss who acts for his own benefit rather than for his subordinates' growth, I think it’s fine to simply say, \"Yes, I’ll keep that in mind,\" and otherwise let it go. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:55:20",
+      "origin": "そう思います",
+      "content": "I agree."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:56:46",
+      "origin": "あなたは感情的にならずにそのような上司にも冷静に対処できる自己コントロール力をお持ちだと思います。なので、ご自身のやってきたこと、強みにフォーカスして、あなたのペースで仕事をしていけると思います。",
+      "content": "I believe you have the self-control to deal with such a supervisor calmly without getting emotional. Therefore, I think you can focus on what you've accomplished and on your strengths, and continue to work at your own pace."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:57:21",
+      "origin": "ここまで色々お話を聴いてきましたが、申し訳ございません。そろそろお時間が近づいてきました。ここまで、お話をしてみていかがでしたか？",
+      "content": "I've been listening to you, but I'm afraid our time is almost up. How do you feel after talking about all of this today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T15:58:51",
+      "origin": "私のやってきたことを分かってくれて気持ちとして救われましたし、やってきたことは間違いがなかったと自信にもなりました。でもこれからどうすればいいかまだ整理ができてません。",
+      "content": "It was a relief to feel understood, and it gave me confidence that what I’ve been doing wasn’t wrong. However, I still haven’t sorted out what to do from here."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:59:28",
+      "origin": "そうですよね。ご自身のペースを保っていくのに、簡単に実践できる方法として、ゆっくり呼吸するのを意識する時間を作ることはおすすめです。",
+      "content": "I understand. As a simple practice you can do to help maintain your own pace, I recommend making time to consciously breathe slowly."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T15:59:46",
+      "origin": "今日はお時間になってしまいますが、どうかお一人で辛いお気持ちをお抱えにならず、またご相談に来ていただけたらと思います。",
+      "content": "We’re out of time for today, but please don’t carry these difficult feelings alone. I hope you'll come back to talk again."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T16:00:15",
+      "origin": "今日は話を聞いてくださりありがとうございました。",
+      "content": "Thank you for listening to me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T16:00:24",
+      "origin": "また、是非いらしてくださいね。今日はご相談に来てくださってありがとうございました。",
+      "content": "Please do come again. Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-18T16:00:36",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-18T16:00:44",
+      "origin": "（本日はありがとうございました。このあと終了の合図をいたします。）",
+      "content": "(Thank you for your time today. I will now signal the end of the session.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "新しい上司に対する不信感とコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 6882,
+    "evaluation_created_at": "2024-05-18T16:26:00",
+    "client_id": 431,
+    "counselor_id": 500,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

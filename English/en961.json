@@ -1,0 +1,867 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-18T12:00:19",
+      "origin": "こんにちは。よろしくお願いいたします。",
+      "content": "Hello. Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:02:26",
+      "origin": "本日クライエント役をさせていただきます。",
+      "content": "I will be playing the role of the client today."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:06:19",
+      "origin": "ロールプレイのご準備はいかかでしょうか？",
+      "content": "Are you ready to begin the role-play?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:10:04",
+      "origin": "大変遅くなってしまい申し訳ありません！PCエラーが発生してしまいました。。",
+      "content": "I sincerely apologize for the delay; my computer encountered an error."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:10:35",
+      "origin": "本当に申し訳ありません、もしよろしければ、これから開始させていただくことは可能でしょうか？",
+      "content": "I am truly sorry. If it's alright with you, would it be possible to start now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:10:36",
+      "origin": "お疲れ様です",
+      "content": "It's alright."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:10:40",
+      "origin": "大丈夫です",
+      "content": "That's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:11:12",
+      "origin": "ありがとうございます。改めまして、カウンセラー役の者です。よろしくお願いします。それでは始めさせて頂きます。",
+      "content": "Thank you. To reintroduce myself, I am playing the role of the counselor. I look forward to working with you. Shall we begin?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:11:19",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:11:21",
+      "origin": "こんにちは 相談員です。よろしくお願いします。",
+      "content": "Hello, I'm your counselor. It's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:11:27",
+      "origin": "こんにちは。",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:12:10",
+      "origin": "ご相談頂くにあたって、性別、年齢、また今日はなんとお呼びすれば良いか、答えられる範囲で教えていただいてもいいでしょうか？",
+      "content": "Before we begin, could you please tell me your gender, age, and how you would like me to address you today, to the extent that you're comfortable sharing?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:13:06",
+      "origin": "45歳　女性Aでお願いします",
+      "content": "I’m 45 and female. Please call me A."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:13:31",
+      "origin": "Aさん、ありがとうございます。よろしくお願いします。",
+      "content": "A, thank you. I look forward to working with you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:13:41",
+      "origin": "お願いします",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:15:25",
+      "origin": "はい、お願いします。今日はどういったご相談でしたか？",
+      "content": "Certainly. What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:16:16",
+      "origin": "二人目の子どもをどうするべきか、悩んでいます",
+      "content": "I’m struggling with whether we should have a second child."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:17:13",
+      "origin": "そうなのですね…。どんなことがおありだったのか、具体的に聞かせて頂いてもよろしいでしょうか？",
+      "content": "I see. Could you share a bit more specifically about what has been going on?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:18:43",
+      "origin": "いま話せる範囲で構いませんよ。",
+      "content": "You only need to share what you're comfortable with right now."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:19:08",
+      "origin": "一人目の子供が幼稚園に入ったのですが、きょうだいはいたほうがいいのかなと考えています",
+      "content": "My first child just started kindergarten, and I've been thinking that it might be better for them to have a sibling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:20:31",
+      "origin": "そうだったのですね…お子様が成長されるのをみている中で、ご兄弟がいたほうがいいのかな、と考えていらっしゃる…",
+      "content": "I see... So as you watch your child grow, you've started to think that maybe it would be good for them to have a sibling..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:20:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:21:14",
+      "origin": "年齢的にもギリギリかなと思って、少しあせっています",
+      "content": "I also feel like I'm running out of time because of my age, so I'm a bit anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:22:33",
+      "origin": "そうなんですね…教えてくれてありがとうございます。焦りを感じてしまうと困ってしまいますよね…。",
+      "content": "I see... Thank you for sharing that. It must be difficult feeling that sense of urgency..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:23:18",
+      "origin": "はい　自分にとっては大きな問題なので悩みます",
+      "content": "Yes. It's a big issue for me, so I'm really struggling with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:24:02",
+      "origin": "そうですよね…是非とも、少しでもお力になりたいと思っています。どうすればいいか、一緒に考えてさせてください。",
+      "content": "Of course... I really want to help in any way I can. Please let me help you think through what to do."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:24:16",
+      "origin": "お願いします",
+      "content": "I would appreciate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:24:45",
+      "origin": "何点か質問させて頂きたく思います。",
+      "content": "I'd like to ask you a few questions."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:25:14",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:25:24",
+      "origin": "ありがとうございます。選択肢としては…今Aさんの中で、どういったものを考えていらっしゃいますか？",
+      "content": "Thank you. In terms of options, what possibilities are you currently considering?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:27:20",
+      "origin": "二人目をつくるか、一人っ子のままか。",
+      "content": "Either having a second child or keeping it to one."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:27:38",
+      "origin": "どちらかですよね・・・",
+      "content": "It's one or the other, isn't it..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:27:51",
+      "origin": "そうですよね…そこで葛藤してしまいますよね…。",
+      "content": "Right, and that’s where the inner conflict comes in."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:28:16",
+      "origin": "考えれば考えるほど、いろんなリスクやメリットが思い浮かんで…辛くなってしまいますよね",
+      "content": "The more you think about it, the more risks and benefits come to mind, and it can feel overwhelming."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:28:26",
+      "origin": "はい　その後の人生が全く違ってくるので悩みます",
+      "content": "Yes. It would lead to a completely different life, so I struggle with the decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:28:31",
+      "origin": "もしよろしければ、",
+      "content": "If you don't mind,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:29:05",
+      "origin": "お二人目のお子様をつくるか考えるようになったまでのこと、お話しできる範囲で教えていただくことは可能でしょうか？",
+      "content": "could you tell me, as much as you're comfortable, what led you to start thinking about having a second child?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:29:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:29:58",
+      "origin": "子供の将来を考えると、やっぱりきょうだいがいたほうが心強いだろうなと思います",
+      "content": "When I think about my child's future, I feel that having a sibling would be a great source of support for them."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:30:07",
+      "origin": "自分も3人きょうだいだったので。",
+      "content": "I also grew up as one of three siblings."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:30:15",
+      "origin": "そうだったのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:31:04",
+      "origin": "子供時代はきょうだいでよく遊びました　親が年をとっても3人いるからなんとかなるかなって思えますし・・・",
+      "content": "As children, we played together a lot. And now that our parents are getting older, I feel like we can manage because there are three of us..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:31:37",
+      "origin": "ひとりでさみしい思いをさせているんじゃないかと思います",
+      "content": "I worry that I might be making my child feel lonely by being an only child."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:32:12",
+      "origin": "そうですよね、大きな問題に一緒に取り組める…。Aさんにとって、きょうだいは頼りになる大切な存在なんですよね。",
+      "content": "Right—you can tackle big problems together. For you, siblings are a dependable and important presence."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:33:36",
+      "origin": "きょうだいの価値を強く知っているAさんだからこそ…一人で悩ませてしまうことがいかに辛いか、想像すると寂しい思いをさせてしまう気がして悩んでしまう…",
+      "content": "Because you know the value of siblings so well... the thought of your child having to face things alone, how difficult that must be, makes you worry that you're making them feel lonely..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:33:43",
+      "origin": "そういった感じでしょうか？",
+      "content": "Is that how it feels?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:33:50",
+      "origin": "はい　自分はきょうだいがいてよかったなと思っているのに、二人目をうむことを悩んでしまいます",
+      "content": "Yes. I'm glad I have siblings, and yet I'm hesitant about having a second child."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:34:07",
+      "origin": "なるほど…そうだったのですね。",
+      "content": "I see... I understand."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:34:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:35:34",
+      "origin": "少しずつ、悩みについて考えていきたいのですが…もう一つ質問させていただいても大丈夫でしょうか。",
+      "content": "I'd like to think about your concerns step by step... Is it okay if I ask one more question?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:36:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:37:22",
+      "origin": "ご年齢でお悩みなっていると思います。それは、どんな経緯で悩み始めたのだと思いますか…？",
+      "content": "You mentioned being concerned about your age. How did that become a concern for you...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:37:40",
+      "origin": "どなたかにリスクがある、と言われてしまったのでしょうか。",
+      "content": "Did someone mention that there might be risks?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:39:26",
+      "origin": "一般的に40代後半になるとさすがに出産はきついと思いますし、体力的に育児も大変だと思います。とくに誰かに言われたわけではないです。",
+      "content": "Generally speaking, having a baby in the late forties is quite tough, and caring for a child would be physically demanding. It’s not that anyone in particular told me that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:39:52",
+      "origin": "なるほど…そうだったのですね。",
+      "content": "I see... I understand."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:40:26",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:41:09",
+      "origin": "世の中には４０代やいわゆる「アラフィフ」で妊娠している女性もいるにはいますが、そうだとしても、",
+      "content": "There are women who get pregnant in their 40s or even around 50, but even so,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:41:39",
+      "origin": "ご自身の問題として考えると、不安になりますよね…。そう思うのも当然だと思います",
+      "content": "when you think of it as your own personal situation, it can be worrying... It's completely natural to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:42:21",
+      "origin": "覚悟がないと産めないような気がします",
+      "content": "I feel like I can't go through with it unless I'm fully committed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:42:46",
+      "origin": "なるほど…それでは、今のご自分には覚悟が足りないと感じていらっしゃる…？",
+      "content": "I see... So you feel that you lack that commitment right now...?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:43:33",
+      "origin": "迷ってる時点で覚悟できてないと思いますね・・・",
+      "content": "The fact that I'm hesitating means I'm not committed, I think..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:44:04",
+      "origin": "そう思われるのですね。迷えば迷うほど、自分には無理なのでは…と思えてくる感じでしょうか。",
+      "content": "That's how you feel. So the more you hesitate, the more you start to feel like you can't do it, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:44:37",
+      "origin": "ぜったい産みたいと思っているわけではないので、弱気になりますね。",
+      "content": "Since it's not like I absolutely want to have another child, I lose confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:45:17",
+      "origin": "そうなんですね。ご自身の体のこと、お子様の将来のこと、たくさんの葛藤の中考えていらっしゃいますものね",
+      "content": "I understand. You're thinking about your own body and your child's future, amidst so many conflicting feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:45:25",
+      "origin": "どうすればいいか、たくさん悩まれてきたんですよね",
+      "content": "You’ve been struggling with what to do for quite some time, haven't you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:46:22",
+      "origin": "はい　早く決めないと、と思います",
+      "content": "Yes. I feel I need to decide soon."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:46:39",
+      "origin": "もしかすると、たくさん悩まれている中で、いいことや悪いことが頭の中で渦巻き、時間的な制約も感じている中で",
+      "content": "Perhaps as you wrestle with this, the pros and cons are swirling in your mind, and with the sense of time pressure,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:46:53",
+      "origin": "整理がつかなくなっているのかもしれませんが…どう思われますか？",
+      "content": "it may feel hard to sort through everything. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:47:40",
+      "origin": "そうですね。整理がついていないです",
+      "content": "That's right. I haven't been able to sort it out."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:48:23",
+      "origin": "良かったら、自分に、Aさんと一緒に整理させてもらえないでしょうか",
+      "content": "If you’d like, would you allow me to help you sort through this together?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:48:50",
+      "origin": "はい　おねがいします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:49:01",
+      "origin": "ありがとうございます。それでは…",
+      "content": "Thank you. In that case..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:49:44",
+      "origin": "今、Aさんは二人目のお子様をつくることと、一人っ子のままにさせること、ここについてたくさんの葛藤がおありかと思います。",
+      "content": "Right now, I understand you have a lot of conflicting feelings about having a second child versus having just one."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:49:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:50:16",
+      "origin": "それぞれについて、きっと起こるいい事、そしてきっと起こる悪い事…整理したく思います。",
+      "content": "For each of those choices, I'd like us to sort out the good things that might happen and the bad things that might happen."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:50:25",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:50:38",
+      "origin": "まず「二人目をつくる」ことについて、Aさんの中で、どんないいことがあって、どんな悪いことがあるのか",
+      "content": "First, regarding 'having a second child,' in your mind, what are the good things and what are the bad things?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:50:56",
+      "origin": "考えると、いかがでしょうか…？",
+      "content": "What comes to mind when you think about it...?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:52:02",
+      "origin": "きょうだいができるのはいいことだと思います。理由は先ほどお伝えした通りですね。",
+      "content": "I think having a sibling is a good thing. The reasons are as I mentioned earlier."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:52:10",
+      "origin": "はい、そうでしたよね",
+      "content": "Right, that’s what you shared."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:52:25",
+      "origin": "悪いことは、出産も育児も大変なことは十分予想できます",
+      "content": "As for the downsides, I can easily foresee that both childbirth and childcare would be demanding."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:53:10",
+      "origin": "はい、ありがとうございます。この点は先ほどお話しいただいた通り、明確になっていますね",
+      "content": "Yes, thank you. As you mentioned earlier, this point is clear."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:53:26",
+      "origin": "それでは、二つ目の選択肢について…一人っ子のままでいさせることについて",
+      "content": "Now, for the second option... about remaining a one-child family."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:53:37",
+      "origin": "同じくいい事、悪い事、について考えると、いかがでしょうか？",
+      "content": "Similarly, what comes to mind regarding the good and bad points?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:54:13",
+      "origin": "今の子供は今年から幼稚園に入りましたから、育児も少し楽になってきました。",
+      "content": "My child started kindergarten this year, so child-rearing has gotten a little easier."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:54:24",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:55:05",
+      "origin": "でも一人っ子はきょうだいがいた場合に経験できるようなことを経験できないし、さみしい思いをさせてしまうこともあるように思います。",
+      "content": "But as an only child, they won’t have the experiences that come with having siblings, and I think there may be times they feel lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:55:33",
+      "origin": "そうですよね、ありがとうございます。",
+      "content": "I understand. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:56:01",
+      "origin": "どちらを選んでも、いいこと悪いことはありますもんね",
+      "content": "Either way, there are pros and cons."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:56:35",
+      "origin": "そうですね…けれど、きっとどれもAさんにとって大切な事ですよね。",
+      "content": "That’s true. And I'm sure all of these points are important to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:56:37",
+      "origin": "それでは、一人っ子のままの良い点は、育児が楽になってきた事、でよろしいですか？",
+      "content": "So, the good point of remaining a one-child family is that child-rearing has gotten easier, is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:57:16",
+      "origin": "そうです",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:57:54",
+      "origin": "ありがとうございます。改めて整理します。",
+      "content": "Thank you. Let me summarize."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:58:10",
+      "origin": "まず、「二人目をつくる」の選択について・良い点きょうだいができることに強い意味を感じる。・悪い点出産と育児がとても大変になることが十分に想像できる",
+      "content": "First, regarding the option of having a second child: Pros—you feel there is strong value in having siblings. Cons—you can clearly foresee that childbirth and childcare would be very challenging."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:58:27",
+      "origin": "そして、「一人っ子のままでいさせる」の選択について・良い点育児が楽になってきている・悪い点きょうだい、を経験させてあげられない。さみしさもある",
+      "content": "And for the option of remaining a one-child family: Pros—child-rearing is getting easier. Cons—you wouldn't be able to give them the experience of having siblings, and there's also loneliness."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:58:58",
+      "origin": "ありがとうございます　そのとおりです",
+      "content": "Thank you. That’s exactly right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:59:11",
+      "origin": "こちらこそ、ありがとうございます。今、テーブルの上に見渡せるような状態になったかと思います。",
+      "content": "Thank you as well. I think we've laid everything out on the table now, so to speak."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T12:59:32",
+      "origin": "改めてこうやってみていく中で…一つ一緒に考えたく思います。",
+      "content": "Looking at it this way again... there's one thing I'd like us to think about together."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T12:59:47",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:00:03",
+      "origin": "この中で、Aさんにとって、一番に優先したいと思えることは、いったいどれなのでしょうか。",
+      "content": "Among all of these points, what is the one thing you feel you want to prioritize the most?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:01:46",
+      "origin": "正直言って、自分のことだけを考えると、二人目を生まないほうが気が楽でいいと思っています",
+      "content": "Honestly, if I think only about myself, not having a second child would be easier and better for my peace of mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:02:07",
+      "origin": "なるほど、そうだったのですね。",
+      "content": "I see, so that's how you feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:02:37",
+      "origin": "何もかもが許されるとしたら。その時に取りたいのは、自分のことを考えて、一人っ子のままでいさせること、でしょうか？",
+      "content": "If anything were possible... if you could choose freely, would your choice be to think of yourself and remain a one-child family?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:04:19",
+      "origin": "うーん、何もかもが許される、というか、最終的には私が決めるんですけれど・・・",
+      "content": "Well, it's not so much about 'anything being possible,' but rather that I have to be the one to decide in the end..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:04:41",
+      "origin": "はい、そうですよね…最後は自分で決める",
+      "content": "Yes, absolutely—the final decision is yours."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:05:07",
+      "origin": "誰かに二人目を産めといわれているわけではないんです。",
+      "content": "It's not like anyone is telling me I have to have a second child."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:05:18",
+      "origin": "なるほど…今日、お話を聞いている中で",
+      "content": "I see... As I've been listening to you today,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:05:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:06:15",
+      "origin": "Aさんは、幼稚園に入ったお子様のことを１番に考えてきていらっしゃいました。母親として、責任感と、そしてお子様を守りたいという気持ちがこの上なく私に伝わってきたように思います",
+      "content": "A-san, you've been thinking first and foremost about your child who just started kindergarten. As a mother, your sense of responsibility and your desire to protect your child have come through to me very strongly."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:06:51",
+      "origin": "はい　子供のことはやっぱり考えますね",
+      "content": "Yes, of course I think about my child."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:07:08",
+      "origin": "そうですよね。その一方で、今のお子様が主軸になって考えてきた中で…二人目をうむかどうかの良い点・悪い点を整理していくと",
+      "content": "Of course. On the other hand, while you've been thinking with your current child as the main focus... as we organized the pros and cons of having a second child,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:07:37",
+      "origin": "「ご自身」を大切にされたいという考えも出てきたように思います。",
+      "content": "it seems that the idea of wanting to take care of 'yourself' has also emerged."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:08:12",
+      "origin": "はい　そうなんです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:08:28",
+      "origin": "この「Aさん自身を大切にすること」…。これは、自己中心的なようにも聞こえるかもしれませんが…これによって守られる、今のお子様の未来もあるのかもしれません。",
+      "content": "This idea of 'taking care of yourself'... It might sound self-centered, but by doing so, you might also be protecting your current child’s future."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:08:45",
+      "origin": "Aさんの心と体が安定しているからこそ取れる違う選択肢もおありなのかもしれません。",
+      "content": "Because your mind and body are stable, there might be other options available to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:08:52",
+      "origin": "そこについては…どう思われますか？",
+      "content": "What are your thoughts on that...?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:09:48",
+      "origin": "そうですね。二人目を産んで心も身体も余裕がなくなったら、いらいらした母親になるかもしれません",
+      "content": "That's true. If I have a second child and lose my mental and physical composure, I might become an irritable mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:10:22",
+      "origin": "もちろん、ご自身を考慮した上でお二人目を産む選択が消えたわけではないか、と思います",
+      "content": "Of course, this doesn't mean the option of having a second child while also considering yourself is off the table."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:10:52",
+      "origin": "お子様の前に、お子様を守る「Aさんそのもの」を価値観の真ん中に置いて考えてみると",
+      "content": "If you try thinking about it by placing 'yourself, the one who protects your child,' at the center of your values, even before the child,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:11:13",
+      "origin": "今まで取ろうとしていた選択に対しても、違う見方ができるかもしれません",
+      "content": "you might be able to see the choices you've been considering in a different light."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:11:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:11:56",
+      "origin": "そう考えると…ご自分で考えられる新しい考えはおありでしょうか？",
+      "content": "Thinking that way... do any new thoughts come to mind for you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:13:23",
+      "origin": "二人目を産んで心も身体も余裕がなくなったら、いらいらした母親になったら、家族みんなが幸せじゃなくなるような気がします",
+      "content": "If I have a second child, lose my mental and physical composure, and become an irritable mother, I feel like no one in the family would be happy."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:13:37",
+      "origin": "なるほど、そうお考えになったのですね",
+      "content": "I see, that's what you've come to think."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:13:57",
+      "origin": "あなたは、家族の第一に考えられる、とても強いお母様のように思います。",
+      "content": "You strike me as a very strong mother who puts her family first."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:14:14",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:14:42",
+      "origin": "はい…きっと納得のいく行動を取れると感じています。",
+      "content": "Yes... I believe you will be able to make a choice that you can feel at peace with."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:15:03",
+      "origin": "そうですね。もう一度落ち着いて考えてみます",
+      "content": "Yes. I’ll take some time to think it over calmly again."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:15:17",
+      "origin": "はい。今日はお時間としてもこの辺りでいったん終わろうかと思いますが…今日はお話してみていかがでしたか？",
+      "content": "Okay. Our time is about up for today, so I think we'll end here for now. How was it for you to talk about this today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:15:52",
+      "origin": "もやもやした気分を言葉にすると少し気持ちが落ち着きました",
+      "content": "Putting my tangled feelings into words helped me feel a bit calmer."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:16:04",
+      "origin": "お付き合いくださってありがとうございました",
+      "content": "Thank you for staying with me through this."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:16:17",
+      "origin": "そうだったのですね。少しでもお役に立てていたら…幸いです。",
+      "content": "I'm glad to hear that. I'm happy if I was able to help even a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:16:26",
+      "origin": "ここへはまた、いつでもご連絡してくださいね。",
+      "content": "Please feel free to reach out here anytime."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:16:47",
+      "origin": "ありがとうございました。また何かあれば相談させていただきます",
+      "content": "Thank you. I’ll consult with you again if anything comes up."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:17:21",
+      "origin": "はい、もちろん。お待ちしております。",
+      "content": "Yes, of course. I’ll be here."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:17:26",
+      "origin": "それでは、これで終了させて頂きたく思います。本日はありがとうございました。",
+      "content": "Well then, I'd like to conclude our session. Thank you very much for today."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T13:17:36",
+      "origin": "ありがとうございました。では失礼いたします",
+      "content": "Thank you very much. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T13:17:41",
+      "origin": "失礼いたします。",
+      "content": "Take care."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "二人目の子どもについての悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 961,
+    "evaluation_created_at": "2020-12-18T14:05:00",
+    "client_id": 28,
+    "counselor_id": 119,
+    "score": 74,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

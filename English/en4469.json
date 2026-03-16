@@ -1,0 +1,501 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-01-20T19:51:19",
+      "origin": "(こんばんわ。本日はよろしくお願いいたします。時間になったら開始でよろしいですか？)",
+      "content": "(Good evening. I look forward to our session today. Shall we begin when it's time?)"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T19:53:08",
+      "origin": "こんばんは！時間になったら始めて下さい。本日はよろしくお願いします。",
+      "content": "Good evening! Please begin when it's time. I look forward to working with you today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T19:53:37",
+      "origin": "承知いたしました。よろしくお願いいたします。",
+      "content": "Understood. I look forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:00:23",
+      "origin": "こんばんわ。相談員です。本日はお越しくださりありがとうございます。まず、年齢と性別を教えていただけますか？",
+      "content": "Good evening. I'm your counselor. Thank you for coming today. First, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:00:38",
+      "origin": "16歳女性です",
+      "content": "I'm a 16-year-old female."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:01:09",
+      "origin": "ありがとうございます。では相談内容を教えてください。",
+      "content": "Thank you. Please tell me what you’d like to talk about."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:01:22",
+      "origin": "学校に行きたくないです",
+      "content": "I don't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:02:05",
+      "origin": "そうなんですね。今は高校生ですか？",
+      "content": "I see. Are you in high school now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:02:11",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:03:14",
+      "origin": "ありがとうございます。どうしていきたくないのか理由があれば教えていただきたいのですが、どうでしょうか？話せる範囲で大丈夫ですからね。",
+      "content": "Thank you. If you’re able, could you share the reasons you don’t want to go? You only have to share as much as you feel comfortable with."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:04:58",
+      "origin": "私の仲良かった友達が1人いたんですけど、わがままな子がその友達をとるんです。4人グループなのでもう一人の子と仲良くしているんですけどおもしろくなくて・・・",
+      "content": "Well, I had one really good friend, but a selfish girl is taking her away from me. We're in a group of four, so I'm hanging out with the other girl, but it's not fun..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:06:46",
+      "origin": "なるほど。仲が良い友達を取られてしまって、ほかの子といるけどあまり、おもしろくないと。それはなんだか嫌な気持ちになりますね。",
+      "content": "I see. Your close friend is being pulled away from you, and although you’re with the other girl, it’s not very enjoyable. That must feel unpleasant."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:07:21",
+      "origin": "そうなんですでも問題なのが、今仲良くしているA子と、そのわがままなB子がいつもケンカして、なんとなく2対2になってしまっていて、私は最初に仲良くしていたC子と普通に話したいのに・・・",
+      "content": "Exactly. But the problem is, the girl I'm hanging out with now, A, and that selfish girl, B, are always fighting, so we've kind of split into two against two. I just want to talk normally with C, who I was friends with first..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:08:57",
+      "origin": "あー、そうなんですね。それは間に挟まれてしまってお辛い状況ですね。しかも、一番仲が良い子とお話できない環境になっているのですね。なかなか、もどかしいですね。",
+      "content": "Ah, I understand. That sounds like a very difficult situation, being caught in the middle. And on top of that, you're in an environment where you can't even talk to your best friend. That must be very frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:10:05",
+      "origin": "はい・・・。A子の事は嫌いじゃないし、一緒にいて楽しいんですけど、学校があまり好きじゃないので休みがちで、休んだらなんとなく1人になっています",
+      "content": "Yes... It's not that I dislike A, and it's fun to be with her, but she doesn't like school much so she's absent a lot. When she's absent, I'm sort of left alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:11:33",
+      "origin": "A子さんが休みがちで学校生活では一人のような感じが続いているということですか？",
+      "content": "So, because A is often absent, you often feel like you're alone at school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:12:28",
+      "origin": "そうです。なんとなく3人でいるけどB子がC子連れてどっか行ってしまったりするので学校では1人になる事が多いです",
+      "content": "That's right. Even when the three of us are sort of together, B will take C and go somewhere, so I end up alone at school a lot."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:13:27",
+      "origin": "なるほど。そうだったんですね。そのような状況の時マームさんはどういったお気持ちなのでしょうか？",
+      "content": "I see. So that's what's happening. How do you feel, Marm, when you're in that situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:14:42",
+      "origin": "正直、今まで友達に囲まれて小中学校過ごしてきたので、どうしていいか分からず、他の友達と話したりするのですが、なんか同情されているような感じで他のグループの子と話すのも勇気がいります",
+      "content": "Honestly, I've always been surrounded by friends in elementary and junior high school, so I don't know what to do. I try talking to other friends, but it feels like they pity me, and it takes courage to talk to people from other groups."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:15:24",
+      "origin": "正直辛いです",
+      "content": "Honestly, it's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:15:55",
+      "origin": "はい。今の状況はつらい立場ですし、なかなか難しい立場でもありますよね。大変でしたね。",
+      "content": "Yes. Your current situation is a painful one, and a very difficult position to be in. That must have been very hard for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:16:03",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:18:19",
+      "origin": "マームさん自身はそれぞれ三人とはどのような仲なのでしょうか？お付き合いは長いのですかね？",
+      "content": "How would you describe your relationship with each of the three, Marm? Have you known them long?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:19:20",
+      "origin": "先ほど、A子さんは最近仲が良い、B子さんはわがまま、C子さんは一番仲が良いとお話を聞いておりましたが、いかがでしょう",
+      "content": "Earlier you mentioned that you’re recently close with A, that B is selfish, and that you’re closest with C—does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:21:03",
+      "origin": "合っています。高校入学式の時にC子に声を掛けられて初めて友達になりました。すごく相性がよかったので最初の頃は2人でずっといました。その後に同じグループだったA子とB子と仲良くなって4人でワイワイやっていた感じです。なので付き合いは3人とも、もうすぐ1年です。",
+      "content": "That's right. C spoke to me at the high school entrance ceremony, and that's how we first became friends. We got along really well, so at first, it was always just the two of us. After that, we became friends with A and B, who were in the same group, and the four of us had a lot of fun together. So I've known all three of them for almost a year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:22:37",
+      "origin": "そうだったのですね。高校に入って一番初めに仲が良くなったのがC子さんだったのですね。A子さん、B子さんもみんな同じように仲良くされていたのですね。",
+      "content": "I see. So C was the first person you became close to after starting high school. And you were getting along equally well with A and B, too."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:23:47",
+      "origin": "はい、でも2学期くらいから、B子がC子を連れてトイレとか他のクラスに遊びに行ったりなど、なんとなく離れていきました",
+      "content": "Yes, but around the second semester, B started taking C to the restroom or to visit other classes, and we gradually drifted apart."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:24:39",
+      "origin": "そうでしたか。何か思い当たる理由はありますか？",
+      "content": "I see. Do any reasons come to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:25:47",
+      "origin": "理由は分からないですけど、B子がC子を1人占めしたいと思います。わがままだから・・・。",
+      "content": "I don't know the reason, but I think B wants to have C all to herself. Because she's selfish..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:27:49",
+      "origin": "なるほど。でもC子さんと話したいマームさんはあまりいい思いをしないですものね。",
+      "content": "I understand. But for you, Marm, wanting to talk with C, that doesn't feel good at all, does it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:28:40",
+      "origin": "そうですね。なんとなくお互いB子に気を使って、2人で話すことはなくなってきました。",
+      "content": "That's right. We both sort of became cautious around B, and we stopped talking just the two of us."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:30:02",
+      "origin": "そうでしたか。気を遣うのも疲れてしまいますね。B子さんはどのような方なのですか？わがままな方のようですけれども、ほかに何かありますか？",
+      "content": "I see. It must be tiring to always have to be so careful. What kind of person is B? You mentioned she's selfish, but is there anything else?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:31:31",
+      "origin": "人を見下したり、ちょっとしたことも馬鹿にしたように笑います。A子は面白いし好きなんだけど、嫌な事とがはっきり言うので、そんなB子に対して文句を言い出してからグループが割れてきました。",
+      "content": "She looks down on people, and she laughs at even small things in a mocking way. I like A, she's funny, but she's also very direct about things she doesn't like. The group started to split apart after she started complaining about B."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:34:01",
+      "origin": "そのような状況だったのですね。B子さんの態度は一緒にいる側としては少しつらく感じますよね。はっきり言えるA子さんもすごいですけど、今の現状はマームさんやC子さんがつらい状況になってしまいますね。",
+      "content": "So that's how it was. B's attitude must be a bit hard to be around. It's impressive that A can speak her mind so clearly, but in the current situation, it's you and C who are in a difficult position."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:35:00",
+      "origin": "私は平和主義者だから、多少我慢できるけど、A子がはっきり文句言うので、B子は私まで一緒になって文句言っていると勘違いしていると思います。なので余計に距離が遠くなってきています",
+      "content": "I'm a peace-loving person, so I can tolerate it to some extent, but because A complains so directly, I think B mistakenly believes that I'm complaining along with her. That's making the distance between us even greater."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:36:13",
+      "origin": "そうだったんですね。言ってないのに嫌な勘違いをされてしまうのは嫌な気持ちにもなるし、つらいですよね。",
+      "content": "I see. It must be unpleasant and painful to be misunderstood like that when you haven't said anything."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:36:53",
+      "origin": "はい、A子は言うだけ言って学校休むし・・・本当、学校行くのにお腹が痛くなってきます",
+      "content": "Yes, and A just says what she wants and then skips school... Honestly, my stomach starts to hurt just thinking about going to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:38:36",
+      "origin": "そうでしたか。仲がいい子と話せず、嫌な勘違いをされて距離を置かれている。学校ではA子さんがお休みだったら一人になることが多いという状況では、学校に行きたい気持ちになるのも無理ないとおもいます。",
+      "content": "I see. You can't talk to your good friend, you're being misunderstood and kept at a distance, and you're often alone at school when A is absent. In a situation like that, it's completely understandable that you wouldn't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:39:01",
+      "origin": "行きたくないですね。失礼しました",
+      "content": "You wouldn't want to go, would you? My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:39:36",
+      "origin": "大丈夫です。あと2カ月でクラス変えがあるけど、それまで私がもつかどうか・・・・",
+      "content": "It's okay. There's a class change in two months, but I don't know if I can hold on until then..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:41:04",
+      "origin": "そうですね。その期間耐えるのはきついですね。マームさんは今の状況がどうなればまた、学校に行きたいと思えると思いますか？",
+      "content": "Yes, enduring that period would be tough. Marm, what do you think would have to change about the current situation for you to feel like you want to go to school again?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:41:40",
+      "origin": "1年生最後だからみんなで仲良く終わりたいです",
+      "content": "Since it's the end of our first year, I want us all to end it on good terms."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:42:25",
+      "origin": "うんうん。そうですよね。少し前までは４人で仲が良かったのですから、前みたいにもどりたいですよね。",
+      "content": "Mhm. I understand. Since the four of you were getting along well until recently, you'd want to go back to how things were, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:42:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:43:15",
+      "origin": "マームさんの中では、どうすれば前みたいに仲が良い状況になると感じますか？",
+      "content": "In your view, what do you think would help things return to how they were?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:45:10",
+      "origin": "A子には何でも言えるので、B子に文句言わないでって言いました。でも嫌がります。なので前みたいに仲良くなることが想像できません",
+      "content": "I can say anything to A, so I told her to stop complaining to B. But she refuses. So I can't imagine us getting along like before."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:46:12",
+      "origin": "あー、なるほど。そうだったんですね。A子さんにお話しされたけど、難しかったのですね。",
+      "content": "Ah, I see. So that's what happened. You talked to A, but it didn't work out."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:47:29",
+      "origin": "B子さんとは話しづらいと思いますが、C子さんとはたまにでもお話されているのでしょうか？",
+      "content": "I imagine it's difficult to talk to B, but are you able to talk with C, even occasionally?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:48:54",
+      "origin": "はい、C子にも言おうと思ったけど、B子の事悪く言うとC子が嫌な思いするかもしれないし、今更言っても・・・ていう気持ちの方が強いです。なので学校休もうかなって最近思っています",
+      "content": "Yes, I thought about telling C too, but if I speak ill of B, C might feel bad, and the feeling that it's too late to say anything now is stronger. So recently I've been thinking about just skipping school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:50:33",
+      "origin": "そうなんですね。色々考えて気を使われてきたのですね。マームさんはいろんな人の気持ちを考えていて優しいですね。確かに休みたくなる状況ですよね。",
+      "content": "I see. You've been thinking a lot and being considerate of others. You're very kind for considering everyone's feelings, Marm. It's certainly a situation that would make you want to stay home."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:51:13",
+      "origin": "休むのが一番いいのかなって思います。",
+      "content": "I think staying home is probably the best option."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:51:37",
+      "origin": "どうしてもしんどい時、体が調子悪い時は休むのもいいと思います。",
+      "content": "When you're really struggling or not feeling well, I think it's okay to take a break."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:52:05",
+      "origin": "そうですよね！",
+      "content": "Right!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:52:22",
+      "origin": "ただ、マームさんは今までの中が良い状況に戻りたいのではないですか？",
+      "content": "However, don't you want to go back to the good relationship you had before?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:53:15",
+      "origin": "無理をするのはよくないと思います。けれども、仲が良かった時に戻りたいという気持ちも大事にしてほしいと思っています。",
+      "content": "I don't think you should force yourself. But I also want you to cherish that feeling of wanting to go back to when you all got along."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:53:41",
+      "origin": "はい・・・でも、なんか面倒くさいし、あと2か月だし・・・",
+      "content": "Yes... but, it just feels like too much trouble, and it’s only for another two months..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:54:35",
+      "origin": "そうですね。嫌な状況の中わざわざ話すことはとても疲れると思うし、しんどい思いをするかもしれない。",
+      "content": "I understand. Going out of your way to talk in an uncomfortable situation would be exhausting, and it might be painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:54:53",
+      "origin": "2年になってクラス変わったらまた何か変わるかもしれないし・・・・",
+      "content": "When I become a second-year student and our classes change, maybe something will change then..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:55:59",
+      "origin": "うんうん。確かにそうかもしれませんね。嫌な思いをせずにこれから過ごせるかもしれないし、嫌な思いをまたするかもしれない",
+      "content": "Mhm. That might be true. You might be able to go on without any more unpleasant experiences, or you might have to face them again."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T20:56:35",
+      "origin": "そうですよね・・・",
+      "content": "You're right..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:58:45",
+      "origin": "それは何とも言えませんが、マームさんは優しいからこそ、どんな状況でも助けてくれるまわりの人がいるかもしれません。今回のことも優しいからこそ、いろんな人の状況を考えて動いてらっしゃる。",
+      "content": "I can't say for sure what will happen, but because you're a kind person, Marm, there may be people around you who would help you in any situation. In this case too, it's because of your kindness that you're thinking about everyone's situation and acting accordingly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T20:59:36",
+      "origin": "もう少し、自分の感情を４人に話してみてから、休むか休まないか決めてもよいのではないでしょうか",
+      "content": "Perhaps you could try talking about your feelings with the group a little more before deciding whether or not to stay home."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:00:37",
+      "origin": "たとえば、仲が良い時が良かった、今の状況はみんなと話せなくてつらいなど",
+      "content": "For example, telling them that you liked it when you all got along, and that it's painful not being able to talk with everyone now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:01:16",
+      "origin": "もちろん話すのがつらいようでしたら、無理にとはいいません",
+      "content": "Of course, if talking about it seems too painful, I'm not saying you have to force yourself."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T21:01:29",
+      "origin": "ありがとうございます。4人で話すっていうのは考えたことなかったです。それやってみようと思います。なんか誰にも相談できなかったのでスッキリしました。4人で話せなかったらC子にはタイミングみて、こっそり話してみようかなって思いました。",
+      "content": "Thank you. I hadn’t thought of having the four of us talk. I’ll give it a try. I feel relieved because I couldn’t consult anyone about this. If the four of us can’t talk, I might try to speak with C privately when the timing is right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:02:37",
+      "origin": "それはよかったです。また、嫌な思いなどありましたら、いつでも来ていただいて大丈夫ですので。マームさんなら大丈夫です。よい方向に進むと思いますよ。",
+      "content": "I'm glad to hear that. If you experience any more unpleasantness, please feel free to come back anytime. You'll be alright, Marm. I believe things will move in a good direction for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T21:02:52",
+      "origin": "ありがとうございました！！",
+      "content": "Thank you so much!!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:03:19",
+      "origin": "はい、こちらこそ、ありがとうございました。",
+      "content": "Yes, thank you as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T21:03:42",
+      "origin": "また、何かあったら相談きます！",
+      "content": "I’ll reach out again if anything comes up!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:04:00",
+      "origin": "はい、いつでも気軽に来てくださいね。",
+      "content": "Yes, feel free to come anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T21:04:11",
+      "origin": "はい！",
+      "content": "Okay!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:04:33",
+      "origin": "それではこちらで失礼します。まーむさん、ありがとうございました。",
+      "content": "We’ll end here, then. Thank you, Marm."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T21:04:43",
+      "origin": "失礼します",
+      "content": "Goodbye."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T21:05:42",
+      "origin": "（ありがとうございました。大変勉強になりました。また機会がありましたらよろしくお願いいたします）",
+      "content": "(Thank you very much. This was a great learning experience. I hope we have the chance to do this again.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:05:49",
+      "origin": "（ありがとうございました。とても勉強になりました。時間があるときで大丈夫ですので、よければ評価していただけると嬉しいです、よろしくお願いします。お疲れさまでした。）",
+      "content": "(Thank you. This was very educational for me as well. When you have time, I would appreciate it if you could leave a review. Thank you. Good work.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-20T21:06:15",
+      "origin": "承知しました！では失礼します",
+      "content": "Understood! Well then, goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-20T21:06:22",
+      "origin": "（それでは終了とさせていただきます。お時間長引いてすみませんでした）",
+      "content": "(We’ll conclude here. Sorry for running over time.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友人関係のトラブル"
+  },
+  "review_by_client": {
+    "evaluation_id": 4469,
+    "evaluation_created_at": "2023-01-20T21:27:00",
+    "client_id": 331,
+    "counselor_id": 355,
+    "score": 97,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

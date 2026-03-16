@@ -1,0 +1,531 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:00:15",
+      "origin": "こんばんは。相談員です。今日はよろしくお願いいたします。最初にご年齢と性別を教えていただけますか？",
+      "content": "Good evening. I'm the counselor. It's a pleasure to speak with you today. To start, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:00:39",
+      "origin": "こんばんは。10代　女です",
+      "content": "Good evening. I'm a teenage girl."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:00:55",
+      "origin": "ありがとうございます。今日はどのようなご相談でいらっしゃいましたか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:01:45",
+      "origin": "アルバイトの仲間となかなか仲良くなれなくて",
+      "content": "I'm having trouble getting along with my coworkers at my part-time job."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:02:51",
+      "origin": "そうなんですね。それは、悩みますね。",
+      "content": "I see. That must be troubling."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:03:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:03:24",
+      "origin": "今のアルバイトは、どのくらい続けていますか？",
+      "content": "How long have you been at your current part-time job?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:03:39",
+      "origin": "一年くらいです",
+      "content": "About a year."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:04:33",
+      "origin": "そうなんですね。一年間、なかなか仲良くなれないと、感じてこられたのでしょうか。",
+      "content": "I see. So for this past year, you've been feeling that you haven't been able to get close to them?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:05:24",
+      "origin": "はい、同じ年代の子達とシフトの曜日が全然違っていて…",
+      "content": "Yes, my shift days are completely different from the other people my age..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:06:23",
+      "origin": "なるほど。あなたのシフトと同じ時にアルバイトに入っている人はあなたと年齢が違う人達が多いのですか？",
+      "content": "I understand. So, are most of the people working the same shifts as you of different ages?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:07:18",
+      "origin": "大学生とかパートのおばさんとかが一緒です",
+      "content": "I’m usually with college students or older women working part-time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:07:53",
+      "origin": "そうなんですね。それはしんどいですよね。",
+      "content": "I see. That must be tough."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:09:05",
+      "origin": "はい、話しても挨拶とかしかなくて、おばさんとの会話もなんか疲れるし",
+      "content": "Yes, we only exchange greetings, and talking with the older women is kind of tiring."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:09:59",
+      "origin": "そうなんですね。おばさんとは、話題も違うでしょうから疲れますよね。",
+      "content": "I understand. You probably have different things to talk about, so it must be tiring."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:10:21",
+      "origin": "はい…",
+      "content": "Yes…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:10:34",
+      "origin": "大学生とはどうですか？",
+      "content": "How is it with the college students?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:11:32",
+      "origin": "なんか雰囲気がちょっと暗い感じなので、話しても仕事の事だけです",
+      "content": "They have a bit of a gloomy vibe, so we only talk about work."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:12:14",
+      "origin": "なるほど、あなたが仲良くなりたい感じの方ではないんですね。",
+      "content": "I see, so they’re not the kind of people you feel you’d like to get close to."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:12:38",
+      "origin": "はい、ちょっとオタクっぽい感じで…",
+      "content": "Yes, kind of nerdy…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:13:10",
+      "origin": "そうなんですね。あなたとは気が合わない感じなんですね。",
+      "content": "I see. So you feel like you don't really click with them."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:13:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:14:35",
+      "origin": "ここまでのお話を伺っていて、あなたはアルバイト先で気軽に話せる友人がいなくて、しんどい気持ちを抱えていらっしゃるんだろうなあと思いました。",
+      "content": "From what you've told me so far, it seems you're feeling distressed because you don't have any friends you can talk to casually at work."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:14:59",
+      "origin": "はい…",
+      "content": "Yes…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:15:49",
+      "origin": "今日こちらに来てくださったのは、少しでも今のしんどさを軽くする方法を見つけにこられたのではないかと思います。それについて一緒に考えていきたいと思いますが、いかがでしょうか。",
+      "content": "I imagine you came here today hoping to find a way to ease some of that distress. I'd like to think about that together with you. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:16:31",
+      "origin": "軽くなるのかな…",
+      "content": "I wonder if it will get better..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:17:26",
+      "origin": "軽くなるか、そんな方法があるのかどうか、今は分からない感じなんですね。",
+      "content": "So right now, you're not sure if it will get better, or if such a method even exists."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:17:50",
+      "origin": "はい、シフトは変えられないし…",
+      "content": "Yes, and I can't change my shifts..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:19:05",
+      "origin": "なるほど。シフトは変えられないんですね。そんな中で、どうしようもない気持ちを抱えていらっしゃるんですね。",
+      "content": "I see. So you can't change your shifts. And in that situation, you're feeling helpless."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:19:22",
+      "origin": "はい…",
+      "content": "Yes…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:20:45",
+      "origin": "そうなんですね。辛いですよね。",
+      "content": "I understand. That must be hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:22:03",
+      "origin": "アルバイトのお仕事そのものは好きですか？",
+      "content": "Do you like the job itself?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:22:20",
+      "origin": "嫌いではないです",
+      "content": "I don’t dislike it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:23:45",
+      "origin": "そうなんですね。それは良かったと感じています。",
+      "content": "I see. I’m glad to hear that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:24:24",
+      "origin": "今の状況で、どのようになれば、あなたはもっと楽しく働けそうですか？",
+      "content": "In your current situation, what do you think would make working more enjoyable for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:24:25",
+      "origin": "はい、ただ仲良くできる子達がいたらもっと楽しいんだろうなって。",
+      "content": "Well, I just think it would be more fun if there were people I could get along with."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:24:45",
+      "origin": "言葉が重なってごめんなさいね。",
+      "content": "I'm sorry for interrupting."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:24:55",
+      "origin": "大丈夫です",
+      "content": "It’s okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:25:39",
+      "origin": "なるほど、そうですよね。仲良くできる子達がいれば、もっといいですよね。",
+      "content": "I see, that makes sense. It would be better if there were people you could get along with."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:25:40",
+      "origin": "他の曜日の同じ年代の子たちが仲良くしているとなんか寂しいなって",
+      "content": "When I see the people my age on other days getting along, it makes me feel kind of lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:26:44",
+      "origin": "なるほど。他の曜日の人たちは仲良くしているんですね。それでは、あなたは寂しくなりますよね。",
+      "content": "I see. So the people on other shifts get along well. That must make you feel lonely."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:28:14",
+      "origin": "はい、なんかミーティングみたいな集まりの時は、わたしはポツンとしてしまって。",
+      "content": "Yes, during gatherings like meetings, I end up feeling isolated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:29:34",
+      "origin": "なるほど。ミーティングなど、みんなで顔を合わす時があるわけなんですね。そこでいつも会っている人たちは親しい感じだけどあなたは寂しいんですね。",
+      "content": "I see. So there are times when everyone gets together, like for meetings. And at those times, the people who usually work together seem close, but you feel lonely."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:29:51",
+      "origin": "はい…",
+      "content": "Yes…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:31:36",
+      "origin": "その状況、とても辛いと思います。あなたのお気持ち、上司の方や、シフトを作っている方に相談したことはありますか？",
+      "content": "I imagine that situation is very hard. Have you talked with your supervisor or the person who makes the schedules about how you’re feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:32:52",
+      "origin": "いえ、話はしてないです",
+      "content": "No, I haven’t."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:34:24",
+      "origin": "そうなんですね。話をしてみたら、シフトを作るときに同じ年代の人と組めるようにしてもらったりできそうですか？",
+      "content": "I see. If you were to talk to them, do you think they might be able to schedule you with people your own age?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:35:41",
+      "origin": "多分それは無理だと思います。私は土日とか学校が休みの日しかバイトができなくて…",
+      "content": "I don't think that's possible. I can only work on weekends and days when I don't have school..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:36:20",
+      "origin": "なるほど、そうなんですね。それは無理なんですね。",
+      "content": "I see, so that wouldn't be possible."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:36:40",
+      "origin": "はい、他の子達は平日に入るシフトにしているみたいです。",
+      "content": "Yes, it seems the other people my age are scheduled for weekday shifts."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:37:19",
+      "origin": "なるほど。それでは無理ですよね。",
+      "content": "I understand. In that case, it wouldn't be possible."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:37:35",
+      "origin": "はい、そうなんです…",
+      "content": "Yes, that’s right…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:39:18",
+      "origin": "あなたは、仲良しの同年代の友人が居なくても同じシフトの方々と気が合わないと感じても、仕事は嫌じゃないとおっしゃっていますね。とてもまじめな、素敵な方でお仕事もよくできる方ではないかと感じています。お仕事の内容ではお悩みはありませんか？",
+      "content": "You've mentioned that even though you don't have close friends your age and don't click with your coworkers, you don't dislike the job itself. I sense that you are a very sincere and wonderful person who is likely very good at your job. Do you have any concerns about the work itself?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:39:57",
+      "origin": "仕事は決まった事をするだけなので大丈夫です。",
+      "content": "The work is just doing set tasks, so it's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:40:54",
+      "origin": "そうなんですね。良かったです。では、一つご提案をさせていただいてもよろしいでしょうか。",
+      "content": "I see. I'm glad to hear that. In that case, would it be all right if I made a suggestion?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:41:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:42:56",
+      "origin": "ミーティングの最初に、上司の方、（リーダーの方？）にいつもシフトが違って合わない人同士、紹介の時間を作ってもらってはいかがでしょうか。",
+      "content": "At the start of meetings, how about asking your supervisor (or team leader?) to set aside a brief time for introductions among people who don’t usually share shifts?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:44:02",
+      "origin": "頑張りたいんですけど、ちょっと言いづらい気もします…",
+      "content": "I'd like to try, but I feel like it would be a bit difficult to ask..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:45:11",
+      "origin": "そうなんですね。確かに、上の人にお願いするとか相談するって、気が引けますよね。言いづらいですよね。",
+      "content": "I understand. It can feel intimidating to make a request or consult with someone above you. It’s hard to bring it up."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:45:38",
+      "origin": "仕事に厳しそうなので…",
+      "content": "They seem strict about work…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:46:08",
+      "origin": "そうなんですね。厳しそうだと、更に言いにくいですよね。",
+      "content": "I see. If they seem strict, it makes it even harder to bring it up."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:46:55",
+      "origin": "はい、言えたらいいんですけど…",
+      "content": "Yes, I wish I could say it..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:47:39",
+      "origin": "あなたは、そのように思うんですね。ただ、仕事に厳しい方なら業績が上がるための提案なら快く聴いていただけるのではないかと思います。",
+      "content": "That's how you feel about it. However, if they are strict about work, they might be willing to listen to a proposal that could improve performance."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:48:19",
+      "origin": "お聞きしていませんでしたが、お仕事の業種はどんなお仕事ですか？",
+      "content": "I haven't asked yet, but what kind of industry do you work in?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:48:49",
+      "origin": "ファーストフードみたいな感じです",
+      "content": "It's something like fast food."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:49:17",
+      "origin": "そうなんですね。教えてくださってありがとうございます。このような提案はいかがでしょうか。",
+      "content": "I see. Thank you for telling me. How about a suggestion like this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:51:01",
+      "origin": "仲良くできる子がいたらいいな、とは思うんですけど、仕事に友達とかっていう自分事を持ち込んでいいのかな…って。そんな風にも考えてしまって…",
+      "content": "I do wish I could make friends, but I wonder if it's okay to bring personal matters like friendships into the workplace... I can't help but think that way..."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:51:33",
+      "origin": "怒られそうです…",
+      "content": "I feel like I'd get scolded..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:52:35",
+      "origin": "いえいえ、仲の良い友達ができることは、とても大切だと思います。働く曜日が違うと、他のシフトの時と、いらっしゃるお客様が違っていると思う。情報共有するためにも、他の曜日にシフトに入っている人たちと交流したいと。このように言えば理解してもらえないでしょうか。いかがでしょうか。",
+      "content": "Not at all, I think having good friends is very important. Since you work on different days, the customers you serve are probably different from those on other shifts. You could say that you want to interact with people from other shifts to share information. Do you think they might understand if you put it that way? What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:53:55",
+      "origin": "どうなんでしょう…",
+      "content": "I'm not sure..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:56:22",
+      "origin": "そして本当に、あなたが他のシフトの人達と仲良くなることで、仕事の面でも新たな発見があるかもしれないなと思って、ご提案してみました。何よりミーティングが楽しくなるのではないかと。いかがでしょうか。",
+      "content": "And truly, I suggested it because I think that by getting to know people from other shifts, you might discover new things from a work perspective. Above all, it might make meetings more enjoyable. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:56:42",
+      "origin": "ちょっと考えてみます、なんか言いやすい方向で…",
+      "content": "I'll think about it a little, and try to find an easier way to bring it up."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:57:30",
+      "origin": "そうですね。あなたが一番言いやすい方向で考えてみてくださいね。",
+      "content": "That's right. Please think about it in a way that feels easiest for you to express."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:57:56",
+      "origin": "はい、ちょっと様子見て考えます",
+      "content": "Yes, I’ll watch how things go and think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T20:58:48",
+      "origin": "確かに私のご提案は、ちょっと言いにくい感じだったかもしれませんね。　そろそろお時間になりますが、お話をしてみていかがでしたか？",
+      "content": "It's true that my suggestion might have been a bit difficult to bring up. Our time is almost up, but how do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T20:59:37",
+      "origin": "はい、提案など考えてもらってありがとうございました。",
+      "content": "Yes, thank you for thinking of suggestions for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T21:00:40",
+      "origin": "こちらこそ、今日はお話に来てくださって、ありがとうございました。良い方向に向かいますように、心から願っています。また、何かあればいつでも相談に来てくださいね。",
+      "content": "Thank you as well for coming to talk with me today. I sincerely hope things will get better for you. Please feel free to come back and talk anytime if something else comes up."
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T21:00:59",
+      "origin": "はい、今日はありがとうございました。",
+      "content": "Yes, thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T21:01:14",
+      "origin": "ありがとうございました。失礼いたします。",
+      "content": "Thank you. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T21:02:07",
+      "origin": "（本日は、誠にありがとうございました。勉強になりました。お手数ですが、評価をお願いいたします。こちらで終了してよろしいでしょううか）。",
+      "content": "(Thank you very much for today. This was a valuable learning experience. I would appreciate it if you could provide a rating. Is it alright if we conclude the session here?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-22T21:02:52",
+      "origin": "（はい、こちらこそありがとうございました。終了で大丈夫です(◠‿◕)）",
+      "content": "(Yes, thank you as well. It's fine to end here (◠‿◕).)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-22T21:03:09",
+      "origin": "失礼します",
+      "content": "Goodbye."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "アルバイトでの人間関係の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 2754,
+    "evaluation_created_at": "2021-11-22T21:40:00",
+    "client_id": 235,
+    "counselor_id": 208,
+    "score": 64,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

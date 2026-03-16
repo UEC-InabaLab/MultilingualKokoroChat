@@ -1,0 +1,681 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:00:20",
+      "origin": "こんばんは。相談員です。本日はお越しいただきありがとうございます。はじめに、年齢、性別、相談の内容をお聞かせください。",
+      "content": "Good evening. I’m the counselor. Thank you for coming today. To begin, could you please tell me your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:01:15",
+      "origin": "39歳女性息子の幼稚園のPTA役員になってしまって不安です",
+      "content": "I’m a 39-year-old woman. I’ve ended up becoming a PTA officer at my son’s kindergarten, and I’m anxious about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:02:19",
+      "origin": "ありがとうございます。そうでしたか、PTA役員に。ご不安でいらっしゃるのですね。",
+      "content": "Thank you. I see, a PTA officer. You're feeling anxious about it, aren't you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:02:57",
+      "origin": "はいずっと誰かの後ろに隠れて逃げてきたのですが、とうとう逃げられなくて",
+      "content": "Yes. I've always hidden behind someone else and avoided it, but this time I finally couldn't get away."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:03:21",
+      "origin": "えぇえぇ、とうとう、なのですね。役員になられた経緯など、すこし詳しくお聴かせいただけますか。",
+      "content": "I see, so it finally happened. Could you tell me a bit more about how you ended up becoming an officer?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:05:43",
+      "origin": "はい。次男のクラスのクラス委員になったのですが、（これも断る理由がなく…）次男は年長さんだったため、PTA役員の中の会長には年長のクラスの誰かがなるという決まりがあったようで…会長になってしまいました",
+      "content": "Yes. I became the class representative for my younger son's class (I didn’t have a good reason to refuse that either). Since my younger son is in the senior class, there seems to be a rule that the PTA president must be from a senior class, so I ended up becoming the president."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:06:12",
+      "origin": "そうでしたか、会長さんに。",
+      "content": "I see, the president."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:06:23",
+      "origin": "荷が重いです",
+      "content": "It's a heavy burden."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:06:57",
+      "origin": "えぇ、そのように感じていらっしゃるのですね。お子さんはほかにもいらっしゃるのでしょうか。",
+      "content": "Yes, I can see you feel that way. Do you have any other children?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:07:24",
+      "origin": "小学生3年の長男がいます",
+      "content": "I have an older son in the third grade of elementary school."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:08:10",
+      "origin": "お兄さんがいらっしゃるのですね。そのときはPTA役員は逃げられたのに、という感じでしょうか。",
+      "content": "So you have an older son. Is it a feeling of, 'I was able to get out of being a PTA officer back then'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:08:29",
+      "origin": "同じ幼稚園でしたか。",
+      "content": "Did he go to the same kindergarten?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:08:51",
+      "origin": "そうですね。下の子がまだ手がかかるのでという理由で逃げてました。二人とも同じ幼稚園です。",
+      "content": "That's right. I used the excuse that my younger child still needed a lot of care. They both attended the same kindergarten."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:09:32",
+      "origin": "なるほど...お兄さんのときは、下のお子さんがいらしたので、ということですね。",
+      "content": "I see... so when it was your older son's turn, it was because you had your younger child to take care of."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:10:00",
+      "origin": "そうですね。下の子の時はその理由は使えず…",
+      "content": "That’s right. With my younger one, I couldn’t use that reason..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:10:38",
+      "origin": "えぇえぇ、そうですよね。では、年長クラスの委員が会長になることもご存じないまま、気づいたら、という感じ。",
+      "content": "I understand. So, without knowing that the senior class representative becomes president, before you knew it, you found yourself in that role."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:11:23",
+      "origin": "はい。まさか自分に降ってくるとは思わなかった出来事なので、そんな暗黙のルールがある事は知りませんでした",
+      "content": "Yes. I never imagined it would land on me, so I didn’t know there was such an unwritten rule."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:12:22",
+      "origin": "なるほど...暗黙のルールでしたか...それは、心の準備も出来ませんし、ご不安ですよね。",
+      "content": "I see... an unspoken rule. You couldn't have prepared for that mentally, so it's understandable you'd be anxious."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:12:54",
+      "origin": "どうしていいか途方に暮れている感じです",
+      "content": "I feel completely at a loss about what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:13:11",
+      "origin": "えぇ、この状況、ごもっともだと思います。",
+      "content": "Yes, under these circumstances, that's completely understandable."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:13:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:13:49",
+      "origin": "どんなことがいちばん、気にかかっていらっしゃいますか。",
+      "content": "What is weighing on you the most?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:15:15",
+      "origin": "PTA役員の皆さんをまとめていかないといけません。でも、皆さんの方が意見をしっかり言われる方々だったりするので、会長の私が一番ダメな気がして萎縮してしまいます",
+      "content": "I have to lead all the PTA officers. But they are all people who state their opinions clearly, so I feel like I, the president, am the most incompetent one, and I get intimidated."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:16:30",
+      "origin": "そうでしたか。意見をしっかり言われる方々なのですね。圧倒されてしまいますよね。総勢で何人くらいでしょうか。",
+      "content": "I see. So they're people who express their opinions strongly. That must be overwhelming. How many officers are there in total?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:17:08",
+      "origin": "20人です",
+      "content": "Twenty."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:18:08",
+      "origin": "20人。年少年中年長さん、合わせて、ですね。",
+      "content": "20 people. That's including the junior, middle, and senior classes, correct?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:19:11",
+      "origin": "はい各クラス2人×9クラスそれに3歳児クラスの2名",
+      "content": "Yes, two from each of the nine classes, plus two from the 3-year-old class."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:19:39",
+      "origin": "そうですか、３歳児クラスもあるのですね。",
+      "content": "I see, so there's a class for 3-year-olds as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:20:18",
+      "origin": "年長さんの役員の方で、親しい方はいらっしゃいますか。",
+      "content": "Are there any officers from the senior class that you're close with?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:20:34",
+      "origin": "はい。それほど規模は大きくない幼稚園なのですが、それぞれの皆さんがクラスの代表なので、それなりにリーダー経験がある方々なんです",
+      "content": "Yes. It’s not a very large kindergarten, but since each person is a class representative, they all have some leadership experience."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:20:52",
+      "origin": "あ、すみません",
+      "content": "Oh, I'm sorry."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:21:02",
+      "origin": "打つのが遅くなりました",
+      "content": "Sorry for the slow typing."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:21:17",
+      "origin": "こちらこそ、重ねてしまって申し訳ありません。",
+      "content": "Not at all—my apologies for overlapping messages."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:21:37",
+      "origin": "年長の役員さんもあまりまだ知らない方々",
+      "content": "The other senior class officers are people I don’t really know well yet,"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:21:46",
+      "origin": "です",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:22:34",
+      "origin": "そうなのですね。毎年のクラス替えでしょうか。",
+      "content": "I see. Do the classes change every year?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:23:16",
+      "origin": "クラスは3年間変わらないので、他のクラスのことがあまりよくわからないです…",
+      "content": "The classes don't change for three years, so I don't really know much about the other classes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:23:50",
+      "origin": "なるほど、そういうことですね。",
+      "content": "I see, that makes sense."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:24:04",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:24:20",
+      "origin": "そうすると、同じクラスの役員は、もう１名いらっしゃる。",
+      "content": "In that case, there is one other officer from your class."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:24:46",
+      "origin": "はい。いらっしゃいます。",
+      "content": "Yes, there is."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:25:14",
+      "origin": "その方とは、ご関係はいかがですか。",
+      "content": "How is your relationship with that person?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:26:31",
+      "origin": "実は我が家はバス通園なので、クラスのお母さん方とも保護者会で顔を合わせる程度であまり親しい方がいないんです。でもこれから仲良くなっていきたいと思っています",
+      "content": "Actually, my child takes the bus to kindergarten, so I only see the other mothers from the class at parent meetings and I’m not very close to anyone. But I'd like to get to know them better from now on."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:27:18",
+      "origin": "なるほど、そうでしたか。登園時の送り迎えでなければ、ふだんは顔を合わせないですものね。",
+      "content": "I see. If you don't drop off and pick up your child yourself, you wouldn't normally see each other, would you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:27:58",
+      "origin": "そうなんです。なので少しバス通園のママ達は孤立している感じです…",
+      "content": "That's right. So the moms whose children take the bus feel a bit isolated..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:28:37",
+      "origin": "なるほど...難しい事情ですね...",
+      "content": "I see... that’s a challenging situation."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:28:52",
+      "origin": "そうですね…",
+      "content": "Yes, it is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:29:57",
+      "origin": "先ほど、ご長男は小学校３年生と伺いましたので、いまの幼稚園は、合わせて６年くらいになるかと思いますが、先生方とはいかがですか。",
+      "content": "You mentioned earlier that your older son is in third grade, so you've been involved with this kindergarten for about six years in total, I believe. How is your relationship with the teachers?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:30:59",
+      "origin": "そうですね。長男の時にお世話になった先生方にはお話ししたりします",
+      "content": "Yes. I do talk to the teachers who took care of my older son."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:31:18",
+      "origin": "今回のこと、ご相談などされてみましたか。",
+      "content": "Have you tried talking to them about this situation?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:32:08",
+      "origin": "いいえ。先生方もお忙しそうで。それにお会いできる機会もあまりないので…",
+      "content": "No. The teachers seem so busy, and I don't have many opportunities to see them..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:33:11",
+      "origin": "えぇえぇ、先生方、お忙しそうですものね。近々、お会いする機会などありますか。",
+      "content": "Yes, the teachers do seem busy. Do you have any opportunity to see them soon?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:34:16",
+      "origin": "うーん。しばらくはないかも知れません…",
+      "content": "Hmm. Probably not for a while..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:34:38",
+      "origin": "そうでしたか...そうすると、なかなかお話、出来そうにないでしょうか。",
+      "content": "I see... so it doesn't seem like you'll be able to talk to them anytime soon."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:35:30",
+      "origin": "そうですね。先生方はちょっと難しいかな…同じ役員と相談しながら進めるしかないかもです",
+      "content": "Right. It might be hard with the teachers... I may just have to move forward by consulting with the other officers."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:35:45",
+      "origin": "えぇ、そのようにお考えですね。",
+      "content": "I see—that’s how you’re thinking about it."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:36:19",
+      "origin": "はい。どうにかやるしかないかと…",
+      "content": "Yes. I feel like I just have to get it done somehow..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:36:42",
+      "origin": "えぇえぇ、",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:37:10",
+      "origin": "いろいろとお話を伺っている中で、考えていたのですけれど、",
+      "content": "As I’ve been listening to you, I've been thinking,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:38:14",
+      "origin": "経緯はショッキングなものだったけれど、まずは、会長を頑張っていこうとしていらっしゃいます",
+      "content": "Even though the circumstances of how it happened were shocking, you are trying to do your best as president."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:38:52",
+      "origin": "はい。そうですね。決まってしまったし、やるしかないかな",
+      "content": "Yes, that's right. It's been decided, so I guess I have no choice but to do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:40:15",
+      "origin": "ほかの役員の方と相談しながら、やるしかない、とお気持ちを決めていらっしゃるのですよね。",
+      "content": "You've resolved yourself to the fact that you have no choice but to do it by consulting with the other officers, haven't you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:40:51",
+      "origin": "そうですね。1年間だけのお勤めなので",
+      "content": "That's right. It's only a one-year term."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:41:10",
+      "origin": "えぇ、腹をくくっていらっしゃる感じ、素敵です。",
+      "content": "Yes—the way you’ve steeled yourself is admirable."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:41:45",
+      "origin": "ありがとうございますただ不安がとても大きいです",
+      "content": "Thank you. But my anxiety is still very strong."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:42:19",
+      "origin": "この経緯と状況ですから、無理もありません。",
+      "content": "Given the circumstances and how this all happened, that's perfectly natural."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:42:44",
+      "origin": "はい。そうですよね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:43:06",
+      "origin": "ひとつお話したいなと思うことがあって",
+      "content": "There’s something I’d like to share."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:43:25",
+      "origin": "リーダーには、ふたつのタイプがあるのだそうですよ。",
+      "content": "Apparently, there are two types of leaders."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:43:50",
+      "origin": "そうなんですね",
+      "content": "Oh, is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:44:10",
+      "origin": "はい。しっかり意見を持ってぐいぐい引っ張っていくタイプとメンバーの得意に任せて、みんなを上手に調整していくことでまとめるタイプ。",
+      "content": "Yes. One type has firm opinions and leads assertively, while the other brings everyone together by delegating based on members’ strengths and coordinating skillfully."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:44:25",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:44:47",
+      "origin": "この話を聴いて、なにか思われることがありますか。",
+      "content": "Hearing this, does anything come to mind for you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:45:08",
+      "origin": "私は後者かな",
+      "content": "I think I might be the latter."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:45:24",
+      "origin": "えぇえぇ、私は、そのように感じました。",
+      "content": "Yes, that's the impression I got as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:45:36",
+      "origin": "そうですか",
+      "content": "You think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:46:28",
+      "origin": "はい、今日、ここでお話をさせていただく中で、私の問いに、ひとつひとつ丁寧に返してくださり、質問が重なってしまったときにも、まっさきにメッセージをくださいました。",
+      "content": "Yes. As we've been talking here today, you've answered each of my questions so thoughtfully, and when our messages overlapped, you were very considerate and replied first."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:46:59",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:47:31",
+      "origin": "そんなあなたですから、役員の皆さんの意見を、しっかりお聴きになって、上手に調整される気がします。",
+      "content": "Because you're that kind of person, I feel you'll be able to listen carefully to the other officers' opinions and coordinate things skillfully."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:47:44",
+      "origin": "いかがでしょうか。",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:49:21",
+      "origin": "そんな風に捉えていただけて嬉しいです。「みんなの意見を聞く」はできそうな気がします。問題はまとめるがだきるかどうか…",
+      "content": "I'm happy you see me that way. I feel like I can probably “listen to everyone’s opinions.” The problem is whether I can bring it all together..."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:49:37",
+      "origin": "だきるか→できるか",
+      "content": "(Typo correction: dekiru ka)"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:49:44",
+      "origin": "すみません",
+      "content": "Sorry."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:50:06",
+      "origin": "いえいえ、お気遣い、ありがとうございます。",
+      "content": "Not at all—thank you for the clarification."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:50:50",
+      "origin": "意見を言いたい人は、聞いて貰えるのが嬉しかったりしますから！",
+      "content": "People who want to share their opinions are often happy just to be heard!"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:51:09",
+      "origin": "そうなんですね",
+      "content": "Oh, that's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:51:20",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:52:37",
+      "origin": "まとめられるかどうか...のご不安。これについては、出来そうなこと、ありますか。",
+      "content": "About your anxiety over whether you can bring it all together... is there anything you feel you could do about that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:53:29",
+      "origin": "うーん。こっちを立てればあっちが立たずみたいな状態になりそうで心配です",
+      "content": "Hmm. I’m worried it will become a situation where if you please one side, you displease the other."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:54:20",
+      "origin": "やはり自分の意見はしっかり持っておかないとかな…",
+      "content": "I guess I really do need to have my own firm opinion after all..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:55:34",
+      "origin": "そうですね...はじめから持っていなくても、たとえば、みなさんの意見を聞くなかで、選んで行かれたり、掛け合わせたりして、も良いかもしれないですね。いかがでしょうか。",
+      "content": "That's true... Even if you don’t have one from the start, you could, for example, listen to everyone’s opinions and then select from or combine them. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:56:28",
+      "origin": "そうですね。その方が柔軟に対応できそうですね",
+      "content": "That's true. That seems like a more flexible way to handle it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:56:42",
+      "origin": "えぇ、そのような気がします。",
+      "content": "Yes, I think so too."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:56:54",
+      "origin": "そうですね",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:57:23",
+      "origin": "はい。そろそろ終了のお時間となってしまいましたが、お話足りないこと、ありますか。",
+      "content": "Okay. Our time is almost up, but is there anything else you wanted to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:57:49",
+      "origin": "大丈夫です。少し頑張ってみようと思います",
+      "content": "I’m okay. I think I’ll try to do my best."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T19:58:49",
+      "origin": "えぇえぇ。今日お話をしていて、とってもお気遣いなされるお人柄と感じました。応援させていただきますね。",
+      "content": "Yes, yes. Talking with you today, I felt you have a very considerate personality. I'll be cheering for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T19:59:16",
+      "origin": "ありがとうございます相談して元気が出ました",
+      "content": "Thank you. Talking with you has lifted my spirits."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T20:00:21",
+      "origin": "今日はお越しくださりありがとうございました。またご不安なことがありましたら、ぜひ、こちらにいらしてください。それでは終了させていただきます。",
+      "content": "Thank you for coming today. If you ever feel anxious again, please feel free to come back. I will now end the session."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T20:00:51",
+      "origin": "はいアドバイスありがとうございました。ななかのときはまた来ます",
+      "content": "Yes, thank you for the advice. I’ll come again if something comes up."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T20:01:04",
+      "origin": "はい、いつでもお待ちしています。",
+      "content": "Yes, we're always here for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T20:01:10",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T20:01:29",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T20:01:36",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T20:01:51",
+      "origin": "（ありがとうございました。こちらで終了で宜しいでしょうか）",
+      "content": "(Thank you very much. Shall we conclude the session here?)"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-23T20:02:09",
+      "origin": "（はい。大変勉強になりました。ありがとうございました！）",
+      "content": "(Yes. This was a great learning experience. Thank you very much!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-23T20:02:17",
+      "origin": "（とても勉強になりました。評価コメントなど、よろしくお願いいたします。それでは失礼いたします）",
+      "content": "(This was very educational for me as well. Please feel free to leave an evaluation comment. Goodbye for now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "PTA役員に対する不安とサポート不足"
+  },
+  "review_by_client": {
+    "evaluation_id": 4025,
+    "evaluation_created_at": "2022-09-23T20:15:00",
+    "client_id": 324,
+    "counselor_id": 307,
+    "score": 96,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

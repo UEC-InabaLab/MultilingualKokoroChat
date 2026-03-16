@@ -1,0 +1,711 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:05:11",
+      "origin": "本日はお願いします。",
+      "content": "Thank you for coming today."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:05:36",
+      "origin": "（よろしくお願いいたします。）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:06:08",
+      "origin": "遅くなり申し訳ございません。",
+      "content": "I apologize for the delay."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:06:50",
+      "origin": "大丈夫ですよ(◠‿・",
+      "content": "That's quite all right. (◠‿・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:08:20",
+      "origin": "ありがとうございます。早速始めさせていただいてよろしいでしょうか？",
+      "content": "Thank you. May we go ahead and get started?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:08:45",
+      "origin": "はい、お願いします(◔‿◔)",
+      "content": "Yes, please. (◔‿◔)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:09:02",
+      "origin": "こんばんは。相談員です。本日はお越しくださりありがとうございます。差し支えなければ年齢と性別を教えていただけますでしょうか？",
+      "content": "Good evening. I'm your counselor. Thank you for coming today. If you don't mind, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:09:22",
+      "origin": "こんばんは。30代　女です",
+      "content": "Good evening. I'm a woman in my 30s."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:09:39",
+      "origin": "こんばんは。ありがとうございます。",
+      "content": "Good evening. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:10:00",
+      "origin": "本日はどういった相談内容でお越しくださいましたか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:10:29",
+      "origin": "仕事の事で少し相談したくて。",
+      "content": "I'd like to talk a bit about work."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:10:56",
+      "origin": "そうだったのですね。ゆっくりお話しできればと思います。",
+      "content": "I see. Please take your time to talk."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:11:06",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:11:11",
+      "origin": "もう少し詳しく伺っても良いですか？",
+      "content": "Could you tell me a little more?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:11:44",
+      "origin": "はい、仕事仲間とのコミュニケーションの難しさを感じていて。",
+      "content": "Yes, I'm finding it difficult to communicate with my coworkers."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:12:08",
+      "origin": "そうなのですね。それはしんどいですよね。",
+      "content": "I see. That must be tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:12:24",
+      "origin": "しんどさというのはどういった状態でしょうか？",
+      "content": "When you say 'tough,' what does that feel like for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:13:17",
+      "origin": "ええ…今コロナでリモート会議が多いんですが、なかなか意見の出し合いが上手くいかなくて。",
+      "content": "Well... with COVID, we have a lot of remote meetings, and we're not able to exchange ideas very well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:14:20",
+      "origin": "そうなのですね。意見の出し合いの難しさというのはどのような時に感じられますか？",
+      "content": "I see. In what situations do you feel it's difficult to exchange ideas?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:14:39",
+      "origin": "みんななかなか発言してくれないんです。",
+      "content": "Everyone is reluctant to speak up."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:15:05",
+      "origin": "あぁなるほど。それは心苦しいですね。",
+      "content": "Ah, I see. That must be disheartening."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:15:49",
+      "origin": "意見を出し合わないとよい案も出せないので、先に進まなくて…",
+      "content": "If we don't share our opinions, we can't come up with good ideas, so we can't make progress..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:16:47",
+      "origin": "そうですよね。何か工夫されていることはあるのですか？",
+      "content": "I see. Is there anything you've been trying to do about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:18:11",
+      "origin": "一応、どんな意見でも良い悪いは別として、一人ひとり思っている案があれば話して下さいとは伝えているんです。",
+      "content": "Well, I have told them to please share any ideas they have, regardless of whether they're good or bad."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:18:56",
+      "origin": "思っている案を話しやすいように伝えておられるのですね。",
+      "content": "So you're trying to make it easier for them to share their ideas."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:19:20",
+      "origin": "はい、批判されたりと思うとなかなか話しにくいと思ったので…",
+      "content": "Yes, I thought it would be hard for them to speak up if they were worried about being criticized..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:20:03",
+      "origin": "皆様のことを考えてお伝えになっているのですね。",
+      "content": "It's very considerate of you to say that for everyone's sake."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:20:15",
+      "origin": "そう伝えて周りの方々はいかがですか？",
+      "content": "How have others responded to that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:21:07",
+      "origin": "それでもなかなか案を出してくれなくて…　誰かが何か言うのを待つという様な状態です",
+      "content": "Even so, they still don't offer any ideas... It's like everyone is just waiting for someone else to say something."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:21:28",
+      "origin": "そのような状態なのですね。",
+      "content": "So that's the situation."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:21:37",
+      "origin": "ええ…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:21:41",
+      "origin": "その状態を見てどう思われますか？",
+      "content": "When you see that happening, how do you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:21:55",
+      "origin": "困ったなと",
+      "content": "I'm at a loss."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:22:13",
+      "origin": "そうですよね。困りますよね。",
+      "content": "I can see that. It is a troubling situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:22:32",
+      "origin": "誰かに相談はされますか？",
+      "content": "Have you talked to anyone about this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:23:25",
+      "origin": "ええ、上司にはこうした状態であるとは伝えているのですが、リーダーはお前だから何とかしろと言われているので、何とかしないとなと、色々と試行錯誤しているところです。",
+      "content": "Yes, I've told my boss about the situation, but he told me, \"You're the leader, so you figure it out.\" So I'm trying to do something about it, going through some trial and error."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:24:12",
+      "origin": "そうなのですね。一生懸命、試行錯誤をされているのですね。",
+      "content": "I see. You're working very hard and trying different approaches."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:25:10",
+      "origin": "試行錯誤してみていかがですか？",
+      "content": "How has it been, trying those different approaches?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:25:20",
+      "origin": "ええ、大勢だと話しにくいと思ったりするので、個別でメールをしたりなどもしているのですが、なかなか案がないです、と言われてしまうばかりで。",
+      "content": "Well, I thought maybe it's difficult to speak up in a large group, so I've also tried emailing them individually, but they just tell me they don't have any ideas."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:25:57",
+      "origin": "そうだったのですね。なかなか思うようにいかないのはしんどいですよね。",
+      "content": "I see. It must be difficult when things don't go as you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:26:54",
+      "origin": "そうなんですよね、私一人の案ではなかなか違う視点から物事を考えられなかったりするので、色んな案がほしいんですよね。",
+      "content": "Exactly. With only my ideas, it's hard to think about things from different perspectives, so I really want to get a variety of ideas."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:27:36",
+      "origin": "そうですよね。1人では仕事は出来ないですもんね。",
+      "content": "That's true. You can't do a job all by yourself."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:28:10",
+      "origin": "ええ、チームなのになんだか一人で空回りしている感が否めなくて",
+      "content": "Yes, even though we're a team, I can't shake the feeling that I'm spinning my wheels alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:28:53",
+      "origin": "試行錯誤して取り組んでいるのに、そう感じてしまうのはお辛いですね。",
+      "content": "It must be painful to feel that way, especially when you're trying so hard."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:30:00",
+      "origin": "どうしたらみんなが発言しやすくなるんだろうかと、いつも考えて疲れるんですよね",
+      "content": "I'm always thinking about what I can do to make it easier for everyone to speak up, and it's exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:30:34",
+      "origin": "それは疲れてしまいますよね。",
+      "content": "That must be very tiring."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:30:55",
+      "origin": "リモート会議の前はどうでしたか？",
+      "content": "What was it like before the remote meetings?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:32:02",
+      "origin": "なんとなく近くで顔を合わせると少し話しやすい雰囲気はあったのかなと、そんな感じはするのですが…",
+      "content": "I feel like when we were meeting face-to-face, the atmosphere was a bit more conducive to conversation..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:32:30",
+      "origin": "なるほど。やはりオンラインとは違うのですんね。",
+      "content": "I see. So it really is different from being online."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:32:44",
+      "origin": "そうなのかもしれないですね、",
+      "content": "That might be the case."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:33:14",
+      "origin": "ですが、コロナでこれもどうしようもない事なので、改善していかないと全く仕事にならなくて…",
+      "content": "But with COVID, it can't be helped, so if I don't improve things, we won't get any work done at all..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:33:58",
+      "origin": "そういう風にも捉えておられるのですね。",
+      "content": "So that's how you're looking at it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:34:30",
+      "origin": "他にコミュニケーションの難しさを感じることはありますか？",
+      "content": "Are there any other situations where you find communication difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:35:30",
+      "origin": "いえ、他は特にないですね、",
+      "content": "No, not really anything else."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:35:49",
+      "origin": "他人任せ的な部分をなんとかしたいなと。",
+      "content": "I want to do something about the tendency to leave things to others."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:36:31",
+      "origin": "そうなのですね。今はこのオンライン会議で表出された人任せな部分について悩まれているのですね。",
+      "content": "I see. So right now, you're concerned about this tendency to rely on others, which has become apparent in these online meetings."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:37:29",
+      "origin": "ええ、失敗は考えなくていいからとは伝えるのですが、意見すら出してくれないので、どうしたものかと。",
+      "content": "Yes, I tell them not to worry about making mistakes, but they won't even offer opinions, so I'm at a loss."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:38:00",
+      "origin": "なるほど。そうですよね。",
+      "content": "I understand. That makes sense."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:38:11",
+      "origin": "この件について誰か頼れそうな方はいらっしゃいますか？",
+      "content": "Is there anyone you feel you can rely on regarding this matter?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:39:04",
+      "origin": "そうですね、上司も他の仕事を抱えているのでなかなか時間を取ってもらえなくて。",
+      "content": "Well, my boss is busy with other work, so it's hard to get their time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:39:36",
+      "origin": "そうですか。時間をとってもらうのは難しいのですね。",
+      "content": "I see. So it's difficult to get their time."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:40:14",
+      "origin": "ええ、それぞれが違う仕事にわかれてチームを組んでいるので",
+      "content": "Yes, the team is made up of people who are each working on different tasks."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:40:26",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:40:40",
+      "origin": "どういう形で会議できるのが理想ですか？",
+      "content": "What would be the ideal format for your meetings?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:41:08",
+      "origin": "やはり出社して近くで話せる事ですよね",
+      "content": "Ideally, it would be to come to the office and talk in person."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:41:39",
+      "origin": "そうですよね。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:41:53",
+      "origin": "今後そうなる見込みなどはありそうですか？",
+      "content": "Is there any chance of that happening in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:42:45",
+      "origin": "会社自体が出社制限をかけているので、私では調整もできないですし、いつ解禁されるかも見通しは全くない状態です",
+      "content": "The company itself has restrictions on coming to the office, so I can't arrange it, and there's no telling when the restrictions will be lifted."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:43:01",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:43:08",
+      "origin": "ええ…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:43:22",
+      "origin": "それはなかなか難しそうですね。",
+      "content": "That does seem quite difficult."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:44:16",
+      "origin": "意見を出しやすくする何かいい方法などはないのでしょうか？",
+      "content": "Are there any good ways to make it easier for people to share their ideas?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:44:50",
+      "origin": "そこが気になるところですよね。",
+      "content": "That's what you're concerned about, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:45:05",
+      "origin": "もう一つだけ伺いたいのですが、今までの会議では皆さんの意見はどうでしたか？",
+      "content": "I'd like to ask just one more thing. How was the exchange of ideas in your meetings before?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:46:27",
+      "origin": "ええ、それが簡単にできたなら悩みもなくなるのですが…うーん、以前は違うチームだったので、チーム内の人間が今とは少し違っていて",
+      "content": "Well, if that were easy, I wouldn't have this problem... Hmm, I was on a different team before, so the members were a bit different than they are now."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:47:14",
+      "origin": "今は積極的でない仲間のようで…",
+      "content": "It seems the current members aren't very proactive..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:47:27",
+      "origin": "なるほど。さらに難しい状況で頑張って来られてきたのですね。",
+      "content": "I see. So you've been working hard in an even more challenging situation."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:47:57",
+      "origin": "一つ仕事が終わるとチームが変わってしまうので…",
+      "content": "Whenever one project ends, the team changes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:48:11",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:48:27",
+      "origin": "今のチームの方々にあなたのお気持ちを伝えて見るのはいかがですか？",
+      "content": "How about trying to tell your current team members how you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:49:51",
+      "origin": "そうですね、一応私も一丸となってこの仕事をみなさんと頑張りたいと伝えてはいるのですが…",
+      "content": "Well, I have told them that I want to work hard on this project together with everyone as a team..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:50:07",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:50:20",
+      "origin": "何かあまりやる気がないというような感じがして…",
+      "content": "I get the sense that they're not very motivated..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:50:46",
+      "origin": "どういうところにやる気のなさを感じますか？",
+      "content": "What makes you feel they lack motivation?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:51:01",
+      "origin": "やはり意見が全く出ないところですね、",
+      "content": "It's mainly the fact that no opinions are shared at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:51:19",
+      "origin": "そこが一番大きいのですね。",
+      "content": "So that's the biggest factor."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:51:40",
+      "origin": "猶予は出してはいるのですが、全く案が上がらないんですよね",
+      "content": "I give them extra time, but no ideas come up at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:51:48",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:52:31",
+      "origin": "あなたの今の案が出なくて苦しいという思いは伝えられましたか？",
+      "content": "Have you been able to convey your distress over the lack of ideas?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:53:05",
+      "origin": "ええ、私なりには伝えてはいるつもりなのですが、",
+      "content": "Yes, I believe I've conveyed that in my own way."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:53:15",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:53:25",
+      "origin": "案を出すことでよい物ができあがるからと。",
+      "content": "That by contributing ideas, we can create something good."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:54:00",
+      "origin": "私が間違っていたならそう言ってほしいとも伝えてはいるところです",
+      "content": "I've also told them to please let me know if I'm wrong about something."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:54:13",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:54:20",
+      "origin": "反応はいかがですか？",
+      "content": "How have they responded?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:54:46",
+      "origin": "特にそうですね…みたいな感じで終わってしまうので",
+      "content": "It just sort of ends with them saying, \"Yeah, I guess so...\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:55:05",
+      "origin": "それは本当やるせない気持ちになりますよね。",
+      "content": "That must make you feel truly helpless."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:56:01",
+      "origin": "ええ、チームなので、一人で責任を負わなくていいとは伝えるのですが、なかなか遠慮しているのかなんだか…",
+      "content": "Yes, I tell them that since we're a team, they don't have to bear the responsibility alone, but I don't know if they're just being reserved or what..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:56:49",
+      "origin": "気持ちの足並みが揃っていない状態なのですね。",
+      "content": "It sounds like everyone isn't on the same page."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:57:11",
+      "origin": "まだまだお話の途中ではございますが、本日のカウンセリングはそろそろ終わりに近づいておりますが本日お話しされていかがでしたか？",
+      "content": "I know we're still in the middle of our conversation, but our time for today is coming to a close. How do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:57:58",
+      "origin": "そうですね、そろそろ時間になりますね。ゆっくり時間をかけて考えようと思います。",
+      "content": "You're right, it's about time. I think I'll take my time to think this over."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:58:36",
+      "origin": "またお辛い気持ちになられたらいつでもお越しくださいね。",
+      "content": "If you find yourself struggling again, please feel free to come back anytime."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T20:58:47",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T20:59:28",
+      "origin": "こちらこそありがとうございました。どうぞ身体にお気を付けてくださいね。",
+      "content": "Thank you as well. Please take care of yourself."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T21:00:11",
+      "origin": "お気遣いありがとうございます。お話を聞いていただきまして、ありがとうございました。",
+      "content": "Thank you for your concern. Thank you for listening."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T21:01:14",
+      "origin": "こちらこそありがとうございました。それでは相談を終了させていただきます。",
+      "content": "Thank you as well. I will now conclude the session."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T21:01:21",
+      "origin": "はい。",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T21:01:36",
+      "origin": "ロールプレイありがとうございました。不慣れがありご迷惑をお掛けしましたが、お付き合いいただきありがとうございましsだてられれば。",
+      "content": "Thank you for the role-play. I apologize for any inconvenience my inexperience may have caused, but I appreciate you going along with it."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T21:02:44",
+      "origin": "（いえ、こちらこそ貴重な時間をいただきまして、ありがとうございました。(•‿•)）",
+      "content": "(Not at all. Thank you for your valuable time. (•‿•))"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T21:03:48",
+      "origin": "どんな意見も頂きたいので評価もぜひ、よろしくおねがいいたします。本日はありがとうございました。",
+      "content": "I would appreciate any feedback, so please feel free to leave a review. Thank you for today."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-22T21:04:35",
+      "origin": "こちらこそ、ありがとうございました(◠‿・)",
+      "content": "Thank you as well. (◠‿・)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-22T21:05:01",
+      "origin": "それでは終了させていただきます。失礼いたします。",
+      "content": "Then I will end the session now. Take care."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "仕事仲間とのコミュニケーションの難しさ"
+  },
+  "review_by_client": {
+    "evaluation_id": 2599,
+    "evaluation_created_at": "2021-10-22T21:48:00",
+    "client_id": 235,
+    "counselor_id": 234,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

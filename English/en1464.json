@@ -1,0 +1,597 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-19T09:51:28",
+      "origin": "(おはようございます。本日はよろしくお願いいたします）",
+      "content": "(Good morning. Thank you for coming in today.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T09:52:34",
+      "origin": "おはようございます。こちらこそよろしくお願いいたします。",
+      "content": "Good morning. Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T09:53:10",
+      "origin": "（時間前ですが、始めますか？10時から始めたほうがよろしいですか？）",
+      "content": "(We're a bit early—shall we start now? Or would you prefer to begin at 10:00?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T09:54:52",
+      "origin": "お待たせしました！今からでも大丈夫ですよ。",
+      "content": "Sorry to keep you waiting! Starting now is fine with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T09:55:18",
+      "origin": "（承知いたしました。では始めさせていただきますね）",
+      "content": "(Understood. Then let's begin.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T09:55:33",
+      "origin": "はい、よろしくお願いいたします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T09:55:59",
+      "origin": "こんにちは。相談員です。今日はご相談に来ていただきありがとうございます。まずはじめに差し支えなければ年齢と性別を教えていただけますか？",
+      "content": "Hello. I'm your counselor today. Thank you for coming in. To start, if you don't mind, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T09:56:37",
+      "origin": "はい、年齢は37歳、女性です。",
+      "content": "Yes, I'm 37 years old and female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T09:56:59",
+      "origin": "教えていただきありがとうございます。ちなみに相談者様を何とお呼びしたらよろしいでしょうか？",
+      "content": "Thank you for sharing that. By the way, how would you like me to address you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T09:57:23",
+      "origin": "では、ミキでお願いします。",
+      "content": "Please call me Miki."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T09:57:50",
+      "origin": "ミキさん、ですね。よろしくおねがいします。今日のご相談内容を教えていただけますか？",
+      "content": "Miki, got it. It's nice to meet you. Could you tell me what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T09:59:07",
+      "origin": "よろしくお願いいたします。自炊が苦手で、なかなかやらないのですが、できればするようになりたいという相談です。",
+      "content": "Nice to meet you too. I'm not good at cooking for myself and rarely do it, but I'd like to talk about how I can start doing it more."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:00:15",
+      "origin": "そうなんですね。自炊が苦手ということですが、普段はどのようにされているのですか？",
+      "content": "I see. You mentioned you're not good at cooking for yourself. How do you usually manage your meals?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:00:42",
+      "origin": "普段は買って",
+      "content": "I usually buy"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:00:56",
+      "origin": "きたりが多いです。",
+      "content": "ready-made food."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:01:42",
+      "origin": "ありがとうございます。ちなみにミキさんは家族と生活されているのですか？",
+      "content": "Thank you. By the way, Miki, do you live with your family?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:02:42",
+      "origin": "旦那さんはいますが、普段は単身赴任なので、いない状況が常です。",
+      "content": "I have a husband, but he's usually away on a work assignment, so he's almost always not here."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:03:06",
+      "origin": "そうなんですね。ではおひとりでの食事が多い？",
+      "content": "I see. So you often eat alone?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:03:49",
+      "origin": "そうですね。だから余計にさぼってしまいます。",
+      "content": "That's right. That's why I tend to slack off even more."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:04:17",
+      "origin": "うん、うん、一人だとそうなりますよね。",
+      "content": "Mm-hm, mm-hm—it's understandable when you're by yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:04:55",
+      "origin": "ミキさんが自炊するようになりたいと思うようになったのは何かきっかけがあったのですか？",
+      "content": "Was there something specific that made you want to start cooking for yourself, Miki?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:05:00",
+      "origin": "はい、簡単に済ませる感じです。",
+      "content": "Yes, I tend to just make something quick and easy."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:05:41",
+      "origin": "（行き違ってすみません）",
+      "content": "(Sorry for the misunderstanding.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:06:44",
+      "origin": "わかります。誰かに食べてもらうというのがないと、私も簡単になっちゃいます。。",
+      "content": "I understand. When there's no one else to cook for, I also end up keeping it simple."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:06:56",
+      "origin": "きっかけは、身体にいいかなということと、食べるのがおろそかになりがちなのと、旦那さんが帰ってきたときのためにもとか。",
+      "content": "The trigger is that it might be good for my health, I tend to neglect eating properly, and also for when my husband comes home."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:07:16",
+      "origin": "こちらこそ行き違いすみません。",
+      "content": "Sorry for the mix-up on my side as well."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:07:41",
+      "origin": "はい、そうなんです。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:08:32",
+      "origin": "なるほど。自分自身の健康のこと、旦那さんのために、苦手なことに挑戦しようとするミキさん、素敵ですね。",
+      "content": "I see. It's wonderful that you're trying to take on something you find difficult for your own health and for your husband, Miki."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:09:24",
+      "origin": "ありがとうございます。メリットが多いかなと。",
+      "content": "Thank you. I feel there are many benefits."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:09:54",
+      "origin": "そうですよね、健康だけでなく、経済的にもよさそうですものね。",
+      "content": "That's right. It seems like it would be good not just for your health, but financially as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:10:37",
+      "origin": "ミキさんは、自炊のどのあたりが特に苦手ですか？",
+      "content": "Which aspects of cooking for yourself do you find especially difficult?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:11:37",
+      "origin": "ちなみに私は献立を考えるのがとても苦手で苦痛です。",
+      "content": "For what it's worth, I find planning meals to be very difficult and a pain."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:13:28",
+      "origin": "そうですね。慣れなのだとは思うのですが、なんか時間かかってしまうのと、自分の味に自信がないとかです。",
+      "content": "Right. I think it's a matter of getting used to it, but it somehow takes a lot of time, and I'm not confident in how my food tastes."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:14:13",
+      "origin": "献立も色々考えるのも時間かかりがちかもです。",
+      "content": "Planning the menu and thinking about various things can also take up a lot of time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:15:04",
+      "origin": "そうなんですね。献立、調理時間に時間がかかってしまうのと味付けですね。",
+      "content": "I see. So it's meal planning, the time it takes to cook, and the seasoning."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:15:44",
+      "origin": "作るときは何かを見ながら作られるのですか？",
+      "content": "When you do cook, do you follow something, like a recipe?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:16:38",
+      "origin": "はい、そうなんです。作るときは何か見ながらもあったり、だいだいでつくったり色々です。",
+      "content": "Yes, that's right. Sometimes I follow a recipe, and other times I just wing it; it varies."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:17:55",
+      "origin": "そうでしたか。ミキさんの言うように調理時間の短縮は「段取り」と「慣れ」で解決しそうですが、いかがでしょうか？",
+      "content": "I see. As you said, Miki, shortening cooking time seems solvable with preparation and practice. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:19:36",
+      "origin": "そうですね。慣れはつくっていって、段取りも作って慣れていくのがいいかもしれません。",
+      "content": "Yes. Building habits through practice and getting used to preparation might be good."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:20:50",
+      "origin": "まずは、たまにでもいいのでコツコツ。",
+      "content": "First, even occasionally is fine—as long as I keep at it steadily."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:21:34",
+      "origin": "うん、うん、いいですね。気負わず週一回からでもですね。細かい段取りが調理時間を短縮してくれる順番で書いてあるレシピだと楽そうですね。",
+      "content": "Mm-hmm, yes, that's great. Without putting too much pressure on yourself, maybe starting with once a week. It might be easier with recipes that have detailed steps written in an order that shortens the cooking time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:22:18",
+      "origin": "食材も2～３種類くらいで作れる、本当に簡単な",
+      "content": "Also, truly simple dishes you can make with just two or three ingredients"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:22:39",
+      "origin": "レシピからスタートするといいかもしれませんね。",
+      "content": "might be a good place to start."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:23:06",
+      "origin": "はい、週一くらいから、いいですね。食材も簡単だと手がつけやすいですね。",
+      "content": "Yes, starting with about once a week sounds good. And if the ingredients are simple, it's easier to get started."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:23:42",
+      "origin": "時短なレシピもあるのですね。",
+      "content": "So there are time-saving recipes, then."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:23:50",
+      "origin": "ええ、食材が多いと複雑な工程になってしまっていやになってしまいます",
+      "content": "Yes, if there are too many ingredients, the process becomes complicated and it can be discouraging."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:24:04",
+      "origin": "はい、そうなんです。",
+      "content": "Yes, exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:24:39",
+      "origin": "そうですね、「時短レシピ」で検索したらいいかもしれません。",
+      "content": "Right. It might be a good idea to search for \"quick recipes.\""
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:25:10",
+      "origin": "そういうのでつくるのが多かったと思います。はい、検索してみます。",
+      "content": "I think I've often cooked using those kinds of recipes. Yes, I'll try searching."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:26:07",
+      "origin": "はい、私もよく活用しております。ところで旦那さんは、今までの調理の状況で何かミキさんへ言ったりされたことはあったのですか？",
+      "content": "Yes, I use them a lot myself. By the way, has your husband ever said anything to you about your cooking so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:28:34",
+      "origin": "特にはいったりはしないですが、濃い味が好きな方なので、そうするほうが喜びますが、私は素材の味派なので薄味です。",
+      "content": "He doesn't really say anything, but he likes strong flavors, so he's happier when I cook that way. But I prefer lighter seasoning to enjoy the natural taste of the ingredients."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:29:21",
+      "origin": "なるほど、味の好みが違うのですね。そうなると作るときにちょっと取り分けて、味付けをしなおすとか、",
+      "content": "I see—so your taste preferences differ. In that case, you might set some aside while cooking and season the portions differently,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:29:38",
+      "origin": "ちょっと手間がかかってしまうのですね。",
+      "content": "That takes a bit of extra effort, doesn't it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:30:05",
+      "origin": "夫さんは単身赴任で調理はどうされているのでしょうね？",
+      "content": "Since your husband lives away for work, I wonder how he handles cooking there."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:30:56",
+      "origin": "そうですね。ちょっとした調味料をつけたしてもらったりはします。単身赴任では、自炊しています。",
+      "content": "Right. He sometimes adds a little extra seasoning himself. While he's away, he cooks for himself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:31:42",
+      "origin": "夫さんは自炊派なのですね。家に戻ってきたときは夫さんが主に作るんですか？",
+      "content": "So your husband is used to cooking for himself. When he comes home, does he do most of the cooking?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:32:20",
+      "origin": "家に戻ったときは、私がつくります。",
+      "content": "When he's back home, I'm the one who cooks."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:32:58",
+      "origin": "そうなんですね、ミキさんが自炊苦手なのは夫さんもご存じ？",
+      "content": "I see. Does your husband know that cooking isn't your strong suit?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:33:48",
+      "origin": "そうですね。得意ではないのは知っています。",
+      "content": "Yes. He knows it's not my strong suit."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:34:59",
+      "origin": "そうですか、夫さんも時々作ってくれると嬉しいなと思いましたが、いかがですか？",
+      "content": "I see. I was thinking it might be nice if he cooked for you from time to time. How would you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:36:43",
+      "origin": "そうですね。時々作ってくれると嬉しいですね。せっかく帰ってきて疲れてるかなとか思っていました。",
+      "content": "Yes, I'd be happy if he cooked occasionally. I was thinking that since he finally comes home, he might be tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:37:47",
+      "origin": "ミキさんは夫さんへのやさしさ、気遣いで「自分が作らなきゃ」となっていたのかもしれないなと感じました。",
+      "content": "I sensed that out of kindness and consideration for him, you may have been thinking, 'I have to be the one to cook.'"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:38:44",
+      "origin": "そうですね。本人に確認してはいませんでした。",
+      "content": "That's true. I never actually asked him."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:38:55",
+      "origin": "案外、夫さんは自炊に慣れているので、一緒に台所に立って、教えてもらうっていうのもいいかもしれません。",
+      "content": "Since he's used to cooking, it might actually be nice to stand in the kitchen together and have him teach you."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:39:48",
+      "origin": "ほんとですね。教えてもらいながら。",
+      "content": "You're right—learning from him as we go."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:40:41",
+      "origin": "うんうん、ミキさんが自炊を頑張りたいと思っている気持ちが夫さんも嬉しいんじゃないかなとも思いました。",
+      "content": "Yes, and I also thought that your husband would probably be happy to know that you want to try hard at cooking."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:41:29",
+      "origin": "はい、喜びそうな感じの人です。",
+      "content": "Yes, he's the kind of person who would be pleased."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:42:15",
+      "origin": "そうなんですね！素敵な夫さんですね。仕事で疲れてやりたくないんだといわれたときは休日に一緒に料理を楽しんでもいいですしね。",
+      "content": "I see! He sounds like a wonderful husband. If he says he's tired from work and doesn't want to, you could always enjoy cooking together on a day off."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:43:13",
+      "origin": "はい、休日だとゆっくり一緒にできますし。",
+      "content": "Yes, on a day off we can take our time and do it together."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:43:24",
+      "origin": "楽しいですね。",
+      "content": "That sounds fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:43:52",
+      "origin": "うん、うん、時間に追われずですね、二人の時間も持てますしね。",
+      "content": "Mm-hmm, yes, you wouldn't be rushed, and you could spend time together."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:44:59",
+      "origin": "はい。本当に。時間が気になりがちだったので。二人でやれば早いですし。",
+      "content": "Yes. Exactly. I tend to worry about the time. And if we do it together, it'll be faster."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:45:26",
+      "origin": "ほんとに、二人でやることで時短にもなりますね。",
+      "content": "Exactly—doing it together can also save time."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:46:06",
+      "origin": "普段はふたりでできないですし。はい、時短です。",
+      "content": "We can't usually do it together. Yes, it's a time-saver."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:46:33",
+      "origin": "苦手な時間が、素敵な時間にかわりそうですね。",
+      "content": "It sounds like something you find difficult could turn into a wonderful time."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:47:14",
+      "origin": "はい、楽しい気持ちになってきました。頼ってみたいと思います。",
+      "content": "Yes, I'm starting to feel excited about it. I think I'll try relying on him."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:48:18",
+      "origin": "そうですね、きっと頼られることで夫さんとミキさんの関係が深まるのではないかと思いました。",
+      "content": "Yes, I think that by relying on him, your relationship with your husband might deepen."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:49:22",
+      "origin": "自炊のスキルは慣れで少しずつ上がっていくと思いますので、まずは、ミキさんがおっしゃるように「楽しむこと」ですね。",
+      "content": "Your cooking skills will gradually improve with practice, so for now, as you said, Miki, the most important thing is to \"enjoy it.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:50:22",
+      "origin": "楽しい気分でお料理に向かうことができると、失敗してもまた次に挑戦してみようと笑える気がします。",
+      "content": "If you can approach cooking with a sense of fun, I feel you'll be able to laugh off any mistakes and try again next time."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:51:09",
+      "origin": "はい、嬉しいです。いろんな時間を共有できて。自炊スキルは少しずつ慣れていきたいと思います。まずは簡単な料理から楽しく。",
+      "content": "Yes, that makes me happy—to be able to share different kinds of time together. I'd like to build my cooking skills gradually. I'll start with simple dishes and enjoy it."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:51:54",
+      "origin": "はい、楽しむとまたやりたくなりますもんね。",
+      "content": "Yes, when it's fun, you want to do it again."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:52:21",
+      "origin": "ええ、そうですね、簡単レシピから徐々にレパートリーを増やして、",
+      "content": "Yes, exactly—start with easy recipes and gradually expand your repertoire,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:52:46",
+      "origin": "ミキさんご夫婦が楽しく食卓を囲む姿を想像しながら",
+      "content": "imagining the two of you happily gathered around the table,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:53:34",
+      "origin": "少しずつでいいので、無理せず自炊に挑戦していただければいいと思います。",
+      "content": "I think it would be good if you could try cooking for yourself little by little, without overdoing it."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:54:20",
+      "origin": "はい、レベル1から少しずつ挑戦してみます。",
+      "content": "Yes, I'll start from level one and work up little by little."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:55:24",
+      "origin": "そうですね、きっとミキさんならできますよ！今日のご相談はこれで終了でよろしかったでしょうか？",
+      "content": "Yes—I’m sure you can do it, Miki! Would it be alright to conclude our session here today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:56:11",
+      "origin": "次に旦那さんが帰ってくる楽しみもまたひとつ増えました。ありがとうございます。はい、終了で大丈夫です。",
+      "content": "Now I have one more thing to look forward to the next time my husband comes home. Thank you. Yes, we can finish now."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:57:02",
+      "origin": "ありがとうございます。ミキさん自身の健康のためでもありますしね、それが夫さんとも楽しい時間になること、心からお祈りいたします。",
+      "content": "Thank you. This is for your own health as well, and I sincerely hope it becomes an enjoyable time for you and your husband."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:57:57",
+      "origin": "ありがとうございます。そういっていただけて嬉しいです。今日は相談にのっていただけて良かったです。",
+      "content": "Thank you. I'm so happy to hear you say that. I'm glad I had this consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:58:35",
+      "origin": "私もそう言っていただけてうれしいです。またなにかあったときは、いつでもご相談くださいね。本日はご相談ありがとうございました。",
+      "content": "I'm happy to hear that too. If anything comes up, please feel free to reach out any time. Thank you for your consultation today."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T10:58:55",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-19T10:59:22",
+      "origin": "（今日はRPありがとうございました。それでは終了いたしますね）",
+      "content": "(Thank you for the role-play today. We'll conclude here.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-19T11:00:07",
+      "origin": "はい、お願いいたします。",
+      "content": "Yes, thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "自炊に関するコミュニケーションと協力"
+  },
+  "review_by_client": {
+    "evaluation_id": 1464,
+    "evaluation_created_at": "2021-03-19T11:43:00",
+    "client_id": 165,
+    "counselor_id": 120,
+    "score": 100,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

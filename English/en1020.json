@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-27T14:00:14",
+      "origin": "こんにちは、宜しくお願いします。",
+      "content": "Hello, nice to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:00:23",
+      "origin": "こんにちは。相談員です。今日はご相談に来ていただきありがとうございます。まずはじめに年齢と性別をおしえていただけますか？",
+      "content": "Hello. I'm your counselor. Thank you for coming in today. To start, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:00:59",
+      "origin": "30代、女性です。",
+      "content": "I'm a woman in my 30s."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:01:14",
+      "origin": "ありがとうございます。相談者様を何とお呼びしたらよろしいでしょうか？",
+      "content": "Thank you. How would you like me to address you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:01:34",
+      "origin": "純子でお願いします。",
+      "content": "Please call me Junko."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:01:54",
+      "origin": "純子さん、ですね。よろしくおねがいします。今日のご相談内容を教えていただけますか？",
+      "content": "Junko, got it. It's a pleasure to meet you. Could you tell me what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:03:11",
+      "origin": "小5の娘がいるんですが、相手をしてるとイライラしてしまって、どうしたらイライラを抑えられますか？",
+      "content": "I have a daughter in 5th grade, and I find myself getting so irritated when I'm dealing with her. How can I control this irritation?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:04:08",
+      "origin": "娘さんにイライラしてしまうんですね。それはきついですよね。",
+      "content": "So you find yourself getting irritated with your daughter. That must be tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:04:46",
+      "origin": "具体的にはどういう状況のときにイライラを感じますか？",
+      "content": "Can you tell me more specifically, in what kind of situations do you feel irritated?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:04:54",
+      "origin": "よく、その場を離れると良いか言われるけれど、それが出来ないんです。余計に落ち込みます。",
+      "content": "I often hear that it's good to walk away from the situation, but I can't do that. It just makes me feel more down."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:06:00",
+      "origin": "なるほど、純子さんはイライラの対処法を試そうとされているんですね。頑張っていらっしゃいますよね。",
+      "content": "I see—you’re trying to use coping strategies for your irritation. You’re really doing your best."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:06:50",
+      "origin": "なんとか娘さんにイライラしないで優しいお母さんでいたいという思いがあるからこそだとおもいました。きついですよね。",
+      "content": "I imagine it's because you have a strong desire to be a kind mother who doesn't get irritated with her daughter. That must be difficult."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:07:18",
+      "origin": "なかなか、うまくいかなくて毎日憂鬱になります。",
+      "content": "It's just not working out, and I feel depressed every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:08:38",
+      "origin": "うん、うん。子どもって思うように行かないし、相性もありますし、うまくいかないことだらけです。",
+      "content": "Mm-hmm. Kids don't always do what we expect, personalities can clash, and so many things just don’t go smoothly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:09:36",
+      "origin": "ところで、純子さんが、イライラした時、その場を離れられないのは何か理由があるのでしょうか？",
+      "content": "By the way, is there a particular reason you can't walk away from the situation when you feel irritated?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:09:37",
+      "origin": "極力怒鳴ったりはしないようにと思っていますが、私が我慢して抑えてるから余計にどこかで爆発しそうです。",
+      "content": "I try my best not to yell, but because I’m suppressing it and holding it in, I feel like I’m going to explode at some point."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:09:56",
+      "origin": "後を追ってくるんです。",
+      "content": "She follows me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:10:27",
+      "origin": "怒鳴らないように努力しているんですね。偉いです。",
+      "content": "You're making an effort not to yell. That's admirable."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:10:51",
+      "origin": "でも、なんだか限界かも。",
+      "content": "But I feel like I’m reaching my limit."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:12:19",
+      "origin": "限界を感じるほど純子さんがかなり頑張っているのが伝わります。後追いされると、確かに距離が取れず、冷静になれないですよね。",
+      "content": "I can tell you're trying extremely hard, to the point of feeling like you're at your limit. When she follows you, it's true that you can't get any distance and it's hard to calm down."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:12:39",
+      "origin": "純子さんが悩んでいることをご主人は聞いてくれますか？",
+      "content": "Does your husband listen when you share these concerns?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:13:58",
+      "origin": "主人に話しもしてますが「ちゃんと教えてやらないからだろ」だけです。娘は、勉強をしていて分からないところがあると癇癪を起こすんです。",
+      "content": "I do talk to my husband, but he just says, \"It's because you're not teaching her properly.\" My daughter throws a tantrum whenever there's something she doesn't understand while studying."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:15:35",
+      "origin": "純子さんの話をちゃんと受け止めて聞いてくれないんですね。純子さん一人で抱えてこんでいる状態なのですね。",
+      "content": "So he doesn't really listen and validate what you're saying. It sounds like you're shouldering this all by yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:16:23",
+      "origin": "そうですね。長女はこんなことはなかったので、すごく手を焼いています。",
+      "content": "That's right. My older daughter was never like this, so I'm having a really hard time with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:17:23",
+      "origin": "そうでしたか…どうしていいかわからないですよね。小5の娘さんの癇癪は家でだけ起こるもの？学校の様子はいかがですか？",
+      "content": "I see... It must be hard not knowing what to do. Do her tantrums happen only at home? How is she at school?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:17:58",
+      "origin": "学校ではないですね。癇癪を起こすと、叩く、蹴る、八つ当たりがひどいです。",
+      "content": "Not at school. When she has a tantrum, she hits, kicks, and takes it out on me terribly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:18:46",
+      "origin": "暴力的な行動が出てしまうんですね。それは純子さんにだけ向けられているということですか？",
+      "content": "So she exhibits violent behavior. Is that directed only at you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:19:45",
+      "origin": "そうですね。まだ力では私の方が勝つと思うんですけど、理由はともかく虐待になってしまうから、手は出せません。",
+      "content": "Yes. I think I'm still stronger than her, but regardless of the reason, it would become abuse, so I can't raise a hand to her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:20:20",
+      "origin": "手が出そうになる状況だと思いますが、よく耐えていらっしゃると思います。",
+      "content": "I can imagine it's a situation where you might feel like lashing out, and I think you're enduring it very well."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:20:21",
+      "origin": "またいつ癇癪を起こすかと思うと、一緒に居たくないです。",
+      "content": "Thinking she could have another tantrum at any moment makes me not want to be with her."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:21:06",
+      "origin": "一旦泣き始めるとすごい声で泣き続けます。",
+      "content": "Once she starts crying, she keeps crying at the top of her lungs."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:22:20",
+      "origin": "それは、大変ですよね。周りの方から虐待をうたがわれるんじゃないかとかヒヤヒヤしたり。",
+      "content": "That must be very difficult. You must worry that the neighbors might suspect you of abuse."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:23:21",
+      "origin": "そうですね、泣き声が大きくて、近所にも聞こえてるのかと思うと恥ずかしいですし、虐待してると思われたら嫌ですね。",
+      "content": "Yes, her crying is so loud, and I feel embarrassed thinking the neighbors can hear. I would hate for them to think I'm abusing her."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:23:46",
+      "origin": "とにかく、泣き声にも苛立ちます。",
+      "content": "Anyway, her crying itself irritates me."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:24:07",
+      "origin": "ほかの部屋に逃げてるんでふが、",
+      "content": "I try to escape to another room, but…"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:24:12",
+      "origin": "すが",
+      "content": "...but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:24:29",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:24:33",
+      "origin": "外出してやり過ごしたいくらおです。",
+      "content": "I want to go out and ride it out..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:24:40",
+      "origin": "くらいです。",
+      "content": "...that's how much I want to."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:25:04",
+      "origin": "でも、ご飯の準備やらやることはあるし…。",
+      "content": "But I have things to do, like preparing meals…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:25:38",
+      "origin": "外出してやり過ごしたくても後追いがあるし、やるべき家事があるから難しい状況なんですね",
+      "content": "So even if you want to go out to get away, she follows you, and you have chores to do, which makes the situation difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:26:42",
+      "origin": "純子さんが休まる場所がないのが本当にきついですよね。",
+      "content": "It must be really hard that you have nowhere you can get a break."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:26:45",
+      "origin": "そうですね。あとは、そこまですると「なんで逃げるんだ」と、余計に酷くなりそうな気もします。なんでこんなことくらいで、毎日毎日大泣きするのかと思います。",
+      "content": "That's right. And I also feel that if I go that far, she'll just say, \"Why are you running away?\" and it will make things even worse. I just wonder why she cries so much every day over such a small thing."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:27:56",
+      "origin": "感情の表現がとても強い娘さんなのですね。昔からですか？",
+      "content": "So your daughter expresses her emotions very intensely. Has she always been like this?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:29:03",
+      "origin": "出来ないことに関して多少癇癪は起こしていた方だと思いますが、ここまでひどくはなかったです。",
+      "content": "I think she tended to have tantrums over things she couldn't do, but it was never this severe."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:29:59",
+      "origin": "そうでしたか。小5になってひどくなった感じですか？",
+      "content": "I see. Does it feel like it got worse when she entered 5th grade?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:30:22",
+      "origin": "そうですねぇ、今年ぐらいからですかねぇ。",
+      "content": "Yes, I think maybe since around this year."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:30:54",
+      "origin": "なんか、他力本願的な思考を感じます。",
+      "content": "I feel like she has a mindset of relying on others to solve her problems."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:31:30",
+      "origin": "あとは、他責が強いような…。",
+      "content": "And she also tends to blame others a lot."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:32:03",
+      "origin": "そうなんですね、自分がこういう状況なのは他人のせいみたいな。",
+      "content": "I see, like thinking her situation is someone else's fault."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:34:16",
+      "origin": "例えば、勉強では「わかんなーい、もう、どうにかして」と言います。",
+      "content": "For example, with her studies, she'll say, \"I don't get it! Just do something about it!\""
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:34:44",
+      "origin": "なるほど、そういう感じなんですね",
+      "content": "I see, so it's like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:35:11",
+      "origin": "一緒にやろうと言っても難しいんですね。",
+      "content": "So it's difficult even if you offer to do it together."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:37:02",
+      "origin": "分からなくなると、そばに居ないと怒ります。分からないなら分からないで他のからやればと言っても融通がききません。こちらも説明を一生懸命するんですが、分からないと泣きわめくだけで、こちらもお手上げです。",
+      "content": "When she gets stuck, she gets angry if I'm not right beside her. Even if I tell her to just move on to something else if she doesn't understand, she's not flexible. I try my best to explain it, but when she doesn't get it, she just wails, and I'm at a loss."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:37:26",
+      "origin": "「ママー」っと叫んで呼びに来ます。",
+      "content": "She comes to get me, screaming \"Mom!\""
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:37:43",
+      "origin": "その度に家事が中断されます。",
+      "content": "Every time, my housework gets interrupted."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:38:06",
+      "origin": "いい加減一人でやって欲しいんですけど、難しいんですかね。",
+      "content": "I really wish she would just do it by herself already, but I guess that's too much to ask."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:39:09",
+      "origin": "純子さん、本当に大変ですね。爆発しそうになるのがわかります。",
+      "content": "Junko, that sounds incredibly difficult. I can understand why you feel like you're about to explode."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:39:33",
+      "origin": "少しここまでのことを整理していいですか？",
+      "content": "Would it be okay if I summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:39:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:40:43",
+      "origin": "癇癪を起こす娘さんの行動にイライラが募る純子さんは怒りの回避をしたいと思っています。なんとかしようと一生懸命頑張っています。でもなかなか状況が変わりません",
+      "content": "Junko, you're feeling increasingly irritated by your daughter's tantrums and you want to avoid getting angry. You're trying very hard to do something about it, but the situation isn't really changing."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:41:27",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:41:42",
+      "origin": "自分自身が娘さんへ爆発してしまって、暴力をふるってしまうのではないかという怖さ、恐れを抱えています。",
+      "content": "You also have a fear that you might explode and become violent towards your daughter."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:42:39",
+      "origin": "振るってしまうのではないかという怖さもありますが、とにかく今が耐えがたいです。苦痛です。",
+      "content": "I do have that fear, but more than anything, the current situation is unbearable. It's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:44:30",
+      "origin": "一番解決したいこととしては娘さんへの耐え難い苦痛な気持ちを少しでも減らして平穏な感情でいたいということになりますか？",
+      "content": "So, would you say the main thing you want to resolve is to reduce this unbearable, painful feeling towards your daughter, even just a little, and be able to feel more at peace?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:45:45",
+      "origin": "はい、そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:46:19",
+      "origin": "純子さんが少しでも心穏でいられるようにどうすればいいか一緒に考えたいと思います。",
+      "content": "I'd like to think together with you about what we can do to help you feel even a little more at peace."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:46:35",
+      "origin": "お願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:47:54",
+      "origin": "少し気になったのは、娘さんは学校のお友達とはうまく行っているようですか？それと娘さんの成績はどんな感じですか？",
+      "content": "One thing I’m curious about: does your daughter get along well with friends at school? And how are her grades?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:48:55",
+      "origin": "友達とはうまくいってると思います。成績は可もなく不可もなくという感じです。",
+      "content": "I think she gets along fine with her friends. Her grades are average, not particularly good or bad."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:49:18",
+      "origin": "勉強がどこかの時点から躓いて本当にわからなくなっている可能性もあるかなと思ったもので。",
+      "content": "I wondered if she might have hit a stumbling block at some point and genuinely doesn’t understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:49:59",
+      "origin": "お友達とも勉強も大丈夫なんですね。安心しました。",
+      "content": "So her friendships and her studies are both okay. That's a relief."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:51:22",
+      "origin": "小５ということもあって、思春期特有のイライラを娘さん自身も抱えているということも考えられるかなと思いました。",
+      "content": "Given that she's in 5th grade, I also thought it's possible that your daughter herself is dealing with the unique irritability that comes with puberty."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:53:00",
+      "origin": "思春期ですかぁ。とにかく、泣きわめくのは勉強のことなので、なんでそんなになるのかなと不思議なくらいです。",
+      "content": "Puberty, huh? But she only wails like that over her studies, so it's a mystery to me why she gets that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:53:49",
+      "origin": "勉強も成績はふつうくらいということで、全然わからないわけではないので、確かに不思議ですよね。",
+      "content": "And since her grades are average, it's not like she doesn't understand anything at all, so it is indeed strange."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:54:24",
+      "origin": "周りが中学受験をする子が多いのですが、私立に行きたいようです。",
+      "content": "Many of the kids around her are preparing for middle school entrance exams, and it seems she wants to go to a private school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:55:33",
+      "origin": "そうなんですね。受験をしたいと娘さんも言っておられるのですか。純子さんはどうお考えですか？",
+      "content": "I see. Is your daughter saying she wants to take the exams? What are your thoughts on that, Junko?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T14:56:34",
+      "origin": "本人が行きたいなら応援はしたいと思っていますが、別に公立でもいいんじゃないかとも思っています。",
+      "content": "If she wants to go, I want to support her, but I also think a public school would be fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:58:00",
+      "origin": "そうなんですね。娘さんの意向を尊重しようと思うところもあるんですね。お子さんのことをよく考えていらっしゃると思います。",
+      "content": "I see. So there's a part of you that wants to respect your daughter's wishes. I think you're thinking a lot about what's best for your child."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T14:58:53",
+      "origin": "仲のいい子が中学受験をよていしていて娘さんが焦っていたりすることもあるのかなと思いました。",
+      "content": "I wondered if perhaps close friends are planning to take entrance exams, and your daughter might be feeling pressured or anxious."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:00:02",
+      "origin": "こんなに子供じみた子が、受験を乗りきれるのかなという思いもあります。仲の良い子も受験をする感じです。",
+      "content": "I also wonder if such a childish kid can handle the rigors of entrance exams. Her close friends also seem to be taking them."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:00:52",
+      "origin": "焦りや、出来ないとバカにされると思ってるようなところはあるかもしれません。",
+      "content": "She might be feeling anxious, or she might think people will make fun of her if she can't do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:02:32",
+      "origin": "なるほど。バカにされたくない、もっと成績が良くないと中学受験はできないと考えているかもしれないですね。今はまだよくできるお友達に追いつけないで差があるから、それにイラつくのかも。",
+      "content": "I see. She might be thinking that she doesn't want to be made fun of, and that she needs better grades to get into middle school. Perhaps she's frustrated because she feels there's a gap between her and her high-achieving friends that she can't close yet."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:03:13",
+      "origin": "そうですね、負けず嫌いなところもあるかもしれません。",
+      "content": "Yes, she might have a competitive streak."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:04:21",
+      "origin": "純子さん自身の辛さも我慢せずに声を荒げることなく、冷静なときに娘さんへ言葉にしてもいいのかなと思いました。",
+      "content": "I was thinking that maybe, when you're calm, you could try expressing your own difficulties to your daughter in words, without raising your voice or holding it all in."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:05:10",
+      "origin": "冷静なときに伝えてはいるんですけど、なかなか変わりません。",
+      "content": "I have tried telling her when I'm calm, but it doesn't seem to change anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:07:28",
+      "origin": "そうだったんですね。あとは純子さんのリラックス方法をいくつか書き出して、娘さんが学校へ行っている間などに実行することはできそうですか？",
+      "content": "I see. In that case, what about writing down a few relaxation methods for yourself and trying them out while your daughter is at school?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:08:18",
+      "origin": "それは出来そうです。",
+      "content": "I think I can do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:08:24",
+      "origin": "疲弊している純子さんが純子さんらしい時間を取り戻すことも大事かなと思いました。",
+      "content": "I thought it's also important for you, being so exhausted, to reclaim some time for yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:09:09",
+      "origin": "そうですね。ここのところこんな調子で常に気分が落ちてました。",
+      "content": "Yes. Lately, I've been constantly down because of this."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:09:26",
+      "origin": "お子さんの癇癪を受け止めるのは本当に力のいることだと思います。",
+      "content": "Dealing with a child's tantrums takes a tremendous amount of energy."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:10:33",
+      "origin": "娘さんの嵐もいつかは過ぎるときがくるので、順子さん自身が少しでも充電の時間を作っていただけたらなと思いました。",
+      "content": "This storm with your daughter will pass someday, so I was hoping you could make some time to recharge yourself, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:10:49",
+      "origin": "１日の大半が、気持ち持ってかれてました。",
+      "content": "Most of the day, I felt emotionally consumed."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:11:01",
+      "origin": "はい、分かりました。",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:11:40",
+      "origin": "すみません時間が過ぎてしまいました。また、もやもやしたらいつでもご相談くださいね。このあたりで相談を終了してもよろしいでしょうか？",
+      "content": "I'm sorry, we've gone over our time. Please feel free to consult with me anytime you feel troubled. Would it be all right to conclude our session here?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:11:59",
+      "origin": "はい、大丈夫です。今日は有り難うございました。",
+      "content": "Yes, that's fine. Thank you so much for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:12:29",
+      "origin": "こちらこそご相談ありがとうございました。心が少しでも軽くなる時間を過ごせますことをお祈りいたします。",
+      "content": "Thank you for coming in as well. I hope you have moments when your heart feels even a bit lighter."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T15:13:02",
+      "origin": "有り難うございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T15:13:29",
+      "origin": "では終了いたします。（時間オーバーしてすみませんでした。）",
+      "content": "Then we'll end here. (My apologies for going over time.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "娘の癇癪に対する対処法の問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1020,
+    "evaluation_created_at": "2020-12-28T01:54:00",
+    "client_id": 84,
+    "counselor_id": 120,
+    "score": 64,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:00:05",
+      "origin": "こんにちは。相談員です。よろしくお願いいたします。",
+      "content": "Hello. I'm the counselor. It's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:00:24",
+      "origin": "よろしくお願いします。",
+      "content": "It's nice to meet you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:00:33",
+      "origin": "本日はどのようなご相談でしょうか？",
+      "content": "How can I help you today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:01:29",
+      "origin": "夫と離婚したいです。",
+      "content": "I want to divorce my husband."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:01:54",
+      "origin": "そうなのですね。それは重要なことですね。",
+      "content": "I see. That's a very significant decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:02:46",
+      "origin": "経緯をお伺いしたいのですが、どのような経緯で離婚を考えていらっしゃるのですか？",
+      "content": "I'd like to understand the background—what has led you to consider divorce?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:03:16",
+      "origin": "結婚10年目で息子が一人います。",
+      "content": "We've been married for ten years, and we have one son."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:04:01",
+      "origin": "夫は子育てにも家事にも家計にも全く興味を示さず、真面目に働いて稼げばそれでいいと思っています。",
+      "content": "My husband shows no interest in childcare, housework, or our family finances. He thinks that as long as he works hard and earns money, that's all that matters."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:04:39",
+      "origin": "それはあなたのご負担が大きいですよね。。",
+      "content": "That must place a heavy burden on you."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:04:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:06:07",
+      "origin": "夫は子育てに興味がないので、子供に対する発言がその場の感情でしかなく、教育理念も何も感じないです。だから子供との信頼関係を築けていないのです。",
+      "content": "Because he isn't interested in parenting, what he says to our child is driven only by whatever he's feeling in the moment; I don't sense any guiding values about education or parenting. That's why he hasn't built a trusting relationship with our child."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:06:45",
+      "origin": "そのため夫が家にいない方が、私も子供も気持ちがラクです",
+      "content": "That's why both my son and I feel more at ease when my husband is not at home."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:06:56",
+      "origin": "それは母親の立場として気がかりですよね。。",
+      "content": "As a mother, that must be very concerning."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:07:40",
+      "origin": "あなただけでなく息子さんもそうお感じなのですね。。",
+      "content": "So it's not just you; your son feels the same way."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:07:58",
+      "origin": "はい、夫は親として心の部分で機能していません。経済的には支えてくれていますが。。",
+      "content": "Yes. As a parent, he isn't functioning on an emotional level. He does support us financially, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:08:37",
+      "origin": "はい。。それは淋しく感じてしまいますよね。。",
+      "content": "I understand... That must feel very lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:08:52",
+      "origin": "寂しいというか、不快です",
+      "content": "It's not so much loneliness as discomfort."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:09:24",
+      "origin": "そうなんですね。だから家にいない方が楽だとお感じになられるのですね。",
+      "content": "I see. That's why you feel more at ease when he's not home."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:10:22",
+      "origin": "ご主人の発言や行動で他にはどのようなことが気になっていますか？",
+      "content": "Are there other things about your husband's words or behavior that concern you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:10:31",
+      "origin": "はい、そうなんです。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:11:25",
+      "origin": "夫は、家であまり話をしません。口を開けば他人を見下した発言ばかり。私のことも無駄にダメ出ししてきます。",
+      "content": "My husband doesn't talk much at home. When he does open his mouth, it's only to make condescending remarks about others. He criticizes me unnecessarily as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:11:49",
+      "origin": "確かの能力が高く、出世して稼ぐ人ではあります",
+      "content": "To be fair, he's very capable, has been promoted, and earns well."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:12:33",
+      "origin": "でも、私にとって夫は、他人を認めることのできない視野の狭い人間に感じ、軽蔑してしまってます",
+      "content": "But to me, he seems like a narrow-minded person who can't acknowledge others, and I've come to feel contempt for him."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:13:38",
+      "origin": "そうなのですね。。どうしたら良いかわからなくなってしまいますよね。。",
+      "content": "I see... It must make you feel lost about what to do."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:14:47",
+      "origin": "はい、息子を育てるだけで精一杯で、自分に経済力があればどんなにいいだろうと思います",
+      "content": "Yes, I have my hands full just raising my son, and I can't help but wish I had my own financial independence."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:15:17",
+      "origin": "そうですよね。。もどかしいですよね。。",
+      "content": "I understand... It must be very frustrating."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:15:55",
+      "origin": "具体的に離婚の時期などはお考えでいらっしゃいますか？",
+      "content": "Have you thought about a specific timeframe for the divorce?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:17:24",
+      "origin": "息子にはちゃんとした教育環境を与えていきたいので、息子の学費を払い終わるまでは離婚したくありません。",
+      "content": "I want to provide my son with a proper educational environment, so I don't want to divorce until his tuition is fully paid."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:18:23",
+      "origin": "息子さんの為を思ってそうお考えなのですね。",
+      "content": "So you're thinking of what's best for your son."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:18:46",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:19:19",
+      "origin": "息子さんの学費を払い終わる頃、となると何年後くらいになりそうですか？",
+      "content": "Around how many years from now would that be, when his tuition is paid off?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:19:48",
+      "origin": "大学に行くとしたら、約12年後ですね。。",
+      "content": "If he goes to university, it would be about 12 years from now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:21:48",
+      "origin": "息子さんの為に、そうお考えなのですね。",
+      "content": "So you're thinking that way for your son's sake."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:22:16",
+      "origin": "は",
+      "content": "Um..."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:22:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:22:32",
+      "origin": "今ちなみにお仕事はどんな感じですか？",
+      "content": "By the way, what is your current work situation?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:23:12",
+      "origin": "派遣で事務をしています。扶養内の収入で働いています。",
+      "content": "I do clerical work as a temporary employee. I work within the income limit for a dependent."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:24:22",
+      "origin": "お仕事もしながら子育てをするのは決して楽ではないですよね。。",
+      "content": "It can't be easy to raise a child while also working."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:24:34",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:26:06",
+      "origin": "少し話が前後しますが、ご主人の言動に対してあなたから要望など伝えられたときはいかがでしたか？",
+      "content": "This might go back a bit, but how did it go when you expressed requests or concerns about your husband's behavior?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:26:24",
+      "origin": "ワンオペ育児だし、家事もすべて私がやっているし、もし社員として仕事につけば、家庭がうまく回らなくなると思います",
+      "content": "I'm already handling all the childcare and housework by myself. If I were to get a full-time job, I don't think our household would run smoothly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:27:43",
+      "origin": "色々ご家族のことを考えたうえで選択なのですね。",
+      "content": "I see, so it's a choice you've made after considering many things for your family."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:27:44",
+      "origin": "夫が会社に行くときに「ごみ捨てといて」と言ってゴミ袋と渡すと「服が汚れるからいやだ」と言われました。",
+      "content": "When I asked my husband to take out the trash on his way to work and handed him the bag, he said, \"No, it'll get my clothes dirty.\""
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:28:29",
+      "origin": "そんな価値観の人に家事を頼むことはできないのです。根本的に当事者意識のない人に何を言ってもイヤイヤするだけだろうから。。",
+      "content": "I can't ask someone with that kind of mindset to do housework. With someone who fundamentally lacks a sense of ownership, whatever I say, he'll just do it begrudgingly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:29:11",
+      "origin": "そんなことが。。。頼めなくなってしまいますよね。",
+      "content": "I can see... that would make it hard to ask him for help."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:29:19",
+      "origin": "そうなんです",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:30:10",
+      "origin": "息子さんはご主人について何かおっしゃっていますか？",
+      "content": "Has your son said anything about his father?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:31:36",
+      "origin": "パパがいない方がラクだと言っています。夫と会話がかみ合わず、よく私に泣きついてきます。夫は人の気持ちを察するのが苦手なのです",
+      "content": "He says he's more relaxed when his dad isn't around. He can't have a proper conversation with my husband and often comes crying to me. My husband is not good at understanding people's feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:32:46",
+      "origin": "息子さんのことだと自分のこと以上に心苦しくなりますね。。",
+      "content": "It must be even more painful when it concerns your son than when it's about yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:33:07",
+      "origin": "そうですね、夫が家にいない方が平和です",
+      "content": "That's right. It's more peaceful when my husband isn't home."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:33:41",
+      "origin": "そう感じますよね。。",
+      "content": "I can see why you'd feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:34:27",
+      "origin": "まだ途中ではありますが、ここまでのお話をまとめさせて頂いてもよろしいですか？",
+      "content": "We're still in the middle of our discussion, but would it be all right if I summarize what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:34:37",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:35:18",
+      "origin": "現在ご主人と息子さんとあなたとの３人家族で、あなたは離婚を考えていらっしゃいます。",
+      "content": "You currently live as a family of three—your husband, your son, and you—and you are considering divorce."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:36:00",
+      "origin": "ご主人は家事、育児、家計には興味を示さず、仕事をすれば良いと思っていて",
+      "content": "Your husband shows no interest in housework, childcare, or finances, believing that his only responsibility is to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:37:33",
+      "origin": "息子さんに対しても感情で発言したり、ゴミ出しを断ったり、ダメ出しをしてきたりするのが不快に感じている",
+      "content": "You find it unpleasant when he speaks to your son based on his emotions, refuses to take out the trash, and criticizes you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:38:14",
+      "origin": "その一方でお金を稼ぐ能力はあり、経済的には助かっている",
+      "content": "On the other hand, he is good at earning money, which is a financial help."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:39:11",
+      "origin": "息子さんの学費を考えると12年後までは離婚は考えていない",
+      "content": "Considering your son's school expenses, you are not planning to divorce for at least another 12 years."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:40:05",
+      "origin": "今は息子さんのことを考え、正社員ではなく派遣でお仕事をされていらっしゃる",
+      "content": "Right now, you're working as a temp rather than a full-time employee to prioritize your son."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:40:14",
+      "origin": "こちらでよろしいでしょうか？",
+      "content": "Is that a correct summary?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:40:36",
+      "origin": "はい、大体そんな感じです",
+      "content": "Yes, that's more or less correct."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:40:48",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:42:44",
+      "origin": "離婚への決意は堅いように感じられたのですが、離婚に向けて準備をするとするならばどのような準備が必要そうでしょうか？",
+      "content": "It sounds like your decision to divorce is firm. If you were to begin preparing for it, what kind of preparations do you think would be necessary?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:43:34",
+      "origin": "どうすればいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:44:50",
+      "origin": "私の考えをお伝えしてもよろしいですか？",
+      "content": "May I share my thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:45:57",
+      "origin": "考えというか、準備ということは情報を何か教えていただければと思いました。",
+      "content": "Rather than your thoughts, I was hoping you could provide some information, since you mentioned preparations."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:47:16",
+      "origin": "わかりづらくて失礼しました。",
+      "content": "I apologize for not being clear."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:47:53",
+      "origin": "こちらこそ細かくてすみません。情報というよりも、「案」を提示していただければ幸いです。",
+      "content": "No, I'm sorry for being so particular. More than just information, I'd appreciate it if you could suggest some 'ideas' or 'options'."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:48:34",
+      "origin": "息子さんの自立後に離婚をするのであれば、あなたご自身の経済的な準備があるかと思います。",
+      "content": "If you're planning to divorce after your son becomes independent, preparing your own financial stability would be important."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:49:50",
+      "origin": "一人で暮らすだけの家賃や生活費など必要な金額を稼ぐ準備をすることがまずは大切になってくると思います。",
+      "content": "First, I think it will be important to prepare to earn enough money to cover your rent and living expenses on your own."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:50:51",
+      "origin": "それは大丈夫です。自分の貯金はしています",
+      "content": "That's fine. I have my own savings."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:51:17",
+      "origin": "ただ、早く離婚できるようならしたいと、今苦しい思いをしているのです。",
+      "content": "It's just that I'm in a lot of pain right now, and I wish I could get a divorce sooner if possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:52:01",
+      "origin": "なるほど。。お子様の学費も、となるとそれがなかなかすぐにはいかない、ということなのですね。",
+      "content": "I see... But with your child's school fees, that's what makes it difficult to do so right away."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:52:35",
+      "origin": "中学高校大学と私立に行くと考えると、到底私の稼ぎでは補えません。",
+      "content": "If he goes to a private junior high, high school, and then university, there's no way I can cover the costs with my income."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:53:31",
+      "origin": "大変ですよね。。",
+      "content": "That must be tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:54:53",
+      "origin": "今は息子さんも手がかかるかと思いますので仕事に本腰を入れるのは困難かと思いますが、",
+      "content": "I imagine your son needs a lot of your attention now, so it might be difficult to focus fully on work, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:56:01",
+      "origin": "息子さんがもう少し大きくなってきたらお仕事に注力できそうなのではないかと思いましたが、いかがですか？",
+      "content": "I was thinking that once your son is a little older, you might be able to put more energy into your career. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T13:56:43",
+      "origin": "そうですね、子供が中学生くらいになったら自分の時間をもう少し持てる余裕ができるかもしれません",
+      "content": "That's true. When my son is in junior high, I might have a bit more time and breathing room for myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:57:04",
+      "origin": "今既に家事や育児をおひとりでこなしていらっしゃるあなたですからきっと大丈夫です。",
+      "content": "You're already handling all the housework and childcare by yourself, so I'm sure you'll be fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:57:49",
+      "origin": "今は子育てのお忙しさがあるからなかなか未来のことが考えられないかもしれませんが、",
+      "content": "It might be hard to think about the future right now because you're so busy with raising your child,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T13:59:02",
+      "origin": "落ち着いてきたら改めてご自身の将来について考えてみたら可能性は開けてくると思います。",
+      "content": "but I believe that once things settle down, if you take the time to think about your own future again, new possibilities will open up."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T14:00:06",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:00:22",
+      "origin": "家族のために精一杯頑張られているあなたなので、自分の未来をご自身の力で切り開いていけると思います。",
+      "content": "You are doing so much for your family. I believe you have the strength to forge your own future."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:01:27",
+      "origin": "本日はお話してみていかがでしたか？",
+      "content": "How do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T14:01:51",
+      "origin": "ありがとうございます。最後のお言葉、前向きになれました。",
+      "content": "Thank you. Your final words have helped me feel more positive."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:02:39",
+      "origin": "私も子育て中の身なので、とても励みになりました。",
+      "content": "As someone also in the midst of child-rearing, I found it very encouraging."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:03:05",
+      "origin": "あなたらしいすてきな人生を心より応援しております。",
+      "content": "I sincerely wish you a wonderful life that is true to yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T14:03:43",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:04:06",
+      "origin": "こちらこそありがとうございます。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:04:22",
+      "origin": "本日はこちらで終了させていただいてよろしいでしょうか？",
+      "content": "Shall we conclude our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T14:04:32",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:05:10",
+      "origin": "何かありましたらまたお気軽にご相談くださいね。ありがとうございました。",
+      "content": "If anything else comes up, please don't hesitate to reach out again. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-11T14:05:28",
+      "origin": "本日のご相談を終了いたします。",
+      "content": "This concludes today's session."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-11T14:05:43",
+      "origin": "本日はありがとうございました！",
+      "content": "Thank you very much for today!"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 161,
+    "evaluation_created_at": "2020-07-11T14:32:00",
+    "client_id": 44,
+    "counselor_id": 48,
+    "score": 78,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 5,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-08T13:55:52",
+      "origin": "こんにちは。14時になりましたらはじめさせていただきます。どうぞよろしくお願いいたします。",
+      "content": "Hello. We will begin at 2:00 PM. I look forward to working with you."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T13:56:18",
+      "origin": "(こんにちは、よろしくお願いします)",
+      "content": "(Hello, I look forward to it too.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:00:20",
+      "origin": "こんにちは。相談員です。はじめに、年齢、性別を教えていただけますか？",
+      "content": "Hello. I'm the counselor. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:00:45",
+      "origin": "20才、男です",
+      "content": "I’m 20, male."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:01:38",
+      "origin": "お答えいただきありがとうございます。今日は、どのようなご相談でしょうか？",
+      "content": "Thank you for sharing that. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:02:29",
+      "origin": "少し前から仕事に行くのがしんどい時がありつらさがあります。",
+      "content": "Lately, there are times when going to work feels tough, and it's causing me distress."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:03:57",
+      "origin": "仕事に行くときに辛さがある･･･どのような感じななのかもう少しお伺いしてもよろしいですか？",
+      "content": "You feel distress when going to work… If it’s alright, could you tell me a bit more about what that feels like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:04:34",
+      "origin": "面倒臭い感じもあります",
+      "content": "I also feel like it’s a hassle."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:05:30",
+      "origin": "そうなんですね。お仕事はどんなことをされてらっしゃるんですか？",
+      "content": "I see. What kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:05:58",
+      "origin": "公務員で、デスクワークのような仕事です",
+      "content": "I'm a civil servant, and it's a kind of desk job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:07:53",
+      "origin": "公務員でらっしゃるんですね。仕事に行く時間に、行く気が起きないのは苦しくなってしまいますね。",
+      "content": "So you're a civil servant. It must be difficult to not feel motivated when it's time to go to work."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:08:37",
+      "origin": "確かに出勤することがしんどい気分があります",
+      "content": "Indeed, going to work feels burdensome."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:09:55",
+      "origin": "しんどい中でもきちんと出勤されてらっしゃるんですね。しっかりしていらっしゃいますね。いつ頃からそのようにお目われたんですか？",
+      "content": "So even though it's tough, you're still managing to go to work. You're very diligent. When did you start feeling this way?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:10:19",
+      "origin": "お目われた→思われた",
+      "content": "I meant 'felt' instead of 'appeared'."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:10:43",
+      "origin": "すみません。",
+      "content": "My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:10:46",
+      "origin": "三ヶ月前くらいだと思います",
+      "content": "I think it was about three months ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:11:36",
+      "origin": "三カ月前くらい･･･何かきっかけがあったのですか？",
+      "content": "About three months ago… Was there any particular trigger?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:12:22",
+      "origin": "ないと思いますだんだんと会社勤めが息苦しく感じてきました",
+      "content": "I don't think there was. Gradually, working at the company started to feel stifling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:13:46",
+      "origin": "息苦しい･･･。よかったら、その辺のお気持ちをもう少しお話しして頂けますか？",
+      "content": "Stifling... If you're comfortable, could you tell me a bit more about that feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:14:38",
+      "origin": "何をどのようにお話しすると良いですか？",
+      "content": "What should I talk about, and how would be best?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:15:57",
+      "origin": "そうですよね。急に言われても困ってしまいますよね。",
+      "content": "That's a fair point. It can be difficult to be asked so suddenly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:16:44",
+      "origin": "まず、どんな時に息苦しくなることが多いかをおしえていただけますか？",
+      "content": "First, could you tell me when you most often feel stifled?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:18:32",
+      "origin": "イメージとしては、毎日同じ箱の中で同じようなことを真面目に繰り返す感じに自由が無い感覚があります",
+      "content": "The image I have is a feeling of no freedom, like I'm in the same box every day, earnestly repeating similar tasks."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:19:18",
+      "origin": "教えて下さってありがとうございます。",
+      "content": "Thank you for sharing that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:20:16",
+      "origin": "公務員になろうと思ったきっかけはどのようなことだったのですか？",
+      "content": "What led you to decide to become a civil servant?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:20:40",
+      "origin": "先生に勧められたことです",
+      "content": "My teacher recommended it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:21:41",
+      "origin": "先生が進めて下さったんですね。その時は、どんな仕事という感じで進められたんですか？",
+      "content": "So your teacher recommended it. At that time, how did they describe the kind of work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:23:47",
+      "origin": "向いていると思うということや、公務員試験の勉強が、一般就職試験の役に立つからということでしたなので仕事の内容は聞いていません",
+      "content": "They said they thought it would suit me, and that studying for the civil service exam would help with general job-hunting exams, so I didn’t ask about the actual job content."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:25:11",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:25:59",
+      "origin": "「向いている」というと、先生はどういうところが向いていると思われたようでしたか？",
+      "content": "When they said you were \"suited for it,\" what aspects of you did the teacher seem to think were a good fit?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:26:20",
+      "origin": "真面目だからでしょうか",
+      "content": "Perhaps because I’m conscientious?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:27:40",
+      "origin": "真面目でいらっしゃったんですね。先生からも認められるくらいなんて、とてもしっかり過ごしてこられたのでしょうね。",
+      "content": "So you’re conscientious. For your teacher to recognize that, you must have conducted yourself very reliably."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:30:38",
+      "origin": "3月くらいから、今のように思いはじめたということでしたが、それまでの2年間くらいはどうでしたか？",
+      "content": "You mentioned you started feeling this way around March; how were the roughly two years before that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:31:41",
+      "origin": "はい、がむしゃらのような感じで、覚えること初めてのことがいっぱいでしたがやってきました",
+      "content": "Yes, it felt like I was working desperately. There were many new things to learn and first-time experiences, but I managed."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:32:36",
+      "origin": "ごめんなさい、「3か月前くらいから」でしたね。今まで、一生懸命、頑張ってこられたのですね。",
+      "content": "My apologies, you said \"about three months ago,\" didn't you. You've been working so hard all this time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:33:42",
+      "origin": "人おり仕事を覚えて、一息つく感じなのでしょうか。",
+      "content": "Perhaps now that you've learned the job thoroughly, you feel you can take a breath?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:34:25",
+      "origin": "人おり→一通り",
+      "content": "I meant 'thoroughly' instead of the typo."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:35:16",
+      "origin": "毎年、部署移動している身なので、覚えることは毎年違う感じです",
+      "content": "I get transferred to a different department every year, so what I have to learn feels different each year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:36:32",
+      "origin": "そうなんですね。それでは、覚えることが多くて、一息どころではない感じですかね。",
+      "content": "I see. In that case, with so much to learn, it sounds like you don't really have a chance to take a breather, is that it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:36:50",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:37:52",
+      "origin": "そういうこともあって、休みたい感じですか？",
+      "content": "Is that part of why you feel like you want a break?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:38:38",
+      "origin": "そうでは無いと思います",
+      "content": "I don’t think it’s that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:39:21",
+      "origin": "休みたいというわけではないんですね。",
+      "content": "So it's not that you want to take a break."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:39:43",
+      "origin": "はい",
+      "content": "Right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:40:46",
+      "origin": "自分なりに考えられる仕事がしたいというような感じですか？",
+      "content": "Is it more like you want work where you can think and take initiative in your own way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:42:08",
+      "origin": "そこまでは分からないですが、仕事に前向きに行けなくなってきたという感じです",
+      "content": "I'm not sure if it's that far, but it feels like I'm no longer able to be positive about going to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:42:49",
+      "origin": "教えて下さってありがとうございます。",
+      "content": "Thank you for sharing that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:43:43",
+      "origin": "以前は覚えることに必死で、がむしゃらに働いている感じだったんですよね。",
+      "content": "So before, you were desperately trying to learn things and just working frantically, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:44:28",
+      "origin": "振り返るとそれに近いと思います",
+      "content": "Looking back, I think it’s close to that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:45:10",
+      "origin": "入社した頃は、どのように仕事をしていきたいと思ってらっしゃいましたか？",
+      "content": "When you first joined, how did you hope to approach your work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:45:53",
+      "origin": "真面目にしっかりとやっていこうと思っていました",
+      "content": "I intended to work seriously and diligently."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:46:57",
+      "origin": "そうなんですね。それはできてきたんですね。",
+      "content": "I see. And you’ve been able to do that."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:47:51",
+      "origin": "しっかりやろうとしても力足らず、うまくいかないことも多かったです",
+      "content": "Even when I tried my best, I often felt I wasn't good enough and things didn't go well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:49:33",
+      "origin": "一生懸命、頑張ってこられたんですね。今はそれも含めてどうしていこうかと考えていらっしゃるんですね。",
+      "content": "You've been trying so hard. And now, you're thinking about how to move forward, including all of that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:51:16",
+      "origin": "今の担当のお仕事で、「こうしていきたい」というような思いはありますか？",
+      "content": "With your current duties, do you have any feelings of, \"This is how I want to do things\"?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:52:03",
+      "origin": "そんなには無いですね",
+      "content": "Not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:52:38",
+      "origin": "少しある思いでおいいので、聞かせていただけますか？",
+      "content": "Even a small thought is fine; could you share it with me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:53:27",
+      "origin": "「思いでもいいので」です。度々すみません。",
+      "content": "I meant, “Even just a small thought is fine.” Sorry for the repeated typos."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:53:28",
+      "origin": "普通にできればそれで良いですね",
+      "content": "If I can just do it normally, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:54:24",
+      "origin": "行違ってしまいましたね。ごめんなさい。「普通に」というと？",
+      "content": "It seems we had a misunderstanding. I'm sorry. What do you mean by \"normally\"?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:54:49",
+      "origin": "そつなくやれればそれで良いです",
+      "content": "If I can just do it competently, that's good enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:55:27",
+      "origin": "答えてくださってありがとうございます。",
+      "content": "Thank you for answering."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:56:03",
+      "origin": "そつなくやりたいけど、意欲がわかないという感じでしょうか。",
+      "content": "So you want to do things competently, but you can't find the motivation. Is that it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:56:30",
+      "origin": "それはあります",
+      "content": "Yes, there's that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T14:57:35",
+      "origin": "「それは」というと、仕事に行きたくない他の理由もありそうですか？",
+      "content": "When you say \"that,\" does it seem like there might be other reasons you don't want to go to work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T14:58:16",
+      "origin": "わからないです",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T15:00:30",
+      "origin": "そうなんですね。お話を整理すると、仕事を「普通」にそつなくこなしていきたいけど、朝、仕事に行きたくなくて困っているという感じでしょうか？",
+      "content": "I see. So, to summarize, you want to handle your work \"normally\" and competently, but you're struggling because you don't want to go to work in the morning. Is that about right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T15:00:52",
+      "origin": "そうですね",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T15:02:52",
+      "origin": "大変申し訳ございません。実はそろそろ相談の終りの時間なのですが、行く気になあれるような思いを見付けることができませんでしたね。",
+      "content": "I’m very sorry. We’re actually coming to the end of our time, and it seems we weren’t able to find anything today that helps you feel motivated to go."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T15:03:22",
+      "origin": "一旦今日は大丈夫です",
+      "content": "That's okay for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T15:05:14",
+      "origin": "疲れて休みたいわけでもなく、何かやりたいことがあるわけではない。次回、また、お話しして整理していきたいと思ったら、いつでもいらしてくださいね。",
+      "content": "It's not that you're tired and want to rest, nor that there's something specific you want to do. If you feel you'd like to talk more and sort things out, please feel free to come back anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T15:05:37",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T15:06:18",
+      "origin": "また、一緒に考えていけたらいいと思います。今日は、いらしてくださって本当にありがとうございました。",
+      "content": "I hope we can continue to think this through together. Thank you so much for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2023-12-08T15:06:36",
+      "origin": "ありがとうございます失礼します",
+      "content": "Thank you. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-08T15:08:10",
+      "origin": "mieより　具体的なことのない対応ってむずかしいですね。すごく勉強になりました。本当にありがとうございました。",
+      "content": "From Mie: It's difficult to respond when things aren't concrete. This was a great learning experience. Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "仕事に行くことへの意欲の低下"
+  },
+  "review_by_client": {
+    "evaluation_id": 6075,
+    "evaluation_created_at": "2023-12-08T16:27:00",
+    "client_id": 434,
+    "counselor_id": 452,
+    "score": 44,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

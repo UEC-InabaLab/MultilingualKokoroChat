@@ -1,0 +1,603 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-11-04T13:50:44",
+      "origin": "(こんにちは。本日はよろしくお願いします。お時間になりましたら、始めさせていただきます。）",
+      "content": "(Hello. Thank you for joining me today. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T13:51:05",
+      "origin": "(よろしくお願いします。本日ご希望のケース等はございますでしょうか？)",
+      "content": "(Thank you. Do you have any preferred cases for today?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T13:55:17",
+      "origin": "（希死念慮以外でおねがいします）",
+      "content": "(Anything other than suicidal ideation, please.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T13:55:51",
+      "origin": "(かしこまりました)",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:00:03",
+      "origin": "こんにちは。相談員です。本日はお越しいただいてありがとうございます。まず、はじめにあなたの　性別・年齢、そして相談内容についてお聴かせいただけますでしょうか。",
+      "content": "Hello. I'm the counselor. Thank you for coming in today. To begin, could you please tell me your gender, age, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:00:19",
+      "origin": "30 男",
+      "content": "30, male."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:00:31",
+      "origin": "会社に行きたくありません",
+      "content": "I don't want to go to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:01:14",
+      "origin": "そうなんですね。会社に行きたくないというのは、どういう理由だったりしますか。",
+      "content": "I see. What are some of the reasons you don’t want to go to work?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:01:37",
+      "origin": "具合が悪くなります",
+      "content": "I start feeling unwell."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:02:10",
+      "origin": "そうなんですね。毎日しんどくなるのは、おつらいですね。",
+      "content": "I see. It must be very difficult to feel unwell every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:02:30",
+      "origin": "なにか、きっかけのようなものはありましたか。",
+      "content": "Was there any particular trigger?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:02:35",
+      "origin": "毎日は通ってないです",
+      "content": "I don’t go in every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:03:01",
+      "origin": "毎日ではないのですね、、失礼いたしました。",
+      "content": "Oh, not every day then. I apologize."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:03:25",
+      "origin": "覚えてません",
+      "content": "I don't remember."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:03:57",
+      "origin": "そうなんですね。いつ頃から、体調に変化を感じられたのですか。",
+      "content": "I see. Around when did you start noticing changes in your condition?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:04:07",
+      "origin": "最近",
+      "content": "Recently."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:04:59",
+      "origin": "そうなのですね。いまは体調大丈夫ですか。無理になったら、いつでもおっしゃってくださいね。",
+      "content": "I see. Are you feeling okay right now? Please let me know anytime if you start to feel overwhelmed."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:05:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:05:34",
+      "origin": "すこし、お仕事についてお伺いしてもよろしいですか。",
+      "content": "May I ask a little about your work?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:05:51",
+      "origin": "なぜでしょうか",
+      "content": "Why is that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:06:57",
+      "origin": "会社に行きたくないということでしたので、、、",
+      "content": "Because you mentioned not wanting to go to work..."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:07:22",
+      "origin": "理由になってません",
+      "content": "That's not a reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:07:25",
+      "origin": "職場でなにかおつらく感じることがあるのかなと。",
+      "content": "I was wondering if there might be something difficult for you at the workplace."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:08:00",
+      "origin": "特には",
+      "content": "Not particularly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:08:56",
+      "origin": "そうなのですね。相談者さま的には、いまの職場について特に問題なさそうな感じですか。",
+      "content": "I see. So from your perspective, does it feel like there are no particular issues with your current workplace?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:09:18",
+      "origin": "問題ないかどうかはわかりません",
+      "content": "I'm not sure whether there are problems or not."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:10:09",
+      "origin": "そのようにお思いなのですね。会社に行きたくない、具合が悪くなるということでしたが、、",
+      "content": "I understand that’s how you feel. You mentioned not wanting to go to work and feeling unwell..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:10:26",
+      "origin": "お仕事がお休みの時は、具合はどうですか。",
+      "content": "How do you feel on your days off from work?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:10:41",
+      "origin": "普通です",
+      "content": "I feel normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:11:27",
+      "origin": "そうなのですね。ということは、出勤当日になると、具合が悪くなる感じでしょうか。",
+      "content": "I see. So, does that mean you start feeling unwell on the days you have to go to work?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:11:47",
+      "origin": "多分",
+      "content": "Probably."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:13:01",
+      "origin": "いま、コロナ禍で、働き方なども変わっているところもございますが、相談者さまのところは、忙しくなったり仕事時間が増えたりなど、最近変化はありますか。",
+      "content": "With the current COVID-19 pandemic, work styles have been changing. Have there been any recent changes at your workplace, like becoming busier or working longer hours?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:13:33",
+      "origin": "特には",
+      "content": "Not particularly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:14:37",
+      "origin": "特には変わっていない感じなんですね。出勤当日に具合が悪くなって、実際にお休みされたことはあるのですか。",
+      "content": "So it sounds like nothing in particular has changed. Have you ever actually taken a day off when you felt unwell on a workday?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:14:55",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:15:33",
+      "origin": "体調が優れなくても、出勤されてがんばっておられるのですね。",
+      "content": "So you push yourself to go to work even when you're not feeling well."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:17:32",
+      "origin": "いま、一番なにがお困りですか。",
+      "content": "What is troubling you the most right now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:17:53",
+      "origin": "わかりません",
+      "content": "I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:18:45",
+      "origin": "たとえばですが、、いまの会社を辞めようかなど、いまの環境の変化を望んでたりしますか。",
+      "content": "For example, are you wishing for a change in your current environment, such as thinking about quitting your job?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:18:58",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:19:19",
+      "origin": "そのようにお感じなのですね。ということは、、",
+      "content": "I see that's how you feel. So that means..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:19:51",
+      "origin": "具合が良くなって、万全なかたちで出社されたい？",
+      "content": "You'd like to feel better and go to work in perfect health?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:20:07",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:21:00",
+      "origin": "いろいろと考えて悩んでいる感じでしょうか。",
+      "content": "Does it feel like you’re wrestling with a lot of thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:21:32",
+      "origin": "多分",
+      "content": "Probably."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:22:26",
+      "origin": "相談者さまは、いまの現状だったり体調についてどなたかに話を聴いてもらったことはありますか。",
+      "content": "Have you spoken to anyone about your current situation or how you've been feeling physically?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:22:35",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:23:27",
+      "origin": "体調が優れない中で、おひとりで悩んでいらっしゃる感じなんですね。それはしんどいですよね。",
+      "content": "So it sounds like you've been struggling with this on your own while not feeling well. That must be very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:24:46",
+      "origin": "具合が悪くなる前の、元気な頃は楽しく過ごせていたのですか。",
+      "content": "Before you started feeling unwell, back when you felt healthy, were you able to enjoy your days?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:25:06",
+      "origin": "普通です",
+      "content": "It was normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:25:47",
+      "origin": "普通というのは、とくに大きな悩みもなく毎日過ごせていた感じでしょうか。",
+      "content": "By normal, do you mean you were able to get through each day without any major worries?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:26:31",
+      "origin": "多分",
+      "content": "Probably."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:27:36",
+      "origin": "翌日が仕事日の場合、憂鬱な気分になったりしてしんどくなったりしますか。",
+      "content": "When the next day is a workday, do you feel down or find it hard to cope?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:28:13",
+      "origin": "それなりに",
+      "content": "To some extent."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:28:59",
+      "origin": "そうなのですね。会社に行くことに辛いと感じると、前の日から気持ちが暗くなったりしますよね。",
+      "content": "I see. When the thought of going to work is painful, your spirits can get low starting from the day before, can't they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:30:21",
+      "origin": "具合が悪い日々が続いていることについて、どこか医療機関へは行かれましたか。",
+      "content": "Since you've been feeling unwell for some time, have you visited a doctor or a clinic?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:30:30",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:31:40",
+      "origin": "お仕事がお休みの日は、少しでもリフレッシュができていますか。",
+      "content": "On your days off, are you able to relax and recharge, even a little?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:31:54",
+      "origin": "わかりません",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:33:55",
+      "origin": "そうなのですね。以前は、お休みの日はリフレッシュできていたのでしょうか。",
+      "content": "I see. In the past, were you able to relax and recharge on your days off?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:34:16",
+      "origin": "多分",
+      "content": "Probably."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:34:32",
+      "origin": "いまは、なにをやっても楽しくないといった感じでしょうか。",
+      "content": "Does it feel like nothing is enjoyable right now, no matter what you do?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:35:14",
+      "origin": "どうなんでしょうね",
+      "content": "I’m not sure about that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:37:11",
+      "origin": "具合が悪くなってから、たとえば仲の良いご友人とは会ったりお話しされたりし出来ない感じですか。",
+      "content": "Since you began feeling unwell, have you found it difficult to meet or talk with close friends, for example?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:37:45",
+      "origin": "まずしようと思いません",
+      "content": "I don't even think about doing it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:39:09",
+      "origin": "そうなのですね、相談者さまは、普段からおひとりでいる方がお好きだったりしますか。",
+      "content": "I see. Do you generally prefer to be alone?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:40:21",
+      "origin": "わかりません",
+      "content": "I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:41:35",
+      "origin": "相談者さまは、いまの状況からどのようにされたいと思っていらっしゃいますか。",
+      "content": "What would you like to see happen with your current situation?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:41:45",
+      "origin": "わかりません",
+      "content": "I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:42:26",
+      "origin": "それは、考えられない　のか考えたくないのかどちらのお気持ちでしょうか。",
+      "content": "Is it that you can’t think about it, or that you don’t want to think about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:42:53",
+      "origin": "どっちかしかないのですか",
+      "content": "Are those the only two options?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:43:07",
+      "origin": "それもどうなのかわかりません",
+      "content": "I don’t know about that either."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:44:02",
+      "origin": "どっちかしかないわけではありませんよ。お聴きしたことが、お気に障りましたらすみません。",
+      "content": "It's not that those are the only options. I'm sorry if my question bothered you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:45:38",
+      "origin": "ここまで、お話しを聴かせていただいて相談者さまが、今の状況に対して「わからない」とお答えすることが多かったので、いまはいろいろ考えることがしんどいのかなと感じました。",
+      "content": "Listening to you so far, you've often answered \"I don't know\" in response to questions about your current situation, which made me feel that perhaps thinking about things is difficult for you right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:46:49",
+      "origin": "でも、今日こちらへお越しくださったことは何かしら確かめたかったことがあったり変化をお求めに来られたのかなとも感じましたが、、",
+      "content": "However, I also felt that by coming here today, perhaps you wanted to confirm something or were seeking some kind of change..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:47:02",
+      "origin": "ここまでお話しされてきていかがでしょうか。",
+      "content": "How do you feel, having talked with me up to this point?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:47:15",
+      "origin": "余計にしんどくなりました",
+      "content": "I feel even more exhausted."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:47:54",
+      "origin": "いろいろと聴かれるのが苦痛だった感じですか。",
+      "content": "Did being asked so many questions feel painful?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:48:14",
+      "origin": "色々",
+      "content": "Various things."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:49:37",
+      "origin": "そうなんですね。それは大変失礼いたしました。いまは体調だいじょうぶですか。",
+      "content": "I see. I am very sorry for that. Are you feeling alright at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:49:48",
+      "origin": "多分",
+      "content": "Probably."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:51:19",
+      "origin": "これまで、お話しを聴かせていただいて相談者さまが、おひとりで体調も含めて向き合っていることで、いろいろとお感じになることもおおくあったのではないかと感じました。",
+      "content": "From what I've heard so far, I felt that by facing your situation, including your health, all by yourself, you must have been feeling many different things."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:51:49",
+      "origin": "というか単に質問に答えただけだと思いますが",
+      "content": "Or rather, I think I was just answering your questions."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:53:02",
+      "origin": "聴かれたことを答えることによって相談者さま自身が改めて感じることもすこしはあったかと思うのですが、そのあたりについてはいかがですか。",
+      "content": "I thought that by answering my questions, you might have had a chance to realize some things for yourself. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:54:13",
+      "origin": "特に何も",
+      "content": "Nothing in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:55:25",
+      "origin": "相談者さまの体調についても気になりました。仕事がある日、仕事前日になると具合が悪くなるということ。もし、このまま症状が続くようなら医療機関に受診されてもよいのではないかとお話しを聴かせていただいて感じました。",
+      "content": "I am also concerned about your physical condition. You mentioned feeling unwell on days you have to work and the day before. After listening to you, I feel that if these symptoms continue, it might be a good idea to seek medical advice."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:55:56",
+      "origin": "結局医者に行くってオチなのですね",
+      "content": "So it all boils down to “go see a doctor,” then."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:57:29",
+      "origin": "具合が悪い度合はお聴きしていないので分かりかねますが、ずっと今の状態が続くのは相談者さまの本意ではないかと感じたのですが、、",
+      "content": "I haven't asked about the severity of your symptoms, so I can't be certain, but I felt that having this condition continue indefinitely is not what you truly want..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T14:57:59",
+      "origin": "お体を大切にしていただきたいので。",
+      "content": "Because I want you to take good care of yourself."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T14:58:01",
+      "origin": "がっかりしました。これで失礼します",
+      "content": "I'm disappointed. I'll excuse myself now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T15:00:14",
+      "origin": "ご気分を悪くさせてしまい申しわけございませんでした。相談者さまが、以前のように体調が戻られることが先決だと思いました。どうかお体ご自愛ください。",
+      "content": "I am very sorry for upsetting you. I felt that the priority should be for your health to return to how it was before. Please take good care of yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T15:00:41",
+      "origin": "また、なにかありましたらお話しにきてください。それでは失礼いたします。",
+      "content": "If anything comes up, please feel free to come and talk again. Take care."
+    },
+    {
+      "role": "client",
+      "time": "2022-11-04T15:00:43",
+      "origin": "(お疲れ様でした。このまま終了メッセージ送信でロープレ完了お願いします。)",
+      "content": "(Thank you for your hard work. Please go ahead and send the closing message to complete the role-play.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-04T15:02:47",
+      "origin": "おつかれさまでした。大変勉強になりました。はじめてのパターンでどう進めばよいか戸惑いました。ぜひ、評価のほうでどうすればよかったかの感想も教えてください。本日はありがとうございました）",
+      "content": "(Thank you for your hard work. This was a great learning experience. It was my first time with this type of scenario, and I was a bit lost on how to proceed. Please let me know in your feedback what I could have done better. Thank you very much for today.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "会社に行きたくないという気持ち"
+  },
+  "review_by_client": {
+    "evaluation_id": 4194,
+    "evaluation_created_at": "2022-11-04T15:14:00",
+    "client_id": 125,
+    "counselor_id": 284,
+    "score": 21,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

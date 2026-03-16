@@ -1,0 +1,621 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-03-04T19:52:42",
+      "origin": "今晩は。本日も宜しくお願いします。",
+      "content": "Good evening. Thank you for seeing me again today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T19:54:27",
+      "origin": "こんばんは。よろしくお願いします。",
+      "content": "Good evening. Thank you for coming in."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T19:55:36",
+      "origin": "こちらの準備はできています。いつでもスタートしていただいて結構です。",
+      "content": "I'm ready on my end. You can start whenever you're ready."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T19:56:14",
+      "origin": "ありがとうございます。では、始めさせて頂きます。",
+      "content": "Thank you. Then, let's begin."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T19:56:51",
+      "origin": "はい。宜しくお願いします。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T19:57:15",
+      "origin": "こんにちは。相談員です。今日は、どの様なご相談ですか？",
+      "content": "Hello. I'm your counselor. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T19:57:33",
+      "origin": "仕事を辞めようかと悩んでいます。",
+      "content": "I’m thinking about quitting my job, and I'm struggling with the decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T19:59:13",
+      "origin": "そうなんですね。辞めようかと・・・それは、色々と悩まれますね。",
+      "content": "I see. You're thinking about quitting... that must bring up a lot to think about."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T19:59:20",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:00:17",
+      "origin": "その様に考えられたのは、いつ位からでしょうか？",
+      "content": "About when did you start thinking that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:00:41",
+      "origin": "以前から少しづつ考えるようになりました。",
+      "content": "I've been thinking about it gradually for some time now."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:02:20",
+      "origin": "何か、きっかけの様なものはあったのでしょうか？",
+      "content": "Was there any particular trigger?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:03:27",
+      "origin": "仕事を始めたときから、いろいろな事件に遭遇し、同期と話をしていても、そのような事件に遭遇しているのは、私だけでした。",
+      "content": "Ever since I started the job, I've encountered various incidents, and even when I talk to my peers who started at the same time as me, it turns out I'm the only one who has."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:03:53",
+      "origin": "何故、私だけが事件に見舞われるのかと。",
+      "content": "I wonder why I'm the only one who gets caught up in these incidents."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:06:09",
+      "origin": "そうでしたか。ご自分だけ、事件に見舞われるのか、釈然としない思いがおありなんですね。ご一緒に考えていけたらと思うのですが、よろしかったら、御年齢と、性別を教えていただけますか？",
+      "content": "I see. So you're feeling unsettled about why you seem to be the only one encountering these incidents. I'd like to explore this with you. If you don't mind, could you tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:06:29",
+      "origin": "24歳　男性です。",
+      "content": "I'm a 24-year-old man."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:06:43",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:07:22",
+      "origin": "少しお聞きしたいのですが、お仕事上での事件という事でしょうか？",
+      "content": "If I may ask, are these incidents work-related?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:07:47",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:08:23",
+      "origin": "話せる範囲で良いのですが、事件とはどういったものでしょうか？",
+      "content": "If you're comfortable sharing, what kind of incidents are they?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:09:03",
+      "origin": "殺人事件やひき逃げ、死因不明の変死体等。",
+      "content": "Homicides, hit-and-runs, and unexplained deaths, things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:09:17",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:09:34",
+      "origin": "ベテランの警察官でも遭遇しない人は、こんな事件に遭遇しません。",
+      "content": "Even some veteran police officers never encounter incidents like these."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:10:34",
+      "origin": "それでは、貴方は、警察官でいらっしゃるのですか？",
+      "content": "So, does that mean you are a police officer?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:10:40",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:13:40",
+      "origin": "それは、ご苦労様です。お話を確認させて頂きたいのですが、同僚の方と話されて、ご自分だけ色々な大変な事件を担当してる様に思われてきた、ということでしょうか？それで、お仕事を辞めようかと悩まれていると。",
+      "content": "Thank you for your service. Let me just confirm what I've heard. After talking with your colleagues, you've come to feel that you're the only one handling all these difficult cases, and that's why you're thinking of quitting your job. Is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:15:16",
+      "origin": "私は、警察官になって1年半ほどの若輩者なので、今は、地域課で交番勤務です。捜査には参加していません。",
+      "content": "I've only been a police officer for about a year and a half, so I'm still a novice. I'm currently assigned to community policing, working at a neighborhood police box. I don't participate in investigations."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:15:30",
+      "origin": "ええ",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:15:39",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:16:08",
+      "origin": "同僚ではなく、同期の友人たちと話をしてもこんなに、事件に遭遇している人がいないので・・・。",
+      "content": "It's not just my colleagues, but even when I talk to friends from my training cohort, no one else has encountered so many incidents..."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:16:23",
+      "origin": "からかわれたりしています。",
+      "content": "They tease me about it."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:17:09",
+      "origin": "通報を受け私が現場に一番乗りしています。",
+      "content": "When a report comes in, I'm the first one to arrive on the scene."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:17:37",
+      "origin": "からかわれるのですね。その時、どんなお気持ちになられますか？",
+      "content": "So they tease you. How do you feel when that happens?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:18:34",
+      "origin": "最初に、死体を見つけたときのショックを分かってもらえないので、なんと表現したらよいか・・・。",
+      "content": "They don’t understand the shock of finding a body for the first time, so I don’t even know how to put it into words…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:18:39",
+      "origin": "辛いというか。",
+      "content": "It’s painful, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:20:44",
+      "origin": "そうですね。実際に、事件や事故での死体を見たことが無い人には分からない辛さなのでしょうね。言葉にならない程なのですね。",
+      "content": "Right. It’s a kind of pain that someone who hasn’t actually seen a body from an incident or accident can’t understand. It's so much that it leaves you at a loss for words."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:21:45",
+      "origin": "はい。からかわれて、イラっとしたり同じ仕事をしているのに理解されないと悲しくもなります。",
+      "content": "Yes. When they tease me, I get irritated, and it also makes me sad that people doing the same job don’t understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:24:15",
+      "origin": "そうだと思います。そんな辛い気持ちをからかわれては、イラっとするのは当然だと思います。一番辛いのは、一番に駆けつけて、死体や悲惨な現場を目にする事ですか？それとも、同僚などに気持ちを分かって貰えず、からかわれる事ですか？",
+      "content": "I understand. It's natural to feel irritated when such painful feelings are being teased. What's the hardest part for you: being the first to arrive and seeing bodies and gruesome scenes, or not being understood by your colleagues and getting teased for it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:25:48",
+      "origin": "からかわれることですね。凄惨な現場を目にすることは、やりきれないこともありますが、それが仕事なのです。警察学校でもいろいろ教わりました。",
+      "content": "It’s the teasing. Seeing gruesome scenes can feel unbearable at times, but that’s the job. We learned all about it at the police academy."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:26:25",
+      "origin": "ただ、現場は、想像していたよりも凄惨です。",
+      "content": "However, the actual scenes are more gruesome than I ever imagined."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:27:11",
+      "origin": "何処から手を付けていいかわからなくなる時があります。",
+      "content": "Sometimes I don't even know where to begin."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:27:54",
+      "origin": "そうですか・・・そんな中、辛い気持ちがありながらも、毎日警察官という、市民を守るお仕事をこれまで頑張って来られているんですね。",
+      "content": "I see... Even with those difficult feelings, you’ve been working hard every day in your role as a police officer protecting the public."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:28:30",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:29:16",
+      "origin": "亡くなった方を見ると守れなかったという思いも湧いて来る時があります。",
+      "content": "When I see someone who has died, I sometimes feel like I failed to protect them."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:31:22",
+      "origin": "貴方が、警察官という職務に誇りをもって、お仕事をされているというのが、伝わってきます。たまたま、ご自分の周りで悲惨な事件が続いていて、それをからかわれる事が辛くて、そんなお仕事を辞めようか、とまで思っていらっしゃる。",
+      "content": "It's clear to me that you take great pride in your duty as a police officer. It just so happens that you've had a string of tragic incidents come your way, and being teased about it is so painful that you're even thinking of quitting."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:31:33",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:32:48",
+      "origin": "その様なお気持ちになってる事を、上司の方や、同僚の方、どなたかにご相談されましたか？",
+      "content": "Have you spoken to anyone, like your superiors or colleagues, about how you're feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:33:25",
+      "origin": "相談は、していませんが、私が落ち込んでいるのが分かるようで・・。",
+      "content": "I haven't talked to them about it, but they seem to notice that I'm down..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:33:34",
+      "origin": "ええ",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:34:50",
+      "origin": "どなたか、お声を掛けて下さいましたか？",
+      "content": "Has anyone reached out to you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:35:02",
+      "origin": "先輩や上司からは、貴重な経験をしている。同期の誰もが経験していないことだし、今、難しい経験をすることで何年か先に・・・。",
+      "content": "My seniors and superiors tell me that I'm gaining valuable experience, something none of my peers have gone through, and that by having these difficult experiences now, in a few years..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:35:13",
+      "origin": "ええ",
+      "content": "Mm-hm..."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:36:08",
+      "origin": "後輩の指導や部下を持った時に適切な指導ができるようになるから、辞めるなんて考えるなと。",
+      "content": "...I’ll be able to properly guide junior officers and subordinates when I have them, so I shouldn't be thinking about quitting."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:37:00",
+      "origin": "そうですか。その先輩や上司の方のお話を聞かれて、どうお感じになられましたか？",
+      "content": "I see. How did you feel when you heard that from your seniors and superiors?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:37:47",
+      "origin": "そうなのかとも思えるのですが・・・。",
+      "content": "I can see their point, but..."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:38:34",
+      "origin": "高校時代の後輩のお父さんからも同じことを言われました。職場の人には言いづらかったので・・・。",
+      "content": "The father of a junior from my high school days told me the same thing. It was hard to talk about it with people at work..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:39:10",
+      "origin": "そうは思えるけれども、からかわれる辛さが大きいという事ですね。",
+      "content": "So even though you can see their point, the pain of being teased is still overwhelming."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:39:42",
+      "origin": "からかわれるのもそうなのですが、もう一つあるのです。",
+      "content": "The teasing is part of it, but there’s something else, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:40:01",
+      "origin": "何でしょか？",
+      "content": "What would that be?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:40:19",
+      "origin": "しょうか？でした。すみません",
+      "content": "My apologies, that was a typo."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:40:53",
+      "origin": "交通違反者を捕まえると、理不尽で身勝手な言い訳をし取り締まる警察官がいけないようなことを言われます。",
+      "content": "When I pull over traffic violators, they make unreasonable and selfish excuses and say things that make it seem like the officer enforcing the law is the one at fault."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:41:32",
+      "origin": "私は、交通事故で無くなる人を減らしたいと思って警察官になりました。",
+      "content": "I became a police officer because I wanted to reduce the number of people who die in traffic accidents."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:41:44",
+      "origin": "はい",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:41:47",
+      "origin": "大丈夫です。",
+      "content": "It's okay."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:42:32",
+      "origin": "交通事故が起こるのは、してはいけないという事をする人がいるので起こります。",
+      "content": "Traffic accidents happen because people do things they shouldn't."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:43:16",
+      "origin": "その事故がもとで無くなる人がいて悲しむ家族がいる。",
+      "content": "People die in those accidents, leaving grieving families behind."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:43:54",
+      "origin": "そうですね。貴方が、志を持って警察官になられたのが、今のお仕事ぶりからも伝わってきます。そういう人達から、酷い事を言われる事も、お辛くて、耐えがたいのですね。",
+      "content": "That's right. I can tell from the way you approach your work that you became an officer with a strong sense of purpose. It must be painful and hard to bear when those people say such harsh things to you."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:44:24",
+      "origin": "はい。わかってもらえないと思ってしまいます。",
+      "content": "Yes. I just feel like they don't get it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:45:47",
+      "origin": "そうですよね。そんなお気持ちになられるのは当たり前だと思います。今までの、お話を伺っていて、感じた事を少しお話させて頂いてもよろしいでしょうか？",
+      "content": "Of course. It's only natural to feel that way. Listening to your story so far, I've had a few thoughts. Would it be alright if I shared them with you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:46:02",
+      "origin": "はい。お願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:49:26",
+      "origin": "自分がやってはいけない違反をしているのに、言い返したりする人や、職務に励んでいる貴方に、同僚の方がからかったりする事は、そちらの方がおかしな事、間違った反応だと思うのですが、いかがですか？",
+      "content": "People who talk back even though they are the ones who have committed a violation, and colleagues who tease you for being diligent in your duties—it seems to me that their reactions are the ones that are strange and wrong. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:50:00",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:50:10",
+      "origin": "もし、あなたの同僚に、貴方の様な方がいて、貴方はからかったりしないと思います。",
+      "content": "If you had a colleague like yourself, I don't think you would tease them."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:50:20",
+      "origin": "そう思います。",
+      "content": "I agree."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:51:13",
+      "origin": "後輩のお父さんからは、皆、私がうらやましいと思っているのではないかと言われました。",
+      "content": "The father of a junior from my high school said that maybe everyone is just envious of me."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:51:36",
+      "origin": "だから、からかっているのだと。",
+      "content": "And that's why they tease me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:52:32",
+      "origin": "そうかもしれないと思います。貴方のまわりには 、キチンとアドバイスをしてくださる方々がいらっしゃいますね。",
+      "content": "That could be true. It sounds like you have people around you who offer you thoughtful advice."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:53:03",
+      "origin": "それも、貴方が、真摯にお仕事をされていることと、",
+      "content": "I believe that’s because you approach your work with such sincerity, and..."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:53:19",
+      "origin": "そういわれると、そうですね。",
+      "content": "Now that you mention it, yes, I suppose so."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:53:25",
+      "origin": "貴方の人間的魅力だと思います。",
+      "content": "...it's a reflection of your character."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:53:35",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:54:14",
+      "origin": "そんな方が、日夜、警察官として頑張っていらっしゃることは、とてもありがたいです。",
+      "content": "I’m very grateful that someone like you is working hard day and night as a police officer."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:54:40",
+      "origin": "そう持っていただけると、うれしいです。",
+      "content": "I'm glad to hear you feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:55:10",
+      "origin": "多くの警察官は、誇りと使命で頑張っています。",
+      "content": "Many police officers work hard out of a sense of pride and mission."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:56:56",
+      "origin": "からかいや、酷い言われようにお辛い時もあろうと思いますが、せっかく先輩がたや上司の方があなたの将来に期待して下さっているし、何よりも、貴方自身が警察官というお仕事に誇りを持って働いていらっしゃるのを感じ入ると",
+      "content": "I'm sure there are times when the teasing and harsh words are painful, but your seniors and superiors have such high hopes for your future, and above all, I can sense that you yourself work with great pride as a police officer..."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T20:57:08",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:59:19",
+      "origin": "辞めるかどうかは、もう少しお時間を取られても良いのかな、と思いました。どうしても辞めると決めても、貴方なら、どんなお仕事も前向きに取り組んで怒らるのでは、と思うのですが、如何でしょう？",
+      "content": "I think perhaps you could take a little more time before deciding whether to quit. Even if you do ultimately decide to leave, I believe you're the kind of person who would tackle any job with a positive attitude. What do you think?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T20:59:44",
+      "origin": "いかれる、の間違いです",
+      "content": "That was a typo for 'to go'."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T21:01:29",
+      "origin": "今日、ここで、思い切っていろいろ言えたのですっきりしました。交通事故を減らす努力をもう少ししてみようと思います。",
+      "content": "I feel much better having been able to say everything on my mind here today. I think I'll try a little harder to reduce traffic accidents."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T21:01:51",
+      "origin": "からかってくる同期にも言い返してみます。",
+      "content": "I'll also try standing up to the peers who tease me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T21:02:51",
+      "origin": "そうですか！良かったです。応援しています。相談終了のお時間となりましたが、これで終了させて頂いても、大丈夫でしょうか？",
+      "content": "Is that so! I'm so glad to hear that. I'm rooting for you. Our time for this session is up now. Is it alright if we conclude here for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T21:03:12",
+      "origin": "はい。ありがとうございました。",
+      "content": "Yes. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T21:03:34",
+      "origin": "また何かありましたら、いつでもご相談にきてください。",
+      "content": "If anything else comes up, please feel free to come and talk with me again anytime."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T21:03:45",
+      "origin": "はい。そうします。",
+      "content": "Yes, I will."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T21:04:07",
+      "origin": "今日は、ありがとうございました。これで失礼します。",
+      "content": "Thank you for your time today. I'll sign off now."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-04T21:04:28",
+      "origin": "（お疲れ様でした。本日も大変、勉強になりました。ありがとうございました。）",
+      "content": "(Thank you for your hard work. Today was very enlightening. Thank you very much.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-04T21:04:55",
+      "origin": "（こちらこそです。ありがとうございました）",
+      "content": "(Likewise. Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場での理解不足とからかい問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1420,
+    "evaluation_created_at": "2021-03-06T14:15:00",
+    "client_id": 105,
+    "counselor_id": 85,
+    "score": 84,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:00:17",
+      "origin": "こんにちは。はじめに年齢、性別、今日のご相談内容をお聞かせください。",
+      "content": "Hello. To begin, could you please tell me your age, gender, and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:01:20",
+      "origin": "こんにちは。24才　女性　職場でのこと",
+      "content": "Hello. I'm 24, female. It's about something at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:02:23",
+      "origin": "ありがとうございます。お仕事でのお悩みっですね。具体的に教えていただけますか？",
+      "content": "Thank you. It sounds like you have a concern about work. Could you tell me more specifically?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:03:39",
+      "origin": "はい、先週、他部署と共有で使っているファイル(紙)が紛失したんです。",
+      "content": "Yes. Last week, a paper file that we share with another department went missing."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:04:55",
+      "origin": "それは大変なことがおこりましたね。それでタンタンさんはそのファイルとの関わりはあったのですか？",
+      "content": "That's quite a serious situation. Tantan, were you involved with that file in some way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:06:03",
+      "origin": "はい、私は週に一度そのファイルを使って仕事をするのです。",
+      "content": "Yes, I use that file for my work once a week."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:07:03",
+      "origin": "そうだったんですね。はじめに紛失が分かったのはどんな状況だったかなど、もう少し詳しくお聞かせいただけますか？",
+      "content": "I see. Could you tell me a bit more about the circumstances under which you first realized it was missing?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:08:38",
+      "origin": "はい。普段はそのファイルは他部署の入口入った所にあるので、私は使う時にはその部署から持っていきます。",
+      "content": "Yes. The file is usually kept right inside the entrance of the other department, so I get it from there when I need to use it."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:09:00",
+      "origin": "ただ、その日はいつもの場所になくて、慌てました。",
+      "content": "But that day it wasn't in its usual spot, and I panicked."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:09:58",
+      "origin": "その状況は驚きますよね。そしてその後どうされましたか？",
+      "content": "That must have been startling. What did you do next?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:10:25",
+      "origin": "他部署の方や自分の部署の人たち数名に聞きましたが、誰も何も知らないとのことで、しばらく待っていました。",
+      "content": "I asked several people from the other department and my own, but they all said they didn't know anything, so I waited for a while."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:11:02",
+      "origin": "その日の夕方には見つかったので急いで自分の仕事をしました。",
+      "content": "It was found that evening, so I rushed to get my work done."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:12:01",
+      "origin": "そうですか、それはよかったです。それでお仕事は順調に進められたのでしょうか。",
+      "content": "I see, that's good to hear. Were you able to proceed with your work smoothly after that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:12:39",
+      "origin": "はい、何とか間に合ったのでよかったです。",
+      "content": "Yes, I managed to finish it just in time, so that was a relief."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:13:37",
+      "origin": "良かったですね！今回ご相談という事でしたが、何か気になることなどがあったのでしょうか？",
+      "content": "I'm glad to hear that. Since you wanted to discuss this today, is there something in particular that's still worrying you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:14:56",
+      "origin": "ただ、また同じことが起きたら、と思うと落ち着かなくて。",
+      "content": "But the thought of it happening again makes me uneasy."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:15:50",
+      "origin": "そうですよね。心配になりますよね。今回もなぜこのような事が起こったのか、まだ原因はわかっていないのでしょうか？",
+      "content": "I understand. It's natural to be worried. Is the cause of what happened this time still unknown?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:17:52",
+      "origin": "はい、誰が何処で見つけたのか分からないのです。何となく、ふざけて、というか、嫌がらせとまでいかなくても、意図的にしたように思えるのです。",
+      "content": "Yes, I don't know who found it or where. Somehow it feels like it might have been done deliberately—as a prank, maybe; not necessarily harassment, but intentional."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:19:20",
+      "origin": "そうなんですね。意図的にかもしれないと感じておられるのですね。このような事は今回初めてですか？",
+      "content": "I see—you have a sense it may have been intentional. Is this the first time something like this has happened?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:20:04",
+      "origin": "はい、初めてです。また同じことが起きたらと思うと...。",
+      "content": "Yes, it's the first time. The thought of it happening again..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:22:57",
+      "origin": "同じことが起きたら、、、怖くなりますよね。ファイルの管理の決まりなどの確認や、上司の方などに今回の事をお話してみるなどをしてみる方法もあるかと思いますが、いかがでしょうか？",
+      "content": "If it happened again... it would be frightening. One option might be to confirm the rules for managing the file, or to discuss this incident with your supervisor. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:24:57",
+      "origin": "はい、そうですね。上司には紛失した時から話をしていますが、管理については他部署の管轄なので、働きかけはしていません。",
+      "content": "Yes, that's true. I've been talking to my supervisor since it went missing, but since the management of the file is under the other department's jurisdiction, we haven't taken any action with them."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:26:26",
+      "origin": "次もあるようなら考えたいと思います。",
+      "content": "If it happens again, I'll consider it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:26:45",
+      "origin": "上司の方にご相談されていたのですね。良かったです。上司に状況を知っていただく事は大切ですものね。",
+      "content": "So you had already consulted with your supervisor. That's good. It's important for them to be aware of the situation."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:27:41",
+      "origin": "はい。見つかってよかったねで終わってしまいました。",
+      "content": "Yes. But it just ended with, \"Glad it was found.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:28:18",
+      "origin": "そうでしたか。なぜそのような事が起こったか、まではお話がなかったのですね。",
+      "content": "I see. So the conversation didn't go as far as to discuss why it might have happened."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:28:48",
+      "origin": "はい、上司も知らないと思いますので。",
+      "content": "Right, because I don't think my supervisor knows either."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:29:24",
+      "origin": "タンタンさんは上司の方に知っていただきたいとお考えですか？",
+      "content": "Tantan, do you want your supervisor to know about this?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:30:55",
+      "origin": "もちろん、原因を調べてもらいたいですが、業務も忙しいのであまり強くは言えないです。",
+      "content": "Of course, I'd like them to investigate the cause, but work is busy, so I can't really push the issue."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:33:45",
+      "origin": "お仕事が忙しく、なかなか難しそうですね。タンタンさんが安心して働ける環境は重要ですし、上司の方がそのような環境を上司がつくることも大切だとわたしは思います。",
+      "content": "With work being so busy, it does sound difficult. I believe it's important for you to have an environment where you can work with peace of mind, and it's also your supervisor's responsibility to create such an environment."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:34:29",
+      "origin": "少しずつでも伝えていくことはいい事なのではないかな、とも思います。むずかしそうですか？",
+      "content": "I also think it could be helpful to communicate your concerns little by little. Would that feel difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:34:45",
+      "origin": "はい、そうですね。今度、話してみます。ありがとうございます。",
+      "content": "Yes, you're right. I'll try talking to them next time. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:35:45",
+      "origin": "無理はなさらず、タンタンさんができるタイミングでやってみてください！",
+      "content": "Please don't push yourself. Try it when you feel you're able to, Tantan!"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:36:10",
+      "origin": "はい、がんばります。",
+      "content": "Yes, I'll do my best."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:36:33",
+      "origin": "ただ、ちょっと気になることがあるんです。勘違いかもしれないのですが。",
+      "content": "Actually, there's something else that's been bothering me. It might just be my imagination, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:37:02",
+      "origin": "なんでしょうか？どうぞお話しください。",
+      "content": "What is it? Please feel free to tell me."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:38:28",
+      "origin": "はい。私が慌ててファイルを探していた時に、ある方達が笑っているように見えたんです。",
+      "content": "Yes. When I was frantically looking for the file, it looked like some people were laughing."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:39:15",
+      "origin": "そんなことがあったんですね。そうなるとその方たちが、と思われたのでしょうか。",
+      "content": "That happened, I see. Did that make you think it might have been those people?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:40:33",
+      "origin": "はい、半分遊びかもしれないし、今回だけかもしれないのですが。",
+      "content": "Yes. It might have been partly in fun, and it might have been just this once."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:40:56",
+      "origin": "その方はよよくしっているかたなのですか？",
+      "content": "Do you know those people well?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:41:59",
+      "origin": "はい、同じ部署の方一人と他部署の方一人です。このお二人は時々おしゃべりしています。",
+      "content": "Yes—one person from my department and one from another. The two of them sometimes chat together."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:42:31",
+      "origin": "その方たちとは」今回の件をお話されましたか？",
+      "content": "Did you talk to them about this incident?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:43:45",
+      "origin": "ファイルを知っていますか？と聞いたら、少し笑っているような感じで知らないと言っていました。",
+      "content": "When I asked if they knew where the file was, they said they didn't, kind of smiling."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:44:45",
+      "origin": "私は嫌われているのかもしれないです。",
+      "content": "Maybe they don't like me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:45:22",
+      "origin": "そでしたか。それは不審な気持ちになりますね。嫌われているとお感じなんですね。",
+      "content": "I see. That would make you feel suspicious. So you feel that they dislike you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:45:46",
+      "origin": "いつ頃からそうお感じですか？",
+      "content": "Since when have you been feeling that way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:46:34",
+      "origin": "そういうことは、嫌だなと思う人にするのかと思って。",
+      "content": "I just thought that's the kind of thing you do to someone you don't like."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:47:02",
+      "origin": "今回の件でそう思いました。",
+      "content": "This incident made me think that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:47:19",
+      "origin": "そうでしたか。普段お話をされていてもそうかんじられることはあるのですか？",
+      "content": "I see. Do you ever feel that way when you talk to them normally?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:50:54",
+      "origin": "う～ん、お二人はハッキリ言う方達で、私は無口な方ので性格は違うと思いますが、もしかしたら、つまらない子だなと思われていたのかもしれません。",
+      "content": "Hmm. They're both very outspoken, and I'm the quiet type, so our personalities are different. They might think I'm a boring person."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:52:28",
+      "origin": "そうですね。違うタイプの方を理解するのはなかなか難しい、と感じることはお互いありますよね。",
+      "content": "I agree. It can be difficult for different types of people to understand each other; that's something everyone experiences."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:53:09",
+      "origin": "タンタンさんはその方たちとの関係をこれからどうしたい、など希望はありますか？",
+      "content": "Tantan, what do you hope for in your relationship with those people going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:54:09",
+      "origin": "はい。普通に仕事をスムーズにできればそれでいいです。",
+      "content": "Yes. As long as we can work smoothly together, that's fine."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:55:17",
+      "origin": "次に同じようなことが起きたらって考えてしまいます。",
+      "content": "I keep thinking, \"What if something like this happens again?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:56:03",
+      "origin": "そうですよね。タンタンさんが先ほど言われてように、次あったときは他部署への働きかけができるのかな、と思います。",
+      "content": "I understand. As you mentioned earlier, if it happens again, perhaps you could then reach out to the other department."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:56:41",
+      "origin": "はい。まずはそうしたいと思います。",
+      "content": "Yes. I'll start with that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:57:01",
+      "origin": "また、同じことが内容にファイルの管理をもう少し厳密に持ち出すときはサインをするなどの提案もできるのでは、と。",
+      "content": "Also, to prevent a recurrence, you might propose tightening file management—for example, requiring a signature when checking it out."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T13:57:28",
+      "origin": "内容は無いようでした、すみません",
+      "content": "My apologies for that typo."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T13:59:11",
+      "origin": "そうですね。それはいい考えですね。皆が守ってくれますように。",
+      "content": "That's true. That's a good idea. I hope everyone will follow the rule."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T14:00:04",
+      "origin": "そう思って頂けて良かったです！お仕事順調にできますよう応援しています！",
+      "content": "I'm glad you think so! I'm rooting for you and hope your work goes smoothly!"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T14:00:25",
+      "origin": "はい。今日はありがとうございました。",
+      "content": "Yes. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T14:00:42",
+      "origin": "お時間ですね。今日はありがとうございました。",
+      "content": "It looks like our time is up. Thank you for today."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T14:00:56",
+      "origin": "そうですね。ありがとうございました。",
+      "content": "You're right. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T14:01:40",
+      "origin": "クロージングが短く失礼しました。ありがとうございました。",
+      "content": "My apologies for the brief closing. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T14:01:56",
+      "origin": "いえいえ、ありがとうございました。",
+      "content": "Not at all, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T14:02:41",
+      "origin": "これで終了で大丈夫でしょうか？初めてなので、すみません。",
+      "content": "Is it okay to end here? I'm sorry—this is my first time."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T14:03:22",
+      "origin": "はい、大丈夫です。終了のボタンを押されてくださいね。",
+      "content": "Yes, that's fine. Please go ahead and press the End button."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T14:03:41",
+      "origin": "はい！ありがとうございます！",
+      "content": "Okay! Thank you!"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場における人間関係の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 3764,
+    "evaluation_created_at": "2022-08-05T14:30:00",
+    "client_id": 313,
+    "counselor_id": 304,
+    "score": 77,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

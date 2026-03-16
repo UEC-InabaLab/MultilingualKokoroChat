@@ -1,0 +1,705 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:53:00",
+      "origin": "（こんばんは。入室しました。本日はよろしくお願いします。）",
+      "content": "(Good evening. I've joined the session. I look forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:55:10",
+      "origin": "よろしくお願いします。",
+      "content": "I look forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:55:54",
+      "origin": "（お返事ありがとうございます。お時間になったら始めさせて頂きますね。）",
+      "content": "(Thank you for your response. We'll start when it's time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:00:09",
+      "origin": "こんばんは、相談員です。はじめに年齢、性別、相談内容を教えてください。",
+      "content": "Good evening, this is the counselor. To start, please tell me your age, gender, and what you would like to discuss."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:00:41",
+      "origin": "高3生　男子　大学受験が間近に迫っているのに、全く勉強に手がつかない。もうダメだ。もう死にたい。",
+      "content": "I'm a male high school senior. University entrance exams are approaching, but I can't get myself to study at all. It's hopeless. I just want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:02:35",
+      "origin": "教えて頂きありがとうございます。そういうお気持ちになるほど追い込まれていらっしゃるのですね…。勉強が手につかないとのことですが、お話しやすいところからで大丈夫なので、もう少し詳しくお話聞かせてください。",
+      "content": "Thank you for sharing that with me. It sounds like you're feeling incredibly pressured to be having those thoughts... You mentioned you can't bring yourself to study. Could you tell me a little more about that, starting with whatever is easiest for you to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:03:12",
+      "origin": "やろうと思うのに、アニメに逃避してしまう。",
+      "content": "Even though I want to study, I end up escaping into anime."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:03:39",
+      "origin": "いけないと思っても、アニメばかり見てしまう。",
+      "content": "Even though I know I shouldn’t, I just keep watching anime."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:03:56",
+      "origin": "やらなきゃいけないことができない。",
+      "content": "I can’t do what I need to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:04:34",
+      "origin": "相談者様はアニメがお好きなのですね。アニメは面白いし楽しくてつい見てしまいますよね。",
+      "content": "It seems you enjoy anime. It's fun and engaging, so it's easy to get absorbed in it, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:05:10",
+      "origin": "アニメは手軽だから、つい見てしまう。",
+      "content": "Anime is so accessible, so I just end up watching it."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:05:35",
+      "origin": "でも、アニメなんか見てる場合じゃないんだ。",
+      "content": "But this is no time for me to be watching anime."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:06:16",
+      "origin": "相談者様はきちんと勉強しようというお気持ちを持っていらっしゃるように感じました。",
+      "content": "It sounds to me like you have a genuine desire to study properly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:06:39",
+      "origin": "ただ環境が勉強に集中しづらい環境なのかなと思ったのですが、いかがでしょうか？",
+      "content": "I was wondering if perhaps your environment makes it difficult to concentrate on studying. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:07:05",
+      "origin": "環境ではないんです。",
+      "content": "It’s not the environment."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:07:14",
+      "origin": "僕の性質なんです。",
+      "content": "It's my own nature."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:07:47",
+      "origin": "いつもそう。やろうと思うと、他のことをやってしまう。辛い。",
+      "content": "It’s always like this. When I try to start, I end up doing something else. It’s painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:08:01",
+      "origin": "何で僕はこうなんだろう？と。",
+      "content": "I keep thinking, \"Why am I like this?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:09:07",
+      "origin": "環境ではないのですね。性質ですか…。今は受験勉強が手につかなくてお悩みかと思うのですが、他のことでも性質が原因で困っておられるのですね。",
+      "content": "So it's not your environment. You feel it's your nature... I understand you're struggling with not being able to study for your exams right now, and it sounds like this 'nature' of yours causes you trouble in other areas as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:10:05",
+      "origin": "他のことをやってしまうというのは、例えば勉強だとしたらやっている途中で他のことをやってしまうのでしょうか？それとも時間を決めてもなかなか取り掛かれないのでしょうか？",
+      "content": "When you say you end up doing other things, does that mean, for example, that you get distracted while you're studying? Or is it that you have trouble getting started, even if you set a specific time?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:10:40",
+      "origin": "なかなか取りかかれないんです。",
+      "content": "I have trouble getting started."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:11:22",
+      "origin": "学校から帰ってきてすぐに取り掛かろうと思っても、夜遅い時間にならないと取りかかれない。",
+      "content": "Even if I plan to start right after I get home from school, I can't get to it until late at night."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:11:47",
+      "origin": "やろうと思っても出来ないことが何度も起きるととてももどかしくて辛いですよね。",
+      "content": "It must be very frustrating and painful when you repeatedly can't do what you intend to do."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:12:54",
+      "origin": "僕はなんでできないんだろう？他の人はなんで取り掛かれるんだろう？と思います",
+      "content": "I wonder, \"Why can’t I do it? How come other people can get started?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:13:31",
+      "origin": "そういった状況なのですね。夜遅くに取り掛かるのでは、やはりだめなのですね？相談者様としては、学校から帰ってすぐに取り掛かりたいと思っていらっしゃるのですね。",
+      "content": "I see, so that's the situation. So, starting late at night isn't working for you? It sounds like you really want to be able to start right after you get home from school."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:14:51",
+      "origin": "はい。やってるのは宿題だけで、受験勉強はする時間がありません。寝るのは遅くなるし。",
+      "content": "Yes. The only thing I manage is my homework; there's no time left for exam prep. And I end up going to bed late."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:15:20",
+      "origin": "受験なんてもう無理だ。",
+      "content": "The exams are impossible for me now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:15:36",
+      "origin": "思っている時間には取り掛かれていないのかもしれませんが夜遅くでも取り掛かれているのは素晴らしいことだと思います。",
+      "content": "You may not be starting at the time you want, but I think it's wonderful that you are able to get started, even if it's late at night."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:16:12",
+      "origin": "受験勉強するにはもっと時間が必要で、そのために早く始めたいと思っていらっしゃるのですね。",
+      "content": "So you feel you need more time for exam prep, and that's why you want to start earlier."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:17:01",
+      "origin": "どこが素晴らしいんですか？やってるのは、提出しなきゃいけない宿題だけで、本当は宿題なんか受験勉強に関係ないし、役にも絶たないんです。なのにかろうじてそれしかできない。",
+      "content": "What's so wonderful about it? I'm only doing homework that I have to turn in. The homework has nothing to do with my exam studies and is completely useless. And yet that's barely all I can manage to do."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:17:17",
+      "origin": "役に立たない",
+      "content": "It’s useless."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:17:20",
+      "origin": "相談者様がこうして悩んでいらっしゃるのはしっかり勉強して受験に備えたいというお気持ちがあるからなのではないかと相談員は感じました。",
+      "content": "I feel that the reason you're struggling so much is because you have a strong desire to study hard and prepare for your exams."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:17:38",
+      "origin": "気持ちはあるけど、行動に移せない",
+      "content": "I have the desire, but I can't put it into action."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:17:49",
+      "origin": "そうでしたか…宿題は受験勉強の役には立たないのですね…。",
+      "content": "I see... So the homework doesn't help with your exam studies..."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:18:05",
+      "origin": "全く役に立たない",
+      "content": "It’s absolutely useless."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:18:18",
+      "origin": "気持ちは焦るばかり",
+      "content": "I’m just getting more and more anxious."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:18:35",
+      "origin": "なんで僕は必要なことに時間を費やせないんだろう？",
+      "content": "Why can’t I spend time on what I need to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:18:53",
+      "origin": "僕はどこか欠陥人間かもしれない",
+      "content": "Maybe I'm defective in some way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:19:50",
+      "origin": "受験が近づいているお気持ちばかり焦ってしまいますよね。",
+      "content": "With the exams getting closer, it's natural to feel more and more anxious."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:20:04",
+      "origin": "もう本当にダメだ",
+      "content": "It's really hopeless now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:21:38",
+      "origin": "なかなか行動に移せない状況…お辛いですよね。少しでも勉強時間が増やせるような方法を一緒に考えていきたいと思っています。",
+      "content": "It must be very difficult, being unable to take action... I'd like to think with you about ways we might be able to increase your study time, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:22:21",
+      "origin": "僕は中学受験でも失敗してるんです",
+      "content": "I failed my middle school entrance exams too."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:23:28",
+      "origin": "最初の頃は勉強しなくても成績がどんどん上がってたけど、それが段々通用しなくなった",
+      "content": "At first, my grades kept improving without studying, but that eventually stopped working."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:24:03",
+      "origin": "勉強しないと成績は落ちていくのは当然。でも勉強できなかった。",
+      "content": "Of course grades drop if you don't study. But I couldn't study."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:24:18",
+      "origin": "今回も同じこと。",
+      "content": "It's the same this time."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:24:29",
+      "origin": "僕はなんでもそうなのかもしれない。",
+      "content": "Maybe I’m like this with everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:24:52",
+      "origin": "中学受験を経験されていたのですね。そういった状況で、長い間悩んでいらっしゃったのですね。",
+      "content": "So you went through the junior high entrance exams as well. It sounds like you've been struggling with this situation for a long time."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:25:44",
+      "origin": "僕はきっと同じことを一生繰り返し、何もできず、きっとホームレスになっていくのかもしれない",
+      "content": "I'll probably just repeat the same mistakes my whole life, never accomplish anything, and end up homeless."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:26:27",
+      "origin": "将来に対する不安もおありなのですね…。",
+      "content": "So you have anxieties about the future as well..."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:27:09",
+      "origin": "中学受験も失敗。大学受験もできそうにない。僕は社会不適合者なんだ",
+      "content": "I failed my junior high exams. I probably won't make it through the university exams either. I'm a social misfit."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:27:47",
+      "origin": "うまくいかないことが続くとなかなか希望が持てないと思うのですが、今できることがないか一緒に考えさせてくださいね。先ほどやるべきことができないとおっしゃっていたと思うのですが、相談者様の好きなアニメが見れない環境でも勉強が手につかない状況は変わらないのでしょうか？",
+      "content": "When things keep going wrong, I know it's hard to feel hopeful, but let's try to think together about what we can do now. You mentioned earlier that you can't do what you're supposed to do. Would the situation change if you were in an environment where you couldn't watch your favorite anime?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:28:29",
+      "origin": "アニメが観れない環境ってことですか？",
+      "content": "You mean an environment where I can’t watch anime?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:29:18",
+      "origin": "はい、そうです。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:29:40",
+      "origin": "今の世の中、スマホがあればどこでだって見れてしまいます",
+      "content": "These days, if you have a smartphone, you can watch it anywhere."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:30:54",
+      "origin": "アニメが見れなかったら、僕は他のことに逃避するかもしれない",
+      "content": "If I couldn't watch anime, I might just escape to something else."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:31:04",
+      "origin": "わからない",
+      "content": "I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:31:35",
+      "origin": "大丈夫ですよ、実際にその状況になってみないと分からないですよね。",
+      "content": "That's okay, you wouldn't know unless you were actually in that situation, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:31:54",
+      "origin": "どうしたらそんな環境が作れるのですか？",
+      "content": "How could I create an environment like that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:32:43",
+      "origin": "例えばですが、学校の授業中スマホが見れない状況ではいかがでしょうか？ご自宅よりも集中できますか？",
+      "content": "For example, what about during class at school, when you can't look at your phone? Are you able to concentrate better there than at home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:33:10",
+      "origin": "学校ではできます。でも家ではできない。",
+      "content": "I can do it at school. But I can’t at home."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:33:32",
+      "origin": "僕は1人になるとできない。",
+      "content": "When I’m alone, I can’t do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:34:00",
+      "origin": "そうなのですね。学校で出来るのはなぜなのでしょうか？おっしゃるように一人ではないからでしょうか？",
+      "content": "I see. Why do you think you can do it at school? Is it because, as you said, you’re not alone?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:34:39",
+      "origin": "自制心がないと思う",
+      "content": "I think I lack self-control."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:35:31",
+      "origin": "枠組みがしっかりあると、やらざるを得ない",
+      "content": "When there’s a firm structure, I have no choice but to do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:36:41",
+      "origin": "常に自分を律するのはとても難しいことだと思います。　まずはやらざるを得ない環境にあえて身を置くのも方法の一つかもしれません。",
+      "content": "I think it's very difficult to constantly discipline yourself. Perhaps one approach could be to intentionally place yourself in an environment where you have to do it."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:36:58",
+      "origin": "それができないんです。",
+      "content": "That's what I can't do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:37:39",
+      "origin": "なるほど…それがなかなか難しいのですね。",
+      "content": "I see... So that’s quite difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:37:40",
+      "origin": "そこからして、僕はもうダメなんです",
+      "content": "That right there proves I'm hopeless."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:38:14",
+      "origin": "他の人が普通にできることが僕にはできない",
+      "content": "I can't do things that other people can do normally."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:38:24",
+      "origin": "だから、絶望的になってしまう",
+      "content": "That's why I feel so hopeless."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:39:05",
+      "origin": "僕はやっぱり何もできない。ダメ人間なんです。",
+      "content": "I really can't do anything, after all. I'm a failure."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:40:46",
+      "origin": "何も出来ないなんてことはないですよ。終わりの見えない受験勉強はとても大変なことなんだと思います。",
+      "content": "That's not true that you can't do anything. Preparing for exams with no end in sight is a very difficult thing."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:41:15",
+      "origin": "でも、もう僕には無理な気がする",
+      "content": "But I feel like it’s already impossible for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:42:14",
+      "origin": "相談者様が受験勉強を頑張りたいと思っていらっしゃるのはどういった理由があるのでしょうか？",
+      "content": "What are the reasons you want to work hard on your exam studies?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:42:47",
+      "origin": "中学受験では両親は御三家に入ることを望んでいた",
+      "content": "For my junior high entrance exams, my parents wanted me to get into one of the top three schools."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:42:51",
+      "origin": "でもできなかった",
+      "content": "But I couldn’t."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:43:06",
+      "origin": "無理かもしれないと思いながらも今日こうして相談に来てくださったということは何とか頑張りたいというお気持ちがあるからなのではないかと感じました。",
+      "content": "Even though you feel it might be impossible, the fact that you came here to talk today makes me feel that you have a desire to somehow try your best."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:43:07",
+      "origin": "だから大学で挽回しないといけない",
+      "content": "That's why I have to make up for it with university."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:43:28",
+      "origin": "と思った",
+      "content": "Or so I thought."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:43:44",
+      "origin": "でも、それももう無理だと思う",
+      "content": "But I think that’s already impossible, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:43:58",
+      "origin": "ご両親のために頑張っていらっしゃるのですね。これまでずっととても大きな期待を背負って頑張ってこられたのですね。",
+      "content": "So you're trying hard for your parents. It sounds like you've been carrying the weight of their high expectations for a very long time."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:44:13",
+      "origin": "苦しくて、頭がおかしくなりそうだから、ここにきた",
+      "content": "It's so painful, I felt like I was going crazy, so I came here."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:45:05",
+      "origin": "今日相談に来てくださってありがとうございます。ここでは辛くて苦しい思いをたくさん吐き出してほしいと思っています。",
+      "content": "Thank you for coming to talk today. I want you to feel you can let out all of your painful and difficult feelings here."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:46:18",
+      "origin": "両親にも申し訳ないし、自分でも学びたいことがあり、行きたい大学もあるのに、そこに向かう努力ができない",
+      "content": "I feel sorry for my parents, and there are things I want to learn and a university I want to go to, but I can't make the effort to work towards it."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:46:33",
+      "origin": "努力したいのにできないんだ",
+      "content": "I want to make the effort, but I can't."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:46:52",
+      "origin": "スタート地点にも立てていない",
+      "content": "I can’t even get to the starting line."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:47:14",
+      "origin": "もう消えてしまいたい",
+      "content": "I just want to disappear."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:47:49",
+      "origin": "そんなことありませんよ。ご自身の学びたいこと、行きたい大学があるという目標があることがすでにスタート地点に立てているということだと思います。",
+      "content": "That's not true. I think the fact that you have a goal—things you want to learn and a university you want to attend—means you are already at the starting line."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:48:32",
+      "origin": "でも、僕には到底無理だ",
+      "content": "But it’s absolutely impossible for me."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:49:05",
+      "origin": "こんな自分が情けない",
+      "content": "I feel pathetic for being this way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:50:02",
+      "origin": "頑張りたいという思いがあるからこそのお気持ちだと思います。相談者様としては、あとどれくらい勉強時間を増やしたらしっかり勉強できているとお感じになりますか？",
+      "content": "I think you feel that way precisely because you have the desire to try hard. From your perspective, how much more study time would you need to add to feel like you're studying properly?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:50:37",
+      "origin": "1日5時間以上増やさないと無理だと思う",
+      "content": "I think I need to add at least 5 hours a day, or it's impossible."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:50:49",
+      "origin": "そんなことできっこない",
+      "content": "There’s no way I can do that."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:51:36",
+      "origin": "何度も言うけど、時間があっても、他のことをやってしま習癖があるからそんなの無理なんだ",
+      "content": "Like I keep saying, even if I have time, my habit of doing other things makes it impossible."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:53:33",
+      "origin": "お話を伺っていると、お一人ではなかなか難しいのですね。",
+      "content": "Listening to you, it seems it's quite difficult for you to do this alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:54:07",
+      "origin": "一人ではない誰かがいる環境で勉強することは難しいですか？",
+      "content": "Would it be difficult to study in an environment where someone else is present?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:54:21",
+      "origin": "それができたらいいけれど",
+      "content": "It would be nice if I could do that, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:55:39",
+      "origin": "母親にも図書館の自習室を勧められたが、いく気になれない",
+      "content": "My mother also suggested the library study room, but I can’t bring myself to go."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:55:49",
+      "origin": "そろそろ終了のお時間が近づいてきました。よろしければまた次回、集中して勉強できる『誰かがいる環境』を一緒に考えたいと思っているのですが、いかがでしょうか？",
+      "content": "Our time for today is almost up. If you'd like, I was thinking we could explore 'an environment with someone else present' where you can focus on studying in our next session. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:56:00",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:57:18",
+      "origin": "図書館の自習室に行く気になれない理由も次回の相談でお聞き出来たらと思います。",
+      "content": "In our next session, I’d also like to ask about the reasons you can’t bring yourself to go to the library study room, if that's alright."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:57:26",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T21:58:49",
+      "origin": "受験が迫る中、勉強が手につかず焦る気持ちだと思います。また近い日に今日の続きをお話しさせてください。少しでも相談者様の辛い気持ちが軽くなるよう何かお手伝いができたらと思っています。",
+      "content": "I imagine you must feel anxious with the exams approaching and being unable to study. Please let's continue our conversation soon. I hope I can help in some way to ease your painful feelings, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T21:59:03",
+      "origin": "今日はどうも有難うございました",
+      "content": "Thank you very much for today."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T22:00:00",
+      "origin": "普通のことができない僕みたいな人がいることをわかってください",
+      "content": "Please understand that there are people like me who can't do normal things."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T22:00:21",
+      "origin": "勉強も大事かと思いますが、お身体大事にしてください。こちらこそ今日は相談に来て頂きありがとうございました。",
+      "content": "Studying is important, but please take care of yourself. And thank you for coming to talk with me today."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T22:00:31",
+      "origin": "有難うございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T22:01:24",
+      "origin": "はい、相談者様のことをもっと理解したいと思っているので相談員が話すことも違うことは違うとご自身の素直なお気持ちをぜひ次回も聞かせてください。",
+      "content": "Yes, I want to understand you better, so please, next time as well, feel free to tell me your honest feelings, even if it means telling me I'm wrong about something."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T22:01:44",
+      "origin": "それでは今日はここで相談を終了させて頂いてもよろしいでしょうか？",
+      "content": "Shall we bring today’s session to a close here?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T22:01:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T22:02:56",
+      "origin": "それでは相談を終了させて頂きます。今日は相談に来て頂きありがとうございました。",
+      "content": "Then we’ll end the session here. Thank you for coming to talk today."
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "大学受験のプレッシャーと自分の性質に対する不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 5587,
+    "evaluation_created_at": "2023-08-10T23:02:00",
+    "client_id": 397,
+    "counselor_id": 409,
+    "score": 58,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:21:39",
+      "origin": "（こんばんは。時間になったら始めさせていただきます。どうぞ宜しくお願い致します）",
+      "content": "(Good evening. We will begin at the scheduled time. It's a pleasure to be working with you.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:22:04",
+      "origin": "（こんばんは。こちらこそどうぞよろしくお願い致します。）",
+      "content": "(Good evening. The pleasure is all mine. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:30:13",
+      "origin": "こんばんは　相談員です。年齢と性別、ご相談内容を教えていただけますか。",
+      "content": "Good evening, I'm the counselor. Could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:30:59",
+      "origin": "４５歳、女性、怖い病気にかかっているのではないか、不安です",
+      "content": "I'm 45, female, and I'm anxious that I might have a serious illness."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:32:11",
+      "origin": "教えてくださりありがとうございます。",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:33:55",
+      "origin": "そんな風に思って心配なのですね。なぜ、そんな風に思ったのか話せることでいいので教えていただけますか。",
+      "content": "I see that you're worried. Could you tell me, as much as you feel comfortable, what led you to think that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:34:39",
+      "origin": "今月にはいって、吐き気とだるさで寝込んでしまう日がたびたびあり、最初は熱中症や夏バテかと思っていたのですが",
+      "content": "This month, I've had several days where nausea and fatigue have kept me bedridden. At first, I thought it was heatstroke or summer fatigue."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:35:18",
+      "origin": "消化器内科で血液検査と内視鏡検査をうけたら、肝機能の数字が半年前の１０倍くらいにあがっていました",
+      "content": "But when I had a blood test and an endoscopy at the gastroenterology clinic, my liver function values were about 10 times higher than they were six months ago."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:36:04",
+      "origin": "肝機能の数字が高い場合のかかっている可能性のある病気をネットでしらべたら、",
+      "content": "When I looked up possible illnesses associated with high liver function numbers online,"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:36:44",
+      "origin": "肝硬変とか、肝臓がんとか、完治することはなく生死にかかわる病気がでてきて、いますごく怖いです",
+      "content": "things like cirrhosis or liver cancer came up—incurable, life-threatening diseases. I'm very scared right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:37:57",
+      "origin": "吐き気とだるさがたびたびあるとのこと、検査の数値も上がっているのことで、不安になるのも当然ですよね。",
+      "content": "With the frequent nausea and fatigue, on top of the elevated test results, it's completely understandable that you would feel anxious."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:38:54",
+      "origin": "はい、背中も痛くて、ただの肩こりではない感じですし、今までに経験のない不調なので、自分の身体がどうなっているのだろうとすごく怖いです",
+      "content": "Yes, my back hurts too, and it doesn't feel like just a stiff shoulder. It's a kind of discomfort I've never experienced before, so I'm terrified about what's happening to my body."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:39:53",
+      "origin": "そうなのですね。それは心配になりますね。",
+      "content": "I see. That must be very worrying."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:40:01",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:40:42",
+      "origin": "ちなみに病院に行かれたのですよね。先生はなんとおっしゃっていたのですか。",
+      "content": "By the way, you did go to the hospital, correct? What did the doctor tell you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:42:17",
+      "origin": "はい、医師にはもう一度血液検査をして数値の経過をみること、肝臓の様子をしるために腹部エコー検査をうけることをすすめられました",
+      "content": "Yes, the doctor recommended another blood test to monitor the values and an abdominal ultrasound to check on my liver."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:42:55",
+      "origin": "あと、肝機能の数値が高いので、処方されていた吐き気止めや胃酸を抑える薬などもすべて一旦ストップするように言われました",
+      "content": "Also, because my liver function values are high, I was told to temporarily stop taking all my prescribed medications, like the anti-nausea pills and stomach acid suppressants."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:44:26",
+      "origin": "そうなのですね。では今はお薬は飲めなくてお辛い状態ということなのですね。",
+      "content": "I see. So now you can't take any medication, which must be making things difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:45:14",
+      "origin": "はい、吐き気があっても飲めません",
+      "content": "Yes, I can't take anything even when I feel nauseous."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:46:22",
+      "origin": "それはお辛いですねそんな状態ではご不安になりますよね。",
+      "content": "That must be very hard for you. It's natural to feel anxious in such a state."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:46:51",
+      "origin": "はい、いろいろ調べているうちに不安が膨らんできてしまいました",
+      "content": "Yes, as I kept researching, my anxiety kept growing."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:47:34",
+      "origin": "そうですよね。誰かにお話ししたりされているのですか。",
+      "content": "I understand. Have you been talking to anyone about this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:48:23",
+      "origin": "夫や子供たちに話しましたが、子どもが泣き出してしまったので、あまり子どもには言わない方がいいと思いました",
+      "content": "I talked to my husband and children, but one of my children started crying, so I thought it might be better not to say too much to them."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:49:47",
+      "origin": "お話しできていてよかったですが、お子さんが泣き出してしまったのはなぜですか。",
+      "content": "I'm glad you were able to talk to them, but why did your child start crying?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:50:16",
+      "origin": "わたしが「もしかしたらあまり長く生きられないかもしれない」とぼやいたからです",
+      "content": "It's because I mumbled, 'I might not have much longer to live.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:51:32",
+      "origin": "そうだったのですね‥体がお辛いとそんな風に思ってしまいますよね。",
+      "content": "I see... When you're feeling so physically unwell, it's natural to think that way."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:52:15",
+      "origin": "身体が辛いから、というより肝機能の数値が高いこと、次回のエコー検査でどんな結果がでるかわからないことから、最悪の事態を考えてしまいました",
+      "content": "It's less about the physical discomfort and more about the high liver function values and not knowing what the next ultrasound will reveal. That's why I've been imagining the worst-case scenario."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:54:05",
+      "origin": "そうだったのですね。次回の検査まではどのくらい時間があるのですか。",
+      "content": "I understand. How long is it until your next test?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:54:17",
+      "origin": "あさって検査予定です",
+      "content": "The test is scheduled for the day after tomorrow."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:55:16",
+      "origin": "教えてくださりありがとうございます。",
+      "content": "Thank you for letting me know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T20:58:29",
+      "origin": "検査結果が出るまではご不安かと思いますが今はどのようにしているのですか。おやすみになっていることが多いですか。",
+      "content": "I imagine you'll feel anxious until the test results come out, but what have you been doing in the meantime? Are you resting most of the time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T20:59:21",
+      "origin": "はい、動くのもしんどいので、抱き枕を抱えて横になって気持ち悪さをしのいでいます。夫には慣れない家事をがんばってもらっています",
+      "content": "Yes, it's hard to even move, so I've been lying down with a body pillow to endure the nausea. My husband has been doing his best with the housework, which he isn't used to."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:00:09",
+      "origin": "仕事は在宅でできるので、短時間で休み休みなんとかやっています。",
+      "content": "I can work from home, so I’m managing to do it in short stints with frequent breaks."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:01:04",
+      "origin": "そうなのですね。そんな状態でお仕事されてるのですね。",
+      "content": "I see. You're working even in that condition."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:01:42",
+      "origin": "お仕事はどんなことをされているのですか。",
+      "content": "What kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:02:14",
+      "origin": "はい、パート事務です。普通に動けることがいかに幸せなことか、気づかされました。",
+      "content": "Yes, I'm a part-time administrative assistant. This has made me realize what a blessing it is to be able to move around normally."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:02:49",
+      "origin": "いままで、より健康になりたいと思ってビタミン剤や鉄剤などのサプリも結構飲んできたのですがそれによってじわじわ肝臓を傷めてしまったのかもしれないと思うと、後悔してもしきれません",
+      "content": "I used to take quite a few supplements, like vitamins and iron, because I wanted to be healthier. Now, the thought that I might have been slowly damaging my liver because of them fills me with endless regret."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:04:35",
+      "origin": "そうなのですね。ただ、健康のためにやられてきたことですしそれが原因と決まったわけではないですよね",
+      "content": "I see. But you were doing it for the sake of your health, and it hasn't been determined that the supplements are the cause, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:05:02",
+      "origin": "はい、ネットの情報をみてあれこれ考えてしまいます",
+      "content": "Yes, I keep reading things online and overthinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:08:02",
+      "origin": "ネットを調べたりしてしまうとあれこれ考えてしまいますよね。ただこんな状態でお仕事されたりして本当にすごいと思います。そして",
+      "content": "Looking things up online can certainly lead you to think about all sorts of things. But I truly think it's amazing that you're still working in your condition. And..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:09:33",
+      "origin": "ご家族のこともきちんと考えられていて素晴らしいと思います。",
+      "content": "I think it's wonderful that you're also thinking so carefully about your family."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:11:01",
+      "origin": "ありがとうございます。在宅ワークは最低限のことだけやって、２時間くらいで終わらせています。怖い病気だったらどうしよう、などとこぼしてしまうので、夫には「悲劇のヒロインになってる」と苦笑されます。",
+      "content": "Thank you. For my remote work, I only do the bare minimum and finish in about two hours. I sometimes complain, 'What if it's a serious illness?' and my husband gives a wry smile and says I'm 'being a drama queen.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:13:34",
+      "origin": "悲劇のヒロインですか。でも、ご不安は吐き出してしまう方がいいと思います。",
+      "content": "A drama queen? But I think it's better to voice your anxieties."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:14:16",
+      "origin": "ありがとうございます。吐き出したくて今日ここに来ました。",
+      "content": "Thank you. I came here today because I wanted to vent."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:15:09",
+      "origin": "検査して結果がわかるまであれこれ考えても仕方ないことはわかっているのですが、あさってまでの時間が果てしなく長く感じてしまいます",
+      "content": "I know there’s no point in speculating until I have the tests and get the results, but the time until the day after tomorrow feels endlessly long."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:16:17",
+      "origin": "そうですよねご不安のほかがあったら、遠慮なくいってください",
+      "content": "That's understandable. If there's anything else on your mind, please don't hesitate to share."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:17:25",
+      "origin": "もし余命が短いとしたら、心残りだらけです・・・",
+      "content": "If I don't have long to live, I'll have so many regrets..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:18:15",
+      "origin": "そうなのですね。ただ",
+      "content": "I see. However,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:20:01",
+      "origin": "悪い方に考えてしまうと良くないのでいまやりたいこととして考えてみるのはいかがでしょうか。",
+      "content": "Dwelling on the worst-case scenario isn't helpful, so how about we try thinking about things you'd like to do now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:20:49",
+      "origin": "いま自分のやりたいことをする、ということでしょうか？",
+      "content": "Do you mean, do the things I want to do right now?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:22:17",
+      "origin": "もちろんお体が大変だと思うのでできることとやりたいことなどリストアップしてみるとかいかがでしょうか。",
+      "content": "Of course, I know it's physically difficult for you, so how about making a list of things you can do and things you'd like to do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:23:49",
+      "origin": "元気になったらやりたいことをリストアップして、悪いことばかり考えないようにする、ということですね",
+      "content": "So, you mean I should make a list of things I want to do when I feel better to keep myself from thinking only about bad things."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:24:56",
+      "origin": "できるだけ前向きになれそうなことができたらいいのでは、と思いました。",
+      "content": "I thought it might help if you can find ways to feel more positive."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:26:23",
+      "origin": "やってみます。まずは今まで普通にできてたこと、ご飯をおいしく食べる、料理する、仕事をする、買い物、などをしたいです。前向きになれるかはわかりませんが",
+      "content": "I'll try. First, I want to do the things I used to do normally, like enjoy a meal, cook, work, go shopping... I'm not sure if it will make me feel more positive, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:27:52",
+      "origin": "軽々しく前向きなんてすみませんでしたただ体がきつかったり不安だったりといろいろな感情で溢れてしまうと思うので、書くことで整理ができたら少しは楽になるのかと思いました。",
+      "content": "I'm sorry for casually suggesting you be 'positive.' I just thought that since you must be overflowing with various emotions from the physical discomfort and anxiety, writing them down might help you organize your thoughts and ease the burden a little."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:28:57",
+      "origin": "そうですね、寝てばかりで腰が痛いのですが、やりたいことだけでなく、感情も書き出してみます",
+      "content": "You're right. My lower back hurts from lying down so much, but I'll try writing down not only what I want to do, but my feelings as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:31:16",
+      "origin": "はい、もちろんご無理のないようにですができること、できたこと、感情もかくことで少しでも不安が少なくなればいいと思います。",
+      "content": "Yes, of course, please don't overdo it. I hope that by writing down things you can do, things you've accomplished, and your feelings, your anxiety might lessen even a little."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:32:06",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:32:11",
+      "origin": "お時間が過ぎてしまいすみませんでした。",
+      "content": "I'm sorry, we've gone over our time."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:32:21",
+      "origin": "とんでもないです",
+      "content": "Not at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:34:09",
+      "origin": "すみません。お時間になってしまったので終わりにさせていただきますがもしよかったらまたいらしてくださいね。",
+      "content": "I'm sorry, our time is up for today. If you'd like, please feel free to come back again."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:34:28",
+      "origin": "はい、今日はありがとうございました。",
+      "content": "Yes, thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:35:13",
+      "origin": "（いろいろ不慣れで申し訳ございませんでしたありがとうございました）",
+      "content": "(I'm sorry for any inexperience. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:35:36",
+      "origin": "こちらこそありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-27T21:35:41",
+      "origin": "（こちらこそ本日はありがとうございました・）",
+      "content": "(Thank you very much for today as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-27T21:36:22",
+      "origin": "では終了させていただきます",
+      "content": "Then I will now end the session."
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "肝機能の異常とそれに伴う不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 7133,
+    "evaluation_created_at": "2024-07-28T07:28:00",
+    "client_id": 500,
+    "counselor_id": 488,
+    "score": 54,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

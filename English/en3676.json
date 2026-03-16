@@ -1,0 +1,525 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-02T10:51:37",
+      "origin": "こんにちは。本日はよろしくお願いいたします。",
+      "content": "Hello. Thank you for coming today."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T10:51:52",
+      "origin": "こんにちはこちらこそ宜しくお願いいたします",
+      "content": "Hello. Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T10:52:16",
+      "origin": "お時間になりましたら始めさせていただきますね。",
+      "content": "We'll begin when it's time."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T10:52:31",
+      "origin": "はい、待機しています(^^)",
+      "content": "Okay, I'm ready. (^^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:00:18",
+      "origin": "こんにちは、相談員です。本日はご相談ありがとうございます。はじめにあなたの年齢、性別をお聞かせいただけますでしょうか？",
+      "content": "Hello, I'm the counselor. Thank you for consulting with us today. First, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:00:44",
+      "origin": "中1です男です",
+      "content": "I'm in the first year of junior high. I'm a boy."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:01:25",
+      "origin": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:01:55",
+      "origin": "学校が辛いです",
+      "content": "School is tough for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:03:18",
+      "origin": "学校が辛いのですね。もう少し詳しく教えていただけますか？",
+      "content": "School feels tough, I see. Could you tell me a bit more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:03:56",
+      "origin": "なんといえばいいのかよくわからないのですが、なんか辛いんです",
+      "content": "I’m not really sure how to put it, but it’s just kind of hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:04:35",
+      "origin": "よくわからないけど辛いんですね。",
+      "content": "So you're not sure why, but it feels hard."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:05:13",
+      "origin": "はいあんまり行きたくないけど、行かなきゃだし",
+      "content": "Yeah. I don’t really want to go, but I have to."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:06:10",
+      "origin": "それはいつ頃から思ってましたか？",
+      "content": "When did you start feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:06:38",
+      "origin": "小5くらいかなと思います",
+      "content": "I think since around 5th grade."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:07:35",
+      "origin": "小学5年生の頃からそう思ってたんですね。",
+      "content": "So you’ve felt that way since 5th grade."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:07:41",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:08:36",
+      "origin": "その時に身の周りで何か変わったことなどありましたか？",
+      "content": "Around that time, did anything change in your life?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:09:02",
+      "origin": "とくにないと思います",
+      "content": "I don't think so, not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:09:44",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:11:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:13:20",
+      "origin": "学校が辛いなと思いながらも休まず登校してたんですか？",
+      "content": "Even though school feels tough, have you been going without missing any days?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:14:04",
+      "origin": "はいでも毎日遅刻していて、親に怒られてます",
+      "content": "Yes, but I’m late every day, and my parents get mad at me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:15:22",
+      "origin": "毎日遅刻しながらでも登校されてたんですね。",
+      "content": "So you've been going to school, even while being late every day."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:15:34",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:17:13",
+      "origin": "遅刻してしまう理由はなんでしょうか、聞いていいですか？",
+      "content": "May I ask why you end up being late?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:19:10",
+      "origin": "朝起きれないです間に合いそうでも、ちょうど家を出なきゃいけない時間にお腹痛くなるからトイレ行ったりして、結局遅刻しますまぁ、寝るのが遅いからいけないんですけど",
+      "content": "I can’t get up in the morning. Even when it seems like I might make it on time, my stomach starts hurting right when I have to leave the house, so I go to the bathroom and end up late. I guess it’s my fault for going to bed late, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:21:04",
+      "origin": "朝が起きれなくて学校行かなきゃと思うとお腹が痛くなる。それで遅刻しちゃうのね。",
+      "content": "So you can't get up in the morning, and when you think about having to go to school, your stomach hurts. And that makes you late."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:21:25",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:22:37",
+      "origin": "それで寝るのが遅いと書かれてましたが、何時頃寝てますか？",
+      "content": "You mentioned that you go to bed late. Around what time do you usually go to sleep?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:22:58",
+      "origin": "2時とか3時くらいです",
+      "content": "Around 2 or 3 a.m."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:24:44",
+      "origin": "2時とか3時なのね。その時間まで何してるのかな？",
+      "content": "2 or 3 a.m., I see. What do you do until then?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:25:00",
+      "origin": "ゲームとかYouTubeとか",
+      "content": "Games or YouTube and stuff."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:26:52",
+      "origin": "そっかゲームとかYouTube見てると気が付いたら2時3時って感じなの？",
+      "content": "I see. So when you’re playing games or watching YouTube, before you know it, it’s 2 or 3 a.m.?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:27:09",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:28:04",
+      "origin": "学校で眠くならない？どうですか？",
+      "content": "Don't you get sleepy at school?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:28:24",
+      "origin": "眠いです",
+      "content": "I get sleepy."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:29:43",
+      "origin": "眠くなりますよね",
+      "content": "I'm sure you do. That makes sense."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:29:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:32:57",
+      "origin": "生活のリズムが少し乱れてるのでそれを整えれば朝起きやすくなりますし、お腹も痛くならなくなると思いますよ。",
+      "content": "Your daily routine seems a bit off; if you can get that back on track, I think it will be easier to get up in the morning, and your stomachaches might go away as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:33:40",
+      "origin": "親にもそう言われてますわかってるけど、、、",
+      "content": "My parents say the same thing. I know, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:34:30",
+      "origin": "わかってるけど",
+      "content": "You know that, but..."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:36:16",
+      "origin": "ゲームやYouTubeやめられない自分が悪いですよね",
+      "content": "It's my fault that I can't stop playing games or watching YouTube, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:40:05",
+      "origin": "悪くないと思いますよ。時間を決めて終わらることは出来そうですか？",
+      "content": "I don't think you're at fault. Do you think you could try setting a time to stop?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:41:11",
+      "origin": "やめても、寝れなくてまたつけたりしちゃいます",
+      "content": "Even if I stop, I can't fall asleep, so I end up turning it back on."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:41:34",
+      "origin": "やっぱり、意志が弱い自分が悪いですよね",
+      "content": "After all, it's my fault for being weak-willed, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:42:38",
+      "origin": "みんなに早く寝ればいいって言われるんですけど、できないから相談してみようと思ったんですけど",
+      "content": "Everyone tells me I should just go to sleep earlier, but I can't, so I thought I'd try talking to someone."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:42:52",
+      "origin": "寝れないとついつけちゃう気持ちわかりますよ。",
+      "content": "I understand the urge to turn it back on when you can’t sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:44:07",
+      "origin": "日中に外で運動をして適度に疲れると寝付けると思いますよ。",
+      "content": "If you get some exercise outdoors during the day and feel moderately tired, I think it may help you fall asleep."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:44:44",
+      "origin": "陸上部なんで毎日運動してるんですけど",
+      "content": "I’m on the track team, so I exercise every day, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:45:39",
+      "origin": "そうなんですね。毎日運動をされてるのですね。",
+      "content": "Oh, I see. So you do exercise every day."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:45:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:47:49",
+      "origin": "夜遅くにゲームがしたくなったら、なにかほかに意識を向けるようにしてみませんか？例えば本を読むなど",
+      "content": "When you feel like playing games late at night, would you be willing to try shifting your focus to something else? For example, reading a book."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:51:42",
+      "origin": "漫画なら読むけど、漫画も読んでると遅くなったりして親に怒られる",
+      "content": "I read manga, but if I keep reading, it gets late too, and my parents scold me."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:52:08",
+      "origin": "やっぱり早く寝られない自分が悪いですよね",
+      "content": "So it really is my fault that I can't go to sleep early, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:52:38",
+      "origin": "みんな自分でやめられるのかなみんなも遅くまでやってるんだけどな",
+      "content": "I wonder if everyone else can stop on their own. They stay up late too, though."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:52:47",
+      "origin": "起きられないのが悪いのかな",
+      "content": "Maybe it's my fault that I can't get up?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:54:09",
+      "origin": "かいがらさんは起きられない、早く寝られない自分が悪いと思っているのね。",
+      "content": "So you feel it’s your fault that you can’t get up and can’t go to bed early."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:54:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:55:24",
+      "origin": "きちんと生活リズムを整えれば出来ますよ。朝も起きれますよ。やってみませんか？",
+      "content": "If you properly adjust your daily routine, you can do it. You’ll be able to get up in the morning, too. Would you like to try?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:57:00",
+      "origin": "今までも同じこと親や先生にずっと言われてきました。やっぱり、それができない自分が悪いんだと思います。",
+      "content": "My parents and teachers have been telling me the same thing all along. I guess it really is my fault that I can’t do it."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T11:58:20",
+      "origin": "寝る時間決めてやったりもしたけど、また戻っちゃったし、根性ない自分が悪いです",
+      "content": "I've tried setting a bedtime, but I just went back to my old ways. It's my fault for having no willpower."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T11:59:56",
+      "origin": "そうなのね。生活のリズムの立て直しは大人でも大変なことだと思うので、根性がない自分が悪いと思わないでほしいです。",
+      "content": "I see. I think getting a daily routine back on track is hard even for adults, so please don't think it's your fault for having no willpower."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:00:47",
+      "origin": "わかりました。早く寝るように頑張ってみます。",
+      "content": "Okay. I'll try my best to go to bed earlier."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:02:35",
+      "origin": "また眠れなくなったらここへ相談にきてください。別の相談員が対応させていただきますが、今回のやり取りを確認した上でしますので安心してください。",
+      "content": "If you find you can't sleep again, please feel free to come back for another consultation. A different counselor may assist you, but they will review our conversation today, so please don't worry."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:02:51",
+      "origin": "わかりました。ありがとうございました。",
+      "content": "Okay. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:03:20",
+      "origin": "本日はありがとうございました",
+      "content": "Thank you for your time today."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:03:30",
+      "origin": "お疲れ様でした。らいんこのロールプレイって何回目くらいでかお聞きしても良いですか？",
+      "content": "Thank you for the session. May I ask how many times you’ve done a role-play on Rainco?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:03:41",
+      "origin": "何回目くらいでしょうか？",
+      "content": "About how many times has it been?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:04:23",
+      "origin": "合計ですか？クライエント役？カウンセラー役？",
+      "content": "In total? As the client? Or as the counselor?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:04:36",
+      "origin": "カウンセラー役は",
+      "content": "As the counselor."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:05:01",
+      "origin": "お恥ずかしながら今日で6回目です。",
+      "content": "It's a bit embarrassing, but today is my 6th time."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:05:28",
+      "origin": "そうなんですねわかりました。毎回テーマも違うし難しいですよね",
+      "content": "I see. The theme is different every time, so I imagine it's difficult."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:06:28",
+      "origin": "余計な話をすみませんでした💦わたしも勉強させていただきました。ありがとうございました！",
+      "content": "Sorry for going off-topic 💦 I learned a lot too. Thank you!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:06:48",
+      "origin": "そうですね。毎回緊張します。でもスタート前のかいがらさんの「はい待機してます(^^)」でほぐれました",
+      "content": "Yes, it is. I get nervous every time. But your 'Okay, I'm ready (^^)' before we started helped me relax."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:07:18",
+      "origin": "いえいえ。つたないカウンセラー役で申し訳ありませんでした",
+      "content": "Not at all. I apologize for my clumsy counseling."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:07:36",
+      "origin": "緊張しますよね、、わかります！わたしも毎回手が震えます！お互い頑張りましょう！",
+      "content": "It is nerve-wracking, isn't it? I get it! My hands shake every time, too! Let’s both do our best!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:08:09",
+      "origin": "はい、ありがとうございます。頑張りましょうね",
+      "content": "Yes, thank you. Let’s do our best."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:10:06",
+      "origin": "それでは失礼いたします",
+      "content": "Well then, goodbye."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-02T12:10:21",
+      "origin": "はいお疲れ様でした",
+      "content": "Yes, thank you for your time."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:10:32",
+      "origin": "お疲れ様でした",
+      "content": "Thank you for your time."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-02T12:10:44",
+      "origin": "では",
+      "content": "Well then."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校への不適応感"
+  },
+  "review_by_client": {
+    "evaluation_id": 3676,
+    "evaluation_created_at": "2022-07-02T12:21:00",
+    "client_id": 283,
+    "counselor_id": 259,
+    "score": 51,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

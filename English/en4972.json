@@ -1,0 +1,621 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-02T09:52:11",
+      "origin": "（おはようございます。本日はよろしくお願い致します。定刻になったら始めさせて頂きますね。）",
+      "content": "(Good morning. I look forward to working with you today. We'll start at the scheduled time, okay?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T09:52:46",
+      "origin": "（もしよろしければ、希死念慮のケースをお願いすることはできますか？）",
+      "content": "(If it's alright with you, could we do a case involving suicidal ideation?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T09:53:14",
+      "origin": "（やってみたいクライエントがある場合は、そちらで構いませんので、おっっしゃって下さいね。）",
+      "content": "(If there's a client scenario you'd like to try, that's perfectly fine, so please let me know.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T09:53:43",
+      "origin": "失礼しました。おっしゃって下さいね、の間違いです。",
+      "content": "My apologies. It was a typo for \"please let me know.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T09:54:28",
+      "origin": "(おはようございます！よろしくお願いいたします！希死念慮ですね、承知いたしました。考えていたケースを重症化させてみます…！)",
+      "content": "(Good morning! I look forward to it! Suicidal ideation, got it. I'll try to make the case I was thinking of more severe...!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T09:55:25",
+      "origin": "（ありがとうございます！考えて下さっていたケース中心で構いませんので、よろしくお願い致します。）",
+      "content": "(Thank you! It's fine to focus on the case you were already thinking about. I look forward to it.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T09:57:18",
+      "origin": "(大丈夫です！初めてのロールプレイなので、不手際があったら、すみません…！よろしくお願いいたします(^-^))",
+      "content": "(It's okay! This is my first time role-playing, so I apologize in advance for any clumsiness...! I look forward to working with you (^-^))"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T09:59:34",
+      "origin": "（そうなのですね。大丈夫です。何かあったら、この（　）でやりとりしましょう！）",
+      "content": "(Oh, I see. It's alright. If anything comes up, let's communicate using these parentheses!)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T09:59:57",
+      "origin": "(はい！笑　ありがとうございます！)",
+      "content": "(Okay! Haha, thank you!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:00:21",
+      "origin": "おはようございます、相談員です。本日はご相談にお越し下さり、ありがとうございます。はじめに年齢、性別、ご相談内容を教えて頂けますか？",
+      "content": "Good morning, I'm the counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:01:02",
+      "origin": "よろしくお願いします。17歳、女、色々うまくいかなくて死にたいです。",
+      "content": "I'm 17 years old, female, and I want to die because nothing is going right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:01:52",
+      "origin": "お答えいただき、ありがとうございます。そうなのですね。とてもお辛いお気持ちを抱えていらっしゃるのではないかと思います。",
+      "content": "Thank you for sharing that. I see. I can imagine you must be carrying some very painful feelings."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:02:40",
+      "origin": "はい、なんか、好きだった人に彼女ができたあたりから、もう色々ぐちゃぐちゃになってきて",
+      "content": "Yes, well, ever since the guy I liked got a girlfriend, everything's just become a mess."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:02:59",
+      "origin": "食べれないし、あんまり眠れないし",
+      "content": "I can't eat, and I can hardly sleep."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:03:11",
+      "origin": "しんどいなって",
+      "content": "It's just so hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:04:28",
+      "origin": "そのようなことがあったのですね。身体にも影響が出るほどですから、とてもショックを受けられたのではないかと思います。",
+      "content": "I see that's what happened. It must have been a great shock, to the point where it's affecting your physical health."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:06:12",
+      "origin": "色々うまくいかないと話して下さいましたが、どのようなことがあったか教えて頂けますか？話せる範囲で構いませんよ。",
+      "content": "You mentioned that things aren't going right. Could you tell me more about what's been happening? Only as much as you're comfortable sharing."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:08:34",
+      "origin": "はい、実は、前からアプローチはしてたんですが、手紙を机の中に入れても無視されるし、目も合わせてくれないし。原宿行かない？って誘ったんですけど、嫌いだからってスルーされて、でも彼女とは原宿デート言ったって聞いて、あー私だから嫌だったんだなって。彼は2つ下の学年なんですが、彼女は私と同学年で、なら私でも良くない？って思うし。相当嫌われてるのかなって。ちなみに、彼女は陸上部のエースで大会もバンバン出てて、可愛らしいし、まぁしょうがないんですけどね。",
+      "content": "Yes. Actually, I'd been trying to make a move on him for a while, but he'd ignore the letters I put in his desk, and he wouldn't even make eye contact with me. I asked him if he wanted to go to Harajuku, but he just brushed me off, saying he hates it there. But then I heard he went on a date to Harajuku with his girlfriend, and I realized, oh, it was because it was *me* that he didn't want to go. He's two years younger than me, but his girlfriend is in my grade, so I think, why not me? I wonder if he really hates me that much. By the way, his girlfriend is the star of the track and field team, she's always in competitions, and she's cute, so... I guess I can't blame him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:09:43",
+      "origin": "そのようなことがあったのですね。それは相談者さんが混乱されるのも、当然のことと思います。",
+      "content": "I see that's what happened. It's completely understandable that you would feel confused by that."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:10:10",
+      "origin": "私がだめなんだなー、もうあかんなーって感じです",
+      "content": "I just feel like I'm no good, like it's hopeless."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:10:39",
+      "origin": "すみません、こんな変な話で。",
+      "content": "Sorry for talking about such a strange thing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:10:50",
+      "origin": "そのようにお感じになられているのですね。私は好きな人に、ご自分からアプローチをされた相談者さんは、とても素直で素敵な方だな、と感じましたよ。",
+      "content": "That's how you're feeling. I think that someone who can approach the person they like on their own is a very honest and wonderful person."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:11:23",
+      "origin": "いえいえ、どのようなことでも、話して下さることが嬉しいので、ここでは何でも話して下さいね。",
+      "content": "Not at all. I'm happy that you're sharing with me, so please feel free to talk about anything here."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:12:04",
+      "origin": "ちなみに、相談者さんと好きな方は、同じ学校に通われているのでしょうか？",
+      "content": "By the way, do you and the person you like go to the same school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:12:10",
+      "origin": "ありがとうございます。頑張ったんですけどね…でも、好きでもない相手にしつこくされて、気持ち悪かっただろうな自分って。",
+      "content": "Thank you. I tried my best... But I bet he felt creeped out by someone he doesn't even like being so persistent."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:12:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:12:22",
+      "origin": "同じです",
+      "content": "We do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:12:53",
+      "origin": "ありがとうございます。同じ学校なのですね。相談者さんは１７歳ということなので、高校３年生でいらっしゃいますか？",
+      "content": "Thank you. So you go to the same school. You said you're 17, so does that mean you're a third-year high school student?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:13:07",
+      "origin": "高３です",
+      "content": "I'm a third-year."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:13:30",
+      "origin": "中高一貫校で、前から知ってる感じです",
+      "content": "It's a combined junior-senior high school, so I've known him for a while."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:14:50",
+      "origin": "なるほど。ありがとうございます。同じ学校内のことだと、好きな人の行動や彼女になられた方のことも、状況が見えてしまい、よけいに色々なことを考えてしまいますね。",
+      "content": "I see. Thank you. When it's all happening within the same school, you can see what the person you like is doing and what his girlfriend is like, which must make you think about things even more."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:16:23",
+      "origin": "ここまでお話をうかがって、好きな方の反応は望まれたものではなかったと思いますが、お気持ちを伝える努力をされた相談者さんは、私は素晴らしいと思います。",
+      "content": "From what I've heard so far, while his reaction may not have been what you hoped for, I think it's wonderful that you made the effort to convey your feelings."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:16:43",
+      "origin": "そうなんです…気にしないように、沢山予定いれたりしてたんですけど、やっぱり寝る前とかご飯食べるときとか、ふとしたときに思い出しちゃって。死にたいなって。あんまり食べないから親にもバレて、「あー、あんたブスだし、無理でしょ。気持ち悪いって。」って言われて。",
+      "content": "That's right... I tried to keep my mind off it by making a lot of plans, but I still think about it at random times, like before I go to sleep or when I'm eating. It makes me want to die. My parents noticed I wasn't eating much, and they said, \"Oh, you're ugly, so it was impossible for you anyway. How creepy.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:17:47",
+      "origin": "そのようなことを言われたのですね。それは腹立たしいお気持ちだったのではないかと思いますが、どのように感じられましたか？",
+      "content": "They said that to you. I imagine that must have been incredibly upsetting; how did you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:18:45",
+      "origin": "なんか、もうしんどい。好かれない自分が生きてても、意味がないなって。どーせ愛されないし、気持ち悪いし。良いことないし。言っててもしょうがないから、もう死ねばラクになるなって。",
+      "content": "I'm just... so tired. I feel like there's no point in me living if no one likes me. No one will ever love me anyway, I'm just creepy. Nothing good ever happens. There's no point in talking about it, so I just think it would be easier to die."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:19:50",
+      "origin": "じゃあ、勝手に死ねばいいのに、まだ生きてる自分が悔しい。うざい",
+      "content": "Then I think, fine, just die already—and I'm frustrated that I'm still alive. I'm so annoying."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:20:25",
+      "origin": "そのようにお感じになられるのですね。一生懸命に努力されてきたことが、そのような形で返ってくると、そう感じられても無理はないと思います。",
+      "content": "Those are the feelings you're having. When you've tried so hard and that's what you get back, it's understandable to feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:21:08",
+      "origin": "そうなのですね。相談者さんは、とても疲れておられるのではないかと思います。",
+      "content": "I see. I imagine you must be very tired."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:21:39",
+      "origin": "どうしようもないのに、バカみたいですよね。生きるのってカロリーいるんだなって感じです。疲れた",
+      "content": "It's hopeless, and I feel stupid. It's like, living really takes calories, you know? I'm tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:21:46",
+      "origin": "私は、相談者さんが、生きて、こうして、相談にきて下さったことが、とても嬉しいですよ。",
+      "content": "I'm very glad that you are alive and that you came here to talk to me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:22:22",
+      "origin": "ええ、生きるのは、とてもエネルギーが必要ですよね。",
+      "content": "Yes, it takes a lot of energy to live, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:22:47",
+      "origin": "みんなもっと色んなことで悩んですのに、こんなみっともない相談で申し訳ないです。",
+      "content": "Everyone else struggles with bigger things, and I'm sorry for bringing such a pathetic issue."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:22:53",
+      "origin": "疲れたなー。",
+      "content": "I'm so tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:23:37",
+      "origin": "うんうん、頑張ってこられたのですよ。悩みにみっともないなど、とんでもありません。ひとつひとつのお悩みは、その方にとって、とても大切なものだと私は考えています。",
+      "content": "Yes, yes, you've been trying so hard. There's no such thing as a pathetic problem. I believe that every single worry is very important to the person experiencing it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:24:36",
+      "origin": "相談者さんは、ご自分のことに今は自信をなくされているように感じますが、悩みの中に、楽になるヒントが隠れていることはたくさんあります。",
+      "content": "It seems you're not feeling confident in yourself right now, but there are often hints hidden within our struggles about how to feel lighter."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:25:15",
+      "origin": "え、なんだろ…",
+      "content": "Huh, like what..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:25:44",
+      "origin": "今日は、相談者さんの今一番話したいことについて、深くお話をする中で、自信の種のようなものを探してみたいと思いますが、いかがですか？",
+      "content": "Today, as we talk more deeply about what you most want to discuss right now, I'd like to try and look for something like a seed of confidence. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:26:33",
+      "origin": "自信、、えー。あるかな、、、自信は無いです",
+      "content": "Confidence... huh. I wonder if I have any... I don't have any confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:27:22",
+      "origin": "ええ、最初は自信はなくて当然なので、何かそれに繋がるものを今日は見つけられたらいいなと思います。",
+      "content": "Yes, it's perfectly natural not to have confidence at first. I hope we can find something today that could lead to it."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:27:52",
+      "origin": "見つけたいきもします",
+      "content": "I kind of want to find it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:29:03",
+      "origin": "そのように感じて下さっているのですね。今悩んでおられることの中で、特に心に引っかかっていることや、話したいと思われることはありますか？",
+      "content": "I'm glad you feel that way. Among the things you're worried about now, is there anything in particular that's sticking in your mind or that you'd like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:29:59",
+      "origin": "やっぱり、彼にフラれて(無視すれて？)ってことですかねどうしようもないけど、ずっと考えちゃう",
+      "content": "I guess it's about being rejected (or ignored?) by him. I can't do anything about it, but I keep thinking about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:31:01",
+      "origin": "そうなのですね。とても大きな出来事だったのと思うので、考えてしまうのは自然なことと思います。どうしようもなくなんて、ないですよ。",
+      "content": "I see. I imagine it was a very big event, so it's natural to keep thinking about it. It's not true that you can't do anything about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:31:47",
+      "origin": "もしよろしければ、好きな方の、どういうところを好きになられたのか、聞かせて頂けますか？",
+      "content": "If you don't mind, could you tell me what it was about him that you came to like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:33:47",
+      "origin": "相手の気持ちは変えられないし、こんな気持ち悪い奴が好きになってごめんねって感じです。生きてるだけで恥ずかしいってあるんですね。私と全然ちがうところ。明るくて、色々器用にこなせて。彼のまわりだけ、パーーって明るく見えて。前向きで、さっぱりしてます。",
+      "content": "You can't change how other people feel, so I just feel like, I'm sorry a creepy person like me likes you. It really is embarrassing just to be alive. He's completely different from me. He's cheerful and can handle anything skillfully. It's like the area around him just shines brightly. He's positive and straightforward."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:35:57",
+      "origin": "ええ、お相手の気持ちは変えられませんね。ですが、相談者さんのお気持ちも無理に変える必要はないのですよ。そして、お相手の気持ちがどうであれ、相談者さんの価値には関係ありません。",
+      "content": "Yes, you can't change how he feels. But you don't need to force yourself to change how you feel, either. And regardless of how he feels, it has no bearing on your worth."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:37:28",
+      "origin": "好きな方は、そのように明るく前向きな方なのですね。とても魅力的な方なのではないかと思います。相談者さんは、その方とお付き合いされたら、どのように感じられると思いますか？",
+      "content": "So the person you like is cheerful and positive. He sounds very charming. How do you think you would feel if you were to date him?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:38:35",
+      "origin": "補足させて頂くと、どのような表情で、どのようにお話をされ、どのような行動をとられると思いますか？",
+      "content": "To add to that, what kind of expressions would you have, how would you talk, and what kinds of things would you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:40:26",
+      "origin": "私の価値…ありがとうございます。なんか、色々思い出してきちゃった…彼からしたら、私なんてゴミ同然だろうな。どうでもいいってゆーか。彼や彼女は幸せになれるけど、私は幸せになれないって思っちゃう。えーーーー。うーん。明るい表情で、彼の好きなスポーツの話とかして、試合観に行ったり？ですかね。彼に合わせそう",
+      "content": "My worth... Thank you. I'm starting to remember all sorts of things... To him, I'm probably like trash. Or like, he couldn't care less. I feel like he and his girlfriend can be happy, but I can't. Ummm. Hmm. I'd probably have a cheerful expression, talk about his favorite sports, and go see his games? I guess so. I'd probably try to match his interests."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:44:00",
+      "origin": "色々思い出されたのですね。もし仮に彼のお気持ちがそうであっても、あなたの価値はあなたが決めていいと私は思います。なので、ここからはあなたのことを大切に、残りの時間、私の持てる心を全部込めて、相談者さんとお話させて頂きますね。",
+      "content": "You've remembered many things. Even if that's how he feels, I believe that you are the one who gets to decide your own worth. So, for the rest of our time, I will speak with you with all my heart, focusing on valuing you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:44:33",
+      "origin": "ありがとうございます…自分の価値が分からなくて…",
+      "content": "Thank you... I don't know my own worth..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:45:32",
+      "origin": "なんにもない",
+      "content": "I have nothing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:45:43",
+      "origin": "彼の好きなスポーツや試合を楽しんでいるイメージを持たれたのですね。一緒に盛り上がれると、とても楽しそうですね。ちなみに、彼は何のスポーツが好きですか？そして、相談者さんはそのスポーツが好きですか？",
+      "content": "You imagined yourself enjoying his favorite sports and games. It sounds like a lot of fun to get excited about it together. By the way, what sport does he like? And do you like that sport?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:47:21",
+      "origin": "彼はサッカーが好きです。私はあんまりスポーツのことは分からなくて…。本当、共通点無いとゆーか、全然違うタイプですね。なんで好きなんだろって自分でも不思議。",
+      "content": "He likes soccer. I don't really know much about sports... We really have nothing in common, or rather, we're completely different types. I even wonder myself why I like him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:47:31",
+      "origin": "ご自身の価値がわからず、不安に感じていらっしゃるのですね。今は見えていないだけではないかと私は思いますよ。相談者さんは存在しておられるだけで価値がありますし、自信は今なくても、つけていくことも可能です。",
+      "content": "You're feeling anxious because you don't know your own worth. I think it's just that you can't see it right now. You have value just by existing, and even if you don't have confidence now, it's possible to build it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:48:27",
+      "origin": "そうなのですね。彼のことも、ご自身のことも、よくわかっていらっしゃると思います。相談者さんは、何が好きですか？スポーツ以外のことでも、なんでも構いません。",
+      "content": "I see. I think you have a good understanding of both him and yourself. What do you like? It can be anything, not just sports."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:49:31",
+      "origin": "自分に価値を見いだせません…。こんな奴が自信つけて意味あるんですかね。。。でも、今は無くても、つけていくことならできるのかな…",
+      "content": "I can't find any value in myself... Is there any point in someone like me gaining confidence? But, even if I don't have it now, maybe it's possible to build it..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:49:59",
+      "origin": "えー、映画観たりですかね。自然も好きです。",
+      "content": "Um, I guess watching movies. I also like nature."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:50:22",
+      "origin": "ええ、自信をつけていくことはできます。自分で価値を見出せないのも、まだ慣れていないからではないかと思います。",
+      "content": "Yes, you can build confidence. I think the reason you can't find your own value is maybe just because you're not used to it yet."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:50:45",
+      "origin": "映画や自然がお好きなのですね。楽しまれているときは、どのようなお気持ちになられますか？",
+      "content": "So you like movies and nature. How do you feel when you're enjoying them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:51:52",
+      "origin": "慣れてないとかあるんですね。そうかな、基本的、自分クソだと思って生きてきたから。クソなのに、恋とかして恥ずかしい。",
+      "content": "Is that a thing, not being used to it? I wonder... I've basically lived my life thinking I'm a piece of crap. It's embarrassing for a piece of crap like me to fall in love."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:52:26",
+      "origin": "癒されたり、没頭できますね。一人だから、誰にも傷つけられないし",
+      "content": "I feel soothed, and I can get absorbed in it. Since I'm alone, no one can hurt me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:52:45",
+      "origin": "ええ（どうぞ続けて下さいね）",
+      "content": "Yes (please continue)."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:53:33",
+      "origin": "生きてていいんですかね",
+      "content": "Is it okay for me to be alive?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:54:49",
+      "origin": "ええ、私は相談者さんに生きていて欲しいです。もっともっとお話したいのですが、お時間が少なくなってきてしまったので、今日お話したことと、お伝えしたい大事なことをまとめますね。",
+      "content": "Yes, I want you to live. I'd love to talk much more, but we're running short on time, so I'll summarize what we've talked about today and the important things I want to tell you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T10:55:05",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:56:20",
+      "origin": "まずは、相談者さんは、人の良いところを見つけて、好きになることができる純粋で素直なお気持ちをお持ちです。そして、それを伝えようと行動できることも、とても素晴らしいということをまず覚えておいて下さいね。（続きます）",
+      "content": "First, you have a pure and honest heart that allows you to see the good in people and fall for them. And please remember that being able to take action to convey those feelings is also very wonderful. (To be continued)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:59:28",
+      "origin": "私が好きな人のどういうところが好きになったかお伺いした理由には、その好きになった部分は、相談者さん自身が自分自身にも欲しいと思われている部分である可能性があります。具体的には、明るい、前向き、さっぱりなどの部分です。自信がないと言って下さっていましたが、このいくつかの部分のひとつでも、身につけられる方法はないかな？と探してみられることが、自信への一歩となると私は感じています。",
+      "content": "The reason I asked what you liked about him is that the qualities you fell for may be qualities you yourself want to have. Specifically: being bright, positive, and straightforward. You said you lack confidence, but I feel that exploring ways to cultivate even one of these qualities could be a step toward confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T10:59:39",
+      "origin": "そして、",
+      "content": "And,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:00:42",
+      "origin": "それをするには、エネルギーが必要ですから、まずはご自身にエネルギーをためてあげて下さい。相談者さんが好きと言って下さった映画を観たり、心地よいと感じる自然の中で過ごされることで、そのエネルギーはたまりやすいかと思います。",
+      "content": "To do that, you need energy, so first, please allow yourself to build up some energy. I think it will be easier to accumulate that energy by watching the movies you said you like, or by spending time in nature where you feel comfortable."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:01:26",
+      "origin": "相談者さん自身が、「好き」「楽しい」と思うことをする時間を増やされることで、エネルギーはたまります。",
+      "content": "Your energy will build up by increasing the time you spend doing things that you yourself find \"enjoyable\" or \"fun.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:02:00",
+      "origin": "お時間が過ぎてしまい、申し訳ありません。ここまでお聞きになって、どう感じられましたか？",
+      "content": "I'm sorry for going over our time. Having heard all this, how are you feeling?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T11:02:51",
+      "origin": "時間過ぎてしまって、すみません私も彼みたいに生きたいなって思ってるのかなと思いました。全然違うから、憧れるみたいな。生きたいかぁ…ありがとうございます。ちょっと自分だけの時間を作ろうと思います",
+      "content": "No, I'm sorry for going over time. I think maybe I want to live like he does. Since we're so different, it's like I admire him. \"Want to live,\" huh... Thank you. I think I'll try to make some time just for myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:05:24",
+      "origin": "いえいえ、私の方は大丈夫ですよ。そのように感じられているのですね。ええ、憧れる部分は、相談者さんの欲しいものでもありますし、それが欲しいと思われるということは、もうすでにお持ちである可能性も高いと思います。なので、例えば「明るい」部分であれば、相談者さんの中で、「ここは明るいかも？」という部分を探してみて下さい。",
+      "content": "Not at all, I don't mind. That's how you're feeling. Yes, the parts you admire are things you want for yourself, and the fact that you want them means there's a high possibility you already have them. So, for example, with the \"cheerful\" part, please try to look for a part of yourself where you think, \"Maybe this part of me is cheerful?\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T11:06:08",
+      "origin": "なるほど…。探してみます",
+      "content": "I see... I'll try looking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:06:19",
+      "origin": "そして、ご自分の好きなことをする時間は、落ち込んだときだけではなく、日常的にとってあげて下さいね。相談者さんも言って下さったように、生きるにはエネルギーを使いますから、こまめなチャージが必要です。",
+      "content": "And please make time to do things you like not just when you're feeling down, but on a regular basis. As you said yourself, it takes energy to live, so you need to recharge frequently."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T11:06:39",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:07:38",
+      "origin": "ご自身で考えたり、取り組まれた中で、また悩むことなどありましたら、いつでもここに相談に来て下さいね。こちらで記録を残しておりますので、続きから話すことができますので。",
+      "content": "As you think about and work on these things, if you find yourself struggling again, please feel free to come back and talk anytime. We keep a record here, so we can pick up right where we left off."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T11:08:15",
+      "origin": "そうなんですね！わかりました、ありがとうございました",
+      "content": "Oh, I see! Got it, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:09:40",
+      "origin": "はい、いつでもお待ちしております。本日色々なお話をして下さって本当にありがとうございました。相談者さんのことを、心から応援しております。",
+      "content": "Yes, we'll be here for you anytime. Thank you so much for sharing so much with me today. I'll be rooting for you with all my heart."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:10:12",
+      "origin": "それでは、相談を終了させて頂こうと思いますが、よろしいでしょうか？",
+      "content": "Well then, I'd like to conclude our session, if that's alright with you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T11:10:24",
+      "origin": "はい、ありがとうございました！",
+      "content": "Yes, thank you very much!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:10:52",
+      "origin": "可愛いスタンプ、嬉しいです！こちらこそ、本当にありがとうございました。それでは、失礼致します。",
+      "content": "The cute sticker makes me happy! Thank you so much as well. Well then, goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:11:40",
+      "origin": "（今日は本当にありがとうございました。率直な評価を頂けると幸いです。お手数をおかけしますが、よろしくお願い致します。）",
+      "content": "(Thank you so much for today. I would appreciate your honest feedback. Sorry to trouble you, but thank you in advance.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:11:58",
+      "origin": "（ロールプレイを終了しても、大丈夫でしょうか？）",
+      "content": "(Is it alright if we end the role-play?)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-02T11:12:51",
+      "origin": "(ありがとうございました！！危機介入まで深刻にできなくて、すみません…💦終了していただいて、大丈夫です！🙆🙆🍀)",
+      "content": "(Thank you!! I'm sorry I couldn't make it serious enough for a crisis intervention...💦 It's okay to end it! 🙆🙆🍀)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-02T11:13:59",
+      "origin": "（いえいえ、話の流れもありますし、十分に希死念慮についても考えながら取り組ませて頂きました！ありがとうございました。それでは、終了させて頂きますね。）",
+      "content": "(Not at all, there's the flow of the conversation, and I was able to approach it while fully considering the suicidal ideation! Thank you. Well then, I'll end the session.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "希死念慮に関する悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 4972,
+    "evaluation_created_at": "2023-05-02T11:40:00",
+    "client_id": 391,
+    "counselor_id": 363,
+    "score": 88,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

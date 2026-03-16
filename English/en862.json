@@ -1,0 +1,939 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:23:10",
+      "origin": "こんにちはよろしくお願いします",
+      "content": "Hello, nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:23:48",
+      "origin": "よろしくお願いします",
+      "content": "Nice to meet you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:24:21",
+      "origin": "少し早いですが、始めてもよろしいでしょうか。勿論、時間通りでも、構いません。",
+      "content": "We're a bit early, but would it be okay to start now? Of course, we can wait until the scheduled time if you prefer."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:25:31",
+      "origin": "はいよろしいですよ",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:26:25",
+      "origin": "では、始めます",
+      "content": "Alright, let's begin."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:27:05",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:27:22",
+      "origin": "こんにちは相談員ですこの度は、ご相談に来ていただきまして、ありがとうございますよろしくお願いします",
+      "content": "Hello, I'm the counselor. Thank you for coming to consult with me today. I look forward to our session."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:27:37",
+      "origin": "よろしくお願いします",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:27:56",
+      "origin": "今日は、どのようなご相談でお越しいただきましたか",
+      "content": "What brings you in today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:28:18",
+      "origin": "学校に行きたくないのです",
+      "content": "I don't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:28:37",
+      "origin": "そうなんですねそれは、お辛いですね",
+      "content": "I see. That must be really tough for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:28:49",
+      "origin": "はい",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:29:30",
+      "origin": "性別と、ご年齢、何とお呼びしたらよいか、よろしければ教えていただけますか",
+      "content": "If you're comfortable, could you please tell me your gender, age, and what you would like me to call you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:30:04",
+      "origin": "13歳女性です",
+      "content": "I'm a 13-year-old girl."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:30:27",
+      "origin": "ユミでいいです",
+      "content": "You can call me Yumi."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:30:57",
+      "origin": "ユミさんですね。教えていただきありがとうございます",
+      "content": "Yumi. Thank you for telling me."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:31:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:31:16",
+      "origin": "学校に行きたくないのは、いつからですか",
+      "content": "How long have you been feeling like you don't want to go to school?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:32:16",
+      "origin": "中学校に入ってからずっとです",
+      "content": "Ever since I started junior high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:32:58",
+      "origin": "そうなんですね・・寂しいですよね",
+      "content": "I see... That must feel lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:33:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:33:34",
+      "origin": "どのようなことで、行きたくないのですか",
+      "content": "What is it that makes you not want to go?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:34:28",
+      "origin": "人の視線が気になって教室に入るのが怖いです",
+      "content": "I'm bothered by people's stares, and I'm scared to go into the classroom."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:35:06",
+      "origin": "そうなんですね・・教室に入るのが、恐怖なのですね",
+      "content": "I see... so going into the classroom feels frightening for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:35:27",
+      "origin": "視線が気になるのは、どうしてですか",
+      "content": "Why do you think the stares bother you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:35:46",
+      "origin": "教室の前まで行くと家に帰りたくなります",
+      "content": "When I get to the front of the classroom, I just want to go home."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:36:16",
+      "origin": "そうなのですね・・それは困りますよね",
+      "content": "I understand... That must be troubling."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:36:56",
+      "origin": "嫌われてるじゃないかって思うんです",
+      "content": "I feel like everyone dislikes me."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:37:17",
+      "origin": "はい困ります",
+      "content": "Yes, it's troubling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:37:41",
+      "origin": "そうなんですか・・ユミさんは、そのように思われているのですね",
+      "content": "I see... So that’s how it feels to you, Yumi."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:37:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:38:04",
+      "origin": "どうして、嫌われているように思われるんですか",
+      "content": "What leads you to feel that you’re disliked?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:38:58",
+      "origin": "私の方をみてヒソヒソ話したりしていると、悪口を言われてるんじゃないかと",
+      "content": "When I see them looking my way and whispering, I feel like they're saying bad things about me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:39:57",
+      "origin": "そうなんですね悪口を言われていると思うと、とても苦しいですよね",
+      "content": "I see. It must be very painful to think they're speaking ill of you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:40:27",
+      "origin": "はい苦しいし、悲しいです",
+      "content": "Yes, it's painful and sad."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:41:12",
+      "origin": "そうですよね・・いたたまれない気持ちに、なってしまいますよね",
+      "content": "I can imagine... It must make you feel like you just can't bear to be there."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:41:42",
+      "origin": "こちらから見ると、目をそらされるような気もするしなんとなく避けられているようで、グループに入ることができません",
+      "content": "When I look at them, it feels like they avert their eyes, and I sense I'm being avoided, so I can't join any groups."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:42:46",
+      "origin": "そうなんですね・・・辛いですね",
+      "content": "I see... That sounds really hard."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:43:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:43:27",
+      "origin": "何か心当たりは、ありますか",
+      "content": "Do you have any idea why this might be happening?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:44:13",
+      "origin": "ずっとそうなので、よくわかりません",
+      "content": "It's been like this for a long time, so I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:44:33",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:44:53",
+      "origin": "小学校の頃から一人ぼっちのことが多かったし",
+      "content": "I was often alone, even in elementary school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:45:10",
+      "origin": "はい",
+      "content": "Mhm."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:45:42",
+      "origin": "そうなんですね…寂しいですよね",
+      "content": "I see... That must have been lonely."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:45:50",
+      "origin": "休み時間も本を読んでいたりすることが多かったです",
+      "content": "I often spent recess reading books."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:46:18",
+      "origin": "小学生のころはあまり気にしていなかったんですが、",
+      "content": "I didn't mind it that much back in elementary school, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:46:36",
+      "origin": "ええ、",
+      "content": "Yes?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:47:16",
+      "origin": "中学校に入ってから班をくんでワークをやるようなことが増えて、",
+      "content": "since starting junior high, we have to form groups for classwork more often,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:47:40",
+      "origin": "自由に班を組む時に取り残されたりすると悲しくなります",
+      "content": "and when we're free to form our own groups, I get left out, which makes me sad."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:48:05",
+      "origin": "そうなんですね",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:48:34",
+      "origin": "ユミさんの気持ちが、よく伝わってきます",
+      "content": "I can really understand how you're feeling, Yumi."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:49:49",
+      "origin": "クラスの中で、お話が出来る人は、いませんか",
+      "content": "Is there anyone in your class you can talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:51:08",
+      "origin": "一人だけいるんですが、その子も他の子と話してたりすることが多いのでたまにしか話せません",
+      "content": "There’s one person, but she’s often talking with other kids, so I only get to talk with her occasionally."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:51:51",
+      "origin": "そうなんですね・・・誰か話が出来る人が、ほしいですよね",
+      "content": "I see... It would be nice to have someone you can talk to, wouldn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:52:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:52:18",
+      "origin": "家族は、何人ですか",
+      "content": "How many people are in your family?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:52:33",
+      "origin": "両親と弟がいます",
+      "content": "I have my parents and a younger brother."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:52:49",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:53:31",
+      "origin": "ユミさんのご両親は、このことは、知っていますか",
+      "content": "Do your parents know about this, Yumi?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:54:03",
+      "origin": "ご家族で、話が出来る人はいますか",
+      "content": "Is there anyone in your family you feel you can talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:54:31",
+      "origin": "相談したことはありませんが",
+      "content": "I haven’t talked to them about it, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:54:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:54:52",
+      "origin": "なんとなく元気がないのは気づいているかもしれません",
+      "content": "They might have noticed that I seem down."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:55:09",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:55:37",
+      "origin": "嫌なことを考えていると、気分が悪くなったし、過呼吸になったりするので",
+      "content": "When I dwell on upsetting things, I start to feel sick and sometimes hyperventilate,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:56:08",
+      "origin": "一人のときは涙が止まらなくなることもあります",
+      "content": "Sometimes when I'm alone, I can't stop crying."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:56:43",
+      "origin": "勉強も上手くいかなくて",
+      "content": "My schoolwork isn’t going well either."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:57:02",
+      "origin": "そうですよね・・・私も、過呼吸になったことがあるので、よくわかります",
+      "content": "I understand... I've also experienced hyperventilation, so I know how that feels."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:57:12",
+      "origin": "１学期の試験は全然できなかったです",
+      "content": "I did terribly on the first-term exams."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:57:32",
+      "origin": "全科目平均点以下でした",
+      "content": "I was below average in every subject."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:57:49",
+      "origin": "涙は、一杯流していいですよ流した方が、少しは、楽になりますね",
+      "content": "It's okay to cry as much as you need to. It can make you feel a little better to let it out."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:58:27",
+      "origin": "勉強も、思いどうりに行かなかったのですね",
+      "content": "So your studies didn't go as you had hoped, either."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T16:58:41",
+      "origin": "悔しいですよね",
+      "content": "That must be frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T16:59:54",
+      "origin": "授業を聴いていても集中できなくて、が頭に入らないんです",
+      "content": "Even when I'm listening in class, I can't concentrate, and nothing sinks in."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:00:27",
+      "origin": "頭に入らないほど、お辛いのですね",
+      "content": "You’re hurting so much that nothing is sinking in."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:00:41",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:00:41",
+      "origin": "悲しいですよね",
+      "content": "It’s really sad, isn’t it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:01:27",
+      "origin": "このようなことを、お母さんか、お父さんに、お話しすることは、出来そうですか",
+      "content": "Do you think you might be able to talk about this with your mother or father?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:02:11",
+      "origin": "心配をかけたくないです",
+      "content": "I don't want to worry them."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:03:17",
+      "origin": "そうですよね・・ご両親に心配をかけると、余計に辛くなっちゃうのでしょうね",
+      "content": "I understand... You feel that worrying your parents would just make you feel even worse."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:03:24",
+      "origin": "でも、",
+      "content": "But..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:05:37",
+      "origin": "それでは、学校の先生には、話をしたことが、ありますか",
+      "content": "Have you talked to any of your teachers about it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:05:54",
+      "origin": "相談していません",
+      "content": "No, I haven't."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:06:06",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:06:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:07:03",
+      "origin": "今までのお話を整理してもよろしいですか",
+      "content": "Would it be alright if I summarize what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:07:11",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:08:30",
+      "origin": "ユミさんは、皆に嫌われているような気がして、グループに入れなく、困っています",
+      "content": "You feel as if everyone dislikes you, which makes it hard to join groups, and this is causing you distress."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:08:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:10:27",
+      "origin": "時々、気分が悪くなったり、涙が出て止まらなくなったり、過呼吸になったり、とてもお辛いですね",
+      "content": "Sometimes you feel sick, you can't stop crying, and you hyperventilate. It's all very painful for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:10:59",
+      "origin": "はいそうです",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:11:41",
+      "origin": "授業が頭に入らず、思うように点数が取れず、それほど、悲しくて、苦しいのですよね",
+      "content": "Lessons don’t sink in, your scores aren’t what you’d hoped, and that’s how sad and painful this has been for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:12:03",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:12:19",
+      "origin": "ご両親にも、心配をかけてはいけないと思ってしまい、相談が出来ないのですね",
+      "content": "And you feel you can't talk to your parents because you don't want to worry them."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:12:20",
+      "origin": "困っています",
+      "content": "I’m struggling."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:12:33",
+      "origin": "そうです",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:12:47",
+      "origin": "そうですよね・・・とてもお困りですよね",
+      "content": "I understand... You're in a very difficult position."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:13:11",
+      "origin": "毎日悲しくて",
+      "content": "I'm sad every day."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:13:21",
+      "origin": "そうですよね",
+      "content": "Yes, that's understandable."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:14:14",
+      "origin": "ユミさんは、お母さん、お父さんのことを、どのように思われていますか",
+      "content": "How do you feel about your mother and father, Yumi?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:16:48",
+      "origin": "どのようにですか",
+      "content": "How do you mean?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:17:25",
+      "origin": "はい、好きとか、嫌いとか、～と思う、とかです",
+      "content": "Well, whether you like them, dislike them, or what you think of them."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:18:18",
+      "origin": "父は忙しくてあまり家にいないので、",
+      "content": "My father is busy and isn't home much, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:18:29",
+      "origin": "ええ、",
+      "content": "Mhm."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:18:44",
+      "origin": "嫌いではないですが、",
+      "content": "I don’t dislike him, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:19:02",
+      "origin": "ええ、",
+      "content": "Mhm."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:19:13",
+      "origin": "あまり話しをしてないのでわかりません",
+      "content": "we don't talk much, so I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:19:30",
+      "origin": "はい、お母さんは、どうですか",
+      "content": "Okay, and what about your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:19:53",
+      "origin": "母は優しいですが、少し神経質かな",
+      "content": "My mother is kind, but maybe a little high-strung."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:20:04",
+      "origin": "母は好きですよ",
+      "content": "I do like my mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:20:22",
+      "origin": "優しいお母さんは、大好きなのですね",
+      "content": "So you really love your kind mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:20:49",
+      "origin": "きっと、ユミさんのことも、お母さんは、大好きだと思いますよ",
+      "content": "I’m sure your mother loves you very much, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:21:00",
+      "origin": "ですから、",
+      "content": "So..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:21:01",
+      "origin": "はいでも、相談すると、心配しすぎてしまうかもって思うとなかなか言いづらいです",
+      "content": "Yes, but when I think she might worry too much if I told her, it’s hard to bring it up."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:21:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:21:59",
+      "origin": "お母さんも、ユミさんのことを、大好きで、ユミさんのためなら、何とかしたいと、思っていると思いますよ",
+      "content": "I'm sure your mother loves you so much that she would want to do anything she could to help you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:22:51",
+      "origin": "ユミさんは、一人で、悲しみをこらえながら、今まで、ずっと頑張ってきましたよね",
+      "content": "Yumi, you've been trying so hard all this time, holding in your sadness all by yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:23:04",
+      "origin": "そうですね",
+      "content": "I guess so."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:24:18",
+      "origin": "お母さんに、ユミさんのことを、大好きなお母さんに、お話してみたら、いかがですか。キット力になってくれることでしょう。",
+      "content": "How about trying to talk to your mother, the mother you love so much? I'm sure she'll be a source of strength for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:25:15",
+      "origin": "心配かけたくないけど仕方ないのかな",
+      "content": "I don't want to worry her, but maybe I have no choice."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:26:20",
+      "origin": "大丈夫。ユミさんは、とても大切な存在ですから。このままのユミさんで、いいのですよ。そして、学校の先生も話しにくいと思いますが、一番話しやすい先生に話してみませんか。",
+      "content": "It's okay. You are a very precious person, Yumi. It's okay to be just the way you are. And while I know it might be hard to talk to your teachers, how about trying to talk to the one you feel most comfortable with?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:26:45",
+      "origin": "勇気をだして、",
+      "content": "If you can muster the courage."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:26:50",
+      "origin": "担任以外でもいいんですか？",
+      "content": "Is it okay if it’s someone other than my homeroom teacher?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:27:00",
+      "origin": "いいのですよ",
+      "content": "Yes, that’s fine."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:27:09",
+      "origin": "そうなんですね",
+      "content": "Oh, okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:27:18",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:27:27",
+      "origin": "実は担任の先生はあまり好きではないんです",
+      "content": "To be honest, I don’t really like my homeroom teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:27:42",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:27:59",
+      "origin": "それで相談する気になりませんでした",
+      "content": "That’s why I didn’t feel like consulting them."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:28:23",
+      "origin": "それ以外の先生、養護教諭でも、教科担でも、良いですよ。",
+      "content": "Any other teacher, like the school nurse or one of your subject teachers, would be fine."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:28:43",
+      "origin": "明るい子が好きみたいでえこひいきするんです",
+      "content": "They seem to like cheerful kids and play favorites."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:29:09",
+      "origin": "そうなんですね・・・それは、腹が立ちますよね",
+      "content": "I see... I can see how that would make you angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:29:37",
+      "origin": "それでは、まずは、お母さんに相談してみませんか",
+      "content": "Well then, for starters, why don't you try talking to your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:29:48",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:29:56",
+      "origin": "そうしてみます",
+      "content": "I’ll try that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:30:22",
+      "origin": "ユミさんが、少しでも、生き生きと暮らせるように、心からお祈りしています",
+      "content": "I sincerely hope you can feel more vibrant in your daily life, even a little."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:30:37",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:30:47",
+      "origin": "また、何かありましたら、相談に来てください",
+      "content": "If anything else comes up, please feel free to come back and talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:31:07",
+      "origin": "今日は、ご相談に来ていただき、ありがとうございます",
+      "content": "Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:31:36",
+      "origin": "また相談に来るかもしれませんので、よろしくお願いします",
+      "content": "I might come back for another consultation. Thank you for your help."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:31:45",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:32:00",
+      "origin": "時間になりましたので、今日のご相談は、終了いたします。はい、またいらしてください",
+      "content": "Our time is up, so we'll end our session for today. Yes, please feel free to come back again."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:32:10",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:32:34",
+      "origin": "今日は、お疲れ様でした。ありがとうございました",
+      "content": "Thank you for your time and effort today."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:32:42",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:33:10",
+      "origin": "それでは、終了ボタンを押しますねありがとうございました",
+      "content": "Okay, I will press the end button now. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:33:28",
+      "origin": "はい了解しました",
+      "content": "Yes, understood."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T17:33:41",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T17:34:11",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 862,
+    "evaluation_created_at": "2020-12-08T21:24:00",
+    "client_id": 92,
+    "counselor_id": 42,
+    "score": 65,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

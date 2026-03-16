@@ -1,0 +1,393 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:24:28",
+      "origin": "（こんばんは。本日はよろしくお願いいたします。）",
+      "content": "(Good evening. I'm looking forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:25:05",
+      "origin": "(こんばんは。よろしくお願い致します。)",
+      "content": "(Good evening. Thank you for having me.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:25:57",
+      "origin": "（お時間になりましたらはじめさせていただきますね。）",
+      "content": "(We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:27:05",
+      "origin": "(はい、了解です)",
+      "content": "(Yes, understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:30:00",
+      "origin": "こんばんは。相談員です。本日はご相談に来てくださりありがとうございます。まず初めにご年齢、性別、本日のご相談内容を教えていただけますでしょうか。",
+      "content": "Good evening. I'm your counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:30:30",
+      "origin": "40歳、女性、子どものことです。",
+      "content": "I'm 40, female, and it's about my child."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:30:47",
+      "origin": "よろしくお願いいたします。お子様のことについてですね。もう少し詳しくお聞かせいただけますか？",
+      "content": "Thank you. It's about your child, I see. Could you please tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:32:44",
+      "origin": "小学校3年生の息子がいます。月曜の朝になると、頭が痛いと言って学校に行きたくなさそうな雰囲気になります。",
+      "content": "I have a son in the third grade of elementary school. On Monday mornings, he says he has a headache and seems reluctant to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:33:24",
+      "origin": "学校に行きたがらないのですね。実際に学校には行かれるのでしょうか？",
+      "content": "So he doesn't want to go to school. Does he actually end up going?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:34:39",
+      "origin": "行ったり行かなかったりです。",
+      "content": "Sometimes he goes, sometimes he doesn't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:35:25",
+      "origin": "そうなのですね。お子様のことについてお話しいただきましたが、一番悩んでいること・困っていることはなんでしょうか？",
+      "content": "I see. You’ve told me about your son; what is the most troubling or difficult part for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:39:58",
+      "origin": "行き渋りには困ります。前日まで元気だったりするので、、、。本当に具合が悪いのか？と思う時もあります。また、私もフルタイムで仕事をしていますので、、、",
+      "content": "I'm troubled by his reluctance to go. He can be fine up until the day before... Sometimes I wonder whether he’s truly unwell. Also, I work full-time, so..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:40:43",
+      "origin": "会社を突発で休むのは迷惑になります。",
+      "content": "It causes trouble at work if I have to take a sudden day off."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:41:01",
+      "origin": "そうですよね。もしかしたら具合が悪いのかもしれないので心配ですよね。",
+      "content": "I understand. You must be worried because he might actually be feeling unwell."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:41:20",
+      "origin": "また会社も突発で休めないのでハラハラしますよね。",
+      "content": "And it must be nerve-racking that you can’t take unexpected time off from work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:41:47",
+      "origin": "お子様が学校に行きたがらなくなったきっかけなどはなにかあるのでしょうか？",
+      "content": "Do you have any sense of what might have triggered his reluctance to go to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:43:19",
+      "origin": "学校で何かあったのか聞いても、特に問題はないと言うし、行ったら行ったでそれなりに楽しんで帰ってきます。",
+      "content": "When I ask if anything happened at school, he says there’s no particular problem, and when he does go, he seems to enjoy it well enough and comes home fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:43:48",
+      "origin": "特に学校でなにかあるわけではなさそうな感じなのですね。",
+      "content": "So it doesn't seem like there's any particular issue at school."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:44:07",
+      "origin": "私としては、そう思います。",
+      "content": "That’s how it seems to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:45:12",
+      "origin": "では勉強が嫌だったり、もしくは面倒くさい気持ちなどがあるのでしょうかか？",
+      "content": "Then, could it be that he dislikes studying, or perhaps feels it’s a hassle?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:47:29",
+      "origin": "そういったことは本人に聞いてないのでわかりませんが、家では勉強を嫌がってやらない、ということはないですね。",
+      "content": "I haven't asked him about that, so I don't know, but at home, he doesn't refuse to do his homework or anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:48:47",
+      "origin": "そうでしたか、家で勉強もやっていらっしゃるのですね。ではご相談者様も直接は聞いたことはないので原因もあまりよくわからないといった感じですか？",
+      "content": "I see—so he does study at home. And since you haven’t asked him directly, the cause isn’t very clear to you yet; is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:50:29",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:50:58",
+      "origin": "では頭が痛いと言って実際に学校を休んだときは、家ではどのように過ごしているのでしょうか？",
+      "content": "So, when he says he has a headache and actually stays home from school, how does he spend his time at home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:52:15",
+      "origin": "最近時では、午前中のうちに体調が落ち着いて、YouTubeやゲームをしていましたね。",
+      "content": "Lately, his condition usually improves during the morning, and he'll spend his time watching YouTube or playing games."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T20:53:53",
+      "origin": "午前中には体調が落ち着いているようなのですね。それはよかったですね。ご相談者様からみて頭痛は本当にありそうなのでしょうか？それとも月曜日の朝などに限られているので心因性のものだと思われますか？",
+      "content": "So it seems his condition improves during the morning. That’s good to hear. From your perspective, do the headaches seem genuine? Or, since they’re limited to Monday mornings and the like, do you think they might be psychological?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T20:59:23",
+      "origin": "頭痛は全くないわけではないと思います。　医者ではないのでわかりませんが、土日長時間のスクリーンタイムも一つの要因として影響しているのでは？と思います。",
+      "content": "I don’t think it’s that there are no headaches at all. I’m not a doctor, but I wonder if the long screen time over the weekend might be one contributing factor."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:00:34",
+      "origin": "土日に長時間Youtubeやゲームなどで画面を見ていて、それも頭痛の原因になっていそうなのですね。",
+      "content": "So you think watching screens for long periods on weekends, like YouTube or games, might be causing the headaches."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:01:41",
+      "origin": "いままでのお話を要約すると以下のように思いました。小学3年生のお子様が月曜日の朝などに頭痛を訴えて学校に行きたがらない。本当に頭痛があるのか心配なのと、ご相談者様の仕事に影響があって困っている。土日に長時間画面を見ているのが原因の一つかもしれないと考えている。",
+      "content": "Let me summarize what I’ve heard so far: Your third-grade son reports headaches on Monday mornings and is reluctant to go to school. You’re worried about whether the headaches are real, and it’s also causing difficulties for your work. You suspect that long screen time on weekends might be one contributing cause."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:02:07",
+      "origin": "あくまで推測です。以前よりもゲームを長い時期やるようになってます。",
+      "content": "That’s only my guess. He’s been playing games for longer stretches than before."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:02:44",
+      "origin": "ゲームを長くやられているのですね。そのあたりも心配ですよね。",
+      "content": "So he's been playing games for a long time. That must be a concern for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:03:02",
+      "origin": "また今回のカウンセリングで追加で話しておきたいこと、まだ話せていないこと、他に気になることや問題などはありませんか？",
+      "content": "Is there anything else you'd like to talk about in this session, anything we haven't touched upon, or any other concerns or issues on your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:03:06",
+      "origin": "はい。",
+      "content": "No, that's everything."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:05:03",
+      "origin": "この後私はどうしたらいいでしょうか。",
+      "content": "What should I do from here?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:06:09",
+      "origin": "そうですよね、なにをすればよいかわからず不安ですよね。",
+      "content": "I understand. It must be unsettling not knowing what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:07:35",
+      "origin": "ただご相談者様は今回こちらのカウンセリングに来ていただき、息子様のことについてご相談者していただきました。また息子様のことを非常に思っていらっしゃり、心優しい方なんだなと感じました。これからどうするか一緒に考えていきましょう。",
+      "content": "However, you took the step of coming to this counseling session today to discuss your son. I can tell that you care for him very deeply and are a very kind person. Let's think about what to do next together."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:08:40",
+      "origin": "はい。よろしくお願いします。",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:08:53",
+      "origin": "まずは息子様と一度この件について直接話してみるのはいかがでしょうか？やはり頭痛の原因、もしくは学校に行きたくない原因を本人がどう思っているかを直接確認するのが一番かなと思いました。息子様と一度頭痛の件についてお話してみるのはいかがでしょうか？",
+      "content": "As a first step, how about talking with your son directly about this? I think the best approach is to ask him directly what he thinks is causing the headaches or his reluctance to go to school. Would you be open to having a conversation with him about the headaches?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:12:50",
+      "origin": "頭痛について、小3の息子とどう話せばいいんですか？学校に行きたくないと言葉にしてきているわけでもないですし、、、。",
+      "content": "How should I talk about headaches with a third-grader? It’s not as if he’s saying outright that he doesn’t want to go to school..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:13:55",
+      "origin": "まずは頭痛で学校を休むことがあるのをとても「心配」していることを伝えるのがよいと思いました。",
+      "content": "I think it would be good to start by telling him that you are very 'worried' that he sometimes has to miss school because of headaches."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:15:11",
+      "origin": "そして一度本当に身体に問題がないか確認するためにも頭痛で学校を休んだ際に病院に行かれるのはどうでしょうか？",
+      "content": "And then, to make sure there isn't a physical problem, how about taking him to the doctor the next time he stays home from school with a headache?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:16:58",
+      "origin": "その上でもし病気の心配がないということでしたら、頭痛にならないようにどうすればよいか一緒に取り組んでいきたいと伝えてみるのはどうですか？",
+      "content": "If there’s no medical concern, you could then tell him you’d like to work together on what might help prevent the headaches."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:17:17",
+      "origin": "そこまでしないといけないのですか？",
+      "content": "Do I have to go that far?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:17:47",
+      "origin": "病院に連れていくのは気が進まないでしょうか？",
+      "content": "Are you hesitant to take him to the doctor?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:21:15",
+      "origin": "病院はやはり診てもらう必要があってこそ、かなと感じます。絶対とは言いませんけど、子供の様子を見てそこの判断はしていけると思います。親の見立てになりますが。",
+      "content": "I feel that one should go to the doctor only when there's a real need for a check-up. I'm not saying it's out of the question, but I believe I can make that judgment by observing my child. It's a parent's assessment, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:22:41",
+      "origin": "そうだったのですね。ご相談者様も「医者ではないのでわかりませんが」とおっしゃっていましたが、なにか本当に病気が潜んでいる可能性もなくはないと思ったのと、また頭痛の対処について実際に行動することでご相談者様が頭痛について心配していることを示せるかとも思ったのですが。",
+      "content": "I see. You mentioned, “I’m not a doctor, so I don’t know,” and I thought there’s a small chance something medical could be underlying it. I also thought that taking concrete steps concerning the headaches might show him how concerned you are."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:23:51",
+      "origin": "では今のところ病院は必要ないということですので、息子様に頭痛にならないようにどうすればよいか一緒に取り組んでいきたいと伝えてみるのはどうですか？そのうえで頭痛の原因となることについて息子様に確認し、ご相談者様は休日の画面の見すぎが原因だと考えていると伝えるなど。",
+      "content": "In that case, if a doctor’s visit doesn’t seem necessary for now, how about telling your son that you’d like to work with him on preventing the headaches? You could then ask him about possible triggers and share that you suspect excessive screen time on weekends might be a factor."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:25:59",
+      "origin": "そうでしたか。いろいろ考えて頂いたのに申し訳ありません。そうですね。息子とは画面を見すぎることやゲームを長時間やり続けることによる体や脳への影響を伝えながら、土日の過ごし方や",
+      "content": "I see. I’m sorry, and thank you for thinking through various options. Yes. I’ll talk with my son about the effects on the body and brain of too much screen time or playing games for long periods, and about how we spend our weekends, and"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:26:29",
+      "origin": "生活リズムを整えていくことも伝えていけるようにしたいと思います。",
+      "content": "also about getting our daily routine on track."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:27:15",
+      "origin": "そうですね。まずは息子様とこのことについて直接話すことが第一歩だと思いますし、とても大きな一歩だと思います。",
+      "content": "Yes. I think talking with him directly is the first step—and a very important one."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:27:53",
+      "origin": "ご相談者様は息子様のことを心配して今回カウンセリングに来ていただきました。いまは不安が大きいかと思いますが息子様想いのご相談者様ならきっと大丈夫だと思います。",
+      "content": "You came to counseling today because you’re concerned about your son. You may feel a lot of anxiety right now, but given how much you care for him, I believe you’ll handle this well."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:28:15",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:28:57",
+      "origin": "はい、かげながら応援しております。そろそろ終了のお時間となりました。",
+      "content": "You're welcome. I'll be rooting for you. It's almost time to end our session."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:29:36",
+      "origin": "相談にのっていただきありがとうございました。",
+      "content": "Thank you for listening and advising me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:30:04",
+      "origin": "少しでもお役に立っていれば幸いです。ではこちらで終了とさせていただきます。本日はありがとうございました。",
+      "content": "I hope I was able to help, even just a little. We will conclude the session here. Thank you for your time today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:30:26",
+      "origin": "（ありがとうございました！）",
+      "content": "(Thank you!)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:30:26",
+      "origin": "こちらこそありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T21:30:36",
+      "origin": "(ありがとうございました)",
+      "content": "(Thank you very much.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T21:31:02",
+      "origin": "（それでは終了とさせていただきます。失礼いたします。大変お手数ですがお時間あるときにロールプレイの評価もよろしくお願いいたします）",
+      "content": "(We’ll conclude here. Thank you and take care. If it’s not too much trouble, when you have time, we’d appreciate your evaluation of this role-play.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "子どもの学校行き渋り問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5177,
+    "evaluation_created_at": "2023-05-31T10:23:00",
+    "client_id": 364,
+    "counselor_id": 345,
+    "score": 67,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

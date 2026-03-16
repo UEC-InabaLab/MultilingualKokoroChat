@@ -1,0 +1,885 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:00:11",
+      "origin": "こんにちは相談員です。 はじめに、あなたの年代・性別、お声がけするお名前(あだ名など)、そして本日のご相談したいことを教えていただけますか？",
+      "content": "Hello, I'm the counselor. To begin, could you please tell me your age range, gender, the name you'd like me to call you (such as a nickname), and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:00:23",
+      "origin": "こんにちは。",
+      "content": "Hello."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:00:42",
+      "origin": "39歳、男、鈴木と申します。",
+      "content": "I'm 39, male, and my name is Suzuki."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:01:07",
+      "origin": "今日は、仕事の人間関係で相談したくて、こちらに来ました。",
+      "content": "I came here today because I'd like to talk about my relationships at work."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:01:49",
+      "origin": "あまり同僚とうまくいってない気がするんです、",
+      "content": "I feel like I'm not getting along very well with my colleagues."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:02:03",
+      "origin": "鈴木さんですね。教えて下さってありがとうございます。ご相談内容は仕事の人間関係なのですね。",
+      "content": "Mr. Suzuki, thank you for sharing that. So your concern is about workplace relationships."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:02:13",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:02:24",
+      "origin": "もう少しお話伺えますか？",
+      "content": "Could you tell me a bit more?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:03:05",
+      "origin": "はい。チームで仕事をしているのですが、",
+      "content": "Yes. I work in a team, and..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:03:11",
+      "origin": "やっかみというか、、、",
+      "content": "It's like they're jealous, or something..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:03:28",
+      "origin": "私が仕事で成果をあげると、あまり面白くないみたいで、",
+      "content": "When I achieve results at work, they don't seem to like it very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:03:36",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:03:51",
+      "origin": "私の発言を遮ったり、、",
+      "content": "They cut me off when I’m speaking, and..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:04:12",
+      "origin": "ちょっと攻撃に感じることが多くて、",
+      "content": "I often feel like I'm being attacked."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:04:20",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:04:43",
+      "origin": "でも、すごくあからさまに何かしてくるわけでもなくて",
+      "content": "But it's not like they do anything overtly."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:05:02",
+      "origin": "なんというか上手く私のことを落としてくるのが",
+      "content": "It's just that they're so good at putting me down in a subtle way,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:05:09",
+      "origin": "すごく悔しいんです。",
+      "content": "and it's really frustrating."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:05:14",
+      "origin": "ええ",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:05:38",
+      "origin": "周りの人に相談したり、聞いてみたりしても、",
+      "content": "And when I try to talk to others about it or ask them,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:05:54",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:05:57",
+      "origin": "なんだか私が一人で怒ってしまうような感じになるので、",
+      "content": "it somehow ends up feeling like I'm the only one getting upset."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:06:19",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:06:33",
+      "origin": "発言もすごくその前に考えるようにしていたり、、",
+      "content": "So I've started thinking very carefully before I say anything..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:06:53",
+      "origin": "結構、面倒臭い、というかストレスを感じていて、",
+      "content": "It’s pretty troublesome—or rather, it’s stressful,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:06:57",
+      "origin": "結構困っています。",
+      "content": "and I’m really struggling with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:07:24",
+      "origin": "なるほど、たくさんお話くださってありがとうございます。",
+      "content": "I see. Thank you for sharing so much with me."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:07:52",
+      "origin": "いえ、一気に書いてしまってすみません。",
+      "content": "No, I'm sorry for writing it all at once."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:08:11",
+      "origin": "いえいえ、大丈夫ですよ。",
+      "content": "Not at all, it’s perfectly fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:09:13",
+      "origin": "色々、あって大変でしたね。少しづつ、お話を伺います。",
+      "content": "It sounds like you've been through a lot. Let's take our time and talk through it."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:09:20",
+      "origin": "はい。",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:10:34",
+      "origin": "まず、チームで仕事をされているとのことですが、そのグループから嫌がらせのような事があるのですか？",
+      "content": "First, you mentioned you work in a team. Are there things from the group that feel like harassment?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:11:06",
+      "origin": "直接何か言われたり",
+      "content": "It's not that they say something directly,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:11:11",
+      "origin": "されたりというよりは、、",
+      "content": "or do something to me, but rather..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:11:15",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:11:29",
+      "origin": "私が発言中に陰口っぽくクスクス笑われたり、",
+      "content": "while I'm speaking, they snicker as if they're talking behind my back,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:11:37",
+      "origin": "仕事中でも、",
+      "content": "and even during work,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:11:55",
+      "origin": "私の仕事の担当のところに、割り込んできて、",
+      "content": "they'll butt into the tasks I'm responsible for,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:12:10",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:12:24",
+      "origin": "あらかじめ分担を決めていた仕事をとっていってしまうような事が頻繁にあります。",
+      "content": "and they frequently take over work that we had already decided to divide up."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:13:47",
+      "origin": "そうでしたか、そんなことがあったのですね。ひどい感じがしますね。",
+      "content": "I see, so that's been happening. That sounds awful."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:14:07",
+      "origin": "そうですね。最初はちょっとびっくりしました。",
+      "content": "Yes. I was a bit shocked at first."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:14:45",
+      "origin": "とっていってしまった仕事は、上司は僕のではなく同僚の成果として評価をするので、",
+      "content": "And the work they take, my boss evaluates as my colleague's achievement, not mine,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:14:54",
+      "origin": "ええ",
+      "content": "Right."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:14:57",
+      "origin": "ちょっと腹が立ちましたね。",
+      "content": "so I got pretty angry about that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:15:29",
+      "origin": "それは腹も立って当然と思います。",
+      "content": "It’s completely understandable to feel angry about that."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:15:45",
+      "origin": "そうですか。そう言っていただけますと。",
+      "content": "Really? It helps to hear you say that."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:15:52",
+      "origin": "さっきも少し言いましたが、",
+      "content": "As I mentioned a little earlier,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:15:59",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:16:06",
+      "origin": "周りに相談しても、あまり取り合ってもらえなかった事が多くて、",
+      "content": "when I tried to talk to others about it, they often didn't really take me seriously."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:16:15",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:16:23",
+      "origin": "相談の仕方が悪かったのかな、、、",
+      "content": "I wonder if I was bad at explaining it..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:16:40",
+      "origin": "あまり、わかってもらえないのではないかという気持ちが強くて、、、",
+      "content": "I have this strong feeling that they just don't understand..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:17:12",
+      "origin": "鈴木さんは、今はそのように感じていらっしゃるのですね。",
+      "content": "So, that's how you're feeling right now, Mr. Suzuki."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:17:17",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:18:27",
+      "origin": "その当時、職場での時の気持ちと、今の気持ちに違いが生じていますか？",
+      "content": "Is there a difference between how you felt at work back then and how you feel now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:18:44",
+      "origin": "基本的には変わってませんね。",
+      "content": "Basically, it hasn’t changed."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:19:00",
+      "origin": "いろんな人がいるんだな、と思うことにしてますが、",
+      "content": "I try to tell myself that it takes all kinds of people, but"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:19:07",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:19:50",
+      "origin": "やはりそういう事が続いていると",
+      "content": "when things like that keep happening,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:20:01",
+      "origin": "どうしても気になるし、",
+      "content": "I can't help but be bothered by it,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:20:06",
+      "origin": "ええ",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:20:35",
+      "origin": "常に警戒している感じで疲れるんですよね。",
+      "content": "and constantly being on guard is exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:21:37",
+      "origin": "そうですよね、冒頭におっしゃっていた、発言を控えたり気を使われている様子が感じられますが、いかがですか？",
+      "content": "I can understand that. You mentioned at the beginning that you're holding back from speaking and being careful. Does that feel accurate?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:22:05",
+      "origin": "そうですね。最初は控えたりはしていましたが、",
+      "content": "Yes. I did hold back at first, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:22:23",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:22:35",
+      "origin": "自分自身の気持ちや、意見という感じではなく、",
+      "content": "now, instead of expressing my own feelings or opinions,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:22:44",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:22:46",
+      "origin": "あくまで仕事として、機能するかどうか、",
+      "content": "I focus strictly on whether it works from a job standpoint,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:22:53",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:23:02",
+      "origin": "感情的にならずに、論理的に話すように心がけています。",
+      "content": "and I make a point to speak logically without getting emotional."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:24:37",
+      "origin": "同僚からの嫌がらせを感じたら、そのように変化してしまっても仕方ないかと思います。",
+      "content": "When you feel like you're being harassed by colleagues, I think it's understandable that you would change in that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:24:50",
+      "origin": "そうですね。",
+      "content": "Yes, I suppose so."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:25:07",
+      "origin": "よく言えば勉強にはなりましたが",
+      "content": "If I put a positive spin on it, it has been a learning experience,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:25:15",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:25:30",
+      "origin": "仕事で感情的にならずに発言する練習にはなりましたw",
+      "content": "it's been practice for me to speak at work without getting emotional. lol"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:25:49",
+      "origin": "でもいまだにクスクス笑われたりとか、",
+      "content": "But even now, when they snicker at me,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:25:58",
+      "origin": "変な雰囲気のようなものを感じるのには、",
+      "content": "or when I feel that strange atmosphere,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:26:08",
+      "origin": "みないように、聞かないようにはしても",
+      "content": "even if I try not to see it or hear it,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:26:15",
+      "origin": "やはり慣れないところが大きいですね。",
+      "content": "it's still really hard to get used to."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:27:15",
+      "origin": "そうですか、鈴木さんはそのように前向きに受け取っていらっしゃるのですね。",
+      "content": "I see. So you're trying to take it in a positive way, Mr. Suzuki."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:27:56",
+      "origin": "そう思おうとしましたw",
+      "content": "I tried to think of it that way. lol"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:28:23",
+      "origin": "実際に勉強にはなりました。",
+      "content": "It actually has been a learning experience."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:28:55",
+      "origin": "でもそれと、同僚の感じの悪さは別だな、と思うこともあるので、、、",
+      "content": "But there are times when I think that's separate from how unpleasant my colleagues are..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:29:06",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:31:19",
+      "origin": "やっぱり感じの悪さをそんなに気にしていても仕方ないのでしょうか？",
+      "content": "I guess there's no point in being so bothered by their unpleasantness, is there?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:33:12",
+      "origin": "そうですね・・・鈴木さんがお考えのように、人それぞれと思われる方も多いかと思います。でも、割り切れないで、仕方ないと感じていらっしゃる方もいるのは事実かと考えますが、いかがですか？",
+      "content": "Right... As you’re thinking, many people might say, “everyone’s different.” But it’s also true that some people can’t just accept it and feel it can’t be helped. How does that resonate with you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:35:23",
+      "origin": "気にしていても仕方がない、そういう意見の人がいても仕方がないということですか？",
+      "content": "Are you saying it can't be helped that I'm bothered by it, or that it can't be helped that some people have that opinion?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:38:23",
+      "origin": "すみません、わかりにくかったですよね。気になることは、仕方ないことですので、気にならないように考えられたらいいですね。とお伝えしたかったのです。",
+      "content": "I'm sorry, that was confusing. What I wanted to say was that it's natural to be bothered by it, and it would be great if you could find a way to not let it bother you so much."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:39:27",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:39:57",
+      "origin": "気にならないようになれたらいいですよね。",
+      "content": "It would be nice if I could stop letting it bother me."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:40:07",
+      "origin": "どうしたらいいのかな、、、",
+      "content": "I wonder what I should do..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:40:20",
+      "origin": "そうですね、すぐには難しいかもしれませんが、",
+      "content": "Yes, it may not be easy right away, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:40:38",
+      "origin": "一緒に考えて行きましょう。",
+      "content": "let’s think it through together."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:41:04",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:41:21",
+      "origin": "少しお話が戻りますが、",
+      "content": "Circling back a bit,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:41:31",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:42:19",
+      "origin": "今現在、心配事はあるかと思いますが、鈴木さんが一番心配な事はありますか？",
+      "content": "I'm sure you have worries right now, but is there anything you're most worried about?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:43:18",
+      "origin": "同僚の態度や行為意外にですか？",
+      "content": "Besides my colleagues' attitudes and actions?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:43:39",
+      "origin": "すみません、以外でした。",
+      "content": "Sorry, I meant 'besides.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:44:30",
+      "origin": "大丈夫です。同僚の態度や行為も含めてです。",
+      "content": "That's okay. Including your colleagues' attitudes and actions."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:45:34",
+      "origin": "同僚の態度や行為がやはり、心配というか、",
+      "content": "My colleagues' attitudes and actions are, well, a worry, or rather..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:45:39",
+      "origin": "悩み事です。",
+      "content": "...they're what's troubling me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:46:20",
+      "origin": "心配ではなく、悩み事なのですね。",
+      "content": "So it's not a worry, but something that is troubling you."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:46:39",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:48:34",
+      "origin": "なるほど、鈴木さんにとって悩み事とは、仕事がてにつかないような大きいことですか？",
+      "content": "I see. For you, is this trouble so big that you can't focus on your work?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:49:08",
+      "origin": "仕事が手につかない、ということはないです。",
+      "content": "It's not that I can't focus on my work."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:49:29",
+      "origin": "そうなのですね。では、",
+      "content": "I see. In that case,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:50:02",
+      "origin": "お仕事されている時は、どのようなお気持ちでいらっしゃるのですか？",
+      "content": "how do you feel while you’re working?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:50:33",
+      "origin": "先ほど申し上げたように、腹がたったり、、、",
+      "content": "As I mentioned earlier, I feel angry..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:50:46",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:50:48",
+      "origin": "色々な気持ちになります。",
+      "content": "I feel a lot of different things."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:51:11",
+      "origin": "いい気持ちではないですね。",
+      "content": "They’re not good feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:52:45",
+      "origin": "そうでしたか、鈴木さんはお仕事に支障はないけれど、同僚に腹が立ったりしているということなのですね。",
+      "content": "I see. So your work isn't affected, but you feel angry at your colleagues."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:53:05",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:53:49",
+      "origin": "今まで申し上げたようなことがあるので、",
+      "content": "Because of the things I've mentioned,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:53:57",
+      "origin": "仕事はしづらいですが、",
+      "content": "it is difficult to work,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:53:58",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:54:06",
+      "origin": "手に付かない、ということはないです。",
+      "content": "but it's not that I can't focus on it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:54:25",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:55:45",
+      "origin": "お話がもどりますが、冒頭に発言されていた「同僚と上手くいってない気がする」というのは、いつ頃からですか？",
+      "content": "Going back again, you said at the beginning, 'I feel like I'm not getting along very well with my colleagues.' When did that start?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:56:00",
+      "origin": "もうずっとですね。",
+      "content": "Pretty much the whole time."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:56:17",
+      "origin": "今のチームで初めて、8年ほどになります。",
+      "content": "It's been about 8 years since I started in this current team."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:56:38",
+      "origin": "チーム発足から程なくして、",
+      "content": "Not long after the team was formed,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:56:51",
+      "origin": "今日申し上げたような状況ですね",
+      "content": "the situation became what I've described today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:57:41",
+      "origin": "そうだったのですね。8年は長く感じますが、その期間は我慢されていたのですか？",
+      "content": "I see. Eight years feels like a long time. Have you been enduring it all this time?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:58:16",
+      "origin": "我慢もしてました。",
+      "content": "I've been enduring it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:58:22",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:58:32",
+      "origin": "同僚に相談したり、友達に相談したり、",
+      "content": "I talked to colleagues and friends about it,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:58:39",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:59:08",
+      "origin": "でも、結局その状況というか、",
+      "content": "but in the end, the situation,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:59:21",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:59:29",
+      "origin": "色々してくる同僚が変わるというわけでもないので、",
+      "content": "the colleagues who do these things aren't going to change,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T16:59:49",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T16:59:54",
+      "origin": "色々されながらも、仕事になんとかして集中している感じです。",
+      "content": "so while they keep doing these things to me, I feel like I'm just trying to somehow focus on my work."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T17:00:55",
+      "origin": "そうだったのですね。鈴木さんご自身で、仕事に集中出来るよう頑張ってこられたのですね。",
+      "content": "I see. So you yourself have been working hard to be able to focus on your job."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T17:01:16",
+      "origin": "そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T17:02:04",
+      "origin": "（ありがとうございました。お時間なので、この辺りで一度止めておきましょうか？）",
+      "content": "(Thank you. It looks like our time is up, so shall we stop here for now?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T17:02:32",
+      "origin": "ありがとうございます。承知致しました。",
+      "content": "Thank you. Understood."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-23T17:02:56",
+      "origin": "ありがとうございました。色々と勉強させていただきました。",
+      "content": "Thank you very much. I learned a lot."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-23T17:03:11",
+      "origin": "終了時間となってしまいましたが、こちらで終了とさせていただきます。ありがとうございました。",
+      "content": "Our time is up, so we will end the session here. Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "同僚とのコミュニケーションの悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 1388,
+    "evaluation_created_at": "2021-02-23T17:14:00",
+    "client_id": 157,
+    "counselor_id": 107,
+    "score": 44,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:22:10",
+      "origin": "（こんにちは。本日はよろしくお願いします。お時間になったら始めさせていただきます。）",
+      "content": "(Hello. Thank you for being here today. We will begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:23:33",
+      "origin": "よろしくお願いいたします",
+      "content": "Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:30:13",
+      "origin": "こんにちは。相談員です。はじめに、年齢と性別、相談内容を教えていただけますか。",
+      "content": "Hello. I'm your counselor. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:30:35",
+      "origin": "43歳、男性です",
+      "content": "I'm 43 years old, male."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:31:32",
+      "origin": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "content": "Thank you. What brings you here today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:32:15",
+      "origin": "派遣社員で働いています。近々正社員登用試験もありますがここのところ何もやる気がなく、試験勉強も手につきません",
+      "content": "I work as a temporary employee. There's an exam to become a full-time employee coming up soon, but lately I have no motivation for anything and I can't bring myself to study for it."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:33:09",
+      "origin": "借金もあり休日はバイトをしたいのですが最近は行けていません",
+      "content": "I also have some debt, so I want to work a part-time job on my days off, but recently I haven't been able to."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:33:24",
+      "origin": "そうだったんですね。試験が近いのにやる気が出ないと、焦りも感じてしまいそうですね。",
+      "content": "I see. With the exam approaching, not feeling motivated must make you feel anxious as well."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:33:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:35:15",
+      "origin": "お休みの日も働こうと考えられるほど、頑張っていらっしゃったんですね。",
+      "content": "It sounds like you've been working very hard, to the point of considering working even on your days off."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:36:08",
+      "origin": "最近やる気がでないとのことですが、何かきっかけなどはございましたか？",
+      "content": "You mentioned you haven't felt motivated lately—was there any particular trigger?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:36:34",
+      "origin": "いいえ。まったく分からないのです。",
+      "content": "No. I have no idea at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:37:12",
+      "origin": "ご自分でも理由が分からないと、どうしたら良いか分からなくなりますよね。",
+      "content": "When you don't know the reason yourself, it can be hard to know what to do, can't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:37:45",
+      "origin": "やる気でないな、と感じるようになったのは、いつ頃からでしょうか？",
+      "content": "About when did you start feeling this lack of motivation?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:38:09",
+      "origin": "３ヶ月前くらいからです",
+      "content": "It started about three months ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:38:57",
+      "origin": "その頃、特に生活面などで変わったことはありませんでしたか？",
+      "content": "Around that time, was there any particular change in your daily life or otherwise?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:39:16",
+      "origin": "特にないと思います",
+      "content": "I don’t think there were any."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:39:52",
+      "origin": "そうだったんですね。今は、毎日どのようにお過ごしでしょうか？",
+      "content": "I see. How are you spending your days now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:40:43",
+      "origin": "平日は仕事に行っていますが、すぐに帰りたくて堪らない気持ちになってしまいます。",
+      "content": "On weekdays I go to work, but I feel an overwhelming urge to go home right away."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:42:29",
+      "origin": "それは苦しいですね。毎日仕事に行くのが辛くなりますよね。",
+      "content": "That must be difficult. It must make going to work every day very hard."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:43:01",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:43:07",
+      "origin": "帰りたい気持ちになった時は、どうされているんですか？",
+      "content": "What do you do when you feel that urge to go home?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:43:32",
+      "origin": "最後まで就業しています。",
+      "content": "I stay until the end of the workday."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:45:07",
+      "origin": "それでも仕事を最後まで続けているんですね。そのような気持ちで働き続けると、終わるころには相当疲れも溜まっているのではないかと思います。",
+      "content": "Even so, you continue working until the end. Continuing to work while feeling that way must leave you quite exhausted by the end of the day."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:45:26",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:47:32",
+      "origin": "以前は、休日もバイトをしていたとのことですが、今はお休みの日はどうされていますか？しっかり休めているでしょうか？",
+      "content": "You mentioned you used to work part-time on your days off. What do you do on your days off now? Are you able to get proper rest?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:48:23",
+      "origin": "なにもする気にならないのでせいぜいYouTubeを見るくらいで家にいます",
+      "content": "I don't feel like doing anything, so at most, I stay home and watch YouTube."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:48:50",
+      "origin": "どうしたらいいのでしょうか",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:49:30",
+      "origin": "そうだったんですね。どうしたらいいのか、焦りますよね。一緒に考えていけたらと思います。",
+      "content": "I understand. It's natural to feel anxious when you don't know what to do. I would like for us to think about this together."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:49:40",
+      "origin": "正社員登用試験が近いとのことでしたが、試験についてはどのように考えておられますか？",
+      "content": "You mentioned the exam to become a full-time employee is coming up. What are your thoughts about the exam?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:50:16",
+      "origin": "正社員になれたらと考えています",
+      "content": "I’m hoping to become a full-time employee."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:51:32",
+      "origin": "正社員を目指されているのは、どのような理由があるのか教えていただけますか？",
+      "content": "Could you share your reasons for aiming to become a full-time employee?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:52:40",
+      "origin": "給料と待遇が違うし派遣ではいつ切られるか不安があります",
+      "content": "The pay and benefits are different, and as a temp I’m anxious I could be let go at any time."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:53:39",
+      "origin": "そのようなお気持ちがあるのですね。いつ仕事がなくなるか分からないと思うと、落ち着かないですよね。",
+      "content": "I see you feel that way. It must be unsettling not knowing when you might lose your job."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:54:04",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:54:26",
+      "origin": "上司の方など、職場の方とは、あなたが正社員を目指していることについて、お話されることはありますか？",
+      "content": "Do you ever talk with your supervisor or colleagues about your goal of becoming a full-time employee?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:55:07",
+      "origin": "特にありません",
+      "content": "Not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:56:06",
+      "origin": "そうなんですね。職場の方とは、普段、どのように関わっていらっしゃるんでしょうか？",
+      "content": "I see. How do you usually interact with people at work?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T14:56:50",
+      "origin": "あまり話す人はいません。",
+      "content": "There aren’t many people I talk to."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T14:58:56",
+      "origin": "みなさん、集中して仕事をされているような職場なのかなと思いましたが、ご自身としては、職場についてはどんな風に思っていらっしゃいますか？",
+      "content": "It sounds like a workplace where everyone focuses on their tasks. How do you personally feel about your workplace?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:00:34",
+      "origin": "職場に大きな不満はありません。こんなものかなと思います。食品加工工場なので各々、といった感じです",
+      "content": "I don't have any major complaints about my workplace. I just think this is how it is. It's a food processing plant, so everyone kind of keeps to themselves."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:00:55",
+      "origin": "楽しいわけではないですが",
+      "content": "It's not that I enjoy it, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:02:39",
+      "origin": "そうだったんですね。やるべきことを、それぞれがしっかりやられているような感じなのですね。",
+      "content": "I see. It sounds like everyone is diligently doing what they need to do."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:03:15",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:03:41",
+      "origin": "ちなにに、先ほど、「借金がある」ということでしたが、どういう事情があるのか、もしお話できそうであれば教えていただけますか？",
+      "content": "By the way, you mentioned earlier that you have some debt. If you feel comfortable talking about it, could you tell me a little about the circumstances?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:03:58",
+      "origin": "ちなにに→ちなみに　です。失礼しました。",
+      "content": "I meant to say ‘by the way.’ My apologies for the typo."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:04:06",
+      "origin": "大丈夫です",
+      "content": "It's okay."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:04:55",
+      "origin": "大きな買い物をするわけではないですが、毎月足りなくて、キャッシングしたり、ですかね",
+      "content": "It's not for any big purchases, but I run short every month, so I get cash advances and things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:06:00",
+      "origin": "そうだったんですね。いまは、お一人で暮らしていらっしゃるのでしょうか？もしくはご家族とご一緒ですか？",
+      "content": "I see. Are you living alone now, or with family?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:06:11",
+      "origin": "一人です",
+      "content": "I live alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:07:21",
+      "origin": "必要な買い物も全てご自身でされているんですね。",
+      "content": "So you're handling all the necessary shopping yourself."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:07:27",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:07:59",
+      "origin": "借金については、どんな風に感じていらっしゃいますか？",
+      "content": "How do you feel about the debts?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:08:21",
+      "origin": "どんな風にとは？",
+      "content": "What do you mean by 'how do I feel'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:08:41",
+      "origin": "失礼しました。分かりにくい質問でしたね。",
+      "content": "My apologies. That was an unclear question."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:10:29",
+      "origin": "借金があることは、ご自身にとってストレスに感じる要因の一つになりそうですか？",
+      "content": "Would you say that having this debt is one of the factors causing you stress?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:11:02",
+      "origin": "それはあると思います",
+      "content": "I think that's part of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:11:46",
+      "origin": "そうだったんですね。返済しなければいけないと思うと、プレッシャーにもなるのではと思います。",
+      "content": "I see. I can imagine that thinking about having to repay it must be a lot of pressure."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:12:10",
+      "origin": "そうですね",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:12:59",
+      "origin": "借金をするようになったのは、いつ頃からでしょうか？",
+      "content": "About when did you start taking on debt?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:13:31",
+      "origin": "15年くらいでしょうか",
+      "content": "About 15 years ago, I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:15:00",
+      "origin": "もしかしたら、15年の間、そのようなストレスを抱え続けていたのかもしれませんね。",
+      "content": "It's possible you've been carrying that stress with you for these 15 years."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:15:33",
+      "origin": "まあ、自業自得なので",
+      "content": "Well, I brought it on myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:16:21",
+      "origin": "そのようにお考えなのですね。",
+      "content": "That’s how you see it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:18:23",
+      "origin": "「なにもやる気が起きない」という状況が3か月続いているのは、本当にしんどいことだと思います。「やる気が起きない」ことで一番悩んでいることは、どんなことでしょうか？",
+      "content": "Having ‘no motivation to do anything’ for three months must be really tough. What about the lack of motivation is troubling you the most?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:18:59",
+      "origin": "バイトができないこと、勉強もできないこと、ですかね",
+      "content": "Not being able to work my part-time job, and not being able to study, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:19:51",
+      "origin": "その2点ですね。3か月前までは、バイトや勉強はどのようにされていましたか？",
+      "content": "Those two points. Up until three months ago, how were you managing your part-time work and studying?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:21:01",
+      "origin": "バイトは月に六回くらいしていました。勉強も家に帰ってから二時間くらいはできていました",
+      "content": "I was working my part-time job about six times a month. And I was able to study for about two hours after getting home."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:22:27",
+      "origin": "勉強もしながら、バイトもそんなにされていたんですね。とても頑張っておられたんですね。",
+      "content": "You were doing that much part-time work while studying as well. You were working very hard."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:23:00",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:24:48",
+      "origin": "そこまで頑張り続けることができたのは、どのようなお気持ちからだったのでしょうか？",
+      "content": "What was it that motivated you to keep working so hard?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:25:23",
+      "origin": "生活を楽にしたかったから、でしょうか",
+      "content": "Because I wanted to make my life easier, I suppose."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:26:23",
+      "origin": "そうだったんですね。今のご自身の生活について、どうお感じですか？",
+      "content": "I see. How do you feel about your life now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:26:57",
+      "origin": "余裕はないと思います",
+      "content": "I don’t feel I have much breathing room."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:29:32",
+      "origin": "そう感じているんですね。すみません、お話の途中ですが、そろそろ終了のお時間となってしまいました。あなたは、お仕事にも真摯に向き合っており、バイトや勉強など、これまでかなり精力的に頑張ってこられたんだなと感じました。",
+      "content": "That’s how you’re feeling. I’m sorry to interrupt, but we’re coming to the end of our time. I can see that you take your work seriously and have been working very diligently with your part-time jobs and studying."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:30:05",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:30:25",
+      "origin": "その中で、借金や多忙のストレスで、もしかしたらいっぱいいっぱいになっているのかもしれません。",
+      "content": "Amidst all that, it's possible that the stress from your debt and busy schedule has left you feeling overwhelmed."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:30:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:31:19",
+      "origin": "もしよろしければ、またご相談にきていただき、あなたの気持ちがどうすれば和らぐのか、またやる気がでるようになるのか、一緒に考えていけたらと思っています。",
+      "content": "If you'd like, I hope you'll come back so we can continue to think together about how to ease your feelings and help you regain your motivation."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:32:01",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:32:24",
+      "origin": "本日はご相談にきていただきありがとうございました。",
+      "content": "Thank you for coming in to talk today."
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:32:58",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-16T15:33:07",
+      "origin": "（お疲れさまでした。お時間を超過してしまい申し訳ございません。本日はありがとうございました。この後、終了メッセージを送らせていただきます。）",
+      "content": "(Thank you for your time. I apologize for going over the allotted time. Thank you for today. I will send a closing message after this.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-16T15:33:28",
+      "origin": "はい",
+      "content": "Okay."
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "借金によるストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 6651,
+    "evaluation_created_at": "2024-03-27T00:00:00",
+    "client_id": 232,
+    "counselor_id": 469,
+    "score": 50,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

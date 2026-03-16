@@ -1,0 +1,915 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-10T13:52:58",
+      "origin": "（こんにちわ。本日よろしくお願いいたします）",
+      "content": "(Hello. It's a pleasure to be speaking with you today.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T13:53:10",
+      "origin": "お時間になりましたら始めさせていただきます",
+      "content": "We will begin now that it is our scheduled time."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T13:53:26",
+      "origin": "（こんにちは！よろしくお願いします！）",
+      "content": "(Hello! I look forward to working with you!)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:00:36",
+      "origin": "こんにちわ。相談員です。今日は勇気を持ってご相談して頂きありがとうございます。ご年齢と性別、どんなご相談か、お聞かせ願えますか？",
+      "content": "Hello. I’m the counselor. Thank you for having the courage to reach out today. May I ask your age and gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:02",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:10",
+      "origin": "36才、女",
+      "content": "36 years old, female."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:21",
+      "origin": "勇気を持ってって言うようなことではないんですが💦",
+      "content": "It's not something that requires courage or anything. 💦"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:41",
+      "origin": "子どものしつけにちょっと悩んでます",
+      "content": "I’m a bit troubled about how to discipline my children."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:02:02",
+      "origin": "ありがとうございます。なるほど。",
+      "content": "Thank you. I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:02:34",
+      "origin": "お子さんのしつけの、どういったお悩みなのか、お聞かせ願えますか？",
+      "content": "Could you tell me more about what specifically is troubling you regarding your children's discipline?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:07",
+      "origin": "はい、何と言うか、どうしたら我慢させられるようになるかなと",
+      "content": "Yes, well, how can I put it... I'm wondering how I can teach them to tolerate things, or how to hold back."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:34",
+      "origin": "でも",
+      "content": "But..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:43",
+      "origin": "我慢させるというのもかわいそうな気もするし",
+      "content": "At the same time, I feel bad about making them endure things."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:56",
+      "origin": "どうしたらいいのか",
+      "content": "I’m not sure what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:04:14",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:04:36",
+      "origin": "例えばどういう時に、我慢させるべきかどうかお悩みになるのですか？",
+      "content": "For example, in what kind of situations do you find yourself wondering whether you should make them endure something?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:04:58",
+      "origin": "はい、実は",
+      "content": "Yes, actually..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:14",
+      "origin": "2世帯で同居している義母が時々夕食を作ってくれるんですが",
+      "content": "My mother-in-law, who lives with us, sometimes makes dinner for us."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:19",
+      "origin": "それが",
+      "content": "But..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:30",
+      "origin": "正直、美味しくないというか",
+      "content": "To be honest, it’s not very good..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:38",
+      "origin": "まあ、マズいというか💦",
+      "content": "Well, it's kind of bad. 💦"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:06:00",
+      "origin": "そうなんですね。。",
+      "content": "I see..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:06:26",
+      "origin": "それを子どもたちが言ってしまうので",
+      "content": "And my children end up saying that out loud."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:06:36",
+      "origin": "義母にも悪いし",
+      "content": "I feel bad for my mother-in-law."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:08:06",
+      "origin": "ご相談者様としては、お義母様の手前、なかなか言い出しづらい点もありますよね。",
+      "content": "I imagine it must be difficult for you to say anything, out of consideration for your mother-in-law."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:08:53",
+      "origin": "あ、もちろん義母にはまずいなんて言えません",
+      "content": "Oh, of course, I could never tell my mother-in-law that her cooking is bad."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:09:29",
+      "origin": "そうですよね。ただ、お子さんがそれを言ってしまって気まずいんですよね。",
+      "content": "Right. But it gets awkward when your children say it, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:09:47",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:10:10",
+      "origin": "週に1度か2度くらいなので、子どもにはがまんさせたいんです",
+      "content": "It's only once or twice a week, so I want my children to just put up with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:11:06",
+      "origin": "なるほど。そうなんですね。義母のお気持ちを考えられるようになって欲しいんですね。",
+      "content": "I see. So you want them to be considerate of your mother-in-law's feelings."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:11:32",
+      "origin": "あーそうですね",
+      "content": "Ah, yes, that's right."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:11:40",
+      "origin": "まあそこまでできなくてもとりあえずは",
+      "content": "Well, even if they can’t go that far, at least for now..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:11:57",
+      "origin": "美味しくないと義母の前で言わなければそれだけでいいんですけど",
+      "content": "it would be enough if they just didn't say it tastes bad in front of her."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:12:21",
+      "origin": "お子さんはおいくつなんですか？",
+      "content": "How old are your children?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:12:37",
+      "origin": "小3の娘と小1の息子です",
+      "content": "I have a daughter in 3rd grade and a son in 1st grade."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:13:14",
+      "origin": "そうなんですね。元気な頃ですよね。",
+      "content": "I see. They’re at a lively age."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:13:23",
+      "origin": "そうですねｗ",
+      "content": "Yes, haha."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:14:08",
+      "origin": "お義母さまは、おいしくないとお子さんが言ってしまった時に、どういう対応をなさってるんですか？",
+      "content": "When your children say it’s not tasty, how does your mother-in-law respond?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:14:41",
+      "origin": "好き嫌いしないで何でも食べないと大きくなれないわよー",
+      "content": "She says, \"You won’t grow big if you’re a picky eater—you need to eat everything.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:14:43",
+      "origin": "って",
+      "content": "That kind of thing."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:14:56",
+      "origin": "全然気が付いてない感じです",
+      "content": "She seems completely unaware."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:15:04",
+      "origin": "気が付いてないのかな？",
+      "content": "I wonder if she really doesn’t notice."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:15:29",
+      "origin": "なるほど。気がついていないんですね",
+      "content": "I see. So she doesn't notice."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:15:39",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:15:48",
+      "origin": "自覚がない気がします",
+      "content": "I don't think she's aware of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:15:53",
+      "origin": "お義母さまはおいくつでらっしゃいますか？",
+      "content": "How old is your mother-in-law?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:16:31",
+      "origin": "義母は65くらいですかね",
+      "content": "She’s around 65, I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:16:53",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:18:12",
+      "origin": "それだと、失礼ですが認知症などの感じはなさそうかと思いますね。",
+      "content": "In that case, excuse me for asking, but it doesn't sound like there are any signs of dementia or anything like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:18:29",
+      "origin": "あ、それはないですｗ",
+      "content": "Oh, no, nothing like that. lol"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:18:49",
+      "origin": "義母の料理がおいしくないのは昔からなんだそうです",
+      "content": "Apparently, my mother-in-law's cooking has been bad for a long time."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:18:52",
+      "origin": "夫が言ってましたｗ",
+      "content": "My husband told me. lol"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:18:56",
+      "origin": "ありがとうございます。安心しました。",
+      "content": "Thank you. That's a relief."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:19:01",
+      "origin": "そうなんですね・・・。",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:19:36",
+      "origin": "ご相談者様は、お子さんが心無い事を言うたびに、気まずいですし、やめてって思いますよね",
+      "content": "Every time your children say something thoughtless, you must feel awkward and wish they would stop, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:20",
+      "origin": "心無いかー",
+      "content": "Thoughtless, huh..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:26",
+      "origin": "そこまでは思ってませんでした",
+      "content": "I hadn’t thought of it that way."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:39",
+      "origin": "さっきも書いたように義母は気が付いてないというか",
+      "content": "As I mentioned earlier, my mother-in-law doesn’t really notice..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:52",
+      "origin": "そもそもすごくポジティブで明るい人なので",
+      "content": "She’s a very positive and cheerful person to begin with."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:21:04",
+      "origin": "気まずさはあんまりないんですけど",
+      "content": "It’s not that awkward, actually."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:21:12",
+      "origin": "やめてとは思いますｗ",
+      "content": "I do want them to stop, though. (laughs)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:21:23",
+      "origin": "食べなくなるのが一番困るかな",
+      "content": "I guess the biggest problem is that they might stop eating it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:21:37",
+      "origin": "そうですよね。心無いっていうのは言い過ぎでしたね。しつれいしました",
+      "content": "You're right. \"Thoughtless\" was too strong a word. I apologize."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:22:00",
+      "origin": "いえいえ",
+      "content": "No, no, it's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:23:10",
+      "origin": "そうですよね。お子さんが食べなくなってしまうと、面倒を見てもらうのも悩みますものね",
+      "content": "That's right. If the children stop eating, it becomes troublesome to have her help with meals."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:23:30",
+      "origin": "そうですねー",
+      "content": "That’s right."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:23:49",
+      "origin": "私が結局もう一回作らなくちゃいけなくなりますｗ",
+      "content": "In the end, I'm the one who has to make another meal. lol"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:24:45",
+      "origin": "なるほど。そうなってしまいますよね。",
+      "content": "I see. That's what it comes down to, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:26:41",
+      "origin": "お義母さまは、料理自体はお好きなんでしょうか？",
+      "content": "Does your mother-in-law enjoy cooking itself?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:27:08",
+      "origin": "好き何だと思います",
+      "content": "I think she does."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:27:24",
+      "origin": "いろいろアレンジしてくれます",
+      "content": "She tries to add her own twist to things."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:27:42",
+      "origin": "そのアレンジが問題なことも多いんですけどねーｗ",
+      "content": "Though that \"twist\" is often the problem. lol"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:28:11",
+      "origin": "そうなんですね。なるほど。。",
+      "content": "I see. I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:29:24",
+      "origin": "でも、作るなとは言えませんものね・・・",
+      "content": "But you can’t very well tell her not to cook..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:29:51",
+      "origin": "言えませんねー",
+      "content": "No, I can’t."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:29:55",
+      "origin": "完全に善意なので",
+      "content": "It's purely out of goodwill."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:30:03",
+      "origin": "そうですよね。",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:31:26",
+      "origin": "ご同居されたのはいつ頃からですか？",
+      "content": "When did you start living together?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:31:45",
+      "origin": "3ヶ月前からです",
+      "content": "Three months ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:32:12",
+      "origin": "そうなんですね。ありがとうございます。",
+      "content": "I see. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:33:21",
+      "origin": "お料理がお好きな方だと、この先も同じことが続くように私は感じますね・・",
+      "content": "If she enjoys cooking, I feel like this situation is likely to continue..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:33:48",
+      "origin": "私もそう思います",
+      "content": "I think so too."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:34:56",
+      "origin": "なので子どもにどうにか我慢させるしかないのかなと思ってるんですが",
+      "content": "That's why I'm thinking my only option is to somehow get the children to endure it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:37:58",
+      "origin": "ご相談者様も、正直、お義母様のお料理に関しては食べたくないなぁとお思いですよね",
+      "content": "To be honest, you probably feel like you don't really want to eat your mother-in-law's cooking either, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:38:30",
+      "origin": "んーまあそうですね…",
+      "content": "Hmm... well, yes..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:38:35",
+      "origin": "食べたくない…",
+      "content": "I don’t want to eat it..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:38:49",
+      "origin": "そうだなー",
+      "content": "I guess so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:39:12",
+      "origin": "勿論。お気持ちは嬉しいとは思ってらっしゃるかと思いますが。。",
+      "content": "Of course, I'm sure you appreciate her kind gesture, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:23",
+      "origin": "そうですね",
+      "content": "Yes, that's true."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:27",
+      "origin": "ちょっと難しいんですが",
+      "content": "It’s a bit hard to explain, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:34",
+      "origin": "食べたくないというよりはとにかく",
+      "content": "It's not so much that I don't want to eat it..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:36",
+      "origin": "おいしくない",
+      "content": "It’s not tasty."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:40",
+      "origin": "それだけですかねｗ",
+      "content": "That’s all there is to it, I guess. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:40:14",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:41:01",
+      "origin": "義父や夫はよく我慢してたなと思いますｗ",
+      "content": "I think my father-in-law and husband must have really put up with a lot. lol"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:41:38",
+      "origin": "なるほど・・・そんなに美味しくないんですね。",
+      "content": "I see... so it’s really not that good."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:41:59",
+      "origin": "はいｗ",
+      "content": "Yes. (laughs)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:42:22",
+      "origin": "夫は小学校で給食を食べるようになってから",
+      "content": "My husband said that after he started eating school lunches in elementary school,"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:42:41",
+      "origin": "自分の母親の料理がマズいことに気が付いたって言ってました",
+      "content": "he realized his own mother's cooking was bad."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:42:55",
+      "origin": "あーー。そうですか。。",
+      "content": "Ahh, I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:43:18",
+      "origin": "そんなことがあったんですね。",
+      "content": "So that’s what happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:44:02",
+      "origin": "給食のほうが美味しかったんですね。。",
+      "content": "The school lunches tasted better..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:44:23",
+      "origin": "そうそうｗ",
+      "content": "Exactly. (laughs)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:44:31",
+      "origin": "かわいそうだけど、ちょっと笑っちゃいました",
+      "content": "I felt sorry for him, but I couldn't help but laugh a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:45:09",
+      "origin": "そうですね。お義母さまには悪いですが、笑っちゃいますね",
+      "content": "Right. I feel bad for your mother-in-law, but it is a bit funny."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:45:36",
+      "origin": "はいｗ",
+      "content": "Yes. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:47:24",
+      "origin": "今回のご相談内容ですが、ちょっとまとめさせてもらってもよろしいですか？",
+      "content": "Regarding what we've discussed today, would it be alright if I took a moment to summarize it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:47:40",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:49:12",
+      "origin": "ご相談者様のお子さんが、お義母様の料理がおいしくないことを言ってしまう。でも、正直ご相談者もおいしくないと思うし、昔からそうなので、旦那様やお義父様も諦めている",
+      "content": "Your children say that your mother-in-law’s cooking isn’t tasty. To be honest, you feel the same, and since it’s been that way for a long time, your husband and father-in-law have also resigned themselves to it."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:49:35",
+      "origin": "はい、そうですねｗ",
+      "content": "Yes, that’s right. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:50:05",
+      "origin": "ただ、子供が食べなくなってしまうのが心配で、結局自分がもう一度子供に食べさせないといけないのが困ってしまう。という内容でよろしいでしょうか",
+      "content": "However, you're worried your children will stop eating it, and you're troubled by the fact that you end up having to make another meal for them. Is that a correct summary?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:50:39",
+      "origin": "まあ、今のところは子ども達も食べてます",
+      "content": "Well, for now, the children are still eating it."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:50:50",
+      "origin": "変な味ーとか言いながらですがｗ",
+      "content": "While saying things like, \"This tastes weird!\" though. lol"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:51:00",
+      "origin": "なるほど。そうなんですね。。",
+      "content": "I see. So that's the situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:51:42",
+      "origin": "私が感じたことをお伝えしてもいいですか？",
+      "content": "Would it be alright if I shared my thoughts on this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:51:55",
+      "origin": "あ、お願いします",
+      "content": "Oh, yes please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:52:53",
+      "origin": "お義母さまの料理がおいしくないのは、今に始まったことではないので、恐らく改善は難しいのかな。。と感じます。",
+      "content": "The fact that your mother-in-law's cooking isn't good is not a recent development, so I feel that it will probably be difficult to change."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:53:28",
+      "origin": "はい、私もそこは期待してませんｗ",
+      "content": "Yes, I'm not expecting that to change either. lol"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:54:16",
+      "origin": "とはいえ、お子さんが変な味などと言ってしまうのも、仕方ないかなと思います。それは、ご相談者様の普段のお料理が美味しいことに他ならないなと思います。",
+      "content": "That said, I think it's somewhat understandable that your children say things like \"it tastes weird.\" I believe that's simply a testament to how delicious your own cooking is."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:54:55",
+      "origin": "おーその発想はありませんでした",
+      "content": "Oh, I hadn’t thought of it that way."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:54:59",
+      "origin": "ありがとうございますｗ",
+      "content": "Thank you. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:55:17",
+      "origin": "週一回位なら、お孫さんとのコミュニケーションの一環として、諦めるか",
+      "content": "If it’s about once a week, you could either accept it as part of their communication with their grandmother, or..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:56:30",
+      "origin": "もう食事が終わった、用意してある等と伝えて、自宅分はご用意するか・・しかないんではないかな。と思いました。",
+      "content": "...tell her that you've already eaten or have food prepared, and just make your own family's portion. I feel those might be your only options."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:57:22",
+      "origin": "あーなるほど",
+      "content": "Ah, I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:57:59",
+      "origin": "週に最低1回は義父母とみんなで夕食を食べるのが約束なんです",
+      "content": "We have an agreement to have dinner together with my in-laws at least once a week."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:58:29",
+      "origin": "そうなんですね。そんな約束があるんですね。",
+      "content": "I see. So you have that arrangement."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:58:42",
+      "origin": "夫と私は「諦める」ができますが、子どもたちの反応に困っていて、そこを相談したかったんです",
+      "content": "My husband and I can \"accept it,\" but we’re troubled by how the kids react—that’s what I wanted to discuss."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:59:36",
+      "origin": "なるほど。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:01:02",
+      "origin": "それだと、外食などの手もありますが、いかがですか？",
+      "content": "In that case, there's also the option of eating out. How about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:01:41",
+      "origin": "そうですね、月に1度くらいは外食にしています",
+      "content": "Yes, we do go out to eat about once a month."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:02:07",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:02:39",
+      "origin": "そろそろお時間になってしまいましたが、ご相談内容については何か得られるものがありましたでしょうか？",
+      "content": "Our time is almost up, but I was wondering if you feel you've gained anything from our discussion today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:02:40",
+      "origin": "さすがに毎週外食は無理だし、義母は自分の料理を食べさせたがるので",
+      "content": "Eating out every week isn't really possible, and my mother-in-law wants us to eat her cooking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:02:51",
+      "origin": "そうですよね。",
+      "content": "That makes sense."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:02:52",
+      "origin": "あ、そうですね",
+      "content": "Oh, right."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:02:55",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:03:02",
+      "origin": "得られるもの…",
+      "content": "Takeaways..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:03:04",
+      "origin": "そうですね",
+      "content": "Let’s see..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:03:26",
+      "origin": "子どもたちをどうにかするのは難しいことなのかなとあらためて思いました",
+      "content": "I've realized once again that it might be difficult to change how my children act."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:03:59",
+      "origin": "そうですね。。やはり子供は正直ですからね。",
+      "content": "Yes... children are honest, after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:04:49",
+      "origin": "お母様がご自分の料理に気づいて、少しでも楽しい晩餐になることを祈っています。",
+      "content": "I hope your mother-in-law notices about her cooking and your dinners become a bit more enjoyable."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:05:11",
+      "origin": "ありがとうございますｗ",
+      "content": "Thank you. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:05:20",
+      "origin": "本日はありがとうございました。またお待ちしておりますね。",
+      "content": "Thank you for today. I look forward to speaking with you again."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:05:25",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:05:29",
+      "origin": "（終了します。ありがとうございました。）",
+      "content": "(This concludes our session. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:05:29",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "義母との同居に関する悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 5250,
+    "evaluation_created_at": "2023-06-10T15:40:00",
+    "client_id": 378,
+    "counselor_id": 400,
+    "score": 42,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

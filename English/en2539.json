@@ -1,0 +1,525 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-07T09:54:01",
+      "origin": "（こんにちは。本日はよろしくお願いいたします。）",
+      "content": "(Hello. I'm looking forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T09:54:09",
+      "origin": "よろしくお願いいたします",
+      "content": "I look forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T09:54:30",
+      "origin": "（お時間になりましたら始めさせていただきます。）",
+      "content": "(We will begin when it's time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:00:40",
+      "origin": "こんにちは、相談員です。今日はお越しくださりありがとうございます。まずはじめに年齢と性別を教えていただけますか？",
+      "content": "Hello, I'm your counselor. Thank you for coming today. First, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:00:49",
+      "origin": "14 女",
+      "content": "14, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:01:07",
+      "origin": "ありがとうございます。今日はどのようなご相談ですか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:01:28",
+      "origin": "親から暴力や暴言がひどく、我慢しきれなかったため児童相談所に行って今の家の状況を話したところ、聴いてはくれるのですが「今は他にも大変なところがあってその対応で忙しい」と言われて正直児童相談所は全くあてにならないと思っていてものすごくイライラしてます。",
+      "content": "The violence and verbal abuse from my parents was so severe that I couldn’t take it anymore, so I went to the Child Guidance Center and told them about my situation at home. They listened, but then said they were 'busy dealing with other serious cases right now.' Honestly, I feel the Child Guidance Center is completely unreliable, and I’m extremely frustrated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:02:27",
+      "origin": "そうなんですね。児童相談所に行って相談はしたものの対応してくれなくてものすごくイライラしているのですね。",
+      "content": "I see. So you went to the Child Guidance Center for help, but they didn’t take any action, and that's making you feel extremely frustrated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:03:36",
+      "origin": "親からの暴力や暴言がひどいということで、それもお辛いことだと思います。おけがなどはありませんか？",
+      "content": "You mentioned the severe violence and verbal abuse from your parents, and I imagine that must be very difficult for you. Have you had any injuries?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:03:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:04:19",
+      "origin": "児童相談所に相談したのはいつごろのことでしょうか？",
+      "content": "When was it that you spoke with the Child Guidance Center?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:04:28",
+      "origin": "今日です",
+      "content": "Today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:05:01",
+      "origin": "今日、お話ししたのですね。その対応についてもう少し詳しく教えてもらえますか？",
+      "content": "I see, you spoke with them today. Could you tell me a bit more about their response?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:05:44",
+      "origin": "さっき話したことでは足りませんか",
+      "content": "Isn't what I just said enough?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:06:37",
+      "origin": "そうでしたね、先ほどお話ししてくださっていましたね。",
+      "content": "You're right, you did just tell me that. My apologies."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:07:29",
+      "origin": "相談は電話でされたのでしょうか？",
+      "content": "Did you speak with them over the phone?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:07:36",
+      "origin": "対面です",
+      "content": "In person."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:08:33",
+      "origin": "対面だったのですね。「忙しい」と言われ、次回のお約束などもなく、返されてしまったのでしょうか？",
+      "content": "I see, it was in person. So they told you they were 'busy' and then sent you away without scheduling a follow-up appointment or anything?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:08:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:09:09",
+      "origin": "それは腹が立ちますよね。",
+      "content": "That must be infuriating."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:09:36",
+      "origin": "あなたとしては児童相談所にどうして欲しかったのですか？",
+      "content": "What were you hoping the Child Guidance Center would do for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:10:28",
+      "origin": "親からの暴力や暴言が酷すぎるので、どうにかしてほしいことを伝えました",
+      "content": "I told them that the violence and verbal abuse from my parents was too severe and that I needed them to do something about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:11:44",
+      "origin": "そうなんですね。伝えたにもかかわらず、対応してもらえず、腹ただしかったでしょうね。",
+      "content": "I see. So even though you told them, they didn't take any action. That must have been infuriating."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:13:54",
+      "origin": "今は親からの暴力や暴言はどんな感じで、児童相談所の人にはどのように伝えたのでしょうか？",
+      "content": "What is the violence and verbal abuse from your parents like right now, and how did you describe it to the people at the Child Guidance Center?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:15:16",
+      "origin": "どちらも話しにくいです",
+      "content": "It's difficult to talk about either of those."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:15:34",
+      "origin": "そうなんですね。わかりました。",
+      "content": "I see. I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:16:22",
+      "origin": "では、ここでどういうことをお話ししたいですか？",
+      "content": "Then, what would you like to talk about here?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:17:05",
+      "origin": "イライラするところをどうにかしたいです",
+      "content": "I want to do something about this irritation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:17:45",
+      "origin": "なるほど、そうなのですね。今、イライラしている気持ちをどうにかしたくてここに話にきてくださったのですね。",
+      "content": "I see, that makes sense. You've come here today because you want to do something about the irritation you're feeling right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:18:24",
+      "origin": "そのイライラは誰にむけてイライラしている感じでしょうか？",
+      "content": "Who is that irritation directed toward?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:18:50",
+      "origin": "親だったり児童相談所だったりです",
+      "content": "My parents, and the Child Guidance Center."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:20:34",
+      "origin": "そうなんですね。親だったり、児童相談所だったりするわけですが、どんなイライラがありますか？",
+      "content": "I see. So it's your parents and the Child Guidance Center. What kind of irritation do you feel toward them?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:22:24",
+      "origin": "親からは理不尽な怒られ方されるし、児童相談所は親からの暴力暴言をなんとかしてくれるところなのに機能してくれないところですね",
+      "content": "My parents get angry at me for unreasonable things, and the Child Guidance Center is supposed to help with violence and verbal abuse from parents, but it isn't functioning the way it should."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:24:01",
+      "origin": "なるほど、そうなのですね。親から理不尽な怒られ方をしたら、自分の中でなんでなんだろうという気持ちがいっぱい溜まってきてしまうこともありますよね。おそらく今までいっぱい我慢してきたのだろうと思います。辛かったですね。",
+      "content": "I understand. When your parents get angry with you for unreasonable things, feelings like 'Why is this happening?' can really build up inside. I imagine you've had to endure that for a long time. That must have been so hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:25:04",
+      "origin": "そんな中、勇気を出して児童相談所に行ったのに、何も解決しなくて、悔しい気持ちになりますよね。",
+      "content": "And in the midst of all that, you gathered up your courage to go to the Child Guidance Center, but nothing was resolved. That must feel so frustrating and disappointing."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:25:57",
+      "origin": "イライラの他にあなたの中に溜まっている気持ちはどんな気持ちでしょうか？",
+      "content": "Besides irritation, what other feelings do you have building up inside you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:26:17",
+      "origin": "なんだかよくわかりません",
+      "content": "I'm not really sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:26:48",
+      "origin": "そうなんですね。今はイライラしている気持ちが全面的にでている感じでしょうか？",
+      "content": "I see. Does it feel like the irritation is the most prominent feeling for you right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:27:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:29:09",
+      "origin": "自分の中にある気持ちを少しでも吐き出せるとちょっとはイライラも解消されるのかもしれません。ここは安全な場所なので、今あなたが感じている気持ちを出してもらって大丈夫ですよ。",
+      "content": "Letting out even a little of what you’re feeling might help ease some of that irritation. This is a safe space, so it’s okay for you to express whatever you’re feeling right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:32:20",
+      "origin": "児童相談所に相談して対応してもらえないことがわかったとき、がっかりした気持ちもありましたか？",
+      "content": "When you realized the Child Guidance Center wasn't going to help you, did you also feel disappointed?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:32:45",
+      "origin": "それもありますね",
+      "content": "Yes, that as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:33:23",
+      "origin": "そうなんですね。あなたとしてはどうにかしてほしい気持ちがあったから行ったのですものね。",
+      "content": "I see. You went there because you really wanted them to do something about the situation, after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:34:41",
+      "origin": "それよりも怒りの方が強かったのでしょうか？",
+      "content": "Was the anger stronger than the disappointment?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:35:15",
+      "origin": "たぶんそうだったと思います、よくわかりませんが",
+      "content": "Probably. I think so, but I'm not really sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:35:58",
+      "origin": "なるほど、そうなのですね。今はいろいろな気持ちが心の中をぐるぐる渦巻いている感じなのでしょうか？",
+      "content": "I see. Does it feel like a lot of different emotions are swirling around inside you right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:36:51",
+      "origin": "おそらく",
+      "content": "Probably."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:37:38",
+      "origin": "いろいろな感情がでてきては消して、消してもでてきてみたいな感じなのかなとも思いましたが、いかがですか？",
+      "content": "I was wondering if it feels like different emotions keep coming up, and you try to push them away, but they just come up again. Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:38:43",
+      "origin": "いや、そうではないと思います。それに消したとは言ってないですし",
+      "content": "No, I don't think that's right. And I never said I was pushing them away."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:39:34",
+      "origin": "そうなのですね。ありがとうございます。消そうとは思ってはいないのですね。",
+      "content": "I see. Thank you for clarifying. So you’re not trying to push them away."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:40:43",
+      "origin": "消そうと思っているかどうかはまだ話してないと思いますが",
+      "content": "I don't believe I've said whether I'm trying to push them away or not."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:41:38",
+      "origin": "そうですね、こちらがそうなのかなと推察したものですので、申し訳ありませんでした。",
+      "content": "You're right. That was an assumption on my part. I apologize."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:42:53",
+      "origin": "イライラを鎮めたいということだったので、いろいろな気持ちを抑えようとしているのかなと感じていました。そういうお気持ちではない感じですか？",
+      "content": "You mentioned wanting to calm your irritation, so I thought perhaps you were trying to suppress your feelings. Does that not feel right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:43:40",
+      "origin": "抑えようというか単純にどうしたら良いかわからないですね",
+      "content": "It’s not so much that I'm trying to suppress them; I just simply don’t know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:44:02",
+      "origin": "なるほど、そうなのですね。",
+      "content": "I see, that makes sense."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:45:26",
+      "origin": "今はどんな気持ちがあるのかがわからないけれど、親や児童相談所にイライラする気持ちが大きいということですね。",
+      "content": "So, right now you're not sure what other feelings you have, but the sense of irritation toward your parents and the Child Guidance Center is very strong."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:45:50",
+      "origin": "そんなところだと思います",
+      "content": "I think that’s about right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:46:48",
+      "origin": "そうなんですね。私がイライラしている時に、やっている方法を一つお伝えしてもよろしいですか？",
+      "content": "I see. Would it be alright if I shared a method I use when I'm feeling irritated?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:47:30",
+      "origin": "なんでしょうか",
+      "content": "What is it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:48:47",
+      "origin": "紙と書くものを用意して、今思っている気持ちを書き出します。言葉にならない時はぐるぐると塗りつぶしたり線をいっぱい書いたりしても構いません。",
+      "content": "Get a piece of paper and something to write with, and just write down everything you're feeling right now. If you can't put it into words, it's okay to just scribble or draw a lot of lines."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:49:22",
+      "origin": "そうして紙がいっぱいになったら、ぐしゃぐしゃに丸めたり、ビリビリにやぶったりいてゴミ箱に捨てます。",
+      "content": "When the paper is full, you can crumple it up into a ball or tear it into tiny pieces and throw it in the trash."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:50:14",
+      "origin": "１枚で落ち着かなければ、もう１枚書いてもいいですし、また時間をおいてやってみてもいいと思います。",
+      "content": "If one sheet isn't enough to help you calm down, you can write on another, or you can try again after some time has passed."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:52:04",
+      "origin": "いかがでしょうか？",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:52:24",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:53:11",
+      "origin": "効果はあるかはわかりませんが方法の一つだと感じます",
+      "content": "I don't know if it will be effective, but I can see that it's one possible method."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:53:51",
+      "origin": "そうですね、この後に試してみるだけ試していただけるといいかなと感じます。",
+      "content": "Right. I think it would be good to just give it a try after our session."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:55:55",
+      "origin": "最初は違和感があるという方もみえますが、メンタルトレーニングの中で効果があると言われているクリアリングというプログラムの一つなので、やっていくうちに自分の中にしっくりくるようになるとも言われています。",
+      "content": "Some people say it feels strange at first, but it's part of a mental training technique called 'clearing' that is said to be effective. It's also said that it starts to feel more natural as you continue to practice it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T10:57:45",
+      "origin": "今はイライラがとてもたくさんあって、どうにかしたいという気持ちでいると思いますが、少しお話ししてみていかがでしたか？",
+      "content": "I know you're feeling a lot of irritation right now and want to do something about it, but how do you feel after talking for a bit?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T10:58:30",
+      "origin": "話す前よりはマシになったと思います",
+      "content": "I think I feel a bit better than before we talked."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:01:43",
+      "origin": "それならばよかったです。どうにかしてほしいと切に願って相談に行った児童相談所の対応にイライラの感情を持つのは自然なことだと思います。でも、そのままだと苦しいので、あなたが少しでもそのイライラを解消してもらえるといいなと願っています。",
+      "content": "I’m glad to hear that. It’s completely natural to feel irritated at the Child Guidance Center's response, especially since you went there desperately hoping for help. But holding on to that feeling is painful, so I truly hope you can find even a little relief from that irritation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:02:49",
+      "origin": "他に伝えたいことはありますか？",
+      "content": "Is there anything else you’d like to share?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T11:02:57",
+      "origin": "ありません",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:03:17",
+      "origin": "では、今日の相談はここまでにさせていただいてもよろしいでしょうか？",
+      "content": "Then, would it be alright if we end today’s session here?"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T11:03:24",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:04:21",
+      "origin": "今日はあなたの大切なお話を聴かせていただいてありがとうございました。あなたが少しでも楽になれることをお祈りしています。",
+      "content": "Thank you for sharing your important story with me today. I hope you'll be able to feel even a little bit of relief."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:04:45",
+      "origin": "それでは、相談を終了させていただきます。",
+      "content": "With that, we will end the session."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:05:14",
+      "origin": "（ありがとうございました。とても勉強させていただきました。）",
+      "content": "(Thank you. This was a great learning experience for me.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T11:05:20",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:05:44",
+      "origin": "（これでロールプレイを終了させていただいてもよろしいでしょうか？）",
+      "content": "(May we end the role-play here?)"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-07T11:05:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-07T11:06:06",
+      "origin": "（ありがとうございました。）",
+      "content": "(Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親からの暴力や暴言に関する問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 2539,
+    "evaluation_created_at": "2021-10-08T14:14:00",
+    "client_id": 125,
+    "counselor_id": 204,
+    "score": 60,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

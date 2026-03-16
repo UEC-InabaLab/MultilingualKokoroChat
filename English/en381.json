@@ -1,0 +1,591 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:28:29",
+      "origin": "こんにちは。本日はよろしくお願いします。",
+      "content": "Hello. Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:28:49",
+      "origin": "どうぞよろしくお願いいたします",
+      "content": "Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:30:05",
+      "origin": "こんにちは。相談員です。本日はよろしくお願いします。",
+      "content": "Hello. I'm the counselor. Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:30:18",
+      "origin": "よろしくお願いいたします",
+      "content": "It's nice to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:30:23",
+      "origin": "あなた様の年齢と性別を教えてもらえますか？",
+      "content": "Could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:30:57",
+      "origin": "40代、女性です",
+      "content": "I'm a woman in my 40s."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:31:17",
+      "origin": "ありがとうございます。本日は、どのようなご相談でしょうか？",
+      "content": "Thank you. So, what brings you here today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:31:47",
+      "origin": "はい、25才になる娘のことで",
+      "content": "Yes, it's about my 25-year-old daughter."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:32:28",
+      "origin": "娘さんのお悩みですね。詳しく教えてもらえますか？",
+      "content": "A concern about your daughter, I see. Could you tell me more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:33:08",
+      "origin": "大学を出て就職をしましたが、半年で、出社出来なくなりました。",
+      "content": "She graduated from university and got a job, but after six months, she became unable to go to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:33:51",
+      "origin": "そうなんですか。母親として辛いですよね。",
+      "content": "I see. That must be very difficult for you as a mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:35:10",
+      "origin": "今娘さんは、何をされているのですか？",
+      "content": "What is your daughter doing now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:35:23",
+      "origin": "はい、そのまま自宅にいる、ひきこもというほどではないが、これからどうしようというわけではなく、ﾌﾞﾗﾌﾞﾗしています。",
+      "content": "She’s staying at home. It’s not to the extent of being a complete shut-in, but she’s just drifting without any plans for what to do next."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:36:24",
+      "origin": "そうですか。不安になりますよね。",
+      "content": "I understand. That must make you anxious."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:36:28",
+      "origin": "問題なのは、拒食症で、みるみるやせてきました",
+      "content": "The problem is she has anorexia and has been losing weight rapidly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:37:10",
+      "origin": "そうですか。辛いですね。ストレスが原因ですか？",
+      "content": "I see. That's difficult. Do you think it's caused by stress?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:38:01",
+      "origin": "身長155センチなのに、体重が、34キロになってしまいました。",
+      "content": "She's 155 cm tall, but her weight has dropped to 34 kg."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:39:07",
+      "origin": "何とか食べられるようになって、会社に戻ってもらいたいのですが",
+      "content": "I want her to somehow start eating again and go back to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:39:23",
+      "origin": "母親として心配になりますよね。大事な娘さんですもんね。会社に行けなくなった理由は、ご存知ですか？",
+      "content": "As her mother, of course you'd be worried. She's your precious daughter, after all. Do you know why she became unable to go to work?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:40:14",
+      "origin": "本人は、少し太りすぎを気にしていました。",
+      "content": "She herself was concerned about being a little overweight."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:40:38",
+      "origin": "食べたくないと",
+      "content": "She says she doesn’t want to eat."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:41:07",
+      "origin": "そうなんですね。食べたくないのは、今現在ですか？",
+      "content": "I see. Is she still not wanting to eat now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:41:47",
+      "origin": "会社をやめる前からです。食べるべきではないとまで、",
+      "content": "It started before she quit her job. She even says she shouldn't eat."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:42:35",
+      "origin": "たべると、彼にまで嫌われるから嫌だと、言っています",
+      "content": "She says she doesn't want to eat because if she does, her boyfriend will dislike her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:43:14",
+      "origin": "会社をやめる前からなんですね。娘さんは、今彼氏さんがいるのですか？",
+      "content": "So it started before she quit her job. Does your daughter have a boyfriend now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:44:29",
+      "origin": "はい、彼も心配しています。どう、娘と触れたらよいかわからなくなっ出来ました",
+      "content": "Yes, and he is worried too. He's become unsure of how to interact with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:45:19",
+      "origin": "彼氏さんも心配しますよね。どう対応したらいいのか分からなくなりますよね。",
+      "content": "Of course her boyfriend would be worried. It must be hard to know how to handle the situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:47:13",
+      "origin": "拒食症は、会社の時に症状があらわれたのですか？",
+      "content": "Did the symptoms of anorexia appear while she was at the company?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:48:21",
+      "origin": "だんだん、朝食もたべずに、出社するようになりました。やせ過ぎたら、彼だって、嫌いになると思うのですが、自分できめた",
+      "content": "She gradually started going to work without eating breakfast. I would think he'd dislike her if she got too thin, but she decided on her own..."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:49:03",
+      "origin": "ことと、頑固なんです",
+      "content": "...and she's stubborn about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:49:55",
+      "origin": "そうなんですか。けど、朝食食べないとお仕事に影響でますよね…",
+      "content": "I see. But not eating breakfast would affect her work, wouldn’t it…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:50:27",
+      "origin": "どういうところが頑固なのか詳しく教えてもらえますか？",
+      "content": "Could you tell me more specifically in what ways she is stubborn?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:53:05",
+      "origin": "小さいころから、自分できめたことは、勉強でも、なんでめも、やりとおしてきました。後少しで30キロ以下になりそうです。見るからに、骨とかわのようです",
+      "content": "Ever since she was a little girl, whatever she decided to do, whether it was studying or anything else, she would see it through. She's about to drop below 30 kilograms. She looks like she's just skin and bones."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:54:02",
+      "origin": "娘さんの姿をみると本当に心配になりますよね。",
+      "content": "Seeing your daughter like that must make you truly worried."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:54:46",
+      "origin": "目標を決めたらまっすぐに進む娘さんの性格も素晴らしいですよ。",
+      "content": "But your daughter's personality, the way she pushes straight ahead once she's set a goal, is also a wonderful quality."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:55:47",
+      "origin": "はい、ありがとうございます。でも、これでは、結婚も、できず、出産もできないですよね",
+      "content": "Yes, thank you. But at this rate, she won't be able to get married or have children, will she?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:56:31",
+      "origin": "心配になるのはもちろんですが、まだどうなるかわからないですよ。",
+      "content": "It's natural to worry, of course, but we don't know what will happen yet."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T20:57:23",
+      "origin": "目の前にいるので、どうしても気になってしまって",
+      "content": "Because she’s right in front of me, I can’t help but worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:58:10",
+      "origin": "うんうん。母親だから、心配になりますよね。",
+      "content": "Mmm-hmm. As her mother, of course you'd be worried."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T20:58:24",
+      "origin": "会社を辞めたのは、拒食症が原因でしょうか？",
+      "content": "Was anorexia the reason she quit her job?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:00:07",
+      "origin": "はい、そうです。食べるべきではないなどと言って、なにを考えているのか、分かりません。母親として失格です。",
+      "content": "Yes, that's right. She says things like she shouldn't eat, and I don't know what she's thinking. I'm a failure as a mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:01:35",
+      "origin": "そんなことないですよ。今でも娘さんのことを大事に思っているじゃないですか。",
+      "content": "That's not true at all. You clearly care about your daughter so much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:03:26",
+      "origin": "娘さんは、今会社に戻りたいのですか？",
+      "content": "Does your daughter want to go back to work now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:04:35",
+      "origin": "娘より、わたしのほうが、焦っています。いくら、娘に体によくないから、少しでも食べなさいと言っていても、あまり、くちに入れないんです",
+      "content": "I’m more anxious than she is. No matter how much I tell her it’s bad for her health and to eat even a little, she hardly puts anything in her mouth."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:05:54",
+      "origin": "そうですよね…娘さんの状況を見てたら焦りますよね…",
+      "content": "I understand. Seeing your daughter’s condition would make anyone feel anxious."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:07:13",
+      "origin": "娘は、会社のことより、身体のことで、頭がいっぱいになっています",
+      "content": "My daughter is more preoccupied with her body than with her job."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:08:20",
+      "origin": "そうですよね。体調のほうがよろしくないですよね。医療機関には、ご相談されましたか？",
+      "content": "I see. Her physical condition isn't good, is it? Have you consulted a medical professional?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:09:12",
+      "origin": "30キロ以下になたら、相談しようと思っています",
+      "content": "I'm thinking of consulting someone if she drops below 30 kilograms."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:09:57",
+      "origin": "そうですか。まだ、ご相談されてないのですね。",
+      "content": "I see. So you haven't consulted anyone yet."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:10:05",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:10:43",
+      "origin": "今までの、お話をすこしまとめてよろしいでしょうか？",
+      "content": "Would it be all right if I summarize what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:10:51",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:12:20",
+      "origin": "大学を出て就職をしたが、半年で出社出来なくなった。今現在娘さんは、そのまま自宅にいる。ひきこもというほどではないが、これからどうしようというわけではなく、ﾌﾞﾗﾌﾞﾗしている。",
+      "content": "She graduated from university and got a job, but after six months, she couldn't go to work. Currently, she's staying at home. It's not to the degree of being a complete shut-in, but she's not planning for the future; she's just drifting."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:12:44",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:14:19",
+      "origin": "彼に嫌われるのが嫌だからごはんをとらなくなった。拒食症で、みるみるやせてき、体調を崩して仕事を辞めた。今現在身長155センチなのに、体重が、34キロになってしまった。",
+      "content": "She stopped eating because she didn't want her boyfriend to dislike her. Due to anorexia, she lost weight rapidly, her health deteriorated, and she quit her job. She is currently 155 cm tall, but her weight has dropped to 34 kilograms."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:14:39",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:15:26",
+      "origin": "会社のことより、身体のことで、頭がいっぱいになっている娘さん。不安でいっぱいの、あなた様。",
+      "content": "Your daughter is preoccupied with her body rather than with work, and you are filled with anxiety."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:15:37",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:15:50",
+      "origin": "このように要約しましたが、どうでしょうか？",
+      "content": "I've summarized it this way. Does that sound correct?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:16:18",
+      "origin": "はい、その通りです。",
+      "content": "Yes, that's exactly right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:17:05",
+      "origin": "今までの話を聞かしてもらいましたが、提案があるのですがよろしいでしょうか？",
+      "content": "Having heard your story, I have a suggestion, if that's okay with you."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:17:26",
+      "origin": "是非、教えて下さい",
+      "content": "Please, do tell me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:17:56",
+      "origin": "今娘さんの体調は、よろしくありません。また、会社に行けるような状況ではありません。",
+      "content": "Right now, your daughter's health is not good. She's also not in a condition where she can go back to work."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:18:40",
+      "origin": "はい、そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:19:19",
+      "origin": "まだ、医療関係にご相談してないと言ってましたが、娘さんが30キロ以下になる前にご相談されたほうがよろしいのではないでしょうか？",
+      "content": "You mentioned that you haven't consulted a medical professional yet, but wouldn't it be better to consult one before your daughter's weight drops below 30 kilograms?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:19:58",
+      "origin": "もっと悪くなる前にご相談されたほうがいいのかなと思いました。",
+      "content": "I think it would be best to seek help before things get worse."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:20:22",
+      "origin": "やはり、相談したほうが、良いですか、悪くなるまえに",
+      "content": "So you really think it's better to get a consultation before things get worse?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:21:03",
+      "origin": "これ以上悪くなったら、もっと大変なことになると思いますが…いかがでしょうか？",
+      "content": "If things get any worse, I believe it could become much more serious... What are your thoughts on that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:21:46",
+      "origin": "娘さんのことを思えばいいのですが。",
+      "content": "It's for your daughter's sake."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:21:50",
+      "origin": "娘の機嫌のよいときに、話して見ます。",
+      "content": "I'll try talking to her when she's in a good mood."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:22:28",
+      "origin": "娘さんは、病院にはあまり行きたくないのですか？",
+      "content": "Is your daughter reluctant to go to the hospital?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:24:04",
+      "origin": "頑固だから、病院に行きたいと、言ったことはありません、やせてきて、丁度いいと、思っているんです",
+      "content": "She's stubborn, so she's never said she wants to go to the hospital. She thinks getting thinner is just right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:24:47",
+      "origin": "そうなんですか。けど、このままの状況が続くと心配になりますよね。",
+      "content": "I see. But if this situation continues, it's certainly worrying, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:25:08",
+      "origin": "はい、心配です",
+      "content": "Yes, I'm worried."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:25:43",
+      "origin": "心配になりますよね。もうひとつきになったことがありまして、娘さんと彼氏さんの関係はどのような感じですか？",
+      "content": "Of course you're worried. There was one more thing I was curious about. What is your daughter's relationship with her boyfriend like?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:26:36",
+      "origin": "今は、携帯でやり取りしているだけで、あまり、出歩きません。",
+      "content": "Right now, they only communicate through their phones; she doesn't go out much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:27:41",
+      "origin": "そうなんですか。彼氏さんと娘さんは仲がいいんですよね？",
+      "content": "I see. Do your daughter and her boyfriend have a good relationship?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:28:20",
+      "origin": "彼が、見守ってくれている感じです",
+      "content": "It feels like he is watching over her protectively."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:28:59",
+      "origin": "本当に仲が良いんですね。",
+      "content": "They sound like they have a really good relationship."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:29:13",
+      "origin": "やせ過ぎると、嫌われると思います。",
+      "content": "I think he'll dislike her if she gets too thin."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:30:03",
+      "origin": "大切な彼氏さんに嫌われたくないですよね。",
+      "content": "She wouldn't want to be disliked by her precious boyfriend."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:30:44",
+      "origin": "はい、仲良く続けてほしいです",
+      "content": "Yes, I want them to continue having a good relationship."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:30:58",
+      "origin": "そうですよね。お時間なんですが、今日話したいことは話せましたか？",
+      "content": "I understand. We're about out of time, but were you able to talk about everything you wanted to today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:32:18",
+      "origin": "私の思いを聞いてくださり、少し軽くなった感じです。",
+      "content": "Having you listen to my concerns has made me feel a little lighter."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:33:11",
+      "origin": "まず、病院に連れて行くことですね。",
+      "content": "The first step is to take her to a hospital."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:33:45",
+      "origin": "あるがとうございます。ぜひ、ご相談してみてください。",
+      "content": "Thank you. Please do seek a consultation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:33:49",
+      "origin": "娘さんのことを心配でたまらないと思いますが、少しでも娘さんの体調がよくなることを期待してます。あなた様も、自分を責めないで少しずつできることから行動していきましょう。",
+      "content": "I know you must be incredibly worried about your daughter, and I hope her condition improves even a little. Please don't blame yourself. Let's take things one step at a time, starting with what you can do."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:34:11",
+      "origin": "はい、分かりました。",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:34:56",
+      "origin": "本日のご相談を終わります。ありがとうございました。",
+      "content": "This concludes our session for today. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:35:11",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T21:36:01",
+      "origin": "（本日は貴重な時間ありがとうございました。ロールプレイを終了します。）",
+      "content": "(Thank you for your valuable time today. This concludes the role-play.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T21:36:15",
+      "origin": "ありがとうございました。合掌",
+      "content": "Thank you very much. Gassho."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "娘の拒食症による健康問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 381,
+    "evaluation_created_at": "2020-08-28T00:27:00",
+    "client_id": 56,
+    "counselor_id": 69,
+    "score": 58,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

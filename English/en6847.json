@@ -1,0 +1,459 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-09T12:51:48",
+      "origin": "(こんにちは。本日はよろしくお願いします。時間になりましたら始めさせていただきます）",
+      "content": "(Hello. Thank you for coming today. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T12:52:15",
+      "origin": "（こんにちは。承知しました。こちらこそよろしくお願いします。）",
+      "content": "(Hello. Understood. Thank you as well.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T12:52:42",
+      "origin": "（クライエント役でご希望はありますでしょうか？）",
+      "content": "(Do you have any preferences for the client role?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T12:53:26",
+      "origin": "（ありがとうございます、特にありません。）",
+      "content": "(Thank you, no particular preferences.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T12:53:50",
+      "origin": "（わかりました。ではこちらで設定させていただきますね。）",
+      "content": "(Understood. Then I’ll set the scenario on my end.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T12:54:09",
+      "origin": "（お気遣いありがとうございます。）",
+      "content": "(Thank you for your consideration.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:00:36",
+      "origin": "こんにちは、相談員です、初めに性別と年齢を教えてください。",
+      "content": "Hello, this is the counselor. To start, could you please tell me your gender and age?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:01:02",
+      "origin": "こんにちは。16歳。男性です。",
+      "content": "Hello. I'm 16, male."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:01:26",
+      "origin": "ありがとうございます。今日はどうされましたか？",
+      "content": "Thank you. What brings you in today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:01:56",
+      "origin": "学校に行きたくないです。",
+      "content": "I don't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:02:41",
+      "origin": "そうなんですね。学校に行くのがイヤなのですね。いつ頃からそう思うようになったのですか？",
+      "content": "I see. So you don't feel like going to school. When did you start feeling that way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:03:12",
+      "origin": "ゴールデンウィークが終わってからです。",
+      "content": "Since Golden Week ended."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:04:18",
+      "origin": "そうなのですか。確かに今回のゴールデンウイークは長かったですものね。",
+      "content": "Is that so? This year's Golden Week was certainly a long one, wasn't it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:05:08",
+      "origin": "ではゴールデンウィーク明けから学校には行っていないのですか？",
+      "content": "So, have you not been going to school since Golden Week ended?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:05:41",
+      "origin": "行っていますが、眠いしダルいしやる気が出ない。",
+      "content": "I have been going, but I’m sleepy, sluggish, and unmotivated."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:07:24",
+      "origin": "なるほど、そうなんですか。学校に行くのはだるいけどちゃんと行っているのですね。えらいね。",
+      "content": "I see. It’s a drag to go to school, but you’re still going. That’s commendable."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:08:02",
+      "origin": "親がうるさいから嫌々行っています。",
+      "content": "I go reluctantly because my parents are nagging me."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:08:23",
+      "origin": "学校には行きたくないです。",
+      "content": "I don't want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:09:14",
+      "origin": "そっか。親がうるさいんだね。それでも行っててえらいよ。それまでは学校はどうだったの？",
+      "content": "I see. Your parents are on your case. Even so, you’re going—that’s admirable. How was school before this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:09:34",
+      "origin": "普通に行っていました。",
+      "content": "I was going as usual."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:09:52",
+      "origin": "学校に行かなくていい方法はありますか？",
+      "content": "Is there a way I can get out of going to school?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:11:29",
+      "origin": "そうだよね。今は行きたくないんだもんね。今は学校のどんなところがしんどいと思う？",
+      "content": "Right. You don't want to go right now. What parts of school feel tough for you at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:12:12",
+      "origin": "学校に行っても意味ないし、家でいる方が楽しいから。",
+      "content": "There's no point in going to school, and it's more fun to be at home."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:13:04",
+      "origin": "そうなんだね。学校に行っても楽しくないんだね。",
+      "content": "I see. So you don't find school fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:13:50",
+      "origin": "もしどういうところが楽しくないか、何かあれば教えてもらってもいいかな？",
+      "content": "If you’re comfortable, could you tell me what specifically isn’t enjoyable?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:15:13",
+      "origin": "勉強しても社会で役に立つ訳じゃないから意味ないでしょ？学校が楽しくないじゃなくて家でいる方が楽しいだけ。",
+      "content": "Studying won't be useful in the real world, so what's the point? It's not that school isn't fun, it's just that being at home is more fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:16:04",
+      "origin": "そうかあ、そう思うんだね。確かに社会で算数や物理なんて使わないし、勉強しても意味ないって思うよね。",
+      "content": "I see, that's what you think. It's true that you don't really use math or physics in the real world, so I can see why you'd think studying is pointless."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:17:59",
+      "origin": "家にいる時は何をしている時が一番楽しいの？",
+      "content": "When you're at home, what do you enjoy doing the most?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:18:08",
+      "origin": "ゲーム",
+      "content": "Gaming."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:18:41",
+      "origin": "確かにゲームは楽しいね。",
+      "content": "Games are definitely fun, aren't they."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:20:47",
+      "origin": "今学校に行きたくない気持ちを、おうちの人とか周りの人に相談してみたことはありますか？",
+      "content": "Have you ever tried talking to your family or others around you about not wanting to go to school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:21:56",
+      "origin": "親は厳しいから言っても聞いてくれない。休める方法はありますか？",
+      "content": "My parents are strict, so they won't listen even if I tell them. Is there a way I can take a break?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:23:56",
+      "origin": "そうだよね学校に行っても楽しくないんだもんね。休みたくなっちゃうよね。",
+      "content": "I understand—since school isn’t enjoyable, it’s natural to want a break."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:25:28",
+      "origin": "うまく休める方法がないかなと思ってて、何かありませんか？",
+      "content": "I'm wondering if there's a good way to take a break. Do you have any ideas?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:26:33",
+      "origin": "そうだね。学校にどうしても行きたくないのなら、それもいいかと思う。でもちょっと勇気いるけど、まず誰かに相談してみたらいいかと思うよ。",
+      "content": "I understand. If you really don't want to go to school, I think that's an option. But it might take a bit of courage, and I think it would be good to try talking to someone first."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:27:09",
+      "origin": "言ったらゲーム止めさせられるから無理。",
+      "content": "If I tell them, they’ll make me stop gaming, so I can’t."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:29:58",
+      "origin": "取り上げられるんだ。ゲームやれないのは辛いね。でも急に家にずっといたら親もどうしたの？って聞かれないかな",
+      "content": "So they'd take them away. It must be tough not being able to play your games. But if you suddenly started staying home all the time, wouldn't your parents ask what's wrong?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:30:39",
+      "origin": "ゲーム続けられてうまく休める方法が知りたい。",
+      "content": "I want to know a good way to take a break while still being able to play my games."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:31:57",
+      "origin": "そうかあ、そうなら一番いいね。学校に行った時、何が一番だるい？",
+      "content": "I see, that would be the best-case scenario, wouldn't it? When you go to school, what feels most draining?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:32:19",
+      "origin": "眠い。",
+      "content": "I'm sleepy."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:32:52",
+      "origin": "眠いんだね。毎日眠いの？",
+      "content": "You're sleepy, huh? Is it every day?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:33:00",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:34:05",
+      "origin": "ゴールデンウィークには何時ごろ寝てたの？",
+      "content": "During Golden Week, around what time were you going to bed?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:34:29",
+      "origin": "朝の3時とか4時くらい",
+      "content": "Around 3 or 4 in the morning."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:34:44",
+      "origin": "学校に行っていた時も？",
+      "content": "Even when you were going to school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:35:15",
+      "origin": "それまでは23時くらい。",
+      "content": "Before that, around 11 p.m."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:36:03",
+      "origin": "そうなんだね。もしかしたら生活リズムが少しずれちゃったのかもしれないね。",
+      "content": "I see. It's possible your daily rhythm has shifted a little."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:37:27",
+      "origin": "はい。授業受けても眠いから聞いてない。だから行っても意味ないでしょ？",
+      "content": "Yes. I'm sleepy during class, so I'm not listening. That's why there's no point in going, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:39:48",
+      "origin": "なるほど、それもそうだね。でも、長い休み明けってみんな同じだと思うなあ。また少し通ってると徐々に前のペースに戻ると思うなあ",
+      "content": "I see, that makes sense. But I think everyone feels the same after a long break. I believe that if you keep going for a little while, you'll gradually get back to your old pace."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:40:54",
+      "origin": "たぶん戻らないと思う。",
+      "content": "I probably won’t get back to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:42:23",
+      "origin": "そうか。そう思うよね。でも今はみんなまだ前のリズムに戻れている人ばかりじゃないと思うよ。自分のペースでゆっくり戻していけばいいような気がするけどな。",
+      "content": "I see. I can understand why you'd feel that way. But I don't think everyone has returned to their old rhythm just yet. I think it would be fine to slowly get back to it at your own pace."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:43:07",
+      "origin": "今の生活リズム壊したくないから。",
+      "content": "Because I don’t want to disrupt my current routine."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:44:49",
+      "origin": "そうか、崩したくないんだね。学校に行ったら部活とかはしないのかな？",
+      "content": "I see—you don’t want to disrupt it. When you go to school, do you do any club activities?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:45:20",
+      "origin": "高校に入ってから部活はしてません。",
+      "content": "I haven't been in any clubs since starting high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:45:48",
+      "origin": "そうか、今はしていないんだね。中学生の頃は何をしていたの？",
+      "content": "I see, so you're not in one now. What did you do when you were in middle school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:46:31",
+      "origin": "中学校のときは卓球部でした。高校には無いのでやっていません。",
+      "content": "I was in the table tennis club in middle school. My high school doesn’t have one, so I’m not doing it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:48:14",
+      "origin": "そうなんだね。今は卓球部がないんだ。卓球楽しいよね。今はもう卓球はしてないのかな？",
+      "content": "I see. So there's no table tennis club now. Table tennis is fun, isn't it? Are you not playing table tennis anymore?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:48:42",
+      "origin": "今はやっていません。",
+      "content": "I'm not playing it now."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:50:27",
+      "origin": "部活がないと確かに授業だけのために学校行くのがしんどくなるよね。",
+      "content": "It's true that if you don't have a club, it can feel like a drag to go to school just for classes."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:51:03",
+      "origin": "そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:52:13",
+      "origin": "でもしんどくてもちゃんと学校に行ってるだけで、すごいし意味があると思うな。",
+      "content": "But even if it's tough, I think the fact that you're still going to school is amazing and meaningful in itself."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:53:05",
+      "origin": "意味あるんでしょうか？僕は休みたいんです。",
+      "content": "Is it really meaningful? I want to take a break."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:53:49",
+      "origin": "そうだよね。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:55:19",
+      "origin": "意味はあると思うよ。勉強するためだけに学校はあるわけじゃないから。健全な生活リズムを整えるためにも学校ってあると思う。",
+      "content": "I think it is meaningful. School isn't just for studying. I think it also exists to help maintain a healthy daily rhythm."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:56:13",
+      "origin": "でもどうしても無理だと思うなら、学校はお休みするのもありだと思う。",
+      "content": "But if you feel it's absolutely impossible, I think taking a break from school is also an option."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:56:33",
+      "origin": "そうなんですね。今はゲームがしたいから休みたい。",
+      "content": "I see. For now, I want to take a break because I want to play games."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:59:49",
+      "origin": "そうなんだね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T14:01:30",
+      "origin": "（すみません。統合までいけなかったのですがお時間になってしまいましたので、終了とさせていただきます。ありがとうございました。）",
+      "content": "(I’m sorry. We didn’t get to integration, but our time is up, so we’ll end here. Thank you very much.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T14:02:13",
+      "origin": "（統合だけが全てではないので大丈夫ですよ。ありがとうございました。お疲れ様さまでした。）",
+      "content": "(Integration isn't everything, so it's okay. Thank you very much. Thank you for your work today.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T14:02:25",
+      "origin": "（ありがとうございました）",
+      "content": "(Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない理由"
+  },
+  "review_by_client": {
+    "evaluation_id": 6847,
+    "evaluation_created_at": "2024-05-09T15:10:00",
+    "client_id": 444,
+    "counselor_id": 438,
+    "score": 66,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

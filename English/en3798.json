@@ -1,0 +1,687 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-03T19:51:32",
+      "origin": "こんばんは。相談員役です。本日はよろしくお願いいたします。",
+      "content": "Good evening. I'll be your counselor for this session. I look forward to speaking with you today."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T19:51:54",
+      "origin": "時間になりましたらはじめさせていただきます。",
+      "content": "We’ll begin once it’s time."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T19:51:54",
+      "origin": "こんばんは。こちらこそよろしくお願いいたします。",
+      "content": "Good evening. Likewise, thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:00:22",
+      "origin": "こんばんは。相談員です。ご相談にお越しいただき、ありがとうございます。はじめにご年齢と性別を教えていただけますか？",
+      "content": "Good evening. I’m the counselor. Thank you for coming to talk today. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:00:46",
+      "origin": "17 男です",
+      "content": "I’m 17, male."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:01:08",
+      "origin": "ありがとうございます。本日はどのようなご相談ですか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:01:21",
+      "origin": "勉強のやる気がでません",
+      "content": "I can't find the motivation to study."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:02:03",
+      "origin": "そうなんですね。それはお困りですよね。",
+      "content": "I see. That must be difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:02:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:03:28",
+      "origin": "どのような状況か、お話もう少し聞かせていただけますか？",
+      "content": "Could you tell me a little more about your situation?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:04:10",
+      "origin": "夏休みで勉強しなきゃやばいのに全然やる気が起きないんです",
+      "content": "It’s summer break, and I know I really need to study, but I just can’t get motivated at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:05:25",
+      "origin": "ええ。勉強をしないといけないのにやる気が起きないとなるともどかしいですよね。",
+      "content": "Yes. It must be frustrating to know you have to study but not feel motivated to do it."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:05:46",
+      "origin": "そうですね",
+      "content": "That’s right."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:05:53",
+      "origin": "自分が嫌になります",
+      "content": "I'm starting to dislike myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:06:36",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:07:35",
+      "origin": "自分が嫌になるのはしんどいですよね。ちなみに今は何年生でしょうか？",
+      "content": "It must be tough to feel that way about yourself. By the way, what grade are you in now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:07:46",
+      "origin": "3年です",
+      "content": "I'm a third-year."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:08:26",
+      "origin": "高校3年生ですね。高校卒業後の進路はどう考えているのでしょうか？",
+      "content": "So, you're a high school senior. What are your plans for after high school graduation?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:09:06",
+      "origin": "大学進学です",
+      "content": "I'm planning to go to university."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:10:41",
+      "origin": "そうでしたか。進学するからこそ勉強しなければ、と思うのにやる気が起きないということなんですね。",
+      "content": "I see. So it's precisely because you plan to go on to university that you feel you must study, yet you can't find the motivation."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:10:59",
+      "origin": "そんな感じですね",
+      "content": "That's about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:12:32",
+      "origin": "ええ。今勉強をするとき、どのような感じですか？",
+      "content": "Yes. What is it like when you try to study now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:12:50",
+      "origin": "どんな感じ？",
+      "content": "What do you mean?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:13:35",
+      "origin": "少し分かりにくかったですよね。勉強している時の様子や状況はどんな感じでしょうか？",
+      "content": "That was a bit unclear, wasn't it? What are the circumstances or your situation like when you're studying?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:13:56",
+      "origin": "ふつーに自分の部屋でやってます",
+      "content": "I just study in my room, as usual."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:14:29",
+      "origin": "たまに学校に行ってもやりますね",
+      "content": "Sometimes I go to school to study, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:14:53",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:16:22",
+      "origin": "夏休みで勉強しなきゃやばいのに、ということでしたが、やばいというのはどんな思いを感じているのでしょうか？",
+      "content": "You mentioned that if you don't study during summer break, it will be bad—what thoughts or feelings are behind that word “bad” for you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:16:40",
+      "origin": "そりゃあ",
+      "content": "Well, obviously..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:16:53",
+      "origin": "高３の夏休みに勉強しないとかやばいでしょ",
+      "content": "not studying during the summer of your senior year is really bad, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:17:06",
+      "origin": "合格できないですよ",
+      "content": "I won't be able to pass the entrance exams."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:17:23",
+      "origin": "先生達も、この夏が勝負ってよく言ってます",
+      "content": "My teachers are always saying that this summer is the deciding factor."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:17:36",
+      "origin": "ええ。そのように感じているのですね。",
+      "content": "I see. So that's how you're feeling."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:18:03",
+      "origin": "感じるっていうか事実ですね",
+      "content": "It’s not just a feeling—it’s a fact."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:18:19",
+      "origin": "むしろそれ感じてやれよ自分って感じです",
+      "content": "It's more like I'm telling myself, “Come on, you feel it, so just get on with it!”"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:19:03",
+      "origin": "はい。事実と認識しているのですね。",
+      "content": "Yes. You recognize it as a fact."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:20:13",
+      "origin": "なるほどですね、勉強することの必要性を十二分に感じているのですね。",
+      "content": "I see. So you are more than aware of the necessity of studying."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:21:14",
+      "origin": "感じてるつもりなんですけどね",
+      "content": "I think I am, but..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:21:21",
+      "origin": "違うから勉強しないんでしょーね",
+      "content": "I guess I must not be, since I'm not studying."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:22:35",
+      "origin": "ええ。お話を聞いていると、感じているというより、あなたは理解しているように思います。",
+      "content": "Yes. Listening to you, it seems that rather than feeling it, you understand it intellectually."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:22:58",
+      "origin": "そうですか、、",
+      "content": "Is that so..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:23:13",
+      "origin": "ちょっとよく分からないですけど、そうなんですね",
+      "content": "I don't really get it, but okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:23:36",
+      "origin": "そう思いますよ。だからこそ、やる気が起きない自分に対して嫌になると感じているのだと思います。",
+      "content": "I believe so. And that's precisely why you end up disliking yourself when you can’t get motivated."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:24:11",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:24:35",
+      "origin": "ちなみにやる気が起きないというのは、ご自身では「どういうときに」とか「こんな理由があって」とか、どう感じていますか？",
+      "content": "By the way, regarding this lack of motivation, do you have any sense of \"when it happens\" or \"for what reason\"?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:24:51",
+      "origin": "うーん、",
+      "content": "Hmm..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:24:57",
+      "origin": "なんとなく",
+      "content": "I don't know... it's just..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:25:12",
+      "origin": "やらなきゃって分かってても",
+      "content": "Even though I know I have to..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:25:18",
+      "origin": "ええ、",
+      "content": "Yes..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:25:24",
+      "origin": "布団から出れなかったり、スマホ見ちゃいます",
+      "content": "I can’t get out of bed, or I end up looking at my phone."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:27:20",
+      "origin": "ええ。夏休みは早起きする必要もないからこそ、布団から出れなかったり、スマホは見たくなるのも自然なことかと思います。",
+      "content": "Yes. It's precisely because you don't have to get up early during summer vacation that I think it's quite natural to not want to get out of bed or to want to look at your phone."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:27:42",
+      "origin": "まぁー夏休み前からそうですけどね",
+      "content": "Well, it's been like that since before summer vacation, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:28:19",
+      "origin": "そうなんですね。でもやらなきゃというのを理解しているからこそやばい、と感じているのですね。",
+      "content": "I see. But it's precisely because you understand that you have to do it that you feel this is a bad situation."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:28:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:29:22",
+      "origin": "今日のご相談ではどんなことを望んでおられますか？",
+      "content": "What are you hoping to get from today's consultation?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:29:51",
+      "origin": "勉強が出来るようになりたいです",
+      "content": "I want to be able to study."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:31:23",
+      "origin": "かしこまりました。あなたにとって大事なことなので、勉強ができるように一緒に考えていきましょうね。",
+      "content": "Understood. Since this is important to you, let’s think together about how you can make studying possible."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:31:41",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:33:39",
+      "origin": "ちなみにやる気が起きないというときは、",
+      "content": "By the way, when you feel unmotivated,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:34:20",
+      "origin": "スマホを見る、ということがほとんどという感じでしたか？（もし他にあれば教えてくださいね。）",
+      "content": "is it mostly looking at your phone? (Please let me know if there's anything else.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:34:55",
+      "origin": "やる気が起きないときに、何してるかってことですか？",
+      "content": "Are you asking what I do when I'm not motivated?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:35:24",
+      "origin": "そうです。（分かりにくく失礼しました。）",
+      "content": "Yes. (Sorry for being unclear.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:35:50",
+      "origin": "まー、スマホ観てるか、寝ますね",
+      "content": "Well, I'm either on my phone or I'm sleeping."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:36:18",
+      "origin": "そのような感じなのですね。",
+      "content": "I see—that’s how it tends to go."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:36:44",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:36:59",
+      "origin": "勉強するためにはまず計画が必要となると思いますが、",
+      "content": "I think a plan is necessary to start studying,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:37:58",
+      "origin": "一日何時間は最低でも必要と感じていますか？",
+      "content": "how many hours a day do you feel you need to study, at a minimum?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:38:15",
+      "origin": "休みの日なら10時間くらいですかね",
+      "content": "On days off, maybe about 10 hours."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:38:24",
+      "origin": "最低でも7.8",
+      "content": "At least 7 or 8."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:39:03",
+      "origin": "そのぐらいなんですね。",
+      "content": "So, around that much."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:39:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:40:04",
+      "origin": "ちなみに、勉強の仕方は大きく分けて2パターンあると思いますが、",
+      "content": "By the way, I think there are broadly two patterns for studying,"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:40:18",
+      "origin": "はぁ",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:41:51",
+      "origin": "「先に勉強終わらせて後で楽する」と「最初はあまりせず、最後の最後に終わらせる」では",
+      "content": "between \"get studying done first and relax later\" and \"don't do much at first and finish at the very last minute.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:42:05",
+      "origin": "どちらに当てはまりますか？",
+      "content": "Which one applies to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:42:36",
+      "origin": "先にですかね",
+      "content": "The first one, I guess."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:42:46",
+      "origin": "けど、これ関係ありますかね",
+      "content": "But is this relevant?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:42:57",
+      "origin": "別に宿題が終わらないわけじゃないので",
+      "content": "It's not like I'm not finishing my homework."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:43:15",
+      "origin": "受験勉強に終わりはないですから",
+      "content": "Studying for entrance exams never really ends."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:43:37",
+      "origin": "そう思いますよね。",
+      "content": "You're right to think that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:44:31",
+      "origin": "受験勉強に当てはめると「後で楽をする」という例えは分かりにくかったと思います。この質問では、",
+      "content": "Applying the example of \"relax later\" to exam prep was probably confusing. With this question,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:46:00",
+      "origin": "「自分の勉強の仕方がどっちに当てはまるか」の質問でした。なので「先に」ということであれば、",
+      "content": "I was asking \"which studying style applies to you.\" So, if it's \"get it done first,\" then"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:47:28",
+      "origin": "今日は何時までに何時間勉強やって、スマホを見るなら勉強終わった夕食後に、",
+      "content": "setting a goal like, \"Today I'll study for X hours until X o'clock, and I'll look at my phone after dinner when I'm done studying,\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:48:10",
+      "origin": "みたいに目標を決めていくのがまず必要だと思うのですが、どう感じますか？",
+      "content": "I think setting goals like that is the first necessary step. How do you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:48:19",
+      "origin": "決めても守れないから困ってます",
+      "content": "The problem is I make plans but can’t follow through."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:49:12",
+      "origin": "はい。今からそれをお伝えしますね。",
+      "content": "Right. I'm about to address that now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:50:18",
+      "origin": "守るために、ご自身ではどのようなことができそうですか？",
+      "content": "What do you think you could do to help yourself stick to it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:50:30",
+      "origin": "早くしないと風呂に入れって言われちゃうんで急ぎめでお願いします。",
+      "content": "I'll be told to get in the bath if we don't hurry, so could you please make it quick?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:50:41",
+      "origin": "それを教えてくれるのではないんですか？",
+      "content": "Aren't you supposed to tell me that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:50:55",
+      "origin": "今からそれをお伝えするって",
+      "content": "You just said you were about to address it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:52:40",
+      "origin": "ええ。私もお話しますが、あなたは、考える力はあると思っているので、お聞きしました。",
+      "content": "Yes. I will share my thoughts, but I asked because I believe you have the ability to think for yourself."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:53:13",
+      "origin": "そうですか。。。分からないから来てるんですが。。。",
+      "content": "I see... But I'm here because I don't know what to do..."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:53:22",
+      "origin": "なんか考えずに聴いちゃってすみません。",
+      "content": "Sorry for just asking without thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:54:16",
+      "origin": "大丈夫ですよ。私が教えるのもできますが、やるがどうか、合う合わないもあるかもしれませんからね。",
+      "content": "It's alright. I can certainly teach you, but whether you actually do it, and whether it suits you, is another matter."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:54:36",
+      "origin": "じゃあ、教えてください",
+      "content": "Then please tell me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:56:07",
+      "origin": "決めたことを守るために、先ほども言いましたがまず目標を定めるということが必要だと思います。ただ集中力には限界がありますので、",
+      "content": "To stick to what you've decided, as I said before, I think it's necessary to first set a goal. However, concentration has its limits, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:57:15",
+      "origin": "20分やって5分休憩、もしそれが厳しければ10分やって2分休憩という方法があると思いますが、いかがですか？",
+      "content": "you could try a pattern of 20 minutes of work followed by a 5-minute break, or if that’s too difficult, 10 minutes of work and a 2-minute break. What do you think of that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:58:04",
+      "origin": "まー、やり始めるのが1番しんどいんですけど、それも取り入れてみます。",
+      "content": "Well, just getting started is the hardest part, but I'll try to incorporate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T20:59:04",
+      "origin": "はい。参考になればと思います。確かにやり始めるのが億劫だったりすることはあると思います。",
+      "content": "Yes. I hope it helps. It's true that just getting started can feel like a chore."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:59:42",
+      "origin": "それが1番ですね。わりとやり始めたら集中するタイプなんで。",
+      "content": "That's the biggest thing. I'm the type who can concentrate pretty well once I start."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T20:59:56",
+      "origin": "そろそろ親に呼ばれそーなんで、大丈夫です。",
+      "content": "My parents will probably call for me soon, so I'm good for now."
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T21:00:07",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T21:00:16",
+      "origin": "まずは「机に座り、1分やる」というように、小さいハードルから初めて見るのも一つかと思います。",
+      "content": "As a first step, it might help to start with a very small hurdle, like “Just sit at your desk and work for one minute.”"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T21:00:46",
+      "origin": "はい。本日がご相談ありがとうございました。あなたのこれからを応援していますからね。",
+      "content": "Yes. Thank you for your consultation today. I'll be rooting for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T21:01:13",
+      "origin": "（お疲れ様でした。ありがとうございました。）",
+      "content": "(Good work. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T21:01:54",
+      "origin": "(カウンセラー役お疲れ様でした。)",
+      "content": "(Good work in the counselor role.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-03T21:02:00",
+      "origin": "本日はありがとうございました。",
+      "content": "Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-03T21:02:21",
+      "origin": "（お手隙に評価いただけたら幸いです。よろしくお願いいたします。それでは終了します。ありがとうございました。）",
+      "content": "(If you have a moment, I would appreciate your evaluation. Thank you. I will end the session now. Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "大学進学に向けた勉強のやる気問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3798,
+    "evaluation_created_at": "2022-08-13T16:43:00",
+    "client_id": 291,
+    "counselor_id": 136,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

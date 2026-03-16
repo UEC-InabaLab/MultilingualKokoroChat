@@ -1,0 +1,615 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:21:24",
+      "origin": "（おはようございます。本日はトレーニングよろしくお願いします。時間になったら始めさせていただきます。）",
+      "content": "(Good morning. Thank you for the training session today. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:23:05",
+      "origin": "（こちらこそ、よろしくお願いします。スマホを変えたばかりで少し操作に時間かかるかも知れませんが、よろしくお願いします）",
+      "content": "(Thank you as well. I just got a new smartphone, so it might take me a little time to get the hang of it, but please bear with me.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:23:28",
+      "origin": "（かしこまりました。）",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:30:03",
+      "origin": "こんにちは、相談員です。ご相談にお越しいただきありがとうございます。",
+      "content": "Hello, I'm your counselor. Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:30:26",
+      "origin": "はじめに年齢、性別、相談内容を教えてください。",
+      "content": "To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:31:23",
+      "origin": "こんちは。51歳、女性、息子の不登校についての相談です。",
+      "content": "Hello. I'm 51, female, and I'd like to talk about my son's school refusal."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:32:07",
+      "origin": "教えていただきありがとうございます。息子さんの不登校についてですね。もう少し詳しく教えていただけますか？",
+      "content": "Thank you for sharing that. It's about your son's school refusal, correct? Could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:33:31",
+      "origin": "小学四年生の息子が『お腹が痛い、頭が痛い』と言い、学校に行きたがらないことが増えてます。",
+      "content": "My son, who is in the fourth grade, has been complaining more often about stomachaches and headaches, and is increasingly reluctant to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:34:14",
+      "origin": "そうなのですね、それはとても心配になってしまいますよね。",
+      "content": "I see. That must be very worrying for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:34:28",
+      "origin": "いつ頃からなのでしょうか？",
+      "content": "About when did this start?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:34:55",
+      "origin": "そうですね。三ヶ月前くらいですね。",
+      "content": "Let's see. It was about three months ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:35:49",
+      "origin": "そうだったのですね。息子さんのそのような姿を見ていると、心配や不安になってしまうのではないかと思います。",
+      "content": "I see. Seeing your son like that must make you feel worried and anxious."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:35:54",
+      "origin": "通院して休むことになりますが、月曜日になると痛みを訴えます。",
+      "content": "He ends up missing school to go to the doctor, but he complains of pain especially on Mondays."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:36:41",
+      "origin": "通院されているのですね。何科に通院されているのでしょうか？",
+      "content": "So he's seeing a doctor. What kind of doctor is he seeing?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:36:53",
+      "origin": "小児科ですね。",
+      "content": "A pediatrician."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:37:30",
+      "origin": "教えていただきありがとうございます。病院の先生は何とおっしゃっているのでしょうか？",
+      "content": "Thank you for telling me. What has the doctor said?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:38:32",
+      "origin": "色々と検査をしてくれます。細菌の検査とかですね。特に何も検出されないので、お腹の調子が悪いわけではないと言われたりしてます。",
+      "content": "They've run various tests, like for bacteria and such. But nothing has been detected, so they've told us it's not a physical stomach issue."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:39:50",
+      "origin": "そうなのですね。原因がわからないと心配なってしまうのではないかと思います。ちなみに、",
+      "content": "I see. Not knowing the cause must be worrying. By the way,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:40:18",
+      "origin": "休み出した3ヶ月くらい前に何か思い当たるようなことはあったのでしょうか？",
+      "content": "Was there anything that comes to mind around three months ago when he started missing school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:40:28",
+      "origin": "なので、気持ち的なものからだと私は思ってまして、本人に聞いたりしましたが、最初は上手く話せなくて、何度も話を聞いて原因はわかりました。",
+      "content": "So, I think it's something emotional. I tried asking him about it, and at first, he couldn't explain it well, but after talking with him many times, I found out the cause."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:41:19",
+      "origin": "本人曰く、担任の先生の関わり方、指導の仕方に辛さを感じているようでした。",
+      "content": "According to him, he seems to be struggling with his homeroom teacher's way of interacting with him and their teaching methods."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:42:04",
+      "origin": "なるほど、そのように教えてくれたのですね。そのことを聞いた時、どのように感じましたか？",
+      "content": "I see, so he was able to tell you that. How did you feel when you heard that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:43:47",
+      "origin": "息子は勉強がとにかく苦手なので、先生も困っているとは思いましたが、圧力的に勉強をさせたり、できる子には優しく対応したり、息子を邪魔者扱いするのは教師としては、ちょっと違うと私は思いましたね。",
+      "content": "My son really struggles with his studies, so I imagine the teacher is at a loss too, but I felt that pressuring him to study, being nice to the kids who can do it, and treating my son like a nuisance is not right for a teacher."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:44:21",
+      "origin": "やらない息子も悪いんですけどね。",
+      "content": "Though, my son is also at fault for not doing the work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:45:21",
+      "origin": "そうですよね、大切なお子さんを邪魔者扱いされたのではそのように感じるのも自然な事だと思います。",
+      "content": "I understand. It's natural to feel that way when your precious child is treated like a nuisance."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:45:49",
+      "origin": "今は息子さんはどのように過ごされていらっしゃるのですか？",
+      "content": "How is your son spending his days now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:46:58",
+      "origin": "とにかく厳しい指導なのと、できないことに対しての圧力が強いのだと思います。できない子の気持ちを理解できない先生なのだと私は思いました。そんな中でも、先生なりに、息子のペースで追試を受けさせてくれたりはしてましたので、考えてくれているんだとはおもってましたが、それも感情的にはどんな感じなのかは息子本人が先生と接しているので、一番わかっているところなのだとは思います。",
+      "content": "I think the teacher is just very strict and puts a lot of pressure on him for things he can't do. I felt the teacher doesn't understand the feelings of a child who struggles. Even so, the teacher did make some allowances, like letting my son take makeup tests at his own pace, so I thought they were being considerate in their own way. But my son is the one interacting with the teacher, so he's the one who truly knows how it feels emotionally."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:48:05",
+      "origin": "息子は、友達と会いたいから学校には行きたいのだけれど、先生が嫌だと言ってますね。",
+      "content": "My son says he wants to go to school to see his friends, but he hates the teacher."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:48:28",
+      "origin": "とにかく、先生が嫌だと一点張りですね。",
+      "content": "He's adamant that he just hates the teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:48:37",
+      "origin": "ええ、先生なりに考えてくれてはいそうだけれども、息子さんの感じ方はしんどくなっている感じなのですね。",
+      "content": "Yes, it sounds like the teacher may be trying to be considerate in their own way, but your son is still finding it very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:49:25",
+      "origin": "そうなんです。何度か会ったり、電話で話をしてますが、完璧な答えしか返って来ない先生なんです。",
+      "content": "That's right. I've met and spoken with the teacher on the phone several times, but they're the type of teacher who only gives textbook-perfect answers."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:49:29",
+      "origin": "息子さんのお話を聞いていると、親として胸が締め付けられてしまいますよね。",
+      "content": "Hearing about your son must be heartbreaking for you as a parent."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:50:22",
+      "origin": "息子のできなさは、母親である私が一番わかってますのでね。息子自身、本当に辛いと思います。可哀想ですね。",
+      "content": "As his mother, I understand his struggles better than anyone. I think it's truly hard for him. It's heartbreaking."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:51:21",
+      "origin": "お母さんから見て、担任先生ありがとうは完璧な感じなのですね。息子さんのが辛い姿を見ていると、",
+      "content": "So from your perspective, the teacher seems to respond perfectly. Seeing your son in such pain,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:51:57",
+      "origin": "お母さんも辛くなってしまいますよね。今日もここに何とかしたいとの思いで来られているので、",
+      "content": "it must be painful for you as well. You've come here today with the desire to do something about it,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:52:24",
+      "origin": "息子さんに対する深い愛情がとても伝わって来ます。",
+      "content": "and your deep love for your son really comes through."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:52:34",
+      "origin": "年度はじめに、息子の特性みたいなことを詳しく説明したにも関わらず、先生は自分のペースを崩したくない感じですね。",
+      "content": "At the start of the school year, I explained my son's characteristics in detail, but the teacher seems unwilling to adjust their own pace."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:53:47",
+      "origin": "その子その子の実態もあり、成長のペースも違いますからね。前担任は、本当によく理解し、よく指導してくれていました。",
+      "content": "Each child has their own situation and pace of development. His previous homeroom teacher was very understanding and guided him very well."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:54:23",
+      "origin": "勉強の教え方もわかりやすいし、その先生のことが本当に信頼できていたみたいです。",
+      "content": "Their way of teaching was easy to understand, and it seems my son really trusted that teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:54:41",
+      "origin": "そのような機会もあったのですね。そのように感じると、1人1人に向き合ってくれない感じがするのではないかと思います。",
+      "content": "So you've had that experience before. It must feel like the current teacher isn't engaging with each student individually."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:54:58",
+      "origin": "前の担任とはとても相性が良かったのですね。",
+      "content": "It sounds like he got along very well with his previous teacher."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:55:15",
+      "origin": "そうですね。女子だけ可愛がる。勉強できない子には怖い先生って感じですね。",
+      "content": "That's right. This teacher fawns over just the girls. They seem to be a scary teacher to kids who don't do well in their studies."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:55:40",
+      "origin": "前の担任の先生は、本当に良かったですね。",
+      "content": "The previous teacher was really great."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:56:31",
+      "origin": "怖い先生だと感じているのですね。そのように感じると、学校に行きたくないと思うのも自然かもしれませんね。",
+      "content": "So he feels the teacher is scary. If that's the case, it might be natural for him to not want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:56:56",
+      "origin": "一旦ここでお話整理してもよろしいでしょうか？",
+      "content": "Would it be all right if I take a moment to summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:57:03",
+      "origin": "もちろん、前の担任の先生も怒る時は怒っていたみたいです。息子は怒られたことはないそうですけれど、本当に悪いことをした時には怒られていた子が居たそうです。それも、勉強ができないとかではなく、人としてしてはいけないことをした時に怒っていたと息子が言ってました。",
+      "content": "Of course, the previous homeroom teacher would get angry when necessary, it seems. My son says he was never scolded, but some children were when they did something truly wrong. And my son said the teacher got angry not because they were bad at studying, but when they did something they shouldn't do as a person."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T10:57:37",
+      "origin": "はい、整理をよろしくお願いします。",
+      "content": "Yes, please go ahead and summarize."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:58:03",
+      "origin": "前の担任の先生は怒るポイントがわかりやすかったという感じなのですかね？",
+      "content": "So it felt like the previous teacher's reasons for getting angry were clear and understandable?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T10:58:14",
+      "origin": "ありがとうございます。少しお待ちください。",
+      "content": "Thank you. Please give me a moment."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:00:00",
+      "origin": "前の担任の先生は、勉強ができないからと言って怒ったりしない。勉強ができないことでダメ人間扱いされるのが息子はおかしいという価値観なんだと思います。そして、人としていかないことをするのは、人としていけないことだという価値観なんだと思います。",
+      "content": "The previous homeroom teacher didn't get angry just because a child wasn't good at studying. I think my son's value is that it's wrong to treat someone as a failure because they're not good at academics. And his other value is that doing something unacceptable as a person is what's truly wrong."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:02:43",
+      "origin": "息子さんの不登校のことでご相談に来てくださいました。病院に行って検査もしたりしたが、何も出ず、息子さんと話をする中で担任先生との関係だということがわかった。前の担任の先生のことは息子さんもお母さんも良かったと思っていらっしゃるだけに、今の担任の先生との関係に不信感のようなものがある。しかし、",
+      "content": "You came to consult about your son's school refusal. You took him to the hospital for tests, but nothing was found, and through talking with your son, you realized it's related to his relationship with his homeroom teacher. Since both you and your son thought highly of the previous teacher, it adds to the sense of distrust you have towards the current one. However,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:03:50",
+      "origin": "お友達のことは好きだから学校に行きたいけど、先生が嫌で学校に行けない息子さんを見ていて心配でご相談に来て下さったということでお間違いないでしょうか？",
+      "content": "You are worried seeing your son who wants to go to school because he likes his friends, but can't because he dislikes the teacher. You came here for a consultation because of that worry. Is this an accurate summary?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:04:10",
+      "origin": "はい、その通りです。",
+      "content": "Yes, that's correct."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:04:47",
+      "origin": "学校に行きたいのに行けないのが可哀想です。",
+      "content": "It's heartbreaking that he wants to go to school but can't."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:05:26",
+      "origin": "そうですよね、見ているお母さんもしんどくなってしまいますよね。",
+      "content": "I understand. It must be very difficult for you to watch."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:05:50",
+      "origin": "ちなみにご家族構成はどのような感じでしょうか？",
+      "content": "By the way, could you tell me about your family composition?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:06:00",
+      "origin": "そうですね。無理やり行かせるわけにもいかないので。",
+      "content": "Yes. I can't exactly force him to go."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:06:24",
+      "origin": "家族構成は、姉と兄がいます。五人家族ですね。",
+      "content": "As for our family, he has an older sister and an older brother. We're a family of five."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:06:52",
+      "origin": "姉が高三、兄が中三ですね。",
+      "content": "His sister is a third-year in high school, and his brother is a third-year in junior high."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:07:51",
+      "origin": "教えていただきありがとうございます。他のご家族の方はどのようにおっしゃっているのでしょうか？",
+      "content": "Thank you for sharing that. What do the other members of your family say about this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:10:41",
+      "origin": "夫は、私にお任せですね。まだ自分の出番ではないと思っているのと、自分には息子が何でも話をしてこないと思ってますね。実際に、お父さんには気持ちを隠したりしてますね。姉と兄には、私が話をしたら、『そういう先生いるよね、いたことあるよ、勉強できないのは事実でけど、最低だけど、もう少しお前もやらないとね』って兄は言ってますね。",
+      "content": "My husband leaves it all to me. He thinks it's not his turn to step in yet, and he also thinks our son doesn't talk to him about everything. And it's true, my son does hide his feelings from his father. As for his sister and brother, when I told them, his brother said, 'Yeah, there are teachers like that, I've had them. It's a fact you're not good at studying, and the teacher's awful, but you need to try a little harder too.'"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:11:43",
+      "origin": "先生が最低だけど、自分も少しは頑張らないとってアドバイスでしたね。",
+      "content": "So the advice was, \"The teacher may be terrible, but you still need to try at least a little yourself.\""
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:12:53",
+      "origin": "頑張れる状況であれば、私もそう思いますけど、まだ頑張れる感じではないので、せめても、宿題のドリルとかは一緒にやるようにはしてます。提出締め切るとかがありますのでね。",
+      "content": "If he were in a situation where he could try harder, I would agree, but he doesn't seem to be there yet. So, at the very least, I try to do his homework drills with him, since there are submission deadlines."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:13:35",
+      "origin": "そうなのですね。息子さんはお母さんを一番信頼されていて、何でも話せて安心できる関係なのですね。今まで3ヶ月間、お母さんと息子さんでお話をされてきたのではないでしょうか。",
+      "content": "I see. It sounds like your son trusts you the most, and you have a relationship where he feels safe to talk about anything. You and your son have been talking things through for these past three months, haven't you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:14:24",
+      "origin": "提出期限など守らないといけないものもあるけど、とても息子さんの気持ち、ペースを大切にされていて",
+      "content": "While there are things like deadlines that have to be met, you are very much prioritizing your son's feelings and his pace."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:15:22",
+      "origin": "その愛情がとても深いものだと私は感じました。親だからと言っても誰でもできるものではありません。",
+      "content": "I feel that your love for him is very deep. Not every parent can do what you're doing, just because they are a parent."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:15:29",
+      "origin": "そうですね。なので、辛いなら休むのもありだと思って休ませてたりしました。そうしたら、本当は学校に行きたい、と言ったり、家に居ても退屈になってきたと言ってましたね。私は、少し安心しましたね。外の世界と繋がりたい気持ちがある子なんだと確信できたのでね。",
+      "content": "That's right. So, I thought it was okay for him to take a break if he was struggling, and I let him stay home. After a while, he started saying he actually wants to go to school, or that he was getting bored at home. I was a little relieved. It confirmed for me that he is a child who wants to connect with the outside world."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:16:42",
+      "origin": "外との繋がり持ちたい気持ちを感じられて安心したのですね。息子さんに、",
+      "content": "You felt relieved to see he has that desire to connect with the outside. For your son,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:16:55",
+      "origin": "どのように成長していって欲しいですか？",
+      "content": "how would you like to see him grow?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:16:59",
+      "origin": "休んでいる時に、色々と話もできましたのでね。私が学校に行かないと、と圧力かけたりしなかったのもあったなかも知れませんね。自分の気持ちを話してくらましたね。",
+      "content": "We were able to talk about a lot of things while he was taking a break. It might be because I didn't pressure him by saying, 'You have to go to school.' He opened up about his feelings."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:18:30",
+      "origin": "息子には、勉強ができなくてもコミュニケーションを大切にして人として成長して欲しいので、学校に行けることが一番だと思っています。勉強はできなくても、それなりにやるようになったら、それなりになるのでね。",
+      "content": "I want my son to grow as a person by valuing communication, even if he's not good at studying. So, I think being able to go to school is the most important thing. Even if he can't study well, if he starts to put in a reasonable effort, things will work out reasonably well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:18:49",
+      "origin": "学校に行って繋がりを持って欲しい気持ちがある中で、学校に行かないとと言わずにいた事、しんどかったのではないでしょうか。",
+      "content": "While you wanted him to go to school and have those connections, it must have been difficult for you not to say, 'You have to go to school.'"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:19:02",
+      "origin": "勉強は、自分がやらないといけないと気付いたらやるようになりますからね。",
+      "content": "With studying, once he realizes he needs to do it himself, he'll start doing it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:19:20",
+      "origin": "そのように成長していって欲しいと思っていらっしゃるのですね！",
+      "content": "So that's how you hope he will grow!"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:19:32",
+      "origin": "そうですね。無理やり行かせても意味がないので、急がば回れですよね。",
+      "content": "That's right. There's no point in forcing him to go; it's a case of 'more haste, less speed.'"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:20:32",
+      "origin": "大切なのは、心の成長ですからね。勉強ではないですね。学校は、勉強の学びを通して、人との学びを学んでますからね。",
+      "content": "What's important is his emotional growth, not his studies. School is a place where you learn about interacting with people through the process of academic learning."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:21:00",
+      "origin": "無理やりやらせるようなことはしなくても、本人の気持ちを大切に、必要になったら自分でやるようになる。まさに急がしば回れですね。",
+      "content": "Without forcing him, you value his feelings and believe he'll do it himself when it becomes necessary. That's a perfect example of 'more haste, less speed.'"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:21:40",
+      "origin": "学校が本当に嫌ならば、一休みもありだと私は思ってました。ただ、本人は学校は本当は行くものだし、俺は行きたいんだって力説してました。",
+      "content": "I thought that if he truly hated school, taking a break was an option. But he insisted that school is something you're supposed to go to, and that he wants to go."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:22:40",
+      "origin": "本人の本音が聞けて私は良かったです。",
+      "content": "I'm glad I was able to hear his true feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:23:13",
+      "origin": "息子さんも自分中に葛藤があるのはとてもしんどい事だと思います。そして、子どもの辛い姿を見るのは親として辛いことです。",
+      "content": "It must be very difficult for your son to have that internal conflict. And as a parent, it's painful to see your child suffering."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:23:42",
+      "origin": "お母さんの息子さんを思う気持ちがあったからこそ本音を聞けたのですね。",
+      "content": "You were able to hear his true feelings precisely because of your love and concern for him."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:24:13",
+      "origin": "息子の気持ちを大切に、学校に行けるようになってもらえたらと願ってますね。",
+      "content": "I hope that by respecting his feelings, he'll eventually be able to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:25:53",
+      "origin": "そうですね。先が見えないと不安になってしまいますが、お母さんのおっしゃっていたように急がば回れでゴールに辿り着くはずです。",
+      "content": "I agree. It can be unsettling when you can't see the path ahead, but as you said, you should be able to reach your goal by taking the 'more haste, less speed' approach."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:26:38",
+      "origin": "そうですね。大切にするものさえブレなければゴールに辿り着けるとは思ってます。",
+      "content": "Yes. I believe we can reach the goal as long as we don't lose sight of what's important."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:26:41",
+      "origin": "今は息子さんを休ませて、気持ちを大切にしていくことで、学校に行けるようになるかもしれませんね。",
+      "content": "For now, by letting your son rest and prioritizing his feelings, he may become able to go to school again."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:26:58",
+      "origin": "そうだと良いのですが。",
+      "content": "I hope so."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:28:05",
+      "origin": "はい、息子さんを大切に思う気持ちと、本音を聞くことができたお母さんならゴールに向かっていけると思います。ただその途中で、",
+      "content": "Yes, I believe a mother who cares so deeply for her son and was able to hear his true feelings can move towards that goal. However, along the way,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:28:47",
+      "origin": "ブレそうになったり、心配になったりしたらまたいつでもここにお話に来てみるのはいかがでしょうか？",
+      "content": "if you ever feel like you're wavering or become worried, how about coming here to talk again anytime?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:30:00",
+      "origin": "ありがとうございます。そうですね。心配な気持ちを誰かに聴いていただけたら気持ちが楽になりますので、是非よろしくお願いします。",
+      "content": "Thank you. Yes. Having someone listen to my worries makes me feel relieved, so I would definitely appreciate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:31:12",
+      "origin": "はい、ぜひまたお越しください。そして、息子さんのことを大切に思うくらいご自身のことも大切に、そして休息を取ってくださいね。",
+      "content": "Yes, please do come again. And just as you care for your son, please also take care of yourself and get some rest."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:32:03",
+      "origin": "私に対する労いのお言葉もいただき、ありがとうございます。",
+      "content": "Thank you for your kind words of concern for me as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:32:37",
+      "origin": "こちらこそ大切なお話を聞かせていただきありがとうございます。それでは今日はここで一旦終了メッセージを送らせていただいてもよろしいでしょうか？",
+      "content": "Not at all, thank you for sharing your important story with me. Now, would it be all right if I send the closing message for today's session?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:33:08",
+      "origin": "こちらこそ、ありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:33:26",
+      "origin": "本日はご相談いただきありがとうございました。またのお越しをお待ちしております。",
+      "content": "Thank you for your consultation today. We look forward to seeing you again."
+    },
+    {
+      "role": "client",
+      "time": "2024-01-20T11:33:42",
+      "origin": "ありがとございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-20T11:34:46",
+      "origin": "（本日はありがとうございました。後ほど評価の方よろしくお願いいたします。よろしければ扱って欲しかった部分等教えていただけると嬉しいです。）",
+      "content": "(Thank you for today. Please provide your evaluation later. If you could, I'd appreciate it if you could also let me know about any areas you wished we had covered.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "息子の不登校と担任教師の関係問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 6287,
+    "evaluation_created_at": "2024-01-20T22:32:00",
+    "client_id": 448,
+    "counselor_id": 385,
+    "score": 93,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

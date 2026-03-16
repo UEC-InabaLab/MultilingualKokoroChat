@@ -1,0 +1,933 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-03T12:51:32",
+      "origin": "こんにちは。よろしくお願いいたします。お時間になりましたら始めさせていただきます。",
+      "content": "Hello. It's nice to meet you. We will begin when it is time."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T12:52:26",
+      "origin": "こんにちは。承知致しました。よろしくお願い致します。",
+      "content": "Hello. Understood. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:00:05",
+      "origin": "こんにちは。相談員です。今日はどのようなご相談でしょうか？",
+      "content": "Hello. I’m the counselor. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:00:42",
+      "origin": "こんにちは。人と上手く関われないんです。",
+      "content": "Hello. I have trouble connecting with people."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:00:59",
+      "origin": "どうしたら上手く関われるんでしょうか？",
+      "content": "How can I connect with people better?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:01:05",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:01:29",
+      "origin": "はじめにお年と性別を教えてもらえますか？",
+      "content": "First, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:01:44",
+      "origin": "20歳、女です",
+      "content": "I'm 20 years old, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:01:52",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:02:33",
+      "origin": "ちなみにどんな時に人とうまく関われないかんじがしますか？",
+      "content": "By the way, in what situations do you feel you can’t connect well with others?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:02:52",
+      "origin": "常にです。",
+      "content": "All the time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:03:17",
+      "origin": "そうなのですね。それはしんどいですよね。",
+      "content": "I see. That must be tough."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:03:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:03:34",
+      "origin": "今は学生さんでいらっしゃいますか？",
+      "content": "Are you a student now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:05:34",
+      "origin": "いえ、働いています、",
+      "content": "No, I'm working."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:06:30",
+      "origin": "そうなのですね。ちなみにどんなお仕事をなさっているのですか？",
+      "content": "I see. By the way, what kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:07:03",
+      "origin": "医療事務です。",
+      "content": "I work in medical administration."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:07:42",
+      "origin": "それは今、時期的に大変ですよね。",
+      "content": "Given the times, that must be especially challenging."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:07:53",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:08:50",
+      "origin": "お仕事中で、人と関わるときどんなことが困っていますか？",
+      "content": "At work, what kinds of things are difficult when interacting with people?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:09:34",
+      "origin": "緊張してしまって、上手く言葉が出なかったりします。",
+      "content": "I get nervous and have trouble finding the right words."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:10:17",
+      "origin": "それは辛いお気持ちですよね。",
+      "content": "That must be a very painful feeling."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:10:35",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:10:57",
+      "origin": "例えば話やすい人などでも、緊張を感じますか？",
+      "content": "For example, do you feel nervous even with people who are easy to talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:11:53",
+      "origin": "緊張はそうでもないかもしれません。でもやはり上手くは喋れません。",
+      "content": "I might not be that nervous. But I still can't speak well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:12:36",
+      "origin": "話したくても言葉がでないと、話すのも怖くなってしまいますよね。",
+      "content": "When you want to talk but the words don't come out, it can make you afraid of speaking, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:12:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:13:51",
+      "origin": "ちなみに友人の話すときはどうでしょうか？",
+      "content": "By the way, how is it when you talk with friends?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:14:32",
+      "origin": "友達と言えるような人は、いないです…。",
+      "content": "I don’t really have anyone I could call a friend…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:14:48",
+      "origin": "友人と、でした↑",
+      "content": "I meant, with friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:15:48",
+      "origin": "そうなのですね。ご家族とお話するときはいかがでしょうか？",
+      "content": "I see. How is it when you talk with your family?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:17:05",
+      "origin": "普通ですが、母としかほぼ話しません。",
+      "content": "It's normal, but I mostly just talk to my mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:17:52",
+      "origin": "お母さまとは、どんなお話をなさいますか？",
+      "content": "What kinds of things do you talk about with your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:18:09",
+      "origin": "取り止めもない話です。",
+      "content": "Just casual, aimless conversation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:18:52",
+      "origin": "そうなのですね。ご家族は他にはいらっしゃいますか？",
+      "content": "I see. Do you have any other family members?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:19:32",
+      "origin": "父と兄がいますが、兄は県外に出ています。",
+      "content": "I have a father and an older brother, but my brother lives in another prefecture."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:20:51",
+      "origin": "そうでしたか。お父さまとは、あまりお話しないかんじですか？",
+      "content": "I see. So you don't talk much with your father?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:21:04",
+      "origin": "はい、そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:22:04",
+      "origin": "それはいつごろから話していないかんじですか？",
+      "content": "Since when have you not been talking much?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:22:43",
+      "origin": "昔からあまり話しません。父も無口な人なんで。",
+      "content": "We haven't talked much, ever since I was little. He’s a quiet person."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:23:09",
+      "origin": "小さいころからそうだったのですね。",
+      "content": "So it's been like that since you were little."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:23:39",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:24:21",
+      "origin": "特に家族の中で、話せないことでこまっていることはありませんか？",
+      "content": "Does your difficulty with speaking cause any particular problems within your family?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:24:51",
+      "origin": "無いです。",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:25:39",
+      "origin": "そうだったのですね。ちなみに、中学校のときは、どんな時に困っていましたか？",
+      "content": "I see. By the way, what kind of difficulties did you have in middle school?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:26:06",
+      "origin": "友達がいませんでした。",
+      "content": "I didn't have any friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:26:57",
+      "origin": "そうだったのですね。それは寂しかったですよね。",
+      "content": "I see. That must have felt lonely."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:27:28",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:27:52",
+      "origin": "ちなみに、部活などは入っていましたか？",
+      "content": "By the way, were you in any clubs or activities?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:28:10",
+      "origin": "入ってなかったです。",
+      "content": "No, I wasn't."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:28:41",
+      "origin": "人と上手く関わるにはどうしたらいいんでしょうか？",
+      "content": "What should I do to connect with people better?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:29:12",
+      "origin": "とても大切なお話ですよね。",
+      "content": "That's a very important question, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:29:20",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:29:30",
+      "origin": "一緒に考えていければと思います。",
+      "content": "I’d like for us to think about it together."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:29:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:30:31",
+      "origin": "今まで誰かと話すとき、例えば笑われた、などなにかきっかけはありましたか？",
+      "content": "Has there ever been a trigger, like being laughed at when you were talking to someone?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:31:35",
+      "origin": "ないです。もうずっと保育園に行くのも嫌でグズってました。",
+      "content": "No. I've always disliked even going to preschool and would fuss about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:32:27",
+      "origin": "それは辛かったですよね。保育園に行くのはどんなことが嫌でしたか？",
+      "content": "That must have been tough. What did you dislike about going to preschool?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:33:10",
+      "origin": "よく分からないです。とにかくそういう場に行くのが嫌でした。",
+      "content": "I’m not really sure. I just disliked going to those kinds of places."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:34:09",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:34:53",
+      "origin": "今は職場に行って、帰ってからどんなことをしていますか？",
+      "content": "These days, what do you do after you get home from work?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:36:01",
+      "origin": "特にこれといったものは…。ご飯食べてテレビ見たり、とかですね。",
+      "content": "Nothing in particular… I eat, watch TV, things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:36:46",
+      "origin": "そうなのですね。今はどんなことをするのが好きですか？",
+      "content": "I see. What kinds of things do you enjoy doing now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:37:51",
+      "origin": "漫画読んだりアニメ見たりするのが好きです。絵も少し描きます。",
+      "content": "I like reading manga and watching anime. I also draw a little."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:38:39",
+      "origin": "アニメ、どんなものがお好きなんですか？",
+      "content": "What kind of anime do you like?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:39:43",
+      "origin": "大体全般すきですかね。でも作画が綺麗なのがすきですね。",
+      "content": "I like most kinds, I suppose. But I prefer ones with beautiful animation."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:40:13",
+      "origin": "絵がキレイなのは見ていても癒されますよね。",
+      "content": "Beautiful art is soothing to watch, isn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:40:40",
+      "origin": "はい、すごく感心して見入ってしまいます。",
+      "content": "Yes, I get really absorbed and find myself admiring it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:41:07",
+      "origin": "そうですよね。何度も見てしまいますよね。",
+      "content": "That's right. You end up watching it over and over again, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:41:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:41:47",
+      "origin": "アニメがお好きで絵も描かれるとのことでしたが、どんなものを描かれるのですか？",
+      "content": "You mentioned you like anime and also draw—what do you draw?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:42:22",
+      "origin": "人物画です。",
+      "content": "Portraits of people."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:42:39",
+      "origin": "それはすごいですね。",
+      "content": "That's impressive."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:44:11",
+      "origin": "そのアニメのお話など、誰かとしてみるのはいかがでしょうか？",
+      "content": "How about trying to talk about anime with someone?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:45:28",
+      "origin": "え、それ大丈夫かな？ていうか完全に興味ないと思う。あまりその話をみんなとしたくないです…。",
+      "content": "Uh, would that be okay? I mean, I think they would be completely uninterested. I don't really want to talk about it with people..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:46:12",
+      "origin": "そうでしたか。あまり話したくなかったのですね。",
+      "content": "I see. You didn't really want to talk about it."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:46:23",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:46:53",
+      "origin": "例えば、職場などで挨拶などは出来ていますか？",
+      "content": "For example, are you able to greet people at work?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:47:30",
+      "origin": "はい、どうにかは。でも暗いと言われます。",
+      "content": "Yes, somehow. But I’m told I seem gloomy."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:47:54",
+      "origin": "それは、せっかく挨拶したのに悲しくなりますよね。",
+      "content": "That must feel discouraging when you've made the effort to greet them."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:48:34",
+      "origin": "いえ、でも本当にそうなんで。ちゃんと出来てないなと思います。",
+      "content": "No, but it's true. I feel I'm not doing it properly."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:48:55",
+      "origin": "そなのですね。どの辺が出来ていないと感じますか？",
+      "content": "I see. What part of it do you feel you're not doing well?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:49:31",
+      "origin": "そうなのですね。でした↑",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:49:32",
+      "origin": "声のトーンとか表情とかですかね。",
+      "content": "I guess it's my tone of voice and facial expression."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:50:12",
+      "origin": "それなら、そこを変えていけばいいのだと思います。",
+      "content": "In that case, I think we can work on changing those things."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:51:12",
+      "origin": "挨拶するときは、ほんの少し明るい声で、気持ち口角を挙げると明るい雰囲気が出せると思います。",
+      "content": "When you greet someone, I think you can create a brighter atmosphere by using a slightly more cheerful voice and lifting the corners of your mouth just a bit."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:51:56",
+      "origin": "はい。でも注意されてやってるんですけどなかなか…。それで人と上手く関われるんですか？",
+      "content": "Yes. I've been told that before and have been trying, but it's difficult... Will that really help me connect better with people?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:52:27",
+      "origin": "はい、挨拶はコミュニケーションの第一歩だと思います。",
+      "content": "Yes, I believe greetings are the first step in communication."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:53:25",
+      "origin": "はい…ではやってみます…。",
+      "content": "Okay… I’ll give it a try…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:53:28",
+      "origin": "はじめは挨拶から、プラス慣れてきたら、「今日はいいお天気ですね」など一言添えるだけで、印象も変わると思います。",
+      "content": "Start with greetings, and once you get used to it, adding a short comment like, \"It’s nice weather today,\" can also change the impression you make."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:54:00",
+      "origin": "ちょっと難しそうでしょうか？",
+      "content": "Does that feel a bit difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:54:35",
+      "origin": "わかりません。とにかく自身が無さすぎて…。",
+      "content": "I'm not sure. I just lack so much confidence..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:54:51",
+      "origin": "そうだったのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:55:08",
+      "origin": "どう思われるかとにかく怖いです。",
+      "content": "I'm just so scared of what people will think of me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:55:51",
+      "origin": "そう思ってしまうと余計に怖くなってしまいますよね。",
+      "content": "Thinking that way can make it feel even scarier, can’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:56:01",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:56:31",
+      "origin": "挨拶するのも、怖いかんじでしょうか？",
+      "content": "Does even greeting people feel scary?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:56:54",
+      "origin": "情けないですが、勇気がいります。",
+      "content": "It’s embarrassing to say, but it takes courage."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:57:24",
+      "origin": "そうだったのですね。怖いと勇気がいりますよね。",
+      "content": "I see. It does take courage when you're scared."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:57:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:57:55",
+      "origin": "でもあなたは変わりたいと思って、相談に来てくれたのですよね。",
+      "content": "But you came here for counseling because you want to change, right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T13:58:47",
+      "origin": "いつも変わりたかったですが、どうしたら良いか分からなかったです。",
+      "content": "I've always wanted to change, but I didn't know how."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:58:55",
+      "origin": "そのことはとてもすごいことだと思います。",
+      "content": "I think that in itself is really admirable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T13:59:49",
+      "origin": "自分で自分を変えたいと、相談して行動できているのはすごいことだとおもいます。",
+      "content": "I think it's amazing that you want to change yourself and have taken the action to seek counseling."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:00:46",
+      "origin": "そうなんでしょうか…。",
+      "content": "Do you really think so...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:02:03",
+      "origin": "ええ、そう思います。まずは挨拶で毎日繰り返すことで、少しずつあなたの印象も変わってくると思います。",
+      "content": "Yes, I do. First, by repeating the greetings every day, I believe people's impression of you will gradually change."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:02:45",
+      "origin": "周りの印象が変わっても、私は変わらないような気もするんですが。",
+      "content": "Even if their impression of me changes, I feel like I myself won't change."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:03:14",
+      "origin": "結局怖かったり緊張したりするのは一緒なのかなと…。",
+      "content": "In the end, I think I'll still be just as scared and nervous..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:03:52",
+      "origin": "そうなのですね。練習してみてもあまり変わらないかもしれないと思うのですね。",
+      "content": "I see. You feel that even if you practice, it might not change much."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:04:45",
+      "origin": "わかりません。",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:05:33",
+      "origin": "挨拶をするだけでも、周りの印象が変われば話すチャンスも増えてくるとは思います。",
+      "content": "Just by greeting people, if their impression of you changes, I think you'll have more opportunities to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:05:56",
+      "origin": "それより、話すこと自体が怖いと感じますか？",
+      "content": "Or rather, do you feel that the act of talking itself is scary?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:06:09",
+      "origin": "そうです。",
+      "content": "Yes, that's it."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:06:38",
+      "origin": "緊張して上手く話せないんです。",
+      "content": "I get nervous and can’t speak well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:06:48",
+      "origin": "失敗したり、否定されるのは怖く感じますよね。",
+      "content": "It feels scary to make a mistake or be rejected, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:07:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:08:01",
+      "origin": "話すときどもってしまったり、言葉がつかえるかんじでしょうか？",
+      "content": "When you speak, do you find yourself stuttering or getting tongue-tied?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:08:22",
+      "origin": "言葉自体が浮かびにくいです…。",
+      "content": "It’s hard for the words themselves to come to mind…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:08:48",
+      "origin": "何を話していいかわからない、感じですか？",
+      "content": "Is it a feeling of not knowing what to say?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:08:55",
+      "origin": "そうです。",
+      "content": "Yes, that's it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:09:13",
+      "origin": "会話が止まってしまうのも怖いですか？",
+      "content": "Are you also afraid of the conversation stalling?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:09:24",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:09:52",
+      "origin": "そうですよね。怖いと思うと話せなくなってしまいますよね。",
+      "content": "I understand. When you feel scared, it can become difficult to speak, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:10:09",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:10:38",
+      "origin": "さっきの挨拶の話は、挨拶することによって、相手とのいい関係を少しづつ作っていけるのですね。",
+      "content": "Regarding what we discussed about greetings earlier, by greeting others, you can gradually build a good relationship with them."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:11:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:11:51",
+      "origin": "急に話が上手になったり、ということではなく、相手とのコミュニケーションを作っていくことにもなります。",
+      "content": "It's not about suddenly becoming a great conversationalist, but about building communication with the other person."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:12:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:12:39",
+      "origin": "少しづつ練習することにより、相手との距離感が近くなれば、",
+      "content": "By practicing little by little, as you get closer to them,"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:12:53",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:13:28",
+      "origin": "相手も話しやすくなったり、こころを開きやすくなったりしてくるんですね。",
+      "content": "the other person may also find it easier to talk to you and to open up."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:13:44",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:14:27",
+      "origin": "明日からできますので、よかったら試してみてくださいね。",
+      "content": "You can start tomorrow, so please give it a try if you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:14:40",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:15:11",
+      "origin": "きっと少しづつ相手との距離感が近くなり、少しづつ色々なことが話せるようになると思います。",
+      "content": "I'm sure that little by little, you'll feel closer to them and be able to talk about various things."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:15:26",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:15:40",
+      "origin": "ほんの少しの勇気と、口角をあげて頑張っ見てくださいね。",
+      "content": "Please try your best with a little bit of courage and a small smile."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:15:54",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:16:39",
+      "origin": "他に困っていることはありませんか？",
+      "content": "Is there anything else you’re struggling with?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:16:47",
+      "origin": "大丈夫です。",
+      "content": "I'm fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:17:10",
+      "origin": "それではご相談はここまででよろしいでしょうか？",
+      "content": "Then, shall we conclude our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:17:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:17:51",
+      "origin": "明日からぜひチャレンジしてみてくださいね。ありがとうございました。",
+      "content": "Please do give it a try starting tomorrow. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:18:00",
+      "origin": "ありがとうございました。失礼します。",
+      "content": "Thank you very much. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:18:29",
+      "origin": "はい、失礼いたします。本日はご相談に来てくださり、ありがとうございました。",
+      "content": "Yes, goodbye. Thank you for coming in for counseling today."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:18:56",
+      "origin": "それでは終了させていただきます。",
+      "content": "We will now end the session."
+    },
+    {
+      "role": "client",
+      "time": "2021-03-03T14:19:05",
+      "origin": "（お疲れ様でした。ありがとうございました）",
+      "content": "(Thank you for your time. Thank you very much.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:19:19",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-03T14:19:29",
+      "origin": "お疲れさまでした。",
+      "content": "Thank you for your time."
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "人とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1407,
+    "evaluation_created_at": "2021-03-03T15:08:00",
+    "client_id": 115,
+    "counselor_id": 17,
+    "score": 43,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

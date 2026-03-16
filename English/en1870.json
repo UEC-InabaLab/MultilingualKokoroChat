@@ -1,0 +1,621 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-16T12:51:32",
+      "origin": "こんにちは。本日はよろしくお願いいたします。",
+      "content": "Hello. Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T12:51:53",
+      "origin": "こんにちはよろしくお願い致します",
+      "content": "Hello, thank you for seeing me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T12:52:29",
+      "origin": "お時間になりましたら始めてまいりますので、少々お待ちください。",
+      "content": "We'll begin when it's time, so please wait just a moment."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:00:13",
+      "origin": "お時間となりましたので始めていきますが、よろしいでしょうか？",
+      "content": "It's time now, so shall we begin?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:00:41",
+      "origin": "はい、よろしくお願い致します",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:01:32",
+      "origin": "ありがとうございます。相談員です。本日はご相談にお越しいただきありがとうございます。はじめに年齢、性別、また差し支えなければ、ご相談者様をどうお呼びしたらよろしいでしょうか？",
+      "content": "Thank you. I'm the counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age and gender, and also, if you don't mind, how I should address you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:02:13",
+      "origin": "こんにちは今日は、よろしくお願い致します。35歳、女性、あいです。",
+      "content": "Hello, thank you for meeting with me today. I'm 35, female, and my name is Ai."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:02:42",
+      "origin": "あいさんですね。ありがとうございます。では本日はどういったご相談でしょうか？",
+      "content": "Ai, I see. Thank you. So, what would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:04:08",
+      "origin": "自分で物事を決められないのを治したいんです。決断するときに、周りの人はどう思うかなぁとか気になって、決めることが出来ません。どうしたら、よいでしょう。",
+      "content": "I want to fix my inability to make decisions for myself. When I have to make a decision, I worry about what other people will think, and I can't make up my mind. What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:05:48",
+      "origin": "そうなんですね。周りの人が気になりだすと、決断できなくなるんですね。",
+      "content": "I see. So when you start to worry about what others think, you find yourself unable to make a decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:06:51",
+      "origin": "ちなみに、たとえばそれはどういった時に感じるのでしょうか？",
+      "content": "Could you tell me, for example, in what kind of situations you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:07:17",
+      "origin": "そうなんです。普段、何かを決める時はいつもです。こうかな？違うかな？どう思われるかな？など、考えると何が何だかわからなくなってきて。決めることができません。",
+      "content": "Yes, that's right. It's always like that when I have to decide something. I wonder, 'Is this right? Or is it wrong? What will people think?' and as I think about it, I get completely confused. I just can't make a decision."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:08:28",
+      "origin": "自分の気持ちもわからなくなってきました",
+      "content": "I've even started to lose touch with my own feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:08:43",
+      "origin": "そうなんですね。日常生活が大変になりますよね。。",
+      "content": "I understand. That must make daily life very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:09:28",
+      "origin": "はい。ずっと考えてる状態で。早く決める事がてきないから、色々物事が進むのも遅いですし。",
+      "content": "Yes. I'm constantly overthinking, and because I can't decide quickly, it slows down my progress on many things."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:10:02",
+      "origin": "ええ。聴いています。",
+      "content": "Yes. I'm listening."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:10:05",
+      "origin": "自分の気持ちで決める事ができる人が羨ましいです",
+      "content": "I envy people who can make decisions based on their own feelings."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:11:50",
+      "origin": "そうなんですね。そう感じてしまうんですね。。ちなみに、「物事が進むのが遅い」と感じるのは、どういったときですか？",
+      "content": "I see, so that's how you feel... By the way, when do you feel that 'progress is slow'?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:13:39",
+      "origin": "例えば、習い事をしようかなと思っても、家族はどういうだろうとか、友達はどう思うかなぁとか考えると、先に進みません。",
+      "content": "For example, even if I think about taking up a new hobby, I start wondering what my family would say or what my friends would think, and I can't move forward."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:15:16",
+      "origin": "なるほど。そうなんですね。そういう時は、どう思われるとご自身で推測されるんですか？",
+      "content": "I see. In those moments, what do you imagine they might think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:16:22",
+      "origin": "習い事なんて、お金がもったいないとか、何の為にやるのかとか、向いてないとか。です。",
+      "content": "Things like, 'A hobby is a waste of money,' or 'What's the point of doing that?' or 'You're not suited for it.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:17:13",
+      "origin": "そうなんですね。そう思われるかもって思ってしまうんですね。",
+      "content": "I see. You find yourself thinking they might see it that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:17:36",
+      "origin": "はい色々考えてしまいます",
+      "content": "Yes, I overthink everything."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:18:08",
+      "origin": "自分の考えがあっているかもわからないし",
+      "content": "And I don't even know if my own thoughts are correct."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:18:25",
+      "origin": "なるほど。。そう思って、決断や行動ができなくなるんですね。",
+      "content": "I see... And thinking that way prevents you from making decisions or taking action."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:19:09",
+      "origin": "はい全然決まりません。結局他の人の意見通りにしたり。",
+      "content": "Yes, I can't decide at all. In the end, I just go along with other people's opinions."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:19:19",
+      "origin": "でも、後悔が残ります",
+      "content": "But then I'm left with regrets."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:20:39",
+      "origin": "うんうん。そうですよね。ちなみに後悔というのは、どういった後悔でしょうか？",
+      "content": "Mhm, I understand. What kind of regrets are they, specifically?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:21:38",
+      "origin": "私がやりたかったようにした方が良い結果になっていたかもしれない。もしくは、やってみたかったとかです。",
+      "content": "That things might have turned out better if I had done what I wanted to do. Or just that I wish I had tried it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:23:44",
+      "origin": "うんうん。そうですよね。そこまで感じていらっしゃるんですね。では、次回は自分のやりたいようにやってみよう、って思いますか？",
+      "content": "Mhm, I see. So you feel it that strongly. Does that make you think, 'Next time, I'll try to do what I want'?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:25:32",
+      "origin": "出来れば、やってみたいんです！でも、考えてしまいます。考え過ぎて、自分のやりたいことは何なのかもわからなくなってしまうんです。出来るようになりますかね？",
+      "content": "If I could, I'd love to try! But I just start overthinking it. I think so much that I don't even know what I want to do anymore. Do you think I'll be able to change?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:28:31",
+      "origin": "そうなんですね。やってみたいんですね。では、出来るようになるように、ご一緒に考えていきたいと思います。",
+      "content": "I see. You do want to try. In that case, let's think together about how you can become able to do that."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:29:24",
+      "origin": "ありがとうございます！",
+      "content": "Thank you!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:29:35",
+      "origin": "ちなみに、こういった周りの人のことが気になりだしたのは、何かキッカケがありましたか？",
+      "content": "By the way, was there any specific event that triggered you to start worrying about what others think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:30:52",
+      "origin": "キッカケですか。何かあったのかもしれませんが、いま思い当たることはありません。結構前からこうだったように思います。",
+      "content": "A trigger? Maybe something happened, but I can't recall anything specific right now. I feel like I've been this way for quite a while."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:31:11",
+      "origin": "親の意見が大きかったかもしれません",
+      "content": "Maybe my parents' opinions had a big influence."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:32:07",
+      "origin": "なるほど。それはお父様でしたか？それともお母さまでしたか？",
+      "content": "I see. Was it your father or your mother?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:32:27",
+      "origin": "2人ともです。",
+      "content": "Both of them."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:32:51",
+      "origin": "強制的な言い方はしないのですが",
+      "content": "They wouldn't say things in a forceful way, but..."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:33:09",
+      "origin": "良い顔しなかったりするので、",
+      "content": "they wouldn't look pleased,"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:33:24",
+      "origin": "私の選んだのは、間違いだったのかなぁとか",
+      "content": "so I'd wonder if my choice was a mistake."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:33:42",
+      "origin": "はっきり言ってくれた方が、まだ良かったかも。",
+      "content": "It might have been better if they had just told me directly."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:34:18",
+      "origin": "他人がどう考えてるか、気にするようになったのかもしれません",
+      "content": "That's probably why I started caring about what others think."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:34:38",
+      "origin": "そうだったんですね。言い方よりも、顔の表情などで。。たとえば、ご両親とのことで言うと、どういったことが思い出されますか？",
+      "content": "I see. So it was more their facial expressions than their words... For example, what specific memories come to mind when you think about your parents?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:36:38",
+      "origin": "進路を、迷っていたときですかね。私は大学に行きたい気持ちもありましたが、両親が美容師だったので、同じ道を歩むのもいいかなぁと思って。喜んでくれるかなって思って美容学校に行ったんですが、そんなに喜んでいたようではなく。喜んでいたかもしれませんけど、わからず。",
+      "content": "Maybe when I was deciding on my future path. I had some desire to go to university, but since my parents were hairdressers, I thought it might be nice to follow the same path. I thought it would make them happy, so I went to beauty school, but they didn't seem that pleased. Maybe they were, but I couldn't tell."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:37:02",
+      "origin": "このときも、本当は自分は何がしたかったのか、わかりません",
+      "content": "Even then, I didn't really know what I truly wanted to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:37:58",
+      "origin": "そうだったんですね。親に喜んで欲しい気持ちってありますよね。。",
+      "content": "I see. It's natural to want to make your parents happy."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:38:24",
+      "origin": "はい。喜んで欲しかったです。",
+      "content": "Yes. I wanted them to be happy."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:40:09",
+      "origin": "うんうん。そうですよね。進路については決める時に、ご両親とはお話合いをされたのでしょうか？",
+      "content": "Mhm, I see. When you were deciding on your path, did you discuss it with your parents?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:41:30",
+      "origin": "話しました。自分の思うようにしたらいいと言われました。基本的に、放任主義というか、自分の好きなようにしたらいいと言われます。",
+      "content": "I did. They told me to do as I pleased. Basically, they have a hands-off approach, or rather, they always tell me to do whatever I like."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:42:33",
+      "origin": "そうだったんですね。それを聞いて、あいさんはどう思われたのでしょうか？",
+      "content": "I see. How did you feel when you heard that, Ai?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:43:30",
+      "origin": "何かアドバイスが欲しいなと思っていました。答えがわからないというか。ほっておかれているようにも感じました。",
+      "content": "I was hoping for some advice. It was like I didn't know the answer. I also felt a bit neglected."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:44:14",
+      "origin": "うんうん。そうですよね。少しさみしいですよね。。",
+      "content": "Mhm, I can see that. That must have felt a little lonely."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:44:51",
+      "origin": "そうですね。さみしかったです",
+      "content": "Yes. It was lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:45:46",
+      "origin": "そうですよね。アドバイスが欲しい、っておっしゃったことはあるんですか？",
+      "content": "I understand. Have you ever told them that you wanted advice?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:46:15",
+      "origin": "言ったような気もしますが、あまり覚えていません。。",
+      "content": "I feel like I might have, but I don't remember clearly."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:48:09",
+      "origin": "そうなんですね。。もしかしたらですが、ご両親は口下手なのかもしれません。うまく思っていることが言えないと言いますか。。",
+      "content": "I see... It's possible that your parents might not be very good at expressing themselves. Perhaps they can't say what they're truly thinking very well."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:48:43",
+      "origin": "そうかもしれません。",
+      "content": "That might be true."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:49:00",
+      "origin": "両親も、私を思うと言えなかったのかもしれません",
+      "content": "Maybe they couldn't say anything out of concern for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:49:48",
+      "origin": "なるほど。そうかもしれませんね。",
+      "content": "I see. That could be the case."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:50:48",
+      "origin": "でも、言ってくれないから余計に何考えているのか、考えてしまうというか。何が正解か",
+      "content": "But because they wouldn't say it, I ended up thinking even more about what they were thinking—wondering what the right answer was."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:52:05",
+      "origin": "うんうん。そうなんですよね。言って欲しいですよね。さみしいですよね。ご両親としては、これが正解だと思うよ、と。",
+      "content": "Mhm. I understand. You wanted them to tell you. It feels lonely. You wanted your parents to say, 'I think this is the right answer.'"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:52:23",
+      "origin": "はい、言って欲しかったです",
+      "content": "Yes, I wanted them to say that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:54:21",
+      "origin": "そうですよね。ちなみに、あいさんの思う正解ってどういったものですか？",
+      "content": "I understand. By the way, what does the 'right answer' mean to you, Ai?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:56:09",
+      "origin": "今になって思うのは、自分のやりたいようにやるってことかなと思います。親がどう思うかというより、どう思われても、自分がやりたいことが正解かと。",
+      "content": "Thinking about it now, I guess it's about doing what I want to do. Rather than what my parents think, the right answer is what I want to do, regardless of what anyone thinks."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T13:57:32",
+      "origin": "そうなんですね。ではその正解である「親がどう思うかというより、どう思われても、自分がやりたいこと」はこれからできそうですか？",
+      "content": "I see. Then do you think you will be able to follow that 'right answer'—to do what you want regardless of what your parents or others think—from now on?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T13:58:41",
+      "origin": "わかってはいるんですけどね。。どうしたらいいのか。人のことは気にしなければいいのですかね？",
+      "content": "I understand it in theory... but I don't know what to do. Should I just try not to care about what others think?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:01:03",
+      "origin": "そうですよね。。ここまであいさんのお話を伺っていて、結構ハードルが高いのかもって思いました。正解がある、って思う必要はないのかも、とも思いましたが、いかがですか？",
+      "content": "I understand... Listening to you, I feel that might be quite a high hurdle. I was also thinking that perhaps you don't need to believe there is a 'right answer.' What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:02:07",
+      "origin": "正解はないのだから、自分のやりたいようにやるというように、考えるということでしょうか？",
+      "content": "Do you mean I should think of it as, 'There is no right answer, so I should just do what I want'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:02:31",
+      "origin": "正解も不正解もないし、成功も失敗もない。あるのは経験だけなんです。",
+      "content": "There is no right or wrong, no success or failure. There is only experience."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:02:52",
+      "origin": "経験ですね",
+      "content": "Experience..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:04:04",
+      "origin": "その経験に、「正解だ」とか、「失敗だ」とかの意味づけや解釈をすると、行動できなくなるのかなと思いました。",
+      "content": "I think when we start labeling those experiences as 'right' or 'a failure,' it makes it harder to take action."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:04:30",
+      "origin": "なるほど、そう考えると良いのですね",
+      "content": "I see, so that's a better way to think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:05:54",
+      "origin": "そうなんです。心理学の世界ではこういう言葉があります。「人生に残るのは、行動だけ。」つまり、行動したことも、しなかったことも自分に返ってきます。",
+      "content": "That's right. In the world of psychology, there's a saying: 'The only thing that remains in life is action.' This means that both the actions you take and the ones you don't take come back to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:08:40",
+      "origin": "少しずつやっていかれるのが良いと思います。例えば、ランチのメニューから始めてみてください。みんなが、ヘルシーサラダを食べていても、自分がかつ丼をたべたかったら、かつ丼を食べてみる、とかです。",
+      "content": "I think it's best to start small. For example, you could start with the lunch menu. Even if everyone else is having a healthy salad, if you want to eat a katsudon, try ordering the katsudon."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:09:01",
+      "origin": "はい、それだったら出来そうです",
+      "content": "Yes, I think I could do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:09:11",
+      "origin": "どんな小さいことでも良いんです。",
+      "content": "Anything, no matter how small, is fine."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:09:33",
+      "origin": "やってみます！",
+      "content": "I'll give it a try!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:09:41",
+      "origin": "あいさんが抵抗なくできることから、楽しんでやってみてくださいね。",
+      "content": "Please start with things you can do without resistance, and try to enjoy it."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:09:59",
+      "origin": "はい。ありがとうございます。",
+      "content": "Yes. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:10:35",
+      "origin": "そろそろお時間になりますが、本日はご相談されていかがでしたか？",
+      "content": "Our time is almost up. How do you feel after our session today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:11:46",
+      "origin": "原因が、何だったか思いだすことができました。成功とかではなく経験が大切ということもわかりました。ありがとうございました",
+      "content": "I was able to remember what the cause might have been. I also understood that experience is important, not success or failure. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:12:40",
+      "origin": "そうでしたか。それは良かったです。あいさんなら、ご自身のやりたいことをやれるようになる日が必ず来ると思います。心から応援しております！",
+      "content": "I'm glad to hear that. Ai, I believe the day will surely come when you can do what you want to do. I'm cheering you on wholeheartedly!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:12:54",
+      "origin": "またお話ししたくなったら、いつでもいらしてくださいね。",
+      "content": "If you'd like to talk again, please feel free to come anytime."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:13:20",
+      "origin": "はい。ありがとうございます。やってみます。",
+      "content": "Yes. Thank you. I'll try."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:13:42",
+      "origin": "こちらこそ大切なお話をありがとうございました。では、本日のご相談はここで終了してよろしいでしょうか？",
+      "content": "Thank you as well for sharing your important story. Shall we conclude today's session here?"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:13:52",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:14:12",
+      "origin": "ありがとうございました。それでは、今日はこれで終了させていただきます。",
+      "content": "Thank you very much. We will end here for today."
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:14:25",
+      "origin": "はい。ありがとうございました",
+      "content": "Yes. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:14:40",
+      "origin": "(お疲れ様でした。ありがとうございました。）",
+      "content": "(Thank you for your time. Thank you very much.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:14:58",
+      "origin": "（お疲れ様でした。こちらこそ、ありがとうございました。）",
+      "content": "(Thank you for your time. Thank you as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:15:13",
+      "origin": "（大変勉強になりました。ありがとうございました。）",
+      "content": "(This was a great learning experience. Thank you very much.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:15:34",
+      "origin": "（私も、大変勉強になりました。）",
+      "content": "(It was a great learning experience for me, too.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:15:46",
+      "origin": "（お時間がオーバーして申し訳ございません。また機会がありましたらよろしくお願いいたします。）",
+      "content": "(I apologize for going over time. I hope we have another opportunity to do this again.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:16:06",
+      "origin": "（いえいえ、また機会がありましたら、よろしくお願い致します。）",
+      "content": "(Not at all. I would welcome another opportunity as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-16T14:16:13",
+      "origin": "（ありがとうございました。 では失礼いたします。）",
+      "content": "(Thank you. Goodbye.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-16T14:16:21",
+      "origin": "（失礼致します）",
+      "content": "(Goodbye.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己決定ができないことによるストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 1870,
+    "evaluation_created_at": "2021-05-17T14:43:00",
+    "client_id": 164,
+    "counselor_id": 130,
+    "score": 91,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

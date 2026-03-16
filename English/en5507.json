@@ -1,0 +1,621 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-22T20:51:38",
+      "origin": "（本日はよろしくお願いいたします。　時間になりましたら、始めさせて　いただきます。）",
+      "content": "(Thank you for coming today. We will begin now that it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T20:52:19",
+      "origin": "こんばんは。よろしくお願いします。",
+      "content": "Good evening. Thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:00:15",
+      "origin": "ご相談にお越しいただきありがとうございます。まず初めに、・ご年齢と性別・今日ご相談したいことについて教えていただけますか。",
+      "content": "Thank you for coming in for a consultation. First, could you please tell me your age and gender, and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:01:11",
+      "origin": "はい。年齢38歳。男です。相談したいことは、仕事のことです。",
+      "content": "Yes. I’m 38 years old, male. I'd like to talk about my work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:01:52",
+      "origin": "ありがとうございます。お仕事について、ですね。もう少し詳しく教えていただけますか。",
+      "content": "Thank you. So it’s about your work. Could you tell me a bit more?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:02:04",
+      "origin": "はい。仕事というか、職場のことなのですが。",
+      "content": "Yes. Well, it's more about my workplace than the work itself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:02:50",
+      "origin": "はい職場ですね。本日ご相談者様のことを何とお呼びしたらいいでしょうか。",
+      "content": "I see, your workplace. How should I address you today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:03:46",
+      "origin": "NATUでよいです。",
+      "content": "You can call me NATU."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:04:08",
+      "origin": "で、そこで一緒に働いている人と、どう関わっていこうかと思っていまして。",
+      "content": "And I’m wondering how I should interact with someone I work with there."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:04:52",
+      "origin": "NATUさんですね。職場の方との関係性ですね。その対象はお一人ですか？",
+      "content": "NATU, understood. It’s about your relationship with someone at work. Is it one person in particular?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:05:10",
+      "origin": "はい。そうです。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:05:37",
+      "origin": "女性なんですけどね。",
+      "content": "It's a woman, by the way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:06:21",
+      "origin": "異性になるのですね。NATUさんの上司にあたるのか、部下的な方か同僚なのかはどうでしょうか。",
+      "content": "So, someone of the opposite gender. Is she your superior, a subordinate, or a colleague?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:06:24",
+      "origin": "なんというか・・・報連相が出来てないというか・・・勝手に動きがちな人なのです。",
+      "content": "How should I put it... she doesn't really report, contact, or consult... she tends to act on her own."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:06:50",
+      "origin": "関係的には同僚になります。",
+      "content": "She's a colleague."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:07:49",
+      "origin": "そうなんですね。同僚の女性の方で報連相がうまく機能できていない…勝手に動かれて、NATUさんは困っている、という感じでしょうか。",
+      "content": "I see. So, a female colleague who doesn't report, contact, or consult effectively... she acts on her own, and that's causing problems for you. Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:08:41",
+      "origin": "そうですね。私含め、他の人もという感じです。",
+      "content": "Yes, that's right. And it's not just me; others are affected too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:09:20",
+      "origin": "なるほど、NATUさん以外の職場の方もお困りなんですね。改善したいですよね…",
+      "content": "I see, so your other coworkers are also troubled by this. You'd like to see it improve, I imagine..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:09:50",
+      "origin": "何か今までの中で注意というか、改善しようと試みたことはあるのでしょうか。",
+      "content": "Have you tried bringing it up or taking steps to improve the situation so far?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:11:17",
+      "origin": "確認したりとかはあったんですけどね。それ、ちゃんと上司に言ってますか？とか。",
+      "content": "I’ve checked in with her, like asking, “Are you properly informing the supervisor about that?”"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:11:48",
+      "origin": "いきなり動かれると困るというようなことは。",
+      "content": "And I’ve told her that it causes problems when she acts suddenly without coordination."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:12:41",
+      "origin": "ただ、結局は変わらずですね。",
+      "content": "But in the end, nothing has changed."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:13:01",
+      "origin": "ええ、NATUさんから声をかけて報連相を促してみた、のですね。その時のその方の反応はいかがでしたか。",
+      "content": "I see, so you reached out and tried to encourage reporting, communication, and consultation. How did she respond at that time?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:14:30",
+      "origin": "「いきなり動かれて困る」ことについては、相手に困っていることは伝わっているのでしょうか。",
+      "content": "When you said you were troubled by her acting suddenly, do you think she understood that it was causing problems?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:14:48",
+      "origin": "実際は報告してないのに「してる」と言ってみたり、「ちゃんとする」と言いながら、改善は見られないですね。",
+      "content": "She'll say, \"I did report it\" when she actually hasn't, or she'll say, \"I'll do it properly,\" but there's no visible improvement."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:15:24",
+      "origin": "伝わっているとは思うのですが。",
+      "content": "I think she understands, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:15:38",
+      "origin": "そうですか…それはかなり、、、NATUさん含めみなさんストレスかと思います。",
+      "content": "I see... That must be very stressful for everyone, including you, NATU."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:16:01",
+      "origin": "はい。なかなかなものです。",
+      "content": "Yes. It’s quite something."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:16:43",
+      "origin": "ある種、みんな諦めてる感じはあります。",
+      "content": "In a way, it feels like everyone has kind of given up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:17:11",
+      "origin": "なるほど、あきらめの雰囲気ですね。同僚という立場ですものね。言いやすい関係ではあるかもですが。女性ですし、同性の仲の良い方などはその方にはいらっしゃるのでしょうか。",
+      "content": "I see, an atmosphere of resignation. You're colleagues, after all. It might be an easy relationship to speak up in... She is a woman; does she have any close female friends at work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:18:21",
+      "origin": "仲のいい人・・・どうでしょうか。私の知る限りではあまり職場で見かけたことはないですね。",
+      "content": "Close friends... I'm not sure. As far as I know, I haven't really seen her with anyone like that at work."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:19:09",
+      "origin": "結婚していて、旦那さんもいて友達もいるっていうのは、聞いたことありますが。",
+      "content": "I've heard that she's married, has a husband, and has friends outside of work."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:20:01",
+      "origin": "職場ではみんな接してはいますけど、ちょっと引いてる感じがしています。",
+      "content": "At work, everyone interacts with her, but I feel like they're keeping a bit of a distance."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:20:18",
+      "origin": "個人的な見方ですが。",
+      "content": "That's just my personal take, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:20:49",
+      "origin": "そうですか…ご家庭持ちのかたですね。どう関わっていけば良いかということでしたが、「どうしていきたいか」について、NATUさんはどうお考えでしょうか。",
+      "content": "I see... so she has a family. You mentioned you were wondering how to deal with her, but what are your thoughts on what you'd *like* to do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:21:21",
+      "origin": "ええ、みなさん周りの雰囲気が良くないなーと感じていらっしゃるのですね。",
+      "content": "Right, so you feel that the general atmosphere among everyone is not very good."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:23:10",
+      "origin": "事を荒らげたくはないので、そういう感じには持って行きたくないのですが、",
+      "content": "I don't want to stir things up, so I'd rather not take it in that direction,"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:23:13",
+      "origin": "かといって、野放しにしておくと、自分を含めて周りもダメージが負うのでそれは避けたいところですかね。",
+      "content": "but on the other hand, if we just let her be, it will negatively affect me and everyone else, so I want to avoid that."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:24:39",
+      "origin": "あとは簡単な仕事をお願いして、ちょっと荷が重いものはこっちでやるかとかですかね。",
+      "content": "Another idea is to ask her to do simple tasks, and we would handle the more demanding ones."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:26:26",
+      "origin": "事を荒げる、それは仕事上避けておきたいですよね。負荷がかかると、勝手に動いているとお考えなのでしょうか。",
+      "content": "Stirring things up is something you want to avoid at work, of course. Do you think she acts on her own when the workload becomes heavy?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:26:37",
+      "origin": "やはり、もう少し仕事上でコミュニケーションが取りやすくなるといいとお考えかなと感じましたが、いかがでしょうか。",
+      "content": "I get the sense you’d like it to be easier to communicate with her about work. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:28:04",
+      "origin": "負荷がかかると、勝手に動いているとお考えなのでしょうか。とはどういうことでしょうか？もうちょっと説明していただけるとありがたいのですが。",
+      "content": "\"Do you think she acts on her own when the workload becomes heavy?\" What do you mean by that? I'd appreciate it if you could explain a bit more."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:28:46",
+      "origin": "仕事上のやり取りができればいいのはその通りだと思っています。",
+      "content": "I do agree that it would be good if we could communicate more smoothly about work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:29:09",
+      "origin": "失礼しました。ありがとうございます。荷が重い仕事ではなく、簡単な仕事を振るとおっしゃられていたので、",
+      "content": "My apologies. Thank you. You mentioned giving her simple tasks instead of demanding ones, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:29:54",
+      "origin": "荷が重いと感じる仕事内容の時に報連相ができず暴走してしまうのかなと感じましたがいかがでしょうか。",
+      "content": "I felt that perhaps she fails to communicate and goes rogue when the work feels too demanding. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:31:34",
+      "origin": "こちらも説明が足りなかったですね。すみません。なんというか、自分の力量考えずに自分の力量以上の課題を自分だけでやりたがる人なのです。",
+      "content": "My explanation was lacking as well. I'm sorry. How to put it... she's the type of person who wants to tackle challenges beyond her capabilities all by herself, without considering her own limits."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:32:11",
+      "origin": "そういうことでしたか失礼いたしました。",
+      "content": "Oh, that's what it was. My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:32:25",
+      "origin": "客観性というかちょっと持ち帰ってみんなで相談するとかしてくれればいいのですが。",
+      "content": "It would be great if she could be more objective, or bring things back to discuss with the team."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:32:56",
+      "origin": "なんかテンション上がってるようで突っ走ってしまうのです。",
+      "content": "It’s like she gets excited and just barrels ahead."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:33:28",
+      "origin": "そうですよね。せっかく、NATUさんのようなチームワークが取れる仲間との仕事、ですものね。",
+      "content": "I understand. And it's a shame, because you're working with colleagues like yourself, NATU, who are capable of teamwork."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:33:41",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:34:11",
+      "origin": "やはり、一人暴走して周りが困っているという現状を相手に理解してもらう必要がある気がします。。いかがでしょうか。",
+      "content": "I feel it might be necessary to help her understand the current situation: that her rushing ahead on her own is causing trouble for everyone. What do you think?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:35:17",
+      "origin": "きっと、簡単な仕事をふると先ほどおっしゃられていましたが、ご本人は納得されないのではないでしょうか…",
+      "content": "You mentioned earlier assigning her simple tasks, but I suspect she wouldn't be satisfied with that, would she?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:35:21",
+      "origin": "で、突っ走って、ある時点で「困った」ってなるので。言いましょうよって言うんですけどね。わかっているのかいないのか似たようなことが繰り返されるのです。",
+      "content": "She charges ahead and then at some point says she’s “in trouble.” I tell her, “You need to say something,” but whether she understands or not, the same thing keeps happening."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:36:11",
+      "origin": "本人はやりたがるので、色々手を出してきますね。",
+      "content": "She's eager to do things, so she gets her hands into a lot of different tasks."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:36:11",
+      "origin": "NATUさんはきちんとフィードバックされているのですね。",
+      "content": "It sounds like you're giving her proper feedback, NATU."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:36:56",
+      "origin": "フィードバックなのですかね。まあ、俯瞰してみてるとそんな感じですね。",
+      "content": "Is it feedback? I wonder. Well, looking at it objectively, I suppose it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:36:57",
+      "origin": "ただ改善されていかない現状は、疲れますしストレスになりますね。",
+      "content": "But the lack of improvement is tiring and stressful."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:37:15",
+      "origin": "それはそうですね。",
+      "content": "That’s true."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:37:57",
+      "origin": "ストレスというか諦めに近いですが。",
+      "content": "It's less stress and more like resignation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:38:58",
+      "origin": "ある意味、受け入れて過ごされているNATUさんが立派だと思います。",
+      "content": "In a way, I think it's admirable that you're managing to accept it and carry on, NATU."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:39:13",
+      "origin": "仕事内容の振り方は同僚であるNATUさんがされている？あと仕事の仕方というか今後の在り方など上司と面談する機会はあるのでしょうか。。。",
+      "content": "Are you, as a colleague, the one who assigns her tasks? Also, are there opportunities to have meetings with your boss about her work style or how things should be handled going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:40:26",
+      "origin": "振るのは私なことが多いのですが、言っても聞かない人なので上司と相談するしかないかなとも思っています。",
+      "content": "I'm often the one who assigns tasks, but since she doesn't listen no matter what I say, I'm thinking I might have no choice but to consult our boss."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:40:40",
+      "origin": "やはりそっちですかね？",
+      "content": "Is that the way to go, after all?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:41:37",
+      "origin": "言っても聞かない…そうですね。NATUさんのお立場でできることはすでに忍耐強くされていると感じました。",
+      "content": "She doesn’t listen even when told… I see. I feel you’ve already been doing everything you can in your position, with great patience."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:42:22",
+      "origin": "そうですね。その人を嫌っている別の同僚のフォローもあるのでなかなか大変です。",
+      "content": "That's right. It’s quite tough, because I also have to support another colleague who dislikes her."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:43:44",
+      "origin": "そうなんですね。NATUさんは周りのフォロー含め、十分にやってこられているので、上司に、愚痴ではなくチームの一員として困っていることをお伝えして一緒に考えてもらうことも良いかもしれませんね。",
+      "content": "I see. You've been doing more than enough, NATU, including supporting those around you. It might be a good idea to talk to your boss, not as a complaint, but to convey that you're having trouble as a team member and ask them to think about it with you."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:44:51",
+      "origin": "そうですね。まあ、上司もかつてその人に改善の指摘をしてその人から反発を食らってますが少なくとも私よりかはだいぶマシだと思います。",
+      "content": "You're right. Well, my boss has also pointed out things for her to improve in the past and received backlash from her, but I think it would be much better coming from them than from me."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:46:06",
+      "origin": "半分、上司の口を聞くところから始まると思いますが。",
+      "content": "I think it will start with me having to listen to my boss's complaints, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:46:29",
+      "origin": "上司の口→愚痴ですすみません。",
+      "content": "Oops, I meant 'guchi' (complaints), not 'kuchi' (mouth). Sorry."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:47:07",
+      "origin": "反発を食らう…ですか。なかなかですね。反発はできてしまう言い換えれば、下から物が言いやすい環境なのでしょうか。それとも組織として弱い面なのでしょうか…",
+      "content": "Backlash... I see. That's quite something. Does the fact she can push back mean it's an environment where it's easy to speak up to superiors? Or is it a weakness in the organization...?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:47:49",
+      "origin": "いや、ただ単にその人が独特なだけだと思います。普通あり得ないです。",
+      "content": "No, I think it's just that she's a unique individual. Normally, that would be unthinkable."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:48:22",
+      "origin": "ある種、言いやすい空気はありますが、",
+      "content": "There is a certain atmosphere that makes it easy to speak up, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:48:25",
+      "origin": "そうですか、それならまだ良かったです。上司もNATUさんへ愚痴が出る、それはNATUさんへの信頼関係、証のように感じました。",
+      "content": "I see, well that's good to hear. The fact that your boss vents to you, NATU, feels like a sign of their trust in you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:49:34",
+      "origin": "NATUさんがチーム全体を考えて、俯瞰するところは俯瞰して、なかなかできないことだと思います。",
+      "content": "The way you think about the team as a whole and look at things objectively when needed is something not many people can do."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:49:44",
+      "origin": "そうですね。そこまで理解できる人があまりいないというか、ある種、辛い思いを分かち合える少ないスタッフの一人と認識されているのだと思います。",
+      "content": "That's true. There aren't many people who can understand things to that extent, so I think I'm seen as one of the few staff members he can share his hardships with."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:50:39",
+      "origin": "俯瞰・・・そうなんですかね。あまり意識したことがなかったのでなんともよくわからないですが。",
+      "content": "Objectively... I wonder. I've never really been conscious of it, so I'm not really sure."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:50:49",
+      "origin": "そうなんですかね。",
+      "content": "I wonder if that's true."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:51:13",
+      "origin": "ただ、話をしてみて、よくやってるなとは思いました。",
+      "content": "But after talking about it, I did realize I'm doing a pretty good job."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:52:08",
+      "origin": "仕事自体もそこまで楽なものではないのに良くやってるなとは思いました。",
+      "content": "The work itself isn't that easy either, so I thought I was handling it well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:52:12",
+      "origin": "辛い思いを分かち合える大切な仲間、普段のNATUさんの仕事ぶり、態度、考え方からそのようなご関係を築けているのだと感じました。俯瞰、なかなか普通はできないです。NATUさんの強み、なのではないでしょうか。",
+      "content": "A precious colleague with whom you can share your hardships... I feel you've built that kind of relationship through your usual work performance, attitude, and way of thinking. Looking at things objectively is not something most people can do easily. Perhaps that's one of your strengths, NATU."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:52:54",
+      "origin": "そうなんですかね。これからの一つ励みになるかもしれません。",
+      "content": "Is that so? That might be a source of encouragement for me going forward."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:54:09",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:54:56",
+      "origin": "ええ、ご自身で褒めていただきたいくらいです。楽でない、お仕事。少しでも、暴走が和らいで仕事がしやすくなること取り組もうとされているその姿勢も立派ですよね。",
+      "content": "Yes, you really should praise yourself. It's not an easy job. Your attitude of trying to tackle this to even slightly mitigate her recklessness and make work easier is also admirable."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:55:23",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:55:48",
+      "origin": "一度、上司の方と愚痴言いあいながらでも、お話しされる時間があると良さそうですね。いかがでしょうか。",
+      "content": "It seems like it would be good to take some time to talk with your boss, even if it means venting to each other. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:56:44",
+      "origin": "そうですね。そんな感じになりそうですが、それも悪くはないですね。ある種、そこの結束は強くなりますし。",
+      "content": "Yes. It will probably turn out that way, but that's not so bad. In a way, it will strengthen our bond."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:57:25",
+      "origin": "そうですね。仕事上で、そのような関係性があること、強みですよね。",
+      "content": "That's right. Having that kind of relationship at work is a strength, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T21:57:48",
+      "origin": "そうですね、そう思います。",
+      "content": "Yes, I think so too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T21:59:43",
+      "origin": "そろそろお時間になってしまうのですが、今回はNATUさんの強みがたくさん出てきましたね。問題はこれからなので、毎日の中で大変かと思いますが、NATUさんならやり遂げられるのではと感じました。",
+      "content": "It's almost time for us to finish, but we've uncovered many of your strengths today, NATU. The problem is still ongoing, so I imagine your daily life is difficult, but I feel that you can get through this."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T22:00:10",
+      "origin": "お時間いただきありがとうございました。",
+      "content": "Thank you for your time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T22:00:25",
+      "origin": "もしまた話されたいことがありましたら、履歴が残りますので続きからお話いただけます。",
+      "content": "If there's anything else you'd like to talk about, the chat history will be saved, so you can continue our conversation from where we left off."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T22:00:52",
+      "origin": "また何かありましたら、その時は利用させてもらいます。",
+      "content": "If something else comes up, I'll use this service again."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T22:01:24",
+      "origin": "良い方向へ進まれることお祈りしています。こちらこそありがとうございました。終了メッセージを送らせていただきます。",
+      "content": "I hope things move in a better direction for you. Thank you as well. I will now send the closing message."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T22:01:32",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-22T22:01:40",
+      "origin": "（ありがとうございました。）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-22T22:01:47",
+      "origin": "（ありがとうございました）",
+      "content": "(Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場の同僚とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5507,
+    "evaluation_created_at": "2023-07-22T22:25:00",
+    "client_id": 382,
+    "counselor_id": 399,
+    "score": 50,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

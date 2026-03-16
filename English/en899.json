@@ -1,0 +1,969 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:00:01",
+      "origin": "こんばんは、相談員です。よろしくお願いします。",
+      "content": "Good evening, I'm the counselor. It's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:00:49",
+      "origin": "こんばんはお願いします",
+      "content": "Good evening. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:01:02",
+      "origin": "はい、お願いします。",
+      "content": "Yes, a pleasure to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:01:06",
+      "origin": "ご相談いただくにあたって、年齢、性別、また今日はなんとお呼びすればいいか、答えられる範囲で教えて頂いてもいいでしょうか？",
+      "content": "Before we begin, would you mind telling me your age, gender, and what you would like me to call you today, to the extent you're comfortable sharing?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:02:44",
+      "origin": "27歳、男性です呼び方は、こうたでお願いします。",
+      "content": "I'm 27 years old, male. Please call me Kota."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:03:01",
+      "origin": "こうたさんですね、教えて頂きありがとうございます",
+      "content": "Kota, I see. Thank you for telling me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:03:10",
+      "origin": "今日はどういったご相談でしたか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:04:02",
+      "origin": "今、付き合っている人がいるんですが、その人には彼氏がいるんです。",
+      "content": "I'm currently dating someone, but she has a boyfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:04:34",
+      "origin": "なるほど、そうなのですね…",
+      "content": "I see, so that's the situation..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:04:36",
+      "origin": "彼女の浮気相手が僕なんですけど、悪いって分かってても彼女が好きで、どうにもできません",
+      "content": "I'm the one she's cheating with. I know it's wrong, but I love her and I can't help it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:04:56",
+      "origin": "そうだったのですね、お話してくれてありがとうございます。",
+      "content": "I see. Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:05:18",
+      "origin": "「悪い」と自分で思っているからこそ、辛くなっちゃいますよね。。",
+      "content": "It's precisely because you think it's 'wrong' yourself that it becomes so painful, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:05:36",
+      "origin": "彼女が相手と別れるのを待つべきか、自分が諦めるべきか、どうしたらいいのか分からなくて夜も眠れません…",
+      "content": "I can't sleep at night because I don't know what to do—whether I should wait for her to break up with her boyfriend, or if I should give up."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:05:40",
+      "origin": "どうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:06:00",
+      "origin": "そうなんですね、夜も眠れないほど悩んでらっしゃるんですね。",
+      "content": "I see. So you're worrying about it so much that you can't even sleep at night."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:06:24",
+      "origin": "それはお辛いことと思います。どうすれば少しでもこうたさんの気持ちが軽くなるか、ぜひ一緒に考えさせてください。",
+      "content": "That must be very difficult for you. Let's think together about how we can help you feel even a little bit better."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:06:47",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:06:59",
+      "origin": "よろしくお願いします。いくつかご質問させて頂いてもいいでしょうか？",
+      "content": "Thank you. May I ask you a few questions?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:08:22",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:08:35",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:08:44",
+      "origin": "今の彼女さんとは、いつ頃からお付き合いされているのでしょうか？",
+      "content": "How long have you been dating your current girlfriend?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:09:18",
+      "origin": "付き合うとなったのはまだ2週間くらい前です",
+      "content": "We officially started dating only about two weeks ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:09:29",
+      "origin": "そうなんですね！",
+      "content": "I see!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:09:56",
+      "origin": "どういったきっかけでお付き合いされたのでしょうか",
+      "content": "What led the two of you to start dating?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:11:55",
+      "origin": "彼氏がいるのは分かっていたんですけど、それでも気になっていて、好きだって伝えたんです",
+      "content": "I knew she had a boyfriend, but I couldn't stop thinking about her, so I told her I liked her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:12:06",
+      "origin": "うん、うん",
+      "content": "Mm-hm, I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:12:55",
+      "origin": "最初はもちろんだめだったのですが、そのうち彼氏と別れるって言ってくれてるようになって、",
+      "content": "At first, of course, she said no, but eventually she started telling me that she would break up with her boyfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:13:08",
+      "origin": "なるほど、そう言ってもらえたのですね",
+      "content": "I see, so that's what she told you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:13:47",
+      "origin": "僕も別れるまでは待とうと思ったんですけど、彼女が「まだ別れてないけどでも別れるから付き合おう」って言ってくれて",
+      "content": "I thought I would wait until she broke up with him, but she said, \"I haven't broken up with him yet, but I will, so let's date.\""
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:13:58",
+      "origin": "それがきっかけです",
+      "content": "That's how it started."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:14:08",
+      "origin": "そうだったんですね。",
+      "content": "I see, so that's what happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:14:16",
+      "origin": "そう言ってもらえた時は、どんな気持ちでしたか？",
+      "content": "How did you feel when she said that to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:15:00",
+      "origin": "やっと付き合えると思いました",
+      "content": "I thought, 'We can finally be together.'"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:15:07",
+      "origin": "ずっと待っていたので",
+      "content": "I'd been waiting for so long."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:15:21",
+      "origin": "そうですよね。やっと気持ちが伝わって、実ったんですもんね",
+      "content": "I understand. Your feelings finally got through to her and came to fruition."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:15:24",
+      "origin": "うれしかったんですね",
+      "content": "You must have been very happy."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:15:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:16:00",
+      "origin": "もう一つ聞かせて頂いてもいいですか？",
+      "content": "May I ask one more thing?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:16:09",
+      "origin": "はい",
+      "content": "Sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:16:22",
+      "origin": "ありがとうございます。彼女さんは、どうして元々の彼氏さんと別れようとされていたのでしょうか？",
+      "content": "Thank you. Why did your girlfriend want to break up with her original boyfriend?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:17:02",
+      "origin": "僕と一緒にいる時は、彼氏の悪口というか、嫌なところをよく言っています",
+      "content": "When she's with me, she often speaks ill of her boyfriend, or rather, points out things she dislikes about him."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:17:12",
+      "origin": "なるほど、なるほど",
+      "content": "I see, I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:17:36",
+      "origin": "悪口を言っては、だからこうたの方が好きって言うんです",
+      "content": "She criticizes him and then says, 'That's why I like you more, Kota.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:17:49",
+      "origin": "彼女さんの辛い思いを聞いてあげていたんですね。",
+      "content": "So you were listening to her painful feelings."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:17:58",
+      "origin": "でも全然別れる気配がありません",
+      "content": "But there's no sign of her breaking up with him at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:18:06",
+      "origin": "なるほど……。。。",
+      "content": "I see..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:18:57",
+      "origin": "遊ばれてるんですかね…",
+      "content": "Do you think she's just playing with me...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:19:35",
+      "origin": "「別れるから」って言われてますものね…本気じゃないんじゃないか、って不安にもなりますよね。。",
+      "content": "She did tell you \"I'll break up with him\"... It's understandable that you'd feel anxious, wondering if she's serious."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:20:40",
+      "origin": "はい、ほんとに不安です",
+      "content": "Yes, I'm really anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:20:56",
+      "origin": "不安で辛かったんですね…。そうしたら、ここまで一旦整理させて頂いてもよろしいでしょうか？",
+      "content": "It must have been painful to feel so anxious... If you don't mind, could I summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:21:56",
+      "origin": "はい、お願いします",
+      "content": "Yes, please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:22:17",
+      "origin": "こうたさんが２週間前に付き合い始めた女性には、元々彼氏がいる。その女性は彼氏の悪口をよくこうたさんに話しては、あなたの方が好き、今の彼氏とは別れたいと伝えていた…。",
+      "content": "The woman you started dating two weeks ago already had a boyfriend. She often complained about him to you and told you she likes you more and wants to break up with her current boyfriend…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:23:03",
+      "origin": "そうしてようやく結ばれたが、彼女が一向に別れる気配がない。こうたさんは「遊ばれてるんじゃないか」と不安だし、自分は「浮気相手」だから罪悪感も感じて辛く思っていらっしゃる。",
+      "content": "You finally got together, but there's still no sign of her breaking up. You feel anxious, wondering if you're being played, and you also feel guilty because you see yourself as 'the other man,' which is painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:23:11",
+      "origin": "私の認識に、間違いはないでしょうか？",
+      "content": "Is my understanding correct?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:23:32",
+      "origin": "はい、そうですね",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:23:42",
+      "origin": "良かったです。ぜひ、一緒に考えさせてください。",
+      "content": "I'm glad. Let's think about this together."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:24:20",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:24:24",
+      "origin": "少し質問が続くかもしれません。お答えにできる範囲で、こうたさんのペースで返答して欲しいです。",
+      "content": "I might have a few more questions. Please answer them at your own pace and only what you feel comfortable with."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:25:23",
+      "origin": "分かりました",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:25:37",
+      "origin": "ありがとうございます。大丈夫です、ゆっくり考えていきましょう。",
+      "content": "Thank you. It's alright, let's take our time to think about this."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:25:45",
+      "origin": "彼女さんには、「別れると言っていたが別れておらず、自分は不安に思っている」とお話したことはありますか？",
+      "content": "Have you ever told your girlfriend that you're anxious because she said she would break up with him but hasn't?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:26:20",
+      "origin": "あります",
+      "content": "I have."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:26:26",
+      "origin": "そうなんですね！",
+      "content": "You have!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:26:35",
+      "origin": "その時のことを詳しくお伺いしてもいいですか？",
+      "content": "Could you tell me more about that conversation?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:28:00",
+      "origin": "「絶対別れるからもう少し待ってて」とだけ言われました",
+      "content": "She just said, \"I'll definitely break up with him, so just wait a little longer.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:28:14",
+      "origin": "なるほど、そう言われたんですね。",
+      "content": "I see, so that's what she told you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:28:22",
+      "origin": "もうこれ以上は催促もしにくいです",
+      "content": "It's hard for me to press her any further."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:28:58",
+      "origin": "そうなんですね。そして、それでも別れる気配がないから辛いんですよね。。",
+      "content": "I understand. And since there's still no sign of her breaking up, it's painful, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:29:20",
+      "origin": "そうなんです",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:29:54",
+      "origin": "うん、うん。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:29:59",
+      "origin": "一つずつ整理していきましょう。",
+      "content": "Let's sort this out one step at a time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:30:20",
+      "origin": "これは「もしも」の話ですが、",
+      "content": "This is a \"what if\" question, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:30:26",
+      "origin": "はい、",
+      "content": "Okay,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:30:42",
+      "origin": "もしも、今の状況が全て思い通りになるとしたら。自分が最もすっきりできる状況になるとしたら。",
+      "content": "If everything about your current situation could go exactly as you wished. If it could become the situation that would give you the most peace of mind..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:31:02",
+      "origin": "それはどんな状況か、考えるとどうでしょう。教えていただけます",
+      "content": "What would that situation look like? Could you tell me what you think?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:31:04",
+      "origin": "か？",
+      "content": "?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:32:07",
+      "origin": "それはもちろん、彼女が相手と別れて僕だけを好きでいてくれる状況です",
+      "content": "Of course, it would be that she breaks up with him and loves only me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:32:34",
+      "origin": "そうですよね。「浮気相手」になりたくてなってるんじゃないですもんね。",
+      "content": "That makes sense. It's not like you wanted to become \"the other man.\""
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:33:25",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:33:41",
+      "origin": "こうたさんは、彼女さんに辛い思いをさせたくないから、彼女を守る立場になろうとした。この認識は合っていますか？",
+      "content": "You didn't want your girlfriend to suffer, so you tried to be in a position to protect her. Is that understanding correct?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:34:17",
+      "origin": "いえ、そうは思っていません",
+      "content": "No, I don't see it that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:34:25",
+      "origin": "なるほど、そうなんですね",
+      "content": "I see, so that's not it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:34:32",
+      "origin": "どんな風に考えていらっしゃいますか？",
+      "content": "What are your thoughts on it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:35:43",
+      "origin": "浮気しているのは彼女で、どう見ても悪いのは彼女です。僕は浮気相手ですし、もちろん僕も悪くなると思います。むしろ、相手の方に申し訳ないです。",
+      "content": "She’s the one cheating, and clearly she's in the wrong. I'm the other man, so of course I’m at fault too. In fact, I feel sorry for her boyfriend."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:36:13",
+      "origin": "なるほど、そうなんですね",
+      "content": "I see, so that's how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:36:53",
+      "origin": "でも相手の方も僕のように本気で彼女のことが好きだとしたら、どっちかに決められない彼女に少し嫌な気持ちもあります",
+      "content": "But if he is as serious about her as I am, I feel a little resentful towards her for not being able to choose one of us."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:37:10",
+      "origin": "うん、うん。",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:37:18",
+      "origin": "相手の方とも、僕とも、付き合うか別れるか、はっきりして欲しい気持ちもあります",
+      "content": "I also want her to be clear about whether she's going to be with him or with me—either commit or break up."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:37:48",
+      "origin": "そうですよね。はっきりさせたくなりますよね。",
+      "content": "That makes sense. You want clarity."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:37:59",
+      "origin": "それでは…１つ伺いたいのですが",
+      "content": "In that case... there's one thing I'd like to ask."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:38:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:39:29",
+      "origin": "今の関係のままならこちらから別れる、そんな選択肢は、こうたさんの中でおありなんでしょうか？",
+      "content": "If the relationship stays as it is, is breaking up with her an option you've considered?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:40:08",
+      "origin": "何度も考えたんですけど、どうしても諦めきれません",
+      "content": "I've thought about it many times, but I just can't bring myself to give up."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:40:32",
+      "origin": "なるほど…別れる気持ちもあるにはあるが、諦めきれない、迷ってしまうんですね",
+      "content": "I see… So part of you considers ending it, but you can't let go, and you feel torn."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:40:41",
+      "origin": "それも無理はないと思います。だって、",
+      "content": "That's completely understandable. After all,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:41:04",
+      "origin": "あなたは彼女のことが好きなんですから。決めきれなくて、辛いですよね。。",
+      "content": "you love her. It must be painful not being able to make a decision."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:41:16",
+      "origin": "別れた方がいいことは分かっています。周りにもそう言われます。でも、ずっと好きだったし、どうしても期待してしまうんです",
+      "content": "I know it would be better to break up. People around me say so too. But I've loved her for so long that I can't help hoping."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:41:49",
+      "origin": "うん、うん。なるほど",
+      "content": "Mm-hm, I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:43:16",
+      "origin": "なのでどうしたらいいか分からなくなって、困っています",
+      "content": "So I don't know what to do, and I'm struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:43:57",
+      "origin": "そうなんですね。そうしたら、こうたさん自身が、こうたさんのどの気持ちを一番に優先したいのか",
+      "content": "I see. In that case, I'd like to help you sort out which of your own feelings you want to prioritize the most."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:44:05",
+      "origin": "整理してみたいのですが…どうでしょうか？",
+      "content": "I'd like to help you sort that out... how does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:44:43",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:44:51",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:45:57",
+      "origin": "こうたさんの中の、・１「期待しつつも別れてもらえないまま今の関係を続けること」と・２「よくない状態から脱却するために、別れる」この二つについてどんな気持ちを持っているか整理してみましょう",
+      "content": "Let’s sort through your feelings about these two options: 1) continuing the relationship as it is, hoping but with no breakup happening; and 2) ending it to get out of this unhealthy situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:46:13",
+      "origin": "・１について、この関係を続けるとどんないいことがあるのか、またどんな悪いことがあるのか、",
+      "content": "For option 1, what good things might come from continuing this relationship, and what are the bad things?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:46:21",
+      "origin": "考えてみるとどうでしょう",
+      "content": "What comes to mind when you think about that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:46:29",
+      "origin": "教えて頂いてもいいですか？",
+      "content": "Would you be willing to share that with me?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:47:55",
+      "origin": "良いことは、彼女と一緒にいられます。一緒にいる時は楽しいですし、彼女も本当に僕のことを好きでいてくれているように感じます。悪いことは、相手の方と別れるまで不安と不信感があることです",
+      "content": "The good thing is that I can be with her. When we're together, it's fun, and I feel like she truly likes me. The bad thing is the anxiety and distrust I'll feel until she breaks up with him."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:48:35",
+      "origin": "うんうん、そうなんですね。ありがとうございます。まだ途中ですが…こうたさんが彼女さんとの関係を大切にされたい想いがとても伝わってきます",
+      "content": "Mm-hm, I see. Thank you. We're not finished yet, but I can really feel how much you cherish your relationship with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:48:42",
+      "origin": "そうしたら次に、",
+      "content": "Okay, next,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:49:14",
+      "origin": "・２「よくない状態から脱却するために、別れる」この選択肢を取るとどんな良いことがあって、またどんな悪いことがあるのか、考えてみるとどうでしょうか？",
+      "content": "let's consider option 2: 'ending the relationship to get out of this unhealthy situation.' What good things might come from taking this option, and what bad things?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:50:25",
+      "origin": "良いことはたぶん、不安と不信感からは解放されるかと思います。悪いことは、たくさんありすぎてちょっと…別れたくないなって思ってしまいます",
+      "content": "The good thing would probably be freedom from anxiety and distrust. As for the bad things, there are so many that I just... start to think that I don't want to break up."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:50:43",
+      "origin": "なるほど、そうなんですね。ありがとうございます。",
+      "content": "I see, so that's how it is. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:50:50",
+      "origin": "それでは、少し整理してみますね。",
+      "content": "Alright, let me summarize that for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:51:38",
+      "origin": "・１良いこと：彼女と一緒にいられる。悪いこと：相手の方と別れるまで不安と不信感・２良いこと：不安と不信感からは解放される悪いこと：たくさんある。別れてしまう。",
+      "content": "Option 1—Good: you can be with her. Bad: anxiety and distrust until she breaks up with him. Option 2—Good: you're freed from the anxiety and distrust. Bad: there are many downsides, and you would have to break up."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:51:44",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:51:53",
+      "origin": "これが、今のこうたさんの葛藤を示したものです。",
+      "content": "This illustrates the conflict you're currently facing."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:52:14",
+      "origin": "この４つの「良いこと・悪いこと」をテーブルの上に並べたようにみている中で…",
+      "content": "Looking at these four 'pros and cons' as if we've laid them out on a table…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:52:29",
+      "origin": "彼女でもなく、その彼氏さんでもなく、あなた自身の気持ちとして",
+      "content": "not from her perspective or her boyfriend’s, but based on your own feelings—"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:52:51",
+      "origin": "この４つのうち、「最も大切なもの」はどれでしょうか。考えて頂いて、教えてもらっても良いですか？",
+      "content": "among these four, which is 'the most important' one to you? Could you think about it and let me know?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:53:04",
+      "origin": "一番重要だ、と感じるもの、でも構いません",
+      "content": "It can simply be the one that feels the most important."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:53:37",
+      "origin": "彼女と一緒にいられることです",
+      "content": "Being able to be with her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:53:46",
+      "origin": "なるほど、そうなんですね。ありがとうございます。",
+      "content": "I see, so that's it. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:54:03",
+      "origin": "今、この４つから選ぶ時、迷いはありましたか？",
+      "content": "When you were choosing from these four just now, did you have any hesitation?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:54:56",
+      "origin": "いえ、あまりないです",
+      "content": "No, not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:55:19",
+      "origin": "なるほど。葛藤もあるかもしれないが、決して変わらないのはそのお気持ちなんですね。",
+      "content": "I see. So while you may have some conflict, that feeling is something that remains unchanged."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:55:59",
+      "origin": "そのお気持ちが自分の中で一番優先度が高いと分かった上で、今の関係に対して、彼女さんに対して今から何かできそうだと思うことはありますか？",
+      "content": "Now that you know that feeling has the highest priority for you, is there anything you think you can do now regarding your current relationship and your girlfriend?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:57:11",
+      "origin": "好きだと伝え続けることでしょうか…いや、これだと少し違いますよね…すみません、思いつかないです…",
+      "content": "Maybe keep telling her that I love her… no, that feels a bit off… I'm sorry, I can't think of anything…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:57:25",
+      "origin": "うん、そうですよね。それもひとつだと思います。",
+      "content": "Mm-hm, right. That's one possibility, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:57:48",
+      "origin": "例えば、別れるまで「自分は恋人じゃない」とはっきり伝える、同時に「それでも一緒にいたい。」と話してみるとか…あるいは",
+      "content": "For example, you could clearly tell her, \"I'm not your boyfriend until you break up with him,\" while at the same time saying, \"But I still want to be with you.\" Or..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:58:21",
+      "origin": "恋人じゃないが一緒にいたいんだ、と思う気持ちは強いのだから、「友達」として話も聞くし、ご飯もいく。けれど、恋人としてのことはしない。",
+      "content": "Since your feeling of wanting to be with her even if you're not a couple is strong, you could act as a \"friend\"—listening to her, going out for meals. But you wouldn't do things that a couple does."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T17:58:36",
+      "origin": "なるほど…",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T17:58:40",
+      "origin": "そういったラインを自分の中に設ける。これはどう思われますか？",
+      "content": "Setting a boundary like that for yourself. What do you think about that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:00:48",
+      "origin": "自分の中で、無理なくトライできる部分…おありでしょうか？",
+      "content": "Is there any part of that you feel you could try without pushing yourself too hard?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T18:01:39",
+      "origin": "ううん、そうですね…良い方法だと思ったのですが、恋人としてのことをしないことが自分にできるかどうかが自信がないです",
+      "content": "Hmm, let's see... I think it's a good idea, but I'm not confident I can stop myself from doing couple-like things."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:02:19",
+      "origin": "なるほど、そうなのですね。そうですよね、好きな相手なわけですし…",
+      "content": "I see, so that's how it is. That's understandable, given she's someone you love..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:02:37",
+      "origin": "それでは、先ほど「これ以上催促できない」とも言われていましたが…",
+      "content": "Well then, you mentioned earlier that you \"can't press her any further,\" but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:03:32",
+      "origin": "「いつ別れるの」ではなくて、こうたさんが彼女に自分は何より一緒にいたいこと、そしてそれで辛く思っていること。すぐに別れて、とは言わないが、好きだからこそ苦しくなっている、",
+      "content": "instead of asking \"When are you going to break up with him?\", how about conveying to her that you want to be with her more than anything, and that this situation is painful for you? You wouldn't be saying \"break up with him right now,\" but that it's become difficult precisely because you love her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:03:45",
+      "origin": "そんな気持ちを改めて彼女さんに伝えるのはどうでしょうか？",
+      "content": "How about trying to convey those feelings to her again?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T18:04:46",
+      "origin": "そうですね…やっぱりちゃんと伝えなおした方が良さそうですよね",
+      "content": "You're right... it seems like it would be better to properly tell her again."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:05:17",
+      "origin": "はい、私もそう思います。きっと彼女にも葛藤がおありと思います、すぐ別れて、ではうやむやにされてしまいそうですが…",
+      "content": "Yes, I think so too. I'm sure she has her own inner conflict; if you just say 'break up now,' it may be brushed aside…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:05:35",
+      "origin": "自分自身の思いをはっきり伝えて、あなたのことが好きだから苦しいんだ、と分かってもらう。",
+      "content": "by clearly conveying your own feelings and helping her understand that \"I'm suffering because I love you\"..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:06:00",
+      "origin": "それだけでも、彼女さんがこうたさんの関係を考えるチャンスになるかもしれません",
+      "content": "That alone might give her a chance to reflect on your relationship."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T18:06:26",
+      "origin": "そうですね、ちょっと頑張って言ってみようと思います",
+      "content": "You're right. I'll try my best to tell her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:06:35",
+      "origin": "はい、私は応援しています。",
+      "content": "Yes, I'm rooting for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:06:50",
+      "origin": "そうしたら、今日はこの辺りでいったん終了したいと思いますが",
+      "content": "In that case, I'd like to wrap up for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:06:59",
+      "origin": "今日はご相談して頂いて…何かお役に立てたでしょうか？",
+      "content": "Thank you for coming in to talk today... was I able to help in any way?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T18:07:50",
+      "origin": "別れるまでは我慢し続けることしかできないかもしれないと思っていたので、できることがあったんだと思えました。",
+      "content": "I thought the only thing I could do was to keep enduring it until she breaks up with him, but now I feel that there are things I can do."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T18:08:05",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:08:24",
+      "origin": "そうだったんですね…！新しい選択肢を得られたようで、幸いです。ここには、いつでも相談に来てくださいね。",
+      "content": "I see...! I'm glad to hear you feel you've found new options. Please know you can always come back here to talk."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T18:08:42",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:08:48",
+      "origin": "こちらこそ、ありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:09:04",
+      "origin": "それでは、終了とさせて頂きます。寒くなっていますので、お身体ご自愛くださいね。",
+      "content": "Well then, we'll conclude our session here. It's getting colder, so please take good care of yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-11T18:09:37",
+      "origin": "はい、今日はありがとうございました",
+      "content": "Yes, thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-11T18:10:00",
+      "origin": "こちらこそ。それでは、失礼いたします。",
+      "content": "Thank you as well. Goodbye for now."
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "浮気相手としての葛藤と不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 899,
+    "evaluation_created_at": "2020-12-12T13:00:00",
+    "client_id": 45,
+    "counselor_id": 119,
+    "score": 68,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

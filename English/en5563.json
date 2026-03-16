@@ -1,0 +1,513 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-03T16:56:46",
+      "origin": "(こんにちは。本日は宜しくお願いいたします。時間になりましたら始めさせていただきますね。)",
+      "content": "(Hello. Thank you for coming today. We'll start when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T16:57:11",
+      "origin": "（お願いします）",
+      "content": "(Yes, please.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T16:59:11",
+      "origin": "（リクエストはありますか？）",
+      "content": "(Do you have any requests?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:00:33",
+      "origin": "(ご配慮ありがとうございます。特にありませんので、自由な設定で大丈夫です！)",
+      "content": "(Thank you for your consideration. I don't have any particular requests, so feel free to set it up as you like!)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:01:05",
+      "origin": "（はい。どうぞ始めでください）",
+      "content": "(Yes. Please go ahead and begin.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:01:18",
+      "origin": "こんにちは。本日は相談に来て頂きありがとうございます。はじめに、年齢、性別、本日の相談内容について教えてください。",
+      "content": "Hello. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:01:56",
+      "origin": "13才しんどい",
+      "content": "I'm 13. I'm struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:02:32",
+      "origin": "そうなんですね。いまどんなことがしんどいか教えてもらってもいいですか？",
+      "content": "I see. Could you tell me what feels difficult right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:03:03",
+      "origin": "学校がつらい",
+      "content": "School feels hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:03:34",
+      "origin": "そうなんですね。学校のどんなことがつらいですか？",
+      "content": "I see. What is it about school that's hard for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:03:50",
+      "origin": "よくわからないけど、しんどい",
+      "content": "I'm not really sure why, but it's hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:05:07",
+      "origin": "そうなんですね。りゆうがわからないけどしんどいのは苦しいですね。",
+      "content": "I see. It must be painful to feel this way without knowing the reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:05:16",
+      "origin": "学校ではどんなふうにすごしていますか？",
+      "content": "How do you usually spend your time at school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:05:35",
+      "origin": "なんとか普通に",
+      "content": "I somehow manage to act normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:06:02",
+      "origin": "そうなんですね。いま何年生ですか？",
+      "content": "I see. What grade are you in now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:06:31",
+      "origin": "一年",
+      "content": "First year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:06:53",
+      "origin": "中学一年生であっていますか？",
+      "content": "First year of junior high, is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:07:01",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:07:51",
+      "origin": "教えてくれてありがとうございます。学校ではお友達とすごしていますか？それとも一人ですごしていますか？",
+      "content": "Thank you for telling me. At school, do you spend time with friends, or do you spend time alone?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:08:09",
+      "origin": "いろいろ",
+      "content": "A bit of both."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:09:21",
+      "origin": "一人の時もあるし、お友達と一緒の時もあるんですね。",
+      "content": "So sometimes you're alone and other times you're with friends."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:09:27",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:09:33",
+      "origin": "お友達と一緒にいる時はどんな気持ちですか？",
+      "content": "How do you feel when you're with your friends?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:10:03",
+      "origin": "なんか違和感がある感じがします",
+      "content": "I feel like something is off."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:10:46",
+      "origin": "そうなのですね。違和感はどんな時に感じますか？",
+      "content": "I see. When do you feel that sense of things being off?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:11:22",
+      "origin": "よくわかりません",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:13:09",
+      "origin": "わかりました。違和感がある感じと教えてくれたけど、いつもと違う自分がいる感じ、疲れてしまう感じ、楽しくないのに無理して笑っている感じ、いろいろあると思うんだけど、どんな感じですか？",
+      "content": "I understand. You mentioned feeling like something is off. There are many ways to feel that, like feeling you're not your usual self, feeling tired, or forcing yourself to smile when you're not having fun. Does any of that sound like what you're experiencing?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:13:35",
+      "origin": "疲れます",
+      "content": "It's tiring."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:14:41",
+      "origin": "そうなんですね。お友達と一緒にいて疲れてしまうと、確かにしんどい気持ちになりますね。",
+      "content": "I see. It must certainly be tough when you feel tired just from being with your friends."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:14:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:15:14",
+      "origin": "一人で過ごしている時はどんな気持ちですか？",
+      "content": "How do you feel when you're spending time alone?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:15:27",
+      "origin": "1人でいてもしんどいです",
+      "content": "It's tough even when I'm alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:16:30",
+      "origin": "そうなんですね。一人でいる時のしんどさとお友達といる時のしんどさは一緒ですか？",
+      "content": "I see. Is the feeling of it being tough the same when you're alone as when you're with friends?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:16:53",
+      "origin": "少し違うけど、どちらもしんどいです",
+      "content": "It's a little different, but both are tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:17:42",
+      "origin": "ひとりでも、友達と一緒でもしんどいのは辛いですね。",
+      "content": "It must be painful to feel that way both when you're alone and when you're with friends."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:17:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:17:53",
+      "origin": "少し違うのはどんなふうに違いますか？",
+      "content": "In what way is it a little different?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:18:33",
+      "origin": "どう言ったらいいかよくわかりません",
+      "content": "I'm not sure how to put it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:20:46",
+      "origin": "そうですよね。「しんどい」という気持ちの中にも寂しい、不安、疲れる、悲しい、むなしいなどいろいろな気持ちがあるのだけど、あてはまりそうなのはありますか？",
+      "content": "That's understandable. The feeling of things being \"tough\" can include many other feelings, like loneliness, anxiety, tiredness, sadness, or emptiness. Do any of those seem to fit?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:21:14",
+      "origin": "疲れます",
+      "content": "Tiredness."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:21:58",
+      "origin": "そうなんですね。少し疲れるの意味は違うけれど、ひとりでいてもお友達と一緒にいても疲れてしまうんですね。",
+      "content": "I see. The meaning of 'tired' might be a bit different, but you end up feeling tired whether you're alone or with friends."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:22:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:22:49",
+      "origin": "そしたら毎日ずっと疲れてしまって辛いですね。",
+      "content": "Feeling tired all day, every day must be really hard."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:23:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:24:46",
+      "origin": "そんな辛い中でも今日そうだんにきてくれてありがとうございます。",
+      "content": "Thank you for coming to talk today, especially when you're going through such a hard time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:25:36",
+      "origin": "学校はしんどいと思うのだけど、おうちはどうですか？",
+      "content": "You mentioned that school is tough, but what about home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:26:24",
+      "origin": "家は少しは楽です",
+      "content": "Home is a little easier."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:27:06",
+      "origin": "そうなんですね。少しは楽にすごせる場所があって安心しました。",
+      "content": "I see. I'm relieved to hear that you have a place where you can feel a little more at ease."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:27:37",
+      "origin": "部活には入っていますか？",
+      "content": "Are you in any school clubs?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:27:48",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:28:53",
+      "origin": "そうなんですね。勉強はどうですか？",
+      "content": "I see. How about your studies?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:29:04",
+      "origin": "普通です",
+      "content": "They're okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:30:02",
+      "origin": "なるほど。勉強でしんどい気持ちになることはありますか？",
+      "content": "I see. Do you ever feel that same toughness when it comes to studying?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:30:30",
+      "origin": "勉強は大丈夫かな",
+      "content": "I think I'm okay with studying."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:32:07",
+      "origin": "そうなのですね。学校で一人でいる時は、どういう時に一人になりますか？",
+      "content": "I understand. When you're by yourself at school, in what situations do you end up being alone?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:32:29",
+      "origin": "1人になりたい時",
+      "content": "When I want to be alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:33:14",
+      "origin": "一人になりたい時に自分でそういう時間を作れているんですね。自分の気持ちに気付いて行動できているのはとても素晴らしいですね。",
+      "content": "So you're able to make that time for yourself when you want to be alone. It's wonderful that you can recognize your own feelings and act on them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:35:48",
+      "origin": "ここまでお話を聞かせてもらって、勉強やおうちではしんどいことはないけれど、学校でお友達といる時に疲れてしまって、ひとりでいる時もしんどくなってしまう、という状況であっていますか？",
+      "content": "So, from what I've heard so far, things aren't tough with your studies or at home, but at school, you get tired when you're with friends, and it's also tough when you're alone. Is that an accurate summary?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:36:15",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:37:40",
+      "origin": "お話を聞いていると、学校の人間関係でストレスを感じているのかなと思ったのですが、どうでしょうか？",
+      "content": "From what you've said, I wonder if you might be feeling stress around relationships at school. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:38:24",
+      "origin": "なんでかよくわかりません",
+      "content": "I don't really know why."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:39:05",
+      "origin": "こんな自分は変なんですか？",
+      "content": "Is there something wrong with me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:39:41",
+      "origin": "変だと思うのはどうしてでしょうか？",
+      "content": "What makes you think there might be something wrong with you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:40:17",
+      "origin": "それを聞きたいです",
+      "content": "That's what I'd like to ask."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:42:40",
+      "origin": "学校で過ごす中でしんどい気持ちを感じるけれどどうしてしんどいのか理由がわからないと感じる方も中にはいらっしゃいますよ。",
+      "content": "It's not uncommon for people to feel that things are tough at school without knowing exactly why."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:43:01",
+      "origin": "しんどい理由がわからないと不安な気持ちになりますよね。",
+      "content": "It must be unsettling not to know the reason why you feel this way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:47:55",
+      "origin": "学校で楽しいと思ったり、ほっとできる時間はどんな時ですか？",
+      "content": "Are there any times at school when you feel happy, or when you can relax?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:48:37",
+      "origin": "学校はしんどいです",
+      "content": "School is just tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:49:32",
+      "origin": "学校で良いなと思える時間はないのですね。それは一日の長い時間辛いですね。",
+      "content": "So there are no times at school that you enjoy. That must make for a long, difficult day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:51:08",
+      "origin": "今学校で一緒にいるお友達とは一緒にいたいと思いますか？それとも違う子と過ごしてもいいなと思いますか？",
+      "content": "Do you want to keep spending time with the friends you're with at school now, or do you think it might be okay to spend time with different people?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:51:50",
+      "origin": "答えるの難しいです",
+      "content": "That's a difficult question to answer."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:53:27",
+      "origin": "難しい質問をしてごめんなさい。いま辛い気持ちを誰かに相談したことはありますか？",
+      "content": "I'm sorry for asking such a difficult question. Have you ever talked to anyone about these difficult feelings?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:54:05",
+      "origin": "ありません",
+      "content": "No, I haven't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:56:41",
+      "origin": "そうなんですね。学校でのしんどい時間を過ごしているのをひとりで抱えているのは辛いのではと思って、近くに話ができる人がいるといいなと感じたのですが、相談できそうな人はいますか？",
+      "content": "I see. I imagine it must be hard to carry this burden of your difficult time at school all by yourself. I was thinking it would be good if you had someone nearby you could talk to. Is there anyone you feel you could confide in?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T17:56:56",
+      "origin": "いいえ",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T17:58:22",
+      "origin": "そうなんですね。周りに相談できる人がいない中で、勇気をもって今日相談に来てくれてありがとうございます。",
+      "content": "I understand. Thank you for having the courage to come and talk with me today, especially when you don't have anyone else to confide in."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-03T18:01:09",
+      "origin": "（終了していた代でも大丈夫です。お疲れ様でした）",
+      "content": "(It's okay to end the session now. Thank you for your hard work.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T18:01:13",
+      "origin": "相談終了のお時間になってしまいました。しんどい気持ちの原因を見つけるのはなかなかすぐにできないかもしれないけれど、よかったらまたお話に来てください。",
+      "content": "It looks like our time for today is up. It might not be possible to find the cause of these difficult feelings right away, but please feel free to come back and talk again if you'd like."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-03T18:02:08",
+      "origin": "(すみません。ありがとうございました。)",
+      "content": "(I'm sorry. Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "中学校における人間関係のストレス"
+  },
+  "review_by_client": {
+    "evaluation_id": 5563,
+    "evaluation_created_at": "2023-08-03T18:21:00",
+    "client_id": 376,
+    "counselor_id": 404,
+    "score": 24,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

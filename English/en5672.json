@@ -1,0 +1,627 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-03T12:52:11",
+      "origin": "（こんにちは。今日はよろしくお願いいたします。もし可能であれば若年層の相談者役をしていただけるとありがたいです。）",
+      "content": "(Hello. Thank you for your time today. If possible, I would be grateful if you could play the role of a younger client.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T12:53:16",
+      "origin": "（よろしくお願い致します。わかりました。ちなみに若年層というと、年代的には何歳ぐらいがよろしいですか？）",
+      "content": "(Of course. I understand. By the way, when you say \"younger,\" what age range would you prefer?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T12:55:21",
+      "origin": "（中学生か高校生ぐらいでお願いできればと思います。）",
+      "content": "(I was thinking middle school or high school age, if that's okay.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T12:56:24",
+      "origin": "（承知しました。中学生から高校生くらいの年代で考えますね。）",
+      "content": "(Understood. I'll aim for a middle or high school-aged character.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T12:56:50",
+      "origin": "（ありがとうございます。）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T12:57:13",
+      "origin": "（こちらからありがとうございます。よろしくお願い致します。）",
+      "content": "(Thank you as well. I look forward to our session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:00:12",
+      "origin": "こんにちは、相談員です。年齢、性別、相談内容を教えてくれますか？",
+      "content": "Hello, I'm a counselor. Could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:00:36",
+      "origin": "14歳　女性",
+      "content": "14, female."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:00:47",
+      "origin": "もう死にたい",
+      "content": "I just want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:02:10",
+      "origin": "とても辛い事があったんですね。よかったら少し詳しく教えてもらえますか？",
+      "content": "It sounds like something very painful happened. If you're comfortable, could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:02:33",
+      "origin": "友達が私のこと",
+      "content": "A friend of mine..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:02:45",
+      "origin": "嘘をついて",
+      "content": "...is telling lies about me..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:02:54",
+      "origin": "周りに言いふらす",
+      "content": "...and spreading them to everyone."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:02:57",
+      "origin": "つらい",
+      "content": "It's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:03:38",
+      "origin": "そうなんですね。それはとても辛いですね。",
+      "content": "I see. That must be very painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:04:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:04:18",
+      "origin": "友達というのはクラスメイトでしょうか？",
+      "content": "Is this friend a classmate?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:04:26",
+      "origin": "そう",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:05:47",
+      "origin": "その友達というのは、あまり仲の良い友達ではないんですね。",
+      "content": "So this friend isn't someone you're very close with, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:06:06",
+      "origin": "どうかな",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:06:15",
+      "origin": "でも嫌だ",
+      "content": "But I hate it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:07:26",
+      "origin": "そうですよね。どのような嘘をつかれるのでしょうか？",
+      "content": "I understand. What kind of lies are they spreading?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:07:50",
+      "origin": "いろいろある",
+      "content": "All sorts of things."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:08:08",
+      "origin": "友達、発達障害らしくて",
+      "content": "Apparently, my friend has a developmental disability,"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:08:42",
+      "origin": "生まれつきみたいらしい",
+      "content": "and it seems like they were born with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:08:52",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:09:10",
+      "origin": "でも私が追い込んで",
+      "content": "But they're saying that I pushed them to the edge,"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:09:30",
+      "origin": "精神病んだとみんなに言いふらした",
+      "content": "and told everyone that I made them mentally unwell."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:10:07",
+      "origin": "もう死にたい",
+      "content": "I just want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:11:12",
+      "origin": "そう思われているんですね。",
+      "content": "So you feel that's how people see you now."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:11:43",
+      "origin": "これってAIですか？",
+      "content": "Is this an AI?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:12:04",
+      "origin": "いえ、人間です。",
+      "content": "No, I'm human."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:12:19",
+      "origin": "わかりました",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:12:57",
+      "origin": "言いふらしている事は嘘なんですよね。",
+      "content": "What they're spreading is a lie, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:13:36",
+      "origin": "え、どういうこと？",
+      "content": "Huh? What do you mean?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:14:31",
+      "origin": "あなたが追い込んで精神が病んだということです。",
+      "content": "The part about you pushing them until they became mentally unwell."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:14:54",
+      "origin": "私信用されてないんだ",
+      "content": "So you don't believe me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:15:33",
+      "origin": "そんなことは、ないです。ただ確認をしたかっただけです。",
+      "content": "That's not it at all. I just wanted to confirm."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:15:46",
+      "origin": "だって話したのに",
+      "content": "But I already told you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:16:07",
+      "origin": "そうですね。ごめんなさいね。",
+      "content": "You're right. I'm sorry."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:17:33",
+      "origin": "発達障害の子は周りのクラスメイトとは上手くコミュニケーションがとれているんですか？",
+      "content": "Is the student with the developmental disability able to communicate well with the other classmates?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:17:56",
+      "origin": "まあまあ",
+      "content": "So-so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:18:19",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:19:12",
+      "origin": "追い込んだなんて嘘を言われるととても気づつきますよね。",
+      "content": "Being accused of 'pushing them to the edge'—when it's a lie—must be very hurtful."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:19:38",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:20:58",
+      "origin": "クラスメイトはその嘘について、どう思われているんでしょうか。",
+      "content": "What do your classmates think about these lies?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:21:17",
+      "origin": "信じてるんじゃないかな",
+      "content": "They probably believe them."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:21:29",
+      "origin": "私、責められたし",
+      "content": "I mean, they blamed me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:22:51",
+      "origin": "そうだったんですね。周りから責められたりしたんですね。それはとても辛かったと思います。",
+      "content": "I see. So others have been blaming you. That must have been very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:23:25",
+      "origin": "もう死にたい",
+      "content": "I just want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:24:08",
+      "origin": "それほど辛い気持ちになっているんですね。",
+      "content": "That's how much pain you're in."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:26:34",
+      "origin": "嘘ついた友達には、あなたからなんでそういうことを言うのかと聞いたりしたんでしょうか？",
+      "content": "Have you asked your friend why they're saying these things?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:27:00",
+      "origin": "LINEで話したけど",
+      "content": "I talked to them on LINE, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:27:22",
+      "origin": "一方的に訳の分からないこと言われて",
+      "content": "they just said a bunch of things that didn't make sense,"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:27:33",
+      "origin": "話にならなかった",
+      "content": "and we couldn't have a real conversation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:28:58",
+      "origin": "そうなんですね。話にならなかったんですね。それでは、あなたも困ってしまいますよね。",
+      "content": "I see. So you weren't able to have a proper conversation. That must be very frustrating for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:29:37",
+      "origin": "もうどこにも行くところがない",
+      "content": "I have nowhere to go anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:30:24",
+      "origin": "そう思われているんですね。",
+      "content": "So you feel like you have nowhere to go."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:31:43",
+      "origin": "相手が嘘を言ってるのであなたはなにも悪くないと思います。",
+      "content": "Since the other person is lying, I don't think you're at fault at all."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:32:41",
+      "origin": "誰も分かってくれないから",
+      "content": "Because no one understands."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:34:15",
+      "origin": "先生に話しても",
+      "content": "Even when I told the teacher,"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:34:35",
+      "origin": "発達障害だから仕方ないと言われ",
+      "content": "they just say, \"It can't be helped because she has a developmental disability,\""
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:34:48",
+      "origin": "保健室の先生にも",
+      "content": "And the school nurse, too..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:35:07",
+      "origin": "（聞いていますよ）",
+      "content": "(I'm listening.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:35:16",
+      "origin": "そう思われたあなたにも原因があるんじゃないかと",
+      "content": "she said something like, 'Maybe you're partly to blame for her feeling that way,'"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:35:44",
+      "origin": "うまくやっていこうとしか言われなかった",
+      "content": "and all she said was to try and get along."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:36:59",
+      "origin": "そうなんですね。先生も保健室の先生もあなたの事をわかってくれなかったんですね。それはとても悲しいですね。",
+      "content": "I see. So neither the teacher nor the school nurse understood your situation. That must be very disheartening."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:39:00",
+      "origin": "仲のいい友達とかには嘘だとわかってもらえていないんでしょうか？",
+      "content": "Have your close friends not been able to see that it's a lie?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:39:37",
+      "origin": "その子にも悪口言ってるから",
+      "content": "Because she's bad-mouthing me to them, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:42:01",
+      "origin": "そうだったんですね。それはひどいですよね。",
+      "content": "I see. That's awful."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:43:17",
+      "origin": "もういやだ",
+      "content": "I can't take it anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:43:17",
+      "origin": "クラスメイトはその嘘をついた友達が発達障害という事は知っているのでしょうか？",
+      "content": "Do your classmates know that the friend who lied has a developmental disability?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:43:27",
+      "origin": "知ってます",
+      "content": "They know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:44:25",
+      "origin": "それでも周りの人が嘘だとわかってくれないんですね。",
+      "content": "And even so, people around you don't realize it's a lie."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:44:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:46:21",
+      "origin": "それは本当に辛い気持ちになりますね。",
+      "content": "That must be truly painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:46:54",
+      "origin": "だからもう死にたい",
+      "content": "That's why I just want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:48:49",
+      "origin": "あなたが悪いわけではないので、私はあなたに死んでほしくないと思います。",
+      "content": "You're not the one at fault, so I don't want you to die."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:49:25",
+      "origin": "そうですか",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:51:33",
+      "origin": "はい、仲の良いお友達には相手が嘘を言っている事を伝えれば少しづつわかってもらえると思うのですが、どう思われますか？",
+      "content": "Yes. I think if you explained to your close friends that the other person is lying, they might gradually begin to understand. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:51:58",
+      "origin": "言いにくい",
+      "content": "It's hard to say."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:52:57",
+      "origin": "私付き合ってた彼がいて",
+      "content": "I had a boyfriend..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:53:13",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:53:31",
+      "origin": "その友達が彼に近づいて",
+      "content": "And that friend got close to him..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:53:41",
+      "origin": "彼が浮気して",
+      "content": "and he cheated on me,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:53:59",
+      "origin": "（はい、聞いていますよ）",
+      "content": "(Yes, I'm listening.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:54:01",
+      "origin": "私彼とは別れて",
+      "content": "so I broke up with him,"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:54:19",
+      "origin": "今は友達が彼と付き合っていて",
+      "content": "and now that friend is dating him,"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:54:45",
+      "origin": "彼に私の悪口言ってるみたい",
+      "content": "and it seems she's bad-mouthing me to him, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:56:00",
+      "origin": "そうだったんですね。そういう事をされると、頭に来ますよね。",
+      "content": "I see. Having something like that happen must be infuriating."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:56:25",
+      "origin": "だから居場所がない",
+      "content": "That's why I have no place to belong."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T13:58:55",
+      "origin": "そうなんですね。とても苦しい気持ちが伝わってきます。この話はとても大事な話だと思うので、これからも一緒に考えていきたいと思います。",
+      "content": "I understand. I can feel how much pain you're in. I think this is a very important issue, and I'd like to continue thinking about it together with you."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T13:59:05",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T14:01:00",
+      "origin": "辛い気持ちや苦しい事は、またここに相談に来て吐き出してほしいと思います。",
+      "content": "I hope you'll come back and talk here again whenever you're feeling pained or distressed, to get it all out."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T14:01:15",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T14:03:05",
+      "origin": "これからもあなたと一緒にこのことについて考えていきたいと思います。今日はこれで終わりにさせてもらってもいいでしょうか。",
+      "content": "I would like to continue thinking about this with you in the future. Would it be alright if we end our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-03T14:03:28",
+      "origin": "はい、わかりました",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-03T14:04:01",
+      "origin": "お話を聞かせていただきありがとうございました。これで終わりにさせていただきます。",
+      "content": "Thank you for sharing your story with me. We'll end here for today."
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達とのトラブル"
+  },
+  "review_by_client": {
+    "evaluation_id": 5672,
+    "evaluation_created_at": "2023-09-03T14:25:00",
+    "client_id": 211,
+    "counselor_id": 224,
+    "score": 41,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

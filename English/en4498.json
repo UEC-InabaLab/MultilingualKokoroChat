@@ -1,0 +1,447 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:00:05",
+      "origin": "こんにちは、相談員です。年齢、性別、相談内容を教えていただけますか。",
+      "content": "Hello, I'm the counselor. Could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:01:50",
+      "origin": "こんにちは17才女です",
+      "content": "Hello, I'm a 17-year-old female."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:02:42",
+      "origin": "相談内容は学校に行きたい理由がわかりません",
+      "content": "What I'd like to discuss is that I don't see a reason to want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:03:24",
+      "origin": "そうなんですね。今は高校生ですか。",
+      "content": "I see. Are you in high school now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:03:34",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:04:05",
+      "origin": "今は学校に通われているのでしょうか。",
+      "content": "Are you currently attending school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:04:31",
+      "origin": "行ってないです",
+      "content": "No, I'm not."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:05:03",
+      "origin": "いつ頃から行ってないんでしょうか。",
+      "content": "Around when did you stop going?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:05:25",
+      "origin": "小学5年くらいから",
+      "content": "Since around the fifth grade of elementary school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:06:15",
+      "origin": "そうなんですね。家では何をされているのでしょうか。",
+      "content": "I see. What do you usually do at home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:06:42",
+      "origin": "好きなことをしてます絵を描いたり",
+      "content": "I do things I like, such as drawing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:07:55",
+      "origin": "学校に行かなくなった理由は特にあるのでしょうか。",
+      "content": "Is there any particular reason you stopped going to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:08:21",
+      "origin": "あまり友達もいなくて、楽しくなくなりました",
+      "content": "I didn't have many friends, and it stopped being enjoyable."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:08:49",
+      "origin": "学校に行った方が良い理由ってなんですか？",
+      "content": "What's the reason I should go to school?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:11:03",
+      "origin": "それは、大人になって社会生活が難しくなく行えるようになることだと思いますよ。",
+      "content": "I believe it's so that you can navigate life in society more easily as an adult."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:12:39",
+      "origin": "楽しくなくても行った方がいいんでしょうか？",
+      "content": "Should I go even if it's not fun?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:14:41",
+      "origin": "無理には行かなくても、いいと思うけど、将来自分がどうなりたいかが重要なんだと思いますよ。",
+      "content": "I don't think you have to force yourself to go, but I believe what's important is what you want for yourself in the future."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:15:11",
+      "origin": "夢とかはないんです。",
+      "content": "I don't have any dreams or anything."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:15:22",
+      "origin": "なりたいものも",
+      "content": "Nor anything I want to become."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:15:26",
+      "origin": "な",
+      "content": "..."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:15:32",
+      "origin": "ないんです",
+      "content": "I just don't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:16:40",
+      "origin": "そうなんですね。今一番楽しいと思う事は絵を書いてる時なんでしょうか。",
+      "content": "I see. Is drawing the thing you enjoy most right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:18:01",
+      "origin": "空想の世界を絵に描いてます",
+      "content": "I draw imaginary worlds."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:19:06",
+      "origin": "どういった空想の世界か、もしよければ教えていただけますか。",
+      "content": "If you don't mind, could you tell me what kind of imaginary worlds they are?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:20:06",
+      "origin": "メルヘンだけど可愛いだけじゃなくカッコ良さもある絵が描きたくて",
+      "content": "I want to draw pictures that are like fairy tales, but aren't just cute—they have a coolness to them as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:20:30",
+      "origin": "基本は自分が生きたい世界",
+      "content": "Basically, it's the world I want to live in."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:21:49",
+      "origin": "そうなんですね。自分が生きたい世界というのは、どんな感じなのでしょうか。",
+      "content": "I see. What's the world you want to live in like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:22:26",
+      "origin": "たくさん話さなくてもいい世界",
+      "content": "A world where I don't have to talk much."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:23:34",
+      "origin": "あとは働かない世界",
+      "content": "And a world where I don't have to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:23:53",
+      "origin": "マンガを書いたりするのも好きなんですかね。",
+      "content": "I wonder, do you also like to draw manga?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:24:13",
+      "origin": "マンガは描いたことないです",
+      "content": "I've never drawn manga."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:25:40",
+      "origin": "なにか、この先不安に思っていることとかは、あったりしますか。",
+      "content": "Is there anything you feel anxious about regarding the future?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:26:17",
+      "origin": "不安は特にありましん",
+      "content": "I don't have any particular anxieties."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:27:40",
+      "origin": "毎日規則正しい生活は送っているのでしょうか。",
+      "content": "Do you have a regular daily routine?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:28:23",
+      "origin": "ごはんや睡眠は普通にしてます",
+      "content": "My eating and sleeping habits are normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:29:42",
+      "origin": "そうなんですね。ご家族は、学校に行かない事について何か言っていますか。",
+      "content": "I see. Does your family say anything about you not going to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:30:35",
+      "origin": "前は言ってたりしましたが、今はないです",
+      "content": "They used to, but not anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:32:06",
+      "origin": "高校は卒業したいと思っていますか。",
+      "content": "Do you want to graduate from high school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:32:53",
+      "origin": "一応、社会生活に必要だとは思ってますが",
+      "content": "Well, I suppose I think it's necessary to function in society, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:34:11",
+      "origin": "高校は通信制とかでしょうか。",
+      "content": "Is your high school a correspondence program, perhaps?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:34:26",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:35:26",
+      "origin": "通信制だと学校に通わなくても卒業できる感じなのでしょうか。",
+      "content": "With a correspondence school, does that mean you can graduate without attending in person?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:35:52",
+      "origin": "今はオンラインだったりします",
+      "content": "It's online these days."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:36:44",
+      "origin": "そうなんですね。オンラインの授業とかは受けられているんですかね。",
+      "content": "I see. So are you able to take the online classes?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:36:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:38:26",
+      "origin": "今は卒業の後の事は考えられない感じですかね。",
+      "content": "So I suppose it's hard to think about what comes after graduation right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:39:42",
+      "origin": "卒業しても今みたいな生活をしたい",
+      "content": "Even after I graduate, I want to keep living like I do now..."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:39:54",
+      "origin": "とは思ってます",
+      "content": "...that's what I'm thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:40:47",
+      "origin": "進学とか就職は考えていないという事ですかね。",
+      "content": "So, does that mean you're not thinking about going to college or getting a job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:41:00",
+      "origin": "はい",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:44:19",
+      "origin": "そうすれば、とりあえず少しの間、今の状況を続けていって何かしたいことが見つかるまで様子を見ていくというのは、どうでしょうか。",
+      "content": "In that case, how about continuing as you are for a while and seeing how things go until you find something you want to do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:45:37",
+      "origin": "そうしてみます",
+      "content": "I'll try that."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:46:40",
+      "origin": "リアルに学校にいかないことは、ダメなこと？",
+      "content": "Is it a bad thing to not go to school in person?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:47:35",
+      "origin": "就職や進学はできればした方がいいんでしょうか？",
+      "content": "Should I get a job or go on to further education if I can?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:48:58",
+      "origin": "ダメなことではないと思いますよ。就職や進学はチャレンジできるんだったら、試してみてもいいと思いますよ。",
+      "content": "I don't think it's a bad thing. As for work or college, if you have the chance, I think it would be good to give it a shot."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:49:59",
+      "origin": "試すなるほど",
+      "content": "'Give it a shot'... I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:50:33",
+      "origin": "絵を描くだけでは難しいのかな",
+      "content": "I wonder if it's hard to get by just by drawing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:51:55",
+      "origin": "絵に興味があるということで、芸術大学などを受けてみるのは、どうですか。",
+      "content": "Since you're interested in art, how about applying to an art university or something similar?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:52:50",
+      "origin": "たしかに",
+      "content": "That's true."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:53:55",
+      "origin": "芸大ならちょっと興味あるかも",
+      "content": "An art university... I might be a little interested in that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:54:27",
+      "origin": "もし芸術大学に入ったら絵が好きな友人とかもできるかもしれませんね。",
+      "content": "If you were to get into an art university, you might be able to make friends who also love art."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:55:07",
+      "origin": "友人そうかも",
+      "content": "Friends... maybe."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:55:21",
+      "origin": "調べてみます",
+      "content": "I'll look into it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:56:50",
+      "origin": "少しづつ前向きにチャレンジしていく事は大事かなと思いますよ。",
+      "content": "I think it's important to take on challenges with a positive attitude, little by little."
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:58:06",
+      "origin": "どちらに前向きになったらいいか難しいですがありがとうございました",
+      "content": "It's difficult to know what to be positive about, but thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:58:57",
+      "origin": "こちらこそお話を聞かせていただきありがとうございました。今日はこのあたりにしたいと思うのですが、いかがでしょうか。",
+      "content": "No, thank you for sharing your story with me. I think we can wrap things up for today, how does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-24T10:59:27",
+      "origin": "はい大丈夫ですありがとうございました",
+      "content": "Yes, that's fine. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-24T10:59:51",
+      "origin": "ありがとうございました。これで終わりにさせていただきます。",
+      "content": "Thank you. We'll end the session here."
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "学校に行かないことの将来への影響"
+  },
+  "review_by_client": {
+    "evaluation_id": 4498,
+    "evaluation_created_at": "2023-01-24T11:18:00",
+    "client_id": 370,
+    "counselor_id": 224,
+    "score": 53,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

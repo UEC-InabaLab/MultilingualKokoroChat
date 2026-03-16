@@ -1,0 +1,567 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-07-05T18:56:11",
+      "origin": "こんにちは。",
+      "content": "Hello."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T18:56:36",
+      "origin": "こんばんは、相談員です。",
+      "content": "Good evening, this is the counselor."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T18:57:45",
+      "origin": "それでは、まず年齢性別と、今日のご相談の内容をお伺い致します。",
+      "content": "Alright, to begin, could you please tell me your age and gender, and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T18:59:39",
+      "origin": "二十二歳　男性です。何をするにも気力がわかなくて、仕事に行くのも辛くなっています。ただ仕事には行かなければ行けないので辛くて相談させていただきました。",
+      "content": "I'm a 22-year-old man. I don't have the energy to do anything, and it's becoming difficult to go to work. But I know I have to go, so it's been tough, and that's why I wanted to talk to someone."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:00:30",
+      "origin": "それはお辛いことと思います。",
+      "content": "That must be very difficult for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:01:31",
+      "origin": "何をするにも気力がわかない、お仕事も行きづらいとお感じなのですね？",
+      "content": "So you're feeling that you don't have the energy for anything, and it's hard to go to work, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:02:12",
+      "origin": "そうなんです。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:02:17",
+      "origin": "そのように感じるようになったのは、",
+      "content": "When did you start feeling that way,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:02:35",
+      "origin": "いつ頃からでしょうか？",
+      "content": "Around when?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:03:59",
+      "origin": "三ヶ月前くらいからなんとなく動くのがめんどくさくなってきてました",
+      "content": "It started about three months ago. I just gradually started to feel like it was a hassle to move."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:05:01",
+      "origin": "なるほど。動くのがめんどくさい、という感覚は、具体的にはどんなことがありますか？",
+      "content": "I see. When you say it feels like a hassle to move, could you give me some specific examples?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:05:23",
+      "origin": "うーん",
+      "content": "Umm..."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:05:51",
+      "origin": "外出するのが億劫になって家にいることが多くなったとかですかね",
+      "content": "I suppose I started finding it a bother to go out, so I began staying home more often."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:06:52",
+      "origin": "そうでしたか、外出するのがおっくうになると、通勤するのもいやになっていまいますよね。",
+      "content": "I see. When going out becomes a chore, commuting to work must feel that way too, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:07:38",
+      "origin": "先ほど、3ヶ月くらい前からと仰っておられましたが、",
+      "content": "Earlier you mentioned it started about three months ago,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:08:26",
+      "origin": "その頃、何か変わったことなどにお心当たりはありますか？",
+      "content": "Do you recall any changes around that time?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:09:16",
+      "origin": "あまり心当たりがないんですよね···",
+      "content": "Nothing in particular comes to mind..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:10:24",
+      "origin": "そうでしたか、それでは何となく、その頃から外出や気力がわかなくなった感じになってしまったのですね。",
+      "content": "I see. So it sounds like you just gradually lost the energy and desire to go out around that time, without a clear reason."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:11:07",
+      "origin": "そうなんですよね···じぶんでもわからないのが辛いんです。",
+      "content": "Yes, exactly... It's hard not knowing why myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:11:51",
+      "origin": "そうですね、ご自身でも予想もしてらっしゃらなかったのでは、と思います。",
+      "content": "I can imagine. You probably weren't expecting to feel this way."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:12:56",
+      "origin": "ちなみに、今のような状態になって、何が一番困るとか、何が一番辛いとかいうことはありますか？",
+      "content": "By the way, with things as they are now, is there anything that you find most troubling or most difficult?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:13:49",
+      "origin": "仕事に行けなくなるのが一番こわいです。",
+      "content": "I'm most afraid of not being able to go to work anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:14:37",
+      "origin": "なるほど。今は無理して頑張ってお仕事に行かれている感じなのでしょうか？",
+      "content": "I see. Does it feel like you're forcing yourself to go to work right now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:15:48",
+      "origin": "毎日辛いわけではないんですけど、物凄く行きなくない日が週に2回くらいあります",
+      "content": "It’s not that every day is hard, but about twice a week I really, really don’t want to go."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:17:41",
+      "origin": "毎日辛いわけではなく、すごくしんどいときが週に二回くらい、というと、仕事に行けなくなってしまうことを不安に思うのはごもっともです。",
+      "content": "It's not difficult every day, but having very tough days about twice a week... it's completely understandable that you'd worry about not being able to go to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:18:12",
+      "origin": "そのような状態ながらも逆に言えば、",
+      "content": "Looking at it another way, despite your situation,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:18:40",
+      "origin": "全く会社に行かないのではなく、",
+      "content": "it’s not that you don’t go to work at all,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:19:57",
+      "origin": "そうでないときはお仕事にも行かれている、とても頑張っておられるのが伝わりました。",
+      "content": "on the other days you are going to work, and I can tell you’re trying very hard."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:20:37",
+      "origin": "自分頑張っているんですかね？",
+      "content": "Am I really trying hard?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:20:51",
+      "origin": "もちろんです。",
+      "content": "Of course you are."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:21:20",
+      "origin": "気力がわかない、外出するのがしんどいというのは、",
+      "content": "Feeling a lack of energy and that it's difficult to go out..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:22:15",
+      "origin": "ストレスや疲労も蓄積してるのではと思います。",
+      "content": "I think it might be because stress and fatigue are building up."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:22:57",
+      "origin": "あー",
+      "content": "Ah..."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:23:23",
+      "origin": "たしかに少し疲れやすくはなったかんじはします",
+      "content": "Yes, I do feel like I've been getting tired more easily."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:24:22",
+      "origin": "お疲れは感じていらっしゃるのですね、何となくでも・・・。",
+      "content": "So you are feeling tired, even if just vaguely..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:25:36",
+      "origin": "休日に、何か気晴らしをしたり、ゆっくり眠ったりなど、出来ますか？",
+      "content": "On your days off, are you able to do something to unwind or get some restful sleep?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:28:13",
+      "origin": "寝るのは意識してるんですけどあんまり寝れてないです。気晴らしはなにしたらいいかわからなくて結局家にいたりしますね",
+      "content": "I try to make a point of sleeping, but I don’t sleep very well. As for unwinding, I don’t really know what to do, so I end up staying at home."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:29:41",
+      "origin": "そうでしたか。気晴らしとひとくちに言っても、これ、とズバリ言える人はそう多くないと私は思うので、",
+      "content": "I see. Even when we say “unwind,” I don't think many people can pinpoint exactly what that is for them,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:30:52",
+      "origin": "休日を使って心身をゆっくり疲労回復することについて一緒に考えて見ませんか？",
+      "content": "so how about we think together about using your days off to let your mind and body rest and recover?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:31:38",
+      "origin": "どーゆーことしたら気晴らしできるんですかね",
+      "content": "What kinds of things would help me unwind?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:32:01",
+      "origin": "いまいちイメージがわかないです",
+      "content": "I can’t quite picture it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:33:40",
+      "origin": "そうでしたか。それでは、気晴らしはさておき、ぐっすり眠れて、まずはお身体が休まることを考えて見ましょうか？",
+      "content": "I understand. In that case, let's set aside 'unwinding' for a moment and focus first on getting a good night's sleep and letting your body rest. How does that sound?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:35:31",
+      "origin": "人によって、スポーツが好きだとか、誰かのコンサートに行くとか、そういったことで気晴らしを出来る方もいますが、",
+      "content": "For some people, sports or going to a concert helps them unwind,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:36:41",
+      "origin": "何、と決めずに例えばテレビの好きな番組をゆっくり見るとか、そんなこともアリだと思うのです。",
+      "content": "but you don't have to decide on something specific. For example, just relaxing and watching a favorite TV show could be an option."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:37:34",
+      "origin": "好きな番組ですか",
+      "content": "A favorite show?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:37:43",
+      "origin": "簡単にいうと、会社に行く日に出来ないことを何かしら出来ればよいのでは、と。",
+      "content": "Simply put, it might be good to do something you can’t do on workdays."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:38:01",
+      "origin": "すみません、行き違ってしまいました。",
+      "content": "Sorry, I got a bit off track."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:39:14",
+      "origin": "どう思われますか？",
+      "content": "What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:39:16",
+      "origin": "会社に行く日にできないとこですか···何かあるかな",
+      "content": "Something I can’t do on days I go to work... I wonder what there might be."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:39:59",
+      "origin": "例えば、カフェでブランチのようなことでも良いのでは、と思います。",
+      "content": "For example, something like having brunch at a café might be nice."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:40:33",
+      "origin": "カフェに行くってことですか？",
+      "content": "You mean go to a café?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:41:06",
+      "origin": "ごめんなさいブランチってなんだろうと思って···",
+      "content": "I'm sorry, I was just wondering what 'brunch' is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:42:12",
+      "origin": "朝ご飯と昼ご飯をいっしょにした感じに食べる、ということなので、いつもより遅く起きて、",
+      "content": "It's like eating a meal that combines breakfast and lunch, so you wake up later than usual,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:43:27",
+      "origin": "ゆっくりゆっくり遅い朝ご飯を食べる、というようなことですので、ご自宅でももちろんかまいません。",
+      "content": "and eat a very slow, leisurely late breakfast. Of course, you can do this at home as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:45:35",
+      "origin": "なるほど···家でもいいのと、ゆっくりご飯を食べるっていうことをやったことないのでそれだけで少しでも改善するならやってみようかなと思います。",
+      "content": "I see... I can do it at home, and I’ve never really tried taking my time with meals, so if that alone might help even a little, I think I’ll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:45:54",
+      "origin": "もしご家族が同居していらっしゃれば、何となく他愛もない話をしながら食べるとかでも良いのではと思います。",
+      "content": "If you live with family, perhaps you could have a casual chat with them while you eat."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:46:31",
+      "origin": "独り暮らしなのでかぞくはいないんですよね···",
+      "content": "I live alone, so I don’t have family around..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:47:12",
+      "origin": "そうでしたか、CDをかけながら食べるとかでも良いと思いますよ。",
+      "content": "I see. In that case, maybe you could eat while listening to a CD."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:48:24",
+      "origin": "スマホで音楽かけながらとか動画見ながらとかでもいいんですかね？",
+      "content": "Would it be okay to play music on my phone or watch videos while I eat, too?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:49:37",
+      "origin": "良いと思います。ただ、動画だと食事より動画に注意がいってしまいがちなので、どちらかと言えば音楽の方が良いかも知れません。",
+      "content": "I think that's fine. However, with videos, your attention tends to shift to the video rather than your meal, so music might be the better choice."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:50:38",
+      "origin": "はーなるほど食べることに集中するのがいいんですかね？結構動画見ながらはやってたので···",
+      "content": "Ah, I see—so it’s better to focus on eating? I often watch videos while I eat..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:50:40",
+      "origin": "それと、あまりよく眠れていない感じというのが気になりますので、",
+      "content": "Also, I'm a bit concerned that you're not sleeping very well,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:51:41",
+      "origin": "食べることをゆっくりゆっくりしてみる方がお勧めです。",
+      "content": "so I recommend trying to eat slowly and mindfully."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:52:19",
+      "origin": "すみません、順番がいれちがってしまいました。",
+      "content": "My apologies, I got the order of my messages mixed up."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:53:21",
+      "origin": "あとは30分くらいのお昼寝も良いと思います。",
+      "content": "Taking a nap for about 30 minutes is also a good idea."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:54:09",
+      "origin": "昼寝とかなったことないのでちょっとやってみようかなとおもいます。",
+      "content": "I’ve never really taken naps, so maybe I'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:54:56",
+      "origin": "長時間ではなく、30分くらいの昼寝がいちばん効果があると聞いていますので、",
+      "content": "I've heard that a 30-minute nap is most effective, rather than a long one,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:55:29",
+      "origin": "寝過ぎて夜に眠れなくならない程度、という感じで。。",
+      "content": "just enough so that you don’t oversleep and have trouble sleeping at night."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:56:06",
+      "origin": "よる寝れなくなったら元もこもないですもんね",
+      "content": "Right, if I can’t sleep at night, it defeats the purpose."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:56:22",
+      "origin": "そうです、そうです。",
+      "content": "Exactly, exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:57:16",
+      "origin": "お休みの日は何にもしない日、と言う感じで、",
+      "content": "On your days off, you might treat them as “do-nothing days,”"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T19:58:18",
+      "origin": "日頃の自分へのねぎらい、のような意識でいると良いかも知れないです。",
+      "content": "as a way of being kind to yourself for your everyday efforts."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T19:58:37",
+      "origin": "なるほど···少しやってみようと思います。",
+      "content": "I see... I'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:00:05",
+      "origin": "何かをしなくてはならない、仕事にいかなくてはならない、そうでない何にもしなくて良い日というのは案外大事だと思うのですが、いかがでしょう？",
+      "content": "Having a day where you don't have to do something, don't have to go to work—a day where it's okay to do nothing—is surprisingly important, don't you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T20:00:33",
+      "origin": "そうですね、なにもしないのをやってみます。",
+      "content": "Yes, I agree. I'll try doing nothing."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:01:25",
+      "origin": "逆に何もしないと、やりたいことを発見してしまうかも知れないですよ。",
+      "content": "Paradoxically, by doing nothing, you might discover something you want to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:02:10",
+      "origin": "大事なお話の途中ですが、そろそろお時間が来てしまいました。",
+      "content": "I know we're in the middle of an important discussion, but our time is almost up."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:03:16",
+      "origin": "何もしない、をやってみるということ、出来そうですか？",
+      "content": "Do you feel you can try “doing nothing”?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T20:03:42",
+      "origin": "まじやってみてどうかですね。できるとは思います。",
+      "content": "First, I'll have to try it and see how it goes. I think I can do it."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T20:03:50",
+      "origin": "まずですすみません🙇‍♂️",
+      "content": "I meant 'first,' sorry. 🙇‍♂️"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:04:38",
+      "origin": "もし何も変わらなかったら、またここでお話出来れば、と思います。いつでもお待ちしています。",
+      "content": "If nothing changes, I hope we can talk again here. I’m always here for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T20:04:54",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:06:16",
+      "origin": "一回だけではなく、何回か試してみると少しずつ変わると思います。「なにもしない」「がんばらない」をひとつ試して下さいね。",
+      "content": "I think you'll see gradual changes if you try it a few times, not just once. Please give “doing nothing” and “not pushing yourself” a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:06:43",
+      "origin": "何か話したりないことなどありませんか？",
+      "content": "Is there anything else you wanted to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-05T20:06:55",
+      "origin": "とくにはないです。",
+      "content": "No, not in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:07:34",
+      "origin": "ありがとうございます。それでは終了のメッセージを送らせて頂きます。",
+      "content": "Thank you. I'll send the closing message now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:07:51",
+      "origin": "お越し下さり、ありがとうございました。",
+      "content": "Thank you very much for reaching out today."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-05T20:08:57",
+      "origin": "メッセージをお送りします。",
+      "content": "I'll send you a message."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "気力不足による日常生活の困難"
+  },
+  "review_by_client": {
+    "evaluation_id": 3683,
+    "evaluation_created_at": "2022-07-05T23:23:00",
+    "client_id": 276,
+    "counselor_id": 273,
+    "score": 55,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

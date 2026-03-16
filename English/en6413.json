@@ -1,0 +1,591 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-11T10:51:47",
+      "origin": "今日はありがとうございます。お時間になったら始めさせていただきますので、どうぞよろしくお願いいたします。",
+      "content": "Thank you for being here today. We'll start at the scheduled time. I look forward to our session."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T10:52:18",
+      "origin": "（どうぞよろしくお願いいたします）",
+      "content": "(I look forward to it as well.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T10:52:43",
+      "origin": "（設定のご希望はありますか）",
+      "content": "(Do you have any preferences for the setting?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T10:54:00",
+      "origin": "（特にはありませんが、自殺とか引きこもりご本人からの相談設定は外していただけると助かります）",
+      "content": "(I don't have any particular preferences, but I would appreciate it if you could avoid settings involving consultations from the person themselves about suicide or social withdrawal.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T10:55:42",
+      "origin": "（確認させてください。自殺や引きこもりについての本人以外の相談は避けるということでよいでしょうか）",
+      "content": "(Let me confirm. So, you want to avoid consultations about suicide or social withdrawal from someone other than the person themselves, is that correct?)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T10:56:24",
+      "origin": "（確認させてください。自殺や引きこもりについての本人からの相談は避けるということでよいでしょうか）",
+      "content": "(Let me confirm. So, you want to avoid consultations from the person themselves about suicide or social withdrawal, is that correct?)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T10:56:24",
+      "origin": "（すみません。間違えました）",
+      "content": "(Sorry, I made a mistake.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T10:56:45",
+      "origin": "すみません。その逆で、自殺や引きこもり本人のご相談は避けていただきたいの意味です",
+      "content": "Sorry, it's the opposite. I mean that I would like you to avoid consultations from the person themselves about suicide or social withdrawal."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T10:57:32",
+      "origin": "（承知しました。書き間違えてしまい、失礼しました）",
+      "content": "(Understood. My apologies for the typo.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T10:58:33",
+      "origin": "いえいえご協力ありがとうございます。よろしくお願いいたします。",
+      "content": "Not at all, thank you for your cooperation. I look forward to working with you."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T10:58:59",
+      "origin": "（こちらこそです。では、時間になりましたら、よろしくお願いいたします）",
+      "content": "(Likewise. I’ll look forward to starting at the scheduled time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:00:42",
+      "origin": "今日はご相談に来ていただきありがとうございます。初めにお年齢、性別、呼ばせていただくご希望のお名前（ニックネームなど）ございましたらお聞かせください。",
+      "content": "Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and the name you'd like me to call you (such as a nickname)?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:00:53",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:01:19",
+      "origin": "15歳　一応女　みことでお願いします",
+      "content": "I’m 15—female, I guess. Please call me Mikoto."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:02:04",
+      "origin": "みことさんこんにちは。今日はどのようなご相談で来てくださいましたか？",
+      "content": "Hello, Mikoto. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:02:45",
+      "origin": "仲のよくしている子に、ちょっと距離をおきたいと言われました",
+      "content": "Someone I'm close with told me they want to put some distance between us."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:03:35",
+      "origin": "自分は仲良くしたいので…",
+      "content": "I want to stay close, though…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:03:44",
+      "origin": "そうなんですね、仲の良いご親友にそんな風に言われたら悲しい思いですよね。",
+      "content": "I see. It must be very sad to be told something like that by a best friend."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:03:58",
+      "origin": "親友ではないです",
+      "content": "Not a best friend."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:04:43",
+      "origin": "親友まではいかないのですね。でも仲の良いお友達に言われたら悲しいですよね。",
+      "content": "Not quite a best friend, then. But it must still be sad to hear that from a close friend."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:05:08",
+      "origin": "いえ、友達というより、一応付き合っている子です。",
+      "content": "No—rather than a friend, we’re kind of dating."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:05:45",
+      "origin": "失礼しました。彼氏さんでしょうか？",
+      "content": "I apologize. Is it your boyfriend?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:06:05",
+      "origin": "違います。相手は女の子です。",
+      "content": "No. The other person is a girl."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:08:50",
+      "origin": "そうなんですね。ちょっと距離を置きたいと言われて、みことさんは今まで通り一緒にいたいと思われているんでしょうか？",
+      "content": "I see. She said she wanted a bit of space, and you’d like to keep being together as before, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:08:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:09:44",
+      "origin": "そうなんですね。それでお悩みなのですね？",
+      "content": "I see. And that’s what’s troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:10:31",
+      "origin": "はい、そうです。そのことで話しても、うまくいかないというか",
+      "content": "Yes, that's right. Even when we talk about it, it doesn’t really go well…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:11:55",
+      "origin": "それで、みことさんはご自分のお気持ちを伝えられたのですね。でも向こうの気持ちは変わらない感じでしょうか？",
+      "content": "So you were able to tell her how you feel. But does it seem like her feelings haven't changed?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:12:31",
+      "origin": "はい、LINEで書きました。",
+      "content": "Yes, I wrote to her on LINE."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:13:13",
+      "origin": "相手の子はちょっと距離をおいて考えようって言っています",
+      "content": "She says she wants to take some distance to think things over."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:14:32",
+      "origin": "それはがっかりしますね。みことさんはもとに戻りたいですよね。",
+      "content": "That must be disappointing. You want things to go back to how they were, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:14:58",
+      "origin": "はい、そうなんです。でも、どうしたらいいのか分からなくなっています",
+      "content": "Yes, that's right. But I don't know what to do anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:15:44",
+      "origin": "それは気持ちが沈みますね。そうお相手に言われるような心当たりとかありましたか？",
+      "content": "That must be disheartening. Do you have any idea why she might have said that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:17:16",
+      "origin": "最近、ずっと自分が機嫌が悪くて、それがつらいと言われました。確かにずっともやもやしています。",
+      "content": "Lately I’ve been in a bad mood a lot, and she said that’s hard for her. It’s true—I’ve been feeling unsettled for a while."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:18:33",
+      "origin": "みことさんが機嫌が悪かったんですね。もやもやしてた理由とかご自分で思い当たりますか？",
+      "content": "So you were feeling irritable. Do you have any sense of why you were feeling that way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:18:45",
+      "origin": "わからないです。",
+      "content": "I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:19:59",
+      "origin": "わからないんですね、なんとなくでしょうか？お相手にどうしたのかとか聞かれましたか？",
+      "content": "You’re not sure—was it more of a vague feeling? Did she ask you what was going on?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:21:11",
+      "origin": "たまに聞かれるかな。あとは、相手の子が自分が機嫌が悪いと気を使ってくれてるのは分かりました。",
+      "content": "She asks me sometimes. And I could tell she was being considerate when I was in a bad mood."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:24:16",
+      "origin": "お相手の方は気を使ってくれていたように思うんですね。それが原因かなと思われるということで、お相手といるときにその辺を改善することは出来そうですか？",
+      "content": "So you feel she was being considerate of you. Since you think that might be the cause, do you think you could try to improve that aspect when you're with her?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:26:01",
+      "origin": "自分が機嫌が悪くなってもどうしようもないので、そういう時はほっておくか、自分の気持ちを変えられるようにしてほしいです",
+      "content": "When I get into a bad mood, I can't help it. I want her to either leave me alone or help me change my mood."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:27:05",
+      "origin": "でも、それを言ってもわかってくれない",
+      "content": "But even when I say that, she doesn’t get it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:28:37",
+      "origin": "機嫌の悪いときは気を使うのではなく、みことさんをそっとしておいてくれたらいいと、お相手に言われたけど、理解してもらえなかったんですね。",
+      "content": "So you told her that when you're in a bad mood, you'd rather she just leave you alone instead of trying to be considerate, but you feel she didn't understand. Is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:29:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:29:34",
+      "origin": "気を遣ってくれてもいいんです",
+      "content": "It's fine if she's considerate."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:29:47",
+      "origin": "自分の機嫌が良くなることもあるので",
+      "content": "Sometimes that improves my mood."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:30:20",
+      "origin": "相手の子が嫌ならほっておけばいいし",
+      "content": "If she doesn't like it, she can just leave me alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:30:53",
+      "origin": "なるほど、そうお考えなんですね。",
+      "content": "I see, so that's how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:30:57",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:31:58",
+      "origin": "あるがままの状態でお互いに自然にそばに居れたらいいですよね。",
+      "content": "It would be nice if you could both just be yourselves and be together naturally, wouldn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:32:37",
+      "origin": "はい、楽な方がいいです",
+      "content": "Yes, the easier, the better."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:32:54",
+      "origin": "それが理想ですよね。",
+      "content": "That's the ideal, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:33:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:34:01",
+      "origin": "そんなお気持ちをお相手にわかってもらいたいですよね？",
+      "content": "You want her to understand those feelings, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:34:35",
+      "origin": "はい、わかってほしいです",
+      "content": "Yes, I want her to understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:35:45",
+      "origin": "そうですね。わかってもらえるような方法を考えないといけませんね。",
+      "content": "Right. We’ll need to think of a way to help her understand."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:36:31",
+      "origin": "自分の考えはもう伝えたんです",
+      "content": "I've already told her what I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:37:21",
+      "origin": "Lineでお伝えになったんですよね？",
+      "content": "You told her on LINE, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:38:09",
+      "origin": "はい、そうです。学校とか行き返りは他の子もいるので。あと、電話でも少し話しました",
+      "content": "Yes, that's right. There are other people around at school and on the way to and from school. I also talked to her a little on the phone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:39:54",
+      "origin": "なるほど、周りに他のご友人がおられたら話しにくいですね。電話ではお相手のご様子とかはどうでしたか？",
+      "content": "I see, it’s hard to talk when there are other friends around. How did she seem over the phone?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:40:41",
+      "origin": "うーん、はっきりは言わないけど、気持ちは変わってなさそう",
+      "content": "Hmm, she didn't say it outright, but it seems like her feelings haven't changed."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:41:38",
+      "origin": "そう感じられたのですね。辛いですよね。",
+      "content": "That's how you felt. That must be tough."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:41:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:41:57",
+      "origin": "なんでこうなっちゃうんだろう",
+      "content": "I wonder why it ended up like this."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:42:03",
+      "origin": "って思います",
+      "content": "That's what I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:43:20",
+      "origin": "そうですね、もやもやしますよね。お相手の本当の気持ちを直接会って聞きたいですよね？",
+      "content": "Yes, it leaves you feeling unsettled. You’d like to meet in person to hear her true feelings, right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:43:47",
+      "origin": "LINEでも大丈夫です",
+      "content": "LINE is fine too."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:44:15",
+      "origin": "自分たち、いつもLINEで話してるので",
+      "content": "We always talk on LINE."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:45:29",
+      "origin": "そうですか、Lineはお返事くださるのですね。では分かってもらえるようにもう一度お気持ちを送ってみますか？",
+      "content": "I see, so she does reply on LINE. In that case, would you like to try sending another message to help her understand how you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:46:45",
+      "origin": "うーんもう長いメッセージを書いて、その後電話もしたので、",
+      "content": "Hmm, I already wrote a long message, and we talked on the phone after that, so..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:47:28",
+      "origin": "学校でもそのこと以外は普通に話はしてます。",
+      "content": "We talk normally at school about other things."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:48:26",
+      "origin": "すでにみことさんの思いを充分伝えられたんでしょうか？学校のご友人としては仲良くしているという感じですか？",
+      "content": "Do you feel you've already fully conveyed your feelings? And it sounds like you're still on good terms as friends at school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:48:58",
+      "origin": "はい、別に話さないとかではないです。",
+      "content": "Yes, it's not like we don't talk or anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:49:33",
+      "origin": "そうなんですね、ふつうに友人関係が続いているのは少し安心しますね？",
+      "content": "I see. It's a bit of a relief that your friendship is continuing as usual, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:50:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:51:53",
+      "origin": "お相手は、みことさんと仲良くはしたいのだけれども、お二人の関係を冷静に見つめ直したいと考えておられるのでしょうか？",
+      "content": "Do you think maybe she wants to be on good terms with you, but also wants to calmly re-evaluate your relationship?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:52:14",
+      "origin": "そうかもです。",
+      "content": "That might be it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:53:22",
+      "origin": "そうかもしれないとしたら、会っているときはお相手にどういう風に接していきましょうか？",
+      "content": "If that might be the case, how would you like to interact with her when you see each other?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:54:31",
+      "origin": "毎日学校で会ってるし、そういう時は特に何もないというか、普通です。自分も何も変えていないです。",
+      "content": "We see each other at school every day, and at those times nothing is different; it's normal. I haven't changed anything either."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:56:00",
+      "origin": "そうですよね、自然に接していて、お相手がまたみことさんも傍に戻って来てほしいんですね。",
+      "content": "Right. You're interacting naturally, and you want her to come back to your side again."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:56:40",
+      "origin": "はい、特別な関係のままでいたいです",
+      "content": "Yes, I want to keep our special relationship."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T11:58:13",
+      "origin": "そうなんですよね。でもお相手は距離を少し置きたいというお気持ちなので、みことさんも少し時間をおいてみて、お相手の様子を見ていくというのはいかがでしょうか？",
+      "content": "I understand. But since she feels she wants a little distance, how about you also take a little time and see how things go with her?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T11:58:56",
+      "origin": "それしかないですかね",
+      "content": "I guess that's the only option, huh?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T12:00:08",
+      "origin": "そうですね、今すぐ何とかしようというのは、逆効果になるといけませんので、ちょっとだけ様子を見ることは出来そうですか？",
+      "content": "Yes. Trying to fix things right away might be counterproductive, so would it be possible to just watch and see for a little while?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T12:00:25",
+      "origin": "はい、できます",
+      "content": "Yes, I can."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T12:01:25",
+      "origin": "ありがとうございます。少し引いて冷静に見てみるのも一つの方法だと思いますので、少し試してみてもらえると嬉しく思います。",
+      "content": "Thank you. I think stepping back a bit and looking at the situation calmly is one approach, so I'd be glad if you could give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T12:01:58",
+      "origin": "はい、そうします",
+      "content": "Yes, I’ll do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T12:02:08",
+      "origin": "ありがとうございます。残念ながら終了のお時間になりましたが、他に何かございますでしょうか？",
+      "content": "Thank you. Unfortunately, our time is up. Is there anything else?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T12:02:16",
+      "origin": "いえ、大丈夫です",
+      "content": "No, I’m okay."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T12:02:25",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T12:03:06",
+      "origin": "今日はご相談に来ていただきありがとうございました。終了させて頂いて大丈夫でしょうか？",
+      "content": "Thank you for coming in for a consultation today. Is it all right if we conclude the session now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-11T12:03:18",
+      "origin": "はい大丈夫です",
+      "content": "Yes, that’s fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-11T12:03:44",
+      "origin": "ありがとうございます。では終了させていただきます。（ありがとうございました。）",
+      "content": "Thank you. I will now end the session. (Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "付き合っている相手との距離感の問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 6413,
+    "evaluation_created_at": "2024-02-11T12:56:00",
+    "client_id": 485,
+    "counselor_id": 466,
+    "score": 60,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

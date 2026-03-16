@@ -1,0 +1,789 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-07-16T20:55:00",
+      "origin": "こんにちはよろしくお願いいたします。",
+      "content": "Hello, thank you for coming. I look forward to our session."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:00:04",
+      "origin": "こんにちは担当します相談員ですよろしくお願いします",
+      "content": "Hello, I'll be your counselor today. It's a pleasure to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:00:15",
+      "origin": "宜しくお願いします",
+      "content": "It's a pleasure to meet you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:00:51",
+      "origin": "どのようにお呼びすればよろしいでしょうか？",
+      "content": "How would you like me to address you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:01:19",
+      "origin": "ナツと呼んでください",
+      "content": "Please call me Natsu."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:01:49",
+      "origin": "ナツさんよろしくお願いします",
+      "content": "Alright, Natsu. It's nice to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:02:17",
+      "origin": "どのようなご相談でこられましたか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:02:21",
+      "origin": "上司の対応に困ってます・・・",
+      "content": "I’m having trouble with how my supervisor treats me..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:02:36",
+      "origin": "それは困りますね",
+      "content": "That must be difficult."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:02:44",
+      "origin": "はい・・・",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:03:02",
+      "origin": "もう少し詳しくお聞きしてもよろしいでしょうか？",
+      "content": "Would it be alright if I asked you for a few more details?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:03:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:03:55",
+      "origin": "上司の方のどのような事に困られているのでしょうか？",
+      "content": "What specifically about your supervisor's behavior is troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:04:46",
+      "origin": "上司がパワハラというか、無視したり、嫌味言ったり。機嫌悪かったり・・・これってパワハラですよね",
+      "content": "It’s kind of like power harassment—they ignore me, make snide remarks, and are often in a foul mood... This counts as power harassment, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:05:24",
+      "origin": "それは辛いですよね",
+      "content": "That must be very painful for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:05:39",
+      "origin": "辛いです、すごく",
+      "content": "It is—very much so."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:06:15",
+      "origin": "パワハラすごく腹立たしいですよね",
+      "content": "Power harassment is incredibly infuriating, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:06:32",
+      "origin": "というか、怖いです",
+      "content": "More than anything, it’s scary."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:06:43",
+      "origin": "どうしたらいいか・・・",
+      "content": "I don’t know what to do..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:07:14",
+      "origin": "それはどうしたらいいか分からなくなりますよね",
+      "content": "I can understand why you wouldn't know what to do."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:07:26",
+      "origin": "どうしたらいいですか？？",
+      "content": "What should I do??"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:07:52",
+      "origin": "今はどのようにされていますか？",
+      "content": "How have you been handling it up to now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:08:12",
+      "origin": "なにもしてませんが・・・",
+      "content": "I haven’t done anything..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:08:49",
+      "origin": "怖いですものね",
+      "content": "Of course, it's frightening."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:08:57",
+      "origin": "はい・・・",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:09:53",
+      "origin": "具体的にはどのような事をされているのですか？",
+      "content": "Could you tell me more specifically what kinds of things are happening?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:10:33",
+      "origin": "先ほど言ったとおり無視したり、嫌味言ったり、機嫌悪かったり",
+      "content": "As I said earlier—ignoring me, making snide remarks, and being in a bad mood."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:11:07",
+      "origin": "それはナツさんだけにでしょうか？",
+      "content": "Is that directed only at you, Natsu?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:11:45",
+      "origin": "他にもあるみたいですが、私には特に冷たい気がします・・・",
+      "content": "It seems to happen to others too, but I feel they’re especially cold to me..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:12:08",
+      "origin": "それは辛いですね",
+      "content": "That must be painful."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:12:17",
+      "origin": "辛いです・・・",
+      "content": "It is painful..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:12:33",
+      "origin": "心が傷ついていきますよね",
+      "content": "It really wears on your heart, doesn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:12:48",
+      "origin": "傷ついてます",
+      "content": "It does hurt."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:13:25",
+      "origin": "それをどなたかにご相談されていますか？",
+      "content": "Have you talked to anyone about this?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:13:54",
+      "origin": "会社の同期には話してます",
+      "content": "I’ve talked to colleagues who joined the company the same year as me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:14:19",
+      "origin": "それはほっとしました",
+      "content": "I’m relieved to hear that."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:14:30",
+      "origin": "？？",
+      "content": "??"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:15:23",
+      "origin": "相談した方はどのように言われていますか？",
+      "content": "What have they been saying to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:16:06",
+      "origin": "辛いよねーーと言ってくれてます。その子は、隣の部署なので、害はないのです",
+      "content": "She tells me, 'That’s really tough.' She’s in the neighboring department, so it doesn’t affect her."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:17:18",
+      "origin": "そうなんですねそれを言ってもらって、ナツさんはどのように感じていますか？",
+      "content": "I see. And how do you feel when she says that to you, Natsu?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:18:59",
+      "origin": "わかってくれて有難うーって感じです",
+      "content": "I feel like, 'Thank you for understanding.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:19:30",
+      "origin": "ありがたいですよね",
+      "content": "It's something to be grateful for, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:19:42",
+      "origin": "同期の仲良しの子です",
+      "content": "She’s a close friend from my cohort."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:20:03",
+      "origin": "とても良いですね",
+      "content": "That's wonderful."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:20:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:20:27",
+      "origin": "何でも話が出来るのですね？",
+      "content": "So you can talk to her about anything?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:20:36",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:21:13",
+      "origin": "そういった方がいると救われますよね",
+      "content": "Having someone like that can be a real lifeline."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:21:20",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:22:13",
+      "origin": "同じ部署の方はパワハラに対して何か言っていますか？",
+      "content": "Do people in your own department say anything about the harassment?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:22:43",
+      "origin": "今日は機嫌悪いなーとか言ってるの聞いたことあります",
+      "content": "I’ve heard them say things like, ‘They’re in a bad mood today.’"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:23:31",
+      "origin": "上司の方は機嫌が悪いとわかるタイプなんですね？",
+      "content": "So, it's easy to tell when your supervisor is in a bad mood?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:24:07",
+      "origin": "顔つきが鬼のように感じになります",
+      "content": "Their expression looks almost demonic."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:24:25",
+      "origin": "それは怖いですね",
+      "content": "That sounds frightening."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:24:33",
+      "origin": "怖いです・・・",
+      "content": "It’s scary..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:25:41",
+      "origin": "ナツさんからみて上司の方はどのような人ですか？",
+      "content": "From your perspective, Natsu, what kind of person is your supervisor?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:26:52",
+      "origin": "怖いです、わがままというか、、気に入らないことがあると、我慢できない人かと",
+      "content": "They’re scary—kind of self-centered... If something doesn’t please them, they can’t hold it in."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:28:02",
+      "origin": "それは怖いですね",
+      "content": "That does sound scary."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:28:16",
+      "origin": "怖いです・・・",
+      "content": "It is scary..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:29:07",
+      "origin": "身の危険を感じられたことはありますか？",
+      "content": "Have you ever felt physically in danger?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:29:37",
+      "origin": "そこまではないかなー、",
+      "content": "I don't think it's gone that far."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:29:50",
+      "origin": "でもドキドキします",
+      "content": "But my heart pounds."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:30:35",
+      "origin": "それでもそれに近い怖い思いになられているのですね",
+      "content": "Even so, it sounds like you’re experiencing a fear close to that."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:31:20",
+      "origin": "殺されるとか、叩かれるとかは無いです。心臓がドキドキ早くなりますが。",
+      "content": "It's not like I'll be killed or hit. But my heart starts beating really fast."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:32:30",
+      "origin": "そのようになると、体はどうのようになりますか？",
+      "content": "When that happens, how does your body react?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:32:56",
+      "origin": "体は変わりないと思います",
+      "content": "I don't think my body changes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:33:37",
+      "origin": "緊張とか仕事に影響はどうでしょうか？",
+      "content": "How about tension or the impact on your work?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:34:09",
+      "origin": "あります！怒られるかもと思って、消極的になりました",
+      "content": "Yes, there is! I've become passive because I'm worried I'll be yelled at."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:35:23",
+      "origin": "これだけ怖い思いをされていたら、そう思いますよね",
+      "content": "After going through such a frightening experience, it's natural to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:35:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:36:15",
+      "origin": "それでは会社にとってもとてもマイナスなことですよね",
+      "content": "It’s also a big negative for the company, isn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:36:55",
+      "origin": "どうでしょうか、私まだ入社3年目ですから。",
+      "content": "I’m not sure; I’m only in my third year at the company."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:37:08",
+      "origin": "会社の中でパワハラについて相談するところはあるのでしょうか？",
+      "content": "Is there a place within the company where you can consult about power harassment?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:37:18",
+      "origin": "あります。",
+      "content": "There is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:37:48",
+      "origin": "そちらの方には相談されましたか？",
+      "content": "Have you consulted with them?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:38:38",
+      "origin": "してません。そう言った担当はあるのですが、誰も相談したことないと言ってます",
+      "content": "I haven’t. There is a department for that, but I hear no one has ever used it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:39:18",
+      "origin": "そうなんですね。誰も言っていないとなると",
+      "content": "I see—if no one is speaking up, then..."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:39:18",
+      "origin": "法律上しかたなく設置してる組織だとか聞きました",
+      "content": "I heard it's just an organization they set up because they're legally required to."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:39:59",
+      "origin": "なかなか言えないですよね",
+      "content": "It's hard to speak up, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:40:39",
+      "origin": "そういうふうに言われているのですね",
+      "content": "So that’s what people are saying."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:40:44",
+      "origin": "言えないです、、言ったことバレたら怖いですし",
+      "content": "I can’t say anything. I'm scared of what would happen if it got out that I reported it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:41:51",
+      "origin": "それは言えないですよね",
+      "content": "Of course you can't. I understand."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:41:58",
+      "origin": "はい・・・",
+      "content": "Yes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:43:38",
+      "origin": "ここまでで話をまとめさせていただいてもよろしいでしょうか？",
+      "content": "Would it be alright if I summarized what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:44:04",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:45:02",
+      "origin": "ナツさんは上司の、無視や嫌味を言われたり",
+      "content": "So, Natsu, your supervisor ignores you and makes cutting remarks,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:45:55",
+      "origin": "機嫌が悪かったら鬼のようになっていての態度にとても怖い思いをされている",
+      "content": "and when they’re in a bad mood, their demeanor becomes almost demonic, which is very frightening for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:46:36",
+      "origin": "それはとても辛く心が傷ついている",
+      "content": "This has been very painful and has hurt you emotionally."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:47:39",
+      "origin": "上司の機嫌が悪いと怖くて、消極的になってしまい仕事にも影響している",
+      "content": "When your supervisor is in a bad mood, you become scared and more passive, and it’s affecting your work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:48:28",
+      "origin": "社内の相談窓口にはバレるのが怖くて、何も言えない",
+      "content": "And you're too afraid of being found out to say anything to the company's internal consultation service."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:48:48",
+      "origin": "ということですが、いかがでしょうか？",
+      "content": "Does that sound correct?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:48:56",
+      "origin": "はい、そうです",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:49:53",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:50:24",
+      "origin": "今後のことをお話しさせていただいてもよろしいでしょうか？",
+      "content": "May we discuss what to do next?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:50:35",
+      "origin": "はい、お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:51:35",
+      "origin": "ナツさんは、これだけ怖い思いをされているのに何も言えなくということで",
+      "content": "Natsu, you're going through this frightening experience, yet you feel you can't say anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:52:33",
+      "origin": "それでも仕事を辞めずに続けてこられている。それはどうしてでしょうか？",
+      "content": "And yet, you’ve kept working without quitting. What has helped you continue?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:52:59",
+      "origin": "生活できません",
+      "content": "I can't make a living otherwise."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:53:35",
+      "origin": "辛いですが、会社辞めることは考えたことないです",
+      "content": "It's hard, but I've never thought about quitting."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:53:52",
+      "origin": "生活するために我慢しながら、仕事をされているんですね",
+      "content": "So you’ve been enduring it in order to make a living."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:54:58",
+      "origin": "そうですね",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:55:12",
+      "origin": "これだけの辛い思いをされているのな、それでも仕事を辞めようと思ったことがないというのは",
+      "content": "To be going through so much pain and yet to have never thought about quitting..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:55:57",
+      "origin": "とても芯の強い方なんだな、と思いました。",
+      "content": "...I thought that you must be a person with great inner strength."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:56:43",
+      "origin": "それは今は上司の態度に我慢をされるほうに力を使っているので",
+      "content": "Right now you’re using that strength to endure your supervisor’s behavior,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:57:34",
+      "origin": "とてももったいないと感じました",
+      "content": "which I feel is such a waste."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T21:57:55",
+      "origin": "そうですか・・・",
+      "content": "Is that so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T21:58:53",
+      "origin": "この耐えるところは耐えて、上司の機嫌を悪くさせないようにしている",
+      "content": "You are enduring what you must, trying not to upset your supervisor."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:00:15",
+      "origin": "周りよりもそのことを敏感に感じることが出来ているんだと思います。",
+      "content": "I think you are able to sense these things more keenly than those around you."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T22:00:34",
+      "origin": "はい、有難うございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:02:12",
+      "origin": "その能力を使えずに消極的になっているのは、非常にもったいない",
+      "content": "It's a real shame that you're becoming passive and unable to use that ability."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T22:03:18",
+      "origin": "そうですかね・・・まだ3年目ですが・・・",
+      "content": "Do you think so...? I'm only in my third year..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:03:57",
+      "origin": "3年目でもその芯の強さを自信をもって自分のため、会社のため世の中のために使ていけると思います",
+      "content": "Even in your third year, I believe you can confidently use that inner strength for yourself, for your company, and for society."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:05:27",
+      "origin": "なのでまずは、勇気をもって相談窓口に行っていただけたらと思います",
+      "content": "So, as a first step, I encourage you to gather your courage and go to the consultation desk."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T22:07:13",
+      "origin": "そうですか、そうしてみます",
+      "content": "I see. I’ll try that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:07:26",
+      "origin": "怖いのは十分にわかるのですが、ここは芯の強さの勇気をもって行けたらと思います。",
+      "content": "I fully understand that it's scary, but I hope you can go with the courage that comes from your inner strength."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T22:07:40",
+      "origin": "はい、わかりました",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:08:49",
+      "origin": "ぜひ、その芯の強い勇気を今後のナツさんの武器にしていただきたいです。",
+      "content": "I hope you can make that strong inner courage your asset going forward."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T22:09:05",
+      "origin": "はい、有難うございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:09:59",
+      "origin": "これで今回の相談を終わりたいと思いますがよろしいでしょうか？",
+      "content": "I'd like to conclude our session for today, is that alright?"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T22:10:09",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T22:10:17",
+      "origin": "有難うございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:10:26",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:10:40",
+      "origin": "お疲れ様でした。",
+      "content": "Thank you for your time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:11:09",
+      "origin": "これでロールプレイを終了します",
+      "content": "This concludes the role-play."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T22:11:42",
+      "origin": "ありがとうございました。失礼いたします",
+      "content": "Thank you very much. Take care."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司とのパワハラ問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 206,
+    "evaluation_created_at": "2020-07-17T06:20:00",
+    "client_id": 31,
+    "counselor_id": 58,
+    "score": 64,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

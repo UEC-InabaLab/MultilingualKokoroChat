@@ -1,0 +1,849 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-01-23T19:56:03",
+      "origin": "すいません。今日相談役でエントリーしていますが、入られていますか？",
+      "content": "Excuse me. I'm here for a counseling session today. Are you available?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T19:56:54",
+      "origin": "今日はよろしくお願いいたします😃",
+      "content": "I look forward to our session today.😃"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T19:58:20",
+      "origin": "こんばんは。こちらこそ今日はよろしくお願いいたします☆",
+      "content": "Good evening. I'm looking forward to our session as well.☆"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:00:04",
+      "origin": "お時間となりましたので、始めさせてもらってもよろしいでしょうか？",
+      "content": "It’s time—shall we get started?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:00:11",
+      "origin": "お願いいたします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:01:41",
+      "origin": "ご相談ありがとうございます。私は、相談員のあっきーと申します。まず、お呼びするお名前、ご年代と性別、相談内容を教えてもらえますか？",
+      "content": "Thank you for reaching out. My name is Akki, and I'm one of the counselors. To start, could you please tell me the name you'd like me to use, your age and gender, and what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:02:25",
+      "origin": "まゆです。女性:27歳です。",
+      "content": "I'm Mayu. I'm a 27-year-old woman."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:03:09",
+      "origin": "相談内容は、最近何もやる気がなくて、鬱っぽい感じなんです。",
+      "content": "The issue is that lately I have no motivation to do anything, and I feel kind of depressed."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:04:22",
+      "origin": "まゆさん、本日はよろしくお願いします。何もやる気がない状態はお辛いですね。どんな時にそう感じられるか教えてもらえますか？",
+      "content": "Thank you for coming today, Mayu. It must be difficult to feel a lack of motivation. Could you tell me about the times when you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:05:25",
+      "origin": "コロナでテレワークが始まって、在宅勤務が増えて。仕事が終わった時とか、ちょっと時間に間が空いた時などかな。",
+      "content": "It started when I began working from home more due to COVID. I suppose it's when I finish work, or when I have some downtime."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:06:36",
+      "origin": "夜になって、ボーッとし始めると、後は何も動けません。",
+      "content": "Once evening comes and I start to space out, I can't bring myself to do anything else."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:07:04",
+      "origin": "在宅勤務が増えたのですね。環境が変わると心身ともに疲れやすくなりますよね・・・",
+      "content": "So you're working from home more. A change in environment can be tiring, both mentally and physically, can't it..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:07:34",
+      "origin": "お風呂に入らず、寝てしまう事も時々あるし、食べるのもめんどくさい時があります。",
+      "content": "Sometimes I fall asleep without taking a bath, and there are times when even eating feels like too much trouble."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:08:11",
+      "origin": "一人暮らしだし、誰も家に来ないから、ズルズルと。",
+      "content": "I live alone and no one comes over, so I just let things slide."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:08:39",
+      "origin": "メリハリがないというか。",
+      "content": "I guess you could say there's no structure, no clear boundaries to my days."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:08:40",
+      "origin": "毎日とても疲れていらっしゃいますね・・・",
+      "content": "It sounds like you're very tired every day..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:09:35",
+      "origin": "仕事の量はそんなにないし、打ち合わせ等はメールとかオンラインなんだけど。",
+      "content": "My workload isn't that heavy, and meetings and things are just done by email or online."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:10:21",
+      "origin": "そうなんですね・・・テレワークになり、お仕事での悩まれていることはありますか？",
+      "content": "I see... Since you started teleworking, have there been any work-related issues that are troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:10:56",
+      "origin": "内容の行き違いが時々あります。",
+      "content": "There are occasional misunderstandings about what needs to be done."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:11:49",
+      "origin": "こちらはそれでいいと思っていても、向こうはそうじゃなかったり",
+      "content": "I might think something is fine, but the other person doesn't see it that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:12:24",
+      "origin": "意思疎通がうまくいかないのは、はがゆいですね。それはストレスに感じられますか？",
+      "content": "It’s frustrating when communication doesn’t go smoothly. Do you find that stressful?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:12:31",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:13:35",
+      "origin": "そのお気持ちを、職場の方か、どなたかには話せない状況でしょうか？",
+      "content": "Are you in a situation where you can't talk about these feelings with someone at work, or anyone else?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:13:35",
+      "origin": "会えばすぐ終わる仕事が、なかなか終わらなかったりします",
+      "content": "Work that would be finished quickly if we met in person tends to drag on."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:14:26",
+      "origin": "言っても通じないというか…段々いうのがめんどくさい感じなんです",
+      "content": "It feels like even if I say it, it doesn’t get through... and gradually I can’t be bothered to keep saying it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:15:00",
+      "origin": "テレワークのコミュニケーションはむずかしいですよね。言ってもわかってもらえないと思われますか？",
+      "content": "Communication during remote work can be difficult, can't it? Do you feel like you won't be understood even if you speak up?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:15:53",
+      "origin": "上司は、なかなか自分の意見を曲げない人なので。",
+      "content": "My boss is the type of person who doesn't easily change their opinion."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:16:20",
+      "origin": "こじれる方がめんどくさいんです",
+      "content": "It's more of a hassle if things get complicated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:16:58",
+      "origin": "そういうお気持ちになりますよね・・・オンラインになってからよけい感じられますか？",
+      "content": "I can see why you’d feel that way... Do you feel it even more since things moved online?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:17:56",
+      "origin": "zoomとかメールとかあまり慣れてない人なので、正直段取り悪いです",
+      "content": "They’re not very used to Zoom or email, so honestly the coordination is poor."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:18:07",
+      "origin": "上司が",
+      "content": "My boss, I mean."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:18:26",
+      "origin": "それはイライラしてしまいますね・・・",
+      "content": "That must be very frustrating..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:18:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:19:11",
+      "origin": "私もテレワークが増えましたので、まゆさんのお気持ちとてもよくわかりますよ。",
+      "content": "I’ve also been teleworking more myself, so I really understand how you feel, Mayu."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:19:21",
+      "origin": "そうなんですか",
+      "content": "Oh, really?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:19:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:20:26",
+      "origin": "一人仕事ならいいけど、連携しないといけないから、余計にめんどくさいです",
+      "content": "It would be fine if I worked alone, but I have to coordinate with others, which makes it even more of a hassle."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:21:16",
+      "origin": "そう思い始めると、人と会うのも億劫になって。",
+      "content": "Once I start thinking that way, meeting people starts to feel like a chore too."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:21:31",
+      "origin": "そうですよね。連携するのはいろんな気も使いますしね。まゆさんは、上司のことで誰かに相談されたりしますか？",
+      "content": "Right. Coordinating takes a lot of mental energy, doesn't it? Mayu, do you talk to anyone about these issues with your boss?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:21:48",
+      "origin": "あまり…してないです。",
+      "content": "Not really... I haven't."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:22:05",
+      "origin": "皆“仕方ないよねー”みたいな感じなので。",
+      "content": "Everyone’s kind of like, “Well, it can’t be helped,” you know?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:23:09",
+      "origin": "そうだったのですね。ひとりで抱えこんでいたのですね・・・話してくれてありがとうございます。",
+      "content": "I see. So you've been carrying this all by yourself... Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:23:18",
+      "origin": "今回のコロナで、テレワークが進んでいるから、職場があるビルが移転しそうなんです。",
+      "content": "With COVID pushing telework forward, it looks like the building our office is in might be relocated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:24:12",
+      "origin": "移転されるのですか。",
+      "content": "Oh, it's relocating?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:24:14",
+      "origin": "前より通勤が遠くなるし。それを考えると、出社もめんどくさくなって。",
+      "content": "The commute will be longer than before. When I think about that, even going into the office feels like a hassle."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:24:44",
+      "origin": "何か、何もかもがめんどくさくなって来ているんです。",
+      "content": "It feels like everything is starting to become a hassle."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:25:22",
+      "origin": "気もめいってしまいますよね。ときには出社されることもあるのですか？",
+      "content": "That can be really disheartening. Do you still go into the office sometimes?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:25:35",
+      "origin": "今はないです",
+      "content": "Not at the moment."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:25:48",
+      "origin": "緊急事態宣言中だから",
+      "content": "Because we're under a state of emergency."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:26:01",
+      "origin": "担当者以外は出ないです",
+      "content": "Only essential personnel are going in."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:26:18",
+      "origin": "そうですか。当面テレワークが続くのですね。",
+      "content": "I see. So telework will continue for the time being."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:26:24",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:27:06",
+      "origin": "人と会うのも億劫。会社の事もめんどくさい。将来の事も何も考えたくない",
+      "content": "Meeting people feels like a chore. Work is a hassle. And I don't want to think about the future at all."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:27:36",
+      "origin": "これってひょっとしたら、鬱かなと思って。",
+      "content": "I'm starting to wonder if this might be depression."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:28:11",
+      "origin": "何かしたいという気持がわかないんです",
+      "content": "I just don't have the feeling that I want to do anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:28:19",
+      "origin": "そういう時は、ありますよ。",
+      "content": "There are times like that."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:28:50",
+      "origin": "病院受診も、コロナの事を考えると怖いし。",
+      "content": "Going to see a doctor also feels scary when I think about COVID."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:29:02",
+      "origin": "そうですね。",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:29:36",
+      "origin": "宣言が始まってから、割とそんな感じがずっと続いてて。",
+      "content": "I've pretty much been feeling this way ever since the state of emergency was declared."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:30:04",
+      "origin": "どうしたらいいんでしょう？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:30:15",
+      "origin": "テレワークが、始まる前はおっくうになることはありましたか？",
+      "content": "Before you started teleworking, did you ever feel this way, like things were a chore?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:30:29",
+      "origin": "あまりなかったです。",
+      "content": "Not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:30:54",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:31:34",
+      "origin": "前回の宣言の時は、会社自体が繁忙期だったから、逆に出てたんです。",
+      "content": "During the last state of emergency, the company was in its busy season, so contrary to now, I was actually going into the office."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:32:09",
+      "origin": "出社されていたのですね。まゆさんは、どうなったらいいな～と思われていますか？",
+      "content": "So you were going into the office then. Mayu, what do you wish would happen? What would be an ideal situation for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:32:28",
+      "origin": "これからですか？",
+      "content": "You mean, from now on?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:32:41",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:33:09",
+      "origin": "3日間位寝たいです。",
+      "content": "I'd like to sleep for about three days."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:33:37",
+      "origin": "寝れてなかったのですか？",
+      "content": "Have you not been sleeping well?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:34:25",
+      "origin": "仕事は平日は毎日あるから、しんどくても起きなきゃいけないじゃないですか。",
+      "content": "I have work every weekday, so even if I'm exhausted, I have to get up, right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:34:41",
+      "origin": "何も考えずに、寝たいです",
+      "content": "I just want to sleep without thinking about anything."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:35:08",
+      "origin": "そしたら、割とスッキリするかなとも思ったりします。",
+      "content": "I think I might feel quite a bit more refreshed if I did that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:35:39",
+      "origin": "そうですね。何も考えない時間も必要ですよね。まゆさんは、上司や仕事に対してこうなったらいいな～ということはありますか？",
+      "content": "I agree. It's important to have time where you don't have to think about anything. Regarding your boss or your job, is there anything you wish would change?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:36:07",
+      "origin": "上司が理解ある人に代わってほしい(笑)",
+      "content": "I wish my boss would be replaced by someone more understanding (laughs)."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:36:39",
+      "origin": "わかります（笑）私もそういう上司がいますので。",
+      "content": "I get it (laughs). I have a boss like that too."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:37:14",
+      "origin": "逆に私は、抱えずに思ってることを言ってしまう方なので・・・",
+      "content": "On the other hand, I’m the type who doesn’t bottle things up and just says what I’m thinking..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:37:22",
+      "origin": "そうなんですか",
+      "content": "Oh, really?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:37:54",
+      "origin": "はい。オンラインになって、コミュニケーションの取りずらさや連携のしずらさで、私も悩んでいました。",
+      "content": "Yes. Since things moved online, I’ve also struggled with how difficult it is to communicate and coordinate."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:38:29",
+      "origin": "どう解決されたのですか？",
+      "content": "How did you resolve it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:39:19",
+      "origin": "解決出来てない(?_?)",
+      "content": "Or maybe you haven't resolved it? (?_?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:39:27",
+      "origin": "自分が何かを変えないと、何も変わらないと思ったので、自分からZOOM上でも声かけしたり、上司にも、思っていること言うようにしました！",
+      "content": "I realized that nothing would change unless I changed something myself, so I started to proactively speak up in Zoom meetings and also began telling my boss what I was thinking!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:40:43",
+      "origin": "…誰かそういう人がいれば、そうなんでしょうけど、自分がそれをしようとは思わないです。",
+      "content": "...If there was someone else like that, maybe things would change, but I don't feel like I can be that person myself."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:41:17",
+      "origin": "そこまでのパワーがなくて。",
+      "content": "I don’t have that much energy."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:41:33",
+      "origin": "気力というか。",
+      "content": "Mental energy, I mean."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:42:04",
+      "origin": "すみません、私の個人的意見です・・・まゆさんの、今のモヤモヤや、気力が戻れる方法を一緒に考えましょう。",
+      "content": "I’m sorry, that was just my personal opinion... Let’s think together about ways to clear up these frustrating feelings and help you get your energy back."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:42:48",
+      "origin": "何かありますか？",
+      "content": "Do you have any ideas?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:43:30",
+      "origin": "仕事以外で、気持ちを切り替えたり、何をしているときが楽しいって思えますか？",
+      "content": "Outside of work, what helps you change your mood, or what activities do you find enjoyable?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:43:49",
+      "origin": "最近それがないんです。",
+      "content": "Lately, there's been nothing like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:44:03",
+      "origin": "前はなにかありましたか？",
+      "content": "Was there something before?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:44:07",
+      "origin": "楽しいっていう感じが。",
+      "content": "That feeling of enjoyment is gone."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:45:07",
+      "origin": "前はお笑い番組とか、ドラマとか観たりしてたけど、最近TVも何か興味なくなってしまって。",
+      "content": "I used to watch comedy shows and dramas, but lately I’ve lost interest in TV as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:46:07",
+      "origin": "興味なくなってしまったのですね。お休みの日はなにをされていますか？",
+      "content": "You've lost interest, I see. What do you do on your days off?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:47:10",
+      "origin": "メリハリがないから、ダラーッてお菓子食べてたり、ニュース観たり。",
+      "content": "Since there’s no structure to my days, I just lounge around eating snacks or watching the news."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:47:39",
+      "origin": "コロナの事は気になるから、一応観るんです。",
+      "content": "I'm concerned about COVID, so I watch the news about it anyway."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:47:55",
+      "origin": "はい。外出もしずらいですしね。おうちにいる時間が長くなると、メリハリなくなりますしね。",
+      "content": "Yes. It's difficult to go out, too. And when you spend so much time at home, the days can start to blend together."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:48:03",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:49:03",
+      "origin": "オンライン飲み会も一度参加したけど、画面越しだと、何かむなしくなって、１回で止めました。",
+      "content": "I tried an online drinking party once, but it felt kind of empty doing it through a screen, so I stopped after just that one time."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:49:41",
+      "origin": "逆に寂しくなっちゃって。",
+      "content": "It actually made me feel lonelier."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:49:50",
+      "origin": "オンライン飲み会私も苦手です・・・まゆさんは、とてもがんばり屋さんの印象です。毎日、環境が変わったテレワークも一生懸命されていますよね。",
+      "content": "I'm not a fan of online drinking parties either... Mayu, I get the impression that you're a very hard worker. You're working so diligently every day, even with the change in environment to telework."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:49:57",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:50:26",
+      "origin": "毎日のがんばりを、ご自身でもっとほめてあげてもいいと思いますよ！",
+      "content": "I think you could give yourself more praise for your hard work every day!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:50:26",
+      "origin": "仕事はしないと、生活出来ないから。",
+      "content": "I have to work to make a living."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:50:41",
+      "origin": "ほめるんですか。",
+      "content": "You mean, praise myself?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:51:04",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:51:28",
+      "origin": "少し贅沢な物食べるとか?",
+      "content": "Like eating something a bit indulgent?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:51:40",
+      "origin": "それもありですね！",
+      "content": "That's a great idea!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:52:06",
+      "origin": "良く、TVで最近やってますよね。巣籠もりして、楽しみないから。",
+      "content": "They've been showing that on TV a lot lately, right? Since people are cooped up at home and don't have much to look forward to."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:52:45",
+      "origin": "気分変わりますかね…。",
+      "content": "I wonder if that would change my mood..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:53:21",
+      "origin": "テレワークになって、誰かからほめられたり認められたり、話す機会が減ってしまうと少なくなっていると思います。",
+      "content": "With telework, I think the opportunities to be praised or acknowledged by others, or even just to talk with people, have decreased."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:53:28",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:54:53",
+      "origin": "気分変わると思いますよ！がんばられているご自身を、いっぱいほめて、いっぱいねぎらってあげると、やる気がでてきたり、生活にもはりが出てくると思います。",
+      "content": "I think it will change your mood! If you praise and reward yourself for all your hard work, I believe you'll start to feel more motivated and your life will feel more vibrant."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:55:37",
+      "origin": "そんな物でしょうか。",
+      "content": "Is that really how it works?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:57:09",
+      "origin": "まゆさんは、こういうふうにしてみよう～と考えてみることはできそうですか？",
+      "content": "Do you think you could consider trying something along those lines, Mayu?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:57:29",
+      "origin": "今はあまり…",
+      "content": "Not really, right now..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:57:55",
+      "origin": "とりあえず何とかしたいとは思います",
+      "content": "But I do want to do something to fix this, somehow."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:58:31",
+      "origin": "本当に鬱になったら、困るし。",
+      "content": "It would be a problem for me if I actually became depressed."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:58:42",
+      "origin": "そうですよ・・・巣ごもりでも、楽しみを見つけられるのも方法のひとつかもしれないですね。",
+      "content": "That's right... Finding things to enjoy, even while you're cooped up at home, could be one way to approach this."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:59:23",
+      "origin": "まずは楽しみを見つける事からかなー。",
+      "content": "I guess I should start by finding something to enjoy."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:59:46",
+      "origin": "ぜひ楽しみを見つけてみてくださいね♪",
+      "content": "Please do try to find something you enjoy♪"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:00:02",
+      "origin": "とりあえずやってみます",
+      "content": "I'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:00:24",
+      "origin": "応援しています。今日は、お話したいこと話せましたか？",
+      "content": "I’m rooting for you. Were you able to talk about everything you wanted to today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:00:42",
+      "origin": "どうだろう…",
+      "content": "I'm not sure..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:01:24",
+      "origin": "また、どうしたらいいかわからなくなったら、来てもいいですか？",
+      "content": "If I'm not sure what to do again, is it okay for me to come back?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:01:55",
+      "origin": "また、困ったときは、いつでもきてくださいね。お待ちしています。",
+      "content": "Of course. Please come back anytime you're having trouble. I'll be here for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:02:00",
+      "origin": "はい。",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:02:29",
+      "origin": "今日は、ご相談ありがとうございました。",
+      "content": "Thank you for the consultation today."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:02:46",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:03:10",
+      "origin": "週末ゆっくり休んでくださいね。",
+      "content": "Please get some good rest over the weekend."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:03:19",
+      "origin": "はい。",
+      "content": "I will."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:03:46",
+      "origin": "これで終了させていただきます。ありがとうございました。",
+      "content": "This concludes our session. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:04:24",
+      "origin": "お疲れ様でした。詳細な感想はレポートで書きます",
+      "content": "Thank you for your time. I’ll write my detailed feedback in the report."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:04:44",
+      "origin": "よろしくお願いします。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:05:29",
+      "origin": "終了🆗です。",
+      "content": "It's okay to end now.🆗"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:05:58",
+      "origin": "終了させてもらいますね。",
+      "content": "I’ll go ahead and end the session, then."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:06:04",
+      "origin": "はい。",
+      "content": "Okay."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "テレワークによる気力の低下と鬱の兆候"
+  },
+  "review_by_client": {
+    "evaluation_id": 1236,
+    "evaluation_created_at": "2021-01-24T00:02:00",
+    "client_id": 112,
+    "counselor_id": 152,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

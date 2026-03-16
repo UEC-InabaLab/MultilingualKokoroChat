@@ -1,0 +1,687 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-10T09:52:30",
+      "origin": "（おはようございます。本日はお時間を作っていただきありがとうございます。10時になったら始めさせていただきます。よろしくお願いいたします。）",
+      "content": "(Good morning. Thank you for making time today. We will begin at 10 o'clock. I look forward to our session.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T09:53:33",
+      "origin": "（よろしくお願いします）",
+      "content": "(Yes, thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:00:14",
+      "origin": "こんにちは。相談員です。相談に来ていただきありがとうございます。はじめに、年齢と性別、相談内容を教えていただけますか。",
+      "content": "Hello. I'm your counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:00:50",
+      "origin": "こんにちは50歳女性です部下のことで悩んでいます",
+      "content": "Hello, I'm a 50-year-old woman. I'm having a problem with a subordinate."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:01:31",
+      "origin": "教えていただきありがとうございます。部下のどのようなことで悩んでいるのでしょうか？",
+      "content": "Thank you for sharing that. What specifically about your subordinate is troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:02:21",
+      "origin": "32歳の女性です時短勤務で、子供がまだ２歳と小さいです",
+      "content": "She's a 32-year-old woman on reduced hours, and her child is still only 2 years old."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:02:35",
+      "origin": "私達のプロジェクトに途中から参加してくれていますがんばりやさんです",
+      "content": "She joined our project partway through. She's a very hard worker."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:02:55",
+      "origin": "ええ、ええ（聴いていますね）",
+      "content": "Mm-hm, I see."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:04:40",
+      "origin": "時短勤務のことを必要以上に気にしているようで",
+      "content": "She seems overly concerned about being on reduced hours."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:05:06",
+      "origin": "自分が時短のために仕事を他者に引き継ぐとあとから入った自分がみんなに迷惑をかけている、と思うようなんです",
+      "content": "When she hands off work to others because of her shortened hours, she feels that, as someone who joined later, she's inconveniencing everyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:05:57",
+      "origin": "なるほど。部下がそのように感じていると思われているんですね。",
+      "content": "I see. So you believe that's how your subordinate is feeling."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:06:07",
+      "origin": "こちらは理解していますからきっちり引き継いでくれればいいと思っています",
+      "content": "We understand her situation, so as long as she hands things over properly, that’s fine with us."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:07:00",
+      "origin": "ええ、あなたは時短勤務のことも理解しているけど、部下の方が必要以上に気にしていることについて、悩んでいらっしゃるんですね。",
+      "content": "Yes, so you understand her need for reduced hours, but you're concerned because your subordinate seems to be worrying about it more than necessary."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:07:41",
+      "origin": "そうなんです最近はさらに困ったことに…不明点がある時にはメンバーに確認するよう言ってもきかずに放ったらかすようになってきて…",
+      "content": "That's right. And recently, it's become even more of a problem... Even when I tell her to check with other team members if she's unsure about something, she doesn't, and she's started to just leave things unresolved..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:08:15",
+      "origin": "そうなんですか・・。それは上司として困りますね。",
+      "content": "Is that so... That must be difficult for you as her supervisor."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:08:28",
+      "origin": "そうなんです",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:09:14",
+      "origin": "注意すると時短だから、あとから入ったから、迷惑をかけていると言う始末で",
+      "content": "When I point it out, she ends up saying it's because she's on shortened hours and joined later, and that she's causing trouble."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:09:51",
+      "origin": "そんなことは関係なく、組織のルールとして注意してるつもりなんですが",
+      "content": "I'm trying to address it as an organizational rule, regardless of those factors."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:10:25",
+      "origin": "挙げ句に夜、謝罪の長文のラインが来たりするので",
+      "content": "On top of that, she sometimes sends me long, apologetic messages on LINE at night."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:10:48",
+      "origin": "どう指導すればいいのやら、と悩んでます",
+      "content": "I'm at a loss as to how I should guide her."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:11:11",
+      "origin": "そうだったんですね。それはどう対応すればいいのか悩ましいですね。",
+      "content": "I see. That does sound like a difficult situation to handle."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:11:46",
+      "origin": "部下の方とは、いつ頃から一緒にお仕事をされているのですか？",
+      "content": "How long have you been working with this subordinate?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:12:38",
+      "origin": "彼女がプロジェクトに参加したのは昨年11月からです",
+      "content": "She joined the project last November."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:13:12",
+      "origin": "プロジェクト自体は昨年4月からスタートしています",
+      "content": "The project itself started last April."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:14:17",
+      "origin": "そうなんですね。最初の頃は、他のメンバーへの確認はされていたのでしょうか？",
+      "content": "I see. In the beginning, did she check with other team members?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:15:19",
+      "origin": "そうですね",
+      "content": "Yes, she was."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:15:43",
+      "origin": "最初の頃はそういうことはなかったと思います",
+      "content": "I don't think this was an issue in the beginning."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:15:57",
+      "origin": "最近、確認をしなくなってきた、ということなんですね。",
+      "content": "So it’s more recently that she stopped checking, is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:16:02",
+      "origin": "確認をちゃんとしていました",
+      "content": "She used to check properly."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:16:28",
+      "origin": "最近、しなくなったと感じています",
+      "content": "I feel like she's stopped doing it recently."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:16:43",
+      "origin": "なるほど。あなたは、部下が確認しなくなった理由はどのようなことがあるとお考えでしょうか？",
+      "content": "I see. What do you think might be the reasons she stopped checking?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:17:11",
+      "origin": "推測ですけど",
+      "content": "It's just a guess, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:17:44",
+      "origin": "ええ（聴いていますね）",
+      "content": "Yes, please go on."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:19:42",
+      "origin": "時短のために他のメンバーと引継ぎする事自体に申し訳ないと思っていて",
+      "content": "I think she feels guilty about having to hand over work to other members because of her short hours."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:19:50",
+      "origin": "半年のギャップがありますから追いついて理解を深めようという意識も高く",
+      "content": "And since there's a six-month gap, she's very motivated to catch up and deepen her understanding."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:21:12",
+      "origin": "挙げ句、まわりのメンバーにきくことが負担を与えたり迷惑をかけていると思っているんだと",
+      "content": "And as a result, I think she feels that asking other members questions would be a burden or an inconvenience to them."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:21:42",
+      "origin": "なるほど。時短で申し訳ない、頑張らなければという気持ちから、他のメンバーへ確認することを遠慮している、という風に思われているんですね。",
+      "content": "I see. You feel that out of guilt about being on shortened hours and a sense that she has to work extra hard, she's hesitating to check with other members."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:22:56",
+      "origin": "はいそこで彼女は人に確認もせず放ったらかしにしてしまうという…",
+      "content": "Yes. And that's why she doesn't check with anyone and just leaves things unresolved..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:23:22",
+      "origin": "自分なりに考えて後でやろうと思っているんでしょうけど",
+      "content": "I suppose she thinks she'll figure it out on her own and do it later, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:23:51",
+      "origin": "どんな些細なことでも報告はしてほしくて…",
+      "content": "I'd like her to report everything, no matter how small..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:24:07",
+      "origin": "ええ、ええ、上司としては、そう感じますよね。",
+      "content": "Yes, I can understand feeling that way as her supervisor."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:24:31",
+      "origin": "あなたは、部下にどのようになってほしいと思われていますか。",
+      "content": "What would you like to see from her?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:25:04",
+      "origin": "どうすれば彼女にうまく伝えられるものでしょうか",
+      "content": "How can I communicate this to her effectively?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:25:39",
+      "origin": "どのようになってほしい…",
+      "content": "How I'd like her to be..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:27:27",
+      "origin": "なかなか考えることがない質問だと思いますので、思い浮かばないこともあるかと思います。あなたは、彼女にあなたの思いを伝えたいとお考えなのですね。",
+      "content": "I realize that's not a question you often think about, so it might be difficult to answer. It sounds like you want to convey your feelings to her."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:28:11",
+      "origin": "それは先程から言う通り、なにか不明なことや問題と思うことがあれば報告してほしいということと必要以上に時短であることを気にしないでほしいということです",
+      "content": "As I've been saying, I want her to report whenever she has questions or sees a problem, and I want her not to worry excessively about being on reduced hours."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:28:32",
+      "origin": "普通に仕事をしてほしいんです",
+      "content": "I just want her to work normally."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:29:51",
+      "origin": "ええ、そうなのですね。あなたは部下の方の頑張りも分かっているからこそ、時短勤務であることを気にせず、普通に仕事をしてほしいと思われるのですね。それでは、そのことをどのように部下に伝えていけばよいのか、一緒に考えたいと思いますがよろしいでしょうか？",
+      "content": "Mm-hm, I understand. Because you recognize how hard she's trying, you just want her to work normally without being so concerned about her reduced hours. If it's all right with you, I'd like to think together about how you might best communicate that to her."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:30:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:30:49",
+      "origin": "今までは、どのような感じで部下に話をされてきましたか？",
+      "content": "Up to now, how have you been talking with her about this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:31:45",
+      "origin": "彼女に対してですか?",
+      "content": "With her specifically?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:32:00",
+      "origin": "はい、そうです。分かりにくくてすみません。",
+      "content": "Yes, that's right. I'm sorry if that was unclear."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:32:33",
+      "origin": "いえ",
+      "content": "No, it's fine."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:33:37",
+      "origin": "彼女の出勤時にはもうほかのメンバーは仕事に没頭し始めています",
+      "content": "By the time she comes in, the other members are already absorbed in their work."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:33:48",
+      "origin": "私もそうですが",
+      "content": "Myself included."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:33:56",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:35:17",
+      "origin": "一旦作業を止めて前日彼女が帰ったあとの進捗状況を説明したり",
+      "content": "I have to stop what I'm doing to explain the progress made after she left the previous day,"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:35:52",
+      "origin": "今日やってほしいことの仕事内容を簡単に説明します",
+      "content": "and briefly explain the tasks I need her to do for the day."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:35:52",
+      "origin": "ええ（聴いていますね）",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:37:11",
+      "origin": "そうなのですね。部下の方とは、普段はどのような関係でしょうか。お仕事以外でお話される機会は少ないでしょうか？",
+      "content": "I see. What is your relationship with your subordinate like usually? Do you have few opportunities to talk outside of work?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:37:52",
+      "origin": "プロジェクト自体があまりうまく進んでいないので、都度都度状況を確認しながらメンバーに指示をするので彼女には個別に接して説明をしていますこの毎日の繰り返しです",
+      "content": "The project itself isn't going very smoothly, so I have to constantly check the status and give instructions to the members. I explain things to her individually. It's the same thing every day."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:38:35",
+      "origin": "彼女とは時間が合わせづらいんです",
+      "content": "It's hard to find a time that works for both of us."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:38:57",
+      "origin": "彼女が帰る頃は私が会議だったり",
+      "content": "When she's about to leave, I'm often in a meeting."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:39:27",
+      "origin": "彼女は帰宅したあとは家のことでてんてこ舞いだし",
+      "content": "and after she gets home, she's swamped with things to do around the house."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:40:05",
+      "origin": "だから落ち着いた頃長文のラインを送ってくるんです",
+      "content": "That's why she sends me those long messages on LINE when things have settled down for her."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:41:04",
+      "origin": "聴いてあげたい気持ちはありますがラインの中身は謝罪ばかりで正直こちらも滅入ってしまいそうです",
+      "content": "I want to be there to listen, but the messages are filled with nothing but apologies, and to be honest, it's starting to weigh on me too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:41:32",
+      "origin": "毎日個別に指示をするのは、あなたにとっても大変なことかと思います。あなたは、部下の状況について、よく理解されているのですね。夜、長文の謝罪のラインが送られてくるのは、困惑してしまいますよね。あなたはそのラインを受け取ってどのように感じましたか。",
+      "content": "Giving her individual instructions every day must be quite a task for you as well. You seem to have a very good understanding of your subordinate's situation. It must be disconcerting to receive long, apologetic messages at night. How did you feel when you received those messages?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:42:08",
+      "origin": "言いたいことがあるんだろうなと思っています",
+      "content": "I imagine she has things she wants to say."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:42:53",
+      "origin": "言いたいことがあるけれど、なかなか時間も合わずに直接お話できないので、ラインで送ってくるということですね。",
+      "content": "So she has things she wants to say, but since your schedules don't align and you can't talk directly, she sends them via LINE."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:43:13",
+      "origin": "そうだと思います",
+      "content": "I think so."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:43:37",
+      "origin": "夜、ラインで気持ちを送るということは、それだけあなたのことを頼られているのだと感じました。",
+      "content": "Sending her feelings through LINE at night suggests to me that she relies on you a great deal."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:44:24",
+      "origin": "そうですよね",
+      "content": "You're right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:44:39",
+      "origin": "でも、夜まで部下の対応をするのは、あなたにとっては大きな負担になっているのかと思います。",
+      "content": "However, I imagine that dealing with a subordinate late into the night is becoming a significant burden for you."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:46:24",
+      "origin": "彼女もそうだと思います",
+      "content": "I think it is for her, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:47:24",
+      "origin": "ええ、双方にとって、大きな負担となっていると思われるのですね。夜、ラインを送ることについては、お話されたことはありますか？",
+      "content": "Yes, it seems it's a heavy burden for both of you. Have you ever talked about her sending messages at night?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:49:37",
+      "origin": "やめてとはいえませんよね",
+      "content": "I can't just tell her to stop, can I?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:50:19",
+      "origin": "ラインは彼女の対処法なんだと思います",
+      "content": "I think LINE is her coping mechanism."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:50:31",
+      "origin": "ええ、お話を聴いてあげたいという、お気持ちがあるのですものね。",
+      "content": "Yes, because you do have the desire to listen to what she has to say."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:51:15",
+      "origin": "ラインは彼女にとって必要なことだと感じていらっしゃるんですね。",
+      "content": "So you feel that sending those messages is something she needs to do."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:51:30",
+      "origin": "日中何とかしないとですね!仕事のことなんで",
+      "content": "We need to figure something out during the day! It's about work, after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:52:16",
+      "origin": "ええ、そのように思われたのですね。仕事のことは、業務時間の中で解決した方が良いということですね。",
+      "content": "Mm-hm, so that's how you see it. That work-related matters are best resolved during business hours."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:52:53",
+      "origin": "そう思います",
+      "content": "I agree."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:53:39",
+      "origin": "私も私の上司に監督責任を求められますし",
+      "content": "I'm also held accountable by my own supervisor,"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:54:18",
+      "origin": "何としてもメンバー全員でプロジェクトをうまく持っていかないと…",
+      "content": "We absolutely have to make this project succeed with all our team members..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:54:28",
+      "origin": "そうなのですね。あなたにとっても、彼女にとっても、大きな負担となりますし、一度業務時間外のラインのことについては、話し合われてみても良いかもしれません。",
+      "content": "I understand. It's a heavy burden for both you and her, so it might be a good idea to discuss the matter of the after-hours messages."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:55:18",
+      "origin": "プロジェクトのことでプレッシャーもあり、部下のことも対応しなければならず、あなたも多くの事を抱え込んでいるのかと思います。",
+      "content": "With the pressure from the project and the need to manage your subordinate, it sounds like you're shouldering a lot yourself."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:56:36",
+      "origin": "そうですね",
+      "content": "That's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:57:26",
+      "origin": "彼女と、一度時間をとって話し合うことはできそうでしょうか？",
+      "content": "Would it be possible to set aside some time to talk with her?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:57:41",
+      "origin": "日中ですね",
+      "content": "During the day, you mean."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:58:06",
+      "origin": "ええ、そうですね。難しいかもしれませんが、日中が良いと思います。",
+      "content": "Yes, that's right. It may be difficult, but I think during the day would be best."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:58:38",
+      "origin": "言えてないことを言ってもらう場として",
+      "content": "As an opportunity for her to say what she hasn't been able to."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T10:58:48",
+      "origin": "設けてみます",
+      "content": "I'll try to set that up."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T10:59:34",
+      "origin": "そうですね。その中で、・なにか不明なことや問題と思うことがあれば報告してほしい・必要以上に時短であることを気にしないでほしいというあなたの思いも、改めてお伝えしてみてもよいかもしれませんね。",
+      "content": "Yes. And during that time, it might be a good opportunity to again convey your feelings—that you want her to report anything that's unclear or problematic, and that she doesn't need to worry so much about her reduced hours."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:00:05",
+      "origin": "普段から言ってるつもりですが",
+      "content": "I feel like I tell her that all the time, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:00:33",
+      "origin": "彼女の思いを一度ゆっくり時間をとって聴いてみます",
+      "content": "I'll take the time to really listen to her thoughts."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:00:42",
+      "origin": "提案してみます",
+      "content": "I'll suggest it."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:01:23",
+      "origin": "あ、お時間ですね?",
+      "content": "Oh, is our time up?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T11:01:27",
+      "origin": "ええ、彼女のことを理解し、認めているあなただからこそ、ゆっくりと時間をかけて話し合えば伝わると願っています。",
+      "content": "Yes. Because you understand and acknowledge her efforts, I believe that if you take the time to talk things through slowly, your message will get across."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:01:41",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T11:01:50",
+      "origin": "すみません、終了のお時間となりますが、もし話し合いをされてみて、うまく伝わらなかったり、悩むことがあれば、またいつでも相談にきてくださいね。",
+      "content": "I'm sorry, our time is up, but if you have that conversation and find that it doesn't go well or that you're still struggling, please feel free to come back and talk anytime."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:02:16",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T11:02:19",
+      "origin": "本日はご相談に来ていただきありがとうございました。",
+      "content": "Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:02:36",
+      "origin": "是非そうさせていただきます",
+      "content": "I'll definitely do that."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:02:45",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T11:02:57",
+      "origin": "こちらこそありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T11:03:14",
+      "origin": "（お時間を超過してしまい申し訳ございません。）",
+      "content": "(I apologize for going over our time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-10T11:03:27",
+      "origin": "（貴重なお時間をいただきありがとうございました。この後、終了メッセージを送らせていただきますね。）",
+      "content": "(Thank you for your valuable time. I will send the closing message shortly.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-10T11:03:36",
+      "origin": "（こちらこそありがとうございました）",
+      "content": "(Thank you as well.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "部下の時短勤務に関するコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 6404,
+    "evaluation_created_at": "2024-02-10T11:13:00",
+    "client_id": 475,
+    "counselor_id": 469,
+    "score": 63,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

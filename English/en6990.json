@@ -1,0 +1,579 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:21:43",
+      "origin": "（こんばんは。お時間になりましたら始めさせていただきます。本日は、どうぞよろしくお願いいたします。）",
+      "content": "(Good evening. We'll begin at the scheduled time. I look forward to speaking with you today.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:23:37",
+      "origin": "こちらこそよろしくお願いします。",
+      "content": "Thank you, I'm looking forward to it too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:30:05",
+      "origin": "こんばんは、相談員です。本日はご相談に来て下さり、ありがとうございます。",
+      "content": "Good evening, I'm your counselor. Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:30:12",
+      "origin": "はじめに、年齢、性別を教えて下さい。",
+      "content": "To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:30:47",
+      "origin": "こんばんは、30代男性です。",
+      "content": "Good evening, I'm a man in my 30s."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:30:54",
+      "origin": "ありがとうございます。今日は、どのようなご相談でしょうか。",
+      "content": "Thank you. What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:31:54",
+      "origin": "最近夜あまり眠れず仕事の疲れがとれなくて困っています。",
+      "content": "Lately, I've been having trouble sleeping at night, and I can't seem to shake off my fatigue from work. It's become a problem."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:32:24",
+      "origin": "そうなんですね。夜あまり眠れないと疲れが残ってしまってしんどいですよね。",
+      "content": "I see. When you can't sleep well at night, the fatigue lingers and it's really tough, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:32:44",
+      "origin": "あまり眠れないと感じるようになったのはいつ頃からでしょうか？",
+      "content": "About when did you start feeling like you weren't sleeping well?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:33:21",
+      "origin": "そうですね。半年くらい前辺りですかね…",
+      "content": "Let's see. I think it was about six months ago..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:34:03",
+      "origin": "半年間、苦しんでこられたんですね。半年くらい前、どんなことがあったのでしょうか？",
+      "content": "So you've been struggling for six months. What was happening around that time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:35:47",
+      "origin": "眠れなくてしんどいですね。仕事の事で注意を受けてからですかね…",
+      "content": "It's tough not being able to sleep. I think it started after I received some criticism at work..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:36:29",
+      "origin": "そうだったんですね。お仕事で注意を受けたことでダメージを受けられたんですね。・・・誰からどんな注意を受けたのでしょうか？",
+      "content": "I see. That must have been a blow to receive criticism at work. Who was it from, and what was it about?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:37:31",
+      "origin": "上司から他の人に対して言葉がキツイと言われました。",
+      "content": "My supervisor told me that my language toward others was too harsh."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:38:19",
+      "origin": "そうなんですね。あなたが発する言葉がキツイ、と言われたんですね。それはショックを受けますよね",
+      "content": "I see. You were told that your words come across as harsh. That must have been a shock."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:39:05",
+      "origin": "例えば、どんな言葉が「キツイ」と指摘されたのでしょうか？",
+      "content": "For example, what kinds of words or expressions were pointed out as 'harsh'?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:39:42",
+      "origin": "言葉使いは綺麗ではないので言われた事には納得はしています…",
+      "content": "My choice of words isn't always refined, so I can understand why they'd say that..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:40:21",
+      "origin": "そうなんですね。言葉の内容というより、言葉使いの面で、ということなんですね。",
+      "content": "I see. So it was more about the way you phrased things rather than the content of what you said."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:41:01",
+      "origin": "普段行わなければならない事をやらない人に注意した事で逆に言われたのですが結局やらない人は守られてるのが納得いってない感じです…",
+      "content": "I was reprimanding someone for not doing what they're supposed to do, and in turn, I was told off. I feel like the person who doesn't do their job is being protected, and I just can't accept that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:42:00",
+      "origin": "そうなんですね。仕事として行わなければならないことを注意したのに、言い方がキツイ、と言われるのは納得いかないですよね。そのように上司に言われた後、どんな対応をされましたか？",
+      "content": "I understand. It must be frustrating to be told your wording is harsh when you were just pointing out something that needed to be done for work. After your boss told you that, how did you respond?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:42:21",
+      "origin": "自分に注意した人も自分で言ったのにやれていないとやるせないです…",
+      "content": "It's disheartening when the person who reprimanded me says things but doesn't follow through themselves."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:42:36",
+      "origin": "その後は荒波立てないようにしています。",
+      "content": "Since then, I've been trying not to make waves."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:43:13",
+      "origin": "仕事をしない人が守られるような形になるのは、理不尽ですよね。やるせないお気持ちになるのは当然だと思います。",
+      "content": "It feels unreasonable for the person not doing their work to be protected like that. It's completely understandable that you feel disheartened."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:43:42",
+      "origin": "荒波たてないようにされている、ということは場の空気を大事にされようとしているのですね。",
+      "content": "When you say you're trying not to make waves, it sounds like you're trying to preserve the harmony of the workplace."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:44:15",
+      "origin": "そう言って貰えると救われます。",
+      "content": "Hearing you say that is a relief."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:45:00",
+      "origin": "相手がいる仕事なので大事にするのは空気より相手だと思ってしまう自分がいて…",
+      "content": "Since my work involves other people, there's a part of me that thinks it's more important to prioritize them than the atmosphere..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:46:16",
+      "origin": "上司の言葉をしっかり受け止める誠実さを感じます。けれど、あなたがおっしゃるように、仕事においては空気や雰囲気より、仕事そのもの、仕事相手を大事にするべきだと考えるのは、あなたが仕事の本質をしっかり見ていらっしゃるからだと思います。荒波立てないようにするようにしてから、周りの人はしなければいけない仕事はきちんとされているのでしょうか？",
+      "content": "I sense your sincerity in how you've taken your supervisor's words to heart. However, as you said, thinking that the work itself and the people you work with are more important than the atmosphere shows that you have a firm grasp on the essence of your job. Since you started trying not to make waves, have the people around you been doing the work they're supposed to?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:47:19",
+      "origin": "ありがとうございます。やれていないと思う部分は言うのではなく自分で動くようにしています…",
+      "content": "Thank you. Now, instead of pointing out what I think isn't getting done, I just do it myself..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:47:43",
+      "origin": "そうなんですね。だとすると、あなたは自分の仕事の負担が増えているのではないかと思うのですが、いかがでしょうか？",
+      "content": "I see. In that case, I imagine your own workload has increased—does that feel true for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:49:45",
+      "origin": "以前人に任せて自分勝手にやられたので自分でやる事が多く負担だとは思わなかったです。",
+      "content": "I've had experiences where I delegated work to someone and they did it their own selfish way, so I didn't think of doing more myself as a burden."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:50:28",
+      "origin": "なるほど、人に任せて、かえってあなたの負担が増えてしまったことがあるのですね。",
+      "content": "I see—there was a time when delegating ended up increasing your burden instead."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:51:14",
+      "origin": "そうですね。なので信頼できる人にしか頼まない感じです…",
+      "content": "That's right. So I tend to only ask people I can trust..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:52:24",
+      "origin": "そうなんですね。今までいろいろ苦慮されてきたのでしょう。あなたが職場で強くストレスを感じることは、上司の注意でしょうか？それとも、信頼できない同僚とのやりとりでしょうか？",
+      "content": "I see. You must have had many difficulties up until now. What would you say is the biggest source of stress for you at work? The criticism from your boss? Or your interactions with unreliable colleagues?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:53:29",
+      "origin": "上記以外のことでも何かあれば教えていただければと思います。",
+      "content": "If there's anything else besides those, please feel free to tell me."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:54:27",
+      "origin": "注意は受けとめますが他の人のそれはいいの？といった気持ちが強いです。",
+      "content": "I accept the criticism, but I have this strong feeling of, 'So what they're doing is okay?'"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:54:49",
+      "origin": "自分たちはよくて他の人はダメといった考えが嫌いで…",
+      "content": "I hate the mindset of 'It's okay for them, but not for others'..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:55:13",
+      "origin": "なるほど、そうなんですね。仕事をしていない人が注意されない、というのは腑に落ちないですよね。",
+      "content": "I see, that makes sense. It's hard to accept when people who aren't doing their work don't get called out."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:55:59",
+      "origin": "「自分たちはよくて」の「自分たち」とは「上司と注意されなかった部下」という理解でよろしいでしょうか？",
+      "content": "When you say 'it's okay for them,' does 'them' refer to your boss and the subordinates who weren't criticized? Is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:56:22",
+      "origin": "そうですね。そういった人には注意できない上司にも不信感があります。",
+      "content": "Yes, that's right. I also feel a sense of distrust towards a boss who can't reprimand people like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:56:53",
+      "origin": "そうですよね。あなたがその上司に不信感を抱かれるのはごく自然なことだと思います。",
+      "content": "That makes sense. It's perfectly natural for you to feel distrust toward that supervisor."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:57:46",
+      "origin": "不信感を抱く上司のもとで、また、信頼できない同僚と、働くというのは強くストレスを感じてしまいますよね。",
+      "content": "Working under a boss you don't trust, and with colleagues you can't rely on, must be extremely stressful."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:58:22",
+      "origin": "かなりストレスが強いです…",
+      "content": "The stress is quite intense..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T20:58:45",
+      "origin": "なので自分で行ってたほうが言われた時でも納得できる感じです。",
+      "content": "That's why I feel it's better to do it myself; that way, even if I'm criticized, I can accept it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T20:59:52",
+      "origin": "このような困難な状況の中でも、荒波を立てないようにしながら、信頼できない人の分までご自身で仕事をすすめて、本当に忍耐強く頑張ってこられたのですね。あなたが仕事に対する誠実さをお持ちだからこそやってこられたのだと思います。",
+      "content": "In such a difficult situation, you've managed to avoid making waves while also taking on the work of people you can't trust. You've been working so hard and with such patience. I believe you've been able to do this because you have such sincerity towards your work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:00:18",
+      "origin": "ただ、ストレスが強い状況は変えたいですよね。",
+      "content": "At the same time, you'd like to change this highly stressful situation, wouldn't you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:00:48",
+      "origin": "ありがとうございます。辞めようとかは考えましたが家庭もあるので難しく…",
+      "content": "Thank you. I've thought about quitting, but with a family, it's difficult..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:01:41",
+      "origin": "そうなんですね。辞めようかと考えるくらいに悩みに悩まれてきたのですね。どうなったら少しでもストレスがやわらぐとお考えでしょうか？",
+      "content": "I see. You've been distressed enough to consider leaving. What do you think might ease the stress, even a little?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:02:29",
+      "origin": "自分が変わればいいのかとか、ストレスを発散できるようにするとかですかね…",
+      "content": "Maybe I should change myself, or find ways to release stress..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:03:23",
+      "origin": "そうなんですね、他人は変えられないという前提で、ご自身のとらえ方を変えたり、ストレス発散法を見つけたり、ということをお考えなのですね。",
+      "content": "I see. So, based on the premise that you can't change other people, you're thinking about changing your own perspective or finding ways to relieve stress."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:03:57",
+      "origin": "そうですね。他人を変えるのは難しいので…",
+      "content": "Yes, because changing others is difficult..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:05:35",
+      "origin": "そうなんですね。今、あなたは、仕事をしていない人の分まで頑張っていることをその上司に認められないことをストレスに感じていると思います。",
+      "content": "I see. Right now, I think a major stressor is that your efforts—working even for those who aren't doing their part—aren't being recognized by your supervisor."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:06:25",
+      "origin": "このことを別の見方をするとしたら、どんな風にとらえられると思いますか？",
+      "content": "If you were to look at this from a different perspective, how do you think you could view it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:07:54",
+      "origin": "多分そうだと思います…やらない人には注意もしないのがやるせないですね…",
+      "content": "I think that's probably it... It's just disheartening that they don't even reprimand the people who don't do their work..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:09:04",
+      "origin": "本当にやるせないですよね。・・・その上司は認めてないように感じるかもしれませんが、私はあなたが仕事もお出来になり、周りもよく見えていて、だからこそどの仕事をご自身でやった方がいいか、などがわかるのだと思います。",
+      "content": "It truly is disheartening. You may feel that your boss doesn't acknowledge you, but I believe that you are very capable at your job and are very aware of your surroundings, which is why you know which tasks are better for you to handle yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:09:39",
+      "origin": "会社が必要とする中核を担う人材だと、お話を聴いていて思いました。",
+      "content": "Listening to you, I get the impression that you are a core employee that the company needs."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:11:01",
+      "origin": "そうだといいのですが…",
+      "content": "I hope that's true..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:11:38",
+      "origin": "言葉が強いとは何とも注意されているのでなおせてない自分がいるのは事実です…",
+      "content": "It's true that I'm repeatedly told my words are harsh, so there's a part of me that hasn't been able to fix it..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:12:40",
+      "origin": "上司はあなたの直属の上司だけではないと思います。あなたのことを認めている人も必ずいると思います。言葉が強い、というのはきっとそれだけ仕事に対して熱心に真摯に取り組まれているのではないでしょうか。",
+      "content": "Your direct boss isn't the only superior at your company. I'm sure there are people who recognize your efforts. Perhaps the reason your words are seen as 'harsh' is because you are so passionate and sincere in your approach to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:13:44",
+      "origin": "その日できたこと、したことをノートやメモに書いて、ご自身で承認してみる、というのはいかがでしょうか？",
+      "content": "How about writing down what you were able to do or what you did that day in a notebook or memo, and acknowledging yourself for it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:14:24",
+      "origin": "確かに真面目すぎるからとは言われ事はあります…",
+      "content": "I have been told before that I'm too serious..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:14:52",
+      "origin": "書いて承認すると何かかわりますか？",
+      "content": "Will anything change if I write it down and acknowledge it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:14:58",
+      "origin": "真面目すぎる、のはそれだけ責任感をもって誠実にお仕事をされている、ということですよね。",
+      "content": "Being 'too serious' just means you're doing your job with a strong sense of responsibility and sincerity, doesn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:15:15",
+      "origin": "書いて承認すると、自律神経が整う、という研究結果があります。",
+      "content": "There are research findings that suggest writing and acknowledging things helps to regulate the autonomic nervous system."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:16:05",
+      "origin": "特に寝る前に行うと、寝つきがよくなる、と自律神経の専門医の小林弘幸先生の本に書いてありました。",
+      "content": "Dr. Hiroyuki Kobayashi, a specialist in the autonomic nervous system, wrote in his book that doing this, especially before bed, can help you fall asleep more easily."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:16:34",
+      "origin": "そう言って頂けると救われますね。",
+      "content": "Hearing you say that is reassuring."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:16:53",
+      "origin": "そうなんですね。全く知らない事でした。",
+      "content": "Is that so? I had no idea."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:17:23",
+      "origin": "そうなんですね。まずは１日３つから、でもいいそうです。",
+      "content": "That's right. Apparently, starting with just three things a day is fine."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:18:05",
+      "origin": "３つ出来た事を書くと言う事でしょうか？",
+      "content": "Do you mean I should write down three things I accomplished?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:18:44",
+      "origin": "はい、その日にできたこと、したこと、です。",
+      "content": "Yes, things you were able to do or things you did that day."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:19:12",
+      "origin": "「ご飯を食べた」「時間通り電車に乗れた」「呼吸している」などいつも当たり前にしていることでもいいそうです",
+      "content": "They can even be things you take for granted, like 'I ate a meal,' 'I caught the train on time,' or 'I'm breathing.'"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:20:12",
+      "origin": "そうなんですね。寝れない生活はきついので行ってみようかな…",
+      "content": "I see. This sleeplessness is tough, so maybe I'll give it a try..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:20:54",
+      "origin": "よければ、試してみていただければと思います。相談員も実践しているのですが、はじめてみるとどんな些細なことでも書いていいと思うと、３つより多く書けたりして楽しくなってきます。",
+      "content": "If you'd like, I recommend giving it a try. I do it myself, and once you start, you realize you can write down even the smallest things, and it becomes fun because you find you can write more than just three."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:21:21",
+      "origin": "今までは、どんな方法でストレス発散をされてきましたか？",
+      "content": "Up until now, what methods have you used to relieve stress?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:22:06",
+      "origin": "そうなんですね。今晩から行ってみます。",
+      "content": "I see. I'll start tonight."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:22:23",
+      "origin": "ありがとうございます。ぜひ行ってみてください。",
+      "content": "Thank you. Please do give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:22:44",
+      "origin": "キャンプに興味がありまだ行った事はないですがバーベキューとかがストレス発散になってる気がします。",
+      "content": "I'm interested in camping, and though I haven't gone yet, I feel like having a barbecue helps relieve my stress."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:23:30",
+      "origin": "そうなんですね、バーベキューもとても素敵な発散方法だと思います。",
+      "content": "I see—barbecues are a wonderful way to unwind."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:24:14",
+      "origin": "自然の中で行うので、体内のリズムを整えるうえでも、バーベキューは有効だと思います。人と話しながら食べること自体がストレス発散になりますよね",
+      "content": "Since you do it outdoors in nature, I think barbecues are effective for regulating your body's rhythm. And just eating while talking with people is a stress reliever in itself, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:25:00",
+      "origin": "そうですよね。休みで行っていければと思います。",
+      "content": "You're right. I hope I can go on my days off."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:25:57",
+      "origin": "ぜひ休日にリフレッシュしていただければと思います。仕事の日に気軽にできることでは、ぬるめのお風呂にゆっくりつかることもおすすめですよ。副交感神経を優位にしやすいです。",
+      "content": "I hope you can refresh yourself on your day off. For something you can easily do on a workday, I also recommend taking a long, warm bath. It makes it easier for the parasympathetic nervous system to become dominant."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:27:11",
+      "origin": "そうなんですね。子供もいるのでお風呂でゆっくりする事が難しいです…",
+      "content": "I see. I have children, so it's difficult to relax in the bath..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:27:11",
+      "origin": "ここまで色々お話を聴いてきましたが、申し訳ございません。そろそろお時間が近づいてきました。ここまで、お話をしてみていかがでしたか？",
+      "content": "We've discussed a lot of things, but I'm afraid our time is almost up. How do you feel after talking about all of this?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:27:41",
+      "origin": "同時に送ってしまいましたね、すみません。お子さんがいらっしゃったらゆっくりお風呂は難しいですよね。",
+      "content": "Oh, it seems we sent our messages at the same time, I'm sorry. If you have children, a long bath would be difficult, wouldn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:28:50",
+      "origin": "お仕事でもご家庭でも精一杯がんばっていらっしゃるんですね。",
+      "content": "You’re doing your very best both at work and at home."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:29:41",
+      "origin": "ここまで話してきて自己否定な自分がいましたが他の人に認められたりして気持ちがゆっくりしました。",
+      "content": "After talking this all out, I realize I was being very self-critical, but feeling acknowledged by someone else has helped me feel more at ease."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:30:02",
+      "origin": "教えていただいた事をやってみるうとうと思います。",
+      "content": "I think I'll try the things you've suggested."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:30:59",
+      "origin": "ありがとうございます。今日はお話を聴かせていただきありがとうございました。精一杯、誠実にお仕事に向き合われているあなたが、よく眠れるようになってより充実した毎日を送れることをお祈りしています。",
+      "content": "Thank you. Thank you for sharing your story with me today. I hope that you, who approach your work with such sincerity and effort, will be able to sleep better and lead a more fulfilling life."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:31:39",
+      "origin": "どうかお一人で辛いお気持ちをお抱えにならず、またご相談に来ていただけたらと思います。また、是非いらしてくださいね。今日はご相談に来てくださってありがとうございました。",
+      "content": "Please don't bear these difficult feelings all by yourself; I hope you'll come back to talk again. Please feel free to come back anytime. Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T21:32:25",
+      "origin": "（本日はありがとうございました。このあと終了の合図をいたします。）",
+      "content": "(Thank you for today. I will signal the end of the session shortly.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T21:32:55",
+      "origin": "いろいろお話を聞いてくださりありがとうございます。",
+      "content": "Thank you for listening to me about so many things."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司からの注意によるストレス管理問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 6990,
+    "evaluation_created_at": "2024-06-09T08:41:00",
+    "client_id": 411,
+    "counselor_id": 500,
+    "score": 97,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

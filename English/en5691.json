@@ -1,0 +1,789 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-07T19:51:25",
+      "origin": "こんばんは。本日はよろしくお願いします。",
+      "content": "Good evening. I look forward to our session today."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T19:56:45",
+      "origin": "よろしくお願いします。扱いたいテーマがあれば、遠慮なくおっしゃってください。",
+      "content": "Likewise. If there is a particular theme you'd like to work with, please don't hesitate to say so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T19:58:01",
+      "origin": "お気遣いありがとうございます。",
+      "content": "Thank you for your consideration."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T19:59:24",
+      "origin": "おまかせしたいと思います。",
+      "content": "I'd like to leave it up to you."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:00:52",
+      "origin": "ありがとうございます。承知しました。",
+      "content": "Thank you. Understood."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:01:21",
+      "origin": "こんばんは。相談員です。ご相談して頂きありがとうございます。まずはじめにご年齢と性別、どんなご相談か、お聞かせ願えますか？",
+      "content": "Good evening. I’m the counselor on duty. Thank you for reaching out. To begin, may I ask your age, gender, and what you’d like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:02:13",
+      "origin": "13才　女",
+      "content": "13, female."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:02:45",
+      "origin": "学校がたのしくない",
+      "content": "School isn't fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:03:08",
+      "origin": "お答え頂き、ありがとうございます。",
+      "content": "Thank you for answering."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:03:45",
+      "origin": "そうなんですね。それは疲れてしまいますね・・・。",
+      "content": "I see. That must be exhausting..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:04:07",
+      "origin": "疲れてはないけどね",
+      "content": "I'm not exhausted, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:04:18",
+      "origin": "楽しくないだけ",
+      "content": "It's just not fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:04:52",
+      "origin": "そうですか。失礼しました。学校が楽しくないなって感じ始めたのは、いつ頃からですか？",
+      "content": "I see. My apologies. When did you start feeling that school isn't fun?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:05:09",
+      "origin": "最近",
+      "content": "Recently."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:05:49",
+      "origin": "入学したときは良かったけどね",
+      "content": "It was good when I first started school, though."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:06:48",
+      "origin": "友達みんな忙しくなっちゃった",
+      "content": "All my friends got busy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:07:04",
+      "origin": "なるほど。そうなんですね、それは寂しいですね・・・。",
+      "content": "I see. That makes sense. That must be lonely..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:07:11",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:07:26",
+      "origin": "入学した時は、どんな感じだったんですか？",
+      "content": "What was it like when you first started school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:08:02",
+      "origin": "友達と一緒に遊んだり、しゃべったりしてた",
+      "content": "I used to hang out and talk with my friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:08:35",
+      "origin": "なるほど。それは楽しかったですよね。",
+      "content": "I see. That must have been fun."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:09:09",
+      "origin": "楽しかった",
+      "content": "It was fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:09:56",
+      "origin": "その時の友達は、みなさん何をしているんですか？",
+      "content": "What are those friends doing these days?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:10:27",
+      "origin": "部活とか習い事とか塾とかかな",
+      "content": "Club activities, lessons, cram school, and things like that, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:11:21",
+      "origin": "なるほど。。みんなそれぞれ忙しくて、それだと放課後とか皆で遊んだりできなくなってしまいますよね。",
+      "content": "I see... Everyone is busy with their own things, so you can't really hang out together after school anymore, can you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:11:30",
+      "origin": "誰か遊んでくれる人いたらいいのに",
+      "content": "I wish there was someone to hang out with."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:12:20",
+      "origin": "暇",
+      "content": "I'm bored."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:12:22",
+      "origin": "そうですよね。学校終わった後は遊びたいですよね。",
+      "content": "I understand. You want to have fun after school is over, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:12:39",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:13:42",
+      "origin": "暇なときは、何をしているんですか？",
+      "content": "What do you do when you’re bored?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:14:44",
+      "origin": "音楽聞いたり、マンガ読んだりしている",
+      "content": "I listen to music or read manga."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:15:54",
+      "origin": "そうなんですね。それはそれで、とっても楽しそうだと思うんですが、物足りなさを感じてしまう？",
+      "content": "I see. That sounds very enjoyable in its own way, but do you feel like something is missing?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:16:17",
+      "origin": "友達といる時が一番楽しい",
+      "content": "Being with my friends is the most fun."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:17:00",
+      "origin": "くだらない話が良いんだよ",
+      "content": "It's the silly conversations that are the best."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:17:14",
+      "origin": "そうですよね。おしゃべりしたり、遊んだりしている時にほうが楽しいって感じますよね",
+      "content": "I understand. It feels more fun when you're chatting and hanging out, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:17:29",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:17:36",
+      "origin": "うんうん。そうですよね。それで笑い合ったりしたいですよね。",
+      "content": "Mm-hm, exactly. You want to laugh together and all that."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:17:51",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:18:54",
+      "origin": "友だちと話したいなって思う時は、放課後の他にはどんなときがありますか？",
+      "content": "Besides after school, when else do you feel like talking with friends?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:19:33",
+      "origin": "暇な時",
+      "content": "When I'm bored."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:20:01",
+      "origin": "土日とか暇",
+      "content": "Like, I'm bored on the weekends."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:20:13",
+      "origin": "そうですよね。つまんないと、誰かと話したくなりますよね。",
+      "content": "Right. When you're bored, you feel like talking to someone, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:20:30",
+      "origin": "ひとりでいるのが嫌",
+      "content": "I hate being alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:21:12",
+      "origin": "そうですよね。1人だとつまらないですもんね。",
+      "content": "I understand. It's boring to be by yourself, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:21:17",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:22:08",
+      "origin": "勉強も楽しくないし",
+      "content": "Studying isn't fun either."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:22:32",
+      "origin": "楽しいことがない",
+      "content": "There's nothing fun to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:23:04",
+      "origin": "そうですか。。それは嫌になっちゃいますし、学校がつまらなくなっちゃうのも仕方ないですよね。",
+      "content": "I see. That must be disheartening, and it's understandable that school would start to feel boring."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:23:25",
+      "origin": "何かない？楽しいこと",
+      "content": "Isn't there anything fun to do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:24:10",
+      "origin": "そうですね。。あなたの、好きなこととか、興味のあることって、どんなことですか？もしよければ教えてください。",
+      "content": "Let's see... What are some things you like or are interested in? If you don't mind, could you tell me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:24:36",
+      "origin": "勉強以外でも当然かまいません。",
+      "content": "Of course, it doesn't have to be related to studying."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:24:54",
+      "origin": "うーん音楽聴くことかな",
+      "content": "Umm... listening to music, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:25:24",
+      "origin": "そうなんですね。暇な時は、音楽を聴いたりしていると言ってましたものね。",
+      "content": "I see. You did mention that you listen to music when you're bored."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:25:32",
+      "origin": "どんな音楽を聴くんですか？",
+      "content": "What kind of music do you listen to?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:25:36",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:26:27",
+      "origin": "Novelbrightとか",
+      "content": "Like Novelbright."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:26:43",
+      "origin": "ヒゲダンとか",
+      "content": "And Higedan."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:27:23",
+      "origin": "知ってる？",
+      "content": "Do you know them?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:27:57",
+      "origin": "そうなんですね。Novelbrightは今ちょっと聴いてみてました。ヒゲダンは知ってますよ",
+      "content": "I see. I was just listening to a bit of Novelbright now. I do know Higedan."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:28:40",
+      "origin": "どう？良くない？",
+      "content": "What do you think? Aren't they good?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:28:57",
+      "origin": "Novelbright。男性ボーカルで、高音がとてもきれいですね～",
+      "content": "Novelbright. It's a male vocalist, and his high notes are very beautiful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:29:13",
+      "origin": "ツキミソウって曲を聴いてみてました",
+      "content": "I was listening to their song 'Tsukimisou'."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:29:29",
+      "origin": "でしょでしょ",
+      "content": "Right, right!"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:30:14",
+      "origin": "高音がいいよね",
+      "content": "The high notes are great, aren't they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:30:41",
+      "origin": "いいですね。ほんと。はい。高音がここまできれいに出せる人ってなかなか居ないですよね。",
+      "content": "They're wonderful, really. It's rare to find someone who can produce such clear high notes."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:31:09",
+      "origin": "ちょっと切ない感じがいいんだよね",
+      "content": "The slightly melancholic feel is nice, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:32:06",
+      "origin": "そうですね。歌詞もいいですし。",
+      "content": "I agree. The lyrics are nice too."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:32:36",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:32:52",
+      "origin": "他にはどんなところが好きですか？",
+      "content": "What else do you like about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:33:30",
+      "origin": "癒される感じ",
+      "content": "It feels soothing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:33:46",
+      "origin": "なるほど。確かに。癒やされますよね。",
+      "content": "I see. That's true. It is very soothing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:35:42",
+      "origin": "漫画もお好きなんですよね。",
+      "content": "You like manga too, right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:36:04",
+      "origin": "誰かいないかな",
+      "content": "I wonder if there's anyone..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:36:10",
+      "origin": "あ、うん",
+      "content": "Oh, yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:36:47",
+      "origin": "今、どんな漫画を読んでるんですか？もしよければ教えてください",
+      "content": "What manga are you reading these days? If you don’t mind sharing."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:37:24",
+      "origin": "最近はあんまり読んでないなぁ・・・",
+      "content": "I haven't really been reading much lately..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:37:43",
+      "origin": "そうですか。では、音楽がとってもお好きなんですね。",
+      "content": "I see. So you really like music, then."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:38:09",
+      "origin": "まあそうかな",
+      "content": "I guess so."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:38:29",
+      "origin": "その時にもよるけどね",
+      "content": "It depends on the moment, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:38:47",
+      "origin": "ありがとうございます。そうですよね。その時によって、気分もありますものね。",
+      "content": "Thank you. That's true. Your mood can change depending on the time, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:39:22",
+      "origin": "暇な時って、何してるんですか？",
+      "content": "What do you do when you have free time?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:39:56",
+      "origin": "相談員は、あまり暇な時はないですね・・・。",
+      "content": "As a counselor, I don't have much free time..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:40:12",
+      "origin": "忙しいんだね",
+      "content": "You're busy, huh."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:40:18",
+      "origin": "大変だね",
+      "content": "That must be tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:40:46",
+      "origin": "だから、あなたが音楽を聴いたり、楽しんでいることが、とってもいいなって思います。",
+      "content": "That's why I think it's wonderful that you can listen to music and enjoy yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:41:19",
+      "origin": "そうですね。大変といえば大変ですが、そこそこ楽しんでますよ。",
+      "content": "Well, yes. It can be tough, but I enjoy it for the most part."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:41:20",
+      "origin": "暇だから聴いてるだけ",
+      "content": "I only listen to it because I'm bored."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:41:30",
+      "origin": "そうなんだ",
+      "content": "Oh, I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:42:07",
+      "origin": "はい。でも、偶には息抜きもしますけどね。美味しいものを食べたりとか。",
+      "content": "Yes, but I do take breaks now and then—like going out for something tasty."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:42:22",
+      "origin": "へー",
+      "content": "Huh."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:42:44",
+      "origin": "うらやましい",
+      "content": "I'm jealous."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:44:33",
+      "origin": "そうですか・・・私はあなたのほうがうらやましいって思いますよ。確かに、つまらないって感じていることは、嫌かもって思いますけど。",
+      "content": "Really? I think I'm more jealous of you. Although I understand that feeling bored must be unpleasant."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:44:51",
+      "origin": "うらやましくなんかないよ",
+      "content": "There's nothing to be jealous of."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:45:38",
+      "origin": "何もやることない",
+      "content": "I have nothing to do."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:45:45",
+      "origin": "ひとりだし",
+      "content": "And I'm alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:45:50",
+      "origin": "そうですよね。やっぱり、友達と遊んだりするのが、一番いいですよね。",
+      "content": "I understand. After all, hanging out with friends is the best, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:46:38",
+      "origin": "遊ぶ友達もいない",
+      "content": "I don't even have friends to hang out with."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:46:43",
+      "origin": "最悪だよ",
+      "content": "It's the worst."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:48:15",
+      "origin": "なるほど。そうですよねひとりはつまらないですよね。好きなこと、例えば音楽とかで、誰かと繋がったりできたら、いいのかなって思ったんですが、どう思いますか？",
+      "content": "I see. Yes, being alone is boring. I was thinking it might be nice if you could connect with someone through something you like, for example, music. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:48:47",
+      "origin": "どうやって繋がるの？",
+      "content": "How would I connect with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:49:00",
+      "origin": "携帯ないよ",
+      "content": "I don't have a cell phone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:50:30",
+      "origin": "例えば、好きなアーティストのライブに行ってみたりとか。もちろん保護者の方と同伴でしょうけど。",
+      "content": "For example, you could try going to a concert of an artist you like. Of course, you'd probably have to go with a parent or guardian."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:50:50",
+      "origin": "そんなお金ないよ",
+      "content": "I don't have that kind of money."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:52:01",
+      "origin": "お母さんも忙しいし",
+      "content": "And my mom is busy, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:52:02",
+      "origin": "Youtubeとかで聴いているなら、コメントを残してみるとか。親御さんはそういうの、厳しい人だと難しいかもですけど。",
+      "content": "If you listen on YouTube, you could try leaving a comment. Though that might be difficult if your parents are strict about that kind of thing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:54:00",
+      "origin": "そうなんですね。保護者の方が忙しいと、ちょっと難しいかも知れませんね。",
+      "content": "I see. If your parent is busy, that might make it a bit difficult."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:54:20",
+      "origin": "コメントは好きじゃないな",
+      "content": "I don't like leaving comments."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:55:06",
+      "origin": "見てるだけでいいかな",
+      "content": "I'm fine with just watching."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:55:57",
+      "origin": "そうなんですね。確かに、見てるだけ、聴いてるだけでもいいですよね。",
+      "content": "I see. It's true, just watching and listening is perfectly fine too."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:56:20",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:56:52",
+      "origin": "お友達、お忙しいと思いますが、多分お友達も、あなたと話したいなっておもっているかもしれません。",
+      "content": "Your friends are busy, I'm sure, but they probably want to talk with you too."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:57:04",
+      "origin": "そうかな",
+      "content": "You think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:57:44",
+      "origin": "そうだと思いますよ。ずっと忙しいと、疲れちゃいますしね。",
+      "content": "I do. Being busy all the time is tiring, after all."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:58:44",
+      "origin": "そうだといいな",
+      "content": "I hope so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:59:42",
+      "origin": "ちょっと勇気を出して誘ってみるのも良いと思います。",
+      "content": "I think it might be good to work up a little courage and ask them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:00:03",
+      "origin": "誘いずらいって思っているかも知れませんしね。",
+      "content": "They might be feeling hesitant to ask you, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:00:50",
+      "origin": "すみません。そろそろお時間になってしまいましたが何か話足りない事はございますか？",
+      "content": "I’m sorry, our time is almost up. Is there anything we haven’t covered that you’d like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:00:53",
+      "origin": "誘っているんだけどねなかなか会えない",
+      "content": "I do ask them, but we can never seem to meet up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:01:15",
+      "origin": "なるほど・・・それは寂しいですよね。",
+      "content": "I see... That must be lonely."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:01:46",
+      "origin": "大丈夫聴いてくれてありがとう",
+      "content": "It's okay, thank you for listening."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:02:10",
+      "origin": "時間を見つけて、是非友達とたのしめることを祈ってます！",
+      "content": "I hope you can find some time to have fun with your friends!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:02:27",
+      "origin": "またお話に来て下さいね。ありがとうございました。",
+      "content": "Please come talk again anytime. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:02:40",
+      "origin": "ありがとう",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:02:55",
+      "origin": "（終了します。勉強になりました。ありがとうございました。）",
+      "content": "(We’ll end here. This was a good learning experience. Thank you very much.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:03:18",
+      "origin": "（こちらこそありがとうございました。）",
+      "content": "(Thank you as well.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達との関係の希薄さ"
+  },
+  "review_by_client": {
+    "evaluation_id": 5691,
+    "evaluation_created_at": "2023-09-08T07:16:00",
+    "client_id": 156,
+    "counselor_id": 400,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

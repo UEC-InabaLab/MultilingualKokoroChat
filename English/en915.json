@@ -1,0 +1,813 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-14T15:27:28",
+      "origin": "こんにちは。よろしくお願い致します。",
+      "content": "Hello. It's nice to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:27:36",
+      "origin": "こんにちは。よろしくお願いいたします。",
+      "content": "Hello. It's nice to meet you, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:29:15",
+      "origin": "もうご準備は大丈夫でしょうか？",
+      "content": "Are you ready to begin?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:29:26",
+      "origin": "はい、大丈夫です。",
+      "content": "Yes, I'm ready."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:30:10",
+      "origin": "ありがとうございます。それではよろしくお願いいたします。。",
+      "content": "Thank you. Let's get started then."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:30:19",
+      "origin": "お願いします。",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:30:39",
+      "origin": "こんにちは。相談員です。今日はどのようなご相談でしょうか？",
+      "content": "Hello. I'm your counselor. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:30:50",
+      "origin": "こんにちは。",
+      "content": "Hello."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:31:23",
+      "origin": "家のことなんですけど、子育てとか色々どうしていこうかわからなくてしんどいです。",
+      "content": "It's about my home life. I'm struggling with parenting and various other things, and I don't know what to do. It's exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:31:56",
+      "origin": "はじめにご年齢と性別、なんとお呼びすればよろしいでしょうか。",
+      "content": "First, could you please tell me your age and gender, and what you would like me to call you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:32:11",
+      "origin": "ニックネームでも大丈夫です。",
+      "content": "A nickname is fine, too."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:32:33",
+      "origin": "21歳、女。名前は田中でお願いします。",
+      "content": "I'm 21, female. Please call me Tanaka."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:37:08",
+      "origin": "（メッセージ届いているでしょうか？）",
+      "content": "(Did my message go through?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:37:30",
+      "origin": "今、届きました↑",
+      "content": "It just came through."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:37:53",
+      "origin": "（再送しますね）",
+      "content": "(I'll resend it.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:37:59",
+      "origin": "21歳、女。名前は田中でお願いします。",
+      "content": "I'm 21, female. Please call me Tanaka."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:38:04",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:38:58",
+      "origin": "子育てでお悩みとのことですが、具体的にはどのようなことでお悩みですか？",
+      "content": "You mentioned you're having trouble with parenting. Could you tell me more specifically what you're struggling with?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:39:35",
+      "origin": "ノイローゼというか、とにかく疲れてしまって。子供を叱ることも多くなりました。",
+      "content": "I feel like I'm on the verge of a breakdown, or rather, I'm just completely exhausted. I've been scolding my child more often."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:40:19",
+      "origin": "そうだったのですね。それはしんどいですよね。",
+      "content": "I see. That must be very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:40:33",
+      "origin": "お子様はおいくつですか？",
+      "content": "How old is your child?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:40:34",
+      "origin": "はい",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:40:52",
+      "origin": "子供は3歳です。",
+      "content": "My child is 3 years old."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:41:34",
+      "origin": "そうなのですね。性別はどちらでしょうか?",
+      "content": "I see. And is it a boy or a girl?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:41:57",
+      "origin": "男の子です。",
+      "content": "He's a boy."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:42:39",
+      "origin": "そうなのですね。どんなことが一番お困りですか？",
+      "content": "I see. What is troubling you the most?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:43:41",
+      "origin": "色々ありすぎて…。でもイライラして子供を叱ってしまうのが辛くて自分が嫌になります。",
+      "content": "There are so many things... But it's painful when I get irritated and scold him, and I end up hating myself for it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:45:16",
+      "origin": "そうなのですね。イライラすると怒りたくなってしまいますよね。",
+      "content": "I understand. It's natural to feel like lashing out when you're irritated."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:46:00",
+      "origin": "そうなんですけど、本当は怒りたくないです。",
+      "content": "That's true, but I really don't want to get angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:47:04",
+      "origin": "そうなのですね。怒りたくないのに、と落ち込んでしまいますよね。",
+      "content": "I see. It must be disheartening to feel that way when you don't want to get angry."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:47:21",
+      "origin": "そうなんです。",
+      "content": "Exactly."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:47:38",
+      "origin": "いつも怒った後自己嫌悪です。",
+      "content": "I always feel self-loathing after I get angry."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:48:59",
+      "origin": "そうですよね。",
+      "content": "I can imagine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:49:18",
+      "origin": "それは、悲しくなってしまいますよね。",
+      "content": "That must make you very sad."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:49:45",
+      "origin": "はい、可哀想なことをしてしまったと。",
+      "content": "Yes, I feel like I've done something awful to him."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:50:18",
+      "origin": "そうですよね。ご家族はほかにいらっしゃいますか？",
+      "content": "I understand. Do you have any other family members living with you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:50:35",
+      "origin": "旦那が一緒に住んでます。",
+      "content": "My husband lives with us."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:51:37",
+      "origin": "そうなのですね。夫さんとは、育児についてどのようなことを話しますか？",
+      "content": "I understand. What kinds of conversations do you have with your husband about parenting?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:52:36",
+      "origin": "関心ないみたいで話しても邪険にされておわりです。",
+      "content": "He doesn't seem interested. Even if I try to talk to him, he's just dismissive and that's the end of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:53:17",
+      "origin": "そうでしたか・・それは悲しくなってしまいますよね。",
+      "content": "I see... That must feel very hurtful."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:53:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:54:04",
+      "origin": "普段は、お子さんとどのように過ごしていらっしゃいますか？",
+      "content": "How do you usually spend your time with your child?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:55:46",
+      "origin": "多分普通だと思うんですけど、ご飯食べさせて、遊んだり、昼寝したり。夜はお風呂入れて寝かしつけて。",
+      "content": "I think it's pretty normal. I feed him, we play, and he takes a nap. At night, I give him a bath and put him to bed."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:57:14",
+      "origin": "そうなのですね。それは忙しいですよね。",
+      "content": "I see. That certainly keeps you busy."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T15:57:55",
+      "origin": "３歳だと目が離せないですし、目が回る忙しさかもしれませんね。",
+      "content": "At three years old, you can't take your eyes off him. It must be dizzyingly busy."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T15:58:42",
+      "origin": "ええ、そこは慣れてきたのですが、そろそろ働きに出たりしないとまずいなとも考えていて。",
+      "content": "Yes, I've gotten used to that part, but I'm also thinking that I need to start working soon, or we'll be in trouble."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:00:02",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:00:09",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:00:56",
+      "origin": "いつ頃からお仕事を始めたいとお考えですか？",
+      "content": "When are you thinking of starting work?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:01:42",
+      "origin": "決めてないですがなるべく早く決めておいたほうが良いだろうなと思ってます。",
+      "content": "I haven't decided, but I think I should decide as soon as possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:02:15",
+      "origin": "そうでしたか。お仕事を始めようと思ったきっかけなどはありますか？",
+      "content": "I see. What prompted you to think about starting work?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:02:46",
+      "origin": "旦那がお金をあまり家に入れてくれなくなったので。",
+      "content": "Because my husband has stopped contributing much money to the household."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:03:28",
+      "origin": "そうだったのですね、それは辛いですよね。",
+      "content": "I see, that must be very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:03:56",
+      "origin": "辛いというか、本当に困るなと思って。",
+      "content": "It's not just difficult, it's a real problem."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:04:20",
+      "origin": "子供にもちゃんとした生活をさせてやりたいし。",
+      "content": "And I want to provide a proper and stable life for my child."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:04:28",
+      "origin": "そうですよね、困ってしまいますよね。いつごろからお金を入れてくれなくなったのですか？",
+      "content": "Yes, I can see how that would be troubling. When did he stop contributing money?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:05:01",
+      "origin": "もう半年以上前からですね。",
+      "content": "It's been over six months now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:05:38",
+      "origin": "それは生活に支障が出てしまいますよね。",
+      "content": "That must be impacting your daily life."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:05:55",
+      "origin": "そうなんです。",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:06:02",
+      "origin": "その間はどのように生活していたのですか？",
+      "content": "How have you been managing during that time?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:06:59",
+      "origin": "貯金を崩したり、まとまったお金が必要な時は頭下げて親に借りたりしてました。",
+      "content": "I've been using my savings, and when I needed a larger sum of money, I've had to humble myself and borrow from my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:08:22",
+      "origin": "そうでしたか・・それは切羽詰まったかんじですよね。",
+      "content": "I see... that sounds like a very desperate situation."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:08:39",
+      "origin": "はい、そうなんです。",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:09:08",
+      "origin": "そのことについて夫さんとはお話されましたか？",
+      "content": "Have you spoken with your husband about this?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:10:10",
+      "origin": "もちろんしました。でも、知ったことかという感じで取り合ってもらえませんでした。",
+      "content": "Of course I have. But he acted like he couldn't care less and wouldn't engage with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:11:09",
+      "origin": "それはしんどいですよね・・",
+      "content": "That must be very hard..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:11:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:12:08",
+      "origin": "田中さんのご両親はどのようにお話されていますか？",
+      "content": "What have your parents said about this, Ms. Tanaka?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:13:49",
+      "origin": "母は私が小さい時に他界して、今は父親だけなのですが、父は「そんな男選んだお前が悪い」「それみたことか」みたいな感じで、ろくに相談には乗ってくれません。お金を借りるのも一苦労でした。",
+      "content": "My mother passed away when I was little, so now it's just my father. He says things like, \"It's your fault for choosing a man like that,\" and \"I told you so,\" and he won't really listen to my concerns. Even borrowing money from him was a huge struggle."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:15:00",
+      "origin": "そうでしたか・・お父様にも責められて辛かったですよね。",
+      "content": "I see... It must have been painful to be blamed by your father as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:16:04",
+      "origin": "いつものことなのですが、しんどい時期だったのでこたえましたね。",
+      "content": "It's always like that with him, but it really hit hard because I was already going through such a tough time."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:17:00",
+      "origin": "そうですよね。支えてほしかったですよね。夫さんとは経済的な問題のほかに、どのようなことが困っていますか？",
+      "content": "I understand. You wanted his support. Besides the financial issues, are there any other problems you're having with your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:18:47",
+      "origin": "いえ、もう父には期待しないことに決めてるので、そこは大丈夫なんです。あと、たまに旦那に乱暴に扱われるのも辛いですね。",
+      "content": "No, I've decided not to expect anything from my father anymore, so that part is okay. Also, it's hard when my husband sometimes treats me roughly."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:19:53",
+      "origin": "そうでしたか。夫さんに乱暴に扱われるとは具体的にどのような感じですか？",
+      "content": "I see. When you say he treats you roughly, what does that look like specifically?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:21:46",
+      "origin": "邪魔だったりすると、「どけよ」と蹴られたり、旦那の思うように私が出来てなかったらふざけんなと物が飛んできたりとかですかね。",
+      "content": "If I'm in his way, he'll kick me and say, \"Get out of the way.\" If I haven't done something the way he wants, he'll throw things and yell something like, \"What the hell are you doing?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:22:35",
+      "origin": "それはひどいですね・・お怪我は大丈夫でしたか？",
+      "content": "That's terrible... Were you injured?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:23:01",
+      "origin": "ありがとうございます。アザ程度で済んでます。",
+      "content": "Thank you for asking. It's usually just bruises."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:24:10",
+      "origin": "あざだけでも、それは相手のことを傷つける行為はやってはいけないと思いますよ。",
+      "content": "Even if it's just bruises, hurting another person is something that should never be done."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:24:53",
+      "origin": "今、夫さんはそばにいらっしゃいますか？",
+      "content": "Is your husband nearby right now?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:24:53",
+      "origin": "そうですよね。なんかちょっと麻痺してるのかもしれないです。",
+      "content": "You're right. I might be a little numb to it."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:25:32",
+      "origin": "いえ、大丈夫です。出かけてます。というか家に帰らないことも増えてきましたし。",
+      "content": "No, it's okay. He's out. In fact, he's been not coming home more and more often."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:26:33",
+      "origin": "そうでしたか。もし夫さんにこの相談が見つかりそうになったら、すぐに相談から離れてくださいね。",
+      "content": "I see. If there's any chance your husband might see this conversation, please end the session immediately."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:26:52",
+      "origin": "そうなんですね。分かりました。",
+      "content": "Oh, okay. I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:27:26",
+      "origin": "それから見つかる可能性を考えて、ラインは消去するようにお願いいたします。",
+      "content": "And also, considering the possibility of him finding it, I ask that you please delete this chat history."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:27:45",
+      "origin": "はい、分かりました。そうします。",
+      "content": "Yes, I understand. I'll do that."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:27:55",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:28:10",
+      "origin": "こちらこそ、ご心配ありがとうございます。",
+      "content": "Thank you for your concern."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:28:56",
+      "origin": "今までのお話をお聞きして、経済的に困って借金をしてしまうくらい追い詰められている状態だと思います。",
+      "content": "From what you've told me, it sounds like you're in a corner, facing financial difficulties to the point of having to borrow money."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:29:09",
+      "origin": "ええ、そうですね。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:29:22",
+      "origin": "とてもつらく生活に支障が出ている苦しい状態ですよね。",
+      "content": "It's a very painful situation that's clearly affecting your daily life."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:29:33",
+      "origin": "はい、辛いです。",
+      "content": "Yes, it's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:30:43",
+      "origin": "一般的には、配偶者にお金を渡さず、経済的に困らせる行為は、嫌がらせであると思います。",
+      "content": "Generally speaking, a spouse withholding money and causing financial hardship is considered a form of harassment."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:31:01",
+      "origin": "ええ、そうなんですね。",
+      "content": "Oh, I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:31:56",
+      "origin": "世間一般では、そういうことを配偶者に対する経済的DVだと言われています。",
+      "content": "In society, that kind of behavior is called financial domestic violence, or financial abuse."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:32:26",
+      "origin": "そうなんだ。これもDVなんですね。",
+      "content": "I see. So this counts as DV, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:33:31",
+      "origin": "はい、そうですね。それから、配偶者にケガをさせたり、蹴ったりという行為も世間一般ではDVだと言われています。",
+      "content": "Yes, that's right. Also, injuring a spouse or kicking them is generally considered DV as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:34:04",
+      "origin": "あざくらいだから、DVにならないのかと思ってました。",
+      "content": "I thought since it was just bruises, it didn't count as DV."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:34:50",
+      "origin": "そうですよね。一般的にはDVをする人の特徴だと言われています。",
+      "content": "I understand why you might think that. But these are generally considered characteristic behaviors of an abuser."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:35:08",
+      "origin": "そうなんですか。",
+      "content": "Is that so?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:35:22",
+      "origin": "どうしたらいいんでしょうか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:35:33",
+      "origin": "警察とかですか？",
+      "content": "Should I go to the police or something?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:35:55",
+      "origin": "はい、あなたは一般的には、DVの被害者だと思います。",
+      "content": "Yes. Generally speaking, I believe you are a victim of domestic violence."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:36:25",
+      "origin": "そうだったんですね。改めて実感するとショックですね。",
+      "content": "I see. Realizing that now is quite a shock."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:36:52",
+      "origin": "そうですよね。その通りだと思います。",
+      "content": "I can imagine. I believe that's a very valid feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:37:34",
+      "origin": "あなたはこれからどうしたいと思いますか？",
+      "content": "What would you like to do from here?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:38:36",
+      "origin": "はい、とにかく子供を安全に育てたいです。なんだか私の子供への行為もエスカレートしそうなので、そこもなんとかしないとと思ってます。",
+      "content": "Yes, above all, I want to raise my child in a safe environment. I'm also worried my own behavior towards my child might escalate, so I feel I need to do something about that too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:39:38",
+      "origin": "そうですよね。お子さんのことも大切ですよね。もちろん生活のこともご心配ですよね。",
+      "content": "Of course. Your child's well-being is very important. And naturally, you're concerned about your livelihood as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:40:06",
+      "origin": "はい、働いて稼がないと育てられない。",
+      "content": "Yes, if I don't work and earn money, I can't raise him."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:41:44",
+      "origin": "はい、そうですよね。これからご紹介する〇〇〇というところは、DVで困っている人の相談に乗ってくれるところです。そこに連絡してみて、これからどうしたらいいのか、仕事のことなど専門家が相談に乗ってくれます。",
+      "content": "Yes, that's right. There's a place I'd like to introduce you to called XXX that offers support for people experiencing DV. If you contact them, specialists can advise you on what to do from here, including matters like employment."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:42:23",
+      "origin": "そういったところがあるんですね。はい、ちょっと色々聞いてみたいと思います。",
+      "content": "I didn't know such places existed. Yes, I'd like to ask them about various things."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:42:48",
+      "origin": "はい、そうです。一度お気持ちを整理することもできますので、ぜひ一度ご連絡してもらえますか？",
+      "content": "Yes, that's right. It can also be a chance to sort out your feelings, so would you be willing to contact them?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:43:17",
+      "origin": "そうしてみます。ありがとうございました。",
+      "content": "I'll do that. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:43:48",
+      "origin": "話聞いていただいてどうするかも見えてきたので、気持ちが軽くなりました。",
+      "content": "Just talking to you has helped me see what I can do, and I feel a lot lighter."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:44:05",
+      "origin": "もちろん、そのあとにこちらに戻ってこられて、ご相談も受けられます。続きの状態から対応できるように誰が相談員でも、大丈夫です。",
+      "content": "Of course, you are always welcome to come back here for counseling after that. Any counselor will be able to pick up where we left off, so don't worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:44:42",
+      "origin": "心配もあるでしょうが、ぜひ行動をされることを祈っています。",
+      "content": "I know you must be worried, but I truly hope you will take action."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:44:45",
+      "origin": "そうなんですね。じゃあまた相談したいことがあったらまた来ますね。",
+      "content": "I see. Then, if I have more to discuss, I'll come back again."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:45:13",
+      "origin": "はい、子供のためにもそうしてます。今日はどうもありがとうございました。失礼致します。",
+      "content": "Yes, I will, for my child's sake too. Thank you so much for today. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:45:16",
+      "origin": "はい、あなたは邪険に扱われていい存在ではなく、",
+      "content": "Yes—you are not someone who deserves to be treated dismissively,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:45:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:45:39",
+      "origin": "大切にされるべき存在だと思います。",
+      "content": "you are someone who deserves to be cherished."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:46:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:46:10",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:46:15",
+      "origin": "きょうは、ご相談はここまででよろしいでしょうか？",
+      "content": "Shall we conclude our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:46:27",
+      "origin": "はい、大丈夫です。",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:46:50",
+      "origin": "それでは、失礼いたします。ありがとうございました。",
+      "content": "Then I'll sign off. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:47:05",
+      "origin": "こちらこそありがとうございました。失礼致します。",
+      "content": "Thank you as well. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:47:37",
+      "origin": "ダシさん、ありがとうございました。これにて、ロールプレイを終わらせていただきます。",
+      "content": "Thank you, Dashi-san. This concludes the role-play session."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T16:47:58",
+      "origin": "はい、こちらこそありがとうございました。お疲れ様でした。",
+      "content": "Yes, thank you as well. Thank you for your hard work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T16:48:10",
+      "origin": "お疲れさまでした。",
+      "content": "Thank you for your hard work."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "経済的DVによるストレスと子育ての影響"
+  },
+  "review_by_client": {
+    "evaluation_id": 915,
+    "evaluation_created_at": "2020-12-14T17:08:00",
+    "client_id": 115,
+    "counselor_id": 17,
+    "score": 76,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

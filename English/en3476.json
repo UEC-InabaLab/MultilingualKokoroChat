@@ -1,0 +1,711 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-14T09:53:10",
+      "origin": "おはようございます。本日は相談者役をお引き受けくださりありがとうございます。",
+      "content": "Good morning. Thank you for taking on the role of the client today."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T09:53:34",
+      "origin": "よろしくお願いします。",
+      "content": "Thank you. I look forward to our session."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T09:53:51",
+      "origin": "時間になりましたら始めさせていただきますね。よろしくお願いいたします。",
+      "content": "We'll begin when it's time. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:00:19",
+      "origin": "はじめまして、相談員です。本日はどうぞよろしくお願いいたします。よろしければ、まず初めにご年齢と性別をお知らせいただけますか？",
+      "content": "Nice to meet you, I'm the counselor. It's a pleasure to speak with you today. If you don't mind, could you please start by telling me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:00:32",
+      "origin": "ハイ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:00:47",
+      "origin": "28歳男です。",
+      "content": "I'm a 28-year-old man."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:01:04",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:01:22",
+      "origin": "本日の相談内容を伺えますか？",
+      "content": "Could you tell me what you'd like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:01:48",
+      "origin": "仕事が長続きしなくて困っています。",
+      "content": "I'm having trouble keeping a job for long."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:02:27",
+      "origin": "そうなのですね。それはお困りになりますね。",
+      "content": "I see. That must be difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:02:42",
+      "origin": "とても困っています。",
+      "content": "I’m really struggling."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:03:18",
+      "origin": "ええ、そうですよね。",
+      "content": "Yes, I can understand that."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:03:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:04:05",
+      "origin": "長続きしないとのことですが、どのくらいでお仕事を変わられているのでしょうか？",
+      "content": "You mentioned that jobs don't last long for you. How long do you typically stay at a job before you change?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:04:27",
+      "origin": "１から３年くらいです。",
+      "content": "About one to three years."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:04:57",
+      "origin": "そうなのですね。長いと３年ほど続けられるのですね。",
+      "content": "I see. So, at the longest, you've been able to stay for about three years."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:05:32",
+      "origin": "ちなみに今はお仕事をしていらっしゃるのでしょうか？",
+      "content": "By the way, are you currently employed?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:06:11",
+      "origin": "そうですね。３年間は続いたところはありましたが、他は１年前後ですね。今は会社で営業をしています。",
+      "content": "That's right. There was one place where I stayed for three years, but the others were for about a year. I'm currently working in sales at a company."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:06:38",
+      "origin": "そうなんですね。詳しく教えてくださりありがとうございます。",
+      "content": "I see. Thank you for sharing those details with me."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:07:14",
+      "origin": "営業が向かないのですかね。",
+      "content": "I wonder if I'm just not cut out for sales."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:07:59",
+      "origin": "そのようにご心配なのですね。ずっと営業職でいらっしゃいますか？",
+      "content": "So that's what you're worried about. Have you always worked in sales?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:08:26",
+      "origin": "そうなんです。営業しかできないのではないかと思っています。",
+      "content": "Yes. I feel like sales is the only thing I can do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:08:53",
+      "origin": "そうなのですね。そのようにお感じなのですね。",
+      "content": "I see. So that's how you feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:09:12",
+      "origin": "そのようにお感じになる理由は何か思い当たりますか？",
+      "content": "Is there any particular reason you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:10:12",
+      "origin": "特に専門分野がないので、また、外周りは気が楽です。",
+      "content": "I don't have any specialized field, and being out of the office is less stressful for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:11:17",
+      "origin": "そうお感じになっているのですね。では、営業職は向いているようにもお感じでしょうか？",
+      "content": "I see that's how you feel. So, in some ways, do you feel that sales is a good fit for you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:12:37",
+      "origin": "営業は向いていると思いますが、ノルマがきつ過ぎていつもダウンします。",
+      "content": "I think I’m suited for sales, but the quotas are too intense, and I always burn out."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:13:21",
+      "origin": "そうなのですね。たしかに、営業の方はノルマを背負って大変ですよね。",
+      "content": "I see. It's true, people in sales have a lot to deal with when they have to carry those quotas."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:14:04",
+      "origin": "では、営業職は向いていると感じられているけれど、ノルマがきつくて、続かない原因となっているのでしょうか。",
+      "content": "So, you feel you're suited for sales, but the strict quotas are the reason you can't continue?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:14:48",
+      "origin": "はい。ノルマがきつくて、一生数字に追われるのはいやだなと思っています。カウンセラーさんはどんな仕事をしているのですか？",
+      "content": "Yes. The quotas are tough, and I don't like the idea of being chased by numbers for my whole life. What kind of work do you do as a counselor?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:15:12",
+      "origin": "そのようにお考えなのですね。",
+      "content": "I see, so that's what you're thinking."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:15:50",
+      "origin": "カウンセラーさんの仕事はノルマがありますか？",
+      "content": "Does your job as a counselor have quotas?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:15:51",
+      "origin": "わたくしは、カウンセリングの有資格者でカウンセリングに従事させていただいております。",
+      "content": "I am a qualified counselor, and I work in the field of counseling."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:16:36",
+      "origin": "ノルマがないのでしたら、私もカウンセラーに転職してみようかと思いました。",
+      "content": "If there are no quotas, I thought maybe I could try changing careers to become a counselor."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:17:05",
+      "origin": "ノルマのある仕事の経験はあります。わたしもとても大変だった記憶があります。",
+      "content": "I have experience with jobs that had quotas. I also remember it being very difficult."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:17:42",
+      "origin": "では、職種を変えての転職もお考えでいらっしゃいますか？",
+      "content": "So, are you considering a career change to a different type of role?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:18:11",
+      "origin": "若い時はよいのですが、これが一生続くと思うとダウンします。なので、営業以外の方がいいかと思っています。",
+      "content": "It's fine when I'm young, but the thought of this continuing for my entire life is draining. That's why I think something other than sales would be better."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:19:26",
+      "origin": "そうなのですね。では、本日は今のお仕事を続けるためにどうしたらよいかというよりは、転職も視野に入れて今後どうしたら良いか一緒に考えさせていただくということでよろしいでしょうか？",
+      "content": "I see. In that case, rather than focusing on how to continue in your current job, would it be alright if we think together about your next steps, keeping a potential career change in mind?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:20:10",
+      "origin": "そうですね。営業職以外で何かヒントが見つかるとよいですね。",
+      "content": "Yes, that sounds right. It would be great to find some hints for something other than sales."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:20:30",
+      "origin": "はい、では一緒に考えていけたらと思います。",
+      "content": "Alright, then let's think about this together."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:21:13",
+      "origin": "さきほど、カウンセラーも興味がおありとのことでしたが、営業職以外でやってみたい、また続けられそうと思われるお仕事は他にはありますか？",
+      "content": "You mentioned earlier that you're interested in counseling. Besides sales, are there any other jobs that you'd like to try or that you think you could stick with?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:21:54",
+      "origin": "カウンセラーさんは、ノルマのある仕事からどうしてカウンセラーの仕事をやろうと思ったのですか？参考にさせてください。",
+      "content": "What made you decide to switch from a job with quotas to counseling? I'd like to hear your story for reference."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:23:00",
+      "origin": "そうですね、、私の場合ですが、ノルマが嫌になったというよりは、自分がとても悩んで苦しいことがあったときに、カウンセラーさんに助けられた経験があったからです。",
+      "content": "Well, in my case, it wasn’t so much that I disliked the quotas; it was because when I was really struggling and in a lot of pain, a counselor helped me."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:24:07",
+      "origin": "とてもよい話ですね。自分もそんな生き方がしたいですね。カウンセラーをやってみてどうですか？",
+      "content": "That's a wonderful story. I'd like to live my life that way, too. How do you find being a counselor?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:24:49",
+      "origin": "ありがとうございます。とても責任が重く大変だと感じることもありますが、やりがいもとても感じております。",
+      "content": "Thank you. At times I feel it's a heavy responsibility and can be challenging, but I also find it very rewarding."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:25:22",
+      "origin": "わかりました。どうしたらカウンセラーになれるのでしょうか？",
+      "content": "I see. How can I become a counselor?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:26:29",
+      "origin": "日本では、様々なカウンセラーの資格がありますので、まずはどの資格を目指すか、というところからになります。",
+      "content": "In Japan, there are various qualifications for counselors, so the first step would be to decide which qualification to aim for."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:26:57",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:27:10",
+      "origin": "どの資格がいいですかね。",
+      "content": "Which qualification do you think would be best?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:28:34",
+      "origin": "はい、資格がなくても名乗る方はいらっしゃるのですが、最近、国家資格ができましたので一番説得力があるのは国家資格の公認心理士という資格かと思います。",
+      "content": "Yes, while there are people who call themselves counselors without qualifications, a national qualification was recently established. So, I think the one with the most credibility is the national qualification called the 'Certified Public Psychologist'."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:30:03",
+      "origin": "カウンセラーを目指されることも一つの選択肢として良いと思いますが、せっかく業種を変えての転職を考えられるのでしたら、もう少し他にもじっくり考えてみませんか？",
+      "content": "Aiming to become a counselor is certainly a good option, but since you're already considering a career change to a different field, would you like to take some time to carefully consider other possibilities as well?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:30:19",
+      "origin": "公認心理士は、２８歳からでも間に合いますか？",
+      "content": "Is it too late to become a Certified Public Psychologist if I start at age 28?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:30:43",
+      "origin": "すみません、行違いましたね。",
+      "content": "I'm sorry, we seem to have missed each other's point."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:31:08",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:31:26",
+      "origin": "どんな仕事をやろうか迷っています。",
+      "content": "I'm not sure what kind of work I should do."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:31:45",
+      "origin": "ええ、そうですよね。迷うのも無理はありません。",
+      "content": "Yes, I understand. It's perfectly natural to feel unsure."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:32:09",
+      "origin": "ですが、相談者様はとても好奇心がおありで、前向きな方に感じます。",
+      "content": "However, I get the impression that you're a very curious and forward-thinking person."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:32:51",
+      "origin": "転職ばかりして今後が不安ですね。",
+      "content": "I keep changing jobs, so I'm worried about my future."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:33:19",
+      "origin": "お仕事が続かないと悩まれながらも、あきらめずに働いていらっしゃいますし、新しい分野へも挑戦したいとの意思をお持ちです。",
+      "content": "Even though you're worried about not being able to keep a job, you haven't given up on working, and you have the desire to try a new field."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:33:50",
+      "origin": "そうですね。でも何がよいのかが分かりません。",
+      "content": "That's true. But I don't know what would suit me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:34:10",
+      "origin": "ええ、そうですね。悩みますよね。",
+      "content": "Yes, I understand. It’s a tough decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:34:40",
+      "origin": "人間のモチベーションになるものは、やはり「好き」「やりたい」という自発的な気持ちかと思います。",
+      "content": "After all, I believe what motivates people is that spontaneous feeling of “I like this,” or “I want to do this.”"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:34:55",
+      "origin": "いろいろな仕事が世の中にはありますが、自分に合った仕事となると難しいですね。",
+      "content": "There are all sorts of jobs in the world, but it's difficult to find one that's a good fit for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:35:38",
+      "origin": "そうですね、合っている仕事を探そうと思うとやってみないとわからないことも多いので、なんでもやってみることも必要かと思います。",
+      "content": "That's true. When you're looking for a job that's a good fit, there are many things you won't know until you try them, so I think it's important to be open to trying new things."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:36:12",
+      "origin": "ただ、続けるためのモチベーションはやはり「好き」と思えるかどうかがポイントかと思いますが、いかがでしょうか？",
+      "content": "However, when it comes to the motivation to continue, I think the key is whether you can genuinely feel that you 'like' it. What do you think about that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:37:35",
+      "origin": "そうですね。そう考えると思いつくのは、実演販売員ですね。",
+      "content": "That's true. Thinking along those lines, what comes to mind is being a demonstration salesperson."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:38:08",
+      "origin": "そうなのですね。実演販売員がお好きなのですか？",
+      "content": "I see. Are you interested in being a demonstration salesperson?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:38:47",
+      "origin": "営業としてセールストークのスキルはありますので、やってみたいですね。",
+      "content": "I have the skills for sales pitches from my time in sales, so I'd like to give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:39:31",
+      "origin": "そのように自信のあることとやってみたいことが一致するのは素晴らしいですね。",
+      "content": "It’s wonderful when something you’re confident in aligns with what you want to try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:39:57",
+      "origin": "ただ、実演販売員さんとなると、こちらもノルマがありそうですが、そのあたりはいかがでしょうか？",
+      "content": "However, when it comes to being a product demonstrator, it seems like there might be quotas involved as well. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:40:38",
+      "origin": "そうでしたね。会社に所属しないで自分でやってみようかと思いました。",
+      "content": "Oh, that's right. I was thinking I could try doing it independently, without belonging to a company."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:41:42",
+      "origin": "なるほど、会社からノルマを背負わされるのではなく、ご自身で自分の人生を背負われるのですね。それはとても勇気がいることですが、素晴らしい考えだと思います。",
+      "content": "I see. So instead of having quotas imposed on you by a company, you would be taking responsibility for your own life. That takes a lot of courage, and I think it's a wonderful idea."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:42:40",
+      "origin": "でも何を販売したらよいかが問題です。台所用品がいいかなと思っていますが。",
+      "content": "But the problem is what to sell. I was thinking kitchenware might be good."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:43:25",
+      "origin": "そうですね、台所用品は実演販売に効果的そうですよね。",
+      "content": "That's true, kitchenware seems like it would be effective for demonstration sales."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:44:24",
+      "origin": "フライパンとか鍋ですね。スーパーの前で実演しながら毎日販売も一生は疲れそうですね。",
+      "content": "Things like frying pans and pots. But demonstrating and selling them in front of a supermarket every day for the rest of my life sounds exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:44:49",
+      "origin": "そうですね。ですが、実演販売員になるためにも、まずはそのやり方の勉強や実演場所の確保のためにはどうしたらいいかなどを調べる必要がないでしょうか。",
+      "content": "That's true. But in order to become a product demonstrator, don't you think you would first need to research things like the methodology and how to secure locations for demonstrations?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:45:44",
+      "origin": "個人ではなかなかスーパーも契約をしてくれないと思いますので、確保は大事ですね。",
+      "content": "Right, I don't think supermarkets would easily sign a contract with an individual, so securing a location is very important."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:46:54",
+      "origin": "そうですね。どんな分野でも新しく始めるためにはそれなりの下調べや勉強なども必要になってくるかと思います。",
+      "content": "That's right. Starting something new in any field requires a certain amount of preliminary research and study."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:47:50",
+      "origin": "実演販売と言いましたが、営業よりも大変そうですね。",
+      "content": "I mentioned demonstration sales, but it seems even harder than regular sales."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:48:46",
+      "origin": "そうですね、実演販売もずっと話続けたり、立ち続けたりするわけですから…。ただ、体力はやりながらついてくるものもあると思います。また、やはり、それが「好き」で「楽しい」「やりがいがある」と感じられたら、続けるために体力をつけたり、頑張ろうと思えるのではないでしょうか。",
+      "content": "That's true, a product demonstrator has to keep talking and standing for long periods. However, I think stamina is something you can build up as you do it. Furthermore, if you can feel that you 'like' it, that it's 'fun' and 'rewarding', wouldn't that motivate you to build your stamina and persevere?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:49:03",
+      "origin": "実演販売ならそのように思えそうですか？",
+      "content": "Do you think you could feel that way about product demonstration?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:50:31",
+      "origin": "売れなかったら困りますね。また転職です。実演販売は好きではありますが、生活に不安が残りますね。",
+      "content": "If I can't sell anything, I'll be in trouble. It would be another job change. I like the idea of product demonstration, but I'm worried about financial stability."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:52:02",
+      "origin": "そのようにお感じになるのですね。では、ある程度生活が安定して不安がないように、会社員としてノルマのないお仕事を第一前提にしてはいかがでしょうか？",
+      "content": "I understand how you feel. In that case, so that you can have a certain level of financial stability and less anxiety, how about we make it a top priority to find a job as a company employee that doesn't have quotas?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:52:30",
+      "origin": "それがいいと思います。",
+      "content": "I think that's a good idea."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:53:06",
+      "origin": "そして、好きなことに関わるような職種を選べたらと思いますが、ご趣味など何か好きなことはありますか？",
+      "content": "And then, it would be great if you could choose a type of job related to something you like. Do you have any hobbies or other things you enjoy?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:54:14",
+      "origin": "やはり、ノルマが嫌いだということが分かりました。趣味は音楽鑑賞ですが、歌手にはとてもなれるとは思いません。",
+      "content": "I've realized that I really do dislike quotas. My hobby is listening to music, but I don't think I could ever become a singer."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:55:31",
+      "origin": "ノルマは嫌いだとはっきりわかったということは少し目標を定めやすくなりましたね。",
+      "content": "The fact that you've clearly identified that you dislike quotas makes it a little easier to set a goal, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:56:04",
+      "origin": "今日は、ノルマが嫌いだということが分かったことがよかったです。",
+      "content": "I’m glad that I realized today how much I dislike quotas."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:56:09",
+      "origin": "音楽に関わるお仕事でしたら、歌手以外にもたくさんあると思います。",
+      "content": "When it comes to jobs related to music, I think there are many others besides being a singer."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:56:22",
+      "origin": "はい、そうですか。それはよかったです。",
+      "content": "Oh, is that right? I'm very glad to hear that."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:56:41",
+      "origin": "音楽は歌手以外にどんなのがありますか？",
+      "content": "Besides being a singer, what other kinds of music-related jobs are there?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:57:07",
+      "origin": "そして、生活に不安のないような、ある程度安定した会社員ということもはっきりしましたね。",
+      "content": "And we’ve also clarified that having a stable position as a company employee, to avoid financial anxiety, is important to you."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:57:35",
+      "origin": "その通です。",
+      "content": "That's exactly right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:58:32",
+      "origin": "歌手以外の音楽に関わるお仕事ですが、歌手を支える側の会社もありますし、音楽を配信するための会社もあります。また、音楽情報を発信する会社、音楽機器を扱う会社など、多種多様にあると思います。",
+      "content": "As for music-related work other than being a singer, there are companies that support artists, companies that distribute music, companies that publish music information, and companies that handle music equipment—I think there's a wide variety."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:59:00",
+      "origin": "なるほど。いろいろありがとうございます。",
+      "content": "I see. Thank you for all the suggestions."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:59:27",
+      "origin": "相談者様は、これまで転職しつつも、「営業職」という専門職をずっと続けてこられました。",
+      "content": "While you have changed jobs, you have consistently continued in the specialized field of sales."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T10:59:56",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T10:59:57",
+      "origin": "これは続けられている、と自信を持っていいことかと思います。",
+      "content": "I think that’s something you can be confident about—the fact that you've been able to continue with it."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T11:00:07",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:01:13",
+      "origin": "なので、新しい業種や職種でも、「好きなことに関わる」「嫌いなノルマがない」というモチベーションでさらに頑張れるのではないかと思います。",
+      "content": "Therefore, I believe that in a new industry or job type, you'll be able to work even harder with the motivation of 'being involved in something you like' and 'not having the quotas you dislike'."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T11:01:36",
+      "origin": "わかりました。そろそろですね。",
+      "content": "I understand. It's almost time, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:02:07",
+      "origin": "はい、今日ははっきりとした職種までは決められませんでしたが、いかがでしたか？",
+      "content": "Yes. We weren't able to decide on a specific job today, but how was the session for you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T11:02:30",
+      "origin": "よくわかりました。",
+      "content": "This was very helpful."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:03:09",
+      "origin": "ぜひ、新たな方向での転職を検討してみて、その後よろしければまたお話にいらしてください。",
+      "content": "Please consider a career change in this new direction, and if you'd like, feel free to come back and talk again."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:03:23",
+      "origin": "本日は相談にきてくださり、ありがとうございました。",
+      "content": "Thank you for coming in to talk today."
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T11:03:24",
+      "origin": "はい。これで失礼します。",
+      "content": "Okay. I'll be going now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:03:34",
+      "origin": "失礼いたします。",
+      "content": "Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:04:02",
+      "origin": "（お疲れ様でした。長引いてすみませんでした。）",
+      "content": "(Thank you for your time. I'm sorry for going over.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T11:04:27",
+      "origin": "（大丈夫です）",
+      "content": "(No problem at all.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:04:38",
+      "origin": "（これで終了させていただきます。忌憚ない評価のほどよろしくお願いいたします。）",
+      "content": "(This concludes the session. I look forward to your frank evaluation.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-14T11:04:48",
+      "origin": "（はい）",
+      "content": "(Okay.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-14T11:04:53",
+      "origin": "（ありがとうございました。）",
+      "content": "(Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "営業職からの転職希望"
+  },
+  "review_by_client": {
+    "evaluation_id": 3476,
+    "evaluation_created_at": "2022-05-14T12:33:00",
+    "client_id": 265,
+    "counselor_id": 283,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

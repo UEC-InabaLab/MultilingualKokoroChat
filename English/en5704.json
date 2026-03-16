@@ -1,0 +1,489 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:04:51",
+      "origin": "(こんばんわ。お手数をおかけしました。これから始めさせて頂きます。よろしくお願いいたします。）",
+      "content": "(Good evening. Thank you for your patience. We will begin now. It's a pleasure to speak with you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:05:15",
+      "origin": "(よろしくお願いします。)",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:05:38",
+      "origin": "こんばんわ。相談員です。初めに年齢と性別、相談したいことを教えてください。",
+      "content": "Good evening. I'm the counselor. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:06:28",
+      "origin": "40代女性、娘の妊娠について、です。",
+      "content": "I’m a woman in my forties. It’s about my daughter’s pregnancy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:07:23",
+      "origin": "ありがとうございます。娘さんが妊娠されたことについて、お悩みなのですね。もう少し詳しく教えてもらえますか。",
+      "content": "Thank you. I understand you're concerned about your daughter's pregnancy. Could you please tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:08:32",
+      "origin": "娘から妊娠したけれど、どうすれば良いか相談されました。急なことで、動転してしまっています。",
+      "content": "My daughter told me she's pregnant and asked me what she should do. It was so sudden, and I'm feeling very overwhelmed."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:10:01",
+      "origin": "そうなんですね。急な話に驚かれたとのことですが、娘さんはおいくつなのですか。",
+      "content": "I see. It sounds like the sudden news was quite a shock. How old is your daughter?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:11:20",
+      "origin": "中学3年生です。これから高校受験という時なのに。",
+      "content": "She's in her third year of junior high school. And this is right when she's supposed to be preparing for her high school entrance exams."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:12:59",
+      "origin": "なるほど、そういう状況なのですね。思ってもみなかった事だけにどうしたらいいのかわからくなってしまいますよね。",
+      "content": "I see—that’s the situation. When something so unexpected happens, it’s only natural to feel unsure about what to do."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:13:36",
+      "origin": "そうなんです。中絶するタイムリミットも迫っていて、どうすれば良いかわかりません。",
+      "content": "Exactly. The time limit for an abortion is approaching, and I don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:15:33",
+      "origin": "そうなんですね。判断する時期が迫ってきているのは、焦りを感じてしまいますね・・・。娘さんとは色々と話はされているのですか。",
+      "content": "I see. It must feel very stressful with the deadline for a decision approaching. Have you been able to talk much with your daughter about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:16:31",
+      "origin": "本人は泣くばかりで、話が進みません。パパには言わないで、と言うので、夫にも相談できません。",
+      "content": "She just keeps crying, and we can’t make any progress in our conversation. She asked me not to tell her dad, so I can’t even talk to my husband about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:17:57",
+      "origin": "相談された立場として、でも他に相談できない状況は相談者様も辛かったことと思います。娘さんとの話が進まないのは悩ましいですね。",
+      "content": "It must be very difficult for you, being the one she confided in but not being able to talk to anyone else. It's troubling that the conversation with your daughter isn't moving forward."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:19:37",
+      "origin": "娘さんは今は学校には行っているのですか。",
+      "content": "Is your daughter attending school at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:20:22",
+      "origin": "今は休んだり登校したり、体調によってバラバラです。",
+      "content": "Right now it varies—she sometimes stays home and sometimes goes, depending on how she feels."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:21:01",
+      "origin": "体育祭や文化祭も、中学最後の行事だから楽しみにしていたのに。",
+      "content": "She was looking forward to the sports festival and cultural festival too, since they're the last events of junior high."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:22:00",
+      "origin": "そうなんですね。娘さんも楽しみにしていたことができなくなってしまったのですね・・・。娘さんとは相手の方の話もできない状態ですか。",
+      "content": "I see. So your daughter has had to miss out on things she was looking forward to. Are you also unable to talk with her about the other person involved?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:23:15",
+      "origin": "相手が誰かをきいても、答えません。私も、恥ずかしながら娘の交際相手についてあまり知らなくて。高校生だということぐらいしかわかりません。",
+      "content": "When I ask who he is, she doesn't answer. And I'm embarrassed to say I don't know much about who she was dating. All I know is that he's a high school student."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:24:35",
+      "origin": "なるほど、話してくれないのはもどかしいですね。そのような状況でも、少しでもわかることがあるのはいい事だと思います。",
+      "content": "I understand—it’s frustrating when she won’t talk. Even so, I think it's good that there are at least a few things you do know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:26:06",
+      "origin": "でも、色々と考えることがあると思いますが…。いかがですか。",
+      "content": "But I imagine you have many things on your mind... How are you feeling about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:26:59",
+      "origin": "ともかく、産むのか、どうするのかを娘に決めて貰わなければならないと思っています。",
+      "content": "In any case, I feel that my daughter has to be the one to decide whether to have the baby or what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:27:44",
+      "origin": "そうなのですね。娘さんに決めてもらうとお考えなのですね。",
+      "content": "I see. So you feel that your daughter should make the decision."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:28:13",
+      "origin": "だって、堕ろせって、母親の立場で言えますか？",
+      "content": "Because, as a mother, how can I tell her to have an abortion?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:28:40",
+      "origin": "人殺しですよ。",
+      "content": "That would be like murder."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:30:47",
+      "origin": "そうですね。母相談者様は親として、自分も命を育んで、愛しんで、育ててきているのですね。娘さんのこともとても大切に思われているのですね。",
+      "content": "I understand. As a mother, you yourself have nurtured, loved, and raised a life. You care very deeply for your daughter as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:31:37",
+      "origin": "はい。だからこそ、こんなことになって悔しいし悲しいです。",
+      "content": "Yes. That’s why I feel so frustrated and sad that it has come to this."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:32:29",
+      "origin": "お辛いですね。",
+      "content": "That must be very painful for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:34:02",
+      "origin": "娘だけじゃなくて、兄と妹もいるので、その二人への影響も心配です。",
+      "content": "It's not just my daughter; she has an older brother and a younger sister, so I'm worried about the impact on them as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:35:04",
+      "origin": "そういうこともあったのですね・・・。お話をお聞きしてきて、相談者様の悩ましい状況を知ることができました。少しでも相談者様のお役に立ちたいと思うので、お話をもう少しお聞かせくださいね。",
+      "content": "I see, so that's another concern. Listening to you, I've come to understand what a difficult situation you're in. I want to help in any way I can, so please feel free to continue telling me more."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:35:58",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:36:34",
+      "origin": "ありがとうございます。ではお話を簡単にまとめさせていただきます。",
+      "content": "Thank you. Let me briefly summarize what you've told me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:39:09",
+      "origin": "娘さんが妊娠され、相手は高校生。中絶のタイムリミットも近づいているのに、娘さんは泣いていてはっきりとしたことは話せず、話が進まない。ご家族は相談者様以外この状況を知らない。",
+      "content": "Your daughter is pregnant, and the other party is a high school student. The deadline for an abortion is approaching, but your daughter just cries and is unable to talk about it clearly, so the discussion isn't progressing. No one in your family other than you is aware of the situation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:40:16",
+      "origin": "相談者様は、娘さんに決断をしてほしいと思いっている。という感じでしょうか。",
+      "content": "And you feel that you want your daughter to make the decision. Is that about right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:41:08",
+      "origin": "決断したからと言って、すんなり容認できるかはわかりませんが、そんな感じではあります。",
+      "content": "I'm not sure if I can readily accept her decision, whatever it may be, but that's generally how I feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:42:03",
+      "origin": "うんうん、そう、お考えなんですね。ありがとうございます。",
+      "content": "Mm-hm, I see that's what you're thinking. Thank you for sharing that."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:42:04",
+      "origin": "産むにしても産まないにしても、すぐに応援や協力できる気持ちになれるかは、今はまだわかりません。",
+      "content": "Whether she decides to have the baby or not, I don't know if I'll be in the right state of mind to immediately support and cooperate with her decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:42:32",
+      "origin": "コメントが行き違いになりましたね。失礼いたしました。",
+      "content": "It seems our messages crossed. My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:42:54",
+      "origin": "大丈夫です。",
+      "content": "It’s okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:44:44",
+      "origin": "確かに、相談者様はにとってもとても大きな決断になるように相談員も思います。娘さんからお話がなかなか聞けないというのが、一つあると思いますが、どの様に話す機会を作っていますか。",
+      "content": "I agree, this will be a very big decision for you as well. It seems one of the main issues is that it's difficult to hear from your daughter; how have you been creating opportunities to talk with her?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:46:14",
+      "origin": "夫やきょうだいのいない時間で、娘の体調が比較的良さそうな時に、娘の部屋で話しかけてはいます。でも、泣いてばかりなので、お腹の子にも悪影響なんじゃないかと心配してしまいます。",
+      "content": "I try to talk to her in her room when my husband and her siblings aren't home, and when she seems to be feeling relatively well. But she just cries, and I worry that it might be bad for the baby."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:47:08",
+      "origin": "何より、娘が宿った命をどう思っているのかを、知りたいのです。",
+      "content": "More than anything, I want to know how my daughter feels about the life growing inside her."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:48:01",
+      "origin": "でもまだ思春期のせいか、話がなかなかうまく進まず困っています。",
+      "content": "But maybe because she's still a teenager, it's hard to have a productive conversation, and I don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:48:16",
+      "origin": "周りに配慮されて話をされているのですね・・・。母親として、命の大切さを知っているからいえる言葉だと思います。",
+      "content": "You’re being thoughtful about the circumstances when you talk with her. I think those are words that could only come from a mother who knows the value of life."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:49:57",
+      "origin": "娘さんも、思うことがたくさんあって、相談者様の前だと感情が湧き出てしまっているのかもしれません。",
+      "content": "Your daughter probably has so much on her mind, and her emotions might just be overflowing when she's with you."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:50:42",
+      "origin": "そうですね、一人で決めろなんて、15歳の子には酷かもしれませんね。",
+      "content": "You’re right, telling a 15-year-old to decide all by herself might be too harsh."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:51:53",
+      "origin": "もう少し娘さんが冷静に話せる事が考えられるといいのかと思いますが…",
+      "content": "I wonder if it would be good to think of ways for your daughter to be able to talk more calmly."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:53:37",
+      "origin": "本当は相手の子やそのご家族とも話し合いたいところです。娘ひとりで苦しむのは納得いきません。",
+      "content": "To be honest, I want to talk with the boy and his family. I can't accept my daughter suffering alone."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:54:50",
+      "origin": "もしかしたら本人同士、LINEで話してるのかもしれませんが、それも教えてくれないのでわかりません。",
+      "content": "They might be talking on LINE between themselves, but she won’t tell me, so I don’t know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:56:09",
+      "origin": "そのようにお考えなのですね。でも、なかなか内容がわからないのは確かに話が進みませんね。例えば学校の保健の先生や、スクールカウンセラーの方に一緒に話を聴いてもらう事から始めるというやり方もあります。",
+      "content": "I see that's how you feel. It's true that the conversation can't move forward if you don't know what's going on. For example, one option could be to start by having the school nurse or a school counselor listen to you both."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:57:09",
+      "origin": "身近な娘さんが親しくしている大人でもいいかとも思います。",
+      "content": "It could also be a trusted adult your daughter is close to."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:57:20",
+      "origin": "学校には言いたくないそうです。みんなに知れたらもう学校に行けない、卒業式にも出られない、と言ってます。",
+      "content": "She says she doesn't want to tell the school. She says if everyone finds out, she won't be able to go to school anymore or even attend her graduation ceremony."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:57:58",
+      "origin": "そうなんですね。学校は嫌なんですね。",
+      "content": "I see. She doesn't want to involve the school."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T20:58:40",
+      "origin": "塾や習い事も特にしてないので、親以外で相談できる大人もいなさそうです。",
+      "content": "She doesn't really go to cram school or have any lessons, so it doesn't seem like there are any other adults she could talk to besides her parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T20:59:38",
+      "origin": "そういう状況なのですね。家族で悩みを分け合えるという思いは娘さんにとっても幸せなことと思います。",
+      "content": "I see that's the situation. I think being able to share her troubles with her family is a fortunate thing for your daughter."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:00:55",
+      "origin": "親しい間柄だけに、感情的になることも十分考えられると思いましたので、第三者が相談する場にいるとよいかとも思ったのですが…。",
+      "content": "Because you are so close, emotions can easily run high, which is why I thought having a third party present during discussions might be helpful..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:01:42",
+      "origin": "今は幸せを感じられるような状況ではないですけどね………第三者がいれば、確かに冷静に話せるかもしれないとは思います。",
+      "content": "It's not exactly a situation where I can feel fortunate... but I do think that with a third party, we might be able to talk more calmly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:01:51",
+      "origin": "病院にはそのような相談はしていますか。",
+      "content": "Have you discussed this with a hospital or clinic?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:03:06",
+      "origin": "まだ病院へは行ってません。市販の検査薬で陽性と出て、どうしようどうしようと思い悩んで日にちが過ぎてしまったそうです。",
+      "content": "We haven't been to the hospital yet. She said she got a positive result from a home pregnancy test, and the days just passed while she was worrying about what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:04:53",
+      "origin": "そうですね。本当に相談者様にとって、今回のことは、身を切りざまれるほどの苦しみだと思います。病院はまだ受診されていないのですね。思い悩まれるのも無理はないと思います。",
+      "content": "I understand. For you, this must be an incredibly painful experience, like being torn apart. You haven't been to the hospital yet. It's completely understandable that you've been so worried."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:05:54",
+      "origin": "娘さんご自身の体のためにも、宿っている命のためにも一度受診をした方が良い時期かもしれませんね。",
+      "content": "For your daughter's own health and for the life she's carrying, it might be a good time for her to see a doctor."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:06:03",
+      "origin": "つい先週聞いたばかりなので、病院に連れて行こうと思ってはいますが、近所は知り合いに見られそうだと娘が不安がっているので、少し離れたところを探しています。",
+      "content": "I only just heard about this last week, so I am planning to take her to a hospital, but my daughter is worried about being seen by someone we know nearby, so I'm looking for a place a little farther away."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:06:18",
+      "origin": "そうですね。",
+      "content": "Yes, that makes sense."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:06:21",
+      "origin": "私の仕事も調整しなければなりませんし。",
+      "content": "And I have to adjust my work schedule as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:06:54",
+      "origin": "まずは病院で相談してみます。あまり時間もないことですし。",
+      "content": "First, I'll try consulting a hospital. We don't have much time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:07:08",
+      "origin": "そうですね。未成年者の妊娠となると、病院側も色々と相談に乗ってくれると思います。",
+      "content": "Yes, that's a good idea. In cases of teenage pregnancy, I'm sure the hospital will be able to offer various kinds of support and advice."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:07:33",
+      "origin": "お医者様に言われれば、娘の受け取り方も違うかもしれませんね。",
+      "content": "If it comes from a doctor, my daughter might take it differently."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:08:21",
+      "origin": "これからについても、お話をしてくれると思います。",
+      "content": "I think they will also be able to talk to you about the future."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:08:41",
+      "origin": "そうだと良いです。",
+      "content": "I hope so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:09:13",
+      "origin": "そろそろお時間となりますが、いかがでしたでしょうか。",
+      "content": "Our time is almost up. How was this session for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:10:58",
+      "origin": "中絶させちゃいけない思いと、でも産んだら娘の人生がどうなるんだろうという不安とで、ごちゃごちゃしてました。聞いていただいて、少し落ち着きました。",
+      "content": "I was a mess, torn between the feeling that she shouldn't have an abortion and the anxiety about what would happen to her life if she did have the baby. Talking to you has helped me calm down a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:11:55",
+      "origin": "こんなことになって悔しい思いも、少し吐き出して楽になりました。",
+      "content": "I was also able to vent some of my frustration that things have come to this, and I feel a little lighter."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:12:34",
+      "origin": "心の内をお聞かせいただき、よかったです。では、これで締めさせていただきます。まだまだ悩みは尽きないと思いますが、相談者様の娘さんを思う気持ち、命を慈しむ気持ちはこれからも大切な思いだと思います。もしまた何かありましたら、ご相談ください。",
+      "content": "I'm glad you were able to share your feelings with me. We will conclude our session here. I'm sure you still have many worries, but I believe your love for your daughter and your reverence for life are precious feelings to hold onto. If anything else comes up, please don't hesitate to reach out."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:12:54",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-11T21:13:25",
+      "origin": "(お疲れさまでした。ありがとうございました)",
+      "content": "(Thank you for your time. I appreciate it.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-11T21:13:36",
+      "origin": "（長くなり申し訳ありませんでした。ありがとうございました。これで締めさせていただきます。）",
+      "content": "(I'm sorry it went on so long. Thank you very much. We'll conclude here.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "娘の妊娠に対する母親の苦悩"
+  },
+  "review_by_client": {
+    "evaluation_id": 5704,
+    "evaluation_created_at": "2023-09-11T22:50:00",
+    "client_id": 420,
+    "counselor_id": 402,
+    "score": 73,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:20:42",
+      "origin": "(こんばんは、本日はよろしくお願いいたします。）",
+      "content": "(Good evening. Thank you for your time today.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:26:45",
+      "origin": "(こんばんは。よろしくお願い申致します)",
+      "content": "(Good evening. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:27:03",
+      "origin": "(クライエント役のご希望はありますか？)",
+      "content": "(Do you have any preferences for the client role?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:27:40",
+      "origin": "（はい、ありがとうございます。高校生　男子の相談が苦手です）",
+      "content": "(Yes, thank you. I'm not very good at counseling high school boys.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:28:17",
+      "origin": "(かしこまりました。内容は特にございませんか？)",
+      "content": "(Understood. Do you have any specific content in mind?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:29:20",
+      "origin": "（内容は、学校の悩みなど、、でもお任せ致します）",
+      "content": "(The content could be something like concerns about school, but I'll leave it up to you.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:29:33",
+      "origin": "(かしこまりました)",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:30:35",
+      "origin": "こんばんは、相談員です。年齢、性別、ご相談内容をお聞かせください。",
+      "content": "Good evening, I'm a counselor. Could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:30:57",
+      "origin": "17 男",
+      "content": "17, male."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:31:14",
+      "origin": "学校がつまらない",
+      "content": "School is boring."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:31:36",
+      "origin": "そうなんですね・・",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:32:22",
+      "origin": "お答えありがとうございます。17歳だと、学年は何年生になりますか？",
+      "content": "Thank you for sharing. At 17, what grade are you in?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:32:39",
+      "origin": "2年",
+      "content": "Second year."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:33:10",
+      "origin": "そうなんですね。いつ頃から学校がつまらないと感じていますか？",
+      "content": "I see. Since when have you felt that school is boring?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:33:43",
+      "origin": "入学してから",
+      "content": "Since I started high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:34:45",
+      "origin": "そうだったんですね。ずっとつまらない気持ちを抱えていたのですね・・",
+      "content": "I see. So you’ve been carrying this feeling of boredom this whole time..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:35:18",
+      "origin": "学校ではどのように過ごしていますか？",
+      "content": "How do you spend your time at school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:35:30",
+      "origin": "普通",
+      "content": "Just normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:36:31",
+      "origin": "ええ、クラスやお友達等はどうすですか？",
+      "content": "I see, and what about your class and friends?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:36:56",
+      "origin": "どうですか？の入れ間違えです。すいません・・",
+      "content": "I meant to type “How is it?”—sorry about that."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:37:02",
+      "origin": "どうって？",
+      "content": "What do you mean by “how”?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:37:49",
+      "origin": "クラスではどのように過ごしていますか？",
+      "content": "How do you spend your time in class?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:38:10",
+      "origin": "普通",
+      "content": "Just normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:38:51",
+      "origin": "そうなんですね。。学校がつまらないのはどんなことがつまらないと感じていますか？",
+      "content": "I see... What specifically makes school feel boring to you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:39:57",
+      "origin": "楽しくないから",
+      "content": "Because it’s not fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:40:54",
+      "origin": "ええ、そうあったんですね・・中学校の時は楽しかったのでしょうか？",
+      "content": "I see, so that’s how it’s been... Was junior high school fun for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:41:28",
+      "origin": "そうでもない",
+      "content": "Not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:42:30",
+      "origin": "そうなんですね・・",
+      "content": "I see..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:43:44",
+      "origin": "学校生活がどうなったら楽しいと思えますか？",
+      "content": "What would make school life feel fun for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:45:00",
+      "origin": "それがわからないから来たんだけど",
+      "content": "That's why I came here; because I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:45:25",
+      "origin": "そういうこと教えてくれるじゃないの？",
+      "content": "Aren't you supposed to tell me things like that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:46:31",
+      "origin": "ええ、そうですね。楽しくないから、つまらないのですね・・",
+      "content": "Yes, you're right. It's boring because it's not fun..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:47:26",
+      "origin": "学校以外の時はどのように過ごしていますか？",
+      "content": "How do you spend your time outside of school?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:48:12",
+      "origin": "え、普通",
+      "content": "Uh, just normal."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:49:29",
+      "origin": "そうなんですね・・学校も普通でしたよね。。普通が分からないのだけど、普通って楽しくないってことかな？",
+      "content": "I see... You said school is “normal” too. I’m not quite sure what “normal” means—does it mean it's not fun?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:52:29",
+      "origin": "答えづらかったかな・・将来、やりたいことやしてみたいことなどあったりしますか？",
+      "content": "Maybe that was hard to answer... Do you have anything you want to do or would like to try in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:53:27",
+      "origin": "何のためにそれきくんですか？",
+      "content": "Why are you asking that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:54:56",
+      "origin": "学校がつまらないと言っていたので、勉強面など将来に不安があったりするのかな？って思いました。",
+      "content": "You mentioned that school is boring, so I wondered if you might be feeling anxious about the future, such as with your studies."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:55:15",
+      "origin": "そーゆーことね",
+      "content": "Oh, so that's what you mean."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:55:47",
+      "origin": "別にそうじゃないです",
+      "content": "It's not really that."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:56:39",
+      "origin": "ええ、学校がつまらないのは勉強が嫌い、友達とうまくいっていないとか、行きたい高校ではなかったなど、あなたはどう思っていますか？",
+      "content": "I see. When school feels boring, sometimes it’s because a person dislikes studying, isn't getting along with friends, or it wasn’t the high school they wanted to go to. For you, what do you think it is?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:57:18",
+      "origin": "友達かな",
+      "content": "Maybe friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:58:49",
+      "origin": "そうなんですね。友達がほしい？気のある人がいないのかな？？",
+      "content": "I see. Do you want to make friends? Or is it that there isn’t anyone you click with?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T20:59:23",
+      "origin": "気のあうの友達：入れ間違えです。。",
+      "content": "I meant “friends you get along with”—that was a typo."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T20:59:53",
+      "origin": "友達はいるけど",
+      "content": "I have friends, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:00:06",
+      "origin": "疲れる",
+      "content": "It's exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:00:39",
+      "origin": "そうなんですね。友達とはどのようなことが疲れますか？",
+      "content": "I see. What is it about being with your friends that's exhausting?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:01:09",
+      "origin": "色々",
+      "content": "Various things."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:01:59",
+      "origin": "ええ、色々ありますよね・・",
+      "content": "Yes, I'm sure there are many things..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:02:16",
+      "origin": "一番疲れるのはどんなことがあるのかな？",
+      "content": "What do you find the most tiring?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:03:07",
+      "origin": "合わせるのがしんどい",
+      "content": "It's tough having to go along with what they want."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:03:38",
+      "origin": "そうなんですね。合わせるのはとても疲れますよね。",
+      "content": "I see. It must be very tiring to always have to go along with others."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:04:08",
+      "origin": "でもみんなそうやってるし",
+      "content": "But everyone does it."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:04:38",
+      "origin": "それって普通でしょ？",
+      "content": "That's normal, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:05:10",
+      "origin": "みんなそうやっているのですね・・もし合わせなかったらどうなるのかな？",
+      "content": "So everyone does that... What do you think would happen if you didn't go along with them?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:05:44",
+      "origin": "ひとりになる",
+      "content": "I'd be alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:06:22",
+      "origin": "そっか・・それは寂しい？一人になりたくないから、みんな合わせているのかな？",
+      "content": "I see... Would that be lonely? Do you think it's because people don't want to be alone that they go along with each other?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:06:40",
+      "origin": "みんなそうでしょ",
+      "content": "Isn't everyone like that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:07:03",
+      "origin": "あなたは一人で平気？",
+      "content": "Are you okay with being alone?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:08:05",
+      "origin": "クラスのみんなそうなんだね・・それが普通なのかは分からないけど、一人は寂しい時もあるし、一人でいたい時もあるかな・・",
+      "content": "So that’s how it is for everyone in your class... I’m not sure if that’s 'normal,' but sometimes being alone can be lonely, while other times you might want to be alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:08:56",
+      "origin": "あなたは一人だと寂しい？",
+      "content": "Do you feel lonely when you're alone?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:09:30",
+      "origin": "寂しいというか、恥ずかしい",
+      "content": "It's not so much lonely as it is embarrassing."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:09:54",
+      "origin": "一人でいたい時もあるけど",
+      "content": "Though there are times I want to be alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:10:21",
+      "origin": "そっか、そっか、ひとりだと恥ずかしいんだね・・みんなに一人だと何か言われる？",
+      "content": "I see, I see, so being alone feels embarrassing to you... Does anyone say anything to you when you're by yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:10:35",
+      "origin": "言われないけど",
+      "content": "They don't say anything, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:10:54",
+      "origin": "あいつぼっちだって思われるし",
+      "content": "They'll think, “That guy's a loner.”"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:11:16",
+      "origin": "そうなんだ。ぼっちは恥ずかしいことなのかな？",
+      "content": "I see. Is being a “loner” something to be embarrassed about, in your view?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:11:27",
+      "origin": "恥ずかしいでしょ",
+      "content": "Of course it is."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:11:39",
+      "origin": "違うの？",
+      "content": "Am I wrong?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:12:05",
+      "origin": "そう思うのはどうしてかな？ひとりでいたい時に一人でいたら恥ずかしいの？",
+      "content": "Why do you think so? Is it embarrassing to be alone even when you want to be?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:12:36",
+      "origin": "ひとりでいたい時はひとりでいますよ",
+      "content": "When I want to be alone, I am alone."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:13:09",
+      "origin": "そうじゃない時に合わせるのがしんどい",
+      "content": "It’s having to go along with them when I don't want to that's tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:13:55",
+      "origin": "そうだよね・・合わせるのはしんどいし疲れると思います。",
+      "content": "That's right... I imagine having to go along with them is hard and tiring."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:14:56",
+      "origin": "ひとりでいたい時は一人でいれるのですね。合わせるのがしんどいのを少し楽になるといいのですが、、どうしたらいいかな？",
+      "content": "So you're able to be alone when you want to be. It would be good if having to go along with others felt a little easier... what do you think might help with that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:15:21",
+      "origin": "わからない",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:16:13",
+      "origin": "ええ、本当はどうしたい気持ちがあるのかな？",
+      "content": "I see. What is it you really want to do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:16:56",
+      "origin": "無理して合わせないとか、",
+      "content": "Like, not forcing myself to go along with them..."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:17:00",
+      "origin": "ひとりでいるとか",
+      "content": "or just being by myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:18:51",
+      "origin": "ええ、一人でいたい時、合わせるとき、無理な時は合わせない等、少しづつやってみるのはできそうですか？",
+      "content": "I see. Do you think you could try, little by little, to be alone when you want to, go along with them when you feel up to it, and not force yourself when it's too much?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:21:45",
+      "origin": "できるけど、",
+      "content": "I could, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:21:56",
+      "origin": "それやると困りそうですね笑",
+      "content": "If I did that, it would probably cause problems, haha."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:22:30",
+      "origin": "ええ、困るのですね・・",
+      "content": "I see, so it would cause problems..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:24:07",
+      "origin": "今日は学校がつまらないと相談に来てくれました。友達と合わせるのがしんどい・・ここでお話してみて今はどう思っていますか？",
+      "content": "You came to talk today about how school is boring, and that it's tough to always have to go along with your friends. Having talked about it here, how are you feeling about it now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:24:51",
+      "origin": "合わせないと、困ると思います",
+      "content": "I think it would cause problems if I don't go along."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:25:27",
+      "origin": "修学旅行あるんで、",
+      "content": "We have a school trip coming up, so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:26:06",
+      "origin": "そうなんですね・・それは困りますよね。楽しい修学旅行にしたいですもんね。",
+      "content": "I see... That would be a problem, wouldn't it? I'm sure you want it to be a fun school trip."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:26:27",
+      "origin": "今日はたくさん質問に答えてくれてありがとうございます。",
+      "content": "Thank you for answering so many questions today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:27:39",
+      "origin": "ここで相談終了のお時間になりました。いいアドバイスができず申し訳ありません。",
+      "content": "Our time for this session is up. I’m sorry I couldn’t offer better advice."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:29:14",
+      "origin": "また、お時間のある時に相談にいらして頂けたらと思います。今日はここで終わりにしたいと思います。よろしいでしょうか？",
+      "content": "I hope you'll come back to talk again when you have time. I'd like to end our session here for today. Is that alright?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:29:38",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T21:29:49",
+      "origin": "(お疲れさまでした、ありがとうございました)",
+      "content": "(Thank you for the session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T21:30:34",
+      "origin": "（本日はありがとうございました。失礼なことあったと思います。勉強になりました。またよろしくお願いします）",
+      "content": "(Thank you very much for today. I apologize if I was rude at any point. It was a great learning experience. I look forward to working with you again.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校がつまらないという悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 6951,
+    "evaluation_created_at": "2024-06-01T07:51:00",
+    "client_id": 420,
+    "counselor_id": 473,
+    "score": 44,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

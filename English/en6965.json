@@ -1,0 +1,525 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-03T10:51:22",
+      "origin": "(こんにちは、本日はありがとうございます。11時になりましたらよろしくお願い致します）",
+      "content": "(Hello, thank you for coming today. I look forward to speaking with you at 11:00.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T10:57:49",
+      "origin": "こちらこそ、よろしくお願いいたします。",
+      "content": "Thank you as well. I look forward to our session."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:00:14",
+      "origin": "こんにちは。相談員です。本日はご相談に来て下さり、ありがとうございます。はじめに、年齢、性別、ご相談内容を教えてください。",
+      "content": "Hello. I'm the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:00:56",
+      "origin": "22歳、女、うつ病により会社でうまく行かないことがある",
+      "content": "I'm 22 years old, female, and I'm having trouble at work due to depression."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:02:24",
+      "origin": "教えていただき、ありがとうございます。会社でうまくいかないというのは、もう少し詳しく教えていただきますか？",
+      "content": "Thank you for sharing that. Could you tell me a bit more about what hasn’t been going well at work?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:03:21",
+      "origin": "今研修中なのですが、説明を受けてもなかなか集中できず、椅子に座っていることすら難しい状態です",
+      "content": "I'm in training right now, but I have a hard time concentrating when things are being explained, and it's even difficult just to stay seated in my chair."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:04:46",
+      "origin": "そうなのですね、とてもしんどいですよね…。",
+      "content": "I see, that must be really tough for you..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:05:21",
+      "origin": "どうしたい良いか全然わからず悩んでいます",
+      "content": "I'm struggling because I don't know what to do at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:07:26",
+      "origin": "そうですよね、戸惑いもしますよね…。この相談では、あなたのお話ししやすいところからで大丈夫ですので、どんなことでも話してくださいね…。",
+      "content": "I understand, it must be confusing... In this session, you can start wherever you feel most comfortable, so please feel free to talk about anything."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:07:47",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:08:18",
+      "origin": "はい、ぜひゆっくりとお話をしていきたいと思いますので、遠慮なくお話ししてくださいね…。",
+      "content": "Of course, I'd like for us to take our time, so please don't hesitate to speak freely."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:08:34",
+      "origin": "何もかもうまく行かずもういっそ消えてしまいたいと思ったりもします",
+      "content": "Nothing is going well, and sometimes I even feel like I just want to disappear."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:09:38",
+      "origin": "そのように思うほど、お辛いお気持ちを抱えながら来ていただいたのですね…。",
+      "content": "You came here carrying feelings so painful that you’ve even had thoughts like that..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:09:58",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:10:21",
+      "origin": "ちなみに今は研修中ということで、４月から入社をされた、新入社員ということでよろしいでしょうか？",
+      "content": "You mentioned you're in training right now. Just to confirm, does that mean you're a new employee who started in April?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:10:29",
+      "origin": "そうです",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:10:46",
+      "origin": "学生の頃にもうつ病でメンタルクリニックに通っていました",
+      "content": "Back when I was a student, I also went to a mental health clinic for depression."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:11:13",
+      "origin": "就職して2ヶ月が経ったところです",
+      "content": "It's been two months since I started working."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:12:06",
+      "origin": "そうだったのですね、学生の頃にもうつ病を抱えながら過ごされてきたのですね…。",
+      "content": "I see—so you were dealing with depression during your student years as well..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:13:23",
+      "origin": "今後のことが心配です",
+      "content": "I’m worried about the future."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:15:55",
+      "origin": "そのようにも感じているのですね…。学生時代はどのようなことでうつ病の症状がありましたか？",
+      "content": "I understand you feel that way... What kind of depression symptoms did you have as a student?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:16:43",
+      "origin": "なんの脈絡もなく私は女だから何もできないのだと思ったり",
+      "content": "Out of nowhere, I'd think, \"I can't do anything because I'm a woman.\""
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:16:55",
+      "origin": "幻覚や幻聴の症状もありました",
+      "content": "I also experienced visual and auditory hallucinations."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:17:48",
+      "origin": "そうだったのですね、メンタルクリニックの先生はどのようにお話しされていましたか？",
+      "content": "I see. What did the doctor at the mental health clinic say?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:18:28",
+      "origin": "学校は休んで薬を飲むようにとのことでした",
+      "content": "They told me to take time off from school and take my medication."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:19:18",
+      "origin": "そうだったのですね、今現在は通われているのでしょうか？",
+      "content": "I see. Are you currently going to a clinic?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:19:49",
+      "origin": "これから通うところです",
+      "content": "I’m about to start going again."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:19:57",
+      "origin": "予約だけとっています",
+      "content": "I have an appointment booked."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:21:04",
+      "origin": "そうなのですね、学生時代にそのような経験をもちながら、社会人になって新たな道へ進まれた、あなたはとても素敵であると感じました…。",
+      "content": "I see. The fact that you went through those experiences as a student and have now moved forward onto a new path as a working adult—I think that’s truly admirable..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:21:15",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:21:46",
+      "origin": "そして、社会人になり、研修中でお話を聴けないという状況になったのはいつ頃からでしょうか？",
+      "content": "And since becoming a working adult, when did you start having trouble concentrating during training?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:22:05",
+      "origin": "初めからです",
+      "content": "From the very beginning."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:22:31",
+      "origin": "そうだったのですね、あなたはその時どのように感じましたか？",
+      "content": "I see. How did you feel at that time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:23:06",
+      "origin": "私は何をやってもダメなんだと思いました",
+      "content": "I felt like I’m no good at anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:24:18",
+      "origin": "そのように感じるのですね…、周りの同期や上司の方とはどのようなお話しされていますか？",
+      "content": "I understand you feel that way... What kinds of conversations have you had with your peers or supervisors?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:24:24",
+      "origin": "ただ、年休がないので会社に出社しなければなりません",
+      "content": "It’s just that I don’t have any paid leave yet, so I have to go into the office."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:24:49",
+      "origin": "周りには特に相談していませんでした",
+      "content": "I haven’t really talked to anyone around me about it."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:25:07",
+      "origin": "私の気持ちがわかるはずもないので",
+      "content": "Because they couldn't possibly understand how I feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:27:29",
+      "origin": "あなたはこれまでのことを抱えながら社会人になったものの病気がふたたび出てきて、どうしたら良いかわからないので、どうしたら良いのか？というお考えで合っておりますでしょうか？",
+      "content": "So, if I'm understanding correctly, you became a working adult while carrying all of this, but now your illness has resurfaced, and you're unsure what to do. You're essentially asking, “What should I do?” Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:28:13",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:28:43",
+      "origin": "今の会社はやめようと思っています",
+      "content": "I’m thinking of leaving my current company."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:29:10",
+      "origin": "ただ、転職したとしてもまた同じことの繰り返しなのではないかと思い、悩んでいます",
+      "content": "However, I'm worried that even if I change jobs, the same thing will just happen again."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:29:22",
+      "origin": "ありがとうございます。あなたを尊重して一緒に話を進めていこうと思います。",
+      "content": "Thank you. I want to respect your thoughts and move forward with this conversation together."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:30:02",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:30:21",
+      "origin": "そうなのですね、転職をお考えになった理由はどんなことがありますか？",
+      "content": "I see. What are your reasons for considering a job change?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:31:14",
+      "origin": "今の自分には務まらないと思っているからです",
+      "content": "Because I don't think I'm capable of doing the job in my current state."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:31:58",
+      "origin": "そうなのですね、研修中で２か月が経つと思いますが、どんなことが務まらないとお考えでしょうか？",
+      "content": "I see. It’s been two months of training; what aspects of the job make you feel you're not capable of handling it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:32:43",
+      "origin": "うつの症状かもしれませんが、私に務まる仕事などない気がしています",
+      "content": "It might be a symptom of my depression, but I feel like there's no job out there that I can do."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:33:29",
+      "origin": "周りの同期は研修からも様々なことを学んでいますが、私は研修を受けること自体ままなりません",
+      "content": "My peers are learning all sorts of things from the training, but I can barely even participate in the training itself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:35:14",
+      "origin": "ええ、あなたは社会人になって色々抱えながらも２か月もの間、頑張って出勤されて、学ぼうと思っているのはぜひ、自分をほめてあげてくださいね…。",
+      "content": "Yes, please give yourself credit. Despite everything you're dealing with, you've managed to go to work for two months and are still trying to learn."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:35:59",
+      "origin": "はい、自分でも2ヶ月間良く頑張ったと思います",
+      "content": "Yes, I do think I did a good job sticking with it for two months."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:36:29",
+      "origin": "はい、学生時代はお薬を飲むと症状は楽になったのでしょうか？",
+      "content": "Yes. During your student days, did taking medication help ease your symptoms?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:37:02",
+      "origin": "ただ、今後のことを考えると、自分に何が向いているのかもわからずよくわからなくなります",
+      "content": "But when I think about the future, I don’t even know what suits me, and I just feel lost."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:37:22",
+      "origin": "学生時代は薬で安定していました",
+      "content": "During my student years, the medication kept me stable."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:39:18",
+      "origin": "そうでしたか、、色々なお考えがありながらもお薬を飲みながらも、慌てず、ゆっくり考えていくのも一つかと思いますがいかがでしょうか？",
+      "content": "I see... While you have many things on your mind, perhaps one option could be to continue taking your medication and think things through slowly, without rushing. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:39:54",
+      "origin": "そうですね",
+      "content": "That makes sense."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:40:15",
+      "origin": "まずはクリニックに行って薬をもらってみます",
+      "content": "First, I'll go to the clinic and get some medication."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:42:05",
+      "origin": "はい、うつの症状に関しましては専門のお医者様に受診をされて、お話を聴くのがよろしいかと思います。ここでは、あなた様がどのように今後進んでいくのかを一緒に考えさせてください。",
+      "content": "Yes, regarding your depression symptoms, I think it would be best to see a specialist and hear what they have to say. Here, let's think together about how you want to move forward."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:42:34",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:42:43",
+      "origin": "ちなみに、今はどのようなお仕事に就職されているのでしょうか？",
+      "content": "By the way, what kind of job do you have now?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:43:29",
+      "origin": "一般企業の事務職です",
+      "content": "It's an administrative position at a general corporation."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:44:08",
+      "origin": "今の会社を選んだきっかけはどんな理由からでしょうか？",
+      "content": "What was the reason you chose your current company?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:44:48",
+      "origin": "家から近いところで内定をもらえたので決めました",
+      "content": "I decided on it because I got an offer from a place close to my home."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:45:43",
+      "origin": "そうでしたか、通いやすいと身体の負担も軽減できそうですね…",
+      "content": "I see. An easy commute can help reduce physical strain, can't it..."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:46:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:47:33",
+      "origin": "うつ病のことが気になると思いますが、例えば今の会社を続けていくにはどのようなことがあれば良いとお考えでしょうか？",
+      "content": "I imagine your depression is a major concern, but for example, what do you think would need to change for you to be able to continue at your current company?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:48:26",
+      "origin": "うつ病がなおれば全て解決する気もしています",
+      "content": "I feel like if my depression gets better, everything will be resolved."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:48:59",
+      "origin": "そうなのですね、そのようにお考えになる理由はどんなことでしょうか？",
+      "content": "I see. What leads you to think that way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:49:40",
+      "origin": "今悩んでいる症状はうつによる症状ではないかと思っているからです",
+      "content": "Because I think the symptoms I'm struggling with now are due to my depression."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:50:40",
+      "origin": "そのように思っているのですね…それは今本当にやりたいことや仕事がはっきりしていないということでしょうか？",
+      "content": "I see that's what you think... Does that mean you’re not yet clear on what you truly want to do or what kind of work you want?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:51:25",
+      "origin": "やりたいことはわかりません",
+      "content": "I don’t know what I want to do."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:51:44",
+      "origin": "どのようにしたらわかるものでしょうか？",
+      "content": "How can I figure that out?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:53:44",
+      "origin": "そのように感じているのですね、せっかく自宅に近くにご就職されて、通勤時間が短いということでしたら、会社の帰りなどに、カフェに行って一人じっくり考えたり、あなたの趣味や好きなことなど習い事をしてみてリフレッシュするのも一つかと思いますがいかがでしょうか？",
+      "content": "I understand that’s how you feel. Since you have a job close to home with a short commute, one idea could be to use that extra time to refresh yourself. You could stop by a café after work to think things over, or perhaps try a class related to one of your hobbies. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:54:44",
+      "origin": "家では落ち着かないのでカフェに行ってみるのはいいなと思いました",
+      "content": "I can't relax at home, so going to a cafe sounds like a good idea."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:55:14",
+      "origin": "また、読書が趣味なので本を読んでリフレッシュするのも取り入れてみたいと思います",
+      "content": "Also, since reading is my hobby, I'd like to try incorporating that as a way to refresh myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:58:20",
+      "origin": "そうですね、今あなたのお考えをお聴きして、先ほどクリニックを予約してしっかりと前を向いて行こうとする姿を含めてしっかりと前を向いて行こうとするすがたがとても素敵だと感じました。ぜひ少しずつ少しずつ、決して焦らず一歩ずつ歩んでいってくださいね。",
+      "content": "That's wonderful. Hearing your thoughts just now, and seeing your determination to move forward by booking a clinic appointment, is truly admirable. Please, just take it one small step at a time, and don't rush yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T11:58:32",
+      "origin": "申し訳ございません。そろそろお時間が近づいてきました。ここまでお話をしてきていかがでしたでしょうか？",
+      "content": "I'm sorry, but our time is almost up. How do you feel having talked things through up to this point?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T11:59:21",
+      "origin": "ありがとうございます。焦らずできることから取り組んでいこうと思います。",
+      "content": "Thank you. I’ll try to start with what I can do, without rushing."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T12:00:10",
+      "origin": "ありがとうございます。そして寝る前にはぜひ自分をゆっくりと褒めてあげてくださいね。本日はこれで相談を終了したいと思います。お疲れ様でした。",
+      "content": "Thank you. And before you go to sleep tonight, please take a moment to gently praise yourself. We’ll end our session here for today. Thank you for your time."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-03T12:00:30",
+      "origin": "ありがとうございました！",
+      "content": "Thank you very much!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-03T12:00:39",
+      "origin": "（お疲れ様でした。本日はありがとうございました。このあと終了の合図をいたします）",
+      "content": "(Thank you for your work today. I will signal the end of the session now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "うつ病による仕事への影響"
+  },
+  "review_by_client": {
+    "evaluation_id": 6965,
+    "evaluation_created_at": "2024-06-03T12:06:00",
+    "client_id": 504,
+    "counselor_id": 449,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

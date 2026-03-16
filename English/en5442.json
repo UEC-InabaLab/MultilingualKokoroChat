@@ -1,0 +1,423 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-12T18:55:53",
+      "origin": "(本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。)",
+      "content": "(Thank you for coming today. We will begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T18:56:34",
+      "origin": "(本日はよろしくお願い致します。承知致しました。)",
+      "content": "(Thank you for meeting with me today. Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:00:14",
+      "origin": "こんばんは、相談員です。本日はご相談にお越しいただき、ありがとうございます。はじめに、年齢、性別、ご相談内容を教えてください。",
+      "content": "Good evening, I'm the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:00:32",
+      "origin": "24歳、女性",
+      "content": "I'm 24 years old, female."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:00:48",
+      "origin": "転職しようか悩んでいます",
+      "content": "I'm struggling with whether I should change jobs."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:01:12",
+      "origin": "転職についてお悩みなのですね。",
+      "content": "So you're feeling troubled about changing jobs."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:01:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:02:05",
+      "origin": "転職をしようかお悩みの理由など、もう少し詳しく教えていただけますか？",
+      "content": "Could you tell me a little more about why you're considering changing jobs?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:03:57",
+      "origin": "今の会社では、上司と話が噛み合わないし、毎日同じ仕事の繰り返しでやりがいも感じられません。これが続いていくのは毎日が苦痛です。",
+      "content": "At my current company, I can't seem to get on the same page with my supervisor, and I don't feel any sense of fulfillment because I'm just doing the same work over and over every day. If this continues, every day will feel painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:05:20",
+      "origin": "教えていただきありがとうございます。",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:06:07",
+      "origin": "上司の方とはどのような事で話がかみ合わないと感じますか？",
+      "content": "In what ways do you feel that you and your supervisor aren't on the same page?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:08:31",
+      "origin": "朝指示して言っていたことを昼には忘れているのです。報告すにもこちらがまたいちから説明してやっとそれでも、あまり理解しているのかよくわからない感じなのです。毎日この調子で疲れてきました。",
+      "content": "They forget in the afternoon what they instructed me to do in the morning. When I report back, I have to explain everything from scratch, and even then, I'm not sure if they really understand. Dealing with this every day has worn me out."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:09:51",
+      "origin": "そうなのですね・・・伝えたことを忘れられてしまったら悲しい気持ちになりますよね。",
+      "content": "I see... It must feel disheartening when what you've conveyed is forgotten."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:10:33",
+      "origin": "あなたが伝えたいことを理解してもらえてるかの確認などはしたことあるかな？",
+      "content": "Have you tried confirming whether they understood what you wanted to communicate?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:12:29",
+      "origin": "確認するも何も、話している間もそうだったっけ？とか言っていたりするので、自分の言ったことを覚えてないのだと思います。",
+      "content": "There's no point in confirming. Even while we're talking, they'll say things like, \"Did I say that?\" so I think they just don't remember what they themselves said."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:13:48",
+      "origin": "覚えていないのでは話にならないですね。毎日そのような状況だと疲れてしまうよね・・・",
+      "content": "If they don't remember, you can't even have a proper conversation. That situation every day must be exhausting..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:14:34",
+      "origin": "はい、報告するのももう嫌になります",
+      "content": "Yes, I'm getting to the point where I don't even want to report anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:15:21",
+      "origin": "そうだよね。忘れられてしまうことが続くと報告するのも嫌になるよね。",
+      "content": "That makes sense. When things keep getting forgotten, it's understandable that you wouldn't want to report."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:15:52",
+      "origin": "お仕事は何人くらいの人がいるのかな？",
+      "content": "About how many people are at your workplace?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:16:55",
+      "origin": "職場は、15人くらいです",
+      "content": "There are about 15 people."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:17:28",
+      "origin": "話を聞いていない上司は、その方１人だけかな？",
+      "content": "Is it just that one supervisor who doesn't seem to listen?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:18:25",
+      "origin": "はい、私の直属の上司はその人だけですので。",
+      "content": "Yes, they're my only direct supervisor."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:20:31",
+      "origin": "そうなのですね。上司との関係以外で、転職の理由として毎日同じことの繰り返しという理由もお話にでていたけれど、",
+      "content": "I see. Besides your relationship with your supervisor, you also mentioned that the repetitive nature of your work is another reason for wanting to change jobs,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:21:38",
+      "origin": "お仕事の内容自体が辛くなってしまっているのかな？",
+      "content": "Do you feel the work itself has become difficult for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:23:04",
+      "origin": "はい、事務作業だったり、毎日同じことの繰り返しで、モチベーションが下がっていく一方です",
+      "content": "Yes, it's administrative work and the same things every day, and my motivation just keeps dropping."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:24:15",
+      "origin": "そうなんだね。今のお仕事は何年目ですか？",
+      "content": "I see. How many years have you been at your current job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:24:53",
+      "origin": "３年目になります",
+      "content": "This is my third year."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:26:05",
+      "origin": "３年目なんだね。今まで頑張ってきたんだね。お仕事を始めたばかりの時はどんな気持ちだったかな？",
+      "content": "It's your third year—you've worked hard. How did you feel when you had just started the job?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:27:04",
+      "origin": "最初は緊張もありましたし、やらないとなとは思っていたと思います",
+      "content": "At first, I was nervous, and I think I felt that I had to do my best."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:29:04",
+      "origin": "そうなんだね。新人の時は緊張もあるよね。転職をしようか悩んでいるということは、辞めたくない気持ちも残っているということかな？",
+      "content": "I see. It's natural to be nervous when you're new. The fact that you're struggling with whether to change jobs, does that mean there's a part of you that doesn't want to quit?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:31:09",
+      "origin": "ずっとこのままの状態が続くのはつらすぎるという思いと、今の自分で何が出来るのか、という迷いもあります",
+      "content": "There's the feeling that it would be too painful for things to continue like this, and I'm also uncertain about what I can do with my current skills."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:31:56",
+      "origin": "そうだよね。今の状況は辛いよね。",
+      "content": "Right. Your current situation is tough."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:32:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:32:28",
+      "origin": "例えば、どんな環境になったら続けていけそうかな？",
+      "content": "For example, what kind of environment would make you feel like you could continue working there?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:34:30",
+      "origin": "どんな環境？んー上司がもっと話がわかる人で、職場の同僚ともっと和気あいあいと仕事が出来る環境でしょうか",
+      "content": "What kind of environment? Hmm... probably one where my supervisor is more understanding, and where I can work more harmoniously with my colleagues."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:36:24",
+      "origin": "職場の雰囲気は大切ですよね。悩みを共有できる同僚の方はいますか？",
+      "content": "The atmosphere at work is important, isn't it? Do you have any colleagues you can share your concerns with?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:37:12",
+      "origin": "いないです",
+      "content": "No, I don't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:37:49",
+      "origin": "そうなんだね・・・一人でずっと悩んできたんだね・・・",
+      "content": "I see... You've been struggling with this all by yourself..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:38:02",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:39:46",
+      "origin": "あなたが伝えたいことを上司の方が覚えていないことが多いとのことだけど、",
+      "content": "You mentioned that your supervisor often doesn't remember what you conveyed, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:41:04",
+      "origin": "例えば、伝えたいことをメモに書いて渡して、口頭と記録で同時に伝えてみるなどはいかがですか？",
+      "content": "for example, what if you tried writing down what you want to say in a memo and giving it to them, so you're communicating both verbally and with a written record?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:44:26",
+      "origin": "それは出来るかもしれませんが、メモを書く時間がとられるのと、そもそも上司自身が言ったことをわすれているので、それで伝わりますかね？",
+      "content": "I could probably do that, but it would take time to write the memos, and since they forget what they themselves said in the first place, I wonder if that would even get the message across."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:45:43",
+      "origin": "上司は自分の指示したことをメモしていることもあるのですが、そのメモもどこにやったか忘れてしまうこともありました",
+      "content": "My supervisor sometimes writes down their own instructions, but there have been times when they've forgotten where they put the memos."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:46:31",
+      "origin": "何かの病気かもしれないと思ったりします。痴呆とか。",
+      "content": "I sometimes wonder if it might be some kind of illness—like dementia."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:47:52",
+      "origin": "メモすらも忘れてしまうとは・・・痴呆ですか・・・確かにそこまでくると疑ってしまいますね。",
+      "content": "Forgetting even the memos... Dementia... It's true that when it gets to that point, it does make you suspicious."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:48:07",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:50:10",
+      "origin": "言った言ってないを防ぐ方法の一つとして、上司の方から言われた内容を第三者にも共有してもらうといいかなと思います。言っていないと言われた時に、他の職員も聞いているということで確認がとれると思うのですが、いかがですか？",
+      "content": "As one way to avoid a 'they said/they didn't say' situation, it might help to have a third party present when your supervisor gives you instructions. Then if they say they didn't say something, you can confirm it because another staff member heard it too. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:52:18",
+      "origin": "先輩に聞いてもらうことになると思いますが、私の仕事のことでいちいち上司の話を一緒に聞いてくださいとは言いにくいです。先輩もすごく忙しく方なので。",
+      "content": "I guess I would have to ask a senior colleague, but it's hard to ask them to listen in on my supervisor's instructions for my work every single time. My senior colleague is also very busy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:54:01",
+      "origin": "確かにお願いしにくい時もあるよね。上司の方は性格なのか、特徴なのかはわからないけど、実際お仕事をしていくなかであなたのように悩んでいる人は他にもいるかもしれないですよね・・・",
+      "content": "It's true that it can be difficult to ask. I don't know if it's your supervisor's personality or just a trait, but as you go about your work, there might be other people who are struggling just like you..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:55:25",
+      "origin": "先輩は慣れていて、自分でどんどん仕事を進めているみたいですが、私はとても先輩のようには出来ません",
+      "content": "My senior colleague seems used to it and moves forward with their work independently, but there's no way I can do it like they do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:55:48",
+      "origin": "上司の方をどうにか忘れないようにしてもらうというよりは、まずはお話できる先輩がいるのであれば一度悩みを共有してみるのはどうかな？",
+      "content": "Rather than trying to somehow make your supervisor stop forgetting, if there is a senior colleague you can talk to, how about trying to share your concerns with them first?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:56:24",
+      "origin": "共有ではないですね。相談してみるのはどうでしょうか？",
+      "content": "Not just sharing—how about consulting with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T19:58:36",
+      "origin": "先輩はすごく忙しいので、どこまで話できるかは、わからないですが。上司ではないので、おそらく聞いてもらったとしても、何かが変わるかどうかはわからないですね。",
+      "content": "My senior colleague is very busy, so I'm not sure how much I could talk with them. And since they're not my supervisor, even if they listen, I don't know if anything would change."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T19:59:55",
+      "origin": "少なくともこれまで頑張って続けてきたということだけでも素晴らしいことだと思います。",
+      "content": "At the very least, I think the fact that you've persevered this far is a wonderful thing."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T20:00:14",
+      "origin": "そうなんですかね",
+      "content": "You think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T20:00:39",
+      "origin": "同じ環境で働く先輩からの意見も何かの参考になるかもしれないですし、",
+      "content": "Hearing a perspective from a senior colleague working in the same environment might be helpful,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T20:01:33",
+      "origin": "もちろんご相談は、またいつでも私たちが聞きますので、ご気軽にご相談くださいね。",
+      "content": "and of course, we are always here to listen, so please feel free to talk to us anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T20:01:50",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T20:02:22",
+      "origin": "お時間になってしまいましたが、またいつでもお待ちしています。",
+      "content": "It looks like our time is up, but we'll be here for you anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T20:02:37",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T20:03:13",
+      "origin": "それでは本日はこれにて終了致します。ありがとうございました。",
+      "content": "Then, we'll end today's session here. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T20:03:25",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-12T20:03:41",
+      "origin": "(お疲れ様でした)",
+      "content": "(Thank you for your time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-12T20:03:56",
+      "origin": "(勉強になりました。ありがとうございました。)",
+      "content": "(I learned a lot. Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "上司とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5442,
+    "evaluation_created_at": "2023-07-12T20:33:00",
+    "client_id": 39,
+    "counselor_id": 405,
+    "score": 37,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

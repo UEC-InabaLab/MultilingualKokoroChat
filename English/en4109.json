@@ -1,0 +1,777 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:20:41",
+      "origin": "（こんにちは。今日はよろしくおねがいします。）",
+      "content": "(Hello. I look forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:21:42",
+      "origin": "（こんにちは。こちらこそ、宜しくお願い致します。）",
+      "content": "(Hello. Likewise, thank you for having me.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:22:05",
+      "origin": "（お時間になりましたら始めさせていただきますね。）",
+      "content": "(We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:22:21",
+      "origin": "（はい、どうぞよろしくお願いします。）",
+      "content": "(Yes, please proceed.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:30:12",
+      "origin": "こんにちは。相談員です。ご相談に来て下さりありがとうございます。はじめに年齢と性別を教えて頂けますか？",
+      "content": "Hello. I'm the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:30:50",
+      "origin": "37歳の女です。宜しくお願いします。",
+      "content": "I'm a 37-year-old woman. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:31:24",
+      "origin": "ありがとうございます。では、本日のご相談内容を教えていただけますでしょうか？",
+      "content": "Thank you. Could you tell me what brings you in today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:32:01",
+      "origin": "苦手なママ友がいます。",
+      "content": "I have a mom friend I don't get along with."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:32:50",
+      "origin": "そうなんですね。それは気分が晴れませんね",
+      "content": "I see. That must be disheartening."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:33:13",
+      "origin": "そうですね。会うと疲れるので、憂鬱な気分です。",
+      "content": "Yes. I feel drained when I see her, so it makes me feel gloomy."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:33:46",
+      "origin": "そうですよね。良ければもう少し詳しく教えていただけますか？",
+      "content": "I can understand that. If you're comfortable, could you tell me a little more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:34:37",
+      "origin": "会うと、自分の子供の自慢話をします。そして、私の子供のことは落とすんです。",
+      "content": "When we meet, she brags about her own child and puts mine down."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:35:00",
+      "origin": "それは腹立たしい気持ちにもなりますね。",
+      "content": "That would make anyone feel frustrated."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:35:41",
+      "origin": "ちなみに相談者様のお子様はおいくつなのでしょうか？",
+      "content": "By the way, how old is your child?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:36:06",
+      "origin": "ホントですね。イライラしてしまいます。自慢話はまだいいんですけどね、人の家の子供を「やばいよね」って言うので、イライラします。私、その子の親ですけど？！って言いたくなります。",
+      "content": "It really is. I get so irritated. The bragging is one thing, but it's infuriating when she says things like, \"That's just awful, isn't it?\" about my child. I just want to shout, \"Excuse me?! I'm that child's parent!\""
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:36:35",
+      "origin": "娘は6歳です。小学校1年生です。相手の子も同じです。小学校もクラスも同じです…",
+      "content": "My daughter is 6. She's in the first grade of elementary school. The other child is the same age. They're in the same school and even the same class..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:37:23",
+      "origin": "教えていただきありがとうございます。ママ友さんの「やばいよね」は本当に傷つく言葉ですね。",
+      "content": "Thank you for sharing that. Your friend's comment, \"That's just awful,\" is a truly hurtful thing to say."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:37:57",
+      "origin": "ホントですね。あなたこそやばいですけど？って思います。",
+      "content": "It really is. I just think, \"You're the one who's awful!\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:38:26",
+      "origin": "相談者様がそう思われるのは自然のことだと思います",
+      "content": "I think it's perfectly natural for you to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:38:38",
+      "origin": "有難うございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:39:28",
+      "origin": "たとえばどんな会話からママ友さんのその発言が飛び出すのでしょうか？お答えいただける範囲で大丈夫ですので教えていただけますか？",
+      "content": "For instance, what kind of conversations lead to her making a comment like that? Could you tell me, just to the extent you're comfortable?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:41:15",
+      "origin": "ママ友の子は、運動神経が良い子なんですね。で、うちの子はまぁ、運動が得意なほうではなく、普通なんですけども…。それで、曜日は違うのですが、スイミングスクールも同じ所に通っていまして。ママ友の子は、",
+      "content": "Her child is very athletic. My daughter, well, she's not particularly athletic, just average... And, although they go on different days, they attend the same swimming school. Her child..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:41:28",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:42:03",
+      "origin": "検定に受かるのが早くて、うちの子よりも2つほど級が上なんですね、",
+      "content": "...passes the level tests quickly and is about two levels above my daughter."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:42:38",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:43:16",
+      "origin": "で、ママ友の子は週に1回しか通っていなくて、うちはスイミング（というか、水？）が好きと言う事もあり、週2回通っているんです。でもママ友からしたら、",
+      "content": "And her child only goes once a week, while my daughter goes twice a week, partly because she loves swimming—or maybe just the water. But from the other mom's perspective..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:44:02",
+      "origin": "はい。なるほど",
+      "content": "Yes. I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:44:10",
+      "origin": "「なーんで週2回も通ってんのに受かんないの？ホントやばいー！」って言われて……。そういうことが幼稚園から何回もあって、最近すごくストレスに感じています。",
+      "content": "She says things like, “How come she’s going twice a week and still not passing? That’s seriously bad!” This kind of thing has happened many times since kindergarten, and it's become very stressful for me recently."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:44:16",
+      "origin": "長々とすみません。",
+      "content": "I'm sorry for going on so long."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:44:40",
+      "origin": "大丈夫です。たくさん教えていただきありがとうございます。",
+      "content": "Not at all. Thank you for sharing so much with me."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:44:56",
+      "origin": "聴いてくださり有難うございます。",
+      "content": "Thank you for listening."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:45:05",
+      "origin": "そうするとママ友さんとは幼稚園からのお付き合いになるんですね",
+      "content": "So, you've known this mom friend since your children were in kindergarten, then?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:45:38",
+      "origin": "あ、ごめんなさい。家が斜め前なので、もうかれこれ6年目になりますね。赤ちゃんの頃から一緒です。",
+      "content": "Oh, I'm sorry. Our houses are diagonally across from each other, so it's been about six years now. We've known each other since they were babies."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:46:27",
+      "origin": "そうなんですね。それは長いお付き合いですね。ストレスを感じながらのお付き合いは気が重いですよね。",
+      "content": "I see. That's a long time to know someone. It must be weighing on you to have a relationship that causes you stress."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:46:54",
+      "origin": "ホントですね。最初はわからなかったんですけど、",
+      "content": "It really is. I didn't realize it at first, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:47:05",
+      "origin": "はい",
+      "content": "Yes?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:47:18",
+      "origin": "子供が幼稚園に入ったら、そういう性格？なのがわかってきて。うちらの行っていた幼稚園、",
+      "content": "...once our children started kindergarten, I began to see that side of her personality. The kindergarten we went to..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:47:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:47:55",
+      "origin": "運動にすごく力を入れている所だったので、もうママ友の子供は大活躍というか。みんなから「すごいねー、すごいねー！」って言われてて。",
+      "content": "...put a lot of emphasis on athletics, so her child was a huge star, so to speak. Everyone was always telling her, \"You're so amazing, you're amazing!\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:48:18",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:48:24",
+      "origin": "そうなんです。",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:49:23",
+      "origin": "幼稚園の頃はママともさんの子はある意味とてもスターのような感じだったのですね",
+      "content": "So in kindergarten, your friend's child was, in a way, like a star."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:49:49",
+      "origin": "その様子を相談者様はどのように感じていましたか？",
+      "content": "How did you feel seeing that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:50:17",
+      "origin": "そうです〜。本当スターって感じでした。子供もすごいエラそうな子に育ってます(笑)",
+      "content": "Yes, exactly. She was really like a star. Her child is growing up to be very arrogant, too (laughs)."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:50:48",
+      "origin": "純粋に、すごいなー！と思ってはいました。褒めもしました。努力している姿も知っていたので、",
+      "content": "I genuinely thought it was impressive. I praised them, too, because I knew how hard they were working."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:50:50",
+      "origin": "エラそうって言葉に相談者様の腹立たしい気持ちが伝わってきます",
+      "content": "The word \"arrogant\" really conveys your frustration."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:51:32",
+      "origin": "ただただ、すごいなぁと思ってました。家にも鉄棒があったり、休日はパパと特訓したりしていたので、頑張ってるのだな！と。",
+      "content": "I just thought, “Wow.” They had a horizontal bar at home, and on weekends the dad would train with them, so I felt they were working hard."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:51:59",
+      "origin": "そうですね笑、ホント目つきからして、こちらを馬鹿にしている感じなんですよね。幼稚園児がこんな目するんだなぁと…",
+      "content": "Yes, haha. Even their eyes had this look like they were looking down on us. I remember thinking, “So even a kindergartener can make a face like that…”"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:52:36",
+      "origin": "なるほど。ママ友さんだけじゃなくて、そのお子さんも腹立たしい態度なのですね",
+      "content": "I see. So it's not just the mother, but her child also has a frustrating attitude."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:53:31",
+      "origin": "そうですね。幼稚園の時は本当そんな感じでした。小学校に入ってからは、子どものほうは少し無邪気さが戻ってきたような気がしますね。たぶん、",
+      "content": "Yes. That’s really how it was in kindergarten. Since starting elementary school, I feel like the child has regained some innocence. Maybe—"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:53:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:55:22",
+      "origin": "幼稚園は勝負ばかりで疲れちゃったんじゃないかなと思います。親も、「1番じゃなきゃ意味がない！2番なんてビリと同じだ！」とかワケのわからないことをよく子供に言っていましたし。プレッシャーもあったんじゃないかな、と。今はそういうのから解放されて、穏やかに見えます。",
+      "content": "Kindergarten was all about competition, so I think they got tired. The parents would often say things to the child like, “If you’re not number one, it means nothing! Second is the same as last!”—things that didn’t make sense to me. I imagine there was a lot of pressure. Now that they’re free from that, they seem calmer."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:56:10",
+      "origin": "なるほど。ママ友さんのお子さんもものすごいプレッシャーの中頑張っていたのかも知れないですね",
+      "content": "I see. Her child might have been working hard under tremendous pressure."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:56:32",
+      "origin": "はい、そんな気がします！",
+      "content": "Yes, that’s how it feels!"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:56:51",
+      "origin": "なので、子供自体にはそこまで嫌悪感は無いと思います。",
+      "content": "So I don’t feel that much dislike toward the child themself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:57:39",
+      "origin": "なるほど。では今はやはりママ友さんがお悩みの元になっているのですね",
+      "content": "I understand. So the source of your distress right now is really the mom friend."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:57:53",
+      "origin": "そうですね、そう思います。",
+      "content": "Yes, I think so."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T10:58:56",
+      "origin": "お子さんはのびのびと解放されていますが、今のママ友さんのお考えは幼稚園の頃とあまり変わっていないような気がしますがいかがでしょう？",
+      "content": "Her child seems to be more at ease now, but it sounds like the mother's way of thinking hasn't changed much since the kindergarten days. How does that land with you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T10:59:44",
+      "origin": "そうですね。運動に関しては本当に変わってないと思いますね。",
+      "content": "That's right. When it comes to sports, I don't think she's changed at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:00:29",
+      "origin": "そうなると相談者様が会うたびにうんざりしてしまうのも無理もないですね",
+      "content": "In that case, it's no wonder you feel fed up every time you see her."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:01:33",
+      "origin": "はい。嫌ですねぇ。本当に。",
+      "content": "Yes. It's awful. Truly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:01:57",
+      "origin": "そうですよね。嫌になりますよね。運動に関してそういった独特な考えを持っているママ友さんを見て、どんな事が頭に浮かびますか？",
+      "content": "I can see why. When you see her holding such a rigid view about sports, what kinds of thoughts come up for you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:04:53",
+      "origin": "そうですねー、あぁはなりたくないと思っちゃいますね。1番以外認めないっていうのは、子供からしたら残酷だと思います。過程を褒められない、結果だけ見て。それってどうなんだろうなぁと…。",
+      "content": "Well, I think, “I don’t want to be like that.” Insisting that only first place counts feels cruel from a child’s perspective. Not praising the process, only the outcome—what does that do to a kid...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:06:33",
+      "origin": "常にトップと言われるのは相当なプレッシャーですもんね。相談者様は過程も大切と思われているんですね",
+      "content": "It must be a lot of pressure to be told you always have to be at the top. You feel that the process is also important."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:08:41",
+      "origin": "相談者様は今後そのママ友さんとはどのような関係になって行ったら良いと思いますか？",
+      "content": "How would you like your relationship with this mom friend to be going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:08:58",
+      "origin": "プレッシャー感じていたと思います、本当に。今と全然目つきが違っていましたから。過程は大切だと思います。たとえ2番だったとしても、その子のベストタイムが出たなら、それは凄いことじゃないかと。それを認められないなんて、悲しいな、、とも思います。",
+      "content": "I really think they felt the pressure. The look in their eyes was completely different from how it is now. I believe the process is important. Even if you come in second, if you get your personal best time, isn't that something amazing? I find it sad that she can't acknowledge that."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:09:19",
+      "origin": "すみません行き違いましたねお話し続けて下さい",
+      "content": "I’m sorry—I spoke over you. Please continue."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:09:37",
+      "origin": "ありがとうございます、すみません。そうですねー、、彼女は彼女で変わらないでしょうし、",
+      "content": "Thank you, I'm sorry. Well... I don't think she'll ever change..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:09:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:10:59",
+      "origin": "でもご近所さんだから、死ぬまで一緒に生きていくので…、うーん、、そう考えると面倒臭いなと思っちゃいますね、正直。。運動が終わったとしても、高校受験、大学受験、結婚、妊娠、色々なところで比べられながら生きていくんだろうなぁと…。",
+      "content": "But since we're neighbors, we'll probably be living near each other for the rest of our lives... Ugh... When I think about that, it feels like such a hassle, honestly. Even after sports are over, there will be high school entrance exams, college entrance exams, marriage, pregnancy... I feel like we'll be compared on all sorts of things throughout our lives."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:11:34",
+      "origin": "ご近所さんなのは確かに悩みますね",
+      "content": "The fact that you're neighbors certainly complicates things."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:12:33",
+      "origin": "そうなんですよね、同じ女の子なので、色々なところでまたこの先も比べられるんだろうなぁと。",
+      "content": "It does. Since they're both girls, I feel like they'll be compared in many ways in the future as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:13:00",
+      "origin": "私の意識を、変えていかないといけないのかなぁとも思います。",
+      "content": "I also wonder if maybe I'm the one who needs to change my mindset."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:13:47",
+      "origin": "比べられるのはいい気持ちはしませんよねそれは普通の事です",
+      "content": "Being compared doesn’t feel good—that’s a very normal reaction."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:14:10",
+      "origin": "そっか、そうですよね。みんな嫌ですよね。",
+      "content": "I guess so. You're right. Nobody likes it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:14:19",
+      "origin": "でも相談者様が意識を変えていかないとと思われるのはとてもいいアイデァだと思います",
+      "content": "Even so, I think your idea of shifting your own mindset is a very good one."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:14:54",
+      "origin": "あっ、本当ですか？",
+      "content": "Oh, really?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:15:34",
+      "origin": "はい。心の境界線を持つということがあるのですが",
+      "content": "Yes. There's a concept called setting emotional boundaries."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:15:55",
+      "origin": "少しお話してもいいですか",
+      "content": "May I explain a little?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:16:03",
+      "origin": "お願いします！！",
+      "content": "Please do!!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:16:48",
+      "origin": "相手の問題と自分の問題を分けて境界線を引いて考えると少し気持ちが楽になるんです。",
+      "content": "It can help you feel a bit better if you separate the other person's issues from your own and draw a boundary line."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:17:15",
+      "origin": "「どうしても比べてしまう」のは相手のママ友さんの問題。",
+      "content": "\"Her need to compare\" is your mom friend's issue."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:17:42",
+      "origin": "ママ友さんからすればそれはそれで苦しいのではないかと思います。",
+      "content": "From her perspective, that might be a source of suffering for her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:18:09",
+      "origin": "だからこそ自分の子どもがいつも上になるように相手を下に下げてしまう",
+      "content": "That's why she puts others down, to make sure her own child is always on top."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:18:28",
+      "origin": "そんな行動を無意識にしているのではないかと思います",
+      "content": "...perhaps doing so unconsciously."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:18:50",
+      "origin": "ビックリ…！！です。彼女が、苦しんでるなんて思いもしなかったです…",
+      "content": "I'm... stunned!! I never imagined that she could be suffering..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:19:03",
+      "origin": "そうだったんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:19:24",
+      "origin": "はい。常に自信満々のように見えていました。",
+      "content": "Yes. She always seemed so full of confidence."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:19:30",
+      "origin": "もしかしたらですが、そんなこともあるかも知れないです。",
+      "content": "It’s only a possibility, but that could be the case."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:19:44",
+      "origin": "なるほどな〜！！って思っちゃいました。",
+      "content": "That makes so much sense!!"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:19:56",
+      "origin": "旦那のこともよく自慢するのですが、",
+      "content": "She often brags about her husband, too..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:20:05",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:21:06",
+      "origin": "もしかしたらそれも、そんな気持ちからの行動なのかもしれないですね。近所に共通のママ友が7人いるのですが、そこの家庭のどのパパさんよりもうちのパパが1番じゃなきゃ、みたいなのもあるのかも。",
+      "content": "Maybe that's also coming from the same feeling. We have a group of seven mom friends in the neighborhood, and maybe she feels like her husband has to be the best out of all the dads."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:21:16",
+      "origin": "なんだか疲れそうですね。",
+      "content": "That sounds exhausting."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:21:29",
+      "origin": "でもそう思うと、ちょっと気が楽にもなりましたね、不思議と！",
+      "content": "But thinking about it that way makes me feel a little lighter, strangely enough!"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:22:04",
+      "origin": "相談者様が視点を変えてお相手を見られることができて素晴らしいと思います",
+      "content": "I think it's wonderful that you're able to change your perspective and see her differently."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:22:46",
+      "origin": "彼女も彼女なりに必死だったり、苦しんだりしてるのかな、っていう感じがしました。初めて感じて、なんだかビックリしています。",
+      "content": "I feel like maybe she's also just trying her best in her own way, or struggling. It's the first time I've felt this, and I'm quite surprised."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:23:13",
+      "origin": "でも、ママ友さんはきっと無意識にそういう行動をしてしまうので、それに相談者様が振り回されるのはフェアじゃないです",
+      "content": "But, since your friend is likely doing this unconsciously, it's not fair for you to be caught up in it."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:23:41",
+      "origin": "確かに。こちらばかりが苦しんでいるような。",
+      "content": "That's true. It feels like I'm the only one suffering."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:24:13",
+      "origin": "なので、心の境界線を引いて、相手の問題は相手の問題と割り切ってしまうのもありだと思います。",
+      "content": "So, I think it's okay to draw that emotional boundary and decide that her issues are her issues."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:25:13",
+      "origin": "はい！相手の問題は相手の問題、ですね。",
+      "content": "Yes! Her issues are her issues."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:25:24",
+      "origin": "そのためには、ご自身の気持ちも少しずつ伝えていくことも大事かと思います。",
+      "content": "To do that, I think it's also important to gradually start communicating your own feelings."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:25:41",
+      "origin": "伝える、、ですか。怖いですね。",
+      "content": "Communicate...? That's scary."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:26:42",
+      "origin": "確かに怖いですよね。たとえば「私はそういわれてあまりいい気持ちがしないな」などと相手を責める言い方ではなく、自分を主語にして伝える言い方などもあります",
+      "content": "It is scary, indeed. For example, rather than blaming, you could use I-statements, like, “I don’t feel good when that’s said to me.”"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:28:32",
+      "origin": "自分を主語に、ですね。そうですね、そういうの一回も伝えたことなかったと思います。いつもヘラヘラしてしまいます。",
+      "content": "“I-statements,” I see. You're right, I don't think I've ever said anything like that. I always just laugh it off."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:29:18",
+      "origin": "そういう強めのお相手だとなかなか言いたいことが言えなくなる気持ちはよく分かります",
+      "content": "When dealing with someone with such a strong personality, I can understand how it becomes difficult to say what you want to say."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:29:41",
+      "origin": "そうなんですよね、敵に回すのが怖くて…",
+      "content": "Exactly, I'm afraid of making an enemy out of her..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:30:42",
+      "origin": "そうですよね。ご近所ですし、いろいろな思いがわいてきますよね。無理のない範囲で少しずつこちらの思いを伝えていくことが積み重なっていけば、お互いの関係も少しずつ変化していくかも知れません",
+      "content": "I understand. You're neighbors, so many concerns come to mind. If you can gradually communicate your feelings, within a range that isn't too difficult for you, it might build up and your relationship could start to change over time."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:32:02",
+      "origin": "無理のない範囲で少しずつなら出来るかもしれません。本当に少しずつかもしれないけど、このままではいられないなって思っています。",
+      "content": "I might be able to do it little by little, within a range I can handle. It might be very slow, but I feel like I can't let things stay as they are."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:32:43",
+      "origin": "今日のお話しの中で相手のママ友さんのことを別の視点で見ることができた相談者様はとても柔軟な考え方ができる方だと思いました。ママ友さんのストレスが少しずつ軽減されて行かれることを応援しています。",
+      "content": "Through our conversation today, you were able to see your friend from a different perspective. I think you are a very flexible thinker. I'll be rooting for you as you work to gradually reduce the stress she causes you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:33:09",
+      "origin": "そろそろ終了のお時間となってしまいましたがお話しされてみていかがでしたか？",
+      "content": "It's almost time for our session to end. How do you feel after talking today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:34:50",
+      "origin": "今までこの話を誰にもしたことがなかったので、聴いていただき有り難かったです。別の視点で見るというのは驚きでした。彼女にも彼女なりの苦しさだったり、葛藤があったりするのかなぁ、と思えたら、少しだけ気持ちが楽になれたと思います。だからといって、言われ放題のままではこちらも身が持たないので、",
+      "content": "I had never talked about this with anyone before, so I'm grateful that you listened. Seeing things from a different perspective was a surprise. When I started to think that maybe she has her own struggles and conflicts, I felt a little bit lighter. That said, I can't just keep taking everything she says..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:35:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:35:20",
+      "origin": "少しずつこちらも変われたらいいなと思いました。そして、いい関係性にしていきたいとも思います。",
+      "content": "...so I thought it would be good if I could also change, little by little. And I'd like to build a better relationship."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:35:43",
+      "origin": "お話聴いてくださり有難うございました！少しずつ、やっていきます。",
+      "content": "Thank you for listening! I’ll take it step by step."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:35:54",
+      "origin": "すごくいいと思います。少しずつ取り組んでみて下さいね。もしかするとまだ話し足りない部分もあるかと思いますが、よければまたご相談にいらして下さいね。",
+      "content": "I think that's a wonderful approach. Please try to work on it little by little. You may still have more you want to talk about, so please feel free to come back for another session if you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:36:47",
+      "origin": "はい！頑張ります。またお話したくなったら、どうぞ宜しくお願いします。",
+      "content": "Okay! I'll do my best. If I feel the need to talk again, I'd appreciate your help."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:37:10",
+      "origin": "はい。いつでもお待ちしています。では本日の相談を終わりにさせていただきます。ありがとうございました。",
+      "content": "Of course. I'll be here anytime. Well then, we'll conclude today's session. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:37:35",
+      "origin": "ありがとうございました^^",
+      "content": "Thank you. ^^"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:37:41",
+      "origin": "（長くなってしまいすみませんでした。大変勉強になりました。ありがとうございました）",
+      "content": "(I'm sorry we ran a bit long. This was a great learning experience for me. Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:37:58",
+      "origin": "（こちらこそ、有難うございました^^）",
+      "content": "(No, thank you so much as well. ^^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T11:38:03",
+      "origin": "（それでは失礼します）",
+      "content": "(Well then, goodbye.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T11:38:11",
+      "origin": "（はい！有難うございます(_ _)",
+      "content": "(Yes! Thank you. (_ _)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "苦手なママ友との関係改善問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 4109,
+    "evaluation_created_at": "2022-10-12T00:44:00",
+    "client_id": 210,
+    "counselor_id": 324,
+    "score": 76,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

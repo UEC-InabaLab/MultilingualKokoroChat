@@ -1,0 +1,423 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-04-11T20:50:47",
+      "origin": "(こんばんは。本日はよろしくお願い致します。お時間になりましたら始めさせていただきます。）",
+      "content": "(Good evening. Thank you for coming today. We will begin when it is time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:00:04",
+      "origin": "こんばんは。相談員です。本日はお越しくださり、ありがとうございます。まずはじめに、年齢・性別・相談内容を教えていただけますか？",
+      "content": "Good evening. I'm the counselor. Thank you for coming in today. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:01:09",
+      "origin": "よろしくお願いいたします年齢は　高校2年女子新学期になり、学校に行きたくありません。",
+      "content": "Thank you. I’m a second-year female high school student. The new semester has started, and I don’t want to go to school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:02:15",
+      "origin": "教えていただき、ありがとうございます。そうなのですね。学校に行きたくないなと感じるのはどんな時なのですか？",
+      "content": "Thank you for sharing. I see. When do you find yourself feeling that you don’t want to go to school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:03:34",
+      "origin": "1年生の時から、授業についていけなくて、つらくなります。",
+      "content": "Since my first year, I haven’t been able to keep up with classes, and it’s been hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:04:46",
+      "origin": "そうだったのですね。授業についていけないというのは勉強が難しいからでしょうか？それとも他になにか理由はありますか？",
+      "content": "I see. When you say you can’t keep up with classes, is it because the material is difficult, or is there another reason?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:06:02",
+      "origin": "勉強が難しいです。両親が医者なので、期待に応えて頑張って、自分の実力以上の高校に合格しました。",
+      "content": "The studies are difficult. My parents are doctors, so I pushed myself to meet their expectations and got into a high school that’s above my actual ability."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:07:00",
+      "origin": "でも、入ってみると同級生は頭がよくて、常に順位が出るので。。",
+      "content": "But once I got in, I found that my classmates are so smart, and our rankings are always posted..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:07:30",
+      "origin": "そうでしたか。高校受験も努力されてこられたのですね。でも、周りと比べてしまい、お辛いのですね。",
+      "content": "I see. You worked very hard for your high school entrance exams. But it's painful for you to compare yourself with others."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:08:11",
+      "origin": "はい、両親の望む結果が出せず辛いです。",
+      "content": "Yes, it’s hard that I can’t get the results my parents want."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:10:06",
+      "origin": "ええ、そうなのですね。思った結果が出せないと悔しいですし、周りの期待がある分辛いですよね",
+      "content": "Yes, I understand. It’s frustrating when you don’t get the results you hope for, and the expectations of others make it even harder, don't they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:10:53",
+      "origin": "ちなみにご両親はどのような結果を望まれておられるのでしょうか？",
+      "content": "By the way, what kind of results are your parents hoping for?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:12:08",
+      "origin": "医学部の大学がある付属高校なはので、内部推薦でそのまま大学に行って欲しいと思っています。",
+      "content": "My high school is affiliated with a university that has a medical school, so they want me to go straight to the university through an internal recommendation."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:13:01",
+      "origin": "そうなのですね。その望みに対して、あなたはどのように感じておられるのでしょうか？",
+      "content": "I see. And how do you feel about their expectations?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:13:25",
+      "origin": "学校を休むと、欠席日数をカウントされるので、推薦がもらえないから、頑張って行ってます。",
+      "content": "If I miss school, my absences are counted and I won’t get the recommendation, so I’m forcing myself to go."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:13:42",
+      "origin": "私は、医者にはなりたくありません。",
+      "content": "I don’t want to become a doctor."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:14:27",
+      "origin": "美容やお洒落が好きなので、美容系の専門学校に行きたいです。",
+      "content": "I like beauty and fashion, so I want to go to a beauty school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:16:10",
+      "origin": "やりたいことがおありなのですね。好きなことを仕事にできたら楽しそうですね。そのことは今までにご両親にお話されたことはあるのでしょうか？",
+      "content": "So you have something you want to do. It sounds wonderful to make a career out of something you love. Have you ever talked to your parents about this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:17:02",
+      "origin": "ありません。何をバカな事を言ってるんだと言われるに決まってるので。",
+      "content": "No. I’m sure they’d just say I’m being ridiculous."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:17:37",
+      "origin": "親の思う道に進んだ方がいいのでしょうか。。",
+      "content": "Should I follow the path my parents want for me...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:18:14",
+      "origin": "そうだったのですね。そのように言われると思うと言うのを諦めないといけないような気持になってしまいますよね。",
+      "content": "I see. When you expect them to say that, it makes you feel like you have to give up on telling them how you feel, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:18:48",
+      "origin": "そうなんです。私は私の人生なのに、って思ってしまいます。",
+      "content": "Exactly. I can't help but think, \"But it's my life.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:19:39",
+      "origin": "でも、今まで一生懸命育ててくれているので、親の期待に応えないことは、親不孝なのかなと",
+      "content": "But they've worked so hard to raise me, so I wonder if not meeting their expectations is being a bad daughter."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:20:25",
+      "origin": "ええ、そうお感じなのですね。お話をお伺いして、あなたは両親の期待に応えようと頑張ってはいるものの、その期待に応えたくないような自分もいたりして、迷われているように感じましたが、いかがでしょうか？",
+      "content": "Yes, that's how you feel. Listening to you, it seems that while you’re trying hard to meet your parents’ expectations, there’s also a part of you that doesn’t want to, and you feel torn. Does that sound right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:21:29",
+      "origin": "そうなのかもしれません。期待に応えたくない自分。。言われて、初めて気がつきました",
+      "content": "That might be it. The part of me that doesn’t want to meet their expectations… Now that you say it, I'm realizing it for the first time."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:22:30",
+      "origin": "色々考えると、頭がぐるぐるしちゃって、授業にも身が入らないんです。",
+      "content": "When I think about everything, my head spins, and I can’t focus on my classes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:22:47",
+      "origin": "ええ、先ほどこちらでお話してくださったように「美容やお洒落が好きなので、美容系の専門学校に行きたいです。」という強い思いが本当はあるけれど、言えずに苦しいのではないかと感じました。",
+      "content": "Yes. I felt that you have this strong desire you mentioned earlier—\"I like beauty and fashion, so I want to go to a beauty school\"—but you're in pain because you can't express it."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:24:01",
+      "origin": "はい。。どうして、この家に産まれちゃったんだろうって思ってしまう時もあります。",
+      "content": "Yes… Sometimes I even find myself thinking, \"Why was I born into this family?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:25:35",
+      "origin": "そうだったのですね。ご両親の期待が大きいとそのように感じてしまうのももっともだと思います。",
+      "content": "I see. When your parents' expectations are so high, it's completely understandable that you would feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:26:46",
+      "origin": "そうなんです。医者が素晴らしいお仕事だというのは、わかってはいるのですが",
+      "content": "That’s right. I do understand that being a doctor is a wonderful profession, but…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:28:09",
+      "origin": "ええ、わかってはいるけれど、自分はなりたくないというお気持ちが本音なのですよね",
+      "content": "Yes, you understand that, but your true feeling is that you don't want to become one yourself."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:28:47",
+      "origin": "はい、そうなんです。。",
+      "content": "Yes, that’s right…"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:29:44",
+      "origin": "学校の皆は意識が高いので話を合わせないといけないし、憂鬱です。",
+      "content": "Everyone at school is so ambitious that I have to pretend to be on the same page, and it's depressing."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:31:14",
+      "origin": "そうなのですね。医者になるのが「当たり前」のような振る舞いをするのも疲れますよね。",
+      "content": "I see. It must be exhausting to have to act as if becoming a doctor is the obvious choice, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:31:58",
+      "origin": "はい、疲れます。",
+      "content": "Yes, it’s exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:34:14",
+      "origin": "ええ、そうですよね。もし、仮に医者にならないという選択肢をした場合、どうなりそうでしょうか？",
+      "content": "Yes, I understand. If, hypothetically, you chose not to become a doctor, what do you imagine would happen?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:35:48",
+      "origin": "きっと両親は、全く想像していないと思うので、怒ると思います。",
+      "content": "I'm sure my parents haven't even considered it, so I think they would be angry."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:36:41",
+      "origin": "親の進める道を進んできたので、反抗もしたことありません。",
+      "content": "I've always followed the path they've laid out for me, so I've never rebelled."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:38:39",
+      "origin": "そうだったのですね。それは、先ほどおっしゃった今まで一生懸命育ててくれているという感謝の気持ちと親の期待どおりに進まなければいけないというお気持ちからでしょうか？",
+      "content": "I see. Is that because of the gratitude you mentioned for how hard they’ve raised you, and the feeling that you must live up to their expectations?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:39:44",
+      "origin": "はい。きっとそうだと思います。両親が悲しむ姿は見たくないので。。",
+      "content": "Yes, I'm sure that's it. I don’t want to see my parents sad…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:41:34",
+      "origin": "そうだったのですね。それほど、ご両親のためにも一生懸命に頑張ってこられたのですよね。でも、これからの進路を考えたときに迷いがでてこられたように感じます。",
+      "content": "I understand. You've worked so hard for your parents' sake. But now that you're thinking about your future, it seems you've started to feel uncertain."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:42:34",
+      "origin": "はい。そうなんだと思います。",
+      "content": "Yes, I think that’s right."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:43:32",
+      "origin": "好きな事を仕事にしたいと思うのは、いけないことなのでしょうか。",
+      "content": "Is it wrong to want to make a career out of something I love?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:45:07",
+      "origin": "そのお気持ちは素敵なことだと思いますよ。先ほど「反抗はしたことない」とおっしゃっていましたが、ご両親の反応は別にして、ご自身の今の率直なお気持ちをお伝えしてみるのもいいのではないかと感じましたが、いかがですか？",
+      "content": "I think that's a wonderful feeling to have. You mentioned earlier that you've \"never rebelled,\" but setting aside your parents' reaction for a moment, I feel it might be good to try telling them your honest feelings. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:47:00",
+      "origin": "そうですね。。わかってくれるといいんですが。ものすごく、勇気がいります。",
+      "content": "You’re right… I hope they’ll understand. It takes a lot of courage."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:47:20",
+      "origin": "高２になると、学校でも進路を決めないといけないので。",
+      "content": "Now that I'm a second-year student, I have to decide on my future path at school, too."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:48:30",
+      "origin": "その気持ちは素敵なことと聞いて、少し元気が出ました！",
+      "content": "Hearing you say that it's a wonderful feeling has cheered me up a little!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:49:15",
+      "origin": "あなたがおっしゃっていたように想像もしていなかったことでびっくりされたり、怒られたりすることもあるかもしれませんが、「自分の気持ち」を伝えてみることでご自身の気持ちの変化が起こるかもしれません",
+      "content": "As you said, they might be surprised or even angry because it's something they never imagined, but by expressing your own feelings, you might find that your own feelings begin to change."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:50:31",
+      "origin": "気持ちの変化。",
+      "content": "A change in my feelings."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:51:01",
+      "origin": "話してみないと、前に進みませんよね。",
+      "content": "If I don’t talk to them, I can’t move forward, can I?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:51:41",
+      "origin": "勇気が出てきました。話してみようかなと思います。",
+      "content": "I’m starting to feel courageous. I think I might try talking to them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:51:45",
+      "origin": "きちんと声に出して相手に伝えることでもしかしたら、本当にやりたいこと、目指したい道がはっきりするかもしれませんし、自分考えが明確になるかもしれませんよ",
+      "content": "By clearly voicing your feelings to them, what you truly want to do and the path you want to take may become clearer, and your own thoughts may become more defined as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:52:53",
+      "origin": "確かに、今まで口に出して言ったことは無かったです。",
+      "content": "That’s true; I’ve never said it out loud before."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:54:24",
+      "origin": "きっと、言いたくても、悲しませたくないというお気持ちや反対されるに違いないという思いから心のなかにとどめておられたのですよね",
+      "content": "I'm sure that even though you wanted to say it, you kept it to yourself because you didn't want to make them sad and were convinced they would oppose it."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:55:30",
+      "origin": "はい、そうなんです。言いたいことが、常に言えたらどんなに楽かなと思います。",
+      "content": "Yes, that’s right. I often think how much easier it would be if I could always say what I want to say."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:55:53",
+      "origin": "それを一度勇気を出して口に出してみるのも悪くないかと思います。",
+      "content": "I think it wouldn't be a bad idea to muster your courage and try saying it out loud once."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:56:25",
+      "origin": "そうですね。やってみたいと思います！",
+      "content": "You're right. I'd like to give it a try!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:57:01",
+      "origin": "本日ここでお話していただいたように、今の素直なお気持ちを伝えてみてくださいね",
+      "content": "Just as you've shared with me here today, please try to express your honest feelings as they are now."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:57:27",
+      "origin": "はい、ありがとうございます。話しに来て良かったです。",
+      "content": "Yes, thank you. I’m glad I came to talk."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:57:51",
+      "origin": "本日はそろそろ終了の時間となりましたが、またお時間がございましたら、いつでもお話に来てくださいね",
+      "content": "Our time is almost up for today, but please feel free to come back and talk anytime."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:58:08",
+      "origin": "本日はお越しくださり、ありがとうございました。",
+      "content": "Thank you very much for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-11T21:58:15",
+      "origin": "はい、今日はありがとうございました。頑張ってみます。",
+      "content": "Yes, thank you very much for today. I’ll do my best."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T21:59:19",
+      "origin": "ご自身の気持ちが伝わるようこちらも応援しています。本日はありがとうございました。これにて終了させていただきます。",
+      "content": "I'll be cheering for you so that you can convey your feelings. Thank you for your time today. This concludes our session."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-11T22:00:11",
+      "origin": "（ロープレありがとうございました。これにて終了させていただきます。）",
+      "content": "(Thank you for the role-play. We will conclude here.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "医者になりたくないという気持ちと美容系進学の希望"
+  },
+  "review_by_client": {
+    "evaluation_id": 4880,
+    "evaluation_created_at": "2023-04-11T22:05:00",
+    "client_id": 388,
+    "counselor_id": 294,
+    "score": 92,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

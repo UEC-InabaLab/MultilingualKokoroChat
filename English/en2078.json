@@ -1,0 +1,627 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:25:56",
+      "origin": "こんにちは。今日はよろしくお願いいたします。",
+      "content": "Hello. Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:28:51",
+      "origin": "（こちらこそよろしくお願いします）",
+      "content": "(Thank you for having me.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:28:59",
+      "origin": "お時間になりましたら、始めますね。",
+      "content": "We'll begin now that it's our scheduled time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:30:09",
+      "origin": "こんにちは。相談員です。ご相談に来て下さってありがとうございます。よろしければ、はじめに年齢と性別を教えてください。",
+      "content": "Hello. I'm your counselor. Thank you for coming in for a consultation. If you don't mind, could you please tell me your age and gender first?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:30:25",
+      "origin": "２６歳　女性です",
+      "content": "I'm a 26-year-old woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:30:37",
+      "origin": "ありがとうございます。今日はどのようなご相談できてくださいましたか?",
+      "content": "Thank you. What brings you in for a consultation today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:31:13",
+      "origin": "仕事を辞めたいと考えていて悩んでいます",
+      "content": "I’m thinking about quitting my job, and I’m struggling with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:32:06",
+      "origin": "そうなんですね。それはお悩みですよね・・。ちなみに今はどんなお仕事をされているのですか？",
+      "content": "I see. That must be weighing on you. By the way, what kind of work do you do now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:32:27",
+      "origin": "看護師をしています。",
+      "content": "I'm a nurse."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:33:07",
+      "origin": "そうなんですね。それは、今この状況で、きっと大変な毎日ですよね。",
+      "content": "I see. With the current situation, I'm sure every day must be very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:33:31",
+      "origin": "そうですね、、",
+      "content": "Yes, it is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:33:57",
+      "origin": "やめたいと思われたのは、どんなことがあったのか、よかったらお聞かせいただけますか？",
+      "content": "If you’re comfortable, could you tell me what led you to want to quit?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:34:42",
+      "origin": "すごく忙しくて、きついのでやめたいと思っています。",
+      "content": "It’s extremely busy and tough, so I feel like quitting."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:35:34",
+      "origin": "ええ、ええ。きっときつくて、大変な状況ですよね。いつ頃からそう思われているのですか？",
+      "content": "Yes, yes. I'm sure it's a very tough and difficult situation. How long have you been feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:36:25",
+      "origin": "もうここ2、3年くらいですかね",
+      "content": "For about two or three years now, I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:37:12",
+      "origin": "そうだったんですね。ずいぶん長くそう感じられながら、続けていらしたのですね。おつらかったですよね。",
+      "content": "I see. So you've continued working for quite a long time while feeling that way. That must have been very hard for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:37:43",
+      "origin": "はい。疲れました、、",
+      "content": "Yes. I'm exhausted..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:38:22",
+      "origin": "ええ、ええ。ほんとうにご自分の限界までお仕事されているのだと思います。",
+      "content": "Yes, yes. I imagine you've truly been working to your limit."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:39:33",
+      "origin": "今、辞めたいと考えながら、悩んでいらっしゃる、とのことでしたが、具体的にどんなことがご心配ですか？",
+      "content": "You mentioned you’re thinking of quitting but feeling torn. What specifically are you concerned about?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:40:27",
+      "origin": "やめたいのですが、自分の勤めている所は、辞める一年前に言わなきゃいけなくて、、",
+      "content": "I want to quit, but at my workplace, I have to give a year's notice before leaving..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:40:44",
+      "origin": "ええ（聞いていますね）",
+      "content": "Yes. (I'm listening.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:41:08",
+      "origin": "一年前から辞める人として周りから見られて仕事するのもしんどいし、、",
+      "content": "And it would be hard to work for a whole year while everyone around me sees me as 'the person who is quitting'..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:41:27",
+      "origin": "ええ、ええ",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:42:17",
+      "origin": "一年後に行きたいところがあったとして求人があるとは限らないという不安もあります。あとはどこも同じ感じなのかなとも思っています。",
+      "content": "I'm also worried that even if I find a place I want to go to a year from now, there's no guarantee there will be a job opening. And I also wonder if it's just the same everywhere else."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:42:53",
+      "origin": "なるほどです…。それはほんとうにどうしたら良いのか迷いますよね。",
+      "content": "I see... That would certainly make you feel lost about what to do."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:43:20",
+      "origin": "そうなんです、、",
+      "content": "Exactly..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:44:21",
+      "origin": "ちなみにもし、今の職場を辞めたとしてもやはり看護師としてお仕事されようとお考えですか？",
+      "content": "By the way, if you were to leave your current job, are you still thinking of working as a nurse?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:45:23",
+      "origin": "そうですね。病院になるかクリニックになるかは分からないですが看護師は続けるつもりです。",
+      "content": "Yes. I'm not sure if it would be a hospital or a clinic, but I intend to continue being a nurse."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:45:51",
+      "origin": "そうなんですね。身近にあなたのそうしたお気持を、相談できる方などはいらっしゃいますか？",
+      "content": "I see. Is there anyone close to you that you can talk to about these feelings?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:46:28",
+      "origin": "ちゃんと相談したことはありません、、",
+      "content": "I haven’t really talked it through with anyone..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:46:56",
+      "origin": "ええ、中々話しにくいことですよね…きっと。",
+      "content": "Yes, I'm sure it's a difficult thing to talk about."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:47:11",
+      "origin": "そうですね。",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:47:30",
+      "origin": "今、同居されているご家族などはいらっしゃいますか？",
+      "content": "Do you live with any family members right now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:47:42",
+      "origin": "はい。夫がいます。",
+      "content": "Yes. I live with my husband."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:48:39",
+      "origin": "そうなんですね。夫さんも、きっとあなたのお仕事のこともご心配されていると思いますが、お話したことはありますか？",
+      "content": "I see. I'm sure your husband is also concerned about your work. Have you talked to him about it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:49:21",
+      "origin": "夫は辛かったら辞めてもいいと言ってはくれていますね",
+      "content": "My husband has told me that it's okay to quit if it's too hard for me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:49:44",
+      "origin": "ええ、ええ。そう言われてあなたはどんな風に感じられましたか？",
+      "content": "I see. How did you feel when he said that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:50:25",
+      "origin": "辞めたいけど、さっき言った不安があるからなかなか決断できずにいます、、",
+      "content": "I want to quit, but because of the anxieties I mentioned earlier, I can't bring myself to make a decision..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:51:54",
+      "origin": "そうですよね。…悩みますよね。",
+      "content": "That makes sense... It’s a tough decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:53:43",
+      "origin": "経済的には、あなたがお仕事を一旦やめられても、生活には問題は無い感じでしょうか？",
+      "content": "Financially, would it be manageable if you were to stop working for a while?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:54:21",
+      "origin": "いったん辞める分には問題ないと思います。",
+      "content": "I don't think it would be a problem to quit for a while."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:55:01",
+      "origin": "そうなんですね。それはひとまず、生活は安心ですね。さきほど、1年前に伝えなければいけない、とのお話でしたが、",
+      "content": "I see. That's a relief, knowing your livelihood is secure for the time being. You mentioned earlier that you have to give a year's notice,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:55:34",
+      "origin": "その時、周りの人にそう見られながら続けるのがしんどい、とのことでしたが、",
+      "content": "and you said it would be hard to continue working while being seen that way by others,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:56:20",
+      "origin": "どんな反応になりそうで気になりますか？よかったらお聞かせください。",
+      "content": "What kinds of reactions are you concerned you might encounter? If you’re comfortable, please share."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:57:33",
+      "origin": "あの人は辞めるからと孤立したりしないかとか、ミスしたらどうせやめるから気を抜いていると思われそうで、、",
+      "content": "I worry I might become isolated because “she’s going to quit,” or that if I make a mistake people will think I’m slacking off since I’m leaving anyway..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:58:14",
+      "origin": "そうなんですね。そう思われたら、と考えるとおつらいですよね。",
+      "content": "I see. It must be painful to think that they might see you that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:58:24",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:59:01",
+      "origin": "今までも、そうしたことがあった感じですか？",
+      "content": "Have you experienced something like that before?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T11:59:17",
+      "origin": "どなたかが辞めるときに…",
+      "content": "For example, when someone else was leaving..."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T11:59:53",
+      "origin": "うーん、、分からないですね。皆が裏で何言ってるのかは分からないので、、",
+      "content": "Hmm... I’m not sure. I don’t know what people say behind the scenes..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:00:43",
+      "origin": "なるほど、そう思うこともあるかもしれない、という感じでご心配になるのですね。お忙しい現場では、そんな風に感じられるのももっともだと思います。",
+      "content": "I see, so it's more of a worry that it *might* happen. In such a busy work environment, I think it's very understandable to feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:01:34",
+      "origin": "色々お話を聞かせて下さってありがとうございます。ここまでお聞きした話を一旦まとめさせていただいてもよろしいでしょうか。",
+      "content": "Thank you for sharing so much with me. Would it be alright if I take a moment to summarize what you've told me so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:02:05",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:02:29",
+      "origin": "あなたは、2，3年前から本当にお仕事が忙しくて、きつくて、辞めたいと思われていました。それでも、辞める1年前に伝えなくてはいけないという決まりがあるので、そうなると働きにくくなるだろうということ、",
+      "content": "For the past two to three years, your job has been extremely busy and tough, and you've been wanting to quit. However, there's a rule that you have to give one year's notice, and you're concerned that would make it difficult to work there,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:02:47",
+      "origin": "また、辞めたとしても、求める仕事がすぐに見つからないかもしれない、ということで、辞めずにお仕事を続けていらっしゃいました。",
+      "content": "and also that even if you quit, you might not be able to find the job you're looking for right away. Because of this, you've continued to work without quitting."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:03:02",
+      "origin": "夫さんはそんなにつらかったらやめても良いと言ってくれていて、経済的にも問題はない状況です。",
+      "content": "Your husband has told you it's okay to quit if it's that hard, and you are financially secure."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:03:31",
+      "origin": "いかがでしょうか。もし違うようでしたらご遠慮なくおっしゃってくださいね。",
+      "content": "How does that sound? If anything is different, please don't hesitate to tell me."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:04:27",
+      "origin": "どこの病院も同じじゃないかと思うと辞めても無駄なのかなと感じます。",
+      "content": "I also feel that if every hospital is the same, then quitting might be pointless."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:04:38",
+      "origin": "それ以外はそんな感じです。",
+      "content": "Other than that, that's about right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:05:12",
+      "origin": "ありがとうございます。どこの病院も同じじゃないかと思うと無駄かもしれない、思われるのですね。",
+      "content": "Thank you. So you feel that it might be pointless if you think every hospital is the same."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:05:27",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:06:57",
+      "origin": "私など一般の人から見ると、今の医療の現場がどんな感じかはわからない、というところが実際なのですが、",
+      "content": "From an outsider's perspective like mine, it's hard to know what the medical field is really like right now,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:08:28",
+      "origin": "命にもかかわるような大変な現場で、とても大切な仕事をしてくださって、医療関係の方たちのおかげで、沢山の人の命が守られていることをいつも感じます。本当によくやってきてくださったと思います。",
+      "content": "You are doing very important work in a demanding environment that deals with life and death. I always feel that so many lives are protected thanks to medical professionals. I think you have done so well for so long."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:09:03",
+      "origin": "でも、あなたの命もとても大切、だと思います。",
+      "content": "But I believe your life is also very precious."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:10:41",
+      "origin": "今の職場をやめて、次の仕事が希望するものがみつかるかは確かにわからないのですが、",
+      "content": "It's true that we don't know if you'll find the job you hope for after leaving your current one,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:11:13",
+      "origin": "今がそのようにつらいのでしたら、まずはご自身のお体を大事にされたらと感じるのですが、いかがでしょうか？",
+      "content": "but if things are this difficult for you right now, I feel that you should prioritize taking care of yourself. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:12:57",
+      "origin": "辞めて楽になれるなら辞めたいですが、それによってまた一から人間関係を作って、結果今と同じしんどさだったら",
+      "content": "I want to quit if it means I'll feel better, but if I have to build new relationships from scratch and end up feeling just as stressed as I am now,"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:13:21",
+      "origin": "今のほうが楽かもしれないとも思ってしまいます、、",
+      "content": "I start to think that staying where I am might be easier..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:13:48",
+      "origin": "なるほど、そうなんですね。新しい環境への変化も、しんどく感じられるのですね。",
+      "content": "I see, so that's how you feel. The change to a new environment also feels daunting to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:14:21",
+      "origin": "きっと今、とってもお疲れなんだと思います。体調は今、どんな感じですか？",
+      "content": "I'm sure you must be extremely tired right now. How are you feeling physically?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:14:59",
+      "origin": "毎日疲れますが崩したりはしていません。",
+      "content": "I'm tired every day, but my health hasn't broken down."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:15:19",
+      "origin": "そうですか。食事などはしっかりとれていますか？夜も眠れていますか？",
+      "content": "I see. Are you able to eat properly? And are you able to sleep at night?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:15:40",
+      "origin": "はい。大丈夫です。",
+      "content": "Yes. I'm okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:16:11",
+      "origin": "お疲れでも、しっかりと体調管理されていて、安心しました。よかったです。",
+      "content": "I'm relieved to hear that even though you're tired, you're managing your health well. That's good."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:17:47",
+      "origin": "そうしますと、今日のご相談の中で一番悩まれていらっしゃるのは、今の仕事を辞めたいという気持ちと、辞めても同じようなことになるのではないか、ということで悩んでいて決めかねていることをどうにかされたい、ということでよろしいでしょうか。",
+      "content": "In that case, would it be correct to say that the biggest issue you're struggling with in today's session is that you're caught between your desire to quit your current job and the fear that things will be the same even if you leave, and you're looking for a way to resolve this inability to decide?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:18:46",
+      "origin": "そうですね。辞めたいけどやめられないという事に悩んでいます、、",
+      "content": "That's right. I'm struggling with the fact that I want to quit but I can't..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:19:32",
+      "origin": "ありがとうございます。例えば、ご自分の中では、どんな状況になったらいいな、というイメージがありますか？",
+      "content": "Thank you. For example, in your mind, do you have an image of what kind of situation you would like to be in?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:21:05",
+      "origin": "給料面があまり変わらない別の場所があればそこで働きたいと考えています。",
+      "content": "If there was another place with a similar salary, I'd like to work there."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:22:10",
+      "origin": "そうなんですね。そうした場所がありそうか、調べてみたことはありますか？",
+      "content": "I see. Have you ever looked into whether such a place might exist?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:23:04",
+      "origin": "いくつかはあるような気がします。",
+      "content": "I have a feeling there are a few."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:23:48",
+      "origin": "そうなんですね。きっと必要とされている場所は沢山ありますよね。ここからはご提案なのですが、",
+      "content": "I see. I'm sure there are many places that need someone with your skills. From here, I'd like to make a suggestion."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:24:34",
+      "origin": "ご自分の中で、「自分にとってこれが大切だな」と思うことを書き出してみるのはいかがでしょう。自分自身の基準を書き出してみて・・",
+      "content": "How about trying to write down the things that you feel are 'important to me'? By writing out your own criteria..."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:25:07",
+      "origin": "書き出してどうしたらいいんでしょうか",
+      "content": "What should I do after I write them down?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:25:45",
+      "origin": "あと、辞めずにこのまま続けることと、辞めて新しい職場を探すことについて、一枚の紙を縦に半分に折って、右と左にそれぞれ書いてみると、",
+      "content": "Also, regarding continuing your job versus quitting and finding a new one, if you take a piece of paper, fold it in half vertically, and write about each option on the right and left sides,"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:26:42",
+      "origin": "はい。",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:26:50",
+      "origin": "どちらの方を自分は必要かが、はっきりしてくるのではないかと思うのですが、どう思われますか？",
+      "content": "I think it might become clearer which one you need more. What do you think of that idea?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:27:23",
+      "origin": "なるほど、、一度考えてみたいと思います。",
+      "content": "I see... I’d like to try thinking it through."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:28:24",
+      "origin": "看護師さんという、本当に人のために力を尽くすおしごとで、ずっとよくやってきてくださっていると思います。",
+      "content": "As a nurse, you have a job where you truly dedicate yourself to others, and I believe you have been doing so well for a very long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:29:08",
+      "origin": "そんなあなただからこそ、まずはご自分の命や生活を大切になさって欲しいとおもいます。周りの人の反応はその人たちの問題だと思います。",
+      "content": "Precisely because you're that kind of person, I want you to first cherish your own life and well-being. How other people react is their issue."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:30:27",
+      "origin": "決めてしまわれたら、そこを守ることに集中されて、ぜひご自分や家族とのコミュニケーションを大切にして、",
+      "content": "Once you've made a decision, I hope you can focus on protecting that choice, value the communication with yourself and your family,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:31:00",
+      "origin": "自信をもたれて頂けたらと思います。つらい中、3年も仕事をがんばっていたあなたなら、きっとできると思います。",
+      "content": "and have confidence in yourself. I believe that you, who have worked so hard for three years through such difficult times, can definitely do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:31:12",
+      "origin": "いかがでしょうか。",
+      "content": "How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:32:19",
+      "origin": "はい。まずは自分がどうしたいのかをよく考えたいと思います。自分の大切なものはなにかを考えたいと思います。",
+      "content": "Yes. First, I’d like to think carefully about what I want—to consider what’s most important to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:32:52",
+      "origin": "ありがとうございます。ご自身の大切なものをどうぞ最優先にしてくださいね！今日はそろそろお時間になってしまいました。よかったらまたいつでもご相談にきてくださいね。",
+      "content": "Thank you. Please make what's important to you your top priority! Our time is almost up for today. Please feel free to come back for a consultation anytime."
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:33:10",
+      "origin": "はい。ありがとうございました。",
+      "content": "Yes. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:33:19",
+      "origin": "それでは、本日の相談を終了いたします。ありがとうございました。",
+      "content": "Well then, we will now conclude today's session. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-23T12:33:33",
+      "origin": "（ありがとうございました。）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-23T12:33:48",
+      "origin": "（こちらこそありがとうございました。）",
+      "content": "(Thank you as well.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "看護師としてのキャリア選択の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 2078,
+    "evaluation_created_at": "2021-06-23T12:41:00",
+    "client_id": 166,
+    "counselor_id": 110,
+    "score": 79,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

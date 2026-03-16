@@ -1,0 +1,753 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:54:58",
+      "origin": "こんばんは、よろしくお願いいたします。時間が来ましたら始めたいと思います。もうしばらくお待ちください。",
+      "content": "Good evening, and thank you for being here. We will begin once our time starts. Please wait just a moment longer."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:55:32",
+      "origin": "承知しました。",
+      "content": "Understood."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:00:10",
+      "origin": "それではお時間になりましたので始めたいと思います。",
+      "content": "Alright, it is now our scheduled time, so let's begin."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:00:24",
+      "origin": "はい、お願いいたします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:00:38",
+      "origin": "本日はご相談に来ていただきありがとうございます。初めに年齢と性別を教えていただけますか?",
+      "content": "Thank you for coming in for a consultation today. To start, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:01:05",
+      "origin": "18歳、女性です。",
+      "content": "I'm 18 years old, and I'm female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:01:47",
+      "origin": "ありがとうございます。18歳の女性の方ですね。高校生でいらっしゃいますか?",
+      "content": "Thank you. So, you're an 18-year-old woman. Are you a high school student?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:01:59",
+      "origin": "はい、高3です",
+      "content": "Yes, I'm a senior in high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:02:26",
+      "origin": "承知いたしました。本日はどのようなご相談でしょうか? お聞かせいただけますか?",
+      "content": "Understood. What would you like to consult about today? Could you please share?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:02:45",
+      "origin": "実は、先生のことが気になるんです。",
+      "content": "Actually, I have feelings for one of my teachers."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:03:08",
+      "origin": "はい、先生のことですか?",
+      "content": "I see, your teacher?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:03:31",
+      "origin": "もうすぐ卒業なんですが、自分の気持ちを伝えようかどうしようか迷っていて",
+      "content": "I'm graduating soon, and I'm torn about whether to tell my teacher how I feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:03:43",
+      "origin": "はい、",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:03:52",
+      "origin": "ただ、先生は既婚者なんです。",
+      "content": "But my teacher is married."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:04:02",
+      "origin": "なるほど",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:04:29",
+      "origin": "それで・・・悩んでおられるんですね",
+      "content": "And that's... what you're struggling with."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:04:44",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:05:43",
+      "origin": "担任の先生なのでしょうか?いつぐらいからその様な気持ちなんでしょうか?",
+      "content": "Is this your homeroom teacher? Since about when have you been feeling this way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:06:44",
+      "origin": "今年から授業を受けるようになって、",
+      "content": "I started taking their class this year,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:06:52",
+      "origin": "はいはい",
+      "content": "I see, I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:07:04",
+      "origin": "いい先生だなって思いました",
+      "content": "I thought they were a great teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:07:27",
+      "origin": "まだ、お若いせんせいなんですか?",
+      "content": "Is she a young teacher?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:08:04",
+      "origin": "29歳の女性の先生なんです。",
+      "content": "She's a 29-year-old female teacher."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:09:07",
+      "origin": "えっ?　ごめんなさいね。男性の先生ではないのですか?",
+      "content": "Oh? I'm sorry—so it's not a male teacher?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:09:38",
+      "origin": "そうです。もうすぐ卒業だし、もう先生に会えなきなってしまうのは寂しいし、",
+      "content": "That's right. I'm graduating soon, and it's sad to think I won't be able to see her anymore,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:09:52",
+      "origin": "好きなのかな…",
+      "content": "I wonder if I'm in love with her..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:11:35",
+      "origin": "いい先生だなって思いはしてたけど、",
+      "content": "I'd always thought she was a great teacher, but..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:12:04",
+      "origin": "卒業が近くなって、もしかしたら、好きなのかもしれないと思いました。",
+      "content": "But as graduation gets closer, I started to think maybe I might actually like her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:12:19",
+      "origin": "はいはい、なるほど。",
+      "content": "I see, I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:12:28",
+      "origin": "さしつかえなければ",
+      "content": "If you don't mind my asking,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:12:41",
+      "origin": "お聴きしたいのですが",
+      "content": "I'd like to ask,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:13:26",
+      "origin": "失礼ですが、LGBTのLということで理解してもよいのでしょうか?そういったことではないのですか?",
+      "content": "Pardon me for asking, but should I understand this as being related to the L in LGBT? Or is that not the case?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:14:29",
+      "origin": "よくわかりません。ただ、既婚者だし、女性なので、こんなこと伝えたら嫌になってしまうかもしれないと思うと",
+      "content": "I'm not really sure. It's just that she's married, and she's a woman, so if I told her something like this, I'm afraid she might come to dislike me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:14:49",
+      "origin": "はい、はい",
+      "content": "I see, I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:15:07",
+      "origin": "気持ちを伝えるのはやめた方がいいかな、って考えてしまいます。",
+      "content": "So I end up thinking maybe I shouldn't tell her how I feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:15:08",
+      "origin": "続けて",
+      "content": "Please go on."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:16:22",
+      "origin": "うーん、こういうことってなかなか相談しにくい事だから、辛かったでしょう。よく、相談してくれたなと思います。",
+      "content": "Hmm, this must have been difficult for you, since it's not an easy thing to talk about. I really appreciate you coming to discuss it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:17:35",
+      "origin": "クラスメイトや友人の方には相談したりはされているのですか?",
+      "content": "Have you talked about this with any of your classmates or friends?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:58",
+      "origin": "特に話していません。",
+      "content": "I haven't really told anyone."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:18:53",
+      "origin": "自分で決めようと思ってます。",
+      "content": "I want to decide for myself."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:19:12",
+      "origin": "どうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:20:28",
+      "origin": "なるほどですね。しっかりと自分をお持ちなんですね。立ち入った質問になりますがあなたがそういう感情をお持ちの女性であるということを周りでご存じの方はおられるのでしょうか?",
+      "content": "I see. You have a very strong sense of self. This is a rather personal question, but is there anyone around you who knows that you have these kinds of feelings for women?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:21:02",
+      "origin": "自分でもよくわかんないんですけど、",
+      "content": "I'm not really sure myself, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:21:14",
+      "origin": "はい、はい",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:21:29",
+      "origin": "続けてください",
+      "content": "Please continue."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:22:04",
+      "origin": "先生のことが好きなのは、話さなくても、きっと気づいてるとは思います。",
+      "content": "Even if I don't say anything, I think she probably realizes that I like her."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:23:48",
+      "origin": "帰り道が一緒で、途中まで一緒に帰ってくれて、とても仲良くしてくれてましたし",
+      "content": "Our way home is the same, and she would walk with me part of the way; we got along very well."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:24:21",
+      "origin": "進路のことも担任の先生より相談しやすくて、",
+      "content": "It was easier to talk to her about my future plans than it was with my homeroom teacher,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:24:34",
+      "origin": "本当に尊敬してます。",
+      "content": "I truly respect her."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:25:13",
+      "origin": "とても楽しかったし、離れるのは、さみしい",
+      "content": "I had so much fun with her, and I'm sad that we'll be apart."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:25:57",
+      "origin": "私が卒業する時に先生に気持ちを伝えようと思うのですが",
+      "content": "I'm thinking of telling her how I feel when I graduate,"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:26:10",
+      "origin": "迷惑だったりしませんかね？",
+      "content": "but I wonder if it would be a bother to her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:27:09",
+      "origin": "うーん、どのように気持ちを伝えようと考えておられるのでしようか?",
+      "content": "Hmm, how are you thinking of expressing your feelings to her?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:28:21",
+      "origin": "卒業式の日に、手紙を渡そうと思っています",
+      "content": "I'm thinking of giving her a letter on graduation day."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:28:37",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:29:15",
+      "origin": "どの様な内容の手紙を書こうと考えておられるのですか?",
+      "content": "What kind of things are you thinking of writing in the letter?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:30:33",
+      "origin": "この先は離れてしまうけど自分のことを忘れないでほしいというようなこと、伝えようと思います。",
+      "content": "I plan to tell her that even though we'll be apart from now on, I don't want her to forget me."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:31:43",
+      "origin": "やっぱり、嫌われちゃうよね…",
+      "content": "She'd end up disliking me, right...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:32:25",
+      "origin": "なるほど、そうなんですね。その内容なら先生に渡されても良いのではないかと思いますが・・・ためらわれている事、あなたが引っかかっていることは何かあるのでしょうか?",
+      "content": "I see, so that's what you're thinking. With that kind of content, I think it would be fine to give the letter to your teacher... but is there something that's making you hesitate, something that's holding you back?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:33:28",
+      "origin": "卒業しても離れたくないけど、先生には家族もいるし、迷惑だよね",
+      "content": "I don't want to be apart even after graduating, but she has a family, so that would be a bother, right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:33:42",
+      "origin": "嫌いにならないか、心配",
+      "content": "I'm worried she might come to dislike me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:34:10",
+      "origin": "そんなことはないと思いますよ。",
+      "content": "I don't think that will happen."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:34:23",
+      "origin": "そうかな…",
+      "content": "You think so...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:35:12",
+      "origin": "教師と生徒の関係でいつまでも良い関係が続いている方は沢山おられます。",
+      "content": "There are many people who maintain a good, long-lasting relationship as former teachers and students."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:35:50",
+      "origin": "でも、迷惑じゃないかな、",
+      "content": "But, won't it be a bother?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:36:45",
+      "origin": "独占したいんだけど、ほんとは。",
+      "content": "To be honest, I want her all to myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:37:35",
+      "origin": "そんなことは絶対にないですよ。ただ、私が気になるのは性的マイノリティーの問題があるのなら少し、話は変わってくるかなと感じていますが、いかがですか?",
+      "content": "That's definitely not true. However, what does concern me is that if there is an issue related to being a sexual minority, the conversation might change a bit. What are your thoughts on that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:38:11",
+      "origin": "性的マイノリティーって、？",
+      "content": "Sexual minority...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:40:30",
+      "origin": "ただ単に先生が好きという感情ではなく先生を女性としてみている。性的にですよ・・・はっきりというと最初に質問したL(レズビアン)ということがあるのなら・・・むずかしい問題だなって思ってしまいます。",
+      "content": "It's not just a simple feeling of liking your teacher, but seeing her as a woman. In a sexual way... To be blunt, if it's a matter of being L (lesbian), which I asked about at the beginning... then I feel it becomes a more complex issue."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:41:25",
+      "origin": "自分では、違うとは思うけど独り占めしたいとは思ってる",
+      "content": "I don't think that's the case for me, but I do feel like I want to have her all to myself."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:42:10",
+      "origin": "だから、友達にも相談しないで、お手紙渡したい",
+      "content": "That's why I want to give her the letter without talking to my friends about it."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:42:44",
+      "origin": "どうしたら嫌われないで、渡せるかな？",
+      "content": "How can I give it to her without making her dislike me?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:43:28",
+      "origin": "独占したい気持ちって、そういうことですか？",
+      "content": "Does this feeling of wanting her all to myself mean... that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:44:35",
+      "origin": "独り占めしたいって気持ちは、L　ってこと？",
+      "content": "Does this feeling of wanting her all to myself mean I'm L?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:45:14",
+      "origin": "そうではないと思いますよ。",
+      "content": "I don't think that's the case."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:45:56",
+      "origin": "私って、変なのかな？",
+      "content": "Am I... weird?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:46:53",
+      "origin": "ぜんぜん変じゃありませんよ。自分の気持ちに素直なだけです。ただ、これまでに女性の人に対してその様な性的な関係になった事はないのでしょ?",
+      "content": "Not at all. You're just being honest with your feelings. But you've never been in that kind of sexual relationship with a woman before, have you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:47:24",
+      "origin": "性的な？関係？",
+      "content": "A sexual? Relationship?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:47:51",
+      "origin": "はっきりといいますが肉体的関係です。",
+      "content": "To be blunt, a physical relationship."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:48:12",
+      "origin": "え！！！",
+      "content": "What!!!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:48:42",
+      "origin": "ないんですよね。そんなこと・・・",
+      "content": "You haven't, have you? Anything like that..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:49:11",
+      "origin": "まさか、そんなこと…",
+      "content": "Of course not, nothing like that..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:50:03",
+      "origin": "女子の先輩とかが好きになったことあったけど、",
+      "content": "I have had crushes on older female students before, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:50:39",
+      "origin": "じゃあ、何も問題はないと思いますよ。初めに質問したときにわかりません・・・と答えられたのでその点が少し引っかかっていました。",
+      "content": "Then I don't think there's any problem. It's just that when I first asked, you said you weren't sure... so that was something I was a little hung up on."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:50:44",
+      "origin": "その時もなんか気持ち伝えられなかったから、後悔したくなかったんだけど、",
+      "content": "Back then, I couldn't tell them how I felt either, so I didn't want to have regrets this time, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:51:16",
+      "origin": "正直に・・・",
+      "content": "Honestly..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:51:38",
+      "origin": "そんなこと考えたりしてません",
+      "content": "I haven't even thought about something like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:52:08",
+      "origin": "あなたの気持ちをお伝えになられたら良いのではないでしょうか?",
+      "content": "In that case, perhaps it would be good to tell her how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:52:38",
+      "origin": "嫌われたらと思うと、心配になるんですが、",
+      "content": "But when I think about the possibility of being disliked, I get worried."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:52:53",
+      "origin": "どんなふうにしたらいいですか？",
+      "content": "What's the best way to do it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:53:00",
+      "origin": "勿論、独占できるか、どのようなお応えがかえってくかは不安ですよね・・・",
+      "content": "Of course, you're anxious about whether you can have her to yourself, and what kind of response you'll get..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:54:01",
+      "origin": "不安です",
+      "content": "I'm anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:54:42",
+      "origin": "でも気持ちを伝えないということはずっと、のこらないですか?あなたの中で後悔として・・・もちろん不安な気持ちはりかいできますよ。",
+      "content": "But if you don't tell her how you feel, won't that always remain with you? As a regret... Of course, I understand why you feel anxious."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:55:15",
+      "origin": "わたしは、",
+      "content": "I..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:55:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:56:52",
+      "origin": "友達にも相談しないで独り占めしたいくらい好きなんだけど、こんな強い気持ちを持つことは、L　とは違うんですよね？",
+      "content": "I like her so much that I want her all to myself without even telling my friends, but having such strong feelings isn't the same as being L, right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:58:02",
+      "origin": "なんか、自分がおかしいのかと思ちゃってた",
+      "content": "I was starting to think something was wrong with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:58:11",
+      "origin": "ここまでのお話しをお伺いしている限りでは私は違うと感じています。",
+      "content": "From what I've heard so far, I feel that it is different."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:59:02",
+      "origin": "自分だけを見てほしいというむしろ独占欲的なほうが強いのではないでしょうか?",
+      "content": "Isn't it more of a strong possessive desire for her to look only at you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:59:25",
+      "origin": "そうかな。先生にそう思われたりしない？",
+      "content": "Maybe. Won't the teacher think that of me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:59:25",
+      "origin": "もう少し、お話しを聴ければ",
+      "content": "If I could hear a bit more,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:00:50",
+      "origin": "大丈夫だと思いますよ。それよりも何も伝えないことの方があなたは後悔しそうなきがしますがどうでしょうか?",
+      "content": "I think it will be okay. More importantly, I feel you're more likely to regret not saying anything. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T21:01:41",
+      "origin": "そうだと思います。どうしたらうまくいくかな？",
+      "content": "I think so. How can I make it go well?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:04:08",
+      "origin": "先生との思い出・・・楽しかったこと・・・うれしかったこと・・・心強かったこと・・・正直にお伝えして・・・これからも困ったときは応援してほしい・・・相談にのってほしいとお伝えしてはいかがでしょうか?",
+      "content": "How about honestly telling her about your memories with her... the fun times... the happy times... the times she encouraged you... and then telling her you'd like her to keep supporting you and be there to talk to when you're in trouble in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T21:04:44",
+      "origin": "そっか・・・参考になりました。",
+      "content": "I see... That's very helpful."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:04:50",
+      "origin": "次のステップは",
+      "content": "As for the next step,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:05:06",
+      "origin": "それから考えても良いと思います。",
+      "content": "I think you can think about that afterwards."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:05:19",
+      "origin": "今、大事なのは・・・",
+      "content": "What's important right now is..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:05:55",
+      "origin": "あなたが後悔しながら…卒業を迎えないことではないでしょうか?",
+      "content": "that you don't face graduation with regrets, wouldn't you agree?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:06:34",
+      "origin": "お時間が来てしまいましたね。",
+      "content": "It looks like our time is up."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T21:06:39",
+      "origin": "はい、後悔したくありません。",
+      "content": "Yes, I don't want to have any regrets."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:07:56",
+      "origin": "そうですよね。勇気をもって気持ちを伝えてください。正直な気持ちを伝えることは決して恥ずかしい事ではありませんし、伝わると信じましょう。",
+      "content": "That's right. Please be brave and tell her how you feel. It's nothing to be ashamed of to express your honest feelings, and let's believe that she will understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T21:08:32",
+      "origin": "勇気を出したいです",
+      "content": "I want to be brave."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:08:42",
+      "origin": "今日はスッキリできるところまでご相談にのれなかったかもしれませんが明日以降も相談の受付はしていますから一人で悩まずにまた、ご相談に来ていただけますか?",
+      "content": "We may not have been able to reach a complete resolution today, but we are available for consultations from tomorrow onward, so please don't struggle alone and feel free to come back and talk again, okay?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T21:09:07",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:09:31",
+      "origin": "本日は色々と立ち入ったところまでお話を聞かせて頂いてありがとうございました。",
+      "content": "Thank you for sharing so much with me today, including some very personal things."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T21:10:12",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:10:30",
+      "origin": "それでは終了したいと思います。時間オーバーになって申し訳ありませんでした。貴重なお時間をありませんでした。",
+      "content": "Alright, let's end here. I apologize for going over our time. Thank you for your valuable time."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T21:10:46",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "教師への気持ちを伝えるかどうかの悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 1357,
+    "evaluation_created_at": "2021-02-17T22:53:00",
+    "client_id": 108,
+    "counselor_id": 150,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

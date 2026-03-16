@@ -1,0 +1,723 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-07-20T15:51:29",
+      "origin": "（こんにちは。お時間になりましたら始めさせていただきます。本日は、どうぞよろしくお願いいたします。）",
+      "content": "(Hello. We'll begin when it's time. Thank you for coming in today.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T15:52:48",
+      "origin": "(こんにちは。よろしくお願い致します。クライエント役にリクエストはございますか？)",
+      "content": "(Hello. Thank you. Do you have any requests for the client role?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T15:54:53",
+      "origin": "（ありがとうございます。可能であれば中高生の年代でお願いします。）",
+      "content": "(Thank you. If possible, please play a junior high or high school student.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T15:55:13",
+      "origin": "(かしこまりました)",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:00:06",
+      "origin": "こんにちは、相談員です。本日はご相談に来て下さり、ありがとうございます。 はじめに、年齢、性別、相談内容を教えて下さい。",
+      "content": "Hello, I'm a counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:01:04",
+      "origin": "14 女先輩のこと",
+      "content": "14, female. It's about a senior at school."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:01:45",
+      "origin": "教えてくださりありがとうございます。１４歳ということですがよかったら学年を教えていただけますか？",
+      "content": "Thank you for sharing that. You mentioned you're 14; would you mind telling me your grade?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:02:00",
+      "origin": "2年",
+      "content": "Second year."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:02:51",
+      "origin": "中学２年生なんですね。その先輩とはどんな関係なんでしょうか？あなたがお話しやすいところからでいいので、どんなことでもお話してくださいね",
+      "content": "So you’re in your second year of junior high. What is your relationship with that senior? Please feel free to start wherever is easiest for you and tell me anything you’d like."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:03:15",
+      "origin": "どんな？",
+      "content": "What do you mean?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:03:58",
+      "origin": "部活の先輩とか、家が近い先輩とか、その先輩とどんな時にかかわりがあるのでしょうか？",
+      "content": "For example, are they a senior in your club, or someone who lives nearby? In what situations do you interact with them?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:04:20",
+      "origin": "部活の先輩",
+      "content": "A senior in my club."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:04:36",
+      "origin": "そうなんですね。部活は何の部活でしょうか？",
+      "content": "I see. What club are you in?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:05:08",
+      "origin": "バスケ",
+      "content": "Basketball."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:05:54",
+      "origin": "バスケット、かっこいいですね。部活動のどんなときに困っていますか？",
+      "content": "Basketball, that's cool. What is it about your club activities that's troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:06:45",
+      "origin": "遊ぶ時",
+      "content": "When we hang out."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:07:58",
+      "origin": "そうなんですね。遊ぶとき、とは具体的にどんなときなのでしょうか？部活動の最後に自由なじかんがあるのでしょうか？",
+      "content": "I see. When you say \"when you hang out,\" what specific times do you mean? Is there free time at the end of your club activities?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:08:48",
+      "origin": "部活の後とか",
+      "content": "Like, after club activities."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:08:56",
+      "origin": "部活ないときとか",
+      "content": "Or on days when there's no club."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:09:40",
+      "origin": "なるほど、部活の帰りや部活のない日にも遊んだりするんですね。遊ぶのはその先輩と２人？それとも他にも誰かいるのでしょうか？",
+      "content": "I see, so you also hang out on your way home from club or on days you don't have it. When you hang out, is it just you and that senior, or are there others too?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:10:12",
+      "origin": "2人",
+      "content": "Just the two of us."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:11:23",
+      "origin": "２人で遊ぶのはかなり親密なんですね。遊んでるときのどんなことがあなたを悩ませているのでしょうか？",
+      "content": "Hanging out just the two of you sounds quite close. What is it about your time together that's worrying you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:12:14",
+      "origin": "パパ活しようと言われて、、",
+      "content": "She told me we should do 'papa-katsu'..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:13:00",
+      "origin": "パパ活、、具体的にはどんなことをするのかな？あなたがお話しやすいところからでいいので、もう少し詳しく教えていただけますか？",
+      "content": "'Papa-katsu'... What does that specifically involve? Could you tell me a little more, starting with whatever is easiest for you to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:13:15",
+      "origin": "知らないの？",
+      "content": "You don't know?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:14:26",
+      "origin": "あ、ごめんなさいね。大人の男の人と一緒に過ごすことかな、・・・それをその先輩が誘ってくるのはかなり苦痛ですよね・・・。",
+      "content": "Oh, I’m sorry. Is it about spending time with adult men? ... Having that senior invite you to do that must be very distressing..."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:15:30",
+      "origin": "やってもいいのか迷ってる",
+      "content": "I'm not sure if I should do it or not."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:15:46",
+      "origin": "どう思いますか？",
+      "content": "What do you think?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:16:37",
+      "origin": "迷っているんですね。あなたが気が進まないのならしない方が相談員は安心です。あなた自身は誘われたとき、どう思ったのですか？",
+      "content": "You're feeling conflicted. If you're not comfortable with it, as a counselor, I'd feel more at ease if you didn't do it. How did you feel when she invited you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:16:56",
+      "origin": "お金は欲しい",
+      "content": "I want the money."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:17:22",
+      "origin": "そうなんですね。今までその先輩に誘われたときは、どう答えたんですか？",
+      "content": "I see. When your senior has invited you before, how have you responded?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:18:01",
+      "origin": "迷ってるって",
+      "content": "That I'm not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:19:00",
+      "origin": "ええ、正直にあなたの気持ちを伝えたんですね。パパ活に誘ってくる以外にその先輩のことでイヤだなと思うことはありますか？",
+      "content": "I see, so you told her how you honestly feel. Besides inviting you to do 'papa-katsu', is there anything else about this senior that bothers you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:19:38",
+      "origin": "ないです",
+      "content": "No, there isn't."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:21:00",
+      "origin": "教えてくれてありがとうございます。お金はほしい、と教えてくれたけど、お金をもらったらどんなことに使いたいと思っているのかな？",
+      "content": "Thank you for telling me. You mentioned you want money; what would you like to use it for if you got it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:21:31",
+      "origin": "服とかコスメ買いたい",
+      "content": "I want to buy clothes and makeup."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:22:14",
+      "origin": "ええ、おしゃれをしたいんですね。きれいな服とかコスメが買いたいんですね。",
+      "content": "I see—you’d like to enjoy fashion. You want to buy nice clothes and makeup."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:22:32",
+      "origin": "迷っていると伝えたとき、先輩はどんな反応でしたか？",
+      "content": "When you told her you weren't sure, how did your senior react?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:22:48",
+      "origin": "全然大丈夫って",
+      "content": "She said it’s totally fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:23:11",
+      "origin": "ええ、そうなんですね。怒ってくるとかではなくて安心しました",
+      "content": "I see. I’m relieved she didn’t get angry or anything."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:23:39",
+      "origin": "怒ってはこないけど",
+      "content": "She doesn’t get angry, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:23:57",
+      "origin": "そんなのもできないのって",
+      "content": "She says things like, 'You can't even do that?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:24:37",
+      "origin": "ええ、そんなことを言われたんですね。それはイヤな気持ちになりますよね。その先輩はすでにパパ活をしているのかな？",
+      "content": "I see, she said that to you. That must feel awful. Is your senior already doing 'papa-katsu' herself?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:25:01",
+      "origin": "してるみたい",
+      "content": "Seems like it."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:25:16",
+      "origin": "だからこわくないよって",
+      "content": "That's why she says it's not scary."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:25:58",
+      "origin": "ええ、そうなんですね。こわくないよって言われても、あなたは不安やこわい、という気持ちがあるのかなと思ったのですがいかがですか？",
+      "content": "I see. Even if she says it’s not scary, I wondered if you might still feel anxious or afraid. How is it for you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:26:22",
+      "origin": "こわいのもあるけど、",
+      "content": "It is a bit scary, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:26:44",
+      "origin": "うんうん、",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:26:50",
+      "origin": "1時間しゃべって5000円もらえるって",
+      "content": "She said I can get 5,000 yen for just talking for an hour."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:27:13",
+      "origin": "そうなんですね。それを聞いてあなたはどう思いましたか？",
+      "content": "I see. What did you think when you heard that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:27:14",
+      "origin": "すごくいいバイトみたいだし",
+      "content": "It sounds like a really good part-time job."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:27:31",
+      "origin": "みんなやってるって",
+      "content": "And she said everyone's doing it."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:28:00",
+      "origin": "黙ってれば親にバレないし",
+      "content": "If I keep quiet, my parents won't find out."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:28:44",
+      "origin": "変なおじさんとかなら逃げちゃえばいいって",
+      "content": "And if it's a weird guy, I can just run away."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:29:13",
+      "origin": "そうなんですね。たしかに１時間おしゃべりして５０００円は、いいバイトだって思いますよね。変なおじさんなら逃げればいい、なるほどです。でもあなたは迷っている・・・具体的にはもしそのバイトをするとしたらどんなことがこわかったり不安だったりしますか？",
+      "content": "I see. Certainly, getting 5,000 yen for an hour of conversation sounds like a good job. And if it's a weird guy, just run away, I understand. But you're still hesitant... What specifically are you scared or anxious about if you were to do this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:29:54",
+      "origin": "誰が来るかわからないし、",
+      "content": "I don't know who will show up,"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:30:03",
+      "origin": "ほんとに逃げれるのかなって",
+      "content": "and I wonder if I can really get away."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:30:29",
+      "origin": "ええ、本当にそうですよね。そのように考えるのは当然ですし、健全な感覚だと思います",
+      "content": "Yes, that's absolutely right. It's natural to think that way, and I think it's a healthy response."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:30:48",
+      "origin": "知らない人と会うのは、それだけでリスクがともないますよね。",
+      "content": "Meeting a stranger in itself comes with risks, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:31:07",
+      "origin": "でもみんなやってるみたい",
+      "content": "But it seems like everyone's doing it."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:31:25",
+      "origin": "みんなが大丈夫なら、",
+      "content": "If everyone else is okay,"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:31:33",
+      "origin": "私も大丈夫かなって",
+      "content": "I wonder if I'll be okay too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:32:05",
+      "origin": "あなたもやってみても大丈夫かな、とも思っているんですね。迷いますよね。みんな、ってあなたが知っているだけで何人くらいやっているのかな？",
+      "content": "So a part of you is thinking you might be okay if you try it, too. It’s understandable to be torn. When you say 'everyone,' about how many people that you know are doing it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:32:53",
+      "origin": "何人かわからないけど、",
+      "content": "I don't know how many, but"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:32:59",
+      "origin": "先輩の友達とか、",
+      "content": "like my senior’s friends,"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:33:25",
+      "origin": "インスタで繋がってる別の学校の子とかもやってるみたい",
+      "content": "and kids from other schools I'm connected with on Instagram seem to be doing it too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:34:08",
+      "origin": "なるほど、そうなんですね。たしかに知っている人が何人かしていると自分も大丈夫かな、とも思ってしまいますよね。",
+      "content": "I see. When you know of several people doing it, it makes you think you might be okay too, doesn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:34:25",
+      "origin": "かわいいバッグとか買ってるし",
+      "content": "And they're buying cute bags and things."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:34:48",
+      "origin": "ええ、かわいいバッグ持っているのみるとうらやましくなりますよね。",
+      "content": "Yes, seeing them with cute bags can make you feel envious, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:35:25",
+      "origin": "やっても大丈夫かな？",
+      "content": "Do you think it would be okay if I did it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:36:16",
+      "origin": "パパ活をすることでもし逃げたくても逃げられないようなことが起きたら、どのように対処しようと思っているのかな？",
+      "content": "If you were to do sugar dating and something happened where you couldn’t get away even if you wanted to, how do you think you would handle that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:37:12",
+      "origin": "カフェとかしか行かないし、",
+      "content": "I'll only go to places like cafes,"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:37:37",
+      "origin": "他の人もいるから大丈夫じゃない？",
+      "content": "and there are other people around, so wouldn’t it be fine?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:38:24",
+      "origin": "あなたがきいたお話だとそうなんですね。たしかにカフェとかなら大丈夫そう、と思いますよね。",
+      "content": "That's what you've heard, I see. It's true that a place like a cafe seems like it would be safe."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:38:59",
+      "origin": "ただ、その先輩やインスタのお友達も今まではたまたま大丈夫だっただけかもしれません",
+      "content": "However, it's possible that your senior and your Instagram friends have just been lucky so far."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:39:40",
+      "origin": "でも、条件も最初に書いておくし、、",
+      "content": "But I'll write out the conditions beforehand..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:40:17",
+      "origin": "なるほど、そういったことも最初にするんですね。教えてくれてありがとう。",
+      "content": "I see—you set those things upfront as well. Thank you for sharing that."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:40:43",
+      "origin": "お金は最初に貰うし",
+      "content": "And I'll get the money first."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:41:12",
+      "origin": "イヤだったら逃げられない？",
+      "content": "If I don't like it, can't I just run away?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:41:30",
+      "origin": "最初にお金をもらえるんですね。相談員はくわしく知らないからもう少しおしえてほしいのだけど、その書いた条件がもし相手の人が守らなかった場合はどうなるのかな？",
+      "content": "You get the money first, I see. I'm not very familiar with this, so could you tell me a little more? What happens if the other person doesn't follow the conditions you've written?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:42:05",
+      "origin": "守らなかったら帰ります、って最初に書いておけば大丈夫って",
+      "content": "If I write beforehand, \"If you don't follow the rules, I'm leaving,\" it will be okay."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:42:24",
+      "origin": "先輩とかインスタの友達が言ってた",
+      "content": "That's what my senior and my Instagram friends said."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:42:48",
+      "origin": "そうなんですね。イヤだったら逃げられることもあるかもしれないけれど、もし車に力づくで連れ込まれたりしたら逃げられないこともあるかもしれない・・・もしそうなったとき、あなたはどうしますか？",
+      "content": "I see. You might be able to get away if you don't like it, but what if someone forced you into a car, for example? You might not be able to escape... If that happened, what would you do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:43:47",
+      "origin": "うーん、、そんなのドラマとかじゃないの？",
+      "content": "Hmm... isn't that the kind of thing that only happens in TV shows?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:43:53",
+      "origin": "みんな大丈夫だよって",
+      "content": "They all say it's fine."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:44:26",
+      "origin": "こんなおいしいバイトやらないのバカだって",
+      "content": "They say you'd be a fool not to do such an easy job."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:45:02",
+      "origin": "そのように言われたんですね。そう言われて、あなたは「やってみたい」と思ったんですね？",
+      "content": "That's what they said to you. And hearing that made you think you'd like to try it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:46:09",
+      "origin": "ほんとに大丈夫なら、やってみても良いかなって思う",
+      "content": "If it's really safe, then I think it might be okay to try."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:46:49",
+      "origin": "そうなんですね。でもあなたは迷っていて今日ここに相談にきてくださった・・・、やはり健全にリスクを理解する力があるのだと思います。",
+      "content": "I see. But you were hesitant and came here to talk today... I believe that shows you have a healthy ability to understand the risks."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:47:16",
+      "origin": "ここぐらいしか相談できないから",
+      "content": "This is pretty much the only place I can talk about this."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:47:40",
+      "origin": "ええ、勇気をだして相談にきてくれてありがとうございます。",
+      "content": "Yes, thank you for mustering the courage to come and talk to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:47:56",
+      "origin": "あなたのおしゃれを楽しみたい、という気持ちはとてもすてきだな、と思います。",
+      "content": "I think your desire to enjoy fashion is wonderful."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:48:32",
+      "origin": "ただ、そのためにあなた自身を危険にさらすような方法でお金を得るのは、相談員としては心配です。",
+      "content": "However, as a counselor, I’m concerned about you getting money in a way that puts you at risk."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:49:22",
+      "origin": "でも、やらなかったら先輩と遊べなくなりそう",
+      "content": "But if I don’t do it, I'm worried I won’t be able to hang out with my senior anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:49:49",
+      "origin": "そうなんですね。その先輩と親しいから、遊べなくなるのはさみしいんですね。",
+      "content": "I see. You're close with her, so it would be lonely if you couldn't hang out anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:50:02",
+      "origin": "それは迷うしなやみますよね・・・。",
+      "content": "That would make anyone feel conflicted and worried..."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:50:04",
+      "origin": "先輩かわいいし、おしゃれだし、楽しいから、、",
+      "content": "My senior is cute, stylish, and fun to be with..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:50:34",
+      "origin": "ええ、ええ、あなたはその先輩のことが好きだし、あこがれてもいるんですね。",
+      "content": "Yes, yes—you like her and also look up to her."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:51:33",
+      "origin": "そんな先輩から誘われて、おいしいバイトだって言われたら、やってみようかな、という気持ちにもなりますよね。",
+      "content": "When someone you admire invites you and tells you it's an easy job, it's natural to feel like you might want to try it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:53:26",
+      "origin": "先輩といい関係をつづけながら、あなたは他のバイトとかでお金をかせいでおしゃれをたのしむ、というのも１つかなと思うのだけど、いかがですか？",
+      "content": "One option might be to maintain a good relationship with your senior, while earning money for fashion through other part-time jobs. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:54:06",
+      "origin": "中学生だからバイトできない",
+      "content": "I'm in junior high, so I can't get a part-time job."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:54:23",
+      "origin": "そうでしたか、しつれいしました。",
+      "content": "Oh, I see. My apologies."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:55:06",
+      "origin": "ご両親のお手伝いをがんばっておこづかいアップを交渉してみる、とかはできないかな？",
+      "content": "Could you perhaps help out your parents more and try negotiating for an increased allowance?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:55:51",
+      "origin": "あんまりアップしなさそう、、",
+      "content": "I don't think they’d raise it much..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:56:44",
+      "origin": "そうなんですね。・・・なかなかお金をいまふやすのは難しいからパパ活が魅力にかんじてしまいますよね。",
+      "content": "I understand. It’s hard to increase your money right now, which is why 'papa-katsu' feels so appealing."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:58:05",
+      "origin": "先輩やお友達がいうように「大丈夫」なことの方がおおいのかもしれないけど、もしも１％の「危険」なケースにあなたがあたってしまった場合のことを、すこしでいいので考えてもらえるとうれしいです",
+      "content": "It might be 'fine' most of the time, as your senior and friends say, but I would be grateful if you could take just a moment to consider what might happen if you were to fall into that 1% of 'dangerous' cases."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:58:45",
+      "origin": "ここまで色々お話を聴いてきましたが、申し訳ございません。そろそろお時間が近づいてきました。ここまで、お話をしてみていかがでしたか？",
+      "content": "We've discussed a lot of things, but I'm afraid our time is almost up. How do you feel after having talked about this today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:59:09",
+      "origin": "まだ迷ってる",
+      "content": "I'm still not sure."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:59:57",
+      "origin": "うんうんそうですよね。次回は今日お話しいただいたことの続きからお話ができるので明日以降またいつでも相談に来てください。一緒にかんがえていきましょう",
+      "content": "Mm-hmm, that's understandable. Next time, we can pick up where we left off today, so please feel free to come back for a consultation anytime from tomorrow onward. Let's think it through together."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T17:00:15",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T17:00:36",
+      "origin": "本日はお越しいただきありがとうございました。",
+      "content": "Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T17:00:47",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T17:00:49",
+      "origin": "（本日はありがとうございました。このあと終了の合図をいたします。）",
+      "content": "(Thank you for your time today. I will now signal the end of the session.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T17:00:58",
+      "origin": "(ありがとうございました)",
+      "content": "(Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "先輩との関係に悩みを抱える"
+  },
+  "review_by_client": {
+    "evaluation_id": 7111,
+    "evaluation_created_at": "2024-07-20T17:40:00",
+    "client_id": 420,
+    "counselor_id": 500,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:21:40",
+      "origin": "こんばんは。よろしくお願いいたします。",
+      "content": "Good evening. Thank you for reaching out."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:22:02",
+      "origin": "(待機しておりますので、じかんになりましたら宜しくお願い致します。)",
+      "content": "(I'm on standby, so please let me know when it's time to start.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:22:19",
+      "origin": "了解しました。",
+      "content": "Understood."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:22:41",
+      "origin": "(ありがとうございます)",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:26:41",
+      "origin": "すいません。もし可能なら、自殺をテーマにしたカウンセリングでお願いしたいのですが、いいでしょうか？",
+      "content": "Excuse me. If possible, I'd like to request a counseling session on the theme of suicide. Would that be alright?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:27:21",
+      "origin": "都合が悪ければ、フリーテーマでお願いします。",
+      "content": "If that's inconvenient, an open topic would be fine."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:28:15",
+      "origin": "では自殺テーマの例題でお願いします",
+      "content": "Then let's go with the suicide theme example, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:29:08",
+      "origin": "ありがとうございます。例題は、希死念慮が強い人で行きましょうか。内容はお任せします。",
+      "content": "Thank you. For the example, shall we go with a person who has strong suicidal ideation? I'll leave the details up to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:30:39",
+      "origin": "＜では始めますね＞",
+      "content": "<Alright, let's begin.>"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:30:46",
+      "origin": "宜しくお願いします。",
+      "content": "Let's begin."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:31:14",
+      "origin": "こんばんは。相談員です。今日はどんなご相談で来られましたか？",
+      "content": "Good evening. I'm a counselor. What brought you here today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:31:59",
+      "origin": "何もかもがイヤ",
+      "content": "I'm sick of everything."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:32:07",
+      "origin": "死にたい",
+      "content": "I want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:32:32",
+      "origin": "そうなんですね。それだけしんどい思いをされて、ここへ来られたんですね。",
+      "content": "I see. You must be going through so much pain to have come here."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:33:01",
+      "origin": "生きる意味が分からない",
+      "content": "I don't see the point of living."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:33:32",
+      "origin": "なるほど…そのように思われるんですね。",
+      "content": "I see... That's how you feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:33:38",
+      "origin": "良かったら、詳しくお話をお聞きしたいので、あなたの性別や年齢をおしえてもらっていいですか？",
+      "content": "If you don't mind, I'd like to understand more about your situation. Could you tell me your gender and age?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:33:48",
+      "origin": "屋上にいる",
+      "content": "I'm on a rooftop."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:34:15",
+      "origin": "16歳男",
+      "content": "16 years old, male."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:35:33",
+      "origin": "教えてもらってありがとうございます。あなたの事が心配です。そこから屋内の安全な場所へに移動することはできますか？",
+      "content": "Thank you for telling me. I'm worried about you. Is it possible for you to move from there to a safe place indoors?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:36:00",
+      "origin": "安全な場所なんてあるの",
+      "content": "Is there even such a thing as a safe place?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:36:20",
+      "origin": "もういいかな",
+      "content": "I think I've had enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:36:32",
+      "origin": "例えば、暖かい部屋の中とか、コンビニとか。",
+      "content": "For example, inside a warm room or a convenience store."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:36:45",
+      "origin": "そういうところへの移動はできますか？",
+      "content": "Could you move to a place like that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:37:41",
+      "origin": "出来ないと思う",
+      "content": "I don't think I can."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:37:54",
+      "origin": "そうなんですか。ちなみに屋上ってどこかのビルとか、デパートだったりしますか？",
+      "content": "I see. By the way, is the rooftop on a building, or a department store, perhaps?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:38:04",
+      "origin": "誰か近くにいますか？",
+      "content": "Is anyone nearby?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:38:13",
+      "origin": "居ない",
+      "content": "No one."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:38:33",
+      "origin": "そうなんですね。誰もいないんですね。",
+      "content": "I see. So there's no one there."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:38:47",
+      "origin": "もうどうでもいい",
+      "content": "I don't care anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:39:11",
+      "origin": "…それほどまでに辛い気持ちを抱えているんですね。",
+      "content": "...You're carrying such a heavy burden of pain."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:39:38",
+      "origin": "ちなみに屋上から何が見えますか？",
+      "content": "By the way, what can you see from the rooftop?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:39:45",
+      "origin": "とにかく生きてる意味が分からない",
+      "content": "I just don't see the point in living."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:40:11",
+      "origin": "そうなんですか…それはどんなことからそう思いますか？",
+      "content": "I see... What kinds of things make you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:40:13",
+      "origin": "スマホ",
+      "content": "My phone."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:40:34",
+      "origin": "何も考えたくない",
+      "content": "I don't want to think about anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:41:17",
+      "origin": "そうなんですね。それほど疲れてしまっているんですね。",
+      "content": "I see. You must be that exhausted."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:41:35",
+      "origin": "疲れたんじゃない",
+      "content": "It's not that I'm tired."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:42:00",
+      "origin": "生きてる意味、必要？",
+      "content": "The meaning of life, is it necessary?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:42:15",
+      "origin": "いらない",
+      "content": "I don't need it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:42:38",
+      "origin": "そうですね…生きているって事は何らかの意味があると相談員は思います。",
+      "content": "I see... As a counselor, I believe that being alive has some kind of meaning."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:43:08",
+      "origin": "どうして？必要？",
+      "content": "Why? Is it necessary?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:43:22",
+      "origin": "あるわけ無い",
+      "content": "There's no way there is."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:44:03",
+      "origin": "そうなんですか。では、1つお聞きしたいのですが、生きている意味が必要ないって、いつ頃から思うようになりましたか？",
+      "content": "I see. Then, may I ask you one thing? Since when did you start to feel that life doesn't need to have a meaning?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:44:22",
+      "origin": "ずーっと",
+      "content": "For as long as I can remember."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:44:39",
+      "origin": "覚えてない",
+      "content": "I don't remember."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:45:07",
+      "origin": "そうなんですね…ずっと1人でそう思われてきたんですね。",
+      "content": "I see... So you've been feeling this way all by yourself for a long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:45:42",
+      "origin": "ちなみに、生きてる意味がないことについて、今まで友達や家族に話したことはありますか？",
+      "content": "By the way, have you ever talked to your friends or family about feeling that life has no meaning?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:45:54",
+      "origin": "ひとりとか関係ない",
+      "content": "Being alone has nothing to do with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:46:18",
+      "origin": "そうなんですか。それはどうしてですか？",
+      "content": "I see. Why is that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:46:21",
+      "origin": "話したこともない",
+      "content": "I've never talked about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:46:41",
+      "origin": "では、ここで初めて話してくださったんですね。",
+      "content": "So this is the first time you're talking about it here."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:46:55",
+      "origin": "悩んでたんじゃないから",
+      "content": "Because I wasn't struggling with it."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:47:14",
+      "origin": "はじめて",
+      "content": "The first time."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:47:55",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:48:50",
+      "origin": "…すごく疲れてもいないし、悩んでいたという事でもないけど、生きてる意味がないって思うのは、何かきっかけがありましたか？",
+      "content": "...So you're not particularly tired, and it's not something that was troubling you, but was there some trigger that made you feel life has no meaning?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:49:09",
+      "origin": "無い",
+      "content": "No."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:49:47",
+      "origin": "何もかもイヤ",
+      "content": "I'm just sick of everything."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:49:54",
+      "origin": "考えたくない",
+      "content": "I don't want to think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:50:03",
+      "origin": "何もかもですか…。",
+      "content": "Everything, huh..."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:50:48",
+      "origin": "理由を説明しないと死ねないの？",
+      "content": "Do I have to explain my reasons to be allowed to die?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:52:24",
+      "origin": "そうですね…確かに理由なく死ぬことを選ぶことはできます。ただ、そこに行くまでの何かきっかけや思うことがあったと思うんです。",
+      "content": "Well... it's true that you can choose to die without a reason. However, I believe there must have been some trigger or thought that led you to this point."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:52:38",
+      "origin": "分からない",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:53:05",
+      "origin": "もうどうでもいいよ",
+      "content": "I don't care anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:53:18",
+      "origin": "…せっかくこの窓口に来てくださったし、良かったらなんでもいいので、あなたが思うことをお話してみてくれませんか？",
+      "content": "...Since you've taken the step to come to this service, would you be willing to talk about whatever is on your mind? It can be anything."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:54:27",
+      "origin": "最後に誰かに伝えたくて来ただけ",
+      "content": "I just came because I wanted to tell someone before the end."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:54:53",
+      "origin": "そうなんですね。どんなことを伝えたいですか？",
+      "content": "I see. What would you like to tell them?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:55:11",
+      "origin": "死ぬこと",
+      "content": "That I'm going to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:56:54",
+      "origin": "そうでしたか。もう少し、色々あなたが思っていることをお話してみませんか？",
+      "content": "I see. Would you be willing to talk a little more about what you're thinking?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:57:34",
+      "origin": "何も考えてない",
+      "content": "I'm not thinking about anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:58:08",
+      "origin": "…今、屋上にいるとのことだけど、そこは家や学校から近いんですか？",
+      "content": "...You said you're on a rooftop right now, is it close to your home or school?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:58:26",
+      "origin": "そんなでもない",
+      "content": "Not really."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:58:54",
+      "origin": "いつもいる所よりも遠くに来たのかな？",
+      "content": "Did you come somewhere farther than your usual places?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T20:59:14",
+      "origin": "違う",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T20:59:45",
+      "origin": "家から少し離れているくらいの所？",
+      "content": "A place that's a little far from your house?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:00:28",
+      "origin": "何で聞くの",
+      "content": "Why are you asking?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:01:14",
+      "origin": "屋上って言ってもいろんな場所があるし、なぜそこを選んだのかなと思ったから、聞いています。",
+      "content": "There are many different rooftops, and I was wondering why you chose that particular one. That's why I'm asking."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:01:34",
+      "origin": "なんとなく来ただけ",
+      "content": "I just came here for no particular reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:01:52",
+      "origin": "そっか…なんとなくなんですね。",
+      "content": "I see... so it was for no particular reason."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:02:13",
+      "origin": "ちなみに高さはどれくらい？",
+      "content": "By the way, how high is it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:02:13",
+      "origin": "分からない",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:02:52",
+      "origin": "分かるわけない",
+      "content": "How would I know?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:03:09",
+      "origin": "そうなんですね…できれば、屋上の真ん中あたりにいてほしいけど、今はどのあたりにいるのかな？",
+      "content": "I see... I'd prefer if you were somewhere in the middle of the rooftop, but where are you right now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:03:38",
+      "origin": "端の方",
+      "content": "Near the edge."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:04:24",
+      "origin": "通報したいの？",
+      "content": "Are you trying to report me?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:04:38",
+      "origin": "スマホを落としてもいけないし、あなた自身が落ちたらお話できなくなってしまうから、もう少し真ん中の方へ移動してもらうことはできますか？",
+      "content": "You wouldn't want to drop your phone, and if you fell, we wouldn't be able to talk anymore. So could you please move a little closer to the center?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:05:02",
+      "origin": "分からない",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:05:36",
+      "origin": "どうせ死ぬんだし",
+      "content": "I'm going to die anyway."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:06:05",
+      "origin": "通報については、場合によってはそうなることもあるけど、こうやってお話を続けていれば、すぐ通報という事はないので、安心してください。",
+      "content": "Regarding reporting, it might come to that in some cases, but as long as we continue talking like this, I won't report it right away, so please don't worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:06:21",
+      "origin": "死ぬっていうのは具体的に、何かかんがえているのかな？",
+      "content": "When you say you're going to die, do you have something specific in mind?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:07:09",
+      "origin": "ここで死のうとなんとなく来た",
+      "content": "I just came here vaguely thinking I'd die here."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:08:02",
+      "origin": "そうなんですね…ちなみに今立ってますか？",
+      "content": "I see... By the way, are you standing right now?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:08:29",
+      "origin": "壁に寄りかかってる",
+      "content": "I'm leaning against a wall."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:09:01",
+      "origin": "だったら、座ってお話しませんか？立ったままだと疲れるし。",
+      "content": "In that case, why don't we talk while you're sitting down? It's tiring to stand."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:09:27",
+      "origin": "疲れない",
+      "content": "I'm not tired."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:09:47",
+      "origin": "壁に寄りかかる方が楽かな？",
+      "content": "Is it more comfortable to lean against the wall?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:10:16",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:11:21",
+      "origin": "そっか…。ちなみにそこには何時間位いるのかな？寒かったり、喉が渇いたりしてない？",
+      "content": "I see... By the way, how long have you been there? Are you cold or thirsty?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:11:35",
+      "origin": "寒くない",
+      "content": "I'm not cold."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:12:11",
+      "origin": "そっかそっか…何か飲み物近くにある？あったら、ちょっと飲んでみて。",
+      "content": "I see... Do you have anything to drink nearby? If you do, please take a sip."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:12:22",
+      "origin": "無い",
+      "content": "No."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:13:09",
+      "origin": "飲み物買ってくることはできる？何か一口飲んでから、お話続けませんか？",
+      "content": "Can you go buy a drink? Why don't we continue talking after you've had a sip of something?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:13:27",
+      "origin": "いらない",
+      "content": "I don't need it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:14:26",
+      "origin": "そっか…では、もしとても身体がしんどくなったり、喉が渇いたりして、場所を移動することがあったら、教えて下さいね、",
+      "content": "I see... Well, if you start feeling physically unwell or thirsty and decide to move, please let me know."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:15:32",
+      "origin": "どうでもいい",
+      "content": "It doesn't matter."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:16:04",
+      "origin": "なるほど…そのように思われるんですね。",
+      "content": "I see... That's how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:16:52",
+      "origin": "分からない",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:17:23",
+      "origin": "…生きる意味がないってお話されているけど、死ぬ意味についてはどう思いますか？",
+      "content": "...You've said there's no meaning in living; what do you think about the meaning of dying?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:18:10",
+      "origin": "何も考えていない",
+      "content": "I haven't thought about it at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:19:48",
+      "origin": "…生きるにも意味がない・死ぬにも意味がないって事なのかな？",
+      "content": "...Does that mean there's no meaning in living, and no meaning in dying either?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:20:15",
+      "origin": "分からない",
+      "content": "I don't know."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:20:35",
+      "origin": "そっか…確かに難しい話かもしれないね。",
+      "content": "I see... It may indeed be a difficult topic."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:20:53",
+      "origin": "分かるの？",
+      "content": "Do you understand?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:22:25",
+      "origin": "…生きていく事を続けるのも、死ぬ事を選ぶのも、結局はその人自身が決める事ではないかと、相談員は思います。",
+      "content": "...Whether to continue living or to choose to die, I, as a counselor, believe that ultimately it's a decision that the person themself has to make."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:22:55",
+      "origin": "じゃあ死んで良いね",
+      "content": "Then it's okay for me to die, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:24:15",
+      "origin": "ただね。他人の自殺を止める事が出来る影響力は、ここで色々お話をすることで、出てくることがあると思っています。",
+      "content": "However, I believe that by talking things over here, we can have an impact that might help to prevent a suicide."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:25:42",
+      "origin": "…ここの窓口で、今まで話してこなかった死にたいって気持ちを初めて教えてくれたよね。それってすごく勇気がいる事だと、相談員は思います。",
+      "content": "...Here, at this service, you've told me for the first time about your desire to die, something you've never spoken about before. I think that takes a lot of courage."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:26:21",
+      "origin": "最後にここで話したかったというあなたの気持が相談員はとてもうれしいです。",
+      "content": "I'm very glad that you chose to talk here at the end."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:26:41",
+      "origin": "誰でも良かった",
+      "content": "Anyone would have been fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:27:28",
+      "origin": "今まで、話したことがなかったことを話してくれたよね。ありがとう。",
+      "content": "You shared something you hadn't talked about before. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:28:36",
+      "origin": "ここはどんな事を話してもいいところだし、まだ話し足りなかったり、気持を吐き出したかったら、なんでもいって構わないよ。",
+      "content": "This is a place where you can talk about anything. If there's more you want to say, or if you just want to let out your feelings, you can say whatever you want."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:29:04",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:29:54",
+      "origin": "…わからないなら、わからないなりに色々思うことはあるよね。",
+      "content": "...Even if you don't know, there are still various things you might feel in your own way."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:30:31",
+      "origin": "良かったら、また何かあったら、いつでも相談に来てくださいね。",
+      "content": "If you'd like, please feel free to come and talk anytime something comes up."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:30:51",
+      "origin": "…まだ壁にもたれかかっているのかな？",
+      "content": "...Are you still leaning against the wall?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:32:31",
+      "origin": "出来たら、相談の後でいいので、屋上から離れて、人ができるだけ多くいる所へ移動してくださいね。落ち着かないかもしれないけど、歩いてみると、また気分も変わるかもしれないから。",
+      "content": "If you can, after our session is over, please leave the rooftop and move to a place where there are as many people as possible. It might not feel calm, but walking around might change how you feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:33:29",
+      "origin": "今日は相談に来てくれてありがとうございました。本日はここでいったん終了しますね。",
+      "content": "Thank you for coming to talk today. We'll end our session here for now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:33:52",
+      "origin": "（お疲れさまでした。ロールプレイを終了してもいいでしょうか？）",
+      "content": "(Good work. May we end the role-play now?)"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-02T21:34:12",
+      "origin": "(お任せ致します)",
+      "content": "(I'll leave it up to you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-02T21:34:37",
+      "origin": "（一応１時間来たので、ここで終了します。ありがとうございました。）",
+      "content": "(It's been an hour, so we'll end it here. Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "死にたいという気持ちの背景"
+  },
+  "review_by_client": {
+    "evaluation_id": 3560,
+    "evaluation_created_at": "2022-06-02T22:33:00",
+    "client_id": 273,
+    "counselor_id": 112,
+    "score": 41,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

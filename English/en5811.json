@@ -1,0 +1,501 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-10-10T18:51:12",
+      "origin": "（こんばんは、今日はよろしくお願いいたします。時間になったら始めさせていただきますね。）",
+      "content": "(Good evening. Thank you for being here today. We'll start when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T18:52:07",
+      "origin": "(こんばんは。よろしくお願い致します。何かご希望のケースなどはございますか？)",
+      "content": "(Good evening. Thank you. Do you have any preferred cases or scenarios?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T18:52:53",
+      "origin": "（今日は特にないのでよろしくお願いします。）",
+      "content": "(Nothing in particular today, thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T18:53:11",
+      "origin": "(かしこまりました)",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:00:08",
+      "origin": "こんばんは。相談員です。年齢、性別、相談内容を教えていただけますか。",
+      "content": "Good evening. I'm the counselor. Could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:00:42",
+      "origin": "こんばんは。20歳、女。転職について相談したいです。",
+      "content": "Good evening. I'm 20, female. I'd like to talk about changing jobs."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:02:14",
+      "origin": "そうなんですね。転職についてという事ですが、どんな事でしょうか。",
+      "content": "I see. You mentioned changing jobs. Could you tell me more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:02:46",
+      "origin": "早く東京に出たいのですが、親に反対されています。",
+      "content": "I want to move to Tokyo as soon as possible, but my parents are against it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:03:46",
+      "origin": "そうだったんですね。今は東京以外の地元で働かれているのでしょうか。",
+      "content": "I understand. Are you currently working in your hometown, outside of Tokyo?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:03:57",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:04:43",
+      "origin": "そうなんですね。東京でやりたい仕事があるのでしょうか。",
+      "content": "I understand. Is there a specific job you want to do in Tokyo?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:05:06",
+      "origin": "働きたいお店があります。",
+      "content": "There's a salon I'd like to work at."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:05:49",
+      "origin": "どういったお店なんでしょうか。",
+      "content": "What kind of salon is it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:06:31",
+      "origin": "うーん‥憧れているスタイリストさんが働いているお店です。",
+      "content": "Um... It's the salon where a stylist I admire works."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:07:32",
+      "origin": "そうだったんですね。アパレル関係のお仕事でしょうか。",
+      "content": "I see. Is it related to apparel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:07:45",
+      "origin": "いえ、美容師です。",
+      "content": "No, I'm a hair stylist."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:08:17",
+      "origin": "間違えちゃいますよね😅",
+      "content": "It's an easy mistake to make, isn't it? 😅"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:08:44",
+      "origin": "勘違いしてごめんなさいね。",
+      "content": "I'm sorry for the misunderstanding."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:08:54",
+      "origin": "大丈夫です",
+      "content": "It's okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:10:36",
+      "origin": "あなたは、もう美容師の免許は持っているのでしょうか。",
+      "content": "Do you already have your hair stylist's license?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:10:56",
+      "origin": "はい。4月から美容師として働いています。",
+      "content": "Yes. I've been working as a hair stylist since April."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:12:03",
+      "origin": "まだアシスタントですけど",
+      "content": "I'm still just an assistant, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:12:43",
+      "origin": "そうなんですね。今は実家から通われているんですか。ちなみによかったらお住いの県を教えてもらえますか。",
+      "content": "I see. Are you commuting from your parents' home now? By the way, if you don't mind, could you tell me which prefecture you live in?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:13:43",
+      "origin": "静岡県に住んでいます。実家から、浜松のサロンに通っています。",
+      "content": "I live in Shizuoka Prefecture. I commute from my parents’ home to a salon in Hamamatsu."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:14:15",
+      "origin": "電車で片道1時間と少しかかります。",
+      "content": "It takes a little over an hour each way by train."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:14:53",
+      "origin": "教えてくれてありがとうございます。",
+      "content": "Thank you for sharing that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:15:26",
+      "origin": "通勤はけっこう時間がかかって大変ですね。",
+      "content": "That's quite a long commute. It must be tough."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:16:19",
+      "origin": "はい。専門も1時間くらいかけて通ってたので、まあ慣れてはいますが、毎日帰るのが遅くて、少し大変です。",
+      "content": "Yes. I commuted about an hour to vocational school too, so I'm somewhat used to it, but getting home late every day is a bit tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:18:47",
+      "origin": "そうなんですね。専門に通うのにも大変だったんですね。今は毎日何時くらいに帰っているのでしょうか。",
+      "content": "I see. Commuting to vocational school must have been tough too. Around what time do you get home each day now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:19:23",
+      "origin": "大体23時半くらいです。",
+      "content": "Usually around 11:30 PM."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:19:59",
+      "origin": "お店終わってから練習してるので、アシスタントってみんなそんな感じなんです。",
+      "content": "We practice after the salon closes, so it’s like that for most assistants."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:21:26",
+      "origin": "そうだったんですね。そんなに帰りが遅いと翌日まで疲れが残ったりしませんか。",
+      "content": "I understand. With such late returns, doesn't the fatigue carry over to the next day?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:22:02",
+      "origin": "まあ、疲れたり眠かったりもしますが、そこは若さで乗り切ってます笑",
+      "content": "Well, I do get tired and sleepy, but I'm powering through with youthful energy, haha."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:22:34",
+      "origin": "好きなことできてるわけだし",
+      "content": "After all, I get to do what I love."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:23:10",
+      "origin": "そうなんですね。元気に頑張っていらっしゃるんですね。",
+      "content": "I see. It sounds like you're working hard with a lot of energy."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:23:24",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:24:30",
+      "origin": "実家ではご両親とご３人で暮らしているんですか。",
+      "content": "Are you living at home with just your parents, the three of you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:25:03",
+      "origin": "はい。兄と弟は家を出てます。",
+      "content": "Yes. My older brother and younger brother have moved out."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:26:09",
+      "origin": "そうなんですね。東京のお店に興味を持たれたのはいつ頃からですか。",
+      "content": "I see. When did you first become interested in the salon in Tokyo?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:26:51",
+      "origin": "高校2年生ぐらいだったかな",
+      "content": "Around my second year of high school, I think."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:27:10",
+      "origin": "インスタで見つけてフォローしてます",
+      "content": "I found it on Instagram and have been following it."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:27:55",
+      "origin": "専門の頃から、何度かお客として通ってます",
+      "content": "I’ve gone there several times as a customer since my vocational school days."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:28:09",
+      "origin": "そうだったんですね。結構前からあこがれていたんですね。",
+      "content": "I see. So you've been admiring it for quite a while."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:28:39",
+      "origin": "はい。作品のセンスがとても良いんです。",
+      "content": "Yes. Their work has a really great sense of style."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:29:09",
+      "origin": "お店の雰囲気はどうでしたか。",
+      "content": "What was the atmosphere of the salon like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:29:57",
+      "origin": "明るくて、とてもおしゃれな雰囲気でした。憧れてるスタイリストさんも、優しくしてくれました。",
+      "content": "It was bright and very stylish. The stylist I admire was very kind to me, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:30:30",
+      "origin": "それはよかったですね。",
+      "content": "That’s wonderful to hear."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:30:57",
+      "origin": "はい。だから、もし転職できるならそのお店に行きたいんです。",
+      "content": "Yes. So if I can change jobs, I’d like to go to that salon."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:32:14",
+      "origin": "そうなんですね。今までのお話しを聞いていてその気持ちが伝わってきます。",
+      "content": "I understand. Listening to you, I can really feel how much you want that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:33:02",
+      "origin": "ご両親には東京の事はいつ頃話されたのでしょうか。",
+      "content": "When did you talk to your parents about moving to Tokyo?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:33:48",
+      "origin": "就活の前に話しました。",
+      "content": "I talked to them before I started job hunting."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:34:09",
+      "origin": "即却下されました。",
+      "content": "They rejected it immediately."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:35:26",
+      "origin": "そうだったんですね。それはどのような理由かおっしゃっていましたか。",
+      "content": "I see. Did they say why?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:36:29",
+      "origin": "専門の担任に東京に就職したいと相談したら、最初の一年間は給料だけでは生活できないから、親の援助が必要になるよ、と言われました。",
+      "content": "When I consulted my vocational school teacher about wanting to work in Tokyo, they said that for the first year, salary alone wouldn't cover living expenses, so I'd need parental support."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:36:50",
+      "origin": "それを親に伝えたら、なんで社会人になってまで仕送りしなきゃいけないの、って。",
+      "content": "When I told my parents that, they said, \"Why should we have to send you money when you're already a working adult?\""
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:37:30",
+      "origin": "東京行きたいなら、まず自分でお金貯めてから行きなさい、って言われました。",
+      "content": "They told me, ‘If you want to go to Tokyo, save up your own money first and then go.’"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:38:55",
+      "origin": "そうなんですね。それで今お金をためているんですか。",
+      "content": "I see. So are you saving money now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:39:57",
+      "origin": "はい。でも定期代とか年金とか、親に立て替えて貰ってるし、この前スマホ壊れて10万飛んでいきました🥲",
+      "content": "Yes. But my parents are covering things like my commuter pass and pension, and recently my phone broke, costing me 100,000 yen. 🥲"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:40:20",
+      "origin": "今、頑張ってやっと30万くらいです。",
+      "content": "Right now, I've finally managed to save about 300,000 yen."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:41:37",
+      "origin": "そうだったんですね。なかなかお金を貯めるのも難しい感じなんですね。",
+      "content": "I see. It sounds like it's quite difficult to save money."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:42:20",
+      "origin": "はい。父は200万は貯めないと、と言ってます。そんなの無理…",
+      "content": "Yes. My father says I need to save 2 million yen. That’s impossible…"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:43:51",
+      "origin": "そのお店、転職できるのが24歳までなので焦ってます。",
+      "content": "That salon only accepts career-changers up to age 24, so I’m feeling pressured."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:45:44",
+      "origin": "そうなんですね。お金を貯めるのも難しいし、転職先の年齢制限まであると、とても悩まれてしまいますね。",
+      "content": "I see. It's difficult to save money, and on top of that, there's an age limit for the job you want. That must be very worrying for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:46:17",
+      "origin": "はい。何か良い説得方法ありませんか？",
+      "content": "Yes. Is there any good way to persuade them?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:50:46",
+      "origin": "そうですね。ご両親にお金は必ず返すので念書や借用書を書いてお金を借りる事は難しいでしょうか。その時にはどうしてもそこで働きたい気持ちを素直に話されてみてはどうでしょうか。",
+      "content": "Let's see. Would it be difficult to borrow money from your parents by writing a promissory note or an IOU, promising to pay it back? When you do, maybe you could try honestly telling them how much you want to work there."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:52:22",
+      "origin": "どうしてもそこで働きたい気持ちは、母に話してあって、多分父も知ってます。でも、弟がまだ高校生で、大学行きたいみたいだからお金かかるし。そもそも定期代とかまだ返してないから、説得力ゼロですよね…",
+      "content": "I've already told my mother how much I want to work there, and my father probably knows too. But my younger brother is still in high school and wants to go to college, so that will cost money. And besides, I haven't even paid them back for my commuter pass yet, so I have zero credibility, right..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:53:45",
+      "origin": "そうなんですね。それはとても困りましたね。",
+      "content": "I see. That does sound like a very difficult situation."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:54:35",
+      "origin": "はい。私が色々と考えが甘かったりするのも、余計に良くないのかもしれませんね。",
+      "content": "Yes. The fact that I’ve been a bit naive about various things might be making it worse."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:55:03",
+      "origin": "つい親をアテにしちゃうし",
+      "content": "I tend to rely on my parents too much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:56:17",
+      "origin": "そんな事はないと思いますよ。それは子供だったら親をあてにするのも無理ないと思います。",
+      "content": "I don't think that's true. I think it's natural for a child to rely on their parents."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:57:08",
+      "origin": "でも、もう20歳ですし😅",
+      "content": "But I’m already 20 😅."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:58:17",
+      "origin": "まず先に借金返さなきゃ、と思います。",
+      "content": "I think I should pay back what I owe first."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T19:58:47",
+      "origin": "貯めるのに必死でした。順番間違ってましたね。",
+      "content": "I was so focused on saving. I got my priorities mixed up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T19:59:51",
+      "origin": "今までお話を聞いていたところではすぐに東京へ行くのは難しいかもしれませんが、少しづつお金をためて目標の為に頑張ってほしいと思います。あなたの事を応援していますので、夢はあきらめないでほしいと思います。",
+      "content": "From what you've told me, it might be difficult to go to Tokyo right away, but I hope you'll continue to save money little by little and work towards your goal. I'm rooting for you, so please don't give up on your dream."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T20:00:26",
+      "origin": "はい、ありがとうございます。粘り強く頑張ってみます笑",
+      "content": "Yes, thank you. I'll try to stick with it and do my best, haha."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-10T20:01:15",
+      "origin": "お話を聞かせていただきありがとうございました。今日はこれで終わりにさせていただきますね。",
+      "content": "Thank you for sharing your story with me. We'll end our session here for today."
+    },
+    {
+      "role": "client",
+      "time": "2023-10-10T20:01:30",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "親の反対による転職の難しさ"
+  },
+  "review_by_client": {
+    "evaluation_id": 5811,
+    "evaluation_created_at": "2023-10-10T23:08:00",
+    "client_id": 420,
+    "counselor_id": 224,
+    "score": 53,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

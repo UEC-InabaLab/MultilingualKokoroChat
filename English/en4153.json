@@ -1,0 +1,711 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:20:50",
+      "origin": "(こんにちは。本日はよろしくお願いいたします。）",
+      "content": "(Hello. Thank you for being here today.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:28:48",
+      "origin": "（遅くなりました。こちらこそ宜しくお願い致します。）",
+      "content": "(I'm sorry I'm late. Thank you as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:30:01",
+      "origin": "（30分にはじめさせていただきますね）",
+      "content": "(We’ll start at half past.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:30:13",
+      "origin": "こんにちは。相談員です。本日はお越しくださり、ありがとうございます。はじめにご年齢、性別、相談内容を教えていただけますでしょうか。",
+      "content": "Hello. I'm your counselor. Thank you for coming in today. To begin, could you please tell me your age, gender, and the nature of your concern?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:30:14",
+      "origin": "（承知しました。）",
+      "content": "(Certainly.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:30:41",
+      "origin": "37歳の女です。ご近所の人のことで、もやもやしています。",
+      "content": "I’m a 37-year-old woman. I’m feeling unsettled about a neighbor."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:31:14",
+      "origin": "ありがとうございます。どういったことが起こっているのでしょうか？",
+      "content": "Thank you. Could you tell me what's been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:32:38",
+      "origin": "んーと、同い年の女性なんですが、仲良くさせてもらってるんで、最初はすごく好きだったんですけど。最近嫌だなぁと思うことがあって、",
+      "content": "Um, well, she's a woman my age, and we've been getting along well, so I really liked her at first. But lately, there have been things that I find off-putting."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:32:54",
+      "origin": "ええ",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:33:27",
+      "origin": "どのようなことがおありだったのでしょうか",
+      "content": "What sort of things happened?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:34:01",
+      "origin": "私、お菓子作りが好きなのですが、今までに２回くらい彼女とお菓子作りをしているんです。教えて！と言われて。",
+      "content": "I like baking, and we’ve baked together about twice so far because she asked me to teach her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:34:34",
+      "origin": "なるほど。楽しそうですね。",
+      "content": "I see. That sounds like fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:34:55",
+      "origin": "それでどうされたのでしょうか？",
+      "content": "And what happened then?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:35:42",
+      "origin": "私、材料はきっちり計りたい派なんですね。そこだけは几帳面なんです。",
+      "content": "Well, I'm the type who likes to measure ingredients precisely. That's the one thing I'm meticulous about."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:35:55",
+      "origin": "で、このあいだ、",
+      "content": "And the other day,"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:36:19",
+      "origin": "彼女のほうから、「このレシピで作ってみたいの！」と画像と一緒にそのレシピが送られてきて。",
+      "content": "she sent me a recipe with a picture, saying, \"I want to try making this!\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:36:34",
+      "origin": "ええ",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:36:58",
+      "origin": "それがけっこう難易度が高いお菓子で。材料も細かいものが多くて。（ベーキングパウダー２ｇとか）",
+      "content": "It was a fairly advanced dessert. The ingredients required lots of small, precise amounts (like 2 g of baking powder)."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:37:54",
+      "origin": "そうなんですね。それは測るのも大変ですし、手間もかかりますね",
+      "content": "I see. Measuring that would be challenging and time-consuming."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:40:01",
+      "origin": "彼女はお菓子作りをほぼしたことがない子だし、時間もたぶん足りないし、材料費もこれじゃあすごいかかるなぁとか色々考えて、（２種類のお菓子を一気に作りたいと言われて。）「ここのカップケーキの部分だけは、買っちゃうほうが安いかもしれない。その他のデコレーションは一緒にやろう。それなら時間も短縮できるしお金もそこまでかからないかな。」と返したんですね。",
+      "content": "She has almost no baking experience, and I thought we probably wouldn't have enough time, and that the ingredients would be very expensive. (She said she wanted to make two kinds of desserts at once.) So I replied, \"It might be cheaper to just buy the cupcake part. We can do the other decorations together. That way, we can save time and it won't cost as much.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:40:34",
+      "origin": "ええ、ごもっともだと思います。",
+      "content": "Yes, that makes perfect sense."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:41:02",
+      "origin": "そしたら、なんかイラっとした様子で、「えー。そうかなぁ？難しいかなぁ？んー。じゃあ私、一人で一度やってみようかな？」と言ってきたんですね。",
+      "content": "Then, sounding a bit irritated, she said, \"Really? Is it that hard? Hmm... Maybe I’ll try it on my own once.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:42:11",
+      "origin": "そうでしたか。それはモヤモヤしますね",
+      "content": "I see. That would be frustrating."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:43:12",
+      "origin": "えぇ。まずそこでもやもやしました。私はお菓子作りは何度も失敗しているので、一応わかっているから言ったわけなので。で、彼女もまぁ一度やってみればわかるかもしれないな、と思って、そのままその話は一度終わったんですけど。",
+      "content": "Yes, that already left me feeling unsettled. I’ve failed many times at baking, so I was speaking from experience. I thought maybe she’d understand if she tried it once herself, so we left it at that."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:44:07",
+      "origin": "この間、「この間話したお菓子、作ってみようよ！」と誘われたので家に行ったんです。",
+      "content": "The other day, she invited me over, saying, \"Let's try making that dessert we talked about!\" so I went to her house."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:44:26",
+      "origin": "そうだったのですね。どうでしたか？",
+      "content": "I see. How did it go?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:45:07",
+      "origin": "はい、材料は全部そろえてあるということで行きました。でも…",
+      "content": "Well, she said she had all the ingredients ready, so I went. But..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:45:14",
+      "origin": "ええ",
+      "content": "Yes?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:45:29",
+      "origin": "まず、材料が適当過ぎる。",
+      "content": "First, the ingredients were far too haphazard."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:45:59",
+      "origin": "あらら。あなたの思うのと違ったのですね",
+      "content": "Oh dear. It wasn’t what you had in mind."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:46:51",
+      "origin": "はい。私はお菓子作りに大切なのは、材料をきっちり計ること、材料をそろえること、だと思っているんですけど。（特に最初の頃はそれをしたほうがいいのではないかと。）",
+      "content": "Yes. I believe the most important things in baking are measuring ingredients precisely and having the right ingredients. (Especially when you're just starting out.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:47:55",
+      "origin": "ええ、そう感じるのはごもっともだと思います。はじめのうちはきちんと手順を踏んだ方がうまくいきそうですしね",
+      "content": "Yes, it's very reasonable to feel that way. Following the steps properly tends to work out better, especially at the beginning."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:48:49",
+      "origin": "そうなんですよ。なめてんのかと思いました。私のやり方だって知ってるはずなのに。なのに、「薄力粉があると思ったらなかった。強力粉…じゃダメ…だよね？あ！ホットケーキミックスでいいか！」から始まり、まぁ…これはまぁ…いいとして。",
+      "content": "Exactly. I felt like she wasn’t taking it seriously, even though she knows how I do things. It started with, \"I thought I had cake flour, but I don’t. Bread flour… that won’t work, right? Oh! Pancake mix will be fine!\" Well... I let that one slide."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:49:21",
+      "origin": "ええ、そこは我慢されたのですね",
+      "content": "I see, you held your tongue there."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:50:13",
+      "origin": "はい。ホットケーキミックスなら確実においしいでしょうし(苦笑)で、次々に材料を出してくるわけですが。まず、バターじゃなくマーガリン。ビックリ。マーガリン？！って思わず声出ちゃいましたけど。",
+      "content": "Yes. Pancake mix would surely be tasty anyway (wry smile). Then, she started bringing out the other ingredients. First, it was margarine, not butter. I was so shocked, I couldn't help but blurt out, \"Margarine?!\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:51:29",
+      "origin": "そうですよね。お菓子作りが好きなあなたにとっては考えられませんよね",
+      "content": "Of course. For someone like you who loves to bake, that's unthinkable, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:51:44",
+      "origin": "そうなんですそうなんです。絶句です。お菓子作りはあの黄色いバターじゃないと私はダメなんだわ…他のは信用してないんだわ…。マーガリン…。。と心の中で呟きましたけども。",
+      "content": "Exactly, exactly. I was speechless. For me, baking has to be with that yellow butter... I don't trust anything else... Margarine... I muttered to myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:52:20",
+      "origin": "ええ、風味味わいも違ってきますからね、、",
+      "content": "Yes, the flavor and aroma are quite different, after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:53:38",
+      "origin": "心のなかで呟いたということは相手の方には直接言わず、我慢されたのですか？",
+      "content": "When you say you muttered it to yourself, does that mean you didn’t say it directly to her and held back?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:53:39",
+      "origin": "ですよね。本当に違うと思うんですよ。あと、あの重さをはかる機械、あれ、なんていうんだっけ（笑）あれが、安物なのかなんなのか、ちゃんと計れない！重さがすぐオーバーになる。",
+      "content": "Right? I think it makes a huge difference. Also, that machine for weighing things, what's it called again? (laughs) I don't know if it was cheap or what, but it couldn't measure properly! The weight would go over immediately."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:54:05",
+      "origin": "そしたら彼女は、「あっ、いいよ、適当で！」とか言ってくる。",
+      "content": "Then she'd say, \"Oh, it's fine, just approximate it!\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:54:46",
+      "origin": "なるほど。それは几帳面なあなたにとっては許せないと言いますか、腹立たしいですよね",
+      "content": "I see. For someone as meticulous as you, that must have been unacceptable, or rather, infuriating."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:55:44",
+      "origin": "そう。そこでもうイラっとしてくる。そーだ、その前にまず、材料を紹介されて、そのあとに彼女が放った言葉が、「はいっ！どうぞ！じゃああとは任せるから作ってね！」と言って、彼女は傍観者になったんですよね。は？って感じでした。",
+      "content": "Yes. I was already getting annoyed at that point. Oh, and before that, after she showed me the ingredients, she said, \"Here you go! I'll leave the rest to you, so go ahead and make it!\" And then she just became a bystander. I was like, what?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:56:49",
+      "origin": "そうだったのですね。一緒に作るお話だったのに、なぜか押し付けられてしまったのですね。",
+      "content": "I see. It was supposed to be something you did together, but somehow it all got pushed onto you."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:56:57",
+      "origin": "自分でやるって言ったよね？わたし、カップケーキは苦手だって言ったよね？カップケーキの上に生クリーム載せたいなら、ちゃんと膨らんだほうがいいと思うし、それなら買ったもののほうが綺麗だからいいんじゃないか？って言ったよね？ってなり。",
+      "content": "I was thinking, \"Didn't you say you'd do it yourself? Didn't I tell you I'm not good at cupcakes? If you want to put whipped cream on top, they need to rise properly, and I told you store-bought ones would be prettier, right?\""
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:57:14",
+      "origin": "はい。押し付けられてましたね。",
+      "content": "Yes. It was all pushed onto me."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:57:46",
+      "origin": "で、マーガリンが出てくるわけですが。そして、ろくに計量もできず。",
+      "content": "So out comes the margarine, and we couldn’t even measure properly."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:58:33",
+      "origin": "そして、粉に牛乳を入れるところがあって、",
+      "content": "Then there was a step to add milk to the dry ingredients,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T11:58:42",
+      "origin": "ええ",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T11:59:41",
+      "origin": "私は少しずつ牛乳は入れたい派なんですけども、入れて混ぜて、入れて混ぜて、という。でも彼女は、レシピ片手に見ながら、「あ、一気に入れて平気って書いてあるよ？」とか言うんですわ。",
+      "content": "I'm the type who likes to add the milk little by little, you know, add some, mix, add some, mix. But she, looking at the recipe, says, \"Oh, it says it's fine to add it all at once.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:00:10",
+      "origin": "「あ、そうなんだ」と私は返して、彼女の言うとおりにして。",
+      "content": "I just replied, \"Oh, okay,\" and did as she said."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:00:36",
+      "origin": "なるほど。そこはお譲りになったわけですね",
+      "content": "I see. So you deferred to her on that."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:01:14",
+      "origin": "空気悪くなっても嫌なので、彼女の意見を通しましたね。あと、ホットケーキミックスって、あんまり混ぜると膨らまないんですけど、それを言いながら、私は軽く混ぜてたんですけど。",
+      "content": "I didn't want to make things awkward, so I went along with her opinion. Also, with pancake mix, if you overmix it, it doesn't rise well, and I was mixing it lightly while saying that."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:01:53",
+      "origin": "「あ、いっぱい混ぜちゃっても平気って書いてあるよ？」とまたレシピ片手に言うわけですよ。",
+      "content": "\"Oh, it says it's fine to mix it a lot,\" she says again, recipe in hand."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:02:32",
+      "origin": "「あ、そう」今度は少し無愛想だったかもしれないですけど、まぁ、言うとおりにしてすごい混ぜましたけど。そして最後、ココアを投入する時、",
+      "content": "\"Oh, okay.\" I might have sounded a bit curt that time, but I did as she said and mixed it a lot. And finally, when it was time to add the cocoa powder..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:02:42",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:03:43",
+      "origin": "「ねぇ、ココアいっぱいあって余ってるからさ、いっぱい入れていい？」と言われ、「………一応計っていい？」と聞いて、そこは材料分を入れたわけなんですが…",
+      "content": "She said, \"Hey, we have a lot of cocoa powder left over, so can I put a lot in?\" and I asked, \"...Can I at least measure it?\" I put in the amount the recipe called for, but..."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:04:00",
+      "origin": "っと、すみません。喋りすぎていて。もうイライラしてて。",
+      "content": "Oh, I'm sorry. I'm talking too much. I'm just so irritated."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:04:22",
+      "origin": "いいですよ。ここではどんなことでもお話していただいて構いません",
+      "content": "That’s quite all right. You can talk about anything here."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:05:06",
+      "origin": "どうぞ、続きをお話しください",
+      "content": "Please, continue."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:05:17",
+      "origin": "ありがとうございます、すみません。あとちょっとで終わりますね。で、焼くわけですが。もうね、生地が私の知ってる生地じゃないんですよ笑",
+      "content": "Thank you, I'm sorry. I'm almost done. So, we baked it. And, you know, the batter was nothing like any batter I've ever seen. (laughs)"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:05:43",
+      "origin": "ぼとっ…ぼとっ…って落とす感じの生地っていうんですかね。",
+      "content": "It was the kind of batter that you sort of... plop... plop... down."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:06:36",
+      "origin": "お菓子作りが好きなあなたならどういうことかよくお分かりですよね",
+      "content": "As someone who loves to bake, you know exactly what that means, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:07:53",
+      "origin": "初めて出会いましたね。カップに、入れづらくてしょうがなかった。で、焼いて。まぁなんとか出来上がって。",
+      "content": "I’d never encountered that before. It was so hard to get into the cups. We baked them, and somehow they turned out."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:08:13",
+      "origin": "まあ、味、ないよね笑というか、薄い。さすがマーガリン、みたいな。",
+      "content": "And, well, there was no flavor (laughs). Or rather, it was bland. Just as you'd expect from margarine."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:08:59",
+      "origin": "そうだったのですね。出来上がって相手の方はどのような反応だったのですか？",
+      "content": "I see. How did your friend react to the final product?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:09:33",
+      "origin": "彼女的には大丈夫みたいで、なぜか自慢げに、「けっこう美味しくできたね！〇〇ちゃん（私）もさ、今度からカップケーキ作る時は、これでいいんじゃない？」という、上から目線いただいて。",
+      "content": "She seemed to think it was fine. For some reason, she said smugly, \"They turned out pretty good! Maybe you (my name) should make your cupcakes like this from now on.\" It was such a condescending thing to say."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:09:57",
+      "origin": "「けっこう適当でもさー、おいしくできたりするんだよ！」とも言われて。",
+      "content": "She also said, \"You know, you can be pretty careless and things can still turn out delicious!\""
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:10:26",
+      "origin": "あー……彼女ってなんていうか…こういうところ…あるよなぁ……と思ったりして。なんていうんですかね、全部自分が正しい、みたいなそういうの。",
+      "content": "Ah... I thought, she has this side to her... How should I put it... this attitude like she's always right about everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:10:32",
+      "origin": "そうでしたか。そのように言われると呆れてしまいますね",
+      "content": "I see. Hearing that would be exasperating."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:11:04",
+      "origin": "なるほど、これは呆れるという感情なのか。",
+      "content": "I see—so this feeling is exasperation."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:11:39",
+      "origin": "お話していてそのように感じましたが、いかがでしょうか",
+      "content": "That’s the impression I got as you were speaking. How does that feel to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:12:22",
+      "origin": "イライラしちゃって、わからなかったので、そういう意見聞きたいです。",
+      "content": "I was so irritated I couldn’t tell, so I appreciate hearing that perspective."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:12:33",
+      "origin": "彼女って、どんな人に映りますか？",
+      "content": "How does she come across to you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:14:51",
+      "origin": "お話をお伺いして、あなたのタイプが違うように感じました。普通に接している分にはわからないけれど、お菓子作りなど何かを一緒に取り組むことに関しては価値観が違うのかなと。",
+      "content": "From what you've told me, it seems like you two are different types of people. It might not be apparent in normal interactions, but when it comes to doing something together like baking, it seems your values differ."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:15:09",
+      "origin": "あなたとですすみません",
+      "content": "With you, I mean. My apologies."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:15:42",
+      "origin": "あー、なるほど！はい。価値観の違いはすごい感じます。",
+      "content": "Ah, I see! Yes. I definitely feel a huge difference in our values."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:16:12",
+      "origin": "そうなんですよね、普通に接してるぶんにはそこまでは気にならなかったような。",
+      "content": "That's right. When we're just interacting normally, I don't think it bothered me this much."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:16:48",
+      "origin": "私、悔しかったんですよね。",
+      "content": "I felt so frustrated."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:17:15",
+      "origin": "そうですよね。また、お菓子作りというあなたにとってとても大事なもので意見の食い違いがったのが許せなかったのではとも思うますが、いかがでしょうか？",
+      "content": "I can see that. Also, I imagine it was particularly unforgivable because the disagreement was about baking, something very important to you. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:17:36",
+      "origin": "そうですそうです。自分の今まで頑張ってきたお菓子作りまで否定されたような気がして。",
+      "content": "Yes, that's it exactly. I felt like all the effort I've put into baking until now was being invalidated."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:17:51",
+      "origin": "彼女はけっこう自分がいつも正しいと思ってる人だけど、",
+      "content": "She's the type of person who always thinks she's right, but..."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:18:18",
+      "origin": "お菓子作りに関してはあなたは初心者で、「教えて！」て言ってる立場なんだから、もう少し接し方というものがあるだろう、と思って。",
+      "content": "when it comes to baking, you're the beginner. You're the one who asked me to \"Teach me!\" so I feel like there's a better way to behave."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:18:43",
+      "origin": "そこでも私がいう事を聞かなきゃいけないの？とも思って…",
+      "content": "I also thought, \"Do I have to listen to you even in this situation?\""
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:19:24",
+      "origin": "というか、そのレシピを信じてるなら、そのレシピ見ながら自分一人で作ればいいじゃん！とも思いました。",
+      "content": "And I also thought, if you trust that recipe so much, then you should just make it by yourself while looking at it!"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:19:37",
+      "origin": "すごくむかつきました。",
+      "content": "I was furious."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:20:26",
+      "origin": "ええ、経験値やお菓子作りに対しての思いがあるからこそ、余計に腹が立ってきますよね",
+      "content": "Yes, because of your experience and your passion for baking, it must have been all the more infuriating."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:21:13",
+      "origin": "はい。私、たくさん失敗したんです。それを教えているわけです。少しくらい言う事聞きなさいよ、と思いました。",
+      "content": "Yes. I've failed so many times. That's the experience I'm trying to share. I thought, \"You could at least listen to me a little.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:22:00",
+      "origin": "なんだか今度は悲しくなってきました。",
+      "content": "Now I’m starting to feel sad."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:22:33",
+      "origin": "ええ、そう感じるのも無理はないかと思います。",
+      "content": "Yes, it’s understandable to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:22:50",
+      "origin": "わたし、、バカにされてるんでしょうか…",
+      "content": "Am I... being looked down on?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:23:00",
+      "origin": "彼女にとって私ってなんなんでしょう…",
+      "content": "What am I to her...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:25:21",
+      "origin": "先ほど、あなたもおっしゃっていたように「そのレシピを信じてるなら、そのレシピ見ながら自分一人で作ればいいじゃん！」とも思いますが、それでもあなたとお菓子作りをしようとするのは、仲良くしたい現れなのかなとも思いましたが、いかがでしょうか？",
+      "content": "As you said earlier, one could think, \"If you trust that recipe so much, you should just make it by yourself.\" But the fact that she still wants to bake with you might be a sign that she wants to be good friends. What do you think of that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:26:29",
+      "origin": "そっか…彼女は私のことを別にバカにしようとは思ってないのかな。",
+      "content": "I see... Maybe she's not trying to look down on me after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:27:16",
+      "origin": "バカにしようとは思っていないと感じました。",
+      "content": "I don’t sense any intention to belittle you."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:27:43",
+      "origin": "少しほっとした気持ちになりました。",
+      "content": "I feel a bit relieved."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:28:03",
+      "origin": "そしてこんなに喋ったので、すっきりしました笑",
+      "content": "And I feel much better now that I've talked so much about it. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:28:21",
+      "origin": "お菓子作りを教えてほしいというのは本心だと思いますよ",
+      "content": "I believe she is sincere about wanting you to teach her how to bake."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:29:08",
+      "origin": "ええ、吐き出してもらえてよかったです。また、いつでもお話にいらしてくださいね。",
+      "content": "Yes, I’m glad you were able to let it all out. Please feel free to come and talk anytime."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:29:26",
+      "origin": "なるほど、そっか…。それなら、いいかな。頻繁に一緒にはあまり作りたくないけど笑深刻な悩みとかじゃなくてごめんなさい。誰にも言えなかったので、苦しかったです。",
+      "content": "I see... In that case, maybe it's okay. Though I don't want to bake with her too often (laughs). I'm sorry this wasn't a more serious problem. I couldn't tell anyone, so it was really weighing on me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:30:47",
+      "origin": "ええ、もし、お菓子作り以外のことに関しての関係性が良好であるならば無理して付き合うこともないかと思います。",
+      "content": "Yes, if your relationship is otherwise good, I don't think you need to force yourself to do that particular activity with her."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:31:57",
+      "origin": "そうですよね。お菓子作りは避けつつ、価値観の合いそうなところで今後も付き合っていければいいのかな。",
+      "content": "That's true. Maybe I can just avoid baking with her and continue the friendship in areas where our values seem to align."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:33:52",
+      "origin": "そうですね。そういうお付き合いも悪くはないと感じました。",
+      "content": "Yes. I feel that's not a bad way to handle the relationship."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:34:19",
+      "origin": "本日はそろそろ終了の時間となってしまいました。お越しくださり、ありがとうございました。",
+      "content": "It looks like our time is almost up for today. Thank you for coming in."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:34:38",
+      "origin": "他にもちょいちょいもやっとする事があるんですが、また話に来ても大丈夫ですか？",
+      "content": "There are other little things that bother me from time to time. Would it be okay if I came to talk about them again?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:35:20",
+      "origin": "ええ、誰にもお話しできないことをここで目一杯お話ください。",
+      "content": "Of course. Please feel free to come here and talk about anything you can't discuss with others."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:35:31",
+      "origin": "ありがとうございます！",
+      "content": "Thank you!"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:35:49",
+      "origin": "話せる場所があると思うと、彼女と話しててイラっとしても大丈夫な気がします笑",
+      "content": "Knowing I have a place to talk makes me feel like I can handle it, even if I get irritated when talking with her (laughs)."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:36:18",
+      "origin": "その時は宜しくお願いいたします。今日はたくさん話を聴いていただいてありがとうございました＾＾",
+      "content": "I look forward to speaking with you then. Thank you so much for listening to me today. ^^"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:36:31",
+      "origin": "そうですね。こちらはいつでもお待ちしております。ありがとうございました。",
+      "content": "Of course. We're always here for you. Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-10-21T12:36:43",
+      "origin": "（お時間過ぎてしまってごめんなさい。ありがとうございました＾＾）",
+      "content": "(I'm sorry for going over time. Thank you. ^^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-21T12:37:01",
+      "origin": "（いえいえ、こちらこそロープレありがとうございました。）",
+      "content": "(Not at all—thank you as well for the role-play.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "近所の友人とのコミュニケーションのトラブル"
+  },
+  "review_by_client": {
+    "evaluation_id": 4153,
+    "evaluation_created_at": "2022-10-21T14:46:00",
+    "client_id": 210,
+    "counselor_id": 294,
+    "score": 81,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

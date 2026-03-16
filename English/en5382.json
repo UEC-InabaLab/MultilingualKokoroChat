@@ -1,0 +1,495 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-07-02T21:00:44",
+      "origin": "こんばんは、相談者です。今日はよろしくお願いします。",
+      "content": "Good evening. I'm here for my counseling session. Thank you for your time today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:01:18",
+      "origin": "こんばんは。こちらこそ本日はよろしくお願いします。",
+      "content": "Good evening. Likewise, thank you for your time today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:02:10",
+      "origin": "本日は相談に来てくださってありがとうございます。はじめに年齢、性別、相談内容を教えてください。",
+      "content": "Thank you for coming in for a consultation. To begin, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:02:53",
+      "origin": "26歳　女性　職場の人間関係に疲れました",
+      "content": "I’m 26, female. I’m exhausted by the interpersonal relationships at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:04:05",
+      "origin": "職場の人間関係に疲れてしまったんですね…。今どんな状況か詳しく聞かせていただけますか？",
+      "content": "So you're feeling exhausted by the relationships at work... Could you tell me more about your current situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:06:11",
+      "origin": "表向きは仲良い感じで接してきますが自分達のやりたい事が優先で嫌な仕事ばかり押し付けられて疲れました",
+      "content": "They act friendly on the surface, but they prioritize what they want to do and keep dumping the unpleasant work on me, which is exhausting."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:07:36",
+      "origin": "嫌な仕事ばかり押しつけられるのは辛いし気持ちも疲れてしまいますよね。",
+      "content": "Having the unpleasant tasks pushed onto you is tough and emotionally draining, isn’t it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:07:57",
+      "origin": "そうなんです。",
+      "content": "Yes, exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:09:05",
+      "origin": "相談の途中ですみません。この相談の中でお名前は何とお呼びしたらよろしいですか？",
+      "content": "I'm sorry to interrupt. What would you like me to call you during this session?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:09:30",
+      "origin": "ちーこでお願いします",
+      "content": "Please call me Chiiko."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:09:50",
+      "origin": "ちーこさんですね。ありがとうございます。",
+      "content": "Chiiko, got it. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:10:35",
+      "origin": "ちーこさんは今の職場にどれくらい勤務していらっしゃるんですか？",
+      "content": "How long have you been working at your current workplace, Chiiko?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:10:55",
+      "origin": "4年です",
+      "content": "Four years."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:11:53",
+      "origin": "4年となるときっと色々な仕事を任される立場にもなりますよね。",
+      "content": "After four years, you're likely in a position where you're entrusted with a variety of tasks."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:12:33",
+      "origin": "先ほど嫌な仕事を押しつけられると話してくださったと思うのですがそのお相手は先輩や上司ですか？",
+      "content": "You mentioned earlier that unpleasant tasks are being pushed onto you. Are the people doing this your senior colleagues or supervisors?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:13:57",
+      "origin": "ただ10年近い人が何人もいてお店の店長は優しすぎて権力がなく　ずっといるお局のおばさん達が仕切る感じで私はいつまでも新人です。",
+      "content": "There are several people who have been there for nearly 10 years, and the store manager is too nice and has no authority. The long-tenured senior women are the ones running the show, so I'm treated like a newcomer indefinitely."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:15:28",
+      "origin": "そういう状況だったのですね…明らかに嫌な仕事ばかり押しつけられる状況だと仕事に対する意欲までなくなってきてしまいますよね",
+      "content": "I see, so that's the situation... When unpleasant tasks are clearly being dumped on you, it can sap your motivation for work altogether, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:15:52",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:17:17",
+      "origin": "ちーこさんとしては、今の状況をこうしたい。もしくはこうなったらいいな等、何かお考えやお気持ちがあれば聞かせてください。",
+      "content": "Chiiko, do you have any thoughts or feelings about what you'd like to do about the current situation, or how you wish things could be?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:19:24",
+      "origin": "誰でも出来る事ではなく、少しスキルアップした仕事がしたいと思います。ただ今の状況だとおばさま方がいる限り無理な気がします。",
+      "content": "I’d like to do work that develops my skills, not just tasks anyone can do. But given the current situation, as long as the senior women are there, I feel it’s not possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:20:39",
+      "origin": "こういう仕事がしたい等、仕事に対するご自身のお考えをお持ちなのはとても素晴らしいことだと思います。",
+      "content": "I think it's wonderful that you have your own ideas about the kind of work you want to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:21:31",
+      "origin": "店長さんはちーこさんが嫌な仕事ばかり押しつけられている今の状況をご存知なのでしょうか？",
+      "content": "Is your store manager aware of the situation, that you're being pushed to do all the unpleasant tasks?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:21:54",
+      "origin": "知っています。",
+      "content": "Yes, they know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:22:51",
+      "origin": "そうなんですね…。この件について誰かに相談したことはありますか？",
+      "content": "I see... Have you discussed this with anyone?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:23:12",
+      "origin": "ないです。怖くて言えません",
+      "content": "No, I haven't. I'm too scared to say anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:23:59",
+      "origin": "怖いというのは、誰かに相談していることがバレてしまうのが怖いということでしょうか？",
+      "content": "When you say you're scared, do you mean you're afraid they'll find out you've talked to someone about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:24:11",
+      "origin": "そうです",
+      "content": "Yes, that's it."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:24:48",
+      "origin": "おばさん達はいつも事務所で色々話をしてるので",
+      "content": "Because those ladies are always chatting about various things in the office."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:25:41",
+      "origin": "お局さんたちが色々話をしているのを知っている状況での自分が相談したことが耳に入ったらと考えると相談すること自体怖いと感じてしまいますよね。",
+      "content": "Knowing that they're always talking, I can see why you'd be afraid to consult anyone, thinking that word might get back to them."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:26:03",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:26:29",
+      "origin": "お話をお伺いしている限りでは店長さんに相談して状況を改善してもらうことは難しいのかなと感じました。",
+      "content": "From what you've told me, it sounds like it might be difficult to improve the situation by consulting with the store manager."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:26:51",
+      "origin": "店長さんよりも立場が上の人はいませんか？",
+      "content": "Is there anyone in a higher position than the store manager?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:27:00",
+      "origin": "店長も使われている感じです。",
+      "content": "It feels like the manager is being bossed around too."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:27:26",
+      "origin": "います。ただほとんど話はした事ないです",
+      "content": "There is. But I’ve hardly ever spoken with them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:28:04",
+      "origin": "その方は同じお店にいますか？それとも普段は別な場所にいますか？",
+      "content": "Is that person at the same store, or are they usually somewhere else?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:28:08",
+      "origin": "1か月に2.3回お店に来ます",
+      "content": "They come to the store two or three times a month."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:28:45",
+      "origin": "エリアマネージャーで普段どこにいるかは分かりません",
+      "content": "They’re the area manager, and I don’t know where they usually are."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:29:57",
+      "origin": "エリアマネージャーに相談するというのはどうでしょうか？",
+      "content": "What about consulting the area manager?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:30:40",
+      "origin": "少し難しい、もしくは相談したくないなどちーこさんの素直な気持ちを聞かせてくださいね。",
+      "content": "Please feel free to share honestly if that feels difficult or if you’d rather not consult them."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:30:46",
+      "origin": "仕事中に話しかけたらお店は小さいので難しいです。",
+      "content": "It would be difficult to approach them during work because the store is small."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:31:39",
+      "origin": "話しかけたら気付かれてしまう状況ですね。声のかけ方や相談の仕方はまた一緒に考えたいと思いますが相談することに抵抗がありますか？",
+      "content": "So it's a situation where you'd be noticed if you approached them. We can think about how to approach them and consult with them together, but do you feel any resistance to the idea of consulting them at all?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:32:46",
+      "origin": "挨拶しかした事ないのでいいづらいです",
+      "content": "I’ve only ever exchanged greetings with them, so it’s hard to bring it up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:33:45",
+      "origin": "あまり話したことがない人に相談するのはなかなか話がしづらいですよね。",
+      "content": "It's certainly difficult to open up to someone you've barely spoken with."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:33:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:35:06",
+      "origin": "エリアマネージャーがお店に来たとき他のスタッフ、店長はエリアマネージャーと話していますか？",
+      "content": "When the area manager comes to the store, do other staff and the store manager talk with them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:35:46",
+      "origin": "店長もしくは副店長と話してます",
+      "content": "They talk with the store manager or the assistant manager."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:36:56",
+      "origin": "教えてくれてありがとうございます。ちーこさんは副店長とは話をしますか？",
+      "content": "Thank you for letting me know. Do you talk with the assistant manager, Chiiko?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:37:29",
+      "origin": "します。",
+      "content": "Yes, I do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:37:41",
+      "origin": "副店長さんとの話しやすさや関係性についてもよければ教えてください。",
+      "content": "If you don't mind, could you tell me about how easy it is to talk with the assistant manager and what your relationship is like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:38:23",
+      "origin": "話は1番しやすいです。",
+      "content": "They're the easiest person to talk to."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:39:45",
+      "origin": "もちろんお店では難しいと思うのですが何らかの形で副店長さんに相談することは出来そうですか？",
+      "content": "I know it would be difficult at the store, of course, but do you think you could consult with the assistant manager in some way?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:40:24",
+      "origin": "LINEは分からないです。",
+      "content": "I don’t have their LINE contact."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:41:19",
+      "origin": "お店の外で二人きりになれる場所で相談したり連絡先を聞いて相談するなどの方法があるかなと思いました。",
+      "content": "I was thinking there might be ways, such as talking somewhere outside the store where you can be one-on-one, or asking for their contact information to consult."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:42:52",
+      "origin": "そうですね。副店長に相談も怖いです。",
+      "content": "That's true, but consulting the assistant manager is scary too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:43:56",
+      "origin": "確かに同じお店で働く人に相談するのは怖いですよね。",
+      "content": "It's true, it's scary to consult with someone you work with at the same store."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:44:42",
+      "origin": "上手くいかなかったらと考えると怖いです",
+      "content": "I'm scared thinking about what if it doesn't go well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:45:49",
+      "origin": "上手くいかなかったら、相談してどう思われるかと考えるととても怖いですよね。",
+      "content": "It's very frightening to think about what might happen if it doesn't go well, or what they might think of you for consulting them."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:47:37",
+      "origin": "店長や副店長は優しいので怖くないのですが、　おばさま方にばれたり、意地悪されたりが怖いです",
+      "content": "The manager and assistant manager are nice, so I'm not scared of them, but I'm scared of the senior ladies finding out or being malicious towards me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:48:10",
+      "origin": "更に状況が悪化したら嫌ですもんね…。",
+      "content": "You wouldn't want the situation to get even worse..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:48:16",
+      "origin": "副店長さんの連絡先をお聞きして、まずはおばさまたちのことではなく、ちょっとした仕事の話や相談をしてみるのはどうでしょうか？",
+      "content": "How about asking for the assistant manager's contact information, and to start, instead of talking about the senior ladies, try having some light work-related talk or consultation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:48:43",
+      "origin": "例えば？",
+      "content": "For example?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:49:37",
+      "origin": "どんなことでも良いのですが、今やっている仕事のアドバイスをもらったり自信のないことに対してフィードバックをもらったり。",
+      "content": "Anything really—for instance, asking for advice on your current tasks or feedback on things you’re not confident about."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:51:02",
+      "origin": "それをする意味が分かりません",
+      "content": "I don't see the point of doing that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:52:27",
+      "origin": "いきなりおばさまたちのことを相談するのはハードルが高いかなと思ったので、まずはどんな話でもいいのでコミュニケーションをとってから相談したらどうかと思ったのですが",
+      "content": "I thought it might be a bit of a high hurdle to suddenly talk about the senior ladies, so I thought it might be better to communicate with them first about anything, and then bring up the issue."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:52:57",
+      "origin": "ちーこさんの意向に沿わないご提案だったらすみません。",
+      "content": "I apologize if that suggestion doesn’t align with your preference, Chiiko."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:53:34",
+      "origin": "店長とも副店長ともコミュニケーションをとる事は出来ます。",
+      "content": "I can communicate with both the store manager and the assistant manager."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:54:24",
+      "origin": "十分コミュニケーションがとれている相手にそのようなコミュニケーションは不要ですよね。",
+      "content": "You're right, that kind of communication isn't necessary with someone you can already communicate with sufficiently."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:54:27",
+      "origin": "ただお局達に嫌な仕事を押し付けられてるとは相談出来ないです。",
+      "content": "It’s just that I can’t bring myself to consult them about being saddled with unpleasant tasks by the senior women."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:54:46",
+      "origin": "そろそろ相談終了のお時間が近づいてきました。今日は職場の人間関係について相談して頂きました。お話が途中になってしまうので、よろしければまた次回相談して頂くことはできますか？",
+      "content": "Our time for today is almost up. Today, you consulted with me about your workplace relationships. Since we're in the middle of our discussion, would it be okay to continue this next time, if you'd like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:55:06",
+      "origin": "大丈夫です。",
+      "content": "That's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:55:43",
+      "origin": "ちーこさんの今の状況が少しでも改善するように次回また一緒に考えさせてください。",
+      "content": "Please let me help you think about how we can improve your current situation, even just a little, in our next session."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:56:19",
+      "origin": "よろしくお願いします。",
+      "content": "Thank you, I’d appreciate that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:57:25",
+      "origin": "次ご相談頂くときは別な相談員が対応することになるかもしれませんが、今回ご相談頂いた内容は他の相談員も把握した上でのご相談となります。",
+      "content": "A different counselor may be assisting you next time, but please know that they will be aware of the details of our discussion today before your session."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:58:14",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-02T21:58:32",
+      "origin": "本日はご相談頂きありがとうございました。ちーこさんのお力になれるように一緒に考えていきたいと思っています。それでは相談を終了させて頂きます。",
+      "content": "Thank you for your consultation today. I truly want to work with you to find a way to help. I will now conclude our session."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-02T21:59:23",
+      "origin": "はい。よろしくお願いします。",
+      "content": "Okay. Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "嫌な仕事の押しつけ問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5382,
+    "evaluation_created_at": "2023-07-02T23:25:00",
+    "client_id": 393,
+    "counselor_id": 409,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

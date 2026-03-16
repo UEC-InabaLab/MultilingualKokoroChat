@@ -1,0 +1,741 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-07T09:52:43",
+      "origin": "（おはようございます。相談員役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）",
+      "content": "(Good morning. I'll be playing the role of the counselor. I look forward to working with you today. We'll begin when it's time.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T09:53:17",
+      "origin": "(宜しくお願い致します。)",
+      "content": "(Thank you. I look forward to working with you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T09:53:33",
+      "origin": "（相談者の設定を中高生の相談でお願いしたいのですが、よろしいでしょうか？）",
+      "content": "(I'd like to set the client's profile as a junior or senior high school student for this consultation, would that be alright?)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T09:54:01",
+      "origin": "(承知致しました)",
+      "content": "(Understood.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T09:54:29",
+      "origin": "（ありがとうございます。よろしくお願いいたします。）",
+      "content": "(Thank you. I look forward to this.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T09:55:03",
+      "origin": "(こちらこそ宜しくお願い致します)",
+      "content": "(Likewise, thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:00:32",
+      "origin": "こんにちは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。",
+      "content": "Hello. I'm the counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age, gender, and what you would like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:01:04",
+      "origin": "ハイ高3の女子です",
+      "content": "Yes, I'm a female high school senior."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:01:14",
+      "origin": "やる気が出ません",
+      "content": "I can't get motivated."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:01:56",
+      "origin": "そうだったんですね。お困りですね。",
+      "content": "I see. That must be troubling for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:02:17",
+      "origin": "ハイ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:02:48",
+      "origin": "どうしたらやる気が出ますか？",
+      "content": "How can I get motivated?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:03:22",
+      "origin": "ええ。一緒に考えていきましょうね。それはどういう時に出ないとか、逆にこういう時だったら出るとか、もう少し詳しく教えてもらえますか？",
+      "content": "Yes. Let's think about it together. Could you tell me a little more? For instance, are there times when you don't feel motivated, or conversely, times when you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:04:17",
+      "origin": "いつも出ない感じです",
+      "content": "It feels like I'm always unmotivated."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:04:46",
+      "origin": "やらなきゃいけないから仕方なくやってる感じです",
+      "content": "I feel like I'm just doing things reluctantly because I have to."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:05:18",
+      "origin": "そうなんだ・・・。そう思うと疲れてしまいますね。",
+      "content": "I see... Thinking that way must be exhausting."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:05:41",
+      "origin": "ハイ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:05:52",
+      "origin": "やらなきゃいけないことは、具体的にどんなことなのかな？",
+      "content": "What kinds of things do you feel you have to do, specifically?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:06:38",
+      "origin": "受験勉強とかが多いです",
+      "content": "Mostly things like studying for entrance exams."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:07:34",
+      "origin": "そうなんだ。受験勉強を頑張っている最中なのですね。",
+      "content": "I see. So you're in the middle of studying hard for your exams."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:07:53",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:08:35",
+      "origin": "もう志望校は決まっている感じですか？",
+      "content": "Have you already decided on your preferred schools?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:09:13",
+      "origin": "幾つか候補はあるんですが…",
+      "content": "I have a few candidates in mind, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:10:09",
+      "origin": "そうなんですね。これから候補を絞っていく感じなのですね。",
+      "content": "I see. So you're in the process of narrowing down your choices."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:10:24",
+      "origin": "そうなります",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:10:47",
+      "origin": "でも、どこでもいい様な気もします",
+      "content": "But I also feel like anywhere would be fine."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:11:24",
+      "origin": "将来のイメージがつかなくて",
+      "content": "I can't picture my future."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:12:36",
+      "origin": "なるほど・・・将来のことはイメージがつかないからこそ、そう思うのは自然なことだと思います。",
+      "content": "I see... I think it's natural to feel that way, precisely because you can't picture your future."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:12:56",
+      "origin": "やっぱりそうですよね",
+      "content": "I guess you're right."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:13:14",
+      "origin": "どうしたらいいですかね？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:14:41",
+      "origin": "そう思いますよ。そんな中、受験勉強をしているのは、親から進学するよう言われたからとか、どんな理由があるのでしょうか？",
+      "content": "I believe so. Given that, is there a reason you're studying for exams, like maybe your parents told you to go to college?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:15:39",
+      "origin": "いや、親は特に好きにしていいと思っているみたいな感じです",
+      "content": "No, my parents seem to think I can do whatever I like."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:16:03",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:16:26",
+      "origin": "進学校だから、何となく大学かなあと",
+      "content": "I'm at a college-prep school, so I just kind of figured I should go to college."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:17:17",
+      "origin": "なるほど。そう考えているのですね。",
+      "content": "I see. So that's what you're thinking."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:17:32",
+      "origin": "そうですね",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:18:45",
+      "origin": "いつも勉強はどんな感じでしているのかな？",
+      "content": "How do you usually go about your studies?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:20:03",
+      "origin": "どんな感じ一応時間を決めてやってます",
+      "content": "How do I do it? Well, I try to study at set times."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:20:29",
+      "origin": "でも集中出来てないことが多いかも",
+      "content": "But I often find I can't concentrate."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:20:50",
+      "origin": "やる気が出ないのでw",
+      "content": "Because I have no motivation, lol."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:21:07",
+      "origin": "そっか。そんな感じなんですね。",
+      "content": "I see. So that's how it is."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:21:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:22:15",
+      "origin": "周りの友達とかの進路はどんな感じですか？",
+      "content": "What about your friends? What are their plans for after graduation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:22:45",
+      "origin": "みんなほとんど決まってると思います",
+      "content": "I think almost everyone has decided."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:22:59",
+      "origin": "3年ですから",
+      "content": "Since we're seniors."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:23:16",
+      "origin": "普通そうですよね",
+      "content": "That's normal, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:23:40",
+      "origin": "そうなんですね。だとすると焦りを感じたりしているのかな？",
+      "content": "I see. Does that make you feel anxious?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:24:04",
+      "origin": "それもあるかもです",
+      "content": "That might be part of it."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:24:58",
+      "origin": "相談員さんはどうやって勉強に集中してたんですか？",
+      "content": "How did you concentrate when you studied?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:25:27",
+      "origin": "そうなんだね。焦りもあったり、でもやる気が出ないなか勉強するのはしんどいですね。",
+      "content": "I see. It must be tough to study while feeling anxious but having no motivation."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:25:44",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:26:11",
+      "origin": "進路ってどうやってきめたんですか？",
+      "content": "How did you decide on your future path?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:27:48",
+      "origin": "私は、本当に集中力がない人なので、「1分だけまずやってみよう」を達成したら「もう1分だけやろう」を繰り返してやっていましたよ。",
+      "content": "Well, I have very poor concentration, so I used to tell myself, \"Let's just try for one minute,\" and when I accomplished that, I'd repeat, \"Let's do it for just one more minute.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:28:13",
+      "origin": "1分、なるほど",
+      "content": "One minute—got it."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:28:50",
+      "origin": "1分って短いですね",
+      "content": "One minute is short."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:28:55",
+      "origin": "進路は何となくで決めたかもしれません。だから大人になって、「もっとこうすればよかった」と後悔しています。",
+      "content": "As for my future path, I may have decided on it without much thought. That's why as an adult, I have regrets, thinking, \"I should have done things differently.\""
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:29:09",
+      "origin": "そうなんですね",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:29:35",
+      "origin": "後悔しないためにはどうすればいいんですかね？",
+      "content": "What should I do to avoid having regrets?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:30:18",
+      "origin": "1分だと集中力に自信がない人でも抵抗を感じにくいので、参考になればと思います。",
+      "content": "Trying for just one minute is less daunting, even for people who aren't confident in their ability to concentrate, so I hope that helps."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:31:04",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:31:16",
+      "origin": "例えばですが、過去に後悔したことってどんなことがありましたか？",
+      "content": "For example, what kinds of things have you regretted in the past?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:31:52",
+      "origin": "私ですか？何だろう",
+      "content": "Me? Let me think."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:33:05",
+      "origin": "勉強に限らず、友人とか恋愛とか何か取り組んだこととか。",
+      "content": "It doesn't have to be about studying. It could be about friends, relationships, or anything you've tried."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:34:22",
+      "origin": "特に無いかも",
+      "content": "Maybe nothing in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:35:09",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:35:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:36:26",
+      "origin": "でも、大学やその先ってこれからの人生が決まると思うし、後悔しない様にしたいです",
+      "content": "But, I feel like college and what comes after will determine my whole life, so I want to avoid regrets."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:37:02",
+      "origin": "相談員さんの後悔ってどんなことだったんですか？",
+      "content": "What kind of regrets did you have?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:37:08",
+      "origin": "ええ。私はあなたが後悔しない選択をしてもらいたいと思っています。",
+      "content": "Yes. I want you to make choices you won't regret."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:37:53",
+      "origin": "やっぱり後悔しない様にした方がいいですよね",
+      "content": "It's better not to have regrets, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:39:03",
+      "origin": "そうですね。私の場合は周りに流されて生きてきたことですかね。",
+      "content": "That's right. In my case, I think it was that I just went with the flow."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:39:49",
+      "origin": "そのせいで自分の好きでもないことに時間やお金を費やしたりしました。",
+      "content": "Because of that, I ended up spending time and money on things I didn't even like."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:40:04",
+      "origin": "そうなんですね私もそうなるかもどうしたら後悔しないように出来ますか？",
+      "content": "I see. That might happen to me too. How can I avoid having regrets?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:41:27",
+      "origin": "自分が納得できる選択をすることだと思っています。例えば、",
+      "content": "I think it's about making choices you can accept and feel satisfied with. For example,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:42:35",
+      "origin": "自分が好きだなと思って付き合いたいと思っても、告白できずにいて他の子にとられたりしたら、それって後悔すると思うんです。",
+      "content": "if you like someone and want to date them, but you can't bring yourself to confess and someone else asks them out, I think you'd regret it."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:42:52",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:43:49",
+      "origin": "でも、告ってフラれてたら？",
+      "content": "But what if I confessed and got rejected?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:18",
+      "origin": "フラれたら？",
+      "content": "If I got rejected?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:44:28",
+      "origin": "告白してダメだったのと、告白せずにダメだったのって、結果は同じでも、後悔の差は大きいと思います。",
+      "content": "If it doesn't work out after confessing versus not confessing at all—the outcome may be the same, but the degree of regret is quite different."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:29",
+      "origin": "です",
+      "content": "True."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:39",
+      "origin": "ああ",
+      "content": "Ah."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:55",
+      "origin": "そうかもしれないですね",
+      "content": "That might be true."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:45:26",
+      "origin": "でもショックは受けたくないかなあ",
+      "content": "But I don't want to get hurt."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:45:42",
+      "origin": "立ち直れないかも",
+      "content": "I might not be able to bounce back."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:46:57",
+      "origin": "ええ。そう思いますよね。告白してダメだったら、落ち込んでしまいますよね。",
+      "content": "Yes, I understand. If you confess and get rejected, you'd feel down, wouldn't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:47:08",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:48:14",
+      "origin": "でもその経験が、あなたをより魅力的な人にさせたり、成長させてくれることが多いにありますよ。",
+      "content": "But that experience often makes you a more appealing person and helps you grow."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:48:47",
+      "origin": "そうなんだ…",
+      "content": "Really..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:49:50",
+      "origin": "それで魅力的になるって、あまりイメージがつかないです",
+      "content": "I can't quite imagine how that would make me more attractive."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:50:09",
+      "origin": "どういうことですか？",
+      "content": "What do you mean?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:51:41",
+      "origin": "例えば、フラれた人がその悔しさから、自分を磨いて、とてもオシャレになったり綺麗になったりするんです。",
+      "content": "For example, someone who was rejected might channel that frustration into self-improvement—becoming very stylish or beautiful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:51:57",
+      "origin": "また同じ悔しさを経験しないために。",
+      "content": "So they don't have to experience that same painful feeling again."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:52:47",
+      "origin": "そうなのか…",
+      "content": "Is that so..."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:53:44",
+      "origin": "それでもまたフラれたら余計にキツくないですか？",
+      "content": "But if they get rejected again after all that, wouldn't it be even tougher?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:53:44",
+      "origin": "それが納得しないまま、何となく生きている人は、そういうショックとかは受けないけど、そういう成長は得られないし、後々後悔に気づく可能性があります。",
+      "content": "People who just go through life without making choices they can truly accept might not experience that kind of shock, but they also miss out on that kind of growth and may realize their regrets later on."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:55:13",
+      "origin": "それはとても落ち込むと思います。でも落ち込んだ分だけ、人として魅力的になる可能性をたくさん秘めていると思いますよ。",
+      "content": "I think that would be very disheartening. But I believe the more you've been down, the more potential you hold to become a more appealing person."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:55:28",
+      "origin": "話が少しそれてしまいましたが、あなたがこれから、やってみたいと思うことって、どんなことがありますか？",
+      "content": "We've gotten a little off topic, but are there any things that you think you might want to try in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:55:56",
+      "origin": "それが分からなくて",
+      "content": "That's what I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:56:23",
+      "origin": "特に何もないので",
+      "content": "There's nothing in particular."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:56:40",
+      "origin": "ええ。もしかしたら今まで考えてなかったことかもしれません。すぐに見つからなくても大丈夫ですよ。",
+      "content": "Right. It might be something you haven't thought of before. It's okay if you don't find it right away."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:56:54",
+      "origin": "そうなんですか？",
+      "content": "Is that so?"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:57:13",
+      "origin": "でも進路って決めなきゃですよね？",
+      "content": "But I have to decide on my future path, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:58:15",
+      "origin": "ええ。大丈夫ですよ。私は見つからないまま、何とかなくで大学進学してしまったので。でもあなたにはまだ探す時間が残されていますよ。",
+      "content": "Yes. It's okay. I went on to college without really finding what I wanted to do. But you still have time left to search."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:59:34",
+      "origin": "大丈夫ですかね？",
+      "content": "Do you think I'll be okay?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:59:47",
+      "origin": "やりたいことがわからない場合は、まずはやりたくないことをリストアップすることも一つです。",
+      "content": "If you don't know what you want to do, one thing you can do is start by listing the things you *don't* want to do."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:00:04",
+      "origin": "なるほど！",
+      "content": "I see!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:00:26",
+      "origin": "大丈夫ですよ。少しずつ考えていくことで、あなたが後悔する可能性は減らせると思いますよ。",
+      "content": "It will be okay. By thinking about it little by little, I believe you can reduce the chances of having regrets."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:00:59",
+      "origin": "努力や苦労はしたくないです！",
+      "content": "I don't want to struggle or work hard!"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:01:30",
+      "origin": "あなたが今日来てくれたのも、それだけ進路のことを考えている証拠なのですからね。",
+      "content": "The fact that you came here today is proof that you are thinking this much about your future."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:02:13",
+      "origin": "ですね",
+      "content": "I guess so."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:02:33",
+      "origin": "今日はお時間が来てしまったので、またお話したくなったら、ここで一緒に考えていきましょうね。",
+      "content": "Our time is up for today, so if you feel like talking again, we can think it over together here."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:02:49",
+      "origin": "わかりました",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:02:58",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:03:31",
+      "origin": "今日はありがとうございました。あなたのことを心から応援しています。それでは失礼します。",
+      "content": "Thank you for today. I'm sincerely rooting for you. Take care."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:04:06",
+      "origin": "（ロープレお疲れ様でした。ありがとうございました。）",
+      "content": "(Thank you for the role-play. It was a pleasure.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:04:33",
+      "origin": "(大変お疲れ様でした，ありがとうございました)",
+      "content": "(Thank you very much, that was great.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:04:40",
+      "origin": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）",
+      "content": "(If you have a moment, I'd appreciate your feedback. Thank you. I'll end the session now. Thank you again.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "進学先の選択に迷いがある"
+  },
+  "review_by_client": {
+    "evaluation_id": 4999,
+    "evaluation_created_at": "2023-05-07T11:41:00",
+    "client_id": 179,
+    "counselor_id": 136,
+    "score": 72,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

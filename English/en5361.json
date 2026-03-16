@@ -1,0 +1,657 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-30T16:54:16",
+      "origin": "本日はよろしくお願いいたします。時間になったら始めさせていただきます。",
+      "content": "Thank you for joining me today. We'll get started at the scheduled time."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T16:56:54",
+      "origin": "よろしくお願いいたします。",
+      "content": "I look forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:00:05",
+      "origin": "こんにちは。相談員です。はじめに性別、年齢、ご相談内容を教えてください。",
+      "content": "Hello. I'm the counselor. To begin, could you please tell me your gender, age, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:01:58",
+      "origin": "こんにちは、男、４２歳、マネジメント、経営陣との付き合い方よろしくお願いいたします",
+      "content": "Hello, I'm a 42-year-old man. I'd like to talk about management and how to deal with the executive team. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:02:23",
+      "origin": "はい。マネジメント職に疲れていらっしゃるのですね。",
+      "content": "I see. So you're feeling worn out by your management position."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:02:47",
+      "origin": "今、マネジメントもします。",
+      "content": "I currently handle management as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:02:59",
+      "origin": "今は間違いです",
+      "content": "Actually, the 'now' was a mistake."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:03:48",
+      "origin": "マネジメントもなさり、前線でも働いていらっしゃるのですね。経営陣との付き合い方とのことですが、仕事の内容など詳しく教えて頂けませんか",
+      "content": "So you're both managing and working on the front lines. You mentioned dealing with the executive team; could you please tell me more details about your work?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:04:36",
+      "origin": "内容は集客、講師、チームのマネジメントです。",
+      "content": "My responsibilities are student recruitment, teaching, and team management."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:05:19",
+      "origin": "多岐に渡っていらっしゃるのですね。ひとりでなんでもこなされていらっしゃるのですね。",
+      "content": "Your work spans many areas. It sounds like you’re taking on a lot yourself."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:06:10",
+      "origin": "いえ一人で何でもやっているわけでは無いのですが、その役割を頂いております。",
+      "content": "No, I’m not doing everything by myself, but those are the roles I’ve been assigned."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:07:21",
+      "origin": "集客をするのにチームのマネジメントが必要で、中々ひとりひとりがしっかり動いてくれ無いと言うのが現状ですね。",
+      "content": "Team management is necessary for customer acquisition, and the current situation is that it's difficult to get each person to really pull their weight."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:08:11",
+      "origin": "経営者相手に経営塾の塾事業をしておりますので、その中で講師も担当しております。",
+      "content": "I run a business school for executives, where I also serve as an instructor."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:08:29",
+      "origin": "経営陣から期待されているものの、チームのメンバーがなかなかこちらの思う通りに働いてくれないのですね。",
+      "content": "So while the executive team has high expectations for you, your team members don't always work the way you'd hope."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:09:02",
+      "origin": "そして、経営者相手の塾で講師もなさっていらっしゃるのですね。",
+      "content": "And you're also teaching at a school for executives."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:10:01",
+      "origin": "お話を聞いているだけでも、重責を背負っていらっしゃるように感じます。",
+      "content": "Just hearing about it, it sounds like you're carrying a heavy burden of responsibility."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:10:11",
+      "origin": "うーーーん期待されているか分かりませんが、チームメンバーも全て本業ではないので、温度差があります。塾事業の集客ですので、全て関連しております。",
+      "content": "Hmm, I’m not sure about their expectations, but the team members don’t do this as their main job, so there’s a difference in commitment. Since it’s student recruitment for the business school, everything is connected."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:10:28",
+      "origin": "同じ会社の事です",
+      "content": "It’s all within the same company."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:10:59",
+      "origin": "塾生を増やすための集客です。そこの講師をしております",
+      "content": "It’s recruitment to increase the number of students, and I teach there."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:11:47",
+      "origin": "同じ会社の中で、いろいろな事業をなさり、チームもまとめ上げ、講師もなさり、集客のためのプロモートもなさっているのですね。",
+      "content": "So within the same company, you're involved in various operations, managing a team, teaching, and also promoting to attract customers."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:12:13",
+      "origin": "事業は一つです",
+      "content": "It's just one business."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:12:19",
+      "origin": "塾事業です",
+      "content": "The business school."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:13:07",
+      "origin": "相談者様は経営陣との付き合い方に関して今どのような悩みを抱えていらっしゃるのですか？",
+      "content": "Regarding how you deal with the executive team, what specific concerns do you have right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:15:50",
+      "origin": "経営状況が余り良くない状況で、改善案を出すのですが組織なので思うようには動かないですね。今の決定権を持っている方も、業界で日本トップでありますが、この方が苦手でいつもニコニコ笑っているのですが、笑顔が嘘くさいと言うかどうしても好きになれないですよね。",
+      "content": "The company isn't doing very well financially, and I propose ideas for improvement, but since it's an organization, things don't move as I'd like. The person who has the decision-making power now is a top figure in our industry in Japan, but I find him difficult to deal with. He's always smiling, but his smile feels fake, and I just can't bring myself to like him."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:16:22",
+      "origin": "みていてイラっとすると言うか、、、笑",
+      "content": "It's irritating to watch him, you know... (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:17:45",
+      "origin": "改善案を出しても、組織なので思うように動かない。そして、決定権を持っている上司が信頼できない方なのですね。それは、働き辛そうですね。",
+      "content": "So even when you offer ideas for improvement, the organization doesn't move as you wish. And the superior with decision-making power is someone you can't trust. That must make it difficult to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:18:30",
+      "origin": "チームメンバーも温度差があって思い通りに動いてくれない",
+      "content": "And your team members have different levels of commitment and don't act as you'd like."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:19:32",
+      "origin": "それは、ストレスがたまりますね、",
+      "content": "That must be very stressful."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:19:39",
+      "origin": "そうなんですよ。ただ、決して相手が悪いとも思っていなくて、その彼は１７も年齢も上ですし、経験も多い。ただ、好きになれないんです。",
+      "content": "Exactly. But I don't necessarily think he's a bad person. He's 17 years older than me and has a lot of experience. I just can't like him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:20:11",
+      "origin": "経験はあるけれども、人間的に好きになれないんですね。",
+      "content": "So he has the experience, but you just can't like him as a person."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:20:43",
+      "origin": "チームメンバーは一生懸命やってくれます。でも、自分の思い通りにいかない事も理解はしていながらもっと動いていくと良いなと思っていると言う状態です",
+      "content": "The team members are doing their best. And while I understand that things won’t always go my way, I still wish they would be more proactive."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:21:15",
+      "origin": "＞経験はあるけれども、人間的に好きになれないんですね。そうなんです",
+      "content": "> So he has the experience, but you just can't like him as a person.\nThat's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:21:45",
+      "origin": "仕事をする上で、やはり上司との信頼関係は大前提だと私も思います。それがないと、働きづらいとおもいます。そのように感じるのはもっともなことだと思います",
+      "content": "I agree that a relationship of trust with a superior is fundamental to work. Without it, it must be difficult. It's perfectly understandable that you feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:22:49",
+      "origin": "もう何年ぐらいその方のもとでお仕事をされていらっしゃるのですか？",
+      "content": "About how many years have you been working under him?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:26:46",
+      "origin": "その方の元と言うか、上司でもないのです。特殊な会社でして、全てBtoBで最近私も、そこに参入して、最近その方もそのポジションについたと言う状況です。そこの方は全て元塾生でして、そこからジョインしている状況なんですよね。全て、同列ではありますが、ポジションがその方は全体の統括と言う立場になります。",
+      "content": "Well, it's not exactly 'under him'—he's not my boss. It's a unique company structure. It's all B2B, and I joined recently, and he also recently took on his position. Everyone there is a former student of the school who joined from there. We're all on the same level, but his position is to oversee everything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:28:11",
+      "origin": "上司ではないんですね。申し訳ありません。BtoBは何か教えて頂けませんか？",
+      "content": "So he's not your boss. I apologize. Could you explain what B2B is?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:28:25",
+      "origin": "B",
+      "content": "B"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:28:43",
+      "origin": "すみません間違いです",
+      "content": "Sorry, that was a mistake."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:29:28",
+      "origin": "その方も元塾生。今は総括をなさっているんですね。",
+      "content": "So he, too, is a former student, and now he serves as the overall coordinator."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:33:12",
+      "origin": "BtoB Business（ビジネス）　to　Business（ビジネス）会社対会社全て経営者の集まりで雇用されていないと言う事です。飲食業ですと卸業者と飲食店はBusiness（ビジネス）　to　Business（ビジネス）関係飲食店と末端のエンドユーザー（お客様）はB TO Cになります",
+      "content": "B2B is Business to Business. Company to company. It means it's a gathering of business owners, and we aren't employed in the traditional sense. In the restaurant industry, for example, the relationship between a wholesaler and a restaurant is B2B. The relationship between the restaurant and the end-user (the customer) is B2C."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:33:49",
+      "origin": "質問を答えるまで一つずつにしていただけるとありがたいです。",
+      "content": "It would be helpful if you could stick to one question at a time until I've answered."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:34:10",
+      "origin": "その方も元塾生であります",
+      "content": "He is also a former student."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:35:37",
+      "origin": "教えていただき有難うございます。そして、質問を答えるまでにメッセージを送ってしまい、大変失礼しました。その方は日本の業界トップで経験もある方。元塾生。ポジションは同列。でも、総括。という理解でよろしいですか？",
+      "content": "Thank you for explaining. And I sincerely apologize for sending another message before you had finished answering. Let me see if I understand correctly: he's a top figure in the industry in Japan and very experienced, a former student, and you're on the same level position-wise, but he serves as the overall coordinator. Is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:37:18",
+      "origin": "そうですね。その理解で大丈夫です。パワハラ等は一切ありません",
+      "content": "Yes, that’s correct. There’s no power harassment or anything like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:38:42",
+      "origin": "その方と仕事上で付き合う際、どのような問題をお感じですか？",
+      "content": "When you deal with him in a professional capacity, what kind of problems do you sense?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:39:43",
+      "origin": "何でしょうか。本心を見せないと言うか、",
+      "content": "Well... it's like he doesn't show his true feelings."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:39:55",
+      "origin": "いつも笑顔何ですが",
+      "content": "He’s always smiling, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:40:09",
+      "origin": "奥が笑っていないと言うか",
+      "content": "It’s like the smile doesn’t reach his eyes."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:40:36",
+      "origin": "なんか苦手何ですよね",
+      "content": "I just find him difficult to deal with."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:42:21",
+      "origin": "本心を見せないように感じられるんですね。いつも笑顔だけど、目が笑っていないんですね。苦手ということですが、何か相談者様を陥れるようなことなどおありだったんですか？",
+      "content": "You feel he doesn’t show his true feelings. He’s always smiling, but his eyes aren’t smiling. You find him difficult—has he ever done anything to undermine or trip you up?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:43:41",
+      "origin": "そんな事はないです",
+      "content": "No, nothing like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:43:50",
+      "origin": "悪い人でも無いです",
+      "content": "He’s not a bad person."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:44:08",
+      "origin": "逆に良い人だと思います。",
+      "content": "On the contrary, I think he’s a good person."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:44:11",
+      "origin": "かなり",
+      "content": "A very good one, in fact."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:44:51",
+      "origin": "只、本当の部分が見えてしまうので嫌悪感を持ってしまっています",
+      "content": "It's just that I can see his true self, and it gives me a sense of aversion."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:45:09",
+      "origin": "表情や仕草、エネルギーで",
+      "content": "From his expressions, gestures, and energy."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:45:46",
+      "origin": "悪い人でもなく、逆に良い人。でも、相談者様にはその人の本当の部分が見えてしまうので、嫌悪感を持って終われるのですね。",
+      "content": "So he's not a bad person—in fact, he's a good one. But because you can see his true self, you end up feeling an aversion to him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:46:08",
+      "origin": "しまわれる　です。",
+      "content": "I meant, \"you end up feeling...\""
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:46:26",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:47:34",
+      "origin": "今までお話を聞いていて、相談者様はとても真っ直ぐに正しいことを進まれる方だと感じました。",
+      "content": "From what I’ve heard so far, you strike me as someone who pursues what’s right in a very straightforward way."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:47:47",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:48:22",
+      "origin": "そして、その方は、相談者様とは正反対の方なのかなあとも感じました。",
+      "content": "And I also sensed that he is perhaps the complete opposite of you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:48:36",
+      "origin": "なるほど、と言いますと",
+      "content": "I see. What do you mean by that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:49:37",
+      "origin": "真っ直ぐではなく、やはり、どこか裏があって、それが表情や仕草に現れてしまう。",
+      "content": "Instead of being straightforward, he seems to have a hidden side, and it shows in his expressions and gestures."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:50:24",
+      "origin": "ただ、真っ直ぐばかりが良いと",
+      "content": "But, being straightforward isn't always..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:51:01",
+      "origin": "は限らないので、その方とも上手くやっては行きたいんですよね",
+      "content": "...the best way, so I do want to get along well with him."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:51:20",
+      "origin": "それも、練習かなと思っております",
+      "content": "I think of it as a kind of practice."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:52:28",
+      "origin": "そうなのですね。裏に何か持っているように見える方とも上手くやっていきたい。それには練習が必要とお感じなんですね",
+      "content": "I see. You want to work well even with someone who seems to have something under the surface, and you feel that requires practice."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:53:27",
+      "origin": "裏に何か持っているというか、清濁合わせのむと言う観点で裏に何か持っていても良いのです。それは、人間全てそうなので",
+      "content": "It's not so much that he has a hidden side... from the perspective of accepting the good with the bad, it's fine to have a hidden side. Everyone is like that."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:53:35",
+      "origin": "只、自分の",
+      "content": "It's just that my own..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:54:20",
+      "origin": "何にイラっときているのか、",
+      "content": "...what is it that's irritating me..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:54:32",
+      "origin": "自分はです",
+      "content": "I mean, about myself."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:55:27",
+      "origin": "ヘラヘラしてみんなを取り込む姿勢が、何かイラっと来るんですよね",
+      "content": "It’s his breezy, ingratiating way of grinning to try and win everyone over that irritates me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:55:55",
+      "origin": "ヘラヘラしてみんなを取り込む姿勢にイラッとくるんですね。",
+      "content": "So it's his breezy, ingratiating way of trying to win everyone over that irritates you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:56:42",
+      "origin": "そうなんですよね",
+      "content": "Exactly."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:57:20",
+      "origin": "いや、その逆の部分を見るからそこがイラつきポイントになるんですよね",
+      "content": "No, it’s because I can see the opposite side of that, that it becomes an irritation point."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:57:37",
+      "origin": "何か難しい相談ですよねw",
+      "content": "This is kind of a difficult problem to talk about, isn't it? haha"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:57:43",
+      "origin": "逆の部分を申しますと？",
+      "content": "When you say \"the opposite side,\" what do you mean?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:58:01",
+      "origin": "逆の部分と申しますと？",
+      "content": "When you say \"the opposite side,\" what do you mean?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:58:22",
+      "origin": "笑っていない奥の顔態度を変える所",
+      "content": "The unsmiling face behind the smile, and the way he changes his attitude."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:58:35",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:58:55",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T17:59:39",
+      "origin": "お話を伺っていて、相談者様はとても正義感があり、ストレートに物事に対処される真摯なお方だと感じました、",
+      "content": "Listening to you, I get the impression that you have a strong sense of justice and are a sincere person who deals with things in a straightforward manner."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T17:59:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:00:22",
+      "origin": "それは素晴らしいことだと思います。そして、多くの方が相談者様のことを信頼されていらっしゃると思います、",
+      "content": "I think that's a wonderful quality. And I believe many people trust you for it."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:00:55",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:02:06",
+      "origin": "その方とは、結果を出すための物事の対処の仕方が異なると思います。相談者様の美学では許せない方法をその方は取られていらっしゃると思います、。",
+      "content": "I think you and he differ in how you go about getting results. He probably uses methods that don't align with your personal code."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:02:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:02:28",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:02:52",
+      "origin": "相談者様はもうご自身の中に解決策をお持ちなのではと感じています。",
+      "content": "I have a sense that you may already have the solution within yourself."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:03:06",
+      "origin": "いや、そんな事はないんですよね",
+      "content": "No, I don’t think that’s the case."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:04:41",
+      "origin": "相談者様の潔い生き方はとても素敵です。仕事をするなら、相談者様のような方と仕事をしたいという方は大勢いらっしゃると思います、",
+      "content": "Your principled way of living is very admirable. I'm sure there are many people who would want to work with someone like you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:05:28",
+      "origin": "そうですか、、、どの辺がそのように感じられたのでしょうかw自分の事なので良くわからないですが",
+      "content": "You think so...? What part made you feel that way? haha. It's hard to see that in myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:05:41",
+      "origin": "信頼できます",
+      "content": "You are trustworthy."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:06:01",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:06:47",
+      "origin": "もっとお話を聞かせていただきたいのですが、本日はそろそろ時間が迫ってきてしまいました。",
+      "content": "I would like to hear more, but our time for today is almost up."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:07:08",
+      "origin": "はい、お話聞いてくださりありがとうございました",
+      "content": "Yes, thank you for listening to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:07:48",
+      "origin": "もしまたお越しいただけるようであれば、今度は相談者様のお仕事の進め方や、価値観などをもっと教えていただきたいと思います。",
+      "content": "If you'd like to come again, I would be interested in hearing more about your approach to work and your values."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:08:53",
+      "origin": "ありがとうございました。正直解決はしていないのですが、スッキリいたしました。答えを焦らず寄り添っていただきありがとうございます。",
+      "content": "Thank you. To be honest, nothing is resolved, but I feel much clearer. Thank you for staying with me without rushing for an answer."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:10:16",
+      "origin": "今日は時間となってしまいました。ほんの少しでもスッキリして頂けたなら有難く存じます。では、本日はここで終了させていただいきます。どうも有難うございました。",
+      "content": "We've run out of time for today. I'm very glad if you feel even a little better. We will end our session here for today. Thank you very much."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:10:29",
+      "origin": "ありがとうございました",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-30T18:10:42",
+      "origin": "時間をオーバーして申し訳ありません",
+      "content": "I'm sorry for going over time."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-30T18:11:04",
+      "origin": "とんでもありません",
+      "content": "Not at all."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "経営陣とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5361,
+    "evaluation_created_at": "2023-06-30T18:19:00",
+    "client_id": 387,
+    "counselor_id": 397,
+    "score": 82,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

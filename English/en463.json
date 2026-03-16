@@ -1,0 +1,933 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:55:38",
+      "origin": "(おはようございます。本日よろしくお願いいたします。）",
+      "content": "(Good morning. I look forward to working with you today.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:56:21",
+      "origin": "(おはようございます。こちらこそよろしくお願いいたします。)",
+      "content": "(Good morning. Likewise, I look forward to it.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T10:59:13",
+      "origin": "希望のクライエント像などはありますか？",
+      "content": "Do you have any preferences for the kind of client role?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T10:59:49",
+      "origin": "ありがとうございます。お任せいたします。",
+      "content": "Thank you. I'll leave it up to you."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:00:02",
+      "origin": "わかりました。",
+      "content": "Understood."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:00:33",
+      "origin": "こんにちは、相談員です。今日は、相談に来てくれて、ありがとうございます。",
+      "content": "Hello, I'm the counselor. Thank you for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:00:49",
+      "origin": "こんにちは。",
+      "content": "Hello."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:01:09",
+      "origin": "よろしくお願いします。",
+      "content": "Thank you for seeing me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:01:17",
+      "origin": "本日は、どのようなご相談ですか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:01:50",
+      "origin": "最近妻と上手くいってない感じがして……",
+      "content": "Lately, I feel like things aren't going well with my wife..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:01:55",
+      "origin": "それで悩んでいます。",
+      "content": "It's been weighing on me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:02:18",
+      "origin": "そうだったんですね、それは悩んでしまいますよね、",
+      "content": "I see. That must be very worrying for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:02:34",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:02:43",
+      "origin": "なんか家にいるより、仕事してる方が楽しくて",
+      "content": "Somehow, I find being at work more enjoyable than being at home."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:03:06",
+      "origin": "そうなんですね、それは考えてしまいますよね、",
+      "content": "I see. That would certainly give you a lot to think about."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:03:27",
+      "origin": "特別お互いに嫌っているという訳ではないと思うのですが",
+      "content": "I don't think it's that we particularly dislike each other, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:03:52",
+      "origin": "なんかこうお互い仕事で疲れていて、一緒に住んでいる意義を感じられないんです。",
+      "content": "It's just that we're both so tired from work, I can't seem to find the meaning in us living together."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:04:50",
+      "origin": "そうだったんですね、疲れてしまうと相手を思いやる余裕を忘れてしまいますよね、",
+      "content": "I see. When you get exhausted, it's easy to lose the capacity to be considerate of each other, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:05:02",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:06:22",
+      "origin": "そうですよね、奥さんとは、仲良くやっていきたいですよね、",
+      "content": "Right. You want to have a good relationship with your wife, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:06:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:06:42",
+      "origin": "でも仲悪い感じはしないんです",
+      "content": "But it doesn't feel like we're on bad terms."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:06:57",
+      "origin": "一緒にお風呂入ってコミュニケーションはとってますし",
+      "content": "We take baths together and communicate,"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:07:10",
+      "origin": "晩ご飯は一緒に食べてますし",
+      "content": "and we have dinner together."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:07:25",
+      "origin": "ただ、お互い疲れて家事が出来なくて………",
+      "content": "It's just that we're both too tired to do the housework..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:07:37",
+      "origin": "それでストレスが溜まります。",
+      "content": "And that builds up stress."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:08:05",
+      "origin": "向こうはどうか分かりませんが。私は畳まれてない洗濯物の山を見るのがストレスです。",
+      "content": "I don't know how she feels, but for me, seeing piles of unfolded laundry is stressful."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:08:50",
+      "origin": "そうだったんですね、一緒に行動することが多いけれども、疲れてストレスもたまり、一緒にいる意味が分からなくなってしまう感じなんでしょうか？",
+      "content": "I see. So even though you do a lot of things together, the fatigue and stress build up, and you start to lose sight of the meaning of being together. Is that how it feels?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:09:13",
+      "origin": "そんな感じです。",
+      "content": "That's how it feels."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:09:24",
+      "origin": "もうしばらく夜の営みも全くないですし",
+      "content": "And we haven't been intimate for a while now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:10:26",
+      "origin": "そうなんですね、夜は疲れてしまいますからね",
+      "content": "I see. It's easy to be tired at night, after all."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:10:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:10:57",
+      "origin": "仕事行って帰ってきてお話して寝るの繰り返しです。",
+      "content": "It's a cycle of going to work, coming home, talking a little, and going to sleep."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:11:18",
+      "origin": "そうなんですね、それは、お辛いですね。",
+      "content": "I see, that must be difficult for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:11:48",
+      "origin": "辛いというか、つまらないという感じですね。",
+      "content": "It's less that it's difficult and more that it's... dull."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:12:11",
+      "origin": "職場で他の女性の方と話してる方が楽しいと感じてしまいます。",
+      "content": "I find myself feeling that it's more enjoyable to talk with other women at work."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:13:07",
+      "origin": "このまま結婚生活を続けていくべきなのか悩んでしまいます。",
+      "content": "It makes me wonder if we should continue this marriage as it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:13:44",
+      "origin": "そうだったんですね、、、そこまで、悩んでしまっているのですね。",
+      "content": "I see... So it's been troubling you to that extent."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:13:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:14:53",
+      "origin": "特別お互いが嫌いな訳でもないんですが、一緒にいる意味を感じられないんです。",
+      "content": "It's not that we particularly dislike each other, but I can't find any meaning in being together."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:16:24",
+      "origin": "そうなんですね、今日はこれから、奥さんと一緒にいる意味を、私と一緒に考えていく感じで、よろしいですか？",
+      "content": "I understand. How about for today, we explore together the meaning of being with your wife? Would that be alright?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:17:09",
+      "origin": "そうですね。そんな感じでお願いします。",
+      "content": "Yes, that sounds good. Please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:18:15",
+      "origin": "はい、ありがとうございます。では、",
+      "content": "Okay, thank you. Well then,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:20:27",
+      "origin": "あなたが考える奥さんとの理想の関係とかは、あったりしますか？",
+      "content": "Do you have an idea of what an ideal relationship with your wife would look like?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:20:49",
+      "origin": "理想の関係ですか",
+      "content": "An ideal relationship?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:21:57",
+      "origin": "個人的には夫と妻どちらかとか関係なくてもいいのですが、家事をやれる時間がある関係なくであってほしいです。",
+      "content": "Personally, it doesn't matter to me who does what, husband or wife, but I want us to have a relationship where there's time to get the housework done."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:22:36",
+      "origin": "関係なくであって❌関係であって〇",
+      "content": "Correction: not 'a relationship regardless of,' but 'a relationship where...'"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:22:57",
+      "origin": "どちらも家事やれないのが嫌ですね。",
+      "content": "I don't like it when neither of us can manage the housework."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:23:25",
+      "origin": "そうだったんですね、家事はきりがないですからね。",
+      "content": "I see. Housework is endless, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:23:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:24:12",
+      "origin": "以前私が病気で休職した期間が3ヶ月程あったのですが、その時が1番夫婦関係が良かった気がします。",
+      "content": "There was a period of about three months when I was on sick leave from work, and I feel like our marital relationship was at its best then."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:24:48",
+      "origin": "金銭的には苦しかったですが、私が家事をして妻が働くという構図が楽でした。",
+      "content": "Financially, it was tough, but the arrangement where I did the housework and my wife worked was comfortable."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:25:37",
+      "origin": "そうだったんですね、そのようなことがあったのですね、",
+      "content": "I see, so you went through that experience."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:26:12",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:26:30",
+      "origin": "今は復帰して働いているのですが、",
+      "content": "I'm back at work now, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:26:51",
+      "origin": "病気で倒れた時も夫婦関係で悩んでました。",
+      "content": "I was struggling with our marital relationship even back when I collapsed from my illness."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:28:55",
+      "origin": "そうだったんですね、家事は楽になったと感じていたけれども、夫婦関係については悩みは続いていたのですね、",
+      "content": "I see. So even though you felt the housework situation had become easier, the worries about your marital relationship continued."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:29:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:30:14",
+      "origin": "今は、復帰されているとのことですが、お体は大丈夫ですか？",
+      "content": "You mentioned you're back at work now; how is your health?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:30:15",
+      "origin": "倒れる前も家事が云々で悩んでて、そしたら病気になったという感じです。",
+      "content": "Before I collapsed, I was already stressing about housework and all that, and then it felt like that led to me getting sick."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:30:30",
+      "origin": "今も病気は治ってません(パニック障害なのですが)",
+      "content": "The illness isn't cured even now (it's a panic disorder)."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:30:44",
+      "origin": "薬飲んで生活していれば落ち着いています。",
+      "content": "As long as I'm taking my medication, it's stable."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:30:55",
+      "origin": "そうだったんですね、それはお辛いですね、",
+      "content": "I see, that must be very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:31:12",
+      "origin": "はい…",
+      "content": "Yes..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:31:31",
+      "origin": "パニック障害の原因は全く分からないので、妻のせいにしたくはないですが",
+      "content": "I have no idea what caused the panic disorder, so I don't want to blame my wife, but..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:31:42",
+      "origin": "医者にはストレスが原因と言われ",
+      "content": "the doctor told me it was caused by stress,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:32:06",
+      "origin": "そうだったんですね、原因を考えてしまいますよね、",
+      "content": "I see. It's natural to wonder about the cause, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:32:08",
+      "origin": "仕事は楽しめているので",
+      "content": "Because I do enjoy my work..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:32:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:32:44",
+      "origin": "どちらかが仕事をやめたり、時短勤務にすればいいのかなと思うのですが",
+      "content": "I wonder if it would be better if one of us quit our job or switched to reduced hours,"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:33:06",
+      "origin": "お互い仕事が好きなので",
+      "content": "but we both love our work."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:33:18",
+      "origin": "そうでしたか、仕事面では、充実しているのですね、",
+      "content": "I see, so in terms of work, you both feel fulfilled."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:33:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:34:04",
+      "origin": "お互いに仕事が好きと認め合えている関係を私は、いいと思います。",
+      "content": "I think it's a good thing that you're in a relationship where you can both acknowledge your love for your work."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:34:15",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:34:52",
+      "origin": "お互い資格とりたい。自分を高めたい。そんな感じです。",
+      "content": "We both want to get certifications. We want to improve ourselves. It's that kind of feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:35:21",
+      "origin": "そうだったんですね、前向きにいろいろ考えているのですね。",
+      "content": "I see, so you're both thinking about things in a very forward-looking way."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:35:22",
+      "origin": "私が仕事頑張っているから、妻も頑張る。私が資格取得目指してるから、妻も資格増やそうとする。",
+      "content": "Because I'm working hard, my wife works hard too. Because I'm aiming to get a certification, she tries to get more certifications as well."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:35:54",
+      "origin": "妻が頑張っているから私も…とお互いに高めあっているような感じです。",
+      "content": "And because she's working hard, I do too... It feels like we're motivating each other to improve."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:35:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:36:17",
+      "origin": "でもこれって夫婦関係である必要があるのかな？とも思ってしまうのです。",
+      "content": "But then, I can't help but wonder if this really needs to be a marital relationship."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:36:44",
+      "origin": "そうなんですね、お互いに高め合う関係があると思うのですが、それでも一緒にいる意味を感じることができない感じなんですね、",
+      "content": "I see. So even though you have a relationship where you motivate each other, you still feel you can't find the meaning in being together."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:36:53",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:37:01",
+      "origin": "どうなったら、いいと思いますか？",
+      "content": "What do you think would make things better?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:37:12",
+      "origin": "んー………",
+      "content": "Hmm..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:37:38",
+      "origin": "今、精神的には、お互いに高め合うことができていて、、、",
+      "content": "Right now, mentally, you're able to motivate each other..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:37:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:38:15",
+      "origin": "肉体的には、夜の営みがないとのことですが、そのあたりは、どうですか？",
+      "content": "Physically, you mentioned a lack of intimacy. How do you feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:38:43",
+      "origin": "それに関してはとても寂しく感じてます。",
+      "content": "Regarding that, I feel very lonely."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:39:34",
+      "origin": "そうなんですね、一緒に楽しい時を共有したいですよね、",
+      "content": "I see. You want to be able to share enjoyable moments together, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:39:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:40:24",
+      "origin": "なんかお互いを高め合うライバル的な存在であれば、夫婦出なくても良くないか？と思ってしまうのです。",
+      "content": "I just find myself thinking, if we're just like rivals who motivate each other, then we don't really need to be married, do we?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:41:34",
+      "origin": "そうなんですね、そんな関係もあると思うのでね、",
+      "content": "I see. That kind of relationship can certainly exist."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:42:00",
+      "origin": "奥さんとは、どうしたいとかありますか？",
+      "content": "What would you like to do regarding your relationship with your wife?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:43:04",
+      "origin": "特別別れたいとかはないですが",
+      "content": "It's not that I particularly want a divorce,"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:43:33",
+      "origin": "夫婦である以上、もっと家庭を上手くやりくり出来たらいいと思ってます。",
+      "content": "but as long as we're married, I wish we could manage our home life better."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:44:11",
+      "origin": "そうなんですね、一緒にいるなら、家事をうまくやりくりしたいと思いますよね",
+      "content": "I see. If you're going to be together, you'd want to manage the housework well, wouldn't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:44:19",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:44:31",
+      "origin": "奥さんとは、そのあたりの話をされたことはありますか？",
+      "content": "Have you talked with your wife about that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:44:37",
+      "origin": "あります",
+      "content": "Yes, we have."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:44:51",
+      "origin": "お互い働いてて疲れるからね………",
+      "content": "The conversation ends with, \"It's because we're both working and tired...\""
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:44:52",
+      "origin": "と",
+      "content": "That's what we say."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:46:05",
+      "origin": "そうでしたか、、疲れてしまわない方法を探したりとかは？",
+      "content": "I see... Have you tried looking for ways to avoid getting so tired?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:46:48",
+      "origin": "ご飯作り置きしておくとかは考えました。",
+      "content": "We considered things like meal prepping."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:47:11",
+      "origin": "でも長続きはしなかったですね…",
+      "content": "But it didn't last long..."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:47:37",
+      "origin": "冷凍しておくとあんまり美味しくなくて(笑)",
+      "content": "It doesn't taste very good when it's frozen (laughs)."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:47:58",
+      "origin": "そうだったんですね、いろいろやっているのですね、",
+      "content": "I see, so you have been trying various things."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:48:24",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:48:36",
+      "origin": "その時に、努力したことをお互い認めて、",
+      "content": "At those times, did you acknowledge each other's efforts,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:48:50",
+      "origin": "感謝したりは、できましたか？",
+      "content": "and were you able to express gratitude?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:49:05",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:49:38",
+      "origin": "そうだったんですね、お話をされて考えられているのですね。",
+      "content": "I see. So you do talk and think about these things."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:49:44",
+      "origin": "夜洗濯して浴室乾燥で乾かしてるのですが、それを干したりとかもありがとうとはお互い言ってます",
+      "content": "We do laundry at night and use the bathroom's dryer function, and we do say 'thank you' to each other for things like hanging it up."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:49:48",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:50:51",
+      "origin": "そうなんですね、感謝の言葉がお互いに出たり、助け合って家事を分担されたり、できているけれども、",
+      "content": "I see. So you're able to express gratitude to each other, help each other out, and share the housework,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:51:26",
+      "origin": "それは夫婦でなくても、、、と考えることがあるのですね、",
+      "content": "and yet you still sometimes think that it doesn't have to be a marital relationship for that to happen."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:51:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:53:33",
+      "origin": "そうなんですね、別れたいとかはないとのことなので、自分の所は、これが私たち夫婦の関係と考えることなんて、できたりしますか？",
+      "content": "I see. You mentioned you don't want to separate, so would it be possible to think of it as, \"This is simply the form our marriage takes\"?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T11:54:54",
+      "origin": "お互いに忙しいけど、高めあえる関係が私たち夫婦ということですか？",
+      "content": "You mean, that our marriage is a relationship where we're both busy but can motivate each other to improve?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:56:10",
+      "origin": "そうですね、それぞれに、仕事を充実させるために、高め合える関係があり、",
+      "content": "That's right. You have a relationship where you can motivate each other to make your work more fulfilling,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:57:16",
+      "origin": "ただ、家事の面はその分、時間を割くことができないから、話し合いをしながら協力し、",
+      "content": "but because of that, you can't devote as much time to housework, so you cooperate by discussing things,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T11:57:54",
+      "origin": "互いに感謝の言葉を口にしながら、互いを認め合っている感じに思えるのですが、、",
+      "content": "and it seems to me that you acknowledge each other by expressing your gratitude."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:00:10",
+      "origin": "いかがですか？",
+      "content": "How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:01:21",
+      "origin": "そうですね。お互いに認めあってはいるとは思います。家事は協力し合って何とかして行こうかなと思います。",
+      "content": "That's true. I do think we acknowledge each other. I think we'll try to manage the housework somehow by cooperating."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:02:44",
+      "origin": "そうですよね、でも、家事が大変だと、つい細かいところに目がいき、もしかしたらストレスをためることがあるかもしれませんね、",
+      "content": "Right. But when housework becomes overwhelming, it's easy to focus on the small details, which might in turn lead to stress building up."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:02:52",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:04:31",
+      "origin": "そんな時は、まず、相手の状況を思い浮かべて、疲れているから、家事は、後にしようなど、相手を思いやるために、まずご自分で深呼吸をしてみるのは、いかがでしょうか？",
+      "content": "At times like that, in order to be more considerate of your partner, how about first taking a deep breath yourself? Try to picture her situation, thinking, 'She must be tired, let's leave the chores for later.'"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:04:57",
+      "origin": "最悪、家事のお手伝いさん雇うとか考えてみようと思います。",
+      "content": "As a last resort, I think I'll consider hiring a housekeeper."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:04:58",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:06:06",
+      "origin": "そうですよね、お手伝いさんもいいですよね、そして、家事は、本当にきりがないので、今やらなくて良いことがあったら、それは後回しと考えるのは、どうでしょうか？",
+      "content": "That's true, hiring help is a good idea, too. And since housework is truly endless, if there's something that doesn't need to be done right now, how about deciding to postpone it?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:06:38",
+      "origin": "そうですね、休みの日とかにまとめてやるようにしてみます。",
+      "content": "Right. I'll try to do it all together on my days off."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:07:19",
+      "origin": "そうですね、無理をしないで、できそうなことから取り組んでみてくださいね、そうしながら、家事の余裕を作ると、奥さんと、もっと話ができ、",
+      "content": "Yes, please don't overdo it; just try to tackle what seems doable. As you do that and create a little more leeway with the housework, you might be able to talk more with your wife,"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:07:59",
+      "origin": "思っているを互いに伝え合うことができたりするかしら？",
+      "content": "and perhaps you'll be able to share your thoughts with each other?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:08:13",
+      "origin": "いかがでしょうか？",
+      "content": "What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:08:28",
+      "origin": "やってみます。",
+      "content": "I'll give it a try."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:08:44",
+      "origin": "ありがとうございました。少しやることが見えてきました。",
+      "content": "Thank you. I think I can see what I need to do now."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:09:49",
+      "origin": "そうでしたか、こちらこそ、ありがとうございました。無理をしないで、少しずつ行動することで、奥さんと暮らすことの意義を感じられたらいいですね。",
+      "content": "I'm glad to hear that. Thank you as well. By taking small steps without overdoing it, I hope you'll be able to feel the meaning of living with your wife."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:09:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:10:43",
+      "origin": "今日のご相談は以上で、終わらせていただきますが、よろしいですか？",
+      "content": "Shall we conclude our session for today? Is that alright?"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:11:02",
+      "origin": "はい。大丈夫です。",
+      "content": "Yes, that's fine."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:11:05",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:11:58",
+      "origin": "お二人の関係が、よりよくなることを心より、お祈りいたしますね。今日は、相談に来て下さり、ありがとうございました。お体に気を付けて、お過ごしください。",
+      "content": "I sincerely hope that your relationship improves. Thank you for coming in today. Please take care of yourself."
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:13:08",
+      "origin": "(ありがとうございました。)",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:13:29",
+      "origin": "（こちらこそ、ありがとうございました。）",
+      "content": "(Thank you as well.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:13:55",
+      "origin": "(また機会があったらよろしくお願いします┏●)",
+      "content": "(I look forward to seeing you again if the opportunity arises.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:14:14",
+      "origin": "（こちらこそです。）",
+      "content": "(Likewise.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:15:39",
+      "origin": "（それでは、終了ボタンを押させていただきますね）",
+      "content": "(Alright then, I will press the end button now.)"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-25T12:15:52",
+      "origin": "(お願いします)",
+      "content": "(Please do.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-25T12:16:06",
+      "origin": "（承知しました）",
+      "content": "(Understood.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫婦間のコミュニケーションと家事の分担問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 463,
+    "evaluation_created_at": "2020-09-25T15:52:00",
+    "client_id": 47,
+    "counselor_id": 66,
+    "score": 71,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

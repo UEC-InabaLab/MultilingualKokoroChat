@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-14T11:55:18",
+      "origin": "こんにちは、キャンディーさん。本日はどうぞよろしくお願いいたします。キャンディーさんのご準備ができましたら、お知らせください。",
+      "content": "Hello, Ms. Candy. Thank you for being here today. Please let me know when you are ready to begin."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T11:57:57",
+      "origin": "こんにちは、本日は宜しくお願い致します。準備できましたのでお願いします。",
+      "content": "Hello, thank you for having me. I'm ready, so please go ahead."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T11:59:12",
+      "origin": "ありがとうございます。今から始めますか？それとも12：００ちょうどに始めますか？",
+      "content": "Thank you. Shall we start now, or would you prefer to begin exactly at 12:00?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T11:59:28",
+      "origin": "今からで大丈夫です(^^)",
+      "content": "Starting now is fine. (^^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T11:59:46",
+      "origin": "ありがとうございます。始めさせていただきます",
+      "content": "Thank you. I’ll go ahead and begin."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T11:59:52",
+      "origin": "宜しくお願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:00:20",
+      "origin": "こんにちは。相談員です。本日はどのようなご相談ですか？",
+      "content": "Hello. I'm your counselor. What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:00:50",
+      "origin": "夫と最近上手くいかず悩んでいます",
+      "content": "I'm having trouble getting along with my husband recently, and it's been weighing on me."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:01:31",
+      "origin": "そうなんですね。それは悩ましいですね。",
+      "content": "I see. That must be distressing."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:01:41",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:02:15",
+      "origin": "お差し支えなければ、あなたの年齢と、あなたを何とお呼びしたらよいか教えていただけますか？",
+      "content": "If you don't mind, could you please tell me your age and how you would like me to address you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:02:58",
+      "origin": "はい。45歳。はなで、お願いします。",
+      "content": "Yes. I'm 45. Please call me Hana."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:03:19",
+      "origin": "ありがとうございます。はなさんですね。",
+      "content": "Thank you, Hana."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:04:10",
+      "origin": "ご主人と上手くいかないということですが、もう少し具体的に教えていただけますか？",
+      "content": "You mentioned you're not getting along with your husband. Could you tell me a little more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:04:58",
+      "origin": "はい、子どもの教育のことや育て方で最近喧嘩ばかりで、疲れてしまいました。",
+      "content": "Yes, we’ve been arguing constantly lately about our children’s education and parenting, and I’m exhausted."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:05:45",
+      "origin": "そうなんですね。それはしんどいですよね。",
+      "content": "I see. That sounds very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:06:09",
+      "origin": "はい、毎日喧嘩でしんどいです。",
+      "content": "Yes, the daily arguments are really draining."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:06:50",
+      "origin": "毎日とは・・それはお辛いですね。",
+      "content": "Every day... that must be very painful for you."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:07:08",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:08:27",
+      "origin": "子どもさんの教育や育て方で、ご主人とけんかになってしまうのは、具体的にはどのようなことなんでしょうか？",
+      "content": "What specific aspects of your children's education and upbringing are causing these fights with your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:09:25",
+      "origin": "私は子どもにとって生きやすい環境がいいと思っていますが、",
+      "content": "I believe the best thing is an environment in which our children can live comfortably, but—"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:09:37",
+      "origin": "ええ。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:09:53",
+      "origin": "夫はみんなと一緒の環境がいいと、地元の学校を好んでいます。",
+      "content": "My husband thinks it’s better for them to be in the same environment as everyone else and prefers the local school."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:10:06",
+      "origin": "私は地元のフリースクールに息子を通わせてたいのですが、、、",
+      "content": "I’d like to send my son to a local free school, though..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:10:48",
+      "origin": "ちなみに長男は発達障害があります。",
+      "content": "By the way, our eldest son has a developmental disorder."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:11:26",
+      "origin": "そうなんですね。子どもさんというのはご長男のことなのですか？",
+      "content": "I see. When you say “your son,” are you referring to your eldest son?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:12:07",
+      "origin": "下の子もとても繊細な子なので、二人ともフリースクールに行かせたいと思っています。、",
+      "content": "Our younger child is also very sensitive, so I’d like to send both of them to a free school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:13:36",
+      "origin": "そうなんですね。ご主人は、フリースクールに。はなさんは、どのようにお考えなのですか？",
+      "content": "I see. Your husband, regarding the free school... And what are your thoughts, Hana?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:14:38",
+      "origin": "そこのフリースクールは、子どもの個性を大切にした教育をしています。だから一律で子どものことを、点数化しないところが私は気に入っています。",
+      "content": "That free school values each child’s individuality. I like that they don’t quantify children uniformly with scores."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:15:21",
+      "origin": "夫は、皆んなと同じでない学校に行くことと、2人の授業料も気にしています。",
+      "content": "My husband is concerned about them attending a school that isn’t the same as everyone else’s, and he’s also worried about the tuition for two children."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:18:15",
+      "origin": "すみません。はなさんも、フリースクールには賛成なのですね。通わせたいフリースクールが、ご主人と違うという事でよろしいですか？",
+      "content": "My apologies. So you are also in favor of the free school. Is it correct to say that you and your husband disagree on which free school to send them to?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:19:18",
+      "origin": "私はフリースクールに通わせたいと思っていて、夫はフリースクールに反対で、地元の公立の学校に通わせたいと思っています。",
+      "content": "I want to send them to a free school, but my husband is against it and wants them to attend the local public school."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:20:13",
+      "origin": "なるほどですね。分かりました。そうなんですね。",
+      "content": "I see. Understood. I appreciate the clarification."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:21:14",
+      "origin": "ご夫婦でケンカになってしまう一番の原因は、そのことだけですか？",
+      "content": "Is that the main reason for the arguments between you and your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:21:48",
+      "origin": "はい、メインはそのことです。",
+      "content": "Yes, that’s the main issue."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:22:24",
+      "origin": "もともと、私はすごい教育家庭で育ち、それがしんどいので子ども達には自由に伸び伸び育ってほしいと思っていますが、",
+      "content": "I grew up in a very education-focused household, and that was hard for me, so I want my children to grow up freely and at their own pace, but—"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:23:11",
+      "origin": "夫はそこまで押し付けられて育ってないので、わざわざフリースクールまで行かなくても、子どもなら適当に自分の好きなように馴染んで育つだろうと",
+      "content": "My husband wasn’t pushed that hard growing up, so he seems to think there’s no need to go out of our way for a free school—that kids will just adapt and grow as they like."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:23:21",
+      "origin": "いう考え方みたいで、よくぶつかります。",
+      "content": "That seems to be his way of thinking, and we often clash over it."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:23:30",
+      "origin": "価値観の違いですかね、、",
+      "content": "Maybe it’s a difference in values..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:24:38",
+      "origin": "なるほどですね。価値観の違い。そうかもしれませんが・・",
+      "content": "I see. A difference in values—that may be part of it, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:25:21",
+      "origin": "ご主人は、ご長男の発達障害について、どのようにお考えなのでしょうか？",
+      "content": "How does your husband view your eldest son’s developmental disorder?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:25:59",
+      "origin": "あまり気にしていないようです。",
+      "content": "He doesn’t seem too concerned about it."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:26:40",
+      "origin": "本人が周囲との関係に困ってる感じがないので、（気づいてないだけかもしれないですが）",
+      "content": "Since our son doesn’t seem to be struggling in his relationships with others—though it might just be that he hasn’t noticed—"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:26:55",
+      "origin": "夫は親が気にし過ぎるのは良くないと話します",
+      "content": "my husband says it’s not good for parents to worry too much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:27:20",
+      "origin": "そうなんですね。モヤモヤしますね。気にして欲しいですよね。",
+      "content": "I understand. That leaves you feeling unsettled—you want him to take it more seriously, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:27:42",
+      "origin": "はい、本当にもっと真剣に考えてほしいです。",
+      "content": "Yes, I really wish he would think about it more seriously."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:27:59",
+      "origin": "夫はなんでも楽観的で、どーにかなると思ってます。",
+      "content": "My husband is optimistic about everything and thinks it will all somehow work out."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:28:05",
+      "origin": "それにもイライラします",
+      "content": "That frustrates me too."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:29:13",
+      "origin": "それは困ってしまいますよね。はなさんは、どーにかなると思えないから、相談しているんですよね。",
+      "content": "That must be difficult. You're seeking counseling because you don't feel that things will just work themselves out, right?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:29:28",
+      "origin": "はい、そうなんです！",
+      "content": "Yes, exactly!"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:30:03",
+      "origin": "毎日子どもを見てるから私は色々思うのですが、夫は仕事であまり家にいないので、よく分かってないんです。",
+      "content": "I’m with the kids every day, so I notice a lot, but my husband isn’t home much because of work and doesn’t really understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:30:33",
+      "origin": "そうですよね。そうだと思います。そのことをこれまで誰かに相談されたことはありますか？",
+      "content": "I can see that. I'm sure that's the case. Have you spoken to anyone else about this before?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:31:10",
+      "origin": "友達にはよく愚痴を言っています。",
+      "content": "I often vent to my friends about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:31:38",
+      "origin": "そうなんですね。お友達は何と言われますか？",
+      "content": "I see. What do your friends say?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:32:04",
+      "origin": "特に何も言わず聞いてくれています。",
+      "content": "They mostly just listen without saying much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:32:53",
+      "origin": "そうなんですね。はなさん、ご長男の年齢を教えていただけますか？",
+      "content": "I see. Hana, could you tell me your eldest son's age?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:33:11",
+      "origin": "はい、11歳です",
+      "content": "Yes, he’s 11."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:33:24",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:34:04",
+      "origin": "小学校の先生には、ご相談されましたか？",
+      "content": "Have you consulted with his elementary school teacher?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:34:50",
+      "origin": "はい、何度か相談はしています。",
+      "content": "Yes, I've spoken with them a few times."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:35:12",
+      "origin": "先生は、何とおっしゃいましたか？",
+      "content": "What did the teacher say?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:35:13",
+      "origin": "先生も息子にとって何がいいのかを悩んでくれています。",
+      "content": "The teacher is also concerned about what would be best for my son."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:35:57",
+      "origin": "そうなんですね。どのようなアドバイスがありましたか？",
+      "content": "I see. What kind of advice did they give?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:37:00",
+      "origin": "息子は今は大丈夫そうですが、この先中学になると点数評価や、各教科で先生が変わることに理解がないことを心配してくれています。",
+      "content": "They said my son seems to be doing okay for now, but they're worried that when he gets to middle school, he won't understand the grade-based evaluations or having different teachers for each subject."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:37:20",
+      "origin": "フリースクールは中学入学時に考えたらどうかと話していました",
+      "content": "They suggested that we could consider the free school when he enters middle school."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:38:14",
+      "origin": "ただ私は早くから息子の個性に沿った関わりをしてくれる場所の方が、より自由になると思って、",
+      "content": "However, I think a place that engages with my son based on his individuality from an early stage would allow him to be freer,"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:38:33",
+      "origin": "今からのフリースクールの転校を夫に話して喧嘩になっています。",
+      "content": "so talking to my husband about transferring to the free school now has led to arguments."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:39:06",
+      "origin": "息子には自分に自信を持ってもらいたいんです！",
+      "content": "I want my son to have confidence in himself!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:39:55",
+      "origin": "そうなんですね。なるほどですね。ご長男さんは、そのことについてどう思われているのでしょうか？",
+      "content": "I see. I understand. How does your eldest son feel about this?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:41:08",
+      "origin": "息子は毎日勉強でないなら、フリースクールに行きたい！と話しています。",
+      "content": "My son says he wants to go to the free school if it means not studying every day!"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:41:38",
+      "origin": "どうも毎日机に縛り付けられる学校や、発表とかを強要されるのは嫌みたいです。",
+      "content": "It seems he dislikes schools where you’re tied to a desk every day or forced to do presentations and the like."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:43:08",
+      "origin": "なるほどですね。そうなんですね。これまでのお話をお聴きして、私が感じたことをお話してもよろしいでしょうか？",
+      "content": "I see. Based on what you've told me so far, may I share my thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:43:17",
+      "origin": "はい、お願いします。",
+      "content": "Yes, please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:44:37",
+      "origin": "はなさんは、生きやすい環境を整えてあげるために、今からでもご長男をフリースクールに入れたいと思っておられる、、",
+      "content": "You, Hana, would like to enroll your eldest son in a free school now in order to create an environment in which he can live more comfortably..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:44:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:45:25",
+      "origin": "ご主人は、地元の公立学校に行っても、ご長男はやっていけると思っておられる、、",
+      "content": "Your husband believes your eldest son will be fine even if he goes to the local public school..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:45:34",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:46:36",
+      "origin": "学校の先生は、区切りの良い中学に入学するタイミングでフリースクールに入学すると良いのではないかと思っておられる。",
+      "content": "And the school teacher thinks it might be good to enroll him in the free school at the natural transition point of entering middle school."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:46:47",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:49:04",
+      "origin": "私のご提案としては、先生も交えてはんさんとご主人と3人で、時間と場所を決めて、しっかりお話をされることをお勧めいたしますが、いかがですか？",
+      "content": "My suggestion is to set a time and place for you, your husband, and the teacher to have a thorough discussion together. What do you think?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:49:24",
+      "origin": "すみません。はんさんです。",
+      "content": "My apologies. I meant Hana."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:50:00",
+      "origin": "そうですね、夫の休みが取れそうならそうするのもいいかもしれないです。",
+      "content": "That's true. If my husband can get time off work, that might be a good idea."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:50:45",
+      "origin": "ただ、夫は医療従事者ですぐには休めないので、落ち着くまで待たなくてはならないかもしれないです。",
+      "content": "However, my husband is a healthcare worker and can't take time off easily, so we might have to wait until things calm down."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:50:55",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:53:26",
+      "origin": "そうなんですね。ご主人もあまり余裕が無くていらっしゃるのですね。ご長男さんが中学に入学するまでにはまだ時間がありますので、3人でお話ができるようになるまでは、そのことには触れずに仲良くされると気持ちが楽になると思うのですが、いかがですか？",
+      "content": "I see. So your husband is also under a lot of pressure. There's still time before your eldest son enters middle school, so until you can all talk together, perhaps you might feel more at ease if you try to get along without bringing up the subject. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:54:21",
+      "origin": "ありがとうございます。そうですね、夫も余裕がないことわかっていながら、ついつい子どものことで必死になっていました。",
+      "content": "Thank you. You're right. I knew my husband was under pressure, but I got so caught up in what's best for the children."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:55:00",
+      "origin": "まだ時間もあるので、少その事はすぐに結論を出さずに過ごしてみようかと思います。",
+      "content": "Since there's still time, I'll try to spend some time without rushing to a conclusion on that matter."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:55:42",
+      "origin": "少→少しです...",
+      "content": "Oh, that was a typo. I meant 'a little while'..."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:56:11",
+      "origin": "そうなんですね。はなさんなら、きっとできます。お優しい方ですから。",
+      "content": "I see. I’m sure you can do it, Hana. You’re a very caring person."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:56:30",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:56:52",
+      "origin": "他に何か気になることはありますか？",
+      "content": "Is there anything else on your mind?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:57:04",
+      "origin": "いえ、今は特にありません。",
+      "content": "No, not at the moment."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:57:38",
+      "origin": "少し気持ちを聞いて頂けて、ほっとしました。どうしようかと自分で自分を追い詰めていたようで。",
+      "content": "I feel relieved having had someone listen to me a bit. I think I was cornering myself, wondering what to do."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:57:42",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:58:06",
+      "origin": "そうなんですね。また、迷ったり、困ったり、辛かったりした時はいつでもこちらにご相談くださいね。",
+      "content": "I'm glad to hear that. Please feel free to come back and talk anytime you feel lost, troubled, or distressed."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:58:20",
+      "origin": "はい。",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T12:59:28",
+      "origin": "では、これでご相談を終了させていただきますが、よろしいでしょうか？",
+      "content": "Well then, shall we conclude our session for today?"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-14T12:59:41",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-14T13:00:13",
+      "origin": "本日はご相談いただきまして、ありがとうございました。これで終了させていただきます。",
+      "content": "Thank you for coming in for counseling today. We will now conclude the session."
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "教育方針に関する価値観の違い"
+  },
+  "review_by_client": {
+    "evaluation_id": 909,
+    "evaluation_created_at": "2020-12-14T13:10:00",
+    "client_id": 101,
+    "counselor_id": 49,
+    "score": 85,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

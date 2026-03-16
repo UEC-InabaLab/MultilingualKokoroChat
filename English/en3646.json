@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:21:02",
+      "origin": "（こんばんは。本日はどうぞ宜しくお願いいたします。お時間になりましたら、開始させていただきますね。）",
+      "content": "(Good evening. Thank you for being here today. We will begin at the scheduled time.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:22:56",
+      "origin": "（こんばんは。こちらこそ、よろしくお願いいたします。）",
+      "content": "(Good evening. Thank you as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:30:03",
+      "origin": "こんばんは、相談員です。まず初めに、年齢、性別、ご相談されたいことをお伺いしても宜しいでしょうか。",
+      "content": "Good evening, I'm your counselor. To begin, may I ask your age, gender, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:30:40",
+      "origin": "37歳　女性です。",
+      "content": "I’m a 37-year-old woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:30:59",
+      "origin": "ありがとうございます。本日はどんなことをお話しされたいですか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:31:02",
+      "origin": "職場の人間関係で悩んでいます。",
+      "content": "I’m having trouble with relationships at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:31:27",
+      "origin": "そうなんですね。職場のどの方との人間関係でお悩みでしょうか？",
+      "content": "I see. Which relationships at work are you concerned about?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:32:53",
+      "origin": "同僚になるんですけど、年上で39歳の女性と47歳の女性との関係についてです。",
+      "content": "It's with two older colleagues: a 39-year-old woman and a 47-year-old woman."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:33:29",
+      "origin": "仲良くしていたんですけど、最近少し冷たいような気がして、気になります。",
+      "content": "We used to get along well, but recently I feel like they've been a bit cold towards me, and it's bothering me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:33:50",
+      "origin": "ええ、それは不安になりますよね。",
+      "content": "Yes, that must be unsettling for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:34:01",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:34:13",
+      "origin": "最近ということですが、何か思い当たることはございましたか？",
+      "content": "You mentioned it's recent—does anything come to mind that might have caused it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:35:13",
+      "origin": "何も思い当たる節がなく、どちらかと言えば私がちょっとモヤっとした思いをさせられたかなと。",
+      "content": "Nothing comes to mind. If anything, I was the one left feeling a bit unsettled."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:35:37",
+      "origin": "ご飯に誘ったのを忘れられたので。",
+      "content": "Because she forgot that I had invited her to a meal."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:35:58",
+      "origin": "そうだったんですか、それはモヤッとしますよね・・",
+      "content": "Oh, I see. That would definitely leave you feeling unsettled..."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:36:29",
+      "origin": "はい。朝の挨拶も前よりトーンが低い感じがします。",
+      "content": "Yes. Their morning greetings also feel lower in tone than before."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:36:56",
+      "origin": "ええ、ますます何かしたのではないかと気になりますよね。",
+      "content": "Right, that makes you wonder even more whether you did something."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:37:08",
+      "origin": "そうなんです。",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:37:39",
+      "origin": "ご飯を忘れられていたというのは、相談者さんからお二人に、三人でご飯に行くことをお誘いされてたのでしょうか？",
+      "content": "When you say your invitation for a meal was forgotten, did you invite both of them to go out together, the three of you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:38:21",
+      "origin": "すいません。ご飯は39歳の人だけ誘いました。",
+      "content": "I'm sorry. I only invited the 39-year-old."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:38:29",
+      "origin": "そうだったのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:39:17",
+      "origin": "普段はフレンドリーに話すんですけど、",
+      "content": "Usually, we talk in a friendly way, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:39:21",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:39:50",
+      "origin": "こういうことがあると、年上女性との関係に神経をかなり使ってしまいます。",
+      "content": "When things like this happen, I become very self-conscious about my relationships with older women."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:40:09",
+      "origin": "顔色が気になります。",
+      "content": "I start worrying about their mood."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:40:26",
+      "origin": "そうですよね・・一人ならまだしも、お二人からそのように感じると、なおさら神経使いますよね",
+      "content": "I understand... Feeling that way from one person is one thing, but from two, it must make you even more anxious."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:40:39",
+      "origin": "そうなんです。",
+      "content": "Exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:40:50",
+      "origin": "年上というのも、気になって当然だと思います",
+      "content": "And it’s natural to be concerned because they’re older as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:41:15",
+      "origin": "そうですよね。",
+      "content": "Right."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:41:26",
+      "origin": "みんな気になりますよね？",
+      "content": "Everyone would worry about that, wouldn’t they?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:41:44",
+      "origin": "気にしすぎなのかな、とも思ってしまっていて。",
+      "content": "I also wonder if I’m overthinking it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:42:17",
+      "origin": "誰しも気になると思いますよ。あと女性の年上っていうのは、少し気になるレベルが高いかなと個人的には思います。",
+      "content": "I think anyone would be concerned. Personally, I feel that with older women, the level of concern tends to be a bit higher."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:42:59",
+      "origin": "女性特有のややこしさとかもあると思うので、気になるのは全然自然なことだと思いますよ。",
+      "content": "There can also be some complexities that are somewhat unique to interactions among women, so I think it’s completely natural to feel concerned."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:43:35",
+      "origin": "はい。同い年や年下と違って、楽しく話していても神経使ってる感じです。",
+      "content": "Yes. Unlike with peers or younger colleagues, even when we’re chatting pleasantly I feel like I’m on edge."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:44:03",
+      "origin": "自分だけかと思っていたのでよかったです。",
+      "content": "I thought it was just me, so I'm relieved."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:44:03",
+      "origin": "そうですよね・・2歳年上も気を使いますが、ひと回り年上の女性ですと、だいぶ気をつかいますよね",
+      "content": "I understand... You're careful even with someone two years older, so with a woman who's a decade older, you must be much more cautious."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:44:36",
+      "origin": "はい、安心してくださいね。",
+      "content": "Yes, so please don't worry about feeling that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:45:05",
+      "origin": "はい。もう20くらい離れていたら逆にいいんですけどね。一番微妙というか。。",
+      "content": "Yes. If they were about 20 years older, it might actually be easier. This age gap is the most awkward, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:45:42",
+      "origin": "そうですよね、結構距離感が難しい離れ具合ですよね。",
+      "content": "Yes, it's an age difference that's quite tricky to navigate."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:46:21",
+      "origin": "そうなんです。解っていただけて嬉しいです。",
+      "content": "Exactly. I'm so glad you understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:47:30",
+      "origin": "ええ、歳が離れてる方とのコミュニケーションはとても気を遣うので難しいことがたくさんあると思います。その39歳の女性と、47歳の女性は、仲はよろしいのでしょうか？",
+      "content": "Yes, communicating with people who are older can be very challenging and require a lot of care. Are the 39-year-old and 47-year-old women on good terms with each other?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:48:41",
+      "origin": "はい。47歳の方は一年前に入ってきたので、その2人は最近よく話すようになりました。",
+      "content": "Yes. The 47-year-old joined the company a year ago, so the two of them have started talking a lot recently."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:49:03",
+      "origin": "私は別々で仲が良かったです。",
+      "content": "I was close with each of them separately."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:50:00",
+      "origin": "そうだったのですね。お仕事中はそのお二人とはどんな感じで関わっていらっしゃるのでしょうか？",
+      "content": "I see. During work, how do you typically interact with the two of them?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:51:36",
+      "origin": "2人は仕事中は関わりがないです。私は47歳の方に私の仕事を手伝ってもらっています。多めなので。",
+      "content": "The two of them don't interact during work. I have the 47-year-old help me with my work, since I have a lot."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:52:54",
+      "origin": "そうなんですね。冒頭で、最近少し冷たく感じると仰ってくださったと思うのですが、朝の挨拶やご飯のお誘い以外で、そのように感じる瞬間はございますか？",
+      "content": "I understand. At the beginning you mentioned they’ve felt a bit cold lately. Besides the morning greetings and the meal invitation, are there other moments when you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:54:26",
+      "origin": "仕事中に話しかけると普通に話すんですけど。朝だけ今までと違う感じがします。",
+      "content": "When I speak to them during work, they talk with me normally. It’s only in the mornings that it feels different from before."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:54:54",
+      "origin": "ええ、朝だけ違うのは、先ほど仰ってくださった挨拶の部分でしょうか？",
+      "content": "Yes, when you say it's different only in the morning, are you referring to the greeting you mentioned earlier?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:55:05",
+      "origin": "そうです。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:55:44",
+      "origin": "トーン以外で、前よりも顔をみて挨拶してくれなくなったな、など気になる部分はございましたか？",
+      "content": "Aside from the tone, have you noticed anything else, like less eye contact when greeting compared to before?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:56:06",
+      "origin": "そうなんです、目を見てくれなくなりました。",
+      "content": "That's it. She's stopped looking me in the eye."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:56:23",
+      "origin": "なるほど、それはさらに違和感を感じてしまいますよね。",
+      "content": "I see. That would add to the sense that something is off."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:56:42",
+      "origin": "はい。それも朝だけなんですけどね。",
+      "content": "Yes. But it’s only in the morning."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:56:53",
+      "origin": "ええ、朝だけというのが気になりますね。",
+      "content": "Yes, the fact that it's only in the morning is curious."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:57:55",
+      "origin": "はい。なんだろう。誘ったのを無視されたのは、忘れたのかなと思うことにして流したのに、なんで逆にその反応なのかわかりません。",
+      "content": "Yes. I wonder why. When she ignored my invitation, I decided to let it go, thinking she just forgot, but I don't understand why she's the one acting this way."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T21:58:47",
+      "origin": "私の忘れられた、というモヤモヤがなんとなく伝わってるのでしょうか？",
+      "content": "Could it be that my feeling of unease about being forgotten has somehow gotten through to her?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T21:59:29",
+      "origin": "相談者さんは忘れられたと分かった時、お相手の方にどんな反応をされましたでしょうか？",
+      "content": "When you realized she had forgotten, how did you respond to her?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:00:40",
+      "origin": "子供のことで忙しいのかなと思い直して普通に接しました。接したつもりです。",
+      "content": "I reconsidered, thinking she might be busy with her children, and I interacted with her normally—or at least I intended to."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:01:27",
+      "origin": "何もなかったことにした、といいますか。",
+      "content": "I acted as if nothing had happened, you could say."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:02:17",
+      "origin": "ええ、ご自身ではそこまで気にさないようにされたのですね。本当はモヤッとしたと思うのですが、相手を責めたりせず、前向きに考え直されたのですね。",
+      "content": "I see, so you tried not to let it bother you too much. Even though I imagine you felt unsettled, you didn't blame her and instead tried to look at it in a positive light."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:03:08",
+      "origin": "はい。なるべく仲良くやっていきたいという思いと、",
+      "content": "Yes. Partly because I want to keep getting along as well as possible, and—"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:03:13",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:03:44",
+      "origin": "どう不満を伝えたら角が立たないか分からなかったのもあります。",
+      "content": "I also didn’t know how to express my frustration without causing friction."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:04:02",
+      "origin": "そうですよね、伝え方によって気まずくなるもの嫌ですよね。",
+      "content": "I understand. You wouldn't want things to become awkward depending on how you say it."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:04:12",
+      "origin": "そうなんです。。",
+      "content": "Exactly..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:05:13",
+      "origin": "相談者さんとしては、朝の挨拶が前と異なる理由が知りたいや、関係をよくしたいなど、どのようなことを望まれておりますか？",
+      "content": "What is it that you would like to see happen? For example, do you want to know why her morning greetings have changed, or do you want to improve the relationship?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:07:53",
+      "origin": "これからもこういうことは起こると思うので、そういった時に私はどういう心持ちになればいいのか知りたいです。関係は良くしたいですし、本当は理由も知りたいですけど。",
+      "content": "I think situations like this will happen again, so I want to know what mindset I should have when they do. I do want to improve the relationship, and honestly, I'd like to know the reason too."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:08:24",
+      "origin": "ええ、一番はご自身の心持ちをどうしたらいいのかを知りたいのですね。",
+      "content": "So your top priority is to know how to manage your own mindset."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:08:47",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:09:44",
+      "origin": "それとも様子が違う理由を思い切って聞いた方がよいのか。",
+      "content": "Or should I just take the plunge and ask why the vibe feels different?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:10:34",
+      "origin": "確かに、聞ける相手でしたら、理由がわかると楽になることもあるのでいいかとは思うのですが、聞けそうな感じはございますか？",
+      "content": "Indeed, if she’s someone you can ask, knowing the reason can bring relief, so it's a good option. Do you feel you could ask her?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:11:02",
+      "origin": "う〜ん、勇気がいります。。",
+      "content": "Hmm, it would take a lot of courage..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:11:49",
+      "origin": "そうですよね・・ちなみに、朝の様子がいつもと違うのは、39歳の女性と47歳の女性どちらもでしょうか？",
+      "content": "I understand... By the way, is the different morning vibe with both the 39-year-old and the 47-year-old?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:12:13",
+      "origin": "聞ける自分になりたいですけど。。39歳の方です。",
+      "content": "I wish I were the kind of person who could ask... It's the 39-year-old."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:13:30",
+      "origin": "そうですよね。いきなりご本人に聞くのは少し勇気がいると思うのですが、その39歳の女性のことをよく知ってる方などに相談されたりしたことはございますか？",
+      "content": "I understand. I imagine asking her directly would take some courage. Have you ever tried talking to someone who knows the 39-year-old woman well?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:13:48",
+      "origin": "ないです。",
+      "content": "No, I haven't."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:14:21",
+      "origin": "そうなのですね、職場にご相談できそうなお相手はいらっしゃらなそうか感じでしょうか？",
+      "content": "I see. Does it feel like there isn't anyone at work you could talk to about this?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:15:58",
+      "origin": "男性の方で1人。話せるかな〜、面倒くさがられるかなぁ、って人がいます。",
+      "content": "There is one man. I wonder if I could talk to him... or if he would find it a bother."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:17:21",
+      "origin": "そうなのですね。その方にご相談してみるのも選択肢としてあるとは思うのですが、お話し聞かせていただいた感じ、聞き方さえ事前に準備しておけば、39歳の女性の方には理由を聞けそうかなと思ったのですが、いかがでしょうか？",
+      "content": "I see. Talking to him is one option, but from what you've told me, it seems like if you just prepare how to ask in advance, you might be able to ask the 39-year-old woman for the reason directly. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:18:26",
+      "origin": "なるほど。聞き方ですか。。どんな風に聞いたらいいでしょうか。。？",
+      "content": "I see. How to ask... How should I approach it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:20:17",
+      "origin": "そうですね、朝ではなく普通に話してくださる時間に、ちょっと一瞬よろしいですか？と声をかけていただき、「こんなことて呼び出してとても恥ずかしいのですが、実はずっと気にしてたことがありまして、朝の様子がいつもと違うなと思っていて、もし何か○○さんに嫌なことしてしまっていたらとっても申し訳ないなと思ったので、もし何か私に思っていることがあれば是非お聞きしたいなと思ったんですが・・」という感じですが、どうでしょうか？",
+      "content": "Let's see... Not in the morning, but at a time when she's talking normally, you could approach her and say, \"Do you have a second?\" and then something like, \"I'm a little embarrassed to bring this up, but there's something that's been on my mind. I've noticed you seem a bit different in the mornings, and I was worried that I might have done something to upset you. If that's the case, I'd be very sorry. So I was hoping you'd tell me if there's anything on your mind regarding me...\" How does that sound?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:21:39",
+      "origin": "「私たまに全く悪気なく相手が気にしてしまうような態度をすることがあるので、もしかして○○さんにも失礼なことしてしまったのではないかと不安に思ってまして」という感じですね。",
+      "content": "You could also add something like, \"Sometimes I do things without any ill will that can bother people, so I was worried I might have been rude to you without realizing it.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:22:40",
+      "origin": "なるほど。嫌なことしてしまっていたら、ということで聞くのは聞きやすいかもしれないです。",
+      "content": "I see. Framing it as \"if I've done something to upset you\" might make it easier to bring up."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:23:02",
+      "origin": "入りやすそうです。",
+      "content": "It seems like a good way to start the conversation."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:23:56",
+      "origin": "少し勇気を出して聞いてみようかな。という気持ちになってきました。",
+      "content": "I'm starting to feel like I might be able to work up the courage to ask her."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:24:46",
+      "origin": "そうでしたか、それはとても素晴らしいですね。あとは重たい雰囲気ではなく、いきなりすいません〜！こんなことで〜！ぐらいお明るい雰囲気で聴くと、気まずい雰囲気にならずにお話しができると思いますよ。",
+      "content": "Is that so? That's wonderful to hear. Also, if you approach it with a lighthearted manner, like \"Sorry to bother you with something so small like this!\" rather than being too serious, I think you'll be able to talk without it getting awkward."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:25:18",
+      "origin": "そうですね！ちょっとやれそうな気がしてきました。",
+      "content": "You're right! I'm starting to feel like I can do this."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:26:31",
+      "origin": "相談者さんは、とってもいい人だと思うんです。普通お誘いを忘れられたら、嫌な気持ちになりますし、イライラするのが自然だと思うんです。それでも、お相手の状況を否定せずに前向きに捉え、関係性を少しでも良くしようとご自身の悩みに向き合われていらっしゃるので、どの方にも相談者さんの良さは伝わってると思うんです。",
+      "content": "I think you are a very kind person. Normally, if someone forgot your invitation, it would be natural to feel hurt and irritated. But you didn't judge her situation, tried to see it positively, and are facing your own concerns to try and improve the relationship. I'm sure everyone can see what a wonderful person you are."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:27:12",
+      "origin": "なので、もしできそうでしたら、チャレンジしてみていただけるといいかなと思うのですが、ここまでお話ししてみていかがでしたか？",
+      "content": "So, if you feel up to it, I think it would be great to give it a try. How are you feeling after talking this through?"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:28:12",
+      "origin": "ありがとうございます。そう言っていただけると自信もつきます。",
+      "content": "Thank you. Hearing you say that gives me confidence."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:28:29",
+      "origin": "頭の中も整理ができましたし、",
+      "content": "I've also been able to sort out my thoughts,"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:29:23",
+      "origin": "やることが明確になりました。新たな一歩を行動できる気がします。",
+      "content": "and now I have a clear idea of what to do. I feel like I can take a new step forward."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:29:50",
+      "origin": "ええ、それはよかったです。もしまた困ったことがあったり、心持ちを考えたいときは、いつでもご相談にきてくださいね。",
+      "content": "Yes, that's great to hear. If you run into any other trouble or want to think about your mindset again, please feel free to come back and talk anytime."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:30:04",
+      "origin": "はい。ありがとうございます。",
+      "content": "Okay. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:30:12",
+      "origin": "きっとうまくいくと、応援していますよ。",
+      "content": "I’m rooting for you—I’m sure it will go well."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:30:31",
+      "origin": "はい。がんばってみます。ありがとうございました。",
+      "content": "Yes. I'll give it a try. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:30:35",
+      "origin": "本日はありがとうございました。それではお時間なりましたので終了させていただきますね。",
+      "content": "Thank you for your time today. Our time is up now, so we will end the session here."
+    },
+    {
+      "role": "client",
+      "time": "2022-06-23T22:30:51",
+      "origin": "はい。ありがとうございました。",
+      "content": "Yes. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-23T22:31:10",
+      "origin": "（貴重なお時間いただきありがとうございました。厳しいご意見でも嬉しいので、評価の際にフィードバックをいただけますと幸いです。大変お疲れ様でした。）",
+      "content": "(Thank you for your valuable time. We welcome your feedback, including any criticisms, when you complete the evaluation. Thank you for your efforts today.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "同僚との人間関係の悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 3646,
+    "evaluation_created_at": "2022-06-23T23:09:00",
+    "client_id": 292,
+    "counselor_id": 290,
+    "score": 92,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

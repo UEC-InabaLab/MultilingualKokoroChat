@@ -1,0 +1,585 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:04:56",
+      "origin": "初めまして、本日はご相談ありがとうございます。",
+      "content": "Nice to meet you. Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:05:35",
+      "origin": "はじめにご年齢と性別、相談内容をお伺いしてもよろしいでしょうか。",
+      "content": "To begin, may I ask your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:06:04",
+      "origin": "40歳　女朝早く起きしてしまう",
+      "content": "I'm a 40-year-old woman. I find myself waking up too early in the morning."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:06:14",
+      "origin": "起きてしまう",
+      "content": "I just end up waking up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:08:58",
+      "origin": "なるほど、朝早く起きてしまうんですね。",
+      "content": "I see, so you find yourself waking up early in the morning."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:09:58",
+      "origin": "「朝早く起きてしまう」ことをどのようにお感じなんですか？",
+      "content": "How do you feel about waking up early like that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:10:33",
+      "origin": "なんだか睡眠が足りてなくて、昼間はぼんやりしてしまいます",
+      "content": "I feel like I’m not getting enough sleep, and I end up feeling foggy during the day."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:11:24",
+      "origin": "なるほど。睡眠が足りなくて昼間ぼんやりしてしまうのは生活していく中で気になりますよね。",
+      "content": "I see. Not getting enough sleep and feeling foggy during the day must be concerning in your daily life."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:11:36",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:12:11",
+      "origin": "うんうん。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:13:35",
+      "origin": "そしたら、昼間にぼんやりしないように「朝早く起きてしまう」ことをどうしたらいいかっておもわてるのでしょうか。",
+      "content": "So, would you like to think about what could help with the early waking so you don’t feel foggy during the day?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:13:59",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:14:23",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:14:41",
+      "origin": "ご自身では思い当たる事ありそうですか？",
+      "content": "Does anything come to mind for you as a possible cause?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:14:55",
+      "origin": "仕事のストレスがあると思っています",
+      "content": "I think it's stress from work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:15:35",
+      "origin": "そうですか。お仕事のストレスは体のリズム崩しやすいですよね。",
+      "content": "I see. Stress from work can certainly disrupt your body's rhythm, can't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:16:04",
+      "origin": "いつから早くおきてしまうのですか？",
+      "content": "Since when have you been waking up early?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:17:12",
+      "origin": "毎日というわけではなくて、仕事で不安なことがある時とか、です",
+      "content": "It's not every day. It happens when I'm anxious about something at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:18:13",
+      "origin": "そうなんですね。時々仕事で不安なことがあると朝早く起きてしまうんですね。",
+      "content": "I see. So, when you feel anxious about work sometimes, you wake up early in the morning."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:18:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:18:30",
+      "origin": "時々でも睡眠に響くとしんどいですよね。",
+      "content": "Even if it's only sometimes, it must be tough when it affects your sleep."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:18:40",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:19:04",
+      "origin": "仕事でどんな不安があるとそうなりやすいですか？",
+      "content": "What kinds of work-related anxieties tend to trigger it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:20:23",
+      "origin": "失敗したらどうしようとか、知識不足を感じた時です",
+      "content": "It's when I worry about things like, 'What if I make a mistake?' or when I feel I'm lacking knowledge."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:20:33",
+      "origin": "うんうん。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:21:45",
+      "origin": "そんな時にたしかに不安になりますよね。",
+      "content": "It’s understandable to feel anxious in those moments."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:23:48",
+      "origin": "自分が新人なのが悪いんですが",
+      "content": "I know it’s because I’m new, but…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:24:05",
+      "origin": "新人さんなんですね。",
+      "content": "So you’re new at the job."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:24:16",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:25:16",
+      "origin": "うんうん。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:26:20",
+      "origin": "差支えなければどんなお仕事か聞いても大丈夫でしょうか。",
+      "content": "If you don’t mind my asking, may I ask what kind of work you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:26:40",
+      "origin": "はい、歯医者で働いてます。",
+      "content": "Yes, I work at a dental clinic."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:27:18",
+      "origin": "歯医者で働いてらっしゃるんですね。対人のお仕事でらっしゃるから緊張とかしますかね。",
+      "content": "I see you work at a dental clinic. Since it’s a people-oriented job, I imagine it can be nerve-wracking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:29:06",
+      "origin": "失敗や知識不足を感じるのはどんな時ですか？",
+      "content": "In what situations do you feel you’ve made a mistake or lack knowledge?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:29:50",
+      "origin": "先生から、睨まれたり、叱責されたりするときです",
+      "content": "It's when the dentist glares at me or reprimands me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:30:23",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:30:56",
+      "origin": "それは職場で受けたストレスを持ち帰ってしまうとお辛いですね。",
+      "content": "It must be difficult to carry that stress from the workplace home with you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:31:06",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:31:28",
+      "origin": "ストレスを感じた時はどんなことを普段してらっしゃいますか？",
+      "content": "What do you usually do when you feel stressed?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:32:04",
+      "origin": "知識不足と感じたところは勉強したりしています。",
+      "content": "I try to study the areas where I feel I lack knowledge."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:32:44",
+      "origin": "知識不足を補うことは良い事ですね。",
+      "content": "It’s great that you’re working to fill those knowledge gaps."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:33:42",
+      "origin": "先生からにらまれたり、叱責されない努力をなさっているんですね。",
+      "content": "So you're making an effort to avoid being glared at or reprimanded by the dentist."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:34:13",
+      "origin": "だけど、全然足りなくて、すごく不安です",
+      "content": "But it's not enough at all, and I feel very anxious."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:34:45",
+      "origin": "そうですよね。新人さんですし勉強すると尽きないですよね。",
+      "content": "I understand. Since you're new, it probably feels like there's no end to what you have to study."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:35:28",
+      "origin": "勉強しないとっていう不安がお強いんですかね。",
+      "content": "Would you say the anxiety about needing to study is quite strong?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:36:09",
+      "origin": "それもあります。　あと、誰にも相談できないこともあります。",
+      "content": "That's part of it. Also, I don't have anyone I can talk to about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:36:56",
+      "origin": "誰にも相談できないのは不安ですね。",
+      "content": "It must be stressful not having anyone to talk to."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:38:12",
+      "origin": "誰かの相談したいのは勉強のことですか？",
+      "content": "Is it your studies that you'd like to talk to someone about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:38:27",
+      "origin": "仕事のことです",
+      "content": "It’s about work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:38:38",
+      "origin": "お仕事全般ですね。",
+      "content": "Your work in general, then."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:38:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:39:10",
+      "origin": "言える人がいるととっても楽になりますもんね。",
+      "content": "Having someone you can talk to can be a big relief."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:40:36",
+      "origin": "もし周りに言いづらい場合はこちらも活用してお話なさってください。",
+      "content": "If it’s hard to talk to people around you, please feel free to use this space to talk."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:40:52",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:41:01",
+      "origin": "はい。",
+      "content": "You're welcome."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:41:41",
+      "origin": "不安がつよいと寝れない時もあると思います。何か楽だなーと感じられそうなことありそうですか？",
+      "content": "When anxiety is strong, I imagine it can be hard to sleep. Is there anything you can think of that might help you feel more at ease?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:42:23",
+      "origin": "今はまだ見つけられてないです",
+      "content": "I haven’t found anything yet."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:42:41",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:43:44",
+      "origin": "勉強で寝る時間が遅くなったりしていますか？",
+      "content": "Does studying make you go to bed later?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:44:21",
+      "origin": "いえ、12：00には寝るようにしてます",
+      "content": "No, I try to go to bed by midnight."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:44:41",
+      "origin": "そうなんですね。でも早く起きてしまうってことなんですかね。",
+      "content": "I see. But you still end up waking up early?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:44:51",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:44:59",
+      "origin": "なるほど",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:46:39",
+      "origin": "何か気になる事があると睡眠の質は下がってしまいますよね。気にしないっていうのは難しそうなので別の方法を１つでも今回見つけられたらと思うのですが、一緒に考えませんか？",
+      "content": "When something is on your mind, sleep quality can suffer. Since simply trying not to think about it is difficult, I’d like us to find at least one alternative approach today. Would you be open to thinking it through together?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:47:07",
+      "origin": "お願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:47:17",
+      "origin": "よかったです。",
+      "content": "I’m glad."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:48:44",
+      "origin": "ではまず、緊張とか何か感じた時は今までどうしてきたか振り返ってみて何か効果あったなと感じる事とかはありそうですか？",
+      "content": "First, looking back at times you’ve felt tense or nervous in the past, is there anything you’ve done that you felt was effective?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:49:36",
+      "origin": "練習とか、最期は気合いで乗り切ってきたように思います。",
+      "content": "I think I've gotten through it with practice and, in the end, just sheer willpower."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:50:35",
+      "origin": "なるほど、練習と気合ですか。その時も同じように朝はやく起きてしまいますかね。",
+      "content": "I see, practice and willpower. Did you find yourself waking up early in the morning during those times, too?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:50:46",
+      "origin": "ありました。",
+      "content": "Yes, I did."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:50:56",
+      "origin": "うんうん。",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:51:07",
+      "origin": "いつも前日とかに準備されるんですか？",
+      "content": "Do you usually prepare the day before?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:51:17",
+      "origin": "なにをですか？",
+      "content": "Prepare for what?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:51:28",
+      "origin": "練習と気合とのことだったので",
+      "content": "You mentioned practice and willpower."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:51:49",
+      "origin": "前日ではなく、前々から準備します。試験とかの話です。",
+      "content": "Not just the day before—I prepare well in advance. I’m talking about things like exams."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:51:56",
+      "origin": "なるほど。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:53:12",
+      "origin": "朝早く起きる事がお辛いのであればしっかり寝れるように勉強する時間を調節することも必要かと思ったのですが、寝る直前まで基本は勉強なさってますか？",
+      "content": "Since waking up early is difficult for you, I thought it might be necessary to adjust your study time to get a good night's sleep. Do you generally study right up until you go to bed?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:54:36",
+      "origin": "いえ、そんなにずっとはしてないです。勉強不足だなと感じた時だけです。",
+      "content": "No, not all the time. Only when I feel I haven't studied enough."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:55:00",
+      "origin": "うんうん。勉強不足と感じた時はするということですかね。",
+      "content": "Mm-hmm. So you study when you feel you haven't done enough."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:57:10",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:57:25",
+      "origin": "もし睡眠直前まで勉強不足と感じた時に勉強しているとしたら、そのまま寝てしまうとアドレナリンが出ている状態で寝るので朝に起きてしまうかもしれませんね。",
+      "content": "If you're studying right before sleep because you feel you haven't studied enough, you might be going to bed with adrenaline still in your system, which could be causing you to wake up early."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:58:01",
+      "origin": "そうなのですね…",
+      "content": "Oh, is that so...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:58:29",
+      "origin": "もしよければ勉強してすぐではなく、ゆっくりお風呂があればお風呂。少ストレッチや自分が好きな音楽や動画など見て楽になってから寝てみては？",
+      "content": "If you'd like, instead of going to sleep right after studying, how about trying to relax first? You could take a nice long bath if you have one, do some light stretching, or watch a favorite video or listen to music you like."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:58:48",
+      "origin": "やってみます。",
+      "content": "I’ll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:59:09",
+      "origin": "はい。それで朝早く起きないでしっかり仕事出来るようになるといいですね。",
+      "content": "Good. I hope that helps you sleep well without waking up early, so you can perform well at work."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:59:23",
+      "origin": "はい、今日はありがとうございました。",
+      "content": "Yes, thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T12:59:34",
+      "origin": "またわからない時とか周りに相談できないときはいつでも来てください。",
+      "content": "If there are times you don’t know what to do or can’t talk to those around you, please feel free to come back anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T12:59:45",
+      "origin": "わかりました。",
+      "content": "I will."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T13:00:02",
+      "origin": "短い時間でしたがありがとうございました。こちらで失礼させていただきますね。",
+      "content": "It was a short time, but thank you very much. I'll conclude our session here."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-22T13:00:47",
+      "origin": "（ロールプレイお疲れ様でした。）",
+      "content": "(Thank you for the role-play session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-22T13:01:07",
+      "origin": "（お疲れさまでした。ありがとうございました。）",
+      "content": "(Good work today. Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "仕事の不安やストレスによる睡眠の質の低下"
+  },
+  "review_by_client": {
+    "evaluation_id": 5319,
+    "evaluation_created_at": "2023-06-22T13:22:00",
+    "client_id": 239,
+    "counselor_id": 383,
+    "score": 36,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

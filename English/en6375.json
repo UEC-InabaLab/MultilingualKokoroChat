@@ -1,0 +1,813 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-04T09:52:26",
+      "origin": "（おはようございます。本日はよろしくお願いします。クライエントの設定はお任せします。評価は厳しめでお願いします。）",
+      "content": "(Good morning. Thank you for your time today. I'll leave the client profile to you. Please give me a strict evaluation.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T09:52:59",
+      "origin": "(おはようございます。宜しくお願い致します。)",
+      "content": "(Good morning. I look forward to working with you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:00:08",
+      "origin": "こんにちは、相談員です。相談にお越しいただきありがとうございます。ここでは安心してどんなことでもお話しください。",
+      "content": "Hello, I'm a counselor. Thank you for coming in for a consultation. Please feel safe to talk about anything here in confidence."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:00:29",
+      "origin": "おはようございます。ありがとうございます。",
+      "content": "Good morning. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:00:29",
+      "origin": "はじめに年齢、性別、相談内容を教えてください。",
+      "content": "To begin, could you please tell me your age, gender, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:00:55",
+      "origin": "54歳、女性です。",
+      "content": "I'm 54 years old, female."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:01:20",
+      "origin": "今の仕事を続けるか悩んでいます。",
+      "content": "I'm struggling with whether I should continue my current job."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:01:46",
+      "origin": "教えていただきありがとうございます。お仕事のことでご相談ですね。",
+      "content": "Thank you for sharing that. So you'd like to talk about your job."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:01:54",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:01:58",
+      "origin": "どのようなことがあったのですか？",
+      "content": "What has been happening?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:02:49",
+      "origin": "パートで働いています",
+      "content": "I work part-time."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:03:20",
+      "origin": "差別されていて、働きたく無いです",
+      "content": "I'm being discriminated against, and I don't want to work there anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:03:58",
+      "origin": "そうなのですね、そのようなことがあると続けるか悩まれてしまいますよね。",
+      "content": "I see. When something like that happens, it's natural to struggle with whether to continue."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:04:05",
+      "origin": "お辛いですよね。",
+      "content": "That must be very difficult for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:04:14",
+      "origin": "いつ頃からなのでしょうか？",
+      "content": "When did this start?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:04:47",
+      "origin": "そうですね、上司が変わってからです",
+      "content": "Well, it started when my supervisor changed."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:05:18",
+      "origin": "差別は上司からなのでしょうか？",
+      "content": "Is the discrimination coming from your supervisor?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:05:31",
+      "origin": "そうです",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:06:20",
+      "origin": "上司から差別されるのは、働きにくいですし、嫌になってしまいますよね。",
+      "content": "Being discriminated against by your supervisor must make it difficult to work, and I can understand why you'd feel fed up."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:06:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:06:36",
+      "origin": "上司が変わられたのはどれくらい前なのですか？",
+      "content": "How long ago did your supervisor change?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:07:10",
+      "origin": "去年の4月からです",
+      "content": "Since last April."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:07:52",
+      "origin": "そうなのですね、そのような状況の中でずっとお仕事されてきたのですね。しんどかったですよね。",
+      "content": "I see. So you've been working under those circumstances all this time. That must have been very tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:08:05",
+      "origin": "お仕事内容はお好きなのでしょうか？",
+      "content": "Do you like the work itself?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:08:26",
+      "origin": "はい、仕事自体は好きです",
+      "content": "Yes, I like the job itself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:09:14",
+      "origin": "仕事はお好きなのですね。それで、ここまでやってこられたという感じでしょうか？",
+      "content": "So you like your job. Is that what has kept you going this far?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:09:25",
+      "origin": "そうです",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:10:26",
+      "origin": "なので、辞めたくはないのですが",
+      "content": "So I don't really want to quit, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:10:30",
+      "origin": "お仕事がお好きなのに、上司から差別で続けるかどうするかというのは悩んでしまいますよね。",
+      "content": "It's understandable to be troubled about whether to continue when you like the job but are facing discrimination from your supervisor."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:10:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:10:53",
+      "origin": "そうですよね。ちなみに、",
+      "content": "I understand. By the way—"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:10:54",
+      "origin": "メンタルが辛くて",
+      "content": "It's taking a toll on my mental health."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:11:34",
+      "origin": "どのような差別を受けているのでしょうか？（お話できる範囲で構いません。）",
+      "content": "What kind of discrimination are you experiencing? (You only need to share what you're comfortable with.)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:13:06",
+      "origin": "そうですねパートというだけで、尊重されていないというか、見下されるような事を言われたり、そんな態度があります",
+      "content": "Well, just because I'm a part-timer, I feel like I'm not respected. I get talked down to, and he has that kind of attitude."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:14:21",
+      "origin": "働いているのは同じなのに、雇用形態が違うことで見下してくるような感じなのですね。相談者さんは、",
+      "content": "So even though you're doing the same work, you feel looked down upon just because of your employment status. You..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:15:32",
+      "origin": "お仕事がお好きで働いていらっしゃるのに、そのような態度を取られてしまうのは悲しくなってしまいますよね。",
+      "content": "...like your job and are working hard, so to be treated with such an attitude must be very saddening."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:15:58",
+      "origin": "悲しいですし、腹も立ちます",
+      "content": "It makes me sad, and it makes me angry too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:16:41",
+      "origin": "そうですよね。そのような扱いをされては悲しいし、腹が立つのも当然です。",
+      "content": "I can see that. It's completely natural to feel sad and angry when you're treated that way."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:16:56",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:17:26",
+      "origin": "相談者さんのお仕事に対する思いがとても伝わって来ます。",
+      "content": "I can really feel how much your job means to you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:17:50",
+      "origin": "ちなみに、上司は他のパートの方にも同じような態度なのでしょうか？",
+      "content": "By the way, does your supervisor have the same attitude toward other part-time workers?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:19:01",
+      "origin": "同じ部署には私だけです。辞めても次の仕事が見つかるかわからないけど、このままいるのも辛いし、悩みます。",
+      "content": "I'm the only one in my department. I don't know if I can find another job if I quit, but it's painful to stay like this, so I'm really struggling."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:19:45",
+      "origin": "どうしたらいいんでしょうか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:20:09",
+      "origin": "教えていただきありがとうございます。相談者さんだけなのですね。辞めて次の事を考えると不安にもなりますよね。",
+      "content": "Thank you for telling me. So it's just you. Thinking about quitting and what comes next can certainly make you anxious."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:20:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:20:32",
+      "origin": "一旦ここまでのお話を整理させていただいてもよろしいでしょうか？",
+      "content": "Would it be alright if I take a moment to summarize what we've discussed so far?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:20:37",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:20:51",
+      "origin": "ありがとうございます。少しお待ちください。",
+      "content": "Thank you. Please give me a moment."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:23:20",
+      "origin": "仕事を続けるかどうするかというご相談でお越しいただきました。去年の四月に上司が代わり、パートというだけで見下すような態度をとって悲しいし腹立たしく仕事を辞めようかと悩んでいらっしゃる。ただ、",
+      "content": "You came here to discuss whether or not to continue with your job. Your supervisor changed last April, and because of their belittling attitude toward you for being a part-timer, you feel sad and angry, and are considering quitting. However,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:24:55",
+      "origin": "仕事自体は好きだし、もし辞めて次の仕事となっても見つかるかどうか不安になってしまいどうしたらいいかわかない状況でお間違いないでしょうか？",
+      "content": "you like the job itself, and you're also anxious about whether you'd be able to find a new job if you quit, leaving you unsure of what to do. Is that a correct understanding of your situation?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:25:15",
+      "origin": "はい、そうです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:26:23",
+      "origin": "ご確認ありがとうございます。今の仕事に行き続ける事も辛いし、辞めて次と考えても不安になってしまうと身動きが取れないような感じですよね。",
+      "content": "Thank you for confirming. It sounds like you feel stuck, as it's painful to continue going to your current job, but thinking about quitting and finding something new makes you anxious."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:26:38",
+      "origin": "そうなんです",
+      "content": "That's exactly it."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:27:40",
+      "origin": "今はどちらが正解か、どちらを選んだら解放されるかわからず苦しいですよね。",
+      "content": "It must be distressing right now, not knowing which choice is the right one or which path will bring you relief."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:28:02",
+      "origin": "ちなみに相談者さんはご家族構成はいかがですか？",
+      "content": "By the way, what is your family situation like?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:28:03",
+      "origin": "そうなんですよ",
+      "content": "It really is."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:28:20",
+      "origin": "夫と子どもがふたりいます",
+      "content": "I have a husband and two children."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:28:32",
+      "origin": "大学生です",
+      "content": "They are university students."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:29:03",
+      "origin": "4人暮らしで大学生のお子さんがいらっしゃるのですね。確認ですが、",
+      "content": "So you are a family of four with children in university. Just to confirm,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:29:46",
+      "origin": "相談者さんは今後も働いていくのは前提という事でお間違いないでしょうか？",
+      "content": "am I correct in understanding that you plan to continue working in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:30:15",
+      "origin": "そうです。経済的に働かないといけないので。",
+      "content": "That's right. I need to work for financial reasons."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:30:54",
+      "origin": "大学生のお子さんがいらっしゃるとお金が必要になってきますものね。",
+      "content": "I understand, having children in university requires a lot of money."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:31:25",
+      "origin": "それもそうですが、老後の蓄えもないので",
+      "content": "That's part of it, but we also don't have savings for our retirement."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:32:15",
+      "origin": "教育資金が終わっても夫婦2人の老後がありますものね。相談者さんは家族のためにもお仕事頑張ってこられたのですね。",
+      "content": "Even after the education expenses are done, there's still retirement for the two of you. You've been working so hard for your family."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:32:25",
+      "origin": "そうですね",
+      "content": "Yes, I have."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:32:37",
+      "origin": "今のお仕事はどのくらい続けてこられたのですか？",
+      "content": "How long have you been at your current job?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:33:13",
+      "origin": "今の仕事になって15年位です",
+      "content": "It's been about 15 years at this job."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:34:12",
+      "origin": "長い間続けてこられたのですね。それが今上司との関係性で悩まれていらっしゃる。それだけ長く続けてこられたのですから、",
+      "content": "You've been there for such a long time. And now you're struggling with this relationship with your supervisor. Since you've been there for so long,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:34:39",
+      "origin": "そう簡単に辞めるという選択肢も取れないですよね。",
+      "content": "the option to just quit isn't an easy one to take, is it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:35:04",
+      "origin": "そうなんです。前の上司はいい人でした。",
+      "content": "Exactly. My previous supervisor was a good person."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:35:44",
+      "origin": "そうなのですね。前の上司と比べてしまうと余計辛くなってしまいますね。",
+      "content": "I see. Comparing the two must make it even more difficult."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:36:04",
+      "origin": "それもありますし、",
+      "content": "There's that, and also,"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:36:29",
+      "origin": "今の上司より、私の方が長く働いているので",
+      "content": "I've been working there longer than my current supervisor,"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:36:55",
+      "origin": "見下されるのに我慢できなくで",
+      "content": "I can't stand being looked down upon."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:37:33",
+      "origin": "相談者さんの方が勤務年数長いのですね。それなのにそうのような態度では、",
+      "content": "So you've been there longer than your supervisor. And yet with that kind of attitude—"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:38:05",
+      "origin": "今の上司には、私が仕事内容を教えたようなものですし、腹が立ちます。",
+      "content": "I practically taught my current supervisor the job, and it's infuriating."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:38:33",
+      "origin": "仕事のことはわかってる、頑張っているのは雇用形態関係なしにみんな一緒、と腹が立ちますよね",
+      "content": "It's infuriating to feel like, \"I know the job, and we're all working hard regardless of our employment status.\""
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:38:43",
+      "origin": "社員というだけでそんなに偉いのですかね",
+      "content": "Does being a full-time employee make them that much better?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:38:58",
+      "origin": "そのようなお気持ちになられるのはごもっともだと思います。",
+      "content": "I think your feelings are completely justified."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:39:14",
+      "origin": "そうですね、そのように感じてしまいますよね。",
+      "content": "Yes, I can see how you would feel that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:39:23",
+      "origin": "ちなみに、",
+      "content": "By the way,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:40:00",
+      "origin": "同じ部署の人とのご関係とか、相談ができるとかいかがでしょうか？",
+      "content": "what about your relationships with others in your department? Is there anyone you can talk to?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:40:28",
+      "origin": "ほぼ同じ仕事内で、しかも安く働いている上に、見下されてはやり切れません。",
+      "content": "I'm doing almost the same work, for less pay, and on top of that, I'm being looked down on. It's unbearable."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:40:48",
+      "origin": "他の人とは仲良くしています",
+      "content": "I get along well with the others."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:41:06",
+      "origin": "愚痴は聞いてくれますが",
+      "content": "They'll listen to me vent, but..."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:41:23",
+      "origin": "相談してもどうしようもない感じです",
+      "content": "it feels like there's nothing they can do even if I talk to them."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:42:24",
+      "origin": "やり切れなく感じてしまいますよね。愚痴は聞いてくれるけど相談しても、、という感じなのですね。",
+      "content": "It does feel unbearable, doesn't it. So they'll listen to you vent, but when it comes to getting advice, it feels like there's not much that can be done."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:42:32",
+      "origin": "夫さんはいかがでしょうか？",
+      "content": "What about your husband?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:43:14",
+      "origin": "夫にも話しています",
+      "content": "I've talked to my husband about it."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:43:34",
+      "origin": "夫は簡単に辞めればと言いますが",
+      "content": "He says I should just quit,"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:44:05",
+      "origin": "次の仕事とかについて真剣には考えていないと思います",
+      "content": "but I don't think he's seriously considering what comes next."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:44:23",
+      "origin": "家計のこともあまり気にしていませんし",
+      "content": "He's not too concerned about our household finances, either,"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:44:50",
+      "origin": "口だけなので、相談しても当てになりません",
+      "content": "so it's all talk, and I can't really count on him for advice."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:45:07",
+      "origin": "簡単にやめればと言われるのですね。長年続けてこられたし、仕事に対するプライドもある中、そんな簡単には辞められないですよね。",
+      "content": "He tells you to just quit. But having worked there for so many years, and with the pride you have in your work, it's not that simple, is it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:45:19",
+      "origin": "そうなんです",
+      "content": "Exactly."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:46:20",
+      "origin": "今のようにやり甲斐のある仕事が見つかるかもわかりません",
+      "content": "I don't know if I can find another job that's as fulfilling as this one."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:47:00",
+      "origin": "そうですね。やるがいのある仕事を見つけることもなかなか難しいものです。",
+      "content": "I agree. It's quite difficult to find a job that gives you a sense of purpose."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:47:30",
+      "origin": "時給も最低賃金より少し高いので、条件としては手放し難いです。",
+      "content": "The hourly wage is also a little higher than the minimum, so the terms are hard to let go of."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:47:42",
+      "origin": "その中で相談者さんは仕事にやりがいを感じ続けてこられたんですものね。",
+      "content": "And amidst all that, you've continued to find your work fulfilling."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:47:57",
+      "origin": "金銭面的にも魅力があるのですね。",
+      "content": "So it's financially appealing as well."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:48:19",
+      "origin": "でも、毎朝通勤する時気が重いです。",
+      "content": "But I feel heavy-hearted every morning on my way to work."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:48:44",
+      "origin": "どうしたらいいのでしょうか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:49:14",
+      "origin": "そうですね、考えると気が重くもなってしまいますよね。",
+      "content": "Yes, just thinking about it can make you feel weighed down."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:49:21",
+      "origin": "ここまで、",
+      "content": "So far,"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:49:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:49:51",
+      "origin": "どの様に考えれば耐えるのでしょうか？",
+      "content": "How should I think about this so that I can endure it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:50:37",
+      "origin": "上司の差別的な態度のこと、そして仕事に対するプライドややりがい、金銭面のことをお話しいただきました。その中でどのように考えれば",
+      "content": "you've told me about your supervisor's discriminatory attitude, as well as your pride in your work, the fulfillment it brings, and the financial aspect. And within that, you're wondering how you should think"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:50:54",
+      "origin": "耐えられるかという事を思っていらっしゃるのですね。",
+      "content": "in order to endure it. Is that right?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:51:11",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:51:36",
+      "origin": "耐えるという事は、今のお仕事を続けていく中でという事でお間違いないですか？",
+      "content": "When you say \"endure,\" does that mean within the context of continuing your current job?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:52:12",
+      "origin": "う〜ん迷っています",
+      "content": "Hmm... I'm undecided."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:53:37",
+      "origin": "そうですよね、相談者さん自身の人生、生活、日々の気持ちが関わってくるので迷われるのも当然です。それだけ相談者さんご自身の人生を大切にされているという事ですよね。",
+      "content": "Of course. It's natural to be unsure, as this involves your own life, your livelihood, and your daily feelings. It just shows how much you value your own life."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:53:58",
+      "origin": "そうですかね？",
+      "content": "Do you think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:54:42",
+      "origin": "はい、私はそうだと思います。これまでの人生の中でもたくさん迷われて選択をしてこられたと思います。",
+      "content": "Yes, I believe so. I imagine you've had to wrestle with choices many times throughout your life."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:55:03",
+      "origin": "そうかもしれません",
+      "content": "That might be true."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:55:55",
+      "origin": "その渦中にいるときはとてもしんどく辛いと思いますが、今までたくさんの経験をされ、お仕事に対してのやりがいも持っていらっしゃる相談者さんなら",
+      "content": "I know it must be very difficult and painful to be in the midst of it, but as someone who has had so many experiences and finds fulfillment in your work,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:56:50",
+      "origin": "きっとあなたらしい、正解になる選択をできると思います。それまでいろんな気持ちをここでお話していくながら、",
+      "content": "I'm sure you'll be able to make a choice that feels right for you. In the meantime, as we talk through your various feelings here,"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:57:18",
+      "origin": "人生の選択のお手伝いができたらなと思うのですがいかがでしょうか？",
+      "content": "I would like to help you with this life choice. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:57:55",
+      "origin": "手伝ってもらえると心強いです",
+      "content": "It would be very reassuring to have your help."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:58:52",
+      "origin": "はい、ぜひお手伝いさせてください。そして、相談者さんがこの選択で良かったと思えるように一緒に考えていきましょう。",
+      "content": "Yes, I'd be glad to help. Let's think it through together so that you can feel this was the right choice."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:59:12",
+      "origin": "はい、ありがとうございます",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:00:05",
+      "origin": "こちらこそありがとうございます。大切なお話なので、また次回ゆっくりお話しができたらと思います。",
+      "content": "Thank you as well. This is an important discussion, so I hope we can take our time and talk again next time."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T11:00:17",
+      "origin": "分かりました",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:00:48",
+      "origin": "今日は色々な気持ちが出てきて疲れたかもしれません。この後は暖かくしてお過ごしください。",
+      "content": "You may feel tired after all the emotions that came up today. Please keep yourself warm and take care for the rest of the day."
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T11:01:05",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:01:46",
+      "origin": "この相談窓口は毎日開設しているのでまたいつでもお越しください。本日は大切なお気持ちを話していただきありがとうございました。",
+      "content": "This counseling service is open every day, so please feel free to come back anytime. Thank you for sharing your important feelings with me today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:02:15",
+      "origin": "（ありがとうございました。終了メッセージ送っても大丈夫でしょうか？）",
+      "content": "(Thank you. Is it alright if I send the closing message?)"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T11:02:51",
+      "origin": "(ありがとうございました。終了メッセージお願いします)",
+      "content": "(Thank you. Please send the closing message.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:03:13",
+      "origin": "それでは終了メッセージを送らせていただきます。ありがとうございました。",
+      "content": "I will now send our closing message. Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司からの差別的態度による悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 6375,
+    "evaluation_created_at": "2024-02-04T11:31:00",
+    "client_id": 179,
+    "counselor_id": 385,
+    "score": 78,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

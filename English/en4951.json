@@ -1,0 +1,525 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-04-26T20:51:25",
+      "origin": "（こんばんは。本日はよろしくお願いします。時間になったら始めたいと思います。）",
+      "content": "(Good evening. Thank you for being here today. I'd like to start when it's time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T20:52:01",
+      "origin": "（こんばんは。本日はよろしくお願いします。）",
+      "content": "(Good evening. Thank you for being here today.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T20:52:04",
+      "origin": "(こんばんは。こちらこそ宜しくお願いします。)",
+      "content": "(Good evening. Thank you as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T20:55:58",
+      "origin": "(line-coのトラブルでカウンセラー側からメッセージを送信しても、自動的に表示されなくなっている状態です。なので、スムーズに返答できないかもしれないのでご了承お願いします。）",
+      "content": "(Due to an issue with line-co, messages sent from the counselor’s side are not displaying automatically. Therefore, my responses might be delayed. Thank you for your understanding.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T20:57:43",
+      "origin": "(私も同じ事がありました)",
+      "content": "(I've had the same issue.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T20:58:22",
+      "origin": "(アイディアには連絡を入れてたのですが、まだ解消されてないようですね💦)",
+      "content": "(I contacted the admin about it, but it seems it hasn't been resolved yet.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T20:59:08",
+      "origin": "(慌てずにやってくださいね)",
+      "content": "(Please take your time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:00:06",
+      "origin": "（ありがとうございます。）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:00:35",
+      "origin": "こんばんは。相談員です。よろしくお願いします。",
+      "content": "Good evening. I'm the counselor. It's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:00:51",
+      "origin": "宜しくお願いします。",
+      "content": "It's nice to meet you, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:01:32",
+      "origin": "それでは、性別、年齢、相談内容を教えていただけますか？",
+      "content": "To begin, could you please tell me your gender, age, and what you would like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:02:11",
+      "origin": "女性、50歳、仕事のことです。",
+      "content": "I'm a 50-year-old woman, and it's about my work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:03:39",
+      "origin": "そうなんですね。詳しく教えていただけますか？",
+      "content": "I see. Could you tell me more about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:05:09",
+      "origin": "最近仕事にやりがいを感じません。",
+      "content": "Lately, I haven’t been finding my work rewarding."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:05:55",
+      "origin": "そうだったのですね。",
+      "content": "I see, that's how you've been feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:06:48",
+      "origin": "どのような所にやりがいを感じてないのでしょうか？",
+      "content": "In what ways have you not been finding it fulfilling?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:08:43",
+      "origin": "30年同じような仕事をしているけど、生産性を感じられずにいます。",
+      "content": "I've been doing similar work for 30 years, but I don't feel productive."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:10:12",
+      "origin": "そうなんですね。虚しさを感じながら仕事をするのは嫌ですよね。",
+      "content": "I see. It must be difficult to work while feeling a sense of emptiness."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:10:45",
+      "origin": "ちなみにどういったお仕事をされているのですか？",
+      "content": "By the way, what kind of work do you do?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:11:47",
+      "origin": "事務職です。接客もあるので、人との関わりもあります。",
+      "content": "I'm in an administrative role. It also involves customer service, so I interact with people."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:12:33",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:12:38",
+      "origin": "これまでいくつもの資格も取り、仕事に活かそうと",
+      "content": "I've earned several qualifications over the years, trying to apply them to my work..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:13:16",
+      "origin": "事務のお仕事をしているとき、どんなところで生産性がないと感じるのですか？",
+      "content": "When you're doing your administrative work, what makes you feel that it's not productive?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:13:51",
+      "origin": "しても、評価されることもなく、達成感を感じられません。",
+      "content": "...but I don't get recognized for it, and I don't feel a sense of accomplishment."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:14:01",
+      "origin": "失礼しました。続けてください。",
+      "content": "I'm sorry for interrupting. Please continue."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:14:28",
+      "origin": "認められない、ということかもしれません。",
+      "content": "It might be that I'm not being acknowledged."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:14:53",
+      "origin": "そうでしたか。教えてくださってありがとうございます。",
+      "content": "I see. Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:15:39",
+      "origin": "どんなに頑張っても",
+      "content": "No matter how hard I try..."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:16:01",
+      "origin": "ただの事務員としか思われないんです。",
+      "content": "I feel like I'm only seen as just another office worker."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:16:49",
+      "origin": "職場のため、自分の時間を犠牲にして資格を取ったのに認めてもらえないのは職場に対して残念な気持ちになりますよね。",
+      "content": "It must be disappointing to sacrifice your personal time to get qualifications for your job, only to not be recognized for it."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:17:18",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:18:47",
+      "origin": "評価されないと分かったとき、どう思いましたか？",
+      "content": "When you realized you weren't being recognized, how did you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:19:24",
+      "origin": "自分はこんなもんか、できないんだな、と思いました。",
+      "content": "I thought, \"Is this all I'm capable of? I guess I'm just not good enough.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:20:54",
+      "origin": "そうでしたか。ご自身に対して落胆したということでしょうか？",
+      "content": "I see. Would you say you were disappointed in yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:21:16",
+      "origin": "それもありますね。",
+      "content": "That’s part of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:22:08",
+      "origin": "そうなんですね。落ち込みますよね。",
+      "content": "I understand. It must be disheartening."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:22:34",
+      "origin": "周りの人の自分への扱い方も気に入らないと感じているのかもしれません。",
+      "content": "I think I might also be unhappy with the way people around me treat me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:22:47",
+      "origin": "落胆以外にはどんな気分になったのですか？",
+      "content": "Besides disappointment, what other feelings came up?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:23:23",
+      "origin": "行き違いになってすみません。",
+      "content": "I'm sorry, our messages must have crossed."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:24:35",
+      "origin": "いえいえ、やるせない気持ちもあるし、",
+      "content": "No, it's okay. There's also a sense of frustration..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:25:19",
+      "origin": "周りの方の関わり方とご自身に対する評価が気に入らないという事なのですね。",
+      "content": "So you're unhappy with how others interact with you and how you are evaluated."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:26:31",
+      "origin": "そうですね。　自意識過剰かもしれないですけど。このままの状態で定年まで働いていくのか、という不安です。",
+      "content": "Yes. I might be overly self-conscious, but I feel anxious about having to keep working like this until retirement."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:28:44",
+      "origin": "そうでしたか。長い間務めている職場でプライベートの時間を割いて努力しているのに、評価されなければ疑問を感じるのは自然な事だと思いますよ。",
+      "content": "I see. I think it's natural to question things when you've worked at a place for a long time, devoted your personal time to improving, and still don't receive recognition."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:30:10",
+      "origin": "相談者さまは今後どうしたいと思ってますか？",
+      "content": "What would you like to do going forward?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:31:49",
+      "origin": "わからないんです。一生懸命やって来たことが結果につながると達成感を感じられると思うのですが",
+      "content": "I don't know. I think I would feel a sense of accomplishment if my hard work led to results, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:32:17",
+      "origin": "今の職場でそれを感じられる日が来るのか疑問です。",
+      "content": "...I doubt that day will ever come at my current job."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:32:39",
+      "origin": "でも、安定した収入を手放したくありません。",
+      "content": "But I don't want to give up my stable income."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:33:44",
+      "origin": "そうでしたか。資格を取って結果を出しているのに、評価されないとなると、何をすれば評価されるのか分からなくなりますよね。",
+      "content": "I see. When you're getting qualifications and producing results but still aren't being recognized, it must be confusing to know what you need to do to be valued."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:33:58",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:35:03",
+      "origin": "また、いきなり方向転換して、収入に影響するのは怖いですよね。",
+      "content": "And it must be scary to suddenly change direction and have it affect your income."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:35:46",
+      "origin": "そうなんです。",
+      "content": "Exactly."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:38:44",
+      "origin": "ただお給料をもらう場所、と割り切ることも考えましたが、",
+      "content": "I also considered just seeing it as merely a place to earn a paycheck, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:39:11",
+      "origin": "相談者さまはお仕事において、やった事が評価に繋がる事が重要と考えていますか？",
+      "content": "Do you consider it important at work that what you do leads to recognition?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:39:33",
+      "origin": "すみません。続けてください。",
+      "content": "I'm sorry. Please continue."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:41:19",
+      "origin": "評価が全てではないとは思いますが、達成感ややりがいに繋がるものとしての位置付けとしては固いと感じます。",
+      "content": "I don't think recognition is everything, but I feel it's a solid part of what leads to a sense of accomplishment and purpose."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:44:23",
+      "origin": "そうなんですね。収入も大切ですが、頑張ってよかったなど喜びを感じられる事を軸に置いておられるのですね。",
+      "content": "I see. So while income is important, you also value feeling joy, like knowing your hard work was worth it."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:46:28",
+      "origin": "はい、そうですね。収入という物質的な豊かさも生活していく上で必要ですが、やりがい、達成感、など精神的な豊かさも求めます。",
+      "content": "Yes, that’s right. Material wealth like income is necessary to live, but I also seek psychological fulfillment such as purpose and a sense of accomplishment."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:47:28",
+      "origin": "そして、今のところ職場ではそういった感情に恵まれないという事でしたが、そういうのが変わりそうな兆しなどはありますか？",
+      "content": "And you mentioned that you're not currently experiencing those feelings at work. Are there any signs that things might change?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:48:58",
+      "origin": "特にないですね。。。異動の予定もないですし、仕事内容も変わる予定がないです。",
+      "content": "Not really... There are no plans for me to transfer, and my job duties aren't scheduled to change."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:50:11",
+      "origin": "そうでしたか。希望が持てない環境というのは、気が滅入りますよね。",
+      "content": "I see. It must be dispiriting to be in an environment where you can't feel hopeful."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:51:29",
+      "origin": "はい。期待せずに働いていけば悩むこともないんでしょうけど。",
+      "content": "Yes. I suppose if I worked without any expectations, I wouldn't have this problem."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:52:08",
+      "origin": "ちなみに相談者さまの中では、仕事（職場）の中で達成感を感じたいと考えているのでしょうか？",
+      "content": "By the way, do you want to feel a sense of accomplishment within your work (at your workplace)?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:52:59",
+      "origin": "はい、そうです。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:55:15",
+      "origin": "ありがとうございます。では、どうすれば仕事の中で達成感を感じられるかが焦点ということですね。",
+      "content": "Thank you. So, the focus is on how you can feel a sense of accomplishment in your work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:56:05",
+      "origin": "あと、もう少しで1時間が経過しますがお時間は大丈夫ですか？",
+      "content": "Also, it's been almost an hour. Is that alright with your schedule?"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:57:37",
+      "origin": "自分も達成感が感じられていて、かつ、周りにも良い影響を与えられることを求めます。",
+      "content": "I want to feel a sense of accomplishment myself, and also have a positive impact on those around me."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:57:58",
+      "origin": "時間はこのあと予定があるので、",
+      "content": "I have plans after this, so..."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:58:15",
+      "origin": "また次回来たいと思います。",
+      "content": "...I'd like to come back for another session."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:59:13",
+      "origin": "かしこまりました。それでは、次回どうしていくのがいいのか考えていきましょう。",
+      "content": "Understood. Then next time, let’s think about what would be a good way forward."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:59:32",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T21:59:36",
+      "origin": "本日は相談に来てくださってありがとうございました。",
+      "content": "Thank you for coming in to talk today."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T21:59:53",
+      "origin": "こちらこそありがとうございます。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T22:01:04",
+      "origin": "また次回お越しになるのをお待ちしています。",
+      "content": "I look forward to seeing you again next time."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T22:01:23",
+      "origin": "はい、また来ます。よろしくお願いします。",
+      "content": "Yes, I'll come again. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T22:01:43",
+      "origin": "では、失礼します。",
+      "content": "Then, take care."
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T22:02:05",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T22:02:16",
+      "origin": "（お疲れさまでした。どうもありがとうございました。）",
+      "content": "(Thank you for your time today. Thank you very much.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T22:02:33",
+      "origin": "(お疲れ様でした。こちらこそありがとうございました。)",
+      "content": "(Thank you for your time. Thank you as well.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-26T22:04:02",
+      "origin": "(ロールプレイ、終了して頂いて大丈夫ですよ)",
+      "content": "(You can end the role-play now.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T22:04:11",
+      "origin": "（システムの不具合でスムーズにできない中で対応してもらい、ありがとうございました。評価もよろしくお願いします。）",
+      "content": "(Thank you for your cooperation despite the system issues that prevented a smooth session. I would appreciate your rating as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-26T22:04:31",
+      "origin": "（では、終了します。失礼します。）",
+      "content": "(Okay, I'll end the session now. Goodbye.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "仕事に対するやりがいの喪失"
+  },
+  "review_by_client": {
+    "evaluation_id": 4951,
+    "evaluation_created_at": "2023-04-27T23:39:00",
+    "client_id": 364,
+    "counselor_id": 302,
+    "score": 77,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

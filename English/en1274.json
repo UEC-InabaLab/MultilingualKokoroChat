@@ -1,0 +1,555 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-01-30T13:51:58",
+      "origin": "こんにちは",
+      "content": "Hello."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T13:52:45",
+      "origin": "こんにちは。よろしくお願いいたします。",
+      "content": "Hello. Thank you for seeing me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T13:53:23",
+      "origin": "宜しくお願いいたします。少し早いですが準備がよろしければ始めさせていただきます、いかがでしょう",
+      "content": "It's nice to meet you too. We're a little early, but if you're ready, I'd like to begin. How does that sound?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T13:54:00",
+      "origin": "はい、大丈夫です。お願いします。",
+      "content": "Yes, that’s fine. Please go ahead."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T13:54:23",
+      "origin": "ありがとうございます。始めますね",
+      "content": "Thank you. Let's get started then."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T13:54:46",
+      "origin": "こんにちは相談員です。今日はどのようなごそうだんでしょうか？",
+      "content": "Hello, I'm your counselor. What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T13:55:47",
+      "origin": "なんて言ったらいいか…私っていったい何だろうって、最近思うんです。",
+      "content": "I’m not sure how to put this… Lately, I've been wondering, ‘Who am I, really?’"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T13:56:10",
+      "origin": "そうなんですね、詳しくお話伺いますので、差し支えない範囲でご年齢、性別、お名前を教えていただけますか？",
+      "content": "I see. To better understand, could you please tell me your name, age, and gender—only as much as you’re comfortable sharing?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T13:56:50",
+      "origin": "39歳女性、みく、です",
+      "content": "I’m Miku, a 39-year-old woman."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T13:57:09",
+      "origin": "みくさん、ありがとうございます。「私っていったい何だろう」とのことですが、どんな時にそんな気持ちになってしまうんでしょう",
+      "content": "Thank you, Miku. You mentioned wondering, \"Who am I, really?\" When do you find yourself feeling that way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T13:57:57",
+      "origin": "毎日毎日、家事だけをただ繰り返しているだけで、空しくなってしまいます",
+      "content": "Every day, it's just the same chores over and over, and it makes me feel empty."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T13:59:50",
+      "origin": "そうなんですね、毎日の家事で空しさをかんじてしまう。。。気持ちが揺れてしまうのですね。。。",
+      "content": "I see, so the daily housework makes you feel empty... It sounds like your emotions are unsettled..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:00:26",
+      "origin": "何とも言えない、気持ちになります",
+      "content": "It's an indescribable feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:01:33",
+      "origin": "ご自身でも掴み処のない不安なのかもしれませんね。みくさんのご家族は何人ですか？",
+      "content": "Perhaps it's a sense of anxiety that's hard for even you to pinpoint. How many people are in your family, Miku?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:02:00",
+      "origin": "4人家族です",
+      "content": "We're a family of four."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:03:53",
+      "origin": "お子様と夫さんとみくさんと言う４にんですね。家事がむなしく感じるのはいつごろからですか？",
+      "content": "So that's you, your husband, and your children—four of you in total. When did you start feeling this emptiness about housework?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:05:00",
+      "origin": "むなしいと感じたのは1年前くらいです",
+      "content": "I started feeling empty about a year ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:05:51",
+      "origin": "一年も前から。。。長くつらいお気持ちに耐えて来られたんですね。。。何かきっかけは思い当たりますか？",
+      "content": "For a whole year... You've been enduring these painful feelings for a long time... Can you think of anything that might have triggered it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:07:03",
+      "origin": "ここに引っ越してから、2年近いんですが、生活が変わったということはありました。",
+      "content": "It’s been almost two years since we moved here, and my life did change."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:08:54",
+      "origin": "なるほど、お引越しで環境が変わられたんですね。変わって不都合だったり、困ったりすることに遭っておられますか？",
+      "content": "I see—the move changed your environment. Have you experienced any inconveniences or difficulties because of that change?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:09:51",
+      "origin": "日常の生活で困っているわけではないのですが、なんだか時間がたつほどに空しくなってきました",
+      "content": "I'm not having trouble with my daily life, but somehow, as time goes on, I've started to feel more and more empty."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:10:40",
+      "origin": "越してすぐは必死だったから。気にならなかったのかも。",
+      "content": "Right after we moved, I was so focused on just getting settled that maybe it didn’t bother me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:11:12",
+      "origin": "そうですよね、いろいろな事を片付けるのに忙しいですものね。",
+      "content": "That makes sense, you must have been busy getting everything sorted out."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:13:13",
+      "origin": "お子さんたちは小学生くらいですか？",
+      "content": "Are your children around elementary school age?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:14:14",
+      "origin": "はい、中3と小5です。",
+      "content": "Yes—one is in 9th grade and the other in 5th grade."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:15:59",
+      "origin": "少しずつ自立してきたご年齢ですね、以前より手がかからないと言う事も、みくさんの気持ちに影響あるのかもしれないですね",
+      "content": "They're at an age where they're gradually becoming more independent. The fact that they don't need as much hands-on care as before might also be affecting how you feel."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:17:03",
+      "origin": "そうですね、越してきて、友達ともうまくやってるし、その点は、ホッとしています",
+      "content": "That's true. Since we moved, they've been getting along well with their friends, so I'm relieved about that."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:17:24",
+      "origin": "だけど、最近私の言うことなど聞きません",
+      "content": "But lately, they don't listen to anything I say."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:17:59",
+      "origin": "子供たちが何を考えているのかわかりません",
+      "content": "I don’t know what my children are thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:19:06",
+      "origin": "みくさんのお母さんの面ではお子様に安心されているところも、考えを計れないところもあるんですね。。。その辺が不安に感じるきっかけなのかもしれないですね。",
+      "content": "So, as a mother, there are aspects where you feel relieved about your children, but also parts where you can't figure out what they're thinking... Perhaps that's a source of your anxiety."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:21:14",
+      "origin": "自分は女姉妹だったから、特に、男の子が考えていることもよくわからないし、",
+      "content": "I grew up with only sisters, so I especially don't understand what boys are thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:21:33",
+      "origin": "はい",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:22:08",
+      "origin": "何を考えているかわからなくて、、、夫に相談しても、取り合ってもらえません",
+      "content": "I don't know what they're thinking... and when I try to talk to my husband about it, he doesn't take me seriously."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:22:41",
+      "origin": "彼は仕事命、だし",
+      "content": "His work is his life."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:23:31",
+      "origin": "お前に任せる、とか言わんばかりで、何も言えません",
+      "content": "It's as if he's saying, \"I'm leaving it all to you,\" so I can't say anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:24:09",
+      "origin": "夫さんはお忙しいんですね、それで家庭の事はみくさんが一手になさってるのでしょうね、とっても負担が大きいですよね。中学生のお子さんは反抗期と言われる年齢ではありますね",
+      "content": "Your husband is very busy, then. So you're handling all the family matters by yourself. That must be a huge burden. And your junior high schooler is at an age often called the rebellious phase."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:25:04",
+      "origin": "夫さんはそんな風に。。。言われた時にはどんな気持ちになられましたか？",
+      "content": "When your husband says things like that... how does it make you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:26:40",
+      "origin": "なんだか、私一人が背負わなきゃならないみたいで、、、でも、仕事に夢中な人にしてみれば、贅沢なことに聞こえますよね…",
+      "content": "It feels like I have to shoulder everything myself... But to someone who's absorbed in their work, this probably sounds like a luxury problem, doesn't it..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:27:24",
+      "origin": "だから何も言えないままです。",
+      "content": "So I end up not saying anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:27:42",
+      "origin": "そんな気持ちになる必要はありませんよ！",
+      "content": "You don't have to feel that way!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:28:00",
+      "origin": "そうですか？",
+      "content": "Really?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:28:49",
+      "origin": "はい、私は社会で働くことも、家庭の差配をすることも立派な大人のお仕事だと思います！",
+      "content": "Yes. I believe that working outside the home and managing a household are both respectable jobs."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:30:30",
+      "origin": "みくさんは夫さんが社会に出ることを支えて、お二人のお子さんをもうすぐ自立できるまでに育てておられるのだから、今までの努力も含めて大変なお仕事を成し遂げていると思いますよ！",
+      "content": "You support your husband so he can work, and you've raised your two children to the point where they're nearly independent. Including all your efforts up to now, I think you've accomplished a tremendous job!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:31:42",
+      "origin": "そう言って下さるとありがたいですが、なんだか、このむなしさは何なんだろうと思ってしまいます。",
+      "content": "I appreciate you saying that, but I still can't help but wonder what this emptiness is all about."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:33:09",
+      "origin": "そうですよね、むなしい気持を抱えたままで毎日を過ごすのは苦しいことですよね。。。みくさんの心持ちを考えると切なくなります。",
+      "content": "I understand. It must be painful to go through each day carrying that feeling of emptiness... It saddens me to think about how you must be feeling."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:34:37",
+      "origin": "皆はそれぞれ自分の世界があって、、、でも、わたしは、、、と思うと空しくなります",
+      "content": "Everyone seems to have their own world… and when I think, ‘But what about me?’ I feel empty."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:36:29",
+      "origin": "そんな寄る辺ないおきもちなんですね。。。不安に思われていると思います。一年もの間辛い気持をおして、何とか日常生活を頑張ってこられたと思いますが、今日をきっかけにみくさん自身がみくさんを大事にすることを最優先にしていただきたいです！",
+      "content": "It sounds like you feel adrift, without an anchor. That must be unsettling. For a whole year, you’ve pushed through the pain and managed your daily life. Starting today, I’d like you to make caring for yourself your top priority."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:37:08",
+      "origin": "大事に？",
+      "content": "Take care of myself?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:37:27",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:37:44",
+      "origin": "ここまでお話伺って感じたのですが、",
+      "content": "From what I’ve heard so far, I get the impression that…"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:38:17",
+      "origin": "はい",
+      "content": "Yes?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:39:25",
+      "origin": "みくさんはお引越しなど忙しい出来事を乗り越えて、今、一時的に目標ややるべきことが無いと感じる状態におられるのかと思います。",
+      "content": "I get the sense that after overcoming a busy period with the move, you're now in a state where you temporarily feel you have no goals or things you need to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:42:43",
+      "origin": "真面目で一生懸命家族をお支えになっているみくさんですから、頑張っていろいろな事を片付けたお疲れが目に見えない形で溜まっているタイミングなのではないでしょうか？",
+      "content": "You're a very dedicated person who works hard to support your family, so perhaps the fatigue from getting everything sorted out has built up in an invisible way."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:45:40",
+      "origin": "疲れてはいるのですけど、なんだか、持て余している気もしています",
+      "content": "I am tired, but somehow I also feel like I have time and energy on my hands that I don’t know what to do with."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:46:12",
+      "origin": "私って、幸せなのかな、って思ってしまします",
+      "content": "I find myself wondering, \"Am I happy?\""
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:46:40",
+      "origin": "別に何不自由ないのに、贅沢な話ですよね",
+      "content": "I don’t really lack anything, so it sounds self-indulgent, doesn’t it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:47:31",
+      "origin": "贅沢な事とは思いません、充実感が感じられない時はそんな気持ちもしてしまいます、自然な事だと思いますよ。",
+      "content": "I don't think it's self-indulgent at all. It's natural to feel that way when you don't have a sense of fulfillment."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:47:40",
+      "origin": "なんか、自分の人生を生きていないような感覚なんです",
+      "content": "It feels like I’m not living my own life."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:49:25",
+      "origin": "辛いですよね。。。目に見えないものだから余計に不安になりますよね。。。",
+      "content": "That must be difficult... And because it's something you can't see, it makes you even more anxious, doesn't it..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:52:00",
+      "origin": "少しわかりにくいかもしれませんが、みくさんが「持て余す」とお感じだと言う事は私には「希望がある事」のように感じています",
+      "content": "This might be a little hard to understand, but the fact that you feel you have \"too much time\" on your hands feels to me like a sign of hope."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:52:37",
+      "origin": "みくさんの中に、使い始めていないエネルギーがあるのだなと思ったのです。",
+      "content": "I thought that there's untapped energy inside of you."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:53:19",
+      "origin": "使い始めていないエネルギー？",
+      "content": "Untapped energy?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:55:05",
+      "origin": "はい、家事やご家族を支えることの他に、みくさん自身の世界を持てるだけのエネルギーがある気がします。",
+      "content": "Yes—beyond housework and supporting your family, I sense you have enough energy to create a world of your own."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:55:45",
+      "origin": "そうなんでしょうか？",
+      "content": "Do you really think so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:56:11",
+      "origin": "そう感じさせていただきました。",
+      "content": "That's the impression I got."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:56:53",
+      "origin": "だけど、何にもとりえもない私です…",
+      "content": "But I don't have any special skills..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:57:22",
+      "origin": "思い切りが必要かもしれませんが、家庭とは別の場を見つけてみるのはいかがでしょうか。",
+      "content": "It might take a leap of faith, but how about trying to find a place for yourself outside of the home?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T14:57:54",
+      "origin": "別の場所？ですか",
+      "content": "A different place?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:58:05",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T14:59:11",
+      "origin": "パートのようなご家庭に支障のないお仕事をされるとか、興味のある資格や勉強をしてみるとか、ボランティアなどもいいかもしれません。",
+      "content": "Something like a part-time job that doesn't interfere with your family life, studying for a certification you're interested in, or even volunteering could be good options."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:00:08",
+      "origin": "一番大切なのは、みくさんが小さくても良いので何か目標のようなことを見つけられると言う事だと思っています。",
+      "content": "I think the most important thing is for you to find something like a goal for yourself, even a small one."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T15:00:36",
+      "origin": "考えてもみませんでしたが、私にできるでしょうか？",
+      "content": "I never even considered it... do you think I could do it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:01:16",
+      "origin": "はい、思い切るまではちょっと勇気が要るかもしれませんが、きっとお出来になると思います。",
+      "content": "Yes. It may take a bit of courage to take the plunge, but I’m sure you can do it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:02:18",
+      "origin": "お話を伺って、みくさんは大人の配慮や周囲への心遣いの出来る賢い女性だとかんじています。",
+      "content": "From speaking with you, I sense you’re a thoughtful, considerate, and wise woman."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T15:02:58",
+      "origin": "そうでしょうか、ありがとうございます考えてみたら、自分が何が好きかもよくわかっていませんでした。",
+      "content": "Do you think so? Thank you. Thinking about it now, I realize I don't even know what I like anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:03:24",
+      "origin": "一生懸命ご家族優先で生きて来られたんですね！",
+      "content": "You've been living your life working hard and putting your family first!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:04:07",
+      "origin": "これからはみくさん自身を楽しませてあげる時間を作ってあげて良いのではないでしょうか",
+      "content": "From now on, don't you think it's okay to make some time to let yourself have fun?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:05:28",
+      "origin": "ゆっくりとで構いませんので、昔好きだったものや挑戦してみたかったことを思い返すことから始められてはいかがでしょう",
+      "content": "You can take your time, so how about starting by trying to remember things you used to like or things you wanted to try?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T15:07:51",
+      "origin": "思い返すことからですね",
+      "content": "Start by remembering... okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:08:30",
+      "origin": "はい！やってみてください。そろそろ時間が来てしまいましたが、また考えが煮詰まったり、気持ちがふさいだ時には相談にいらしてください。お話伺いますね。",
+      "content": "Yes! Please give it a try. Our time is almost up, but if you find yourself stuck in your thoughts or feeling down again, please come and talk to me. I'll be here to listen."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T15:08:58",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:10:12",
+      "origin": "新しい目標を見つけられるよう応援しております！今日はご相談くださってありがとうございました。",
+      "content": "I’m cheering you on as you look for a new goal. Thank you for reaching out today."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T15:12:16",
+      "origin": "ありがとうございました。失礼します。",
+      "content": "Thank you. Goodbye."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:12:25",
+      "origin": "（ロープレありがとうございました）",
+      "content": "(Thank you for the role-play.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-30T15:13:01",
+      "origin": "（お疲れ様でした。勉強させていただきました。）",
+      "content": "(Thank you. This was a great learning experience.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-30T15:13:35",
+      "origin": "（失礼いたします！）",
+      "content": "(Goodbye!)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子供とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1274,
+    "evaluation_created_at": "2021-01-30T16:00:00",
+    "client_id": 108,
+    "counselor_id": 121,
+    "score": 77,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

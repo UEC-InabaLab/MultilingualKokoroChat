@@ -1,0 +1,861 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-07-03T16:59:32",
+      "origin": "17時よりよろしくお願いいたします。相談者役の綾瀬です。",
+      "content": "I look forward to speaking with you from 5 p.m. I'm Ayase, and I'll be in the role of the client."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T16:59:50",
+      "origin": "こんにちは相談員です。よろしくお願いいたします。",
+      "content": "Hello, I'm the counselor. It's a pleasure to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:00:15",
+      "origin": "よろしくお願いします。",
+      "content": "It's a pleasure to meet you too."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:00:40",
+      "origin": "最初にクライエントさんの年齢と性別を教えていただけますか？",
+      "content": "To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:01:02",
+      "origin": "17歳　女です",
+      "content": "I'm 17, female."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:01:25",
+      "origin": "ありがとうございます。学年も教えていただけますか？",
+      "content": "Thank you. May I also ask what grade you are in?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:01:57",
+      "origin": "高二です",
+      "content": "I'm in my second year of high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:02:08",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:02:19",
+      "origin": "今日はどのようなご相談でしょうか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:02:49",
+      "origin": "太れなくて困ってます",
+      "content": "I'm having trouble gaining weight."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:03:33",
+      "origin": "そうなんですね。もう少し具体的に教えていただいてもいいですか？",
+      "content": "I see. Could you tell me a little more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:04:28",
+      "origin": "食べても太らなくて困ってます",
+      "content": "The problem is that I don't gain weight, even when I eat."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:05:08",
+      "origin": "そこが気になっているんですね・・・",
+      "content": "So that's what's concerning you..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:05:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:06:41",
+      "origin": "太れないことでどんな点がおこまりなのですか？",
+      "content": "What specific issues are you facing because you can't gain weight?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:07:39",
+      "origin": "お医者さんに体重を増やすように言われています体重が少ないと体に悪いみたいです",
+      "content": "My doctor told me to gain weight. It seems that being underweight is bad for my health."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:08:12",
+      "origin": "お医者さんにも診てもらっているのですね。",
+      "content": "So you've seen a doctor about this."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:08:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:09:13",
+      "origin": "お医者さんは太るためにどんなことをするようにとのアドバイスでしょうか？",
+      "content": "What advice did the doctor give you for gaining weight?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:09:38",
+      "origin": "３食しっかり食べてね、と言われてます",
+      "content": "They told me to make sure to eat three proper meals a day."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:10:46",
+      "origin": "そのアドバイスをもらって、あなたとしては、どんな感じでしたか？",
+      "content": "How did you feel about that advice?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:11:11",
+      "origin": "うーん、食べてると思うけどな、少ないのかな、て感じです",
+      "content": "Hmm, I feel like I am eating, but maybe it's not enough? That's how it feels."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:11:43",
+      "origin": "実際に、毎日3食食べているんですね。",
+      "content": "So you're actually eating three meals every day."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:12:20",
+      "origin": "食べているんです。",
+      "content": "I am."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:12:47",
+      "origin": "そうなんですね。それなのに、まだ足りないってこと？はてな　という感じでしょうか。",
+      "content": "I see. So even so, you're left wondering, 'Is it still not enough?'"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:13:17",
+      "origin": "はい、そうなんです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:13:31",
+      "origin": "体重は増えていないので…",
+      "content": "Because my weight isn't increasing..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:14:52",
+      "origin": "なるほど。ご自分の感覚では今の体重で　なにか生活的に　不都合とか感じることはおありですか？",
+      "content": "I understand. From your own perspective, do you feel any inconvenience in your daily life at your current weight?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:15:12",
+      "origin": "特にないんです",
+      "content": "Not particularly."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:15:19",
+      "origin": "でも、周りが心配するんですよね",
+      "content": "But the people around me worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:15:42",
+      "origin": "なるほど。親御さんとか？",
+      "content": "I see. Like your parents?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:16:14",
+      "origin": "そうですね、親やおばあちゃんとか、学校の先生とか",
+      "content": "Yes, my mother, my grandmother, and my teachers at school."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:16:55",
+      "origin": "そうなんですね。周りの大人たちがみんな心配しているみたいな感じですね・・・",
+      "content": "I see. So it feels like all the adults around you are worried..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:17:15",
+      "origin": "そうなんです、だから太らないと、とは思うんですけどね",
+      "content": "That's right. That's why I feel I have to gain weight."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:18:18",
+      "origin": "周りの大人たちから、同じことを言われたら、そうしなきゃいけないのかな・・・と思ってしまいますよね・・・",
+      "content": "When the adults around you keep telling you the same thing, it's natural to feel like you have to do it, isn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:18:31",
+      "origin": "そうなんです。",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:19:18",
+      "origin": "ちなみに　お医者さんは　目安としてあと　何キロぐらい増やしなさいというお話しですか？",
+      "content": "By the way, did the doctor give you a target, like how many more kilograms you should gain?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:20:25",
+      "origin": "15kgです",
+      "content": "Fifteen kilograms."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:20:43",
+      "origin": "そうですか。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:21:37",
+      "origin": "ご自分では　その数字を言われて　どんな感じがしているのでしょうか？",
+      "content": "How do you personally feel about being told that number?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:22:06",
+      "origin": "そんなに増やす必要はよく分からないですね…",
+      "content": "I don't really understand why I need to gain that much..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:22:22",
+      "origin": "なるほど。そうなんですね。",
+      "content": "I see. So that's how you feel."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:22:59",
+      "origin": "お医者さんとしては、それだけ体重を増やす必要性については、何か話してくれたのですか？",
+      "content": "Did the doctor explain why it's necessary to gain that much weight?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:23:47",
+      "origin": "体に栄養が足りなくて、筋力がどんどん落ちて、動けなくなるよ、と言われました",
+      "content": "They said that my body lacks nutrients, my muscle strength will continue to decline, and I'll become unable to move."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:24:39",
+      "origin": "すると、やがて生活に支障が出てくる恐れあり　というコメントなのですね。",
+      "content": "So, in other words, they were warning that it could eventually interfere with your daily life."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:24:50",
+      "origin": "はい、そうなんです",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:25:08",
+      "origin": "その点については、あなたご自身はどんな感じで受け取ってるのですか？",
+      "content": "And how do you personally feel about that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:25:28",
+      "origin": "それは困るな、と思って",
+      "content": "I thought, 'That would be a problem.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:25:57",
+      "origin": "今は　日常生活では全然支障なく動けているのでしょうか？",
+      "content": "Right now, are you able to get through your daily life without any problems at all?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:26:42",
+      "origin": "疲れやすい感じはするけど、いつものことだから平気です",
+      "content": "I do feel like I get tired easily, but it's always been like this, so I'm fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:27:24",
+      "origin": "なるほど　今のところは　少し疲れやすいけれど、　なんとか　大丈夫という感じなのですね。",
+      "content": "I see. So for now, although you get tired easily, you feel like you're managing to get by okay."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:27:30",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:28:37",
+      "origin": "念のため、教えていただくと、今の体重は　最近　減ってきて、今の体重になったのでしょうか、　それとも　以前から同じくらいの体重のまま　変わらず　という感じですか？",
+      "content": "Just to be sure, did your weight decrease recently to its current level, or has it been stable at this weight for a while?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:30:12",
+      "origin": "以前は体重がもう少しあって、でも2年前くらいに、気づいたらガクッと減って、そのまま今の体重でいます。",
+      "content": "I used to weigh a little more, but about two years ago, my weight suddenly dropped, and it's been the same ever since."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:30:49",
+      "origin": "そうだったんですね。",
+      "content": "I see, so that's what happened."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:31:16",
+      "origin": "ご自分では、どうなれたらいいな　と思っておいでですか？",
+      "content": "What would you, for yourself, like to see happen?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:31:44",
+      "origin": "心配されないのがいいかな、周りに",
+      "content": "I think it would be nice if the people around me didn't worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:32:14",
+      "origin": "なるほど　周りに心配かけたくないというお気持ちでしょうか・・・",
+      "content": "I see. So you don't want to make the people around you worry..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:32:23",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:32:40",
+      "origin": "周りに気を遣っていらっしゃるんですね・・",
+      "content": "You're very considerate of those around you..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:32:58",
+      "origin": "うーん、周りが私に気を遣ってる感じかな",
+      "content": "Hmm, it's more like the people around me are being considerate of me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:33:09",
+      "origin": "なるほど　どうなんですね。",
+      "content": "I see, so that's how it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:33:54",
+      "origin": "ところで、2年前にガクッと体重が落ちたというお話しでしたが、何かきっかけとか　思い当たることはおありですか？",
+      "content": "By the way, you mentioned your weight dropped suddenly two years ago. Do you recall anything that might have triggered that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:34:35",
+      "origin": "いっとき食欲がなくなったときがありました",
+      "content": "There was a period when I lost my appetite."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:35:01",
+      "origin": "そうでしたか。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:35:33",
+      "origin": "何か食欲がなくなる　原因とか　きっかけとか　おありだったのですか？",
+      "content": "Was there any cause or trigger for your loss of appetite?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:35:49",
+      "origin": "高校受験落ちちゃって",
+      "content": "I failed my high school entrance exam."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:36:20",
+      "origin": "そうだったんですね。それはショックでしたね。",
+      "content": "Oh, I see. That must have been a shock."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:36:33",
+      "origin": "うん…",
+      "content": "Yeah..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:36:54",
+      "origin": "ご自分では何とか行きたい学校だったのでしょうね・・・",
+      "content": "It must have been a school you really wanted to get into..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:37:39",
+      "origin": "うーん、そういうわけじゃないけど、落ちると思ってなかったからびっくりした",
+      "content": "Hmm, not exactly, but I was surprised because I didn't expect to fail."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:38:10",
+      "origin": "過信してたね。笑",
+      "content": "I was overconfident. (laughs)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:38:22",
+      "origin": "そうだったんですね。ご自分でも予想外のできごとだったのですね・・・",
+      "content": "I see. So it was an unexpected event for you."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:38:41",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:38:57",
+      "origin": "お勉強に関しては自信もおありだったのでしょうね・・・",
+      "content": "You must have been confident about your studies..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:39:15",
+      "origin": "勉強はしてたからねぇ",
+      "content": "Well, I had been studying, after all."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:39:55",
+      "origin": "そうだったんですね。ご自分なりには力をつけていたと思っておいでだったんですよね・・",
+      "content": "I see. So you felt that, in your own way, you had prepared well enough..."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:40:46",
+      "origin": "うん、まぁ",
+      "content": "Yeah, well..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:41:09",
+      "origin": "それは　ショック大きかったでしょうね。",
+      "content": "That must have been a big shock."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:41:34",
+      "origin": "すっかり食欲がなくなってしまうのもうなずけます。",
+      "content": "It's understandable that you would completely lose your appetite."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:41:35",
+      "origin": "うん、そうでしたね",
+      "content": "Yeah, that's how it was."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:42:11",
+      "origin": "ちなみに、今通っている学校はご自分にとっては、どんな感じですか？",
+      "content": "By the way, how do you feel about the school you're attending now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:43:38",
+      "origin": "通信です、どんな感じかなぁ…特に、て感じかなぁ",
+      "content": "It's a correspondence school. As for how I feel about it... nothing in particular, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:44:03",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:44:23",
+      "origin": "ここまでのところを少し整理させていただいてもいいですか？",
+      "content": "Would it be alright if I took a moment to summarize what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:44:31",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:44:41",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:45:13",
+      "origin": "医師からもっとしっかり食事をして、体重を15キロぐらい増やすように言われている。",
+      "content": "Your doctor has told you to eat more substantial meals and gain about 15 kilograms."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:45:41",
+      "origin": "そうしないと、やがて栄養不足で筋肉が衰えて、動けなくなると言われている。",
+      "content": "You were told that if you don't, you'll eventually become unable to move due to malnutrition and muscle atrophy."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:46:13",
+      "origin": "今のところ、少し疲れやすいかなと思うが、日常生活には支障は出ていない。",
+      "content": "For now, you feel you get tired a bit easily, but it's not interfering with your daily life."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:47:05",
+      "origin": "きっかけは2年前に高校受験でうまく行かなった時に、食欲が落ちて、体重ががくっと減ってそのままできているという感じ。",
+      "content": "The trigger was about two years ago, when your high school entrance exams didn't go well, you lost your appetite, your weight plummeted, and it's stayed that way ever since."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:47:42",
+      "origin": "高校受験については、自分なりに勉強していたので、うまく行かなかったことがショックだった。今は通信制に通っている。",
+      "content": "Regarding the high school exam, it was a shock that you didn't do well because you felt you had studied in your own way. You are now attending a correspondence school."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:48:26",
+      "origin": "太ることについては、両親やおばあちゃん、学校の先生が心配してくれているので、周りの大人たちに心配かけたくないなという思いはある。",
+      "content": "As for gaining weight, since your parents, grandmother, and teachers are concerned, you have a desire not to make the adults around you worry."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:48:38",
+      "origin": "こんな理解でよろしいでしょうか？",
+      "content": "Is that a correct understanding?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:49:13",
+      "origin": "はい、そうですねお父さんはいないので、親はお母さんだけです",
+      "content": "Yes, that's right. My father isn't around, so my only parent is my mother."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:49:32",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:49:59",
+      "origin": "じゃあお母さんに心配かけたくないなという思いが強くおありなのでは？",
+      "content": "Then perhaps you have a strong desire not to worry your mother in particular?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:50:48",
+      "origin": "そうですね、親やおばあちゃんとか、学校の先生とか",
+      "content": "Yes, my mother, my grandmother, my teachers, and so on."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:51:06",
+      "origin": "そうですよね。",
+      "content": "Right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:51:38",
+      "origin": "周りの人たちに心配かけたくないなというお気持ちはよくわかりました。",
+      "content": "I understand very well that you don't want to make the people around you worry."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:51:45",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:52:12",
+      "origin": "ところで、あなたご自身は、本当はどうなっていきたいと思っているのでしょうか？",
+      "content": "By the way, what do you truly want for yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:52:39",
+      "origin": "心配かけたくないから、太らなきゃな、と思っています",
+      "content": "Because I don't want to make them worry, I feel like I have to gain weight."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:53:18",
+      "origin": "そのお気持ちよくわかりました。",
+      "content": "I understand that feeling very well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:54:01",
+      "origin": "ご自身では、もう少しだけ体重を増やすのに何か　考えていることはおありですか？",
+      "content": "Have you thought of anything yourself that might help you gain a little more weight?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:54:33",
+      "origin": "入院するしかないのかな、て思ってます",
+      "content": "I'm thinking I might have no choice but to be hospitalized."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:55:08",
+      "origin": "それはお医者さんの助言ですか？",
+      "content": "Is that the doctor's advice?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:56:09",
+      "origin": "うーん、食べても太らないから、入院して、食事管理してもらって増やしていく方法もあると言われています",
+      "content": "Hmm... they said that since I'm not gaining weight even when I eat, being hospitalized to have my diet managed is one possible way to increase it."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:56:20",
+      "origin": "お医者さんから言われました",
+      "content": "The doctor told me that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:56:34",
+      "origin": "そうなんですね。専門家のコメントですね。",
+      "content": "I see. That's a professional's opinion."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:56:56",
+      "origin": "ご自身ではそのことについては、どう思いますか？",
+      "content": "How do you feel about that yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:57:25",
+      "origin": "それもしょうがないですよね",
+      "content": "I guess it can't be helped."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:58:03",
+      "origin": "じゃあ　やってみるしかないな　と思っていらっしゃるという感じでしょうか？",
+      "content": "So, you feel like you have no choice but to try it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:58:30",
+      "origin": "うーん、そうですね",
+      "content": "Hmm, yes, that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:59:08",
+      "origin": "お気持ちがだいぶ　そちらに向いているようですね・・・",
+      "content": "It sounds like you're leaning quite a bit in that direction."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:59:29",
+      "origin": "ちなみに　入院することについて　何か気になることとかは　ありますか？",
+      "content": "By the way, is there anything that concerns you about being hospitalized?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:00:11",
+      "origin": "学校休むことになるし、家族と離れるし、携帯も使えないし、不自由そうだな、て感じです？",
+      "content": "I'll have to miss school, be away from my family, and I won't be able to use my phone... It seems like it will be very restrictive."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:00:22",
+      "origin": "感じです。",
+      "content": ""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:00:47",
+      "origin": "確かに　その間はいろいろ不便になってしまいますよね。",
+      "content": "It's true, it would be inconvenient in many ways during that time."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:01:04",
+      "origin": "はい、仕方ないですね。",
+      "content": "Yes, but it can't be helped."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:01:25",
+      "origin": "そこまで　気持が固まっているんですね。",
+      "content": "So your resolve is quite firm on this."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:01:37",
+      "origin": "それは一つの決断ですね。",
+      "content": "That is a significant decision."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:01:55",
+      "origin": "そうですね、一つの決断ですね。",
+      "content": "Yes, it is a significant decision."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:02:25",
+      "origin": "不便がありそうだけれど、入院して、自分の身体を作りなおしてみる。すごいことだと思いますよ。",
+      "content": "Even though it seems there will be inconveniences, you're going to be hospitalized to rebuild your body. I think that's an amazing thing."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:02:40",
+      "origin": "すごいこと、ですね、確かに。",
+      "content": "An amazing thing... yes, I suppose it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:03:04",
+      "origin": "そうですよ。2年来の大きな出来事ですよ・・・",
+      "content": "It is. It's the biggest step you've taken in two years."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:03:46",
+      "origin": "そうですね！",
+      "content": "That's right!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:03:49",
+      "origin": "そう決めようとしていることも立派です。",
+      "content": "It's admirable that you're trying to make that decision."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:03:59",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:04:06",
+      "origin": "応援していますよ。",
+      "content": "I'm rooting for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:04:19",
+      "origin": "何か気になることが出てきたらまたご相談に来てください。",
+      "content": "If anything else comes up that concerns you, please feel free to come and talk again."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:04:29",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:04:45",
+      "origin": "今日の所はこの辺でよろしいでしょうか？",
+      "content": "Shall we leave it there for today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:04:58",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:05:24",
+      "origin": "こちらこそ、ご相談に来てくださりありがとうございました。",
+      "content": "Thank you as well for coming to talk with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:06:06",
+      "origin": "では、失礼いたします。",
+      "content": "Well then, goodbye."
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:07:04",
+      "origin": "失礼します。",
+      "content": "Goodbye."
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "体重増加に関する悩み"
+  },
+  "review_by_client": {
+    "evaluation_id": 2128,
+    "evaluation_created_at": "2021-07-03T18:14:00",
+    "client_id": 142,
+    "counselor_id": 5,
+    "score": 66,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

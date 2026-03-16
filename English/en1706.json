@@ -1,0 +1,603 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:00:06",
+      "origin": "こんにちは相談員です。よろしくお願いいたします。",
+      "content": "Hello, I'm your counselor. It's nice to meet you."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:00:26",
+      "origin": "こちらこそよろしくお願いします！",
+      "content": "It's nice to meet you too!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:00:45",
+      "origin": "今日はどのようなご相談でしょうか？",
+      "content": "What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:01:16",
+      "origin": "はい、この歳になっても、うまく恋愛が出来ないんです",
+      "content": "Yes, even at my age, I can't seem to do well in romantic relationships."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:03:45",
+      "origin": "そうなんですね。最近の恋愛関係ではどんなことがおありだったのですか？",
+      "content": "I see. What has your romantic life been like recently?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:04:35",
+      "origin": "最近というか…ここ10年ぐらい、誰ともお付き合いが出来いないんです",
+      "content": "Well, not just recently... I haven't been in a relationship with anyone for about the last 10 years."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:05:21",
+      "origin": "そうなんですね。その前はどんなだったのですか？",
+      "content": "I see. What was it like before that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:05:56",
+      "origin": "その前も、ちゃんと付き合えてなかったかも…",
+      "content": "Even before that, I'm not sure I was ever in a proper relationship..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:08:48",
+      "origin": "そうだったんですね。ご自身としてはどんな風に異性と付き合っていけたらいいなと思っていらっしゃるんですか？",
+      "content": "I see. How would you ideally like to be in a relationship with someone?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:09:35",
+      "origin": "みんなみたいに、楽しくデートしたり、ごはん食べたりとか。",
+      "content": "Like everyone else, just going on fun dates, having meals together, things like that."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:11:13",
+      "origin": "そういうことができたらいいですね。",
+      "content": "It would be nice to be able to do those things, wouldn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:12:02",
+      "origin": "はい。でも私には出来ないんです。どうしてかな？",
+      "content": "Yes. But I can't seem to do it. I wonder why."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:12:28",
+      "origin": "ご自身としてはそんなことを実現していくために何かやって見られたことはおありですか？",
+      "content": "Have you tried doing anything yourself to make that happen?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:13:34",
+      "origin": "う〜ん…無いと思う",
+      "content": "Hmm... I don't think so."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:14:20",
+      "origin": "そうでしたか。ちなみに、あなたのことを何とお呼びしたらいいか、それから今の年齢を教えていただいてもいいですか？",
+      "content": "I see. By the way, what should I call you, and may I ask your current age?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:14:51",
+      "origin": "ジュンコです。38才。",
+      "content": "Junko. I'm 38."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:15:16",
+      "origin": "ジュンコさん、教えてくださりありがとうございます。",
+      "content": "Thank you for sharing that, Junko."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:17:33",
+      "origin": "デートとかお食事を楽しむためには、先ず出会いを作っていく必要があるかと思いますが、そのためになにかなさったことはおありですか？",
+      "content": "To enjoy dates and meals together, I think it's important first to create opportunities to meet people. Have you done anything toward that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:18:14",
+      "origin": "ないです。婚活とかコンパは苦手で…",
+      "content": "No, I haven't. I'm not good with things like matchmaking events or mixers..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:18:56",
+      "origin": "そうなんですね。何か　気になっていることとか　おありなのでしょうか？",
+      "content": "I see. Is there anything in particular that concerns you about them?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:20:21",
+      "origin": "なんか、自分なんかがそんなところに行ってもどうせ誰とも付き合えない気がする…",
+      "content": "I just feel like even if someone like me goes to places like that, I won't end up dating anyone anyway..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:21:01",
+      "origin": "そんなお気持ちになってしまうんですね。それは悲しいですね・・・",
+      "content": "So that's how you end up feeling. That must be sad..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:21:26",
+      "origin": "はい、そうなんです…",
+      "content": "Yes, that's right..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:21:52",
+      "origin": "ジュンコさん、ちなみに　お仕事とかはなさっているんですか？",
+      "content": "Junko, by the way, are you currently working?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:22:22",
+      "origin": "今は無職です。2年前に退職しました。",
+      "content": "I'm unemployed right now. I left my job two years ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:23:01",
+      "origin": "そうでしたか。今は日々どのように過ごしていらっしゃるんですか？",
+      "content": "I see. How are you spending your days at the moment?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:23:54",
+      "origin": "特にこれっていうのは…洗濯したり、食器洗ったり。時々散歩したり。",
+      "content": "Nothing in particular... I do the laundry, wash the dishes. Sometimes I go for a walk."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:24:24",
+      "origin": "おうちのことをなさっているんですね。ご家族は？",
+      "content": "So you're taking care of things at home. What about your family?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:24:43",
+      "origin": "両親と同居してます",
+      "content": "I live with my parents."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:25:47",
+      "origin": "そうなんですね。今はおうちのことをなさりながら、ゆっくりとした時間を過ごしていらっしゃるのですね・・・",
+      "content": "I see. So right now, you're taking care of things at home and living a more relaxed life..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:27:02",
+      "origin": "はい…ゆっくりし過ぎているので。仕事もなく、結婚もしていないので、焦る気持ちだけで苦しくなります",
+      "content": "Yes... maybe too relaxed. With no job and not being married, I just feel anxious and it's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:27:32",
+      "origin": "そう思うと気持ちも落ち着かなくなりますよね・・・",
+      "content": "When you think that way, it makes you feel unsettled, doesn't it..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:27:53",
+      "origin": "ちなみに　ご両親のお歳はおいくつぐらいですか？",
+      "content": "By the way, how old are your parents?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:28:46",
+      "origin": "父が73才。母が71才。",
+      "content": "My father is 73. My mother is 71."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:29:05",
+      "origin": "ご両親とも　ご健康なのですか？",
+      "content": "Are both of your parents in good health?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:29:37",
+      "origin": "一応、元気です。母はまだ働います。",
+      "content": "For the most part, they're healthy. My mother is still working."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:29:52",
+      "origin": "働いています。",
+      "content": "She's working."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:30:16",
+      "origin": "そうなんですね。ご両親がお元気そうなので安心しました。",
+      "content": "I see. I'm relieved to hear your parents seem to be doing well."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:30:25",
+      "origin": "はい。ありがとうございます",
+      "content": "Yes. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:31:27",
+      "origin": "2年前に退職なさったとのことですが、ジュンコさんとしては、お仕事を再開するとかは考えていらっしゃるのですか？",
+      "content": "You mentioned you left your job two years ago. Have you thought about starting to work again?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:32:12",
+      "origin": "ええ、もちろんです。",
+      "content": "Yes, of course."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:32:34",
+      "origin": "どんなことをなさろうと思っていらっしゃるのですか？",
+      "content": "What kind of work are you thinking of doing?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:32:48",
+      "origin": "それがまだ見つからないんです",
+      "content": "That's the thing, I haven't found anything yet."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:33:05",
+      "origin": "では　就活中というところですね。",
+      "content": "So you're in the process of looking for a job."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:33:19",
+      "origin": "そうです",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:34:00",
+      "origin": "ジュンコさんとしては　お仕事を探しつつ　恋人探しもしつつ　ということになりそうですが・・・",
+      "content": "So for you, it seems like you're looking for a job and a partner at the same time..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:34:27",
+      "origin": "そうですね…",
+      "content": "I guess so..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:34:58",
+      "origin": "今　お仕事探しと　恋人探しと　どちらの方に　ウエイトを置いてみたいと思っておいでなのですか？",
+      "content": "Right now, which one would you like to prioritize: job hunting or finding a partner?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:36:30",
+      "origin": "うーん…どっちもだけど、今日は恋愛の相談がしたいと思っていたので。",
+      "content": "Ummm... both, but today I wanted to talk about my love life."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:36:58",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:37:03",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:39:52",
+      "origin": "恋愛って　ジュンコさんは　デートしたり　お食事したり　ということを　先ほどはなしてくれましたけれど　ジュンコさんなりには　どうしたら　それができるようになっていけるか　何か　お考えはありますか？",
+      "content": "Regarding your love life, you mentioned earlier that you'd like to go on dates and have meals together. Do you have any thoughts on what you could do to make that happen?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:41:56",
+      "origin": "デートやご飯を食べるだけなら良いんだけど、付き合うってなると、私で良いのかな？ほかにもっと素敵な女性がいるのでは？と思ってしまって…",
+      "content": "Just going on dates or having meals is fine, but when it comes to being in a relationship, I start to wonder, \"Am I good enough? Aren't there other, more wonderful women out there?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:42:31",
+      "origin": "もしかして　ご自分に自信がもてない　ということ？",
+      "content": "So perhaps you're not feeling confident in yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:42:45",
+      "origin": "そうなんです。",
+      "content": "That's exactly it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:43:15",
+      "origin": "であれば、女磨きをなさるのが　一つかと思いますが・・・",
+      "content": "In that case, one option might be to work on building your confidence as a woman..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:43:41",
+      "origin": "例えばどういうものですか？",
+      "content": "What kinds of things would that be, for example?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:44:50",
+      "origin": "ジュンコさんなりに　男性から見てステキな女性に　なっていく　と言うことかと思います。",
+      "content": "I think it means becoming, in your own way, a woman that men would find wonderful."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:45:05",
+      "origin": "？",
+      "content": "?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:45:33",
+      "origin": "ジュンコさん的には、そんな特徴があったら　男性から見て　ステキな人　と　思わると考えていますか？",
+      "content": "From your perspective, what traits would make someone seem attractive to men?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:45:58",
+      "origin": "↓「どんな特徴があったら？」です",
+      "content": "I meant to ask, \"What characteristics would she have?\""
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:46:41",
+      "origin": "うーん、自分に自信があって、輝いている女性かな",
+      "content": "Hmm, a woman who's confident and radiant, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:47:33",
+      "origin": "ご自分としては　どんなことをしている時が　輝いていると思いますか？",
+      "content": "And for you, when do you feel that you are radiant?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:48:06",
+      "origin": "全然思い浮かばないです。出てこないです",
+      "content": "I can't think of anything at all. Nothing comes to mind."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:48:44",
+      "origin": "ジュンコさんとしては　好きなことは何ですか？",
+      "content": "What do you like to do, Junko?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:50:00",
+      "origin": "何だろう…絵を描いたり、字を書いたり…でもすごく好きなわけじゃなくて、普通かな",
+      "content": "Let's see... Drawing pictures, or writing... but it's not like I love it; I'm just average, I guess."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:50:38",
+      "origin": "いいですね。絵をかくこと、　字を書くことがおすきなんですね。",
+      "content": "That's nice. So you like to draw and write."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:50:55",
+      "origin": "まあ、普通ですが。",
+      "content": "Well, just average."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:51:18",
+      "origin": "すごく上手いわけじゃないし。",
+      "content": "I'm not particularly good at it or anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:51:19",
+      "origin": "きっと絵を描いている時、字を書いている時は　ジュンコさんらしい　ステキが　あふれていると思いますよ。",
+      "content": "I'm sure when you're drawing or writing, your own unique charm is shining through."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:51:58",
+      "origin": "もっと上には上がいると思う",
+      "content": "I think there are always people who are better than me."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:52:54",
+      "origin": "よくいわれることは、ご自分が好きで　取り組んでいる姿が　魅力的だったりするようですけど・・・",
+      "content": "It's often said that seeing someone engaged in something they love is what's truly attractive..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:53:10",
+      "origin": "そうですか",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:53:56",
+      "origin": "人と比べないで　ご自分なりに　好きなことをやっている自分を認めてあげてはいかがでしょうか・・・",
+      "content": "Instead of comparing yourself to others, how about trying to acknowledge yourself for doing what you enjoy, in your own way?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:54:56",
+      "origin": "わかってはいるんですけど…",
+      "content": "I know I should, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:55:09",
+      "origin": "はい",
+      "content": "I understand."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:55:21",
+      "origin": "どうしても人と比べてしまいます",
+      "content": "I just can't help but compare myself to others."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:56:25",
+      "origin": "好きなことをして　楽しい　と感じていることを大切にしてみては　と思いますが・・・　いかがでしょうか？",
+      "content": "I think it might be helpful to cherish the feeling of enjoyment you get from doing things you like... What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:57:21",
+      "origin": "そうなんですね。わかりました。",
+      "content": "I see. I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:57:57",
+      "origin": "好きなことをやっている自分を大切にしていると　心の安心も生まれてくるかと思いますが・・・",
+      "content": "When you cherish the part of you that does what you love, I think a sense of inner peace can grow from that..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:58:21",
+      "origin": "わかりました。ありがとうございました。",
+      "content": "I understand. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T13:59:03",
+      "origin": "そんなご自身の安心を大切にしながら、マッチングアプリで出会いを探してみるというのもありかと思いますが、いかがでしょうか？",
+      "content": "While cherishing that sense of inner peace, perhaps you could also try looking for someone on a dating app? What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T13:59:31",
+      "origin": "そういうのはあまり好きではないので。",
+      "content": "I'm not really a fan of those kinds of things."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T14:00:30",
+      "origin": "なるほど。心に安心をお持ちの方には素敵な出会いもあるかと思います。",
+      "content": "I see. I believe that wonderful encounters can happen for those who have a sense of peace in their hearts."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T14:00:48",
+      "origin": "ジュンコさんにそんな出会いがあることを願っています。",
+      "content": "I hope you have such an encounter, Junko."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T14:01:02",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T14:01:27",
+      "origin": "今日のご相談はこの辺でよろしいでしょうか？",
+      "content": "Shall we wrap up today's session here?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T14:01:40",
+      "origin": "はい、ありがとうございました",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T14:02:19",
+      "origin": "今日はいらしていただきありがとうございました。また機会がありましたら是非お話を聞かせてください。",
+      "content": "Thank you for coming in today. If you have another chance, please feel free to come and talk again."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T14:02:48",
+      "origin": "こちらこそ、ありがとうございました",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T14:02:53",
+      "origin": "では今日はこれにて終了させていただきます。",
+      "content": "Then, we'll end today's session here."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T14:03:23",
+      "origin": "わかりました",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-24T14:03:48",
+      "origin": "ありがとうございました。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-24T14:04:03",
+      "origin": "ありがとうございました",
+      "content": "Thank you very much."
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "自分に自信が持てないこと"
+  },
+  "review_by_client": {
+    "evaluation_id": 1706,
+    "evaluation_created_at": "2021-04-24T14:41:00",
+    "client_id": 130,
+    "counselor_id": 5,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

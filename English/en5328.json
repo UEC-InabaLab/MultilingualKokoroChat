@@ -1,0 +1,567 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-23T11:58:03",
+      "origin": "（こんにちは、今日はよろしくお願いします。）",
+      "content": "(Hello, I'm looking forward to our session today.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T11:58:14",
+      "origin": "宜しくお願い致します",
+      "content": "Yes, thank you for having me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:00:22",
+      "origin": "こんにちは、相談員です。今日はお越しいただきありがとうございます。まず初めに年齢、性別、相談内容をお願いします。",
+      "content": "Hello, I'm the counselor. Thank you for coming in today. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:00:59",
+      "origin": "こんにちは。宜しくお願いします。55歳　女性です。",
+      "content": "Hello. Thank you. I'm a 55-year-old woman."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:01:25",
+      "origin": "家族関係で悩んでいます",
+      "content": "I'm struggling with my family relationships."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:02:10",
+      "origin": "よろしくお願いします。教えて頂きありがとうございます。家族関係というと、その中でもどのようなことですか？",
+      "content": "Thank you for sharing that. When you say family relationships, could you tell me more specifically what you mean?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:03:16",
+      "origin": "夫とその両親とで生活しているのですが、もう疲れました。",
+      "content": "I live with my husband and his parents, and I'm exhausted."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:04:04",
+      "origin": "ええ、そうだったんですね。もう少し詳しく教えていただけますか？",
+      "content": "I see. Could you tell me a bit more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:04:24",
+      "origin": "いつも私だけが気を使っている様な感じで、気が休まらないです。",
+      "content": "I feel like I'm the only one who has to be considerate all the time, and I can never relax."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:04:45",
+      "origin": "ええ、そうだったんですね。それはつかれますよね。",
+      "content": "I see. That must be exhausting."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:04:46",
+      "origin": "家事は全て私がやっています",
+      "content": "I do all the housework."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:05:15",
+      "origin": "ええ、負担が大きいのですね。",
+      "content": "I see—that's a heavy burden on you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:05:56",
+      "origin": "食事もそれぞれ好きなものをと思ってやっているのですが、もう限界です。",
+      "content": "I try to make meals tailored to each person's preferences, but I'm at my limit."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:06:11",
+      "origin": "休みたくても休めません",
+      "content": "Even when I want to rest, I can't."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:06:46",
+      "origin": "ええ、そうですね。細かいことまで気を配っていらっしゃるんですね。",
+      "content": "I understand. It sounds like you're paying attention to every little detail."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:06:47",
+      "origin": "自分の時間などありません",
+      "content": "I have no time for myself."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:07:27",
+      "origin": "私って何だろうと最初よく考えます",
+      "content": "Lately, I often find myself wondering, 'What am I even here for?'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:08:00",
+      "origin": "そうですよね。自分の時間がないと息が詰まってしまいますよね。",
+      "content": "I can see that. Not having any time for yourself can feel suffocating, can't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:08:26",
+      "origin": "そのような状態はいつからですか？",
+      "content": "How long has it been like this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:09:18",
+      "origin": "義親と同居してからなので、もう20年くらいですね",
+      "content": "Since we started living with my in-laws—it's been about 20 years now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:10:24",
+      "origin": "ええ、そうなんですね。20年となると、すごく長い間頑張られてきたと思います。",
+      "content": "I see. 20 years... you must have been working so hard for a very long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:11:23",
+      "origin": "ちなみに、ご両親はご健康でいらっしゃるのですか？",
+      "content": "By the way, are your in-laws in good health?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:11:24",
+      "origin": "そうですね…子育ての頃は協力してもらうこともあって、こんなものかと思っていたのですが。",
+      "content": "Well... when I was raising my children, they would help out sometimes, so I just thought this was how things were."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:11:52",
+      "origin": "入れ違ってしまいましたね。そうなんですね。",
+      "content": "Oh, it seems our messages crossed. I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:11:55",
+      "origin": "義親ですか？年相応な感じです",
+      "content": "My in-laws? They're about what you'd expect for their age."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:12:28",
+      "origin": "はい、では介護まではいかれてないんですね。",
+      "content": "I see, so they don't need caregiving at this point."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:12:59",
+      "origin": "それは無いです。2人で老後を楽しんでる様です。",
+      "content": "No, not at all. The two of them seem to be enjoying their retirement together."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:13:33",
+      "origin": "その分家事を私がしなくてはいけなくて…",
+      "content": "But that means I have to handle all the housework..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:14:57",
+      "origin": "なるほど。向こうは楽しんでいて、こっちには負担がと思うと、納得がいかないですよね。",
+      "content": "I understand. It feels unfair when they're enjoying themselves while the burden falls on you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:15:32",
+      "origin": "そうなんです。でも、専業主婦だし、これが普通なんですかね？",
+      "content": "Exactly. But I'm a full-time homemaker—maybe this is just normal?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:16:47",
+      "origin": "そう思われて頑張ってこられたんですね。すごいと思います。なかなか続けられないですよ。",
+      "content": "So you've been pushing yourself all this time, thinking that. I think that's incredible. Not many people could keep that up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:17:57",
+      "origin": "このことについては、義親さんに話されましたか？",
+      "content": "Have you talked with your in-laws about this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:19:09",
+      "origin": "いいえ、そんな事は話せません。これまではそれが普通と思ってやってきたのですが、さすがに疲れてきました。周りはみんな生き生きとしてるし、自分だけが取り残されたまま人生が終わるのではと感じます。",
+      "content": "No, I can't bring myself to talk about that. I've carried on thinking this was normal, but I'm truly getting worn out. Everyone around me seems so full of life, and I feel like my life will end with me being left behind."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:19:55",
+      "origin": "私には自由な時間もお金もありません。",
+      "content": "I don't have free time or money of my own."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:20:28",
+      "origin": "このまま人生が終わるのかと思うと情けなくなります",
+      "content": "It feels pathetic to think that my life might end like this."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:22:10",
+      "origin": "ええ、そう思われると辛いですよね。でも今まで細かな気配り、家事をやってこられて来たのは事実ですし、決して負い目に感じることはないですよ。これから、相談者様はどうしていきたいですか？",
+      "content": "I hear how painful that feels. But it's a fact that you've been tending to every little detail and running the household all these years—you have nothing to feel guilty about. Looking ahead, what would you like for yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:23:56",
+      "origin": "どうしたいかは考えた事はないです。ただこのままの生活が続くと思うと惨めで情け無い気分になります",
+      "content": "I've never really thought about what I want. I just feel miserable and pathetic when I imagine this life continuing as it is."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:24:28",
+      "origin": "私って家事するためだけにいるのでしょうか？",
+      "content": "Am I here only to do housework?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:25:40",
+      "origin": "そうなんですね。考える時間もないくらい、日々頑張って色々なタスクをこなしていらっしゃったんだとお察しします。そう感じてしまうくらいやることが多くて、しんどい状況なんですね。",
+      "content": "I understand. It sounds like you've been working so hard managing so many tasks each day that you haven't even had time to think. You have so much on your plate that it's become an overwhelming and difficult situation."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:26:51",
+      "origin": "やるしかなかったし、そういうものだと思ってきました。",
+      "content": "I just felt I had no choice, and I thought this was just the way things were."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:27:42",
+      "origin": "でも、これから先どうなるのか…",
+      "content": "But, what's going to happen from now on..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:28:07",
+      "origin": "ええ、そういう風にお思いなんですね。",
+      "content": "I see—that's how you're feeling."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:29:04",
+      "origin": "ちなみにお子様はおいくつですか？",
+      "content": "By the way, how old are your children?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:29:33",
+      "origin": "30代です",
+      "content": "They're in their thirties."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:30:02",
+      "origin": "そうなんですね。成人していらっしゃるんですね。",
+      "content": "I see—so they're adults."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:30:16",
+      "origin": "はい、仕事の関係で遠方で暮らしています。",
+      "content": "Yes, they live far away because of work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:30:50",
+      "origin": "では自立されていらっしゃるんですね。",
+      "content": "So they're independent."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:31:02",
+      "origin": "はい。",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:31:15",
+      "origin": "それは安心ですね。",
+      "content": "That must be reassuring."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:31:24",
+      "origin": "そうですね",
+      "content": "Yes, that's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:32:14",
+      "origin": "旦那様はサポートというか、相談者様の家事のことはどうお思いなんでしょう？",
+      "content": "And your husband—how does he view the housework you do? Is he supportive?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:33:15",
+      "origin": "主婦は家事が仕事だから私がやって当然だと思っている様です",
+      "content": "He seems to think that since I'm a housewife, it's only natural that I do all the housework."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:34:01",
+      "origin": "そうなんですね。理解してほしいのに、そういう感じだと悲しくなりますね。",
+      "content": "I see. It must be sad when you want understanding but are met with that kind of attitude."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:34:42",
+      "origin": "自分の仕事に比べたら家事は楽だといつも言っています。",
+      "content": "He always says that housework is easy compared to his job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:35:28",
+      "origin": "そうなんですね。それを聞いて相談者様はどうお思いましたか？",
+      "content": "I see. How did you feel when you heard that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:36:21",
+      "origin": "仕事はとてもストレスがたまると言っていますので、たしかに大変かもと思います。",
+      "content": "He says his job is very stressful, so I do think it might be tough for him."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:36:58",
+      "origin": "そうなんですね。夫さんに対してもとても理解があるんですね。",
+      "content": "I see. You're very understanding toward your husband as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:37:00",
+      "origin": "私は家の事だけやっていればいいので、やっぱり楽しているのでしょうか？",
+      "content": "Since I only have to take care of the house, am I really taking the easy way out?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:37:38",
+      "origin": "でも、この辛い気持ちは何なんでしょう…",
+      "content": "But then, what is this painful feeling..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:38:49",
+      "origin": "何も楽しいと思えなくって…",
+      "content": "I can't find joy in anything..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:38:58",
+      "origin": "いいえ、そんなことはないですよ。私も主婦の一人ですが、家事は対価があるわけでもないので、ほんと、価値がわかりずらいですよね。",
+      "content": "No, that's not true at all. I'm a homemaker myself, and since housework doesn't come with compensation, its value can be really hard to see, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:39:40",
+      "origin": "そうですね",
+      "content": "Yes, that's true."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:40:08",
+      "origin": "毎日同じ事を繰り返すだけで…",
+      "content": "It's just the same routine every day..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:40:36",
+      "origin": "ええ、そう思いがちですよね。せめて周りの方が感謝を示してくれると、まだ気持ちが救われると思うのですが、相談者様はそのようなこともされてない感じがしました。",
+      "content": "Yes, it's easy to feel that way. I imagine you'd feel a bit better if the people around you at least showed some gratitude, but it sounds like that's not happening for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:42:24",
+      "origin": "やって当然の事だし、感謝なんてされないです。夫からも生産性の無い事しかやってないから楽でいいねと言われています。",
+      "content": "It's taken for granted, so I don't get any thanks. My husband even tells me, 'It must be nice to have it so easy, since you're not doing anything productive.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:43:00",
+      "origin": "ええ、それだと、ほんとに精神的にも辛いですよね。",
+      "content": "Yes, that must be truly painful for you emotionally."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:43:18",
+      "origin": "そんなものですか…",
+      "content": "Is that just how it is...?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:43:43",
+      "origin": "私が我儘なのかと思っていました",
+      "content": "I thought I was just being selfish."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:44:58",
+      "origin": "いいえ、お話しを聞いていて、相談者様は使える時間を家族のためにもう充分やってこられたように感じますよ。",
+      "content": "No, from what I've heard, it feels to me like you have already dedicated more than enough of your time to your family."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:46:04",
+      "origin": "そうですか…義母もやってきたからそれが当たり前と言われています。",
+      "content": "Is that so... My mother-in-law tells me it's the norm because she did it too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:47:57",
+      "origin": "そうなんですね。それだと、相談者様が、普通のことだと思ってしまうのは仕方がないことですね。",
+      "content": "I see. In that case, it's understandable that you'd come to believe it was just normal."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:49:01",
+      "origin": "はい。周りからもそんなふうに言われています。",
+      "content": "Yes. People around me say the same thing."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:50:51",
+      "origin": "働かなくていいのはラッキーだと言われて、そうなのかと思っていました。",
+      "content": "I'm told I'm lucky I don't have to work, and I was starting to think maybe that's true."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:51:42",
+      "origin": "ええ、そうなんですね。でも、今日ここにきてくださったのは、20年間、家事や家族への気配りをやってこられて、普通のことだと思いながらも、一方で、このままでいいのか？と感じていらっしゃるからですよね。",
+      "content": "I see. But the reason you came here today is because, after 20 years of doing housework and caring for your family, even while telling yourself it was normal, a part of you has started to wonder, 'Is it okay to go on like this?' Right?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:52:29",
+      "origin": "はい、今頃になって、これでいいのかと不安になってきました。",
+      "content": "Yes. Only now am I starting to feel anxious about whether this is really okay."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:52:58",
+      "origin": "不安というか、苦しいですね。",
+      "content": "Or rather than anxious—it's painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:53:25",
+      "origin": "何も考えずやればいいのですかね。",
+      "content": "Maybe I should just do it without thinking about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:54:37",
+      "origin": "ええ、そう思うのも無理のないことですよ。でも少しでもそのお気持ちを軽くできるように一緒に考えていきましょう。",
+      "content": "Yes, it's completely understandable that you feel that way. But let's think together about how we can lighten that feeling, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:55:29",
+      "origin": "軽くなりますかね…だと嬉しいです",
+      "content": "Do you think it could get lighter? I'd be so glad if it did."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:56:26",
+      "origin": "ええ、一人じゃないですよ。一緒に考えて行けたらと思います。",
+      "content": "Yes—you are not alone. I'd like for us to work on this together."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:56:37",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:57:19",
+      "origin": "こちらこそ、今日は来て頂きありがとうございます。今日はお話しを聞くだけになってしまいましたが、",
+      "content": "No, thank you for coming in today. I know I mostly just listened to you talk today, but"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T12:58:07",
+      "origin": "次回から、この状況をどうしていくか、を具体的に考えていくのはいかがですか？",
+      "content": "starting next time, how would you feel about us thinking more concretely about how to move forward with this situation?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T12:59:01",
+      "origin": "はい、お願いします。今日は気持ちを話せて少し楽になりました。ありがとうございました。",
+      "content": "Yes, please. I feel a bit lighter after being able to talk about my feelings today. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T13:00:32",
+      "origin": "こちらこそ、そう思っていただけたならこんなに嬉しいことはないです。では、次回、お待ちしております。今日はありがとうございました。",
+      "content": "Not at all, I'm very glad to hear you feel that way. There's nothing that makes me happier. I'll look forward to seeing you next time. Thank you for today."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T13:00:57",
+      "origin": "こちらこそありがとうございました。",
+      "content": "Thank you as well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T13:01:15",
+      "origin": "（ありがとうございました）",
+      "content": "(Thank you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T13:01:36",
+      "origin": "(お疲れ様でした。ありがとうございました。)",
+      "content": "(Thank you for your time. Thank you again.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "義親との同居によるストレスと負担の問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 5328,
+    "evaluation_created_at": "2023-06-23T13:32:00",
+    "client_id": 179,
+    "counselor_id": 371,
+    "score": 86,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

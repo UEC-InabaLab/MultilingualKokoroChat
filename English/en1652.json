@@ -1,0 +1,939 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-16T09:51:44",
+      "origin": "(こんにちは。本日は宜しくお願い致します。時間になりましたら、こちらから始めさせていただきますね)",
+      "content": "(Hello. Thank you for joining me today. When it's time, I'll go ahead and get us started.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T09:52:25",
+      "origin": "はい、承知しました。よろしくお願いいたします。",
+      "content": "Yes, understood. I look forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:00:15",
+      "origin": "こんにちは。相談員です。本日はご相談に来ていただき、ありがとうございます。まず初めに、年齢と性別を教えていただけますか?",
+      "content": "Hello. I'm the counselor. Thank you for coming in for a consultation today. To start, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:00:42",
+      "origin": "14歳、女子です。",
+      "content": "I’m 14, and I’m a girl."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:01:07",
+      "origin": "ありがとうございます。この相談であなたを何とお呼びすれば宜しいですか?ニックネームでもかまいませんよ。",
+      "content": "Thank you. What should I call you during our session? A nickname is fine, too."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:01:39",
+      "origin": "くみ、でお願いします",
+      "content": "Please call me Kumi."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:02:23",
+      "origin": "くみさんですね。宜しくお願いします。今日はどのようなご相談ですか?",
+      "content": "Kumi, got it. It's nice to meet you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:02:38",
+      "origin": "クラスのことで、聴いてほしいです",
+      "content": "It’s about my class—I’d like you to hear me out."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:03:10",
+      "origin": "もちろんです。どんなことがありましたか?",
+      "content": "Of course. What happened?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:03:51",
+      "origin": "小学校からの友達が最近、孤立してるんです",
+      "content": "A friend from elementary school has recently become isolated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:04:28",
+      "origin": "そうなんですね。孤立しているのはくみさんのお友達ですか?",
+      "content": "I see. Is this an isolated friend of yours, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:05:05",
+      "origin": "親しくはしていません",
+      "content": "We're not really close."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:06:00",
+      "origin": "なるほど。親しくはしていないけれど、孤立しているお友達のことで、気にしておられるんですね。",
+      "content": "I understand. You’re not close, but you’re concerned about that friend being isolated."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:06:12",
+      "origin": "あんまり好きじゃない",
+      "content": "I don’t really like her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:06:50",
+      "origin": "くみさん自身はあまりお好きではないんですね。",
+      "content": "So you yourself don’t really like her."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:07:08",
+      "origin": "小学校の時、ボスみたいにしてたから、",
+      "content": "Because back in elementary school, she acted like a boss."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:07:29",
+      "origin": "そうだったんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:07:52",
+      "origin": "今、どんな風に孤立しているか、具体的に聴かせてもらえますか?",
+      "content": "Could you tell me more specifically how she’s being isolated now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:08:42",
+      "origin": "昔取り巻きみたいだった子たちも離れて行って、なんか、みんなが無視してるみたい",
+      "content": "The kids who used to be like her followers have left her, and it feels like everyone is ignoring her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:09:43",
+      "origin": "そうなんですね。何か理由があったのかしら?",
+      "content": "I see. I wonder if there was a reason."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:10:17",
+      "origin": "私は早くに仲間から離れたからいいけど、ホントはみんなが嫌ってたと思う",
+      "content": "I left the group early, so I’m fine, but I think everyone actually disliked her."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:11:40",
+      "origin": "そうだったんですね。ちなみに、くみさんが離れたのはどうして?",
+      "content": "I see. By the way, what made you step away, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:12:18",
+      "origin": "なんか、友達を手したみたいに扱ってたし、",
+      "content": "She treated her friends like underlings,"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:12:39",
+      "origin": "いばってて、嫌だった",
+      "content": "and she was so bossy, I hated it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:13:14",
+      "origin": "そんな風にされると、離れたくなりますよね。",
+      "content": "Being treated like that would make anyone want to leave."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:13:31",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:13:51",
+      "origin": "くみさん自身も何か嫌な思いをさせられたのかな?",
+      "content": "Did she do something unpleasant to you as well, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:14:31",
+      "origin": "なんか、使われる、っていうのか、パシリにさせられた",
+      "content": "It was like... I was used, or rather, she made me her gopher."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:14:57",
+      "origin": "そんなこともあったんだね。",
+      "content": "So that happened to you, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:15:30",
+      "origin": "自分でやってよ、と言いたくなるよね。",
+      "content": "It makes you want to say, \"Do it yourself,\" doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:15:57",
+      "origin": "だから、仲間から離れました",
+      "content": "That’s why I left the group."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:16:50",
+      "origin": "勇気がいったのではないですか?でも、自分で決心して行動に移したのは素晴らしいと思います。",
+      "content": "That must have taken a lot of courage, didn't it? But I think it's wonderful that you made the decision and acted on it yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:17:13",
+      "origin": "離れてから、嫌なことされたりはなかったですか?",
+      "content": "After you distanced yourself, did anything unpleasant happen?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:18:04",
+      "origin": "最初は陰口とか言われてたみたい",
+      "content": "At first, it seems they talked behind my back."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:18:13",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:18:45",
+      "origin": "辛かったですね。",
+      "content": "That must have been tough."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:18:56",
+      "origin": "今はどんな感じ?",
+      "content": "How are things now?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:19:24",
+      "origin": "他の友達と仲良くした方がいいから、もう、関わりたくない",
+      "content": "It's better to get along with my other friends, so I don't want to have anything to do with her anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:19:43",
+      "origin": "そんな風に思えているんですね。",
+      "content": "So that's how you're feeling about it now."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:20:03",
+      "origin": "みんなも離れていった。中学じゃ。",
+      "content": "Everyone else left her too. In middle school."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:20:20",
+      "origin": "ええ（聴いていますよ）",
+      "content": "Yes (I’m listening)."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:21:18",
+      "origin": "だけどみんなは去年まで一緒に居たのに、さすがに離れたんだね",
+      "content": "But everyone was with her until last year, so they finally left her too, huh."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:22:32",
+      "origin": "そうだよね、って感じ",
+      "content": "Like, yeah, that makes sense."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:22:41",
+      "origin": "そっか…くみさんはとは違って、他の人は去年まで一緒だっだんですね。",
+      "content": "I see... So unlike you, Kumi, the others were with her until last year."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:23:06",
+      "origin": "うん、良く一緒に居たと思う",
+      "content": "Yeah, I think they were together a lot."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:23:18",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:23:34",
+      "origin": "嫌な思いしてたはずなのに…",
+      "content": "Even though they must have had bad experiences…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:23:54",
+      "origin": "そりゃ離れたくなるよね、っていう感じですね。",
+      "content": "It’s like, 'No wonder they’d want to leave.'"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:24:04",
+      "origin": "うん",
+      "content": "Yeah."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:24:18",
+      "origin": "くみさんが",
+      "content": "Kumi,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:24:36",
+      "origin": "そんな風に感じるのはもっともだと思うよ。",
+      "content": "Kumi, I think it's perfectly natural for you to feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:24:58",
+      "origin": "本当ですか？",
+      "content": "Really?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:25:24",
+      "origin": "自業自得”　だもんね",
+      "content": "She brought it on herself, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:26:00",
+      "origin": "友達同士は",
+      "content": "Among friends,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:26:57",
+      "origin": "ケンカをすることもあるけれど、お互いを大切にし合えないと続かないと思いますが、くみさんはどのように思いますか?",
+      "content": "friends might fight sometimes, but I believe a friendship can't last if they don't value each other. What do you think, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:27:20",
+      "origin": "そうですね",
+      "content": "I agree."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:28:03",
+      "origin": "最初に、友達が孤立している、ということが相談内容でしたが、孤立している友達を見て、",
+      "content": "At the beginning, you said you wanted to talk about a friend being isolated. Seeing this isolated friend,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:28:18",
+      "origin": "くみさんは、どんな風に感じていたのかな?",
+      "content": "how were you feeling, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:28:37",
+      "origin": "いい気味だと思ってた・・・",
+      "content": "I thought, 'Serves her right…'"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:28:46",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:29:04",
+      "origin": "どんな風にいい気味だと思った?",
+      "content": "In what way did you feel she deserved it?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:29:17",
+      "origin": "自業自得",
+      "content": "She brought it on herself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:29:44",
+      "origin": "さっきもそう言ってくれてたよね。",
+      "content": "You mentioned that earlier, didn't you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:30:28",
+      "origin": "今までのところを少しまとめてみても良いですか?",
+      "content": "Would it be alright if I summarized what we've talked about so far?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:30:42",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:32:44",
+      "origin": "小学校の時にボスのように友達を手下にしたり、いばっていたりしていた友達が、最近は取り巻きもなく孤立している。久美さんは他の友達とも関わりたくて、前に離れてはいたけれど、",
+      "content": "A friend who acted like a boss in elementary school, treating others like her underlings and being arrogant, is now isolated without her usual followers. You, Kumi, had already distanced yourself because you wanted to interact with other friends, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:33:35",
+      "origin": "去年までは一緒だった取り巻きも、離れた。それを見て、くみさんは自業自得だと感じている。",
+      "content": "her followers, who were with her until last year, have also left. Seeing this, you feel she brought it on herself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:33:56",
+      "origin": "こんな感じかな?",
+      "content": "Does that sound about right?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:34:26",
+      "origin": "はい。そう思ってました",
+      "content": "Yes. That's what I was thinking."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:34:48",
+      "origin": "うんうん・・・そう思っていたというと?",
+      "content": "Mmm-hmm... And when you say you \"were\" thinking that?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:35:43",
+      "origin": "なんか、変な流れになってくみたいな気がしてる",
+      "content": "I feel like it’s turning into a weird dynamic."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:36:09",
+      "origin": "変な流れというのは、具体的にお話できるかな?",
+      "content": "Could you tell me specifically what you mean by a weird dynamic?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:36:50",
+      "origin": "リーダーシップがあって、ちょっと人気な友達がいるんだけど、",
+      "content": "There's this friend who has leadership qualities and is pretty popular,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:36:58",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:37:36",
+      "origin": "いい子だから、みんな、仲間になってて、",
+      "content": "and she's a nice person, so everyone is friends with her,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:37:44",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:38:23",
+      "origin": "解放されたみたいな感じで、盛り上がってるんだけど、",
+      "content": "and it's like everyone feels liberated and they're having a lot of fun, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:38:31",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:39:08",
+      "origin": "みんなすごく楽しそう",
+      "content": "everyone looks like they're having so much fun."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:39:36",
+      "origin": "そうなんだね。",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:40:39",
+      "origin": "楽しそうなのが気になってる?",
+      "content": "Does it bother you that they look like they're having fun?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:41:23",
+      "origin": "う～んなんか、",
+      "content": "Ummm, well..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:41:42",
+      "origin": "うんうん、くみさんは楽しいと感じてる?",
+      "content": "Mmm-hmm. Do you feel like you're having fun, Kumi?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:42:05",
+      "origin": "どんな感じですか?",
+      "content": "What's it like for you?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:42:24",
+      "origin": "うん、楽しいと思うんだけど、何かがモヤモヤしてる",
+      "content": "Yeah, I think it's fun, but something feels unsettling."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:42:57",
+      "origin": "そっか…何か引っかかっているんだよね。",
+      "content": "I see… Something is bothering you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:43:13",
+      "origin": "それだと、心から楽しめないね。",
+      "content": "It's hard to truly enjoy yourself when you feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:43:39",
+      "origin": "そう",
+      "content": "Right."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:43:58",
+      "origin": "さっきの話のボスのことかな?",
+      "content": "Is it about the \"boss\" we were talking about earlier?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:44:47",
+      "origin": "新しい友達のこと、大好きで、もっと好きになりそうなんだけど、",
+      "content": "I really like my new friend, and I think I could like her even more, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:44:56",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:45:21",
+      "origin": "なんか、いい気味だって思ってるけど、",
+      "content": "well, I feel like the other girl deserved it, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:45:29",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:45:51",
+      "origin": "結果、みんなで無視してるみたいで…",
+      "content": "as a result, it feels like we’re all ignoring her…"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:45:59",
+      "origin": "・・・",
+      "content": "..."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:46:07",
+      "origin": "これって、いじめですか？",
+      "content": "Is this... bullying?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:46:12",
+      "origin": "そっか、そっか…",
+      "content": "I see, I see…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:46:56",
+      "origin": "一方で盛り上がっていて、もう一方で孤立している人がいることに心が痛むんですね。",
+      "content": "It pains you that while one group is having fun, there's someone else who is being isolated."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:47:11",
+      "origin": "くみさん、優しいね。",
+      "content": "You're very kind, Kumi."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:47:27",
+      "origin": "なんか、",
+      "content": "It's just..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:47:33",
+      "origin": "ええ",
+      "content": "Yes?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:48:12",
+      "origin": "大好きな友達と、あの子は違うよね？",
+      "content": "My friend that I love so much... she's different from that girl, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:48:41",
+      "origin": "くみさんは、どう思うの?",
+      "content": "What do you think, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:49:00",
+      "origin": "わかんなくなってきた",
+      "content": "I'm not so sure anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:49:47",
+      "origin": "今までお話を聴いていて、くみさんはとても客観的にものごとを見ることのできる人だと感じました。",
+      "content": "From what you've told me so far, I get the sense that you're someone who can see things very objectively."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:50:45",
+      "origin": "今、「友達」って何だろうという、どういうのが友達なんだろう、という問いに向き合っているように感じますが、どう思う?",
+      "content": "It seems like you're now facing the question of \"What is a friend?\" or \"What does it mean to be friends?\" What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:51:58",
+      "origin": "そっか、そうかもしれない",
+      "content": "I see, maybe that's it."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:52:23",
+      "origin": "今のくみさんたちの年齢は、",
+      "content": "At your age,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:52:56",
+      "origin": "思春期と言われて、子どもから大人に成長していくためにとっても大切な時期なんです。",
+      "content": "it's what's called adolescence, and it's a very important time for growing from a child into an adult."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:53:33",
+      "origin": "今まで当たり前だと思っていたことが、ほんとにそれでいいなかな?と考えたり",
+      "content": "You start to question things you once took for granted, wondering, \"Is this really okay?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:54:18",
+      "origin": "今まで付き合っていた友達と、考え方や感じ方が違うと気づいて、離れたり、また、新しい友達に出会ったり…",
+      "content": "You might realize you think and feel differently from the friends you've had, so you grow apart, and you meet new friends..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:55:32",
+      "origin": "答えはすぐに出ないけれど、そうしていくうちに親友と呼べる友達もできるようになると言われています。",
+      "content": "You might not find the answers right away, but it's said that through this process, you can make friends you can call your best friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:56:35",
+      "origin": "これを聴いてどう感じますか?",
+      "content": "How do you feel hearing this?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T10:57:43",
+      "origin": "波の中にいるって、感じ？",
+      "content": "I feel like I’m in the middle of waves?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:58:34",
+      "origin": "そうそう、ちょっとしんどいかもしれないけれど、そんな感じかな?疾風怒涛の時代ともいわれます。",
+      "content": "Exactly—maybe a bit tough, but something like that. It’s sometimes called a time of storm and stress."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:59:00",
+      "origin": "強い風が吹き荒れて、大きな波が押し寄せている…",
+      "content": "A strong wind is raging, and big waves are crashing in..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T10:59:19",
+      "origin": "精神的に不安定になることもあるんです。",
+      "content": "It’s normal to feel emotionally unsteady."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:00:44",
+      "origin": "そういうことを知っていると、自分の変化やお友達に対しての見方も少しは変わるかもしれませんが、いかがですか?",
+      "content": "Knowing that might change your perspective on your own changes and on your friends a little. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:01:55",
+      "origin": "誰かや自分は変わらなくていいのかな？",
+      "content": "Is it okay if someone, or I, don't change?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:02:23",
+      "origin": "くみさんは、どうなったらいいと思いますか?",
+      "content": "What would you like to see happen, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:03:48",
+      "origin": "流れをよく見て考えた方がいいかも",
+      "content": "Maybe I should look carefully at the situation and think."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:05:31",
+      "origin": "流れというのは、孤立してる人もいるよ、ということかな?",
+      "content": "By the situation, do you mean noticing that there’s someone who’s isolated?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:07:11",
+      "origin": "う～ん、そこに、なんか、いじわるな気持ちとかがあって、わざと楽しくしてるんじゃないよね…",
+      "content": "Ummm... it's not like there's some kind of malicious feeling there, like they're having fun on purpose just to be mean, right...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:07:40",
+      "origin": "くみさんは、どうですか?",
+      "content": "How about you, Kumi?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:07:59",
+      "origin": "・・・",
+      "content": "..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:08:37",
+      "origin": "楽しくないけど、見せつけたくて、笑っている?",
+      "content": "Is it like you’re not really enjoying it, but you’re laughing to show off?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:09:19",
+      "origin": "くみも人のことは言えない…",
+      "content": "I’m in no position to judge others either…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:09:37",
+      "origin": "というのは・・・?",
+      "content": "Meaning...?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:10:56",
+      "origin": "なんか、そういう雰囲気が気になってるけど、自分も嫌な気持ちもあったのは確かだし",
+      "content": "Well, that atmosphere bothers me, but it's also true that I had some negative feelings myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:11:11",
+      "origin": "うんうん",
+      "content": "Mm-hm."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:11:40",
+      "origin": "いい子ぶるわけじゃないけど。",
+      "content": "Not that I'm trying to act like a good person, but."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:11:47",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:12:38",
+      "origin": "このままでいいかな",
+      "content": "I wonder if it’s okay to leave things as they are."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:13:00",
+      "origin": "悩むよね。",
+      "content": "It's a difficult thing to think about."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:13:36",
+      "origin": "くみさんが、嫌な気持ちになったのは、自然なことだと思います。",
+      "content": "I think it's natural that you had those negative feelings, Kumi."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:14:18",
+      "origin": "誰も人を下に見て、軽く扱ったりすることは許されません。",
+      "content": "No one should be allowed to look down on others or treat them lightly."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:14:47",
+      "origin": "でも、くみさんは全体を見ることができる人だから、",
+      "content": "But since you can see the whole picture,"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:15:19",
+      "origin": "今のままでは心から楽しめないですよね。それでは学校が楽しくなくなると思います。",
+      "content": "you can't truly enjoy yourself as things are now, right? I think that will make school less enjoyable."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:15:49",
+      "origin": "これから、一緒に何かくみさんにできそうなことを考えていきませんか?",
+      "content": "Shall we think together about what you might be able to do from here on?"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:16:04",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:16:15",
+      "origin": "今日は時間が来てしまったので、是非また続きをお話しましょう。",
+      "content": "We've run out of time for today, so let's definitely continue this conversation next time."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:16:58",
+      "origin": "また来ていいんですか？",
+      "content": "Is it okay for me to come again?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:17:45",
+      "origin": "勿論です!お友達やクラスを大切にするくみさんとお話できてとても良かったです。大切なお話を聴かせてくれてありがとうございました。",
+      "content": "Of course! It was very good to talk with you, Kumi, as you clearly care about your friends and your class. Thank you for sharing such an important story with me."
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:18:09",
+      "origin": "こちらこそ、ありがとうございました",
+      "content": "No, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:18:42",
+      "origin": "では、本日のご相談を終了しますね。本日はご相談ありがとうございました。",
+      "content": "Well then, we'll end our session for today. Thank you for coming in."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:19:09",
+      "origin": "（時間が超過して申し訳ありませんでした。）",
+      "content": "(I apologize for going over time.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:19:19",
+      "origin": "(いえいえ、ありがとうございました。勉強になりました)",
+      "content": "(Not at all, thank you. This was very helpful.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:19:33",
+      "origin": "（これでロールプレイを終了しますね）",
+      "content": "(We’ll end the role-play here.)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-16T11:19:51",
+      "origin": "（おつかれさまです。）",
+      "content": "(Thank you for your hard work.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-16T11:19:58",
+      "origin": "(ありがとうございました)",
+      "content": "(Thank you very much.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "クラスメートの孤立問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 1652,
+    "evaluation_created_at": "2021-04-16T18:49:00",
+    "client_id": 108,
+    "counselor_id": 91,
+    "score": 96,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

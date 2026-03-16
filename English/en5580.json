@@ -1,0 +1,777 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-09T12:51:23",
+      "origin": "（こんにちは、承認ありがとうございました。本日はよろしくお願い致します。）",
+      "content": "(Hello, thank you for the approval. I look forward to working with you today.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T12:52:07",
+      "origin": "(こちらこそエントリーありがとうございます。今日はよろしくお願いします。)",
+      "content": "(Thank you for your entry as well. I look forward to our session today.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T12:53:33",
+      "origin": "（トレーニングの為、一番最初に属性を聞かない方法で相談開始させて頂きたく思います。ご了承下さい。では、時間になったら開始致します。）",
+      "content": "(For training purposes, I would like to start the consultation without asking for your personal details first. Thank you for your understanding. We will begin at the scheduled time.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:00:10",
+      "origin": "こんにちは、相談員です。",
+      "content": "Hello, I'm the counselor."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:00:29",
+      "origin": "こんにちは。よろしくお願いします。",
+      "content": "Hello. Thank you for seeing me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:00:52",
+      "origin": "本日は相談に来ていただき、ありがとうございます。ご相談内容を教えて頂けますか？",
+      "content": "Thank you for coming in for a consultation today. Could you please tell me what you would like to talk about?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:01:42",
+      "origin": "引きこもりで何もすることがなくて退屈でつらいです。",
+      "content": "I'm a shut-in with nothing to do, and it's boring and painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:02:44",
+      "origin": "それはお辛いですね。いつ頃からお悩みなんでしょうか？？",
+      "content": "That sounds very difficult. How long have you been struggling with this?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:03:50",
+      "origin": "高校生の時からなので、もう9年くらいです。",
+      "content": "Since I was in high school, so for about nine years now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:04:41",
+      "origin": "そうなんですね、長いこと苦しんでこられたんですね。",
+      "content": "I see. You've been suffering with this for a very long time."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:05:09",
+      "origin": "よろしければ、ご年齢を教えて頂けますか？",
+      "content": "If you don't mind, may I ask your age?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:05:29",
+      "origin": "はい、25歳です。",
+      "content": "Yes, I'm 25."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:05:58",
+      "origin": "ずっとすることがなくて、誰とも関わらないし、居場所もないです。",
+      "content": "I've had nothing to do for a long time; I don't interact with anyone, and I have no place where I belong."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:06:08",
+      "origin": "教えて頂き、ありがとうございます。",
+      "content": "Thank you for sharing that with me."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:06:34",
+      "origin": "退屈で死にたくなります。",
+      "content": "I get so bored I want to die."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:06:43",
+      "origin": "つらいです",
+      "content": "It's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:07:23",
+      "origin": "死にたくなるほど、お辛い状況なのですね。",
+      "content": "It sounds like you're in a situation so painful that it makes you want to die."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:07:41",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:07:47",
+      "origin": "今は１日どのように過ごされていますか？",
+      "content": "How do you spend a typical day now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:08:02",
+      "origin": "何もしていないです。",
+      "content": "I don't do anything."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:08:24",
+      "origin": "退屈です。",
+      "content": "It's boring."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:08:38",
+      "origin": "そうなんですね、何もしない１日はとても長いし、退屈ですよね。",
+      "content": "I see. A day with nothing to do can feel very long and boring, can't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:08:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:09:00",
+      "origin": "ご家族さんや同居されている方はいらっしゃるのでしょうか？",
+      "content": "Do you live with family or anyone else?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:09:15",
+      "origin": "はい、同居しています。",
+      "content": "Yes, I live with others."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:09:41",
+      "origin": "でも、いつも一人です。",
+      "content": "But I'm always alone."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:09:59",
+      "origin": "誰とも関わりません。",
+      "content": "I don't interact with anyone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:10:16",
+      "origin": "同居はしているけど、接触はないということですね。よろしければどなたとご同居されているか教えてもらえますか？",
+      "content": "So you share a home but don't have contact, is that right? If you're comfortable, could you tell me who you live with?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:10:56",
+      "origin": "両親と3人で暮らしています。",
+      "content": "I live with my parents; the three of us."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:11:27",
+      "origin": "親は引きこもりが家にいるため、共働きです。",
+      "content": "My parents both work because they have a shut-in at home."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:12:13",
+      "origin": "迷惑をかけていることは分かっています。",
+      "content": "I know I'm a burden to them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:12:37",
+      "origin": "教えて頂き、ありがとうございます。お食事はどうされていますか？誰とも接触しておらず、一人とのことでそのあたりも心配しています。",
+      "content": "Thank you for sharing that. How are you managing meals? Since you mentioned you don't interact with anyone and are alone, I'm concerned about that."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:13:42",
+      "origin": "食事は取れています。母が作ってくれたご飯を食べたり、コンビニに行って好きなものを食べたりしています。",
+      "content": "I'm able to eat. I eat the meals my mother prepares, and I also go to the convenience store to get things I like."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:14:35",
+      "origin": "お食事のことは安心しました。睡眠や入浴等はいかがですか？",
+      "content": "I'm relieved to hear that about your meals. How about your sleep and bathing?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:15:24",
+      "origin": "そうですか。暇なので睡眠もしっかり取れているし、毎日お風呂に入っています。",
+      "content": "I see. Since I have a lot of free time, I'm getting enough sleep, and I take a bath every day."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:16:16",
+      "origin": "同世代はもう働いているのに自分だけ何もしていないです。",
+      "content": "People my age are already working, but I'm the only one doing nothing."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:16:28",
+      "origin": "これからどうすればいいですか？",
+      "content": "What should I do from now on?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:16:56",
+      "origin": "そうなんですね、先ほどご両親に迷惑をかけているとおっしゃっていましたが・・・そのように感じるのはどうしてですか？",
+      "content": "I see. You mentioned earlier that you feel like a burden to your parents... what makes you feel that way?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:17:30",
+      "origin": "これからのことが不安ですよね。一緒に考えていけたらと思いますが、もう少しお話しを聞かせて下さいね。",
+      "content": "It's understandable to feel anxious about the future. I'd like us to think about it together, so please tell me a bit more."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:17:55",
+      "origin": "働いていない引きこもりのニートだからです。",
+      "content": "Because I'm an unemployed, shut-in NEET."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:17:58",
+      "origin": "ちなみに性別をお伺いしてもよろしいですか？",
+      "content": "By the way, may I ask your gender?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:18:05",
+      "origin": "男です",
+      "content": "Male."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:18:41",
+      "origin": "教えて頂き、ありがとうございます。",
+      "content": "Thank you for letting me know."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:19:25",
+      "origin": "よろしければ教えて頂きたいのですが、高校生の頃から引きこもられているとのことですが、最終の学歴は中学になりますか？",
+      "content": "If you don't mind me asking, you mentioned you've been a shut-in since high school. Does that mean your highest level of education is junior high school?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:20:29",
+      "origin": "いえ、行っていないですが大学の籍がまだあるので、一応大学生です。",
+      "content": "No, I haven't been attending, but I'm still enrolled in university, so I'm technically a university student."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:21:06",
+      "origin": "ただ、大学にはもう行かずに就職したいと思っています。",
+      "content": "However, I want to find a job instead of going back to university."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:21:19",
+      "origin": "なるほど、今は大学生なのですね。",
+      "content": "I see, so you're currently a university student."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:21:59",
+      "origin": "社会経験がない中就職はご不安かと思いますが、お気持ちいかがですか？",
+      "content": "I imagine trying to find a job without any work experience must be causing you some anxiety. How are you feeling about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:22:38",
+      "origin": "不安です。やっぱり引きこもりのニートに就職は無理なのでしょうか？",
+      "content": "I'm anxious. Is it impossible for a shut-in NEET to get a job after all?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:23:21",
+      "origin": "履歴書を送っているのですが、面接までもいきません。",
+      "content": "I've been sending out resumes, but I don't even get to the interview stage."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:23:29",
+      "origin": "無理、ということはありませんよ。支援してくれる所もあります。",
+      "content": "It's not impossible at all. There are places that can support you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:24:13",
+      "origin": "そうなんですね、引きこもりで退屈で苦しい中、履歴書を送るという行動は素晴らしいと思います。",
+      "content": "I see. The fact that you're taking action by sending out your resume, even while suffering from being a shut-in and feeling bored, is wonderful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:24:35",
+      "origin": "ただ面接までいかないとなると気持ちも沈んでしまいますね。。",
+      "content": "But it must be disheartening when you can't even get to the interview stage."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:24:49",
+      "origin": "支援しているところは知っています。今通っているので。",
+      "content": "I know about the support places. I'm currently going to one."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:25:27",
+      "origin": "そうですか。でも、履歴書送っても送っても面接まで行かないです。",
+      "content": "Is that so? But no matter how many resumes I send, I don't get interviews."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:25:31",
+      "origin": "そうなんですね、では就職活動についても、誰か支援してくれる方に相談しながら行っている感じでしょうか？",
+      "content": "I see. So, are you job hunting while consulting with someone who is providing support?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:25:56",
+      "origin": "はい、サポステとハローワークに通っています。",
+      "content": "Yes, I'm attending the Local Youth Support Station (Saposute) and Hello Work."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:26:13",
+      "origin": "それでも就職できません。",
+      "content": "Even so, I can't get a job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:26:43",
+      "origin": "なるほど、支援を受けながら就活しているけど、面接までいかずに苦しいお気持ちなんですね。",
+      "content": "I understand. So you're receiving support and job hunting, but you're feeling distressed because you can't get to the interview stage."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:27:19",
+      "origin": "いつ頃から就活はされてますか？",
+      "content": "How long have you been job hunting?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:27:23",
+      "origin": "はい、苦しいです。居場所がないです。",
+      "content": "Yes, it's painful. I don't have a place where I belong."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:27:37",
+      "origin": "3ヶ月くらい前からです。",
+      "content": "For about three months."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:30:54",
+      "origin": "なるほど、教えて頂きありがとうございます。ご自身の中で、面接までいかない理由について何か考えていることはありますか？",
+      "content": "I see, thank you for sharing that. Do you have any thoughts on why you might not be getting to the interview stage?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:31:17",
+      "origin": "引きこもりのニートだからです。",
+      "content": "It's because I'm a shut-in NEET."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:31:55",
+      "origin": "高校もほとんど行けていないし、大学も卒業していません。",
+      "content": "I barely went to high school, and I haven't graduated from university."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:32:04",
+      "origin": "サポステやハローワークの方は何か言ってますか？",
+      "content": "Have the staff at the Support Station or Hello Work given you any feedback?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:32:05",
+      "origin": "バイトもしたことがありません。",
+      "content": "I've never even had a part-time job."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:32:25",
+      "origin": "特に何も言っていません。",
+      "content": "They haven't said anything in particular."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:32:48",
+      "origin": "ただ、就職の相談に乗ってくれているだけです。",
+      "content": "They just listen to me talk about my job search."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:33:11",
+      "origin": "そうなんですね、それは戸惑ってしまいますね。",
+      "content": "I see, that must be confusing for you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:33:35",
+      "origin": "ちなみに引きこもりになったきっかけは何でしたか？",
+      "content": "By the way, what led to you becoming a shut-in?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:33:59",
+      "origin": "いじめです",
+      "content": "Bullying."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:34:47",
+      "origin": "辛い経験をされたんですね。今でもそのことは思い出したり、考えることはありますか？",
+      "content": "You went through a painful experience. Do you still find yourself remembering or thinking about it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:35:13",
+      "origin": "思い出さないようにしています。",
+      "content": "I try not to think about it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:37:24",
+      "origin": "そうなのですね。。ここまで話しを聞いていて、そういった辛い状況の中、就職に向けて動き出せているのは、とても勇気のあることだと思います。",
+      "content": "I see. Hearing your story, I think it's very courageous of you to be taking steps toward finding a job despite such a difficult situation."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:37:55",
+      "origin": "そうですか。何もしていないのですが。",
+      "content": "Is that so? I'm not really doing anything, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:39:08",
+      "origin": "ハローワークやサポステに行く前に踏みとどまってしまう方も多いものですよ。",
+      "content": "Many people hesitate even before going to places like Hello Work or the Support Station."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:39:22",
+      "origin": "先ほどどうしたら良いかと質問されていましたが、あなたの中にこうなったら良いな、と考えていることがあったら教えて下さい。",
+      "content": "Earlier you asked what you should do. If you have any idea of how you'd like things to be, please tell me."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:39:36",
+      "origin": "そうなんですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:39:55",
+      "origin": "働けたらいいなと思います。",
+      "content": "I think it would be nice if I could work."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:40:21",
+      "origin": "あとは旅行にいったり、友だちを作ったりしたいです。",
+      "content": "I'd also like to travel and make friends."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:40:38",
+      "origin": "自分の居場所もあれば良いと思います。",
+      "content": "It would be nice to have a place where I belong, too."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:41:08",
+      "origin": "まず就職に向けて行動できているご自身を認めてあげて欲しいな、と思います。",
+      "content": "First, I hope you can acknowledge yourself for taking action toward employment."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:41:19",
+      "origin": "なるほど、良いですね。",
+      "content": "I see, those are good goals."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:41:34",
+      "origin": "そうですか。",
+      "content": "Is that so?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:42:10",
+      "origin": "あなたのいう、自分の居場所とはどんな感じですか？",
+      "content": "What does a \"place where you belong\" look like for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:42:34",
+      "origin": "自分が毎日居ても良い居場所です",
+      "content": "A place where it's okay for me to be every day."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:42:52",
+      "origin": "それが見つかりません",
+      "content": "I can't find it."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:43:10",
+      "origin": "どこに行けばいいですか？",
+      "content": "Where should I go?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:44:10",
+      "origin": "教えて頂きありがとうございます。自分が毎日いて良い場所を欲しいというのは、自然なお気持ちですね。",
+      "content": "Thank you for sharing. Wanting a place where you feel you can be every day is a very natural feeling."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:44:52",
+      "origin": "はい、どこに行けば見つかりますか？",
+      "content": "Yes, where can I find it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:46:02",
+      "origin": "先ほどあなたの仰っていた希望を叶えられるよう、一緒に考えていきましょうね。",
+      "content": "Let's think together about how we can make the hopes you just mentioned a reality."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:46:22",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:47:23",
+      "origin": "今日も何もすることがなくて退屈でした。",
+      "content": "I had nothing to do again today and was bored."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:47:28",
+      "origin": "就活の状況は、今はいかがですか？エントリーしている会社や興味のある分野等・・ありますか？",
+      "content": "How is your job search going right now? Are there any companies you've applied to or fields you're interested in?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:48:11",
+      "origin": "何もしないと退屈になりますよね。。",
+      "content": "Doing nothing gets boring, doesn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:49:33",
+      "origin": "就活は全く上手くいっていないです。やりたい仕事はなくて、ハローワークやサポステで案内された会社を受けている感じです。",
+      "content": "My job search is not going well at all. I don't have a specific job I want to do, so I'm just applying to companies recommended by Hello Work and the Support Station."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:50:46",
+      "origin": "退屈で死にそうです",
+      "content": "I'm so bored I could die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:51:57",
+      "origin": "そうなんですね、ご興味のある分野等はありますか？",
+      "content": "I see. Are there any fields you're interested in?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:52:19",
+      "origin": "特にないです",
+      "content": "Not particularly."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:52:35",
+      "origin": "なるほど。死にそう、というのは具体的に自殺を考えるようなこともあるということでしょうか？",
+      "content": "I see. When you say you feel like dying, does that mean you are specifically thinking about suicide?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:53:34",
+      "origin": "そうですね、親のためにも死ねたら良いと思うのですが、なかなか死ねないです。",
+      "content": "Yes. I think it would be better if I could die, for my parents' sake as well, but I just can't bring myself to do it."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:53:50",
+      "origin": "だから就職したいと思っています。",
+      "content": "That's why I want to find a job."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:54:24",
+      "origin": "でも、引きこもりのニートがそんなことできないですよね。",
+      "content": "But a shut-in NEET can't do that, can they?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:54:28",
+      "origin": "そうなんですね、死にたくなるほど苦しくなる状況の中、自分の状況を少しでも良く使用という強い気持ちを感じますよ。",
+      "content": "I see. Even in a situation so painful that it makes you want to die, I can feel your strong desire to improve your circumstances, even just a little."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:54:52",
+      "origin": "そうですか。",
+      "content": "Is that so?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:55:20",
+      "origin": "良くしようと思ってもできないです。",
+      "content": "I try to make things better, but I can't."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:55:32",
+      "origin": "どうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:56:44",
+      "origin": "学歴や社会経験がないのは、確かにハンデになるかもしれませんね。でも強い気持ちで就活に踏み出されたのですから、あきらめてほしくないと思います。",
+      "content": "It's true that not having an extensive educational background or work experience can be a disadvantage. But you've taken the step to start job hunting with strong determination, so I don't want you to give up."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:56:49",
+      "origin": "もう１度ご自身の強みや性格、やりたい事を考えてみるのはいかがですか？",
+      "content": "How about taking another look at your strengths, your personality, and what you might want to do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:58:04",
+      "origin": "その上で、サポステやハローワークの方に就職の相談をされてみてはどうかと感じたのですが、どうでしょうか？",
+      "content": "Based on that, I wonder if you might talk with the staff at the Support Station or Hello Work about employment again—what do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:58:15",
+      "origin": "はい、引きこもりのニートはハンデになると思います。",
+      "content": "Yes, I think being a shut-in NEET is a disadvantage."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:58:37",
+      "origin": "考えるってどうすればいいのですか？",
+      "content": "How do I go about \"thinking\"?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T13:59:17",
+      "origin": "サポステやハローワークには定期的に通って相談しています。",
+      "content": "I regularly go to the Support Station and Hello Work for consultations."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T13:59:36",
+      "origin": "やりたいこと等自分の気持ちを見つめなおしてみて欲しいなと感じましたが・・・いかがですか？",
+      "content": "I felt it might help to reflect again on your feelings, such as what you might want to do. How does that sound to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T14:00:29",
+      "origin": "そうですか。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T14:00:36",
+      "origin": "分かりました。",
+      "content": "I understand."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T14:01:06",
+      "origin": "相談終了時間が迫ってきてしまいました。今回の相談で、就職したい気持ちやあなたの希望をたくさん教えてもらえたので、次回以降にもう少し具体的なことをお話しできたらなと思います。",
+      "content": "Our consultation time is almost up. In this session, you've shared a lot about your desire to find a job and your hopes, so I hope we can talk about more specific things in our next session."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T14:01:32",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2023-08-09T14:01:39",
+      "origin": "お願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T14:02:09",
+      "origin": "本日はありがとうございました。またいつでも相談に来てくださいね。あなたの就活がうまく進むことを祈っています。",
+      "content": "Thank you very much for today. Please feel free to come back and talk anytime. I'm hoping your job search goes well."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T14:02:25",
+      "origin": "では終了メッセージを送らせていただきますね。",
+      "content": "I'll send the closing message now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-09T14:03:23",
+      "origin": "（少し過ぎてしまい、申し訳有りませんでした。率直なFBを頂けたらと思います。ありがとうございました。）",
+      "content": "(I'm sorry we went a little over time. I would appreciate your honest feedback. Thank you.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "引きこもりによる孤独感と不安感"
+  },
+  "review_by_client": {
+    "evaluation_id": 5580,
+    "evaluation_created_at": "2023-08-09T21:42:00",
+    "client_id": 250,
+    "counselor_id": 350,
+    "score": 75,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

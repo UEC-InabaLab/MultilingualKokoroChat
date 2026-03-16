@@ -1,0 +1,981 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-04-18T20:51:45",
+      "origin": "こんばんは。承認ありがとうございます。本日もよろしくお願いします。",
+      "content": "Good evening. Thank you for your approval. I look forward to our session again today."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T20:52:26",
+      "origin": "こんばんは。こちらこそ、よろしくお願いします。",
+      "content": "Good evening. Likewise, I look forward to our session as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T20:53:51",
+      "origin": "2パターン以外がいいですよね。",
+      "content": "Something other than the two previous patterns would be good, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T20:53:53",
+      "origin": "これまで、奥様のことで悩む男性と、ヘッドハンティングされた後に、鬱になってしまった悩みを聴かせていただきました。",
+      "content": "So far, I've heard about a man troubled by issues with his wife, and about someone who became depressed after being headhunted."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T20:54:03",
+      "origin": "承知しました。",
+      "content": "Understood."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T20:54:29",
+      "origin": "よくお会いしますね(^o^)",
+      "content": "We run into each other often, don’t we? (^o^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T20:55:56",
+      "origin": "ヘッドハンティングの話は、実体験とのことでしたので、本当に貴重な話を聴かせていただいたと感謝しています。",
+      "content": "You mentioned the headhunting story was based on a real experience, so I'm very grateful you shared such a valuable story with me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T20:56:39",
+      "origin": "時間が決まっていると、お相手も同じ方が多いですよね　笑",
+      "content": "When the time is fixed, you often get paired with the same person, right? (laughs)"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T20:59:03",
+      "origin": "そうですね～(≧∇≦)",
+      "content": "That’s right~ (≧∇≦)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:00:40",
+      "origin": "(では、始めます。)こんばんは。夜分遅くにご相談にお越しくださり、ありがとうございます。本日はよろしくお願いします。",
+      "content": "(Alright, let's begin.) Good evening. Thank you for coming in for a consultation so late at night. I look forward to working with you today."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:00:56",
+      "origin": "はい、よろしくお願いします。",
+      "content": "Yes, I look forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:01:21",
+      "origin": "最初に、性別と年齢を教えていただけますでしょうか？",
+      "content": "To start, could you please tell me your gender and age?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:01:44",
+      "origin": "はい、男性、52歳です。よろしくお願いします。",
+      "content": "Yes, I am a 52-year-old man. Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:02:27",
+      "origin": "ありがとうございます。本日はどのようなお悩みでご相談にお越しくださいましたか？",
+      "content": "Thank you. What brings you in for a consultation today?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:02:54",
+      "origin": "はい、本日は、次男のことで、ご相談があります。",
+      "content": "Yes, today I'd like to talk about my second son."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:03:50",
+      "origin": "息子さんのことで、お悩みなのですね。",
+      "content": "So you're concerned about your son, I see."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:04:07",
+      "origin": "はい、高校を卒業して、",
+      "content": "Yes, after he graduated from high school,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:04:47",
+      "origin": "ええ、無事卒業されたんですね。",
+      "content": "I see, so he graduated successfully."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:04:49",
+      "origin": "丸3年が経つのですが、まだ就労していないので、そろそろ働いてくれないかな、と悩んでいます。",
+      "content": "It’s been a full three years, but he still hasn’t started working, so I’m worried and wish he would get a job soon."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:04:59",
+      "origin": "今、21歳です。",
+      "content": "He’s 21 now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:05:43",
+      "origin": "なるほど、なかなか就職が決まらないのですね。それは、不安になりますよね。",
+      "content": "I see, so he's having trouble finding a job. That must be worrying for you."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:05:55",
+      "origin": "そうなんです。",
+      "content": "That’s right."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:06:05",
+      "origin": "高校を卒業したら、",
+      "content": "After graduating from high school,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:06:33",
+      "origin": "すぐに働くのかな？と思っていたので、意外でしたね。",
+      "content": "I had thought he would start working right away, so it was unexpected."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:06:49",
+      "origin": "そうですよね、大事な息子さんのことですからね。",
+      "content": "I can understand that, especially since this is about your precious son."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:07:05",
+      "origin": "そうなんです。",
+      "content": "Yes, exactly."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:07:14",
+      "origin": "ご本人には、働く意志はあるのでしょうか？",
+      "content": "Does he himself have the will to work?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:08:22",
+      "origin": "それわからなくなってきて、不安になっているような感じなんでしょうかね？",
+      "content": "Or is it that he's become unsure about it and is feeling anxious?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:08:24",
+      "origin": "卒業依頼、就労支援継続事業所には、ほぼ毎日通所しているのですが、",
+      "content": "Since graduation, he has been attending a continuous employment support facility almost every day, but..."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:08:52",
+      "origin": "稼ぎのある仕事は、まだしたことがないんですよね。",
+      "content": "he hasn't done any paid work yet."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:09:02",
+      "origin": "アルバイトとかもないんです。",
+      "content": "Not even a part-time job."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:09:27",
+      "origin": "卒業以来、の間違いです。",
+      "content": "I meant \"since graduation,\" my mistake."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:09:30",
+      "origin": "積極的には就職活動はされているんですね。",
+      "content": "So he is actively looking for a job, then."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:10:17",
+      "origin": "いえいえ、毎日同じ場所に、いやいや通所している感じなんですよね。",
+      "content": "No, no, it feels more like he's reluctantly going to the same place every day."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:10:39",
+      "origin": "あわよくば、サボろうとします。",
+      "content": "He’ll try to skip it if he thinks he can get away with it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:10:50",
+      "origin": "アルバイトではないけど、何か収入が得られることはしたことがあるんですね。",
+      "content": "So it's not a part-time job, but he has done something to earn an income, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:11:09",
+      "origin": "それがないんですよね。",
+      "content": "He hasn't, actually."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:11:16",
+      "origin": "実は、",
+      "content": "The truth is,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:11:48",
+      "origin": "自閉的な傾向があるため、コミュニケーションが苦手なんですよね。",
+      "content": "he has autistic tendencies, so he struggles with communication."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:12:08",
+      "origin": "学生だから学校に通うというのと同じような感じに見えてしまうのですね。",
+      "content": "So it's almost as if he's treating it like school, where a student just goes because they have to."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:12:27",
+      "origin": "特別支援学校の高等部に通っていました。",
+      "content": "He attended the high school division of a special-needs school."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:12:39",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:12:53",
+      "origin": "見た目は、健常者と同じです。",
+      "content": "Outwardly, he looks just like a typical person."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:13:28",
+      "origin": "療育手帳を持っています。",
+      "content": "He has a disability certificate."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:14:15",
+      "origin": "そうだったんですね。一生懸命、特別支援学校に通って卒業したのだから、もうひと頑張りしてほしいという、暖かい親心を感じます。",
+      "content": "I see. I can sense your warm parental feelings, wanting him to push just a little bit more, especially after he worked so hard to attend and graduate from the special needs school."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:14:31",
+      "origin": "そうですね。",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:15:08",
+      "origin": "親もいつまでも元気で、生きているわけではないですからね。",
+      "content": "As parents, we won't be around and healthy forever, after all."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:15:40",
+      "origin": "実は、長男も発達障害があるのですが、今は、ビニールハウスの農園で働いています。",
+      "content": "Actually, my older son also has a developmental disability, but he's currently working at a greenhouse farm."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:15:52",
+      "origin": "そうですよね、自立してほしいと思ってしまいますよね。息子さんは、ご自身の希望について何か仰っていますか？",
+      "content": "That's understandable; you want him to become independent. Has your son said anything about his own wishes?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:16:15",
+      "origin": "長男は、24歳です。時間給のパート社員ですけどね。",
+      "content": "My older son is 24. He’s an hourly part-time employee, though."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:16:32",
+      "origin": "そうですか、ご長男も立派に教育なさったんですね。",
+      "content": "I see, you've raised your older son wonderfully as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:17:01",
+      "origin": "はい、それが、なにをしたいとか、これがやりたいということが、全くないんですないみたいなんですよね。",
+      "content": "Yes, but that's the thing. He doesn't seem to have any idea what he wants to do or what he'd like to try."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:17:39",
+      "origin": "興味があることが、全くない感じなんですよね。",
+      "content": "It feels like he has no interests whatsoever."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:17:48",
+      "origin": "趣味もないですしね。",
+      "content": "He doesn’t have any hobbies, either."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:18:16",
+      "origin": "なるほど、マイペースでのんびり屋なところがあるのでしょうかね。",
+      "content": "I see. Perhaps he's a bit easy-going and likes to do things at his own pace."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:18:37",
+      "origin": "はい、長男は、素直というか、順調でしたね。",
+      "content": "Yes, my older son was more straightforward, or rather, things went smoothly with him."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:19:04",
+      "origin": "ええ、次男は、家ではほとんど会話をしてくれないんですよね。",
+      "content": "Yes, my younger son, on the other hand, barely speaks to us at home."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:19:39",
+      "origin": "そうなんですね。ご兄弟の仲はどうなのでしょうか？",
+      "content": "I see. How is the relationship between the brothers?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:20:35",
+      "origin": "長男と次男は、そこそこ仲がいいと思います。次男は、友達も欲しいみたいなんですけど、いかんせん、コミュニケーションの仕方、距離感がわからないみたいで。",
+      "content": "I think my older and younger sons get along reasonably well. It seems my younger son wants to have friends, but unfortunately, he doesn't seem to understand how to communicate or gauge the right social distance."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:20:45",
+      "origin": "全く友達がいません。",
+      "content": "He has no friends at all."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:21:40",
+      "origin": "ああ、人間関係の面でも少し不安があるかな？という感じなのでしょうかね。",
+      "content": "Ah, so it seems there might be some anxiety regarding his social relationships as well?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:21:52",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:22:38",
+      "origin": "本当は、話せるのに、話さないと決めたら、全く話をしようとはしないんです。",
+      "content": "He can actually talk, but once he decides not to, he won't make any effort to speak at all."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:23:03",
+      "origin": "以前は、家の中でも話していたんですけどね。",
+      "content": "He used to talk at home as well."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:23:37",
+      "origin": "自分が話したいことだけを話す感じでした。",
+      "content": "It was more like he would only talk about things he wanted to talk about."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:24:03",
+      "origin": "そうなんですね。何か、話さなくなるきっかけが生まれた理由に心当たりはありますか？",
+      "content": "I see. Do you have any idea what might have triggered him to stop talking?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:24:17",
+      "origin": "そうですね。",
+      "content": "Let me see..."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:24:26",
+      "origin": "2年くらい前に、",
+      "content": "About two years ago,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:24:57",
+      "origin": "友達欲しさに、不良たちとつるんでいたことがあります。",
+      "content": "he started hanging out with some delinquents because he wanted friends."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:25:29",
+      "origin": "その時に、私が縁を断ち切ろうとして、かなり強く怒ったため、",
+      "content": "At that time, I tried to make him cut ties with them and got very angry with him,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:25:46",
+      "origin": "それ以来、話をしてくれなくなりましたね。",
+      "content": "and he hasn't spoken to me since."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:26:10",
+      "origin": "なるほど息子さんとしては、そういった方たちと通じ合える何かがあったのですね。",
+      "content": "I see. So for your son, there must have been something that made him feel connected to those people."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:26:34",
+      "origin": "カツ上げされたり、殴られたり、物を取られたりしました。",
+      "content": "He was getting extorted, beaten, and had his things stolen from him."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:26:42",
+      "origin": "そうかもしれないですね。",
+      "content": "That might be true."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:26:47",
+      "origin": "今思うと。",
+      "content": "Thinking back on it now."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:27:03",
+      "origin": "あとは、生活保護で暮らしている、",
+      "content": "Also, there were people living on public assistance,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:27:20",
+      "origin": "高齢者と仲良く話している感情でしたね。",
+      "content": "he was chatting amiably with elderly people; that was my impression."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:28:03",
+      "origin": "変なのと付き合うなと、あんなのは、友達なんかじゃないと、何度も話しました。",
+      "content": "I told him over and over not to associate with strange people, that they weren't his friends."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:28:23",
+      "origin": "親としては不安になってしまいますし、注意したくあるのも当然だと思いますがね。",
+      "content": "As a parent, it's natural to feel worried and want to caution him."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:28:44",
+      "origin": "感じでしたね、の間違いです。",
+      "content": "My mistake, I meant to say \"that was my impression.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:28:49",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:29:16",
+      "origin": "おかげさまで、不良仲間とは、縁が切れたのですが、",
+      "content": "Thankfully, he did cut ties with those delinquents, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:29:49",
+      "origin": "それでも、息子さんなりに人の輪を形成しようとしていたんじゃないか？と思わなくもない気持ちもあったのですね。",
+      "content": "And yet, you also had a feeling that perhaps, in his own way, your son was trying to form a social circle."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:29:53",
+      "origin": "それ以来、家庭内のコミュニケーションは、ほぼなくなってしまいました。。。",
+      "content": "Since then, communication within our family has almost completely stopped..."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:30:07",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:30:44",
+      "origin": "友達は欲しいんだけど、どうやって話しかけたらいいのか、分からなかった！知らなかった、という幹事長なのかな？",
+      "content": "\"I want friends, but I didn't know how to approach them or how to talk to them! I just didn't know.\" Is that how he was feeling, perhaps?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:31:04",
+      "origin": "と今思えばですけどね。",
+      "content": "That's what I think now, looking back."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:31:33",
+      "origin": "感じなのかな？、の間違いです。",
+      "content": "My mistake, I meant to say, \"Is that how he was feeling?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:32:25",
+      "origin": "息子さんからすると、自分を受け入れてくれて、話しやすかったのが、たまたまその方たちだったのかもしれませんね。",
+      "content": "From your son's perspective, it may be that those people just happened to be the ones who accepted him and were easy to talk to."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:33:12",
+      "origin": "確かに、そうかもしれませんね。不良仲間や生活保護の高齢者たちには、話しかけやすかったのかもしれませんね。",
+      "content": "That might be true. It may have been easier for him to talk to the delinquents and the elderly people on public assistance."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:33:47",
+      "origin": "一体どこで、知り合いになるのか、不思議でしたね。",
+      "content": "I wondered where on earth he even met them."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:34:43",
+      "origin": "確かに不思議ですね。いい意味でも、悪い意味でも人を惹きつけやすい魅力があるのかもしれませんね。",
+      "content": "It is curious, isn't it? Perhaps he has a charm that draws people in, for better or for worse."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:35:54",
+      "origin": "暇そうに、そこら辺をプラプラしていたからかもしれませんね。不良たちがよく行くお店を、うちの次男は出禁にしてもらいました。",
+      "content": "It might be because he was just wandering around the area looking bored. I had my son banned from the places those delinquents frequented."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:36:24",
+      "origin": "2箇所、カラオケ店とゲームセンターです。",
+      "content": "Two places: a karaoke bar and an arcade."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:37:19",
+      "origin": "そうですよね、親としてはせめて就職が決まってからという想いもありますし、当然かなと思います。",
+      "content": "That makes sense. As a parent, it's natural to feel that he should at least find a job first."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:37:19",
+      "origin": "次男が来たら、警察に通報してもいいです、と店長さんにお願いしました。",
+      "content": "I asked the store managers to call the police if my son showed up."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:37:35",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:38:03",
+      "origin": "過去の人間関係のことで、いわゆる不良と呼ばれる方たちが行うようなことははっきりと良くないと話したうえで、",
+      "content": "Regarding his past relationships, after clearly stating that the things so-called delinquents do are wrong,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:38:37",
+      "origin": "ええ",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:40:10",
+      "origin": "自分を受け入れてくれる人や、苦労している人に対して、心を開いて関わることができるのは長所なんだよと伝えてみてはどうかと思うですが、どうでしょうか？",
+      "content": "how about trying to tell him that his ability to open up and connect with people who accept him or who are struggling is one of his strengths? What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:41:24",
+      "origin": "そうですね。見知らね人には、結構平気で話しかけたりしますからね。",
+      "content": "You're right. He can talk to complete strangers quite easily."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:41:42",
+      "origin": "それは、確かに長所なのかもしれませんね。",
+      "content": "That might indeed be a strength."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:42:37",
+      "origin": "倫理や道徳の問題は、あると思いますが、それを弁えたうえで、人の輪を広げられる力があることは、",
+      "content": "There are ethical and moral issues, I believe, but putting those aside, the ability to expand his social circle..."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:43:18",
+      "origin": "最近は、私と妻から早く働け働けというプレッシャーをかんじているのかもしれませんね。",
+      "content": "Lately, he might be feeling pressure from my wife and me, constantly telling him to get a job."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:43:22",
+      "origin": "ええ、",
+      "content": "Yes,"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:44:20",
+      "origin": "自分の強みであるということを、お父様から言ってもらえるのは、自信につがる気がします。",
+      "content": "Hearing from you, his father, that this is one of his strengths could really boost his confidence."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:44:52",
+      "origin": "そうかもしれませんね。4月11日からは、新しいB型事業所に通所しています。",
+      "content": "That might be true. Since April 11th, he's been attending a new Type B work facility."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:45:16",
+      "origin": "クワガタを育てる土を作ったり、",
+      "content": "He's doing things like making soil for raising stag beetles,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:45:48",
+      "origin": "しいたけの原木を作ったりする作業をしているみたいです。",
+      "content": "and preparing logs for shiitake mushroom cultivation."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:46:26",
+      "origin": "そこには、自分が行くと言って、行き始めました。",
+      "content": "He said he wanted to go there himself and started attending."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:46:54",
+      "origin": "そうでしたか、積極的になってくれると嬉しいですよね。",
+      "content": "Is that so? It must be great to see him being proactive."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:46:54",
+      "origin": "わずかな工賃が、出るだけですけどね。",
+      "content": "He only gets a very small wage for it, though."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:47:03",
+      "origin": "はい、そうなんです。",
+      "content": "Yes, that’s right."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:47:42",
+      "origin": "最低賃金法の適用除外事業所ですから、ブラックではないんです。",
+      "content": "It's a facility exempt from the minimum wage law, so it's not an exploitative workplace."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:48:06",
+      "origin": "それは安心できますよね。",
+      "content": "That must be a relief."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:48:08",
+      "origin": "確か、時間給にすると、250円らしいです。",
+      "content": "I believe it works out to about 250 yen per hour."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:48:58",
+      "origin": "はい、そこからうまく、長男のように、一般企業に就労してくれたらいいな、と思っています。",
+      "content": "Yes. I'm hoping that from there, he can successfully move on to employment in a regular company, like my older son."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:49:57",
+      "origin": "そこに、親が挨拶に行こうとしたら、妻に対して、「来なくていい」と話したみたいなんです。",
+      "content": "When my wife and I planned to go and greet the staff there, he apparently told my wife, \"You don't need to come.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:50:08",
+      "origin": "待遇のことは気になると思いますが、まずは自身で積極的に行動してくれたことを承認して、肯定してあげることが大切かなと思います。",
+      "content": "I'm sure you're concerned about the pay and conditions, but I think it's important to first acknowledge and affirm the fact that he took this proactive step on his own."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:50:41",
+      "origin": "お世話になるから、ご挨拶にいかなくてもいいのかな？と思っています。",
+      "content": "Since they'll be taking care of him, I'm wondering if it's really okay for us not to go and introduce ourselves."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:50:47",
+      "origin": "そうですね。",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:51:18",
+      "origin": "成人していますし、息子さんの自立心も尊重してあげてもいいのではないかなと思いますが、いかがでしょうか？",
+      "content": "He is an adult, so perhaps it would be good to respect his growing sense of independence. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:51:58",
+      "origin": "次男との挨拶ついでに、チャンスがあったら、承認と肯定を伝えたいと思います。",
+      "content": "When I get a chance to talk with my younger son, I'd like to convey my approval and affirmation."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:52:39",
+      "origin": "そうですね。次男も成人なんだから、来なくていいと話しているみたいです。",
+      "content": "You're right. It seems he's saying we don't need to come because he's an adult now."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:52:45",
+      "origin": "自分でできたという達成感は、きっと息子さんの成長に繋がると思いますしね。",
+      "content": "That sense of accomplishment, of having done it himself, will surely contribute to his growth."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:52:56",
+      "origin": "親に来てもらいたくないのかもしれませんね。",
+      "content": "Maybe he doesn't want his parents to come."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:53:07",
+      "origin": "そうかもしれませんね。",
+      "content": "That could be it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:53:34",
+      "origin": "是非、伝えてあげてください。",
+      "content": "Please do tell him."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:53:45",
+      "origin": "わかりました。",
+      "content": "I will."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:54:26",
+      "origin": "問題は、私とは、このところ2年間全く話していない、ということがなんですよね",
+      "content": "The problem is that he and I haven't spoken at all for the past two years."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:54:47",
+      "origin": "妻とは、話しているみたいです。",
+      "content": "It seems he talks to my wife, though."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:54:59",
+      "origin": "私が、不在のときに。",
+      "content": "When I'm not around."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:55:38",
+      "origin": "どうしたらいいもんでしょうかね？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:55:39",
+      "origin": "例えば返事がなくても、聴こえるように話すだけでもいいですし、手紙や、奥様を通じてでもよい気がします。",
+      "content": "For example, you could just talk so he can hear you, even if he doesn't reply. A letter or a message through your wife might also be good options."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:56:08",
+      "origin": "大事なのは、息子さんが自身の良さに気づき、",
+      "content": "The important thing is for your son to realize his own strengths,"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:56:32",
+      "origin": "ふうむ、なるほどですね～",
+      "content": "Hmm, I see..."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:56:46",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:57:19",
+      "origin": "もっと自分を成長させようと前向きになってくれることだと思います。",
+      "content": "and for him to become more positive about his own growth."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:57:32",
+      "origin": "そうなんです。そうなんです。",
+      "content": "Exactly. That's it."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:58:32",
+      "origin": "自己肯定感が低いので、自分の良さに是非気づいてもらいたいなと思っています。",
+      "content": "His self-esteem is low, so I really want him to recognize his own good qualities."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:59:06",
+      "origin": "結構、やればできる子だと思っています。",
+      "content": "I really believe he's a kid who can do anything if he just tries."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T21:59:17",
+      "origin": "お声がけするのは、達成感を感じていそうな時に、そっと背中を押すようでもいいのではないでしょうか。その方が息子さんも、あなたの優しさを受け取りやすいかもしれませんしね。",
+      "content": "Perhaps you could try speaking to him at a time when he seems to be feeling a sense of accomplishment, like a gentle nudge of encouragement. He might be more receptive to your kindness that way."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T21:59:44",
+      "origin": "なるほど～確かにそうですね。",
+      "content": "I see... that certainly makes sense."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:00:03",
+      "origin": "受け取る準備も必要ですよね。",
+      "content": "He needs to be ready to receive it, too, right?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T22:00:29",
+      "origin": "きっと息子さんは、あなたが信じている通り、やってくれると思います。",
+      "content": "I'm sure your son will come through, just as you believe he will."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:01:03",
+      "origin": "そうですかね？",
+      "content": "Do you really think so?"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:01:12",
+      "origin": "やってはみますね。",
+      "content": "I'll give it a try."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T22:01:38",
+      "origin": "終了のお時間になってしまいました。",
+      "content": "I’m afraid our time is up for today."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:01:50",
+      "origin": "はい、色々とありがとうございました。",
+      "content": "Yes, thank you for everything."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:02:00",
+      "origin": "（これもリアルタイムの実話です。）",
+      "content": "(This is a true, real-time story as well.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:02:33",
+      "origin": "（この先の展開は、わかりません。）",
+      "content": "(I don't know what will happen next.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T22:03:26",
+      "origin": "本日はありがとうございました。またお気軽にご相談にお越しください。",
+      "content": "Thank you for today. Please feel free to come and talk anytime."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:03:45",
+      "origin": "はい、またの機会によろしくお願いします。",
+      "content": "Yes, I look forward to another session in the future."
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:03:50",
+      "origin": "ありがとうございました。",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T22:04:09",
+      "origin": "(今日も貴重なお話聴かせていてありがとうございました。)",
+      "content": "(Thank you again for sharing your valuable story with me today.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T22:04:27",
+      "origin": "（こちらこそ、ありがとうございました。）",
+      "content": "(The pleasure was all mine, thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T22:05:06",
+      "origin": "(時間オーバーしてすみません。では、終了します。)",
+      "content": "(I'm sorry for going over time. I'll end the session now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "次男とのコミュニケーション問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 3391,
+    "evaluation_created_at": "2022-04-18T22:17:00",
+    "client_id": 270,
+    "counselor_id": 228,
+    "score": 84,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-03T09:51:15",
+      "origin": "おはようございます。本日はよろしくお願いいたします。時間になったらはじめていきます。",
+      "content": "Good morning. I'm looking forward to our session today. We'll get started at the scheduled time."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T09:52:20",
+      "origin": "宜しくお願い致します。",
+      "content": "Thank you. I'm looking forward to it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:00:04",
+      "origin": "こんにちは、相談員です。ここでは安心してどんなことでもお話ください。",
+      "content": "Hello, I'm the counselor. Please know that this is a safe space where you can talk about anything."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:00:21",
+      "origin": "はじめに年齢、性別、相談内容を教えてください。",
+      "content": "To begin, could you please tell me your age, gender, and what you would like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:00:30",
+      "origin": "宜しくお願い致します。45歳、男、仕事",
+      "content": "Thank you. I’m 45, male, and my concern is about work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:01:08",
+      "origin": "教えていただきありがとうございます。仕事のことでご相談ですね。もう少し詳しく教えていただけますか？",
+      "content": "Thank you for sharing. So it’s about work. Could you tell me a bit more?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:01:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:02:16",
+      "origin": "転職したのですが",
+      "content": "I changed jobs, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:03:03",
+      "origin": "そこの組織の改善点を",
+      "content": "and I've been proposing points for improvement in the organization,"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:04:08",
+      "origin": "提示するのですが中々動かす事が出来ず、経営陣を動かすにはどうすれば良いかなと悩んでおります。",
+      "content": "but it’s been difficult to get things moving. I’m struggling with how to get the management team to take action."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:06:03",
+      "origin": "教えていただきありがとうございます。転職されたとのことですが、組織の改善点を提示するためのポジションとして転職されたということですか？",
+      "content": "Thank you for explaining. You mentioned you changed jobs—did you join in a role specifically to propose organizational improvements?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:09:16",
+      "origin": "誰が、どの様に話しても大丈夫な組織で一般の組織体とは少し異なります。雇用関係にはなく、全てがBtoBの関係で成り立っております。",
+      "content": "It's an organization where anyone can speak up in any way, which is a bit different from a typical corporate structure. There are no employment relationships; everything is based on B2B contracts."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:10:19",
+      "origin": "なるほど、そのような組織なのですね。より良い組織みしたいと思われて改善点を提示していらっしゃるのに、",
+      "content": "I see, so it's that kind of organization. You're trying to make it a better organization by proposing these improvements, yet..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:10:48",
+      "origin": "なかなか変わらない、動いてくれないのではもどかしくなってしまいますよね。",
+      "content": "it must be frustrating that things aren’t changing and people aren’t taking action."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:11:17",
+      "origin": "そうですね。",
+      "content": "That’s right."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:11:32",
+      "origin": "変わろうとはするのですが",
+      "content": "They try to change, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:11:42",
+      "origin": "変わりたくないと言う",
+      "content": "they say they don’t want to change."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:12:16",
+      "origin": "そうなのですね。そのようなことを聞いて、どのようにお感じですか？",
+      "content": "I see. How does that make you feel?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:12:19",
+      "origin": "変われない方の力も働いているのだと思います",
+      "content": "I think there's also a force from those who are resistant to change."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:12:43",
+      "origin": "どのような事ですか？",
+      "content": "What do you mean by that?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:13:39",
+      "origin": "言葉が足りず失礼しました。変わろうとするけど、変わりたくないと言っていることに対してです。",
+      "content": "I'm sorry, I didn't explain myself well. I was referring to them trying to change, but also saying they don't want to change."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:15:09",
+      "origin": "変わりたくないとは言いません。言葉では変わりたいと話します。変わらないし、行動が同じなので結果変わりたくないんだと思っております。",
+      "content": "They don't say they don't want to change. Verbally, they say they want to change. But since nothing changes and their actions stay the same, I believe that ultimately, they don't really want to change."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:16:32",
+      "origin": "そうなのですね。変わりたくないとは言ってはいないけど行動が同じなので、",
+      "content": "I see. So they don't say they don't want to change, but because their actions remain the same,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:16:56",
+      "origin": "変わりたくないということなのだとお感じなのですね。",
+      "content": "you feel that it must mean they don't want to change."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:17:12",
+      "origin": "みんなでワイワイやっている会議の時間だけ長い",
+      "content": "The only thing that's long are the meetings where everyone is just having a good time talking."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:17:50",
+      "origin": "会議は長い、仲はいいけど何も変わらないという感じでしょうか？",
+      "content": "So it feels like the meetings are long, everyone gets along well, but nothing actually changes?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:18:09",
+      "origin": "話す前にやれよと言う、思いがありますが、これも勉強かなとも捉えております。",
+      "content": "I have this feeling of, \"Just do it instead of talking about it,\" but I'm also trying to see this as a learning experience."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:18:35",
+      "origin": "勉強とは、人に対する",
+      "content": "A learning experience about people."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:20:12",
+      "origin": "そうなのですね。話すよりも、行動していくことの方が大切だとお感じなのかなと思いましたがいかがでしょうか？",
+      "content": "I see. I wondered if you feel that acting is more important than talking—how does that land with you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:20:14",
+      "origin": "どうしたらこの様な、皆様を動かしていけますかね？",
+      "content": "How can I get people like this to take action?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:20:39",
+      "origin": "いえ、そうは思っておりません",
+      "content": "No, that’s not what I think."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:21:05",
+      "origin": "そうなのですね、ではどのように思っていらっしゃいますか？",
+      "content": "I see. In that case, what are your thoughts?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:21:24",
+      "origin": "話す事は非常に大切で、私もたくさんの時間を割いております。",
+      "content": "Talking is very important, and I dedicate a lot of time to it myself."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:21:38",
+      "origin": "ポイントの問題です。",
+      "content": "It's a matter of focus."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:22:15",
+      "origin": "話す前にやれと言うスタンスではない事だけご理解ください",
+      "content": "Please just understand that my stance isn't \"act before you talk.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:22:16",
+      "origin": "ポイントの問題なのですね。ポイントというのどこを大切にされていますか？",
+      "content": "So it's a matter of focus. When you say that, what aspects are most important to you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:22:52",
+      "origin": "教えていただきありがとうございます。話すことも行動することもどちらも大切なのですね。",
+      "content": "Thank you for clarifying. So both talking and taking action are important."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:24:26",
+      "origin": "話す事は大事ですが、話してからがもっと大切です。",
+      "content": "Talking is important, but what happens after the talking is even more important."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:24:50",
+      "origin": "なんか話のポイントが",
+      "content": "I feel like the point of our conversation..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:24:58",
+      "origin": "ズレて行ってます",
+      "content": "is getting off track."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:25:46",
+      "origin": "失礼しました。この場で一番話されたいことはどのようなことになりますか？",
+      "content": "I apologize. What is the most important thing you would like to discuss here today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:27:40",
+      "origin": "話したい事は、組織を動かしたい経営陣を動かしたいそれには、2点中々動かない方々をまとめてリーダーシップを取っていく動く数人で少数でやっていく私は、出来れば前者の方法を取りたいですが",
+      "content": "What I want to talk about is this: I want to move the organization—to move the management team. To do that, I see two options: 1) rally the many who are not taking action and exercise leadership to bring them together; or 2) proceed with a small group of people who will act. If possible, I would prefer the former approach, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:27:59",
+      "origin": "時間も労力も反発も受ける",
+      "content": "it will take time and effort, and I'll face resistance."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:28:13",
+      "origin": "ここが大変だなと",
+      "content": "That’s the hard part."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:29:12",
+      "origin": "教えていただきありがとうございます。組織を変えていくために、経営陣を動かしたい。そのためにできれば、",
+      "content": "Thank you for explaining. To change the organization, you want to move the management team. And to do that, if possible,"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:30:22",
+      "origin": "動かない人をまとめてリーダーシップが取れたらいいとお考えなのですね。ただ、時間も労力も反発も受けるから考えてしまうのですね。",
+      "content": "you think it would be best to bring together the unmotivated people and take a leadership role. However, you're hesitant because you know it will take time and effort, and you'll face resistance."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:30:56",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:31:53",
+      "origin": "時間も労力も反発も受けるだろうとおもわれている中、どうしてその方法がいいと思われたのですか？",
+      "content": "Even though you anticipate that it will take time, effort, and resistance, why do you think that method is the better one?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:34:39",
+      "origin": "その方が大きな物を動かしていけると言う可能性です",
+      "content": "Because it has the potential to move something bigger."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:35:44",
+      "origin": "自分と合わない方を排除するより、合わないまま、どうチームを作っていけるかと言う多様性を",
+      "content": "It's about embracing diversity—how to build a team with people you don't necessarily get along with, rather than excluding them."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:36:15",
+      "origin": "個を生かすにはどうすれば良いか",
+      "content": "How to make the most of individuals."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:36:32",
+      "origin": "個を生かすと言っても",
+      "content": "That said, making the most of individuals,"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:36:53",
+      "origin": "経営なので成果を出していかないといけない",
+      "content": "it’s still a business, so we have to deliver results."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:37:36",
+      "origin": "なるほど。経営陣に働きかける方が大きな物を動かしていける可能性があるとお感じなのですね。多様性を受け入れつつ、チームとしてどう動くか、成果を出していけるかとお考えなのですね。",
+      "content": "I see. So you feel that engaging the management team offers the potential to create a bigger change. And you're thinking about how to embrace diversity, how to function as a team, and how to achieve results."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:38:19",
+      "origin": "そのためにどのようなことができるとお考えですか？",
+      "content": "What do you think you can do to make that happen?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:39:22",
+      "origin": "どう思いますか？どんな組織なら動きたくなるとおもいますか？",
+      "content": "What do you think? What kind of organization would make people want to take action?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:40:42",
+      "origin": "動きたくなる組織ですか。動きたくなるというのは、具体的にどのようなことですか？",
+      "content": "An organization that makes people want to act—what does “want to act” mean, specifically, to you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:41:39",
+      "origin": "主体的に行動すると言う事ですもっと言うとやる気になるかと言う事です",
+      "content": "It means acting proactively—in other words, feeling motivated."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:42:28",
+      "origin": "なるほど、やる気になるということですね。あなたはどうしたらやる気になりますか？",
+      "content": "I see, so it's about becoming motivated. What motivates you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:46:48",
+      "origin": "私は、目標があるとやる気になります。責任があるとやる気になります。プレッシャーが重ければ重いほどやる気になります。",
+      "content": "I feel motivated when I have goals, when I have responsibility. The heavier the pressure, the more motivated I become."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:48:17",
+      "origin": "そうなのですね。とても明確にご自身の事を理解されていらっしゃるのですね。なかなかあなたのように話せる方はいらっしゃらないので、今までたくさんご自身向き合われてきたのだと思います。では、",
+      "content": "I see. You have a very clear understanding of yourself. Not many people can articulate that as you do, so I imagine you’ve done a lot of self-reflection. Then,"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:48:50",
+      "origin": "そのあなたと言うの辞めて欲しいです",
+      "content": "I'd like you to stop addressing me as 'you.'"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:49:11",
+      "origin": "なんとお呼びしたらよろしいですか？",
+      "content": "How would you like me to address you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:49:11",
+      "origin": "相談者にしていていだだけますか",
+      "content": "Could you refer to me as 'the client'?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:50:16",
+      "origin": "かしこまりました。相談者さんは先ほど多様性や個というお話、変わろうと言ってはいるけど行動しない経営陣の事を教えてくれました。",
+      "content": "Understood. The client mentioned earlier the topics of diversity and individuality, and about the management team who say they want to change but don't act."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:50:48",
+      "origin": "そのような方たちをどうやったらやる気にさせることができると思いますか？",
+      "content": "How do you think you can motivate people like them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:51:18",
+      "origin": "違います。",
+      "content": "No, that’s not it."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:51:33",
+      "origin": "経営陣を動かすには",
+      "content": "To move the management team,"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:53:14",
+      "origin": "動かない多数のチームメンバーを動かして行く事が大事と言う事です。経営陣が動かないのではありません。経営陣を動かすにはの話です。ご理解頂けますでしょうか？",
+      "content": "it's important to get the many unmotivated team members to move. It's not that the management team won't move. This is about *how* to move the management team. Do you understand?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:54:51",
+      "origin": "失礼しました。教えていただきありがとうございます。経営陣を動かすために、動かない多数のチームメンバーを動かしていく事が大事なのですね。",
+      "content": "I apologize. Thank you for clarifying. So, in order to move the management team, it's important to get the many unmotivated team members to take action."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:55:04",
+      "origin": "そうです。",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:55:30",
+      "origin": "そのチームメンバーを動かすために何が出来そうですか？",
+      "content": "What do you think you could do to get those team members moving?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:55:43",
+      "origin": "その動かないメンバーの気持ちをどう動かしてまとめて行くか",
+      "content": "How to change the mindset of those unmotivated members and bring them together..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:56:01",
+      "origin": "何が良いでしょうか。。",
+      "content": "What would be a good approach...?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:57:13",
+      "origin": "そうですね、考えてしまいますよね。もしかしたらとても考えていらっしゃる方なので、されている事かもしれませんが一つだけ提案させていただいてもよろしいですか？",
+      "content": "Yes, it is something to think about, isn't it? You seem to be someone who thinks very deeply, so perhaps you're already doing this, but may I make one suggestion?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:57:30",
+      "origin": "はい、宜しくお願い致します",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:58:58",
+      "origin": "ありがとうございます。わからないのであれば、チームの方に聞いてみるのはいかがでしょうか？もちろん組織なので、全員の意見を聞くのは難しい等課題は出てくるかもしれませんが、",
+      "content": "Thank you. If you don't know, how about asking the team members? Of course, since it's an organization, you might face challenges, like it being difficult to hear everyone's opinion, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T10:59:30",
+      "origin": "なる程",
+      "content": "I see."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T10:59:34",
+      "origin": "直接聞いてみる事でわかることもあるかなと思いました。",
+      "content": "I thought you might learn something by asking them directly."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:00:10",
+      "origin": "一部の方には聞いておりますが、",
+      "content": "I have asked some of them, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:00:37",
+      "origin": "中々、これと言う意見がでないのですが",
+      "content": "I'm not really getting any definitive opinions."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:00:52",
+      "origin": "どの様な方に聞くと",
+      "content": "What kind of person should I ask,"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:01:04",
+      "origin": "良いと思われますか？",
+      "content": "do you think would be good?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:01:37",
+      "origin": "そうだったのですね、すでに一部の方には聞いていらっしゃたのですね。これは私の意見なので参考程度に聞いていただきたいのですが、",
+      "content": "I see, so you have already asked some of them. This is just my opinion, so please take it only as a reference, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:01:49",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:02:48",
+      "origin": "これと言った意見が出てこないとお感じなのであれば、普段関わらない方や、苦手意識のある方に聞いてみると意外な意見が聞けるかもしれません。",
+      "content": "If you feel you’re not getting clear opinions, you might try asking people you don’t usually interact with or those you feel less comfortable with—you may hear unexpected perspectives."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:03:07",
+      "origin": "そのような方は職場にいらっしゃいますか？",
+      "content": "Are there such people in your workplace?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:03:13",
+      "origin": "有難う御座います。と言いますと？",
+      "content": "Thank you. What do you mean by that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:04:29",
+      "origin": "普段関わらない方、苦手意識のある方からは意見が出やすいでしょうか？",
+      "content": "Are people I don’t usually engage with, or those I feel uncomfortable with, more likely to speak up?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:05:16",
+      "origin": "そうですね、それは聞いてみないと私もわからないです。",
+      "content": "Well, that's something I wouldn't know unless you try asking them."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:05:35",
+      "origin": "出るかもしれないし、出ないかもしれません。",
+      "content": "You might get their opinions, or you might not."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:06:36",
+      "origin": "相談者さんがおっしゃていたように、時間も労力も反発も受けるかもしれません。それでも変えたいと思われているのですよね？",
+      "content": "As the client mentioned, it might take time, effort, and you might face resistance. But you still want to make a change, don't you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:06:53",
+      "origin": "そうですね",
+      "content": "That's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:08:17",
+      "origin": "今はもしかしたら行動や成果として目に見えるものがなくもどかしい時期かもしれません。でもたくさん考えていらっしゃて、なんとかしたいと",
+      "content": "This might be a frustrating time for you right now, with no visible actions or results. But you've been thinking a lot about this and want to do something about it..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:09:09",
+      "origin": "強い気持ちを持って行動されている方だと感じました。今日はお時間となってしまいましたが、ここまでお話されてみていかがでしたか？",
+      "content": "I sense that you are someone who acts with strong conviction. We're running out of time for today, but how do you feel after having talked things over?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:10:59",
+      "origin": "そうですね。最後のアドバイスは非常に、興味深く、的確なポイントだと感じております。有難う御座いました。幾つか、ピックアップしてお話しを聞いてみようと思います。有難う御座いました",
+      "content": "Yes. I found your final advice very interesting and spot-on. Thank you. I’ll pick a few people and try talking with them. Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:13:13",
+      "origin": "こちらこそ大切なお話をしてくださりありがとうございました。もしかしたらうまくいくことばかりではないかもしれませんが、行動していく中で少しずつでも変わっていく事を私も応援しております。",
+      "content": "Thank you as well for sharing such an important matter with me. Things may not always go smoothly, but I'll be supporting you as things gradually change through your actions."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:14:08",
+      "origin": "またいつでもご相談ください。本日はお時間となってしまいましたので、ここで終了させていただいても大丈夫でしょうか？",
+      "content": "Please feel free to consult with me again anytime. We are out of time for today, so is it all right if we end the session here?"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:14:14",
+      "origin": "はい、有難う御座います。少しスッキリしました。私自身も見ようとしていない事があったのかもしれません。",
+      "content": "Yes, thank you. I feel a bit more clear-headed. Perhaps there were things that I myself wasn't trying to see."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:14:41",
+      "origin": "はい、ここで終了でお願い致します。",
+      "content": "Yes, let’s end here, please."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:14:48",
+      "origin": "有難う御座いました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:15:12",
+      "origin": "またいつでもお気軽にご相談ください。本日はありがとうございました。",
+      "content": "Please feel free to consult with me anytime. Thank you for today."
+    },
+    {
+      "role": "client",
+      "time": "2023-07-03T11:15:22",
+      "origin": "有難う御座いました",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-03T11:15:49",
+      "origin": "（大幅な時間超過失礼いたしました。終了させていただきます。）",
+      "content": "(My apologies for going significantly over time. We will conclude now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "組織の改善に向けた経営陣へのアプローチ方法"
+  },
+  "review_by_client": {
+    "evaluation_id": 5383,
+    "evaluation_created_at": "2023-07-03T11:54:00",
+    "client_id": 387,
+    "counselor_id": 385,
+    "score": 64,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

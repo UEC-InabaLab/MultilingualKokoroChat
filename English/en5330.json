@@ -1,0 +1,693 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:21:12",
+      "origin": "(こんばんは。本日はよろしくお願いします。）",
+      "content": "(Good evening. Thank you for your time today.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:21:50",
+      "origin": "(こんばんは。こちらこそよろしくお願い致します。)",
+      "content": "(Good evening. Thank you as well.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:30:21",
+      "origin": "こんばんは。相談員です。はじめに、年齢・性別を教えてください。",
+      "content": "Good evening. I'm the counselor. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:30:43",
+      "origin": "20歳男です",
+      "content": "I'm a 20-year-old male."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:31:05",
+      "origin": "ありがとうございます。本日は、どのような相談でしょうか？",
+      "content": "Thank you. What would you like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:31:34",
+      "origin": "1年くらい引きこもり状態です。しんどいです",
+      "content": "I've been a shut-in for about a year. It's really hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:32:40",
+      "origin": "そうなのですね。しんどいと感じているんですね。",
+      "content": "I see. So you're feeling that it's really hard."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:32:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:33:15",
+      "origin": "どんなところがしんどいか教えていただけますか？",
+      "content": "Could you tell me what aspects are hard for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:34:18",
+      "origin": "なぜかイライラしてしまったり、過呼吸になってしまったりします",
+      "content": "For some reason, I get irritable, and sometimes I start hyperventilating."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:35:38",
+      "origin": "イライラしたり、過呼吸になったりするんですね。呼吸が苦しく感じるので、つらいですね。",
+      "content": "So you get irritable and hyperventilate. It must be distressing when it's hard to breathe."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:35:56",
+      "origin": "はい、辛いです",
+      "content": "Yes, it's painful."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:36:35",
+      "origin": "このような症状はどういった時にでますか？",
+      "content": "When do these symptoms tend to appear?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:37:18",
+      "origin": "人がちょっと多いとこに行ったりすると過呼吸になったりします",
+      "content": "I start to hyperventilate when I go to places where there are a lot of people."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:38:10",
+      "origin": "そうなのですね。人が多いとは、どういた場所ですか？買い物とか？",
+      "content": "I see. What kind of places do you mean by \"a lot of people\"? Like when you're shopping?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:39:04",
+      "origin": "いえ、普通に外を歩いている時です",
+      "content": "No, just when I'm walking outside normally."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:39:25",
+      "origin": "なるべく外に出ないようにはしてます",
+      "content": "I try to avoid going out as much as possible."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:39:40",
+      "origin": "そうなのですね。外を歩くときに出ると不安ですよね。",
+      "content": "I see. It must be anxiety-inducing when it happens while you're walking outside."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:40:11",
+      "origin": "過呼吸になるかもしれないというのがあるので怖いです",
+      "content": "I'm scared that I might start hyperventilating."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:41:05",
+      "origin": "そうですよね。過呼吸になるかもと思うと怖いですよね。",
+      "content": "I can understand that. The thought that you might hyperventilate must be frightening."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:41:22",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:41:44",
+      "origin": "もし、話せそうだったらでいいのですが、1年前のことを教えていただいてもいいですか？",
+      "content": "If you feel up to it, would you mind telling me about what was happening a year ago?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:42:04",
+      "origin": "はい、普通に仕事をしてました",
+      "content": "Yes, I was working as usual."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:42:48",
+      "origin": "お仕事をされていたんね。自宅にいるようになったきっかけを教えていただけますか？？",
+      "content": "So you were working. Could you tell me what led you to start staying at home?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:43:21",
+      "origin": "仕事を辞めたからです。人間関係のことで色々ありました。",
+      "content": "It's because I quit my job. There were a lot of issues with my relationships there."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:43:57",
+      "origin": "任芸関係のことでいろいろあたのですね。",
+      "content": "So there were various issues with… relationships."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:44:14",
+      "origin": "人間関係です。すみません。",
+      "content": "I mean, interpersonal relationships. Sorry."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:44:23",
+      "origin": "はい、ありました",
+      "content": "Yes, there were."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:44:40",
+      "origin": "教えていただくことは可能ですか？",
+      "content": "Would you be able to share more about that?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:44:54",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, that’s fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:45:24",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:45:48",
+      "origin": "どういったことがあったのでしょうか？？",
+      "content": "What kind of things happened?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:46:38",
+      "origin": "結構まわりの人から色々ときついことを言われていました",
+      "content": "People around me often said some pretty harsh things to me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:47:03",
+      "origin": "きついことを言われたのですね。つらかったですね。",
+      "content": "They said harsh things to you. That must have been very painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:47:11",
+      "origin": "はい、",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:48:37",
+      "origin": "きついこととはどんなことを言われたのでしょうか？",
+      "content": "What kind of harsh things did they say?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:49:18",
+      "origin": "ちょっとそれはあまり言いたくないです、思い出すと辛くなります",
+      "content": "I'd rather not say... it's painful to remember."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:49:40",
+      "origin": "すみません。思い出させてしまいましたね。",
+      "content": "I'm sorry. I made you recall something painful."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:49:57",
+      "origin": "いえ、大丈夫です",
+      "content": "No, it’s okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:51:57",
+      "origin": "今は、外出したいが、過呼吸になるかもしれないとの不安から外に出れずつらい。という事でよろしいでしょうか？",
+      "content": "So, to summarize, you want to go out, but you can't because you're afraid you might hyperventilate, and that's causing you distress. Is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:53:31",
+      "origin": "外出したいとまでは思っていないのですが、必要な時に外に出ないといけない時がたまにあるので、その時に過呼吸になったりするのがつらいです",
+      "content": "I don't go as far as to say I want to go out, but there are times when I have to go out for necessary errands, and it's distressing when I hyperventilate then."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:54:50",
+      "origin": "外出が必要な時に、過呼吸になるのがお辛いのですね。",
+      "content": "So it's distressing for you when you hyperventilate on those necessary outings."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:55:02",
+      "origin": "そうです",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:55:36",
+      "origin": "外出されるとき、過呼吸は、必ずでますか？",
+      "content": "When you do go out, does the hyperventilation always happen?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:56:05",
+      "origin": "人が多かったり、人からの視線を感じたりした時になります",
+      "content": "It happens when there are a lot of people or when I feel like people are looking at me."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:56:54",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:57:17",
+      "origin": "人が少ないところだったら大丈夫です",
+      "content": "If there are few people around, I’m okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:58:00",
+      "origin": "少ないところだと大丈夫なのですね。",
+      "content": "So you're okay in places with fewer people."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T21:58:11",
+      "origin": "はい、大丈夫です",
+      "content": "Yes, I’m okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:58:55",
+      "origin": "人の多いところだと、相談者さんはどんな感じになりますか。",
+      "content": "When you're in a crowded place, what is that like for you?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T21:59:19",
+      "origin": "過呼吸になりそうな感覚など前兆みたいなものがあるのでしょうか？",
+      "content": "Are there any warning signs, like a feeling that you're about to start hyperventilating?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:00:44",
+      "origin": "前兆とかは無いのですが、視線を感じたり人通りの多いとこに行くと、自分のことを侮辱されてるみたいな感覚になります",
+      "content": "There aren’t really warning signs, but when I feel people looking at me or I’m in a busy area, I get the sense that I’m being insulted."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:01:19",
+      "origin": "そう感じられるのですね。",
+      "content": "That’s how it feels for you."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:01:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:02:28",
+      "origin": "視線を感じるとは、どのような感じでしょうか？",
+      "content": "When you say you feel people’s gaze, what is that feeling like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:02:57",
+      "origin": "見られてる感じです。",
+      "content": "It feels like I’m being watched."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:03:09",
+      "origin": "見られてなくても見られてると感じたりします",
+      "content": "Even when I’m not actually being watched, I feel like I am."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:03:57",
+      "origin": "そうなのですね。見られてると感じると、不安になりますね。",
+      "content": "I see. It must be anxiety-provoking to feel like you're being watched."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:04:14",
+      "origin": "不安ですしイライラもあります",
+      "content": "I feel anxious, and also irritable."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:04:44",
+      "origin": "イライラもあるんですね。",
+      "content": "So there’s irritability too."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:04:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:05:16",
+      "origin": "イライラは、どんなイライラですか？",
+      "content": "What does the irritability feel like?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:05:50",
+      "origin": "なぜ僕だけこんな嫌な思いをしないといけないのかという感じです",
+      "content": "It's like, \"Why do I have to be the only one going through this awful experience?\""
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:06:49",
+      "origin": "そうなのですね。",
+      "content": "I see."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:06:55",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:07:31",
+      "origin": "人の視線を感じるようになった何かきっかけみたいなものは、ありますか？",
+      "content": "Was there some sort of trigger that made you start feeling people's gazes?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:08:39",
+      "origin": "仕事場での人間関係のせいでそのように感じることになったのかなと",
+      "content": "I think I started feeling that way because of the relationships at work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:09:18",
+      "origin": "仕事場での人間関係なのですね。",
+      "content": "So it was the relationships at your workplace."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:09:37",
+      "origin": "そうですよ",
+      "content": "That’s right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:12:28",
+      "origin": "過呼吸になる不安をどうにかしたいという事でよろしいでしょうか？？",
+      "content": "So, you would like to do something about the fear of hyperventilating. Is that correct?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:13:14",
+      "origin": "ちょっとでも楽になれたらいいなと思って来ました",
+      "content": "I came here hoping I could feel even a little better."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:13:29",
+      "origin": "過呼吸が無くなればすごく助かるのですが、",
+      "content": "It would be a huge help if the hyperventilation would stop."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:14:12",
+      "origin": "ありがとうございます。相談者さんは、凄く繊細な方だと私は思います。少しでの楽になれるよう、一緒に考えていきたいと思います。",
+      "content": "Thank you. I feel you are a very sensitive person. I’d like to think together with you about ways to make things feel even a little easier."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:14:37",
+      "origin": "ありがとうございます。よろしくお願いします",
+      "content": "Thank you. I look forward to working with you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:15:19",
+      "origin": "人が多いとのことですが、どのくらいの人がいると不安になりますか？？",
+      "content": "You mentioned crowded places. About how many people does it take for you to start feeling anxious?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:16:36",
+      "origin": "どれくらいが不安になるとまでは分からないです",
+      "content": "I’m not sure exactly how many would make me anxious."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:17:05",
+      "origin": "でも都会に住んでいるので基本どこもダメな気がします",
+      "content": "But I live in a city, so I feel like basically nowhere is okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:17:37",
+      "origin": "都会に住んでいらっしゃると、確かに人は多いですよね。",
+      "content": "Living in a city, it's true that there are a lot of people."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:17:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:18:40",
+      "origin": "生活圏を変えるなどは、難しいですよね。",
+      "content": "It would be difficult to change your living environment, wouldn't it?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:19:06",
+      "origin": "そうですね、仕事もしていないので",
+      "content": "Right, since I'm not working either."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:19:58",
+      "origin": "今は、ご家族と暮らしていますか？",
+      "content": "Are you living with your family right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:20:29",
+      "origin": "いえ、一人暮らしで",
+      "content": "No, I live alone."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:21:22",
+      "origin": "そうなのですね。ご実家などは、遠いのでしょうか？",
+      "content": "I see. Is your family home far away?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:21:57",
+      "origin": "けっこう遠いです、戻ることも考えたのですが迷惑かけたくないなと思いまして、",
+      "content": "It's quite far. I thought about moving back, but I don't want to be a burden."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:23:03",
+      "origin": "遠方なのですね。迷惑かけたくないと思われているのですね。",
+      "content": "So it’s far, and you don’t want to burden your family."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:23:18",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:23:30",
+      "origin": "ご家族思いなのだと思います。",
+      "content": "I think that shows you are very considerate of your family."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:23:47",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:24:16",
+      "origin": "今、お住まいのところで、誰か頼れるご友人などはいらっしゃいますか？",
+      "content": "Where you're living now, do you have any friends you can rely on?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:24:43",
+      "origin": "こっちで友達も作れていないのでいないです",
+      "content": "I haven't been able to make any friends here, so no."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:25:51",
+      "origin": "そうなのですね。20歳とのことなので、都会に出てこられて日は浅いですよね。",
+      "content": "I see. Since you're 20, you probably haven't been in the city for very long, have you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:26:27",
+      "origin": "そうですね、2年くらいです",
+      "content": "That’s right—about two years."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:27:22",
+      "origin": "2年なのですね。",
+      "content": "Two years."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:27:28",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:28:11",
+      "origin": "相談者さんがご家族に迷惑をかけたくないとの気持ちがあると思うのですが、",
+      "content": "I understand you have this feeling of not wanting to be a bother to your family, but..."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:28:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:29:27",
+      "origin": "一度、ご家族に話をしてみるのもいいのかなと私は思います。",
+      "content": "I think it might be a good idea to try talking to them once."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:29:53",
+      "origin": "そうするしかなさそうですよね",
+      "content": "I guess that's my only option, isn't it?"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:31:01",
+      "origin": "できれば話してほしいと私は思っています。もし、このままだと相談者さんの体調にも影響が出てくるのではないかと感じています。",
+      "content": "I really hope you will talk to them. I'm concerned that if things continue as they are, it will start to affect your physical health as well."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:31:40",
+      "origin": "そうですね、1人ではさすがに生きて行けません",
+      "content": "You're right. I can't really live on my own."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:32:38",
+      "origin": "私も相談者さんと同じで、1人では生きていけないと思っています。",
+      "content": "I feel the same way as you; I don't think anyone can live completely alone."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:32:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:34:34",
+      "origin": "ご家族に一度話をしてみていただければと思います。本日は、時間となってしまったので、ご家族にどう伝えたらなど、それ以外のこともまた、相談に来ていただけたらと思います。",
+      "content": "I would like you to try talking to your family. We've run out of time for today, so if you'd like to discuss how to talk to them, or anything else, please feel free to come back and talk again."
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:35:05",
+      "origin": "そうですね、分かりました。はい、ありがとうございます",
+      "content": "Right, I understand. Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:36:07",
+      "origin": "（本日は、ありがとうございました。時間が過ぎてしまい、申し訳ありません。フィードバックどうぞよろしくお願いいたします。）",
+      "content": "(Thank you very much for today. I apologize for going over time. I look forward to your feedback.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-23T22:36:47",
+      "origin": "（終了ボタンを押させていただいてよろしでしょうか？）",
+      "content": "(May I press the end button?)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:36:48",
+      "origin": "(ありがとうございました。勉強になりました。はい、これからも頑張っていきましょう。)",
+      "content": "(Thank you. This was a great learning experience. Yes, let's both keep doing our best.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-23T22:36:52",
+      "origin": "はい",
+      "content": "Yes."
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "過呼吸と人間関係による不安"
+  },
+  "review_by_client": {
+    "evaluation_id": 5330,
+    "evaluation_created_at": "2023-06-24T13:13:00",
+    "client_id": 396,
+    "counselor_id": 341,
+    "score": 72,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

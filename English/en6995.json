@@ -1,0 +1,567 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-08T12:50:41",
+      "origin": "(こんにちは。本日はよろしくお願いします。13時になりましたらはじめさせていただきます。）",
+      "content": "(Hello. Thank you for being here today. We will begin at 1:00 PM.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:00:56",
+      "origin": "（お時間になりましたが、始めさせていただいてよろしいですか？）",
+      "content": "(It's time now, so shall we get started?)"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:06:01",
+      "origin": "よろしくお願いします",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:06:27",
+      "origin": "こんにちは。相談員です。今日はご相談に来てくださって、ありがとうございます。はじめに、年齢と性別、相談内容を教えてください。",
+      "content": "Hello, I’m the counselor. Thank you for coming in for a consultation today. To begin, could you please tell me your age, gender, and what you’d like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:06:57",
+      "origin": "30代　女",
+      "content": "30s, female."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:07:35",
+      "origin": "どうして生きていけばいいのか、わからない",
+      "content": "I don’t know how I’m supposed to go on living."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:08:38",
+      "origin": "教えてくださってありがとうございます。それはおつらいですね。",
+      "content": "Thank you for sharing that with me. That must be very difficult."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:08:53",
+      "origin": "そうなんです",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:09:39",
+      "origin": "どういったことでそのようなお気持ちになられているのか、お話ししやすいところから教えていただけますか？",
+      "content": "Could you tell me, starting with whatever is easiest for you to talk about, what has made you feel this way?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:09:54",
+      "origin": "パワハラにあい、適応障害で休職後、退職した",
+      "content": "I experienced power harassment at work, took a leave of absence for an adjustment disorder, and then resigned."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:10:47",
+      "origin": "働けないし、このままだと生活できない",
+      "content": "I can't work, and at this rate I won't be able to support myself."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:10:56",
+      "origin": "どうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:11:12",
+      "origin": "そうなんですね。それはしんどいですね。",
+      "content": "I see. That sounds incredibly tough."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:11:21",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:12:08",
+      "origin": "まずは状況を知りたいと思うのですが、お仕事を辞められたのはいつ頃ですか？",
+      "content": "I'd like to understand your situation better first. When did you leave your job?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:12:23",
+      "origin": "半年前です",
+      "content": "Six months ago."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:13:07",
+      "origin": "そうですか。半年間苦しんでらしたのですね。",
+      "content": "I see. So you've been struggling for six months."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:13:51",
+      "origin": "それまではあった貯金でなんとかしていたけど、このままだと死ぬしかない",
+      "content": "I was getting by on my savings until now, but at this rate, the only option left is to die."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:14:24",
+      "origin": "もうお金も底をついてしまう",
+      "content": "My money is about to run out completely."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:14:37",
+      "origin": "助けてください",
+      "content": "Please help me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:14:38",
+      "origin": "そのような気持ちになるほど苦しんでいるのですね。",
+      "content": "You’re in so much pain that you feel that way."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:14:56",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:15:50",
+      "origin": "お金がなくて仕事もできずつらいということですが、その事をどなたかに相談した事はありますか？",
+      "content": "You mentioned it's painful being unable to work and having no money. Have you spoken to anyone about this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:17:52",
+      "origin": "親は毒親ですし、友達もいません。役所に相談したけど、働くように言われて冷たい対応をされただけでした。",
+      "content": "My parents are toxic, and I don’t have any friends. I consulted the city office, but they just told me to get a job and treated me coldly."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:18:36",
+      "origin": "いったいわたしはどうしたらいいのでしょうか？教えてください",
+      "content": "What on earth am I supposed to do? Please tell me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:20:42",
+      "origin": "教えていただきありがとうございます。他の方には相談できていないという状況で今日はここにお話に来てくださったのですね。",
+      "content": "Thank you for telling me. So, you came here today because you haven't been able to talk to anyone else about this."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:20:50",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:21:17",
+      "origin": "あなたのお気持ちが少しでも楽になるよう、どうしたらいいか一緒に考えたいと思います。",
+      "content": "I would like to think together with you about what we can do to help you feel even a little bit better."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:21:24",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:23:14",
+      "origin": "どうしたらいいのかわからないんです",
+      "content": "I just don't know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:24:33",
+      "origin": "つらい経験をされて、お仕事もできず、役所にもその様な対応をされて、その様なお気持ちになられるのは当然のことだと思います。",
+      "content": "After going through such a painful experience, being unable to work, and then being treated that way by the city office, I think it's completely natural for you to feel the way you do."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:26:42",
+      "origin": "もしよろしければ、今の状況をどんなふうに変えたいか教えていただけますか？",
+      "content": "If you're comfortable, could you tell me how you would like to change your current situation?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:27:33",
+      "origin": "働いて生活できるようになりたい",
+      "content": "I want to be able to work and support myself."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:28:40",
+      "origin": "働きたいというしっかりとした想いがおありなんですね。",
+      "content": "So you have a strong desire to work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:29:06",
+      "origin": "ちなみにハローワークなどの相談機関には行かれましたか？",
+      "content": "By the way, have you been to any support agencies like Hello Work?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:29:37",
+      "origin": "はいでも、働けない",
+      "content": "Yes, but I can't work."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:30:02",
+      "origin": "体調に波があって、まともに働けない",
+      "content": "My physical condition fluctuates, so I can't work properly."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:30:44",
+      "origin": "行きました",
+      "content": "I did go."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:31:27",
+      "origin": "そうなんですね。どのように体調に波があるのでしょうか？",
+      "content": "I see. In what ways does your physical condition fluctuate?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:32:32",
+      "origin": "吐き気があったり、頭痛がしたり、体がしんどいです",
+      "content": "I feel nauseous, have headaches, and my body feels exhausted."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:32:47",
+      "origin": "日にもよりますが",
+      "content": "Though, it depends on the day."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:33:14",
+      "origin": "そうなんですね、その様なしんどい状況がおありなんですね。通院はされているのでしょうか？",
+      "content": "I see, so you're dealing with such difficult physical symptoms. Are you currently seeing a doctor?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:33:49",
+      "origin": "今は行っていません",
+      "content": "Not at the moment."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:34:13",
+      "origin": "信用できなくなったこととお金がないからです",
+      "content": "It's because I lost trust in them and I don't have the money."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:36:22",
+      "origin": "なるほど。以前通われていた病院の信用がなくなってしまったのですかね…通院もお金がかかりますし、なかなか行けないですよね",
+      "content": "I understand. I imagine you lost trust in the hospital you were going to before... And going to the doctor costs money, so it's not easy to go, is it?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:36:29",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:37:02",
+      "origin": "どうしたらいいですか？解決方法を教えてください",
+      "content": "What should I do? Please tell me a solution."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:37:50",
+      "origin": "あなたがお仕事をしたいという強いお気持ちが伝わってきます。もしよければインターネットで在宅のお仕事を探すのはいかがでしょうか？",
+      "content": "I can really feel your strong desire to work. If you're open to it, how about looking for work-from-home jobs on the internet?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:38:00",
+      "origin": "ちなみに私も在宅で仕事をしています。",
+      "content": "By the way, I also work from home."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:38:51",
+      "origin": "体調が少し悪くても通勤がなく自宅での仕事なので何とか仕事はできるかと思いますが、いかがですか？",
+      "content": "Even if you feel a bit unwell, because there’s no commute and you’re working at home, you might still be able to manage. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:38:54",
+      "origin": "PCも7ないですし、やったことがありません",
+      "content": "I don't have a PC, and I've never done that kind of work before."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:40:06",
+      "origin": "そうですね。PCがなくても仕事を探すのはスマホでもできます。",
+      "content": "I see. Even without a PC, you can search for jobs on your smartphone."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:40:36",
+      "origin": "ちなみに以前はどんなお仕事をされていたのですか？",
+      "content": "By the way, what kind of work did you do before?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:41:42",
+      "origin": "清掃です",
+      "content": "Cleaning."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:42:32",
+      "origin": "教えていただきありがとうございます。今後も清掃のお仕事を希望されているのでしょうか？",
+      "content": "Thank you for telling me. Are you hoping to continue with cleaning work in the future?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:43:38",
+      "origin": "・・・わかりません",
+      "content": "...I’m not sure."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:44:41",
+      "origin": "働けたらどんなことでもいいけど、人とかかわるのが無理だと思う",
+      "content": "I'd do any kind of work if I could, but I don't think I can interact with people."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:45:05",
+      "origin": "体調もすぐれない中どんなお仕事をすればいいか悩みますよね。",
+      "content": "It's hard to know what kind of job to do when you're not feeling well."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:45:22",
+      "origin": "あなたは働きたいという気持ちが本当にお強いのですね。",
+      "content": "You really do have a very strong desire to work."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:45:46",
+      "origin": "ほんとは働きたくない",
+      "content": "Actually, I don't want to work."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:46:10",
+      "origin": "生活できないからに決まっているでしょ",
+      "content": "It's because I can't support myself, obviously."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:46:42",
+      "origin": "働かないでどうやって生きていくの？",
+      "content": "How am I supposed to live without working?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:47:25",
+      "origin": "働かないで暮らしたいよ",
+      "content": "I wish I could live without working."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:47:26",
+      "origin": "そうですね。働きたくなくても生活のために仕事をしている方は多くいらっしゃいますよね。",
+      "content": "I understand. There are many people who work to make a living even if they don't want to."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:48:00",
+      "origin": "働かないで暮らしたいとお思いなのですね。",
+      "content": "You wish you could live without working."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:49:58",
+      "origin": "誰だってそうでしょ",
+      "content": "Isn’t that what everyone wants?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:51:43",
+      "origin": "そうですね。今の状況ではすぐに働いたりしにくい状況の様なので、何らかの支援を受けた方がよいように思います。",
+      "content": "You're right. In your current situation, it seems difficult to start working right away, so I think receiving some kind of support would be a good idea."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:52:02",
+      "origin": "私はどうしたらいいですか？",
+      "content": "What should I do?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:52:26",
+      "origin": "何らかの支援ってなんですか？",
+      "content": "What do you mean by \"some kind of support\"?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:52:32",
+      "origin": "教えてください",
+      "content": "Please tell me."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:52:42",
+      "origin": "例えば県や市町村の「生活にお困りの方」「生活に苦しい時」の相談窓口などです。",
+      "content": "For example, the prefectural or municipal consultation desks for services like “Support for Persons with Difficulty in Daily Living” or “Assistance in Hardship”."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:53:15",
+      "origin": "相談はしましたよ",
+      "content": "I've already consulted them."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:53:46",
+      "origin": "そうでしたか。その時はどの様に言われましたか？",
+      "content": "You did? What were you told at that time?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:54:20",
+      "origin": "どこも同じでした",
+      "content": "It was the same everywhere."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:54:31",
+      "origin": "冷たかったです",
+      "content": "They were cold."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:55:06",
+      "origin": "それは切なくなりますね。支援は受けられなかったということでしょうか？",
+      "content": "That must have been disheartening. Does that mean you weren't able to receive any support?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:55:19",
+      "origin": "はい",
+      "content": "That's right."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:56:09",
+      "origin": "窓口でいろいろ言われてしんどくなってしまいました",
+      "content": "They said a lot of things to me at the counter, and it just became too much."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:56:58",
+      "origin": "ここでも教えてもらえないんですね",
+      "content": "So I can’t get help here either, can I?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:58:41",
+      "origin": "そうでしたか…お話の途中で申し訳ございません。そろそろお時間が近づいてきました。",
+      "content": "I see... I'm sorry to interrupt, but our time is almost up."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T13:58:47",
+      "origin": "このSNS相談では、個別の訪問相談とも連携しています。人と関わるのがおつらいという事ですが、訪問支援員に相談ができます。また相談に来ていただけるとご紹介できるので、良ければまた相談に来てください。",
+      "content": "This social media counseling service also coordinates with individual home-visit consultations. I know you said interacting with people is difficult, but you can talk with a home-visit support worker. I can give you a referral if you come for another session, so please come back if you'd like."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:58:53",
+      "origin": "もうやっぱり人生終わりですね",
+      "content": "I guess my life is over after all."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T13:59:34",
+      "origin": "もう死ぬしかないのかもしれません",
+      "content": "Maybe I have no choice but to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T14:00:24",
+      "origin": "そんな事ないですよ。ここに勇気を出して相談に来てくださったんです。あなたには生きる力があります。また相談に来てください。",
+      "content": "That's not true at all. You summoned the courage to come here and talk to me today. You have the strength to live. Please come back and talk again."
+    },
+    {
+      "role": "client",
+      "time": "2024-06-08T14:00:54",
+      "origin": "今日はありがとうございました。",
+      "content": "Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T14:01:24",
+      "origin": "ありがとうございました。本日はこれで相談を終了したいと思います。",
+      "content": "Thank you. I'd like to conclude our session for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T14:01:36",
+      "origin": "では、お時間になりましたので終了のメッセージを送ります。",
+      "content": "Well then, as our time is up, I will send the closing message."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-08T14:02:05",
+      "origin": "（本日はありがとうございました評価はいつでも結構ですので、たくさんアドバイスいただけたらと思います。）",
+      "content": "(Thank you for today. Please feel free to provide feedback and as much advice as you'd like at any time.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "生活費の捻出方法と支援の必要性"
+  },
+  "review_by_client": {
+    "evaluation_id": 6995,
+    "evaluation_created_at": "2024-06-11T08:11:00",
+    "client_id": 156,
+    "counselor_id": 502,
+    "score": 38,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 0,
+    "conversation_was_valuable": 0,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

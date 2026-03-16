@@ -1,0 +1,483 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:08:23",
+      "origin": "(こんにちは　お手数をおかけしました。よろしくお願いいたします。）",
+      "content": "(Hello. Thank you for your time. I look forward to working with you.)"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:08:58",
+      "origin": "(こんにちは。お待たせしました。よろしくお願いします。)",
+      "content": "(Hello. Sorry to keep you waiting. I look forward to our session.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:09:22",
+      "origin": "こんにちは。相談員です。初めに年齢と性別、相談されたいことを教えてください。",
+      "content": "Hello. I’m the counselor. To begin, could you please tell me your age, gender, and what you’d like to talk about today?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:10:04",
+      "origin": "こんにちは。24歳・女性です。",
+      "content": "Hello. I'm 24 years old and female."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:10:36",
+      "origin": "うつ病になり希死念慮が高くてどうしたらいいか分かりません。",
+      "content": "I’ve developed depression, my suicidal thoughts are very strong, and I don’t know what to do."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:11:50",
+      "origin": "そうなのですね。うつ病にならて…。それはお辛いですね。今は自宅にいるのですか。",
+      "content": "I see. You have depression... That must be very difficult for you. Are you at home right now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:12:40",
+      "origin": "はい、家に居ます。",
+      "content": "Yes, I'm at home."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:13:25",
+      "origin": "最近外に出ることも億劫で、仕事以外はずっと家で横になっています。",
+      "content": "Lately, it feels like too much effort to go outside, so I spend all my time lying down at home, except for work."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:14:29",
+      "origin": "うんうん、外に出るのも疲れてしまう感じなんですね。ここは何を話しても大丈夫なところなので、よかったらゆっくりとあなたの思いを聞かせてもらえたらと思います。",
+      "content": "I hear you; it sounds like even going out is exhausting for you. This is a safe space where you can talk about anything, so if you'd like, please feel free to share what's on your mind at your own pace."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:15:32",
+      "origin": "お仕事には行かれているとのこと、無理はされていないですか。",
+      "content": "You mentioned you're still going to work. Are you pushing yourself too hard?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:16:14",
+      "origin": "そうなんです。仕事の日は帰ってきたら、ぐったりしてご飯も食べず、お風呂も入らずに寝てしまう時もあるくらいです。ありがとうございます。",
+      "content": "Yes, I am. On workdays, I come home completely exhausted, and sometimes I just fall asleep without eating or taking a bath. Thank you for asking."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:16:52",
+      "origin": "仕事はなかなかハードなので、無理はしているかもしれません。",
+      "content": "My job is quite demanding, so I might be overdoing it."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:17:42",
+      "origin": "大変なお仕事、気を張り詰めて仕事をしているのですね。",
+      "content": "It sounds like a very demanding job, and you must be constantly on edge while working."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:18:20",
+      "origin": "はい、休みも週に一回休めるか休めないかの時もあります…",
+      "content": "Yes, there are times when I'm lucky to get even one day off a week..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:18:42",
+      "origin": "人手不足なのでしょうがないと思います。",
+      "content": "We're short-staffed, so I feel like it can't be helped."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:19:15",
+      "origin": "そういう状況なのですね…。食事も食べられず、お風呂にも入れないほどお疲れとのこと、ご自分で用意しているのですか。",
+      "content": "I see, that's the situation... You mentioned you're so exhausted you can't eat or bathe. Are you preparing your meals yourself?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:20:25",
+      "origin": "そうですね。一人暮らしなので自分で用意しています。",
+      "content": "That's right. I live alone, so I prepare them myself."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:21:37",
+      "origin": "実家は近くてすぐに帰れるのですが、職場からは今の家の方が近くて、なかなか実家に帰ろうとは思えないんです。",
+      "content": "My parents' house is close, so I could go back easily, but my current place is closer to work, and I just can’t bring myself to go back there."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:22:40",
+      "origin": "忙しい毎日。実家に帰る気力もなくなってしまっているほど心も体も消耗してしまったているように感じました。",
+      "content": "Your days are so busy. It sounds like you're so mentally and physically drained that you don't even have the energy to go back to your parents' house."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:23:13",
+      "origin": "そうだと思います。",
+      "content": "I think that's right."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:23:37",
+      "origin": "うつ病の診断を受けているとのことですが、会社には伝えているのですか。",
+      "content": "You mentioned you've been diagnosed with depression. Have you told your company?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:23:53",
+      "origin": "まだ伝えていません。",
+      "content": "I haven't told them yet."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:24:39",
+      "origin": "そうなんですね。伝えないのに何か理由があるのですか。",
+      "content": "I see. Is there a reason you haven't told them?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:25:04",
+      "origin": "会社の人に言うとどんな反応をされるか分からないので、主治医に休職することを言われるまでは伝えないでおこうと思っています。",
+      "content": "I'm not sure how people at work would react, so I've decided not to tell them unless my doctor tells me to take a leave of absence."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:26:36",
+      "origin": "なるほど、どんな反応をされるか、心配されているのですね。",
+      "content": "I see—you’re concerned about how they might react."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:26:50",
+      "origin": "はい、みんな仕事が忙しくて大変なのに私のことで心配させたくないです。",
+      "content": "Yes, everyone is so busy and struggling with their own work, I don't want to make them worry about me."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:27:35",
+      "origin": "それに、あまり病気の人だからと遠慮して欲しくないとも思っています。",
+      "content": "Also, I don't want them to hold back or treat me differently just because I'm sick."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:28:39",
+      "origin": "そうお考えなのですね。周りの方のことを考えているのですね。相談者様はお忙しいという中、病院には行けている感じですか。",
+      "content": "I see that's how you feel. You're very considerate of those around you. With your busy schedule, have you been able to go to the hospital?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:31:09",
+      "origin": "そうですね。周りの人もちょっと病んでいるというか、アルコール中毒気味ですし…はい、病院には行けています。病院のある日は急いで仕事を片付けていますので。",
+      "content": "That's right. The people around me are also a bit unwell, some seem to be borderline alcoholics... Yes, I've been able to go to the hospital. On days I have an appointment, I rush to get my work done."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:34:11",
+      "origin": "周囲の方もご心配な人がいるのですね…。ご自身が心身共にお疲れの上、周囲の方のことも考えなければいけないのは、考えただけで気持ちも滅入ってきてしまうと思います。",
+      "content": "So there are others around you who you're concerned about as well... It must be depressing to even think about having to worry about others when you're so physically and mentally exhausted yourself."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:34:56",
+      "origin": "そんな中、病院には行けているのは相談者にとってもいい事だと思います。",
+      "content": "Given the circumstances, I think it's a good thing that you're able to make it to your hospital appointments."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:35:34",
+      "origin": "はい、私が休職するほど悪化してしまったら、職場がどうなるのか心配です。",
+      "content": "Yes, I'm worried about what will happen to my workplace if my condition worsens to the point where I have to take a leave of absence."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:35:50",
+      "origin": "ありがとうございます。",
+      "content": "Thank you."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:36:47",
+      "origin": "ただ、病院に行っても良くなっている感じはなくて、むしろどんどん悪くなっている感じがします。",
+      "content": "However, even when I go to the hospital, I don’t feel like I’m getting better—if anything, I feel like I’m getting worse and worse."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:39:27",
+      "origin": "症状が悪くなっていってると感じている…その上、会社のことを気遣う気持ちがあるのですね。今、相談者様はかなり心身共にお疲れの様子に感じます。",
+      "content": "You feel your symptoms are getting worse... and on top of that, you're concerned about your company. It seems to me that you are extremely exhausted, both mentally and physically, right now."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:40:23",
+      "origin": "少しでも相談者様が楽になるようもう少しお話を聞かせてもらってもいいですか。",
+      "content": "So that you might feel even a little bit better, would it be alright if I listened to you a bit more?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:40:31",
+      "origin": "そうですね。職場の人はほとんどの人が良い人なので、迷惑をかけたくないと思っています。",
+      "content": "That's right. Most of my coworkers are good people, so I don't want to be a burden to them."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:40:43",
+      "origin": "お願いします。",
+      "content": "Yes, please."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:41:02",
+      "origin": "コメントが入れ違いになってしまい、失礼いたしました。",
+      "content": "I apologize, it seems our messages crossed."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:41:54",
+      "origin": "いえいえ",
+      "content": "No, no, it's fine."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:42:42",
+      "origin": "ありがとうございます。相談者様は、例えば５年後も今、の会社での仕事を続けていきたいと考えてますか。",
+      "content": "Thank you. For example, do you see yourself continuing to work at your current company five years from now?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:43:22",
+      "origin": "うーん、どうなんでしょうか…それはよく分からないです。",
+      "content": "Hmm, I’m not sure… I don’t really know."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:43:56",
+      "origin": "今が必死すぎて、将来のことを考えられないです。",
+      "content": "I'm so desperate just to get through the present that I can't think about the future."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:44:41",
+      "origin": "最近はこなすことが精一杯で、今のことも考えられない気がしています。",
+      "content": "Lately, it takes all my energy just to get things done, and I feel like I can't even think about the present moment."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:45:05",
+      "origin": "急に言われても確かに分からないですよね。失礼いたしました。相談者様は、、今のお仕事を身を削って頑張っていらっしゃるように感じました。",
+      "content": "Of course, it's hard to know when asked so suddenly. My apologies. It feels like you're sacrificing your well-being to keep up with your current job."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:45:30",
+      "origin": "はい、きっと疲れているんですよね。だから、死にたくなるんだと思います。",
+      "content": "Yes, I must be exhausted. I think that's why I feel like I want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:47:15",
+      "origin": "そう思われるのも当然と思いました。なのに周囲の人を大切に思い、体調を心配され、ご自分の病気のことも伏せ、とても献身的に過ごされていると思います。",
+      "content": "It's completely natural to feel that way. And yet, you care so much for those around you, worry about their well-being, and keep your own illness a secret. I think you've been living very selflessly."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:48:35",
+      "origin": "そう言ってもらえて嬉しいです。うつ病になってしまって、何もできない自分に嫌になっていました。",
+      "content": "I'm happy to hear you say that. Since becoming depressed, I've come to hate myself for being unable to do anything."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:49:32",
+      "origin": "今のうつ病で死にたい気持ちを抱えている自分のままでいいんでしょうか…",
+      "content": "Is it okay for me to be the way I am now, with depression and these suicidal feelings?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:51:25",
+      "origin": "頑張りたいと思っても頑張れなくて、好きなこともできないし、自分はもうダメだなと思っています。",
+      "content": "I want to try harder, but I can't. I can’t even do the things I used to enjoy, and I feel like I'm a failure."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:51:49",
+      "origin": "そう思っているのですね。そう思われるほど、うつ病になるほど、疲れてそう思ってしまうほど、今まで頑張ってきたという事なのだと感じましたよ。そう思って当たり前だと思います。今は死にたいと思うほどお疲れということもご自分でお分かりの様子…。",
+      "content": "That's how you feel right now. The way I see it, the fact that you feel this way, that you're so exhausted you've developed depression, just shows how hard you've been working until now. I think it's perfectly normal to feel this way. It seems you also recognize that you're exhausted to the point of wanting to die..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:53:40",
+      "origin": "これが当たり前なんですね。では、今は頑張らなくても大丈夫なのでしょうか…",
+      "content": "So this is normal. In that case, is it okay not to try so hard right now...?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:54:46",
+      "origin": "そうですね。死にたいと自己表現するしかないくらい疲れているんだと思います。",
+      "content": "You're right. I think I'm so tired that the only way I can express it is by saying I want to die."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:56:48",
+      "origin": "相談者様ご自身がとても責任感をもってお仕事をされてきていることもお話をお聞きしてわかりました。でもそのために、ご自身が辛くなり、病気になるほど心身を疲れさせてしまうのはどうかなと思います。",
+      "content": "From what you’ve shared, I can tell you’ve been working with a strong sense of responsibility. But I'm concerned that, because of that, you’ve exhausted your mind and body to the point of becoming ill and making yourself suffer."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:58:23",
+      "origin": "そうですよね。確かに、仕事でこんなに辛くなるのは自分でもおかしいなと思います。",
+      "content": "You're right. It's true, I also think it's strange to be suffering this much because of my job."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T13:58:41",
+      "origin": "食事がとれなかったりお風呂にも入れないというのも、余計心と体を疲弊させるようですよ。",
+      "content": "Not being able to eat or bathe can also further exhaust your mind and body, you know."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T13:59:32",
+      "origin": "知らなかったです。自分自身の行動が余計に悪化させているんですね…",
+      "content": "I didn’t know that. My own actions are making it worse, aren’t they…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:01:37",
+      "origin": "そのようですよ。日々お疲れのこととは思いますが、まずはご実家で食事をされる日もあると違うかもしれません。",
+      "content": "It seems so. I know you're tired every day, but perhaps having a meal at your parents' house sometimes might make a difference."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:02:31",
+      "origin": "きっと相談者様は心配をかけたくないと感じているとは思いますが…",
+      "content": "I'm sure you feel that you don't want to worry them, but..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:03:12",
+      "origin": "思い切って実家のご家族にも、会社の方にも病気のことをお伝えしてはとも思いますが…。",
+      "content": "I think it might be a good idea to take the leap and tell both your family and your colleagues about your illness..."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T14:03:23",
+      "origin": "そうなんですね。親に事情を話して、しばらく実家で過ごそうと思います。",
+      "content": "I see. I’ll explain the situation to my parents and spend some time at their house for a while."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T14:03:56",
+      "origin": "会社の人にはまだ言いづらいです。すみません…",
+      "content": "It’s still hard to tell the people at work. I’m sorry..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:04:58",
+      "origin": "それでいいと思いますよ。きっと相談者様の思う一番いいタイミングがあると思います。",
+      "content": "I think that’s perfectly fine. I’m sure the timing that feels best to you will come."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T14:05:39",
+      "origin": "はい、ありがとうございます。",
+      "content": "Yes, thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:06:31",
+      "origin": "相談者様の周りの方々も相談者様の頑張りをきっと認めていると思います。まずはご自分を大切に、できそうなことから…で十分だと思います。",
+      "content": "I'm sure the people around you recognize how hard you've been working. For now, I think it's enough to prioritize yourself and start with what you can manage."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T14:07:08",
+      "origin": "そうなんですかね。ありがとうございます。",
+      "content": "You think so? Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:07:14",
+      "origin": "そろそろ時間となりますが、いかがでしたか。",
+      "content": "Our time is almost up. How was this session for you?"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T14:08:57",
+      "origin": "はい、頑張らなくても良いんだと思うと少し楽になりました。",
+      "content": "Yes, I feel a little better knowing that it's okay not to push myself so hard."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:10:07",
+      "origin": "そう思えるようになったのでしたら、相談員もとても嬉しいです。相談者様のことを応援しています。またご相談がありましたら、いつでもおいでくださいね。",
+      "content": "I'm very happy to hear you feel that way. I'm rooting for you. If you ever need to talk again, please feel free to come back anytime."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T14:10:28",
+      "origin": "はい、ありがとうございました。",
+      "content": "Yes, thank you very much."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:10:34",
+      "origin": "ではこれで締めさせていただきます。",
+      "content": "Then, I will conclude our session here."
+    },
+    {
+      "role": "client",
+      "time": "2023-09-10T14:10:52",
+      "origin": "お願いします。今日はありがとうございました。",
+      "content": "Please do. Thank you for today."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:12:02",
+      "origin": "（ありがとうございました。お手数をおかけして申し訳ありません。とても勉強になりました。）",
+      "content": "(Thank you. I apologize for the trouble. This was a great learning experience.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-10T14:12:18",
+      "origin": "（これで締めさせていただきます。）",
+      "content": "(I will now conclude the session.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "うつ病と希死念慮について"
+  },
+  "review_by_client": {
+    "evaluation_id": 5698,
+    "evaluation_created_at": "2023-09-10T14:34:00",
+    "client_id": 250,
+    "counselor_id": 402,
+    "score": 76,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

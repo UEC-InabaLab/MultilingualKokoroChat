@@ -1,0 +1,663 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:00:04",
+      "origin": "こんにちは、相談員です。はじめに、あなたの年齢と性別を教えていただけますか？",
+      "content": "Hello, I'm the counselor. To begin, could you please tell me your age and gender?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:00:33",
+      "origin": "こんにちは！女性45歳です。宜しくお願い致します。",
+      "content": "Hello! I'm a 45-year-old woman. It's nice to meet you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:00:40",
+      "origin": "今日はご相談にきていただきありがとうございます。",
+      "content": "Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:01:16",
+      "origin": "どんなご相談でいらっしゃましたか？",
+      "content": "What would you like to discuss today?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:01:18",
+      "origin": "こちらこそありがとうございます。宜しくお願い致します。",
+      "content": "Thank you as well. I look forward to speaking with you."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:01:28",
+      "origin": "はい、実は",
+      "content": "Yes, actually..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:01:53",
+      "origin": "夫の生活習慣のことで悩んでいます",
+      "content": "I'm worried about my husband's lifestyle habits."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:03:12",
+      "origin": "パートナーさ（夫さん）の生活習慣でお悩みなんですね。具体的に、どんなことで困っていらっしゃるのか、良かったら教えてください。",
+      "content": "So you're concerned about your partner's (your husband's) lifestyle habits. If you don't mind, could you please tell me specifically what's troubling you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:03:40",
+      "origin": "はい、夫のアルコールのことで…",
+      "content": "Yes, it's about his drinking..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:04:07",
+      "origin": "毎日毎日酔っていて酷い時は午前中から酔っています",
+      "content": "He’s drunk every single day, and on bad days he’s already drunk by the morning."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:04:41",
+      "origin": "仕事は在宅が多く仕事中も飲んでる時が多々あります",
+      "content": "He often works from home, and there are many times he drinks while working."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:05:14",
+      "origin": "午前中からですか！朝から酔われていたら、色々心配ですね",
+      "content": "From the morning! It must be very worrying if he's drunk from so early in the day."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:06:04",
+      "origin": "はい、酒臭いのも嫌だし子どもにそうした姿を見せているのも問題だと思っています",
+      "content": "Yes, I hate the smell of alcohol, and I also think it’s a problem that he's showing that side of himself to the children."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:07:00",
+      "origin": "そんな夫なのつだずっと自分の部屋でベッドの上にいることが多いです",
+      "content": "Because of that, my husband spends a lot of time in his room on the bed."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:07:10",
+      "origin": "そうですね。お子様への影響を考えると不安になってしましますね…",
+      "content": "I see. It must be unsettling when you think about the impact on your children..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:07:17",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:08:12",
+      "origin": "あなたは昼間は家にいらっしゃいますか？それともお勤めされてますか？",
+      "content": "Are you at home during the day, or do you work outside the home?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:09:37",
+      "origin": "私は自営業なので、いたり、いなかったりです。居ても事務仕事をしている日が多いです。",
+      "content": "I’m self-employed, so I’m in and out. Even when I’m home, I’m often doing office work."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:10:34",
+      "origin": "教えて頂きありがとうございます。では、実際にパートナーさんが朝から酔われている姿を目にすることが多いんですね",
+      "content": "Thank you for sharing that. So, you often see your partner drunk from the morning, then."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:11:45",
+      "origin": "パートナーさんは、いつから今のようにお酒を飲まれるようになったのか、教えていただけますか？",
+      "content": "Could you tell me when your partner started drinking like this?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:12:13",
+      "origin": "そうですね、、私は仕事の日も自宅近くが多いので、家から出たり入ったりなんですがランチタイムに戻って酔って寝てるとイライラします💦",
+      "content": "That's right... Even on workdays, I'm often near home, so I'm in and out, but it's so irritating to come back at lunchtime and find him drunk and sleeping. 💦"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:12:19",
+      "origin": "夫は",
+      "content": "My husband—"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:13:15",
+      "origin": "もう長年アルコールが酷いのですが、ここ10年で悪化してきてる気がします。昨年からはよりひどくなりました",
+      "content": "his drinking has been bad for many years, but I feel it's gotten worse in the last 10 years. It's become even more severe since last year."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:14:47",
+      "origin": "そうですね。あなたが真面目に働いていらっしゃるのに、寄って寝てたら、ちょっとイライラしますね‥お酒の飲み方が悪化して来た10年くらい前に、何かきっかけになることがおありになったのでしょうか？",
+      "content": "I see. You’re working diligently, so finding him drunk and sleeping would understandably make you a bit irritated. About 10 years ago, when his drinking worsened, was there any particular trigger?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:14:59",
+      "origin": "お心当たりはございますか？",
+      "content": "Does anything come to mind?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:15:57",
+      "origin": "とにかく酔ってゴロゴロばかりしてるので本当にイライラします",
+      "content": "Anyway, he's always drunk and lounging around, so it really irritates me."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:16:09",
+      "origin": "心当たりはなく",
+      "content": "Nothing comes to mind."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:16:58",
+      "origin": "ストレス発散の方法をそれしか知らない、そして飲むことが癖になっているのかな？と思ってます。",
+      "content": "I think maybe it's the only way he knows how to relieve stress, and drinking has become a habit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:17:35",
+      "origin": "そうなんですね。癖になっているかもしれないんですね。",
+      "content": "I see. So it might have become a habit."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:17:47",
+      "origin": "はい、そう見えます",
+      "content": "Yes, it seems that way."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:18:08",
+      "origin": "ただの癖で、ここまで飲んでいると思うと、腹が立つこともありますね。",
+      "content": "It must be maddening to think he's drinking this much just out of habit."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:19:03",
+      "origin": "パートナーさんに、お酒を飲み過ぎるということで、話し合いをされたことは、いままでおありですか？",
+      "content": "Have you ever discussed with your partner his excessive drinking?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:19:48",
+      "origin": "習慣の一部のような、、そうですね。ずっと、家族にそんな姿ばかり見せるならうちにいない方がマシだと思ってきました💦",
+      "content": "It feels like it’s become part of his routine... yes. I’ve long felt that if he’s just going to keep showing the family that side of himself, it would be better if he weren’t at home. 💦"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:19:52",
+      "origin": "話し合いは",
+      "content": "As for talking about it—"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:20:33",
+      "origin": "度々してきたのですが、話すとケンカになるので良い方向に進みません、、",
+      "content": "we’ve tried many times, but whenever we talk it turns into a fight, so it doesn’t lead to anything positive..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:21:32",
+      "origin": "そうなんですね。話すとけんかになってしまうんですね‥。そうですと、もう話せない気持ちになってしまいますね。",
+      "content": "I see. So it turns into a fight when you talk. That must make you feel like you can't talk about it anymore."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:22:26",
+      "origin": "パートナーさんが酔われている姿を実際にお子様たちはご覧になっていらっしゃるのでしょうか？",
+      "content": "Do your children actually see your partner when he's drunk?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:23:09",
+      "origin": "話しても聞く耳をもたないのと、『俺は大丈夫』とばかり言います。私や家族が大丈夫じゃないと伝えるのですが、全く聞く気がないです。",
+      "content": "He won't listen even if I talk to him, and he just keeps saying, 'I'm fine.' I tell him that I and the family are not fine, but he has no intention of listening at all."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:23:17",
+      "origin": "子ども達は",
+      "content": "As for the kids—"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:24:03",
+      "origin": "だいぶ大きくなったのでまた寝てるよ、、と冷めた目で見ている時もありますが",
+      "content": "they're much older now, so sometimes they just look at him coldly and say, \"He's sleeping again...\""
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:25:06",
+      "origin": "そうなんですね‥お子様も、酔いつぶれているパートナーさんを見て、呆れたような、がっかりした気持ちになってしまわれるかもしれませんね",
+      "content": "I see... Your children might feel exasperated or disappointed seeing your partner passed out drunk."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:25:06",
+      "origin": "酔っていると暴言を吐いたり怒鳴ったりするので理不尽な態度を嫌がっています。それが私も本当に嫌です",
+      "content": "When he's drunk, he becomes verbally abusive and yells, so they hate his unreasonable behavior. I really hate it too."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:25:44",
+      "origin": "それは、お子様への影響を考えると心配になりますね。",
+      "content": "That is certainly concerning when you think about the impact on your children."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:25:44",
+      "origin": "はい、呆れてる様子です",
+      "content": "Yes, they seem exasperated."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:26:09",
+      "origin": "ごめんなさい、行き違いになってしまいましたね。",
+      "content": "I'm sorry, our messages crossed."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:26:22",
+      "origin": "そうなんです！子ども達に良い影響はなく…",
+      "content": "Exactly! It's not a good influence on the children at all..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:26:25",
+      "origin": "いえ",
+      "content": "No, not at all."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:26:34",
+      "origin": "こちらこそ失礼しました",
+      "content": "I’m the one who should apologize."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:27:16",
+      "origin": "パートナーさんは、酔っていないときもありますか？",
+      "content": "Are there times when your partner is not drunk?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:27:44",
+      "origin": "特別じゃなくていいので普通の父親の姿を見せて欲しいです。酔ってない時も時々あります！",
+      "content": "I just want him to be a normal father, nothing special. There are times when he's not drunk!"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:28:01",
+      "origin": "半日あればいい方です",
+      "content": "It's a good day if it lasts for half a day."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:28:42",
+      "origin": "そうなんですね。酔って居ないときのパートナーさんは、どんな感じか教えていただけますか？",
+      "content": "I see. Could you tell me what your partner is like when he's not drunk?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:29:34",
+      "origin": "酔ってないときのパートナーさんの様子を教えていただきたいです。",
+      "content": "I’d like to hear what your partner is like when he’s sober."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:30:19",
+      "origin": "酔ってない時は、最近は以前より優しいことが増えました。とはいえ、ゴロゴロするのが好きなのでベッドで寝ながらPCを見ています",
+      "content": "When he's not drunk, he has been kinder recently than he used to be. That said, he likes to lounge around, so he's usually on his bed looking at his PC."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:30:37",
+      "origin": "あとは、たまに犬の散歩にいきます",
+      "content": "Also, he sometimes takes the dog for a walk."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:31:00",
+      "origin": "そうなんですね。酔っていないときは、優しいことも増えたんですね。",
+      "content": "I see. So when he’s not drunk, there are more moments when he’s gentle."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:31:35",
+      "origin": "そうですね！今年犬を飼い始め、少し優しくなりました",
+      "content": "That's right! We got a dog this year, and he's become a little kinder."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:32:21",
+      "origin": "ワンちゃんが、もしかしたら、良い影響になられているのかもしれませんね。パートナーさんが優しいと感じられた時、どんなお気持ちになられますか？",
+      "content": "Perhaps the dog is having a positive influence on him. How do you feel when you perceive your partner as being kind?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:33:50",
+      "origin": "はい！犬の存在が癒しになっているように感じます。優しくしている夫を見ているとアルコールのコントロールが出来たら、家族間がもっと良くなるのにな…と感じます。",
+      "content": "Yes! I feel like the dog's presence is a source of comfort for him. When I see my husband being kind, I can't help but think that if only he could control his drinking, our family relationships would be so much better."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:34:38",
+      "origin": "優しい夫だと、素直に嬉しいです",
+      "content": "When he's kind, I'm genuinely happy."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:35:18",
+      "origin": "そうですね。家族間のご関係がよくなったら、すごくうれしいですね。ワンちゃんが癒しになってくれたらと、希望になりますね。",
+      "content": "Yes, it would be wonderful if your family relationships improved. It gives you hope to think the dog could be a source of comfort for him."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:35:28",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:35:58",
+      "origin": "酔ってないときのパートナーさんと、お子様が一緒に過ごされるときはありますか？",
+      "content": "Are there times when your partner, when not drunk, spends time with the children?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:36:37",
+      "origin": "あります！酔ってないと娘とラーメン屋さんに行ったりする時もあります",
+      "content": "Yes! When he's not drunk, he sometimes goes out for ramen with our daughter."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:37:02",
+      "origin": "息子とはあまり出かけたりはしないです",
+      "content": "He doesn't go out much with our son."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:37:09",
+      "origin": "そんな時、娘さんは、どんなご様子ですか？",
+      "content": "How is your daughter at times like that?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:37:34",
+      "origin": "酔ってなくて優しい夫だと娘も嬉しそうです！",
+      "content": "When he’s sober and kind, our daughter seems happy too!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:38:26",
+      "origin": "娘さんが嬉しそうだと、本当に安心しますし、うれしくなりますね。息子さんは、普段あなたとは一緒にお出かけになりますか？",
+      "content": "It must be so reassuring and make you happy to see your daughter looking pleased. Does your son usually go out with you?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:39:48",
+      "origin": "はい！息子は、絶賛思春期で私ともあまり出かけません。犬の散歩はまたに一緒に行きますが、家族より友達と遊びたいみたいです。",
+      "content": "Yes! My son is in the thick of his teenage years, so he doesn't go out with me much either. We sometimes walk the dog together, but it seems he'd rather hang out with his friends than his family."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:40:42",
+      "origin": "思春期の男の子は、親と出かけるのを恥ずかしがりますよね。でも、犬のお散歩は一緒に行かれるときがあるんですね。",
+      "content": "Teenage boys can be embarrassed about going out with their parents, can't they? But it's nice that you sometimes walk the dog together."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:41:59",
+      "origin": "はい！犬が共通の話題になり、間を取り持ってくれてる感じがします✨息子と散歩に行けると私も嬉しいです",
+      "content": "Yes! The dog gives us something to talk about and helps bridge the gap. ✨ I'm also happy when I get to go for a walk with my son."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:42:40",
+      "origin": "思春期の息子さんが、一緒に出掛けてくれるとうれしいですよね。もしも、なんですが‥",
+      "content": "It's nice when your adolescent son is willing to go out with you, isn't it? If I may make a suggestion..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:43:33",
+      "origin": "パートナーさんが酔っていないときに、娘さん、息子さんと、みんなでワンちゃんの散歩に行こうと提案されたら、どんな感じでしょうか？",
+      "content": "What do you think would happen if, when your partner is not drunk, you suggested that all of you go for a walk with the dog together?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:44:44",
+      "origin": "そうですね！息子はなんて言うか分かりませんが、みんなで散歩に行こうと誘うのは、夫は喜ぶかもしれないです！！",
+      "content": "That's a good point! I'm not sure what my son would say, but my husband might be happy if I suggested we all go for a walk together!!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:45:34",
+      "origin": "そうなんですね。それはいいですね。",
+      "content": "I see. That sounds good."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:45:48",
+      "origin": "はい！",
+      "content": "Yes!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:45:53",
+      "origin": "一般的になのですが・・・",
+      "content": "Generally speaking..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:45:54",
+      "origin": "ありがとうございます",
+      "content": "Thank you."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:46:54",
+      "origin": "パートナーさんのように、お酒に少し依存されている方は、日常的なストレスを受け止めきれず、お酒に頼っていることが多いようです。",
+      "content": "People who are a bit dependent on alcohol, like your partner, often have difficulty coping with everyday stress and end up relying on alcohol."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:47:25",
+      "origin": "はい、わたしもそう思っています。ストレスに弱いと、、",
+      "content": "Yes, I think so too. That he doesn't handle stress well..."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:47:42",
+      "origin": "でも、最近、ワンちゃんを飼われてから変わってきた‥",
+      "content": "But recently, things have started to change since you got the dog..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:47:56",
+      "origin": "そうですね！",
+      "content": "That’s right!"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:48:06",
+      "origin": "多少はマシになりました",
+      "content": "It's gotten a little better."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:49:00",
+      "origin": "もしかしたら、ワンちゃんが、お酒の代わりにストレスで疲弊する心を癒してくれるのかもしれません。",
+      "content": "Perhaps the dog is helping to soothe his mind, which is exhausted from stress, instead of alcohol."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:49:31",
+      "origin": "それに、ご家族をつなぐきっかけにも、なってるように感じます。",
+      "content": "And it also feels like the dog is becoming a catalyst for connecting your family."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:50:20",
+      "origin": "はい、私もそう感じています。とはいえ、いまだに夫は凄い量を飲んでいて悩ましいです💦",
+      "content": "Yes, I feel that way too. That said, it's still distressing that my husband drinks such a huge amount. 💦"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:51:15",
+      "origin": "お酒の量が、減らないのは、すごく心配ですよね‥もしよろしければ、1つご提案させていただいても良いでしょうか？",
+      "content": "It's very worrying that the amount he's drinking isn't decreasing... If it's alright with you, may I make a suggestion?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:51:28",
+      "origin": "はい！ぜひお願い致します",
+      "content": "Yes! Please do."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:52:29",
+      "origin": "少しずつでいいので、パートナーさんと一緒に、ワンちゃんの散歩に出かける回数を増やしていくのはいかがでしょうか？",
+      "content": "How about gradually, little by little, increasing the number of times you go for a dog walk together with your partner?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:53:10",
+      "origin": "娘さん、息子さんも、できるだけ誘っていただき、無理ない範囲で。そして‥",
+      "content": "Invite your daughter and son as much as possible, without forcing them. And then..."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:54:15",
+      "origin": "そうですね！！確かに意図的に増やすのは良さそうですね！子ども達も誘いつつ、無理なら私や夫だけでも、散歩係になってもらうのもいいかもしれないです✨",
+      "content": "Yes!! It does seem like a good idea to intentionally increase the frequency! We can invite the kids, and if they can't make it, maybe just I or my husband could be in charge of walking the dog. That could be good too. ✨"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:55:03",
+      "origin": "あと、パートナーさんが、嬉しそうにしていて、優しくなっている時に感じている貴方のお気持ちを、素直にお伝えするのはいかがでしょうか？",
+      "content": "Also, how about honestly telling your partner how you feel when you see him looking happy and being kind?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:56:27",
+      "origin": "そうですね！私の態度にも改善点があると思いますので、ご提案いただいたことを今日から意識してみます。ありがとうございます✨",
+      "content": "You're right! I think there are things I can improve in my own attitude, so I'll try to be mindful of your suggestions starting today. Thank you. ✨"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:56:49",
+      "origin": "実際に、娘さんが嬉しそうにしていること、あなたのお気持ちをお伝えすることで、パートナーさんが、自分の感情や振る舞いによってご家族にどういう影響があるかを感じていただきたいなと思います。",
+      "content": "By sharing that your daughter looks happy, and by sharing your own feelings, I hope your partner can begin to sense how his emotions and behavior affect the family."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:57:50",
+      "origin": "確かにそうですね、視野がせまく、なかなか気づかない夫なので言葉にして伝えてみます！",
+      "content": "That's true. My husband can be narrow-minded and doesn't always notice things, so I'll try putting it into words for him!"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:58:07",
+      "origin": "ありがとうございます。本日はお時間になってしまいましたが、ご相談されていかがでしたでしょうか？",
+      "content": "Thank you. Our time is about up for today. How do you feel after talking things through?"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:59:14",
+      "origin": "こちらこそ有難うございました！お陰様で夫への対応のヒントがいただけて、嬉しく思っています。他にはありません",
+      "content": "No, thank you! Thanks to you, I've gotten some hints on how to interact with my husband, and I'm very happy about that. I have nothing else to add."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:59:33",
+      "origin": "心が軽くなりました",
+      "content": "I feel like a weight has been lifted from my shoulders."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T11:59:37",
+      "origin": "少しでもお役に立てて良かったです。また、機会がございましたら、ぜひご相談にいらしていただけたらと思います。",
+      "content": "I'm glad I could be of some help. If the opportunity arises again, please feel free to come and talk with me."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:59:39",
+      "origin": "ありがとうございました！",
+      "content": "Thank you very much!"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T11:59:48",
+      "origin": "はい、またお願い致します",
+      "content": "Yes, I will. Thank you again."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T12:00:02",
+      "origin": "本日はご相談にきていただきありがとうございました。",
+      "content": "Thank you for coming in for a consultation today."
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T12:00:19",
+      "origin": "これで終了とさせていただきますね。",
+      "content": "We will end our session here."
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T12:00:28",
+      "origin": "はい、本当にありがとうございました！",
+      "content": "Yes, thank you so much!"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫のアルコール依存問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 6689,
+    "evaluation_created_at": "2024-04-05T12:12:00",
+    "client_id": 497,
+    "counselor_id": 498,
+    "score": 69,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

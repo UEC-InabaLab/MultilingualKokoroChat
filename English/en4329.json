@@ -1,0 +1,795 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-12-12T20:50:55",
+      "origin": "(こんばんは。本日は宜しくお願い致します。お時間になりましたら始めさせていただきます。）",
+      "content": "(Good evening. Thank you for being here today. We will begin when it is time.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T20:52:59",
+      "origin": "(こんばんは。本日はよろしくお願いいたします。)",
+      "content": "(Good evening. Thank you for seeing me today.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:00:04",
+      "origin": "こんばんは。相談員です。本日はお越しくださり、ありがとうございます。まず初めにご年齢、性別、相談内容を教えていただけますでしょうか。",
+      "content": "Good evening. I'm your counselor. Thank you very much for coming in today. To start, could you please tell me your age, gender, and what you'd like to discuss?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:00:46",
+      "origin": "はい14歳、男です。なんか家族からハブられてる気がします",
+      "content": "Yes, I'm 14 years old and male. I kind of feel like I'm being left out by my family."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:01:21",
+      "origin": "ありがとうございます。そうなのですね。例えば、どんなときにそう感じますか？",
+      "content": "Thank you. I see. For example, when do you feel that way?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:02:02",
+      "origin": "なんか俺以外でレストランに行ったり、俺がいないとリビングで楽しそうだったりするから",
+      "content": "Like, they go to restaurants without me, or they seem to be having fun in the living room when I'm not there."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:02:29",
+      "origin": "ええ、それは嫌な気分になりますよね。",
+      "content": "Yes, I can see how that would feel upsetting."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:03:33",
+      "origin": "嫌というか、家族にいらないのかなと思います",
+      "content": "It's not just unpleasant... it makes me wonder if my family doesn't need me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:04:14",
+      "origin": "そういう気持ちなのですね。ちなみに家族構成はどのような感じなのでしょうか？",
+      "content": "I understand that's how you feel. By the way, could you tell me about your family structure?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:04:32",
+      "origin": "父、母、姉、妹の5人です",
+      "content": "There are five of us: my father, mother, older sister, younger sister, and me."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:06:22",
+      "origin": "ありがとうございます。あなたは普段、ご家族とどのように接しておられるのでしょうか？",
+      "content": "Thank you. How do you usually interact with your family?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:06:57",
+      "origin": "どのように、、母とは喧嘩ばかりです",
+      "content": "How... well, I fight with my mom all the time."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:07:04",
+      "origin": "成績が悪いから怒られます",
+      "content": "I get scolded because my grades are bad."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:07:21",
+      "origin": "何をしても成績のことで怒られるので嫌になります",
+      "content": "No matter what I do, I get scolded about my grades, so I'm getting sick of it."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:07:56",
+      "origin": "そうなのですね。同じことばかり言われると嫌になってしまいますよね",
+      "content": "I see. Being told the same thing over and over can make you feel fed up, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:08:03",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:08:16",
+      "origin": "家の手伝いしてもです",
+      "content": "Even when I help around the house."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:08:40",
+      "origin": "そうなのですね。どんなことを言われるのでしょうか？",
+      "content": "I see. What kinds of things does she say to you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:08:44",
+      "origin": "手伝いしても褒められずに、最終的に成績が悪いとおこられます",
+      "content": "Even if I help, I don’t get praised; in the end I get scolded for having bad grades."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:09:09",
+      "origin": "あんた勉強してるの？",
+      "content": "\"Are you even studying?\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:09:22",
+      "origin": "この前のテストも点悪かったわね",
+      "content": "\"Your score on the last test was bad, wasn't it?\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:09:37",
+      "origin": "なんでそんなに勉強しないの？",
+      "content": "\"Why don't you study more?\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:09:54",
+      "origin": "どうやったら勉強するの？",
+      "content": "\"What will it take to make you study?\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:10:05",
+      "origin": "早く勉強しなさい",
+      "content": "\"Hurry up and study.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:10:15",
+      "origin": "また遊んでる",
+      "content": "\"You're slacking off again.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:10:27",
+      "origin": "そんなことしてないで勉強しなさい",
+      "content": "\"Stop doing that and study.\""
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:10:28",
+      "origin": "そうでしたか。普段から色々言われておられるのですね。",
+      "content": "I see. It sounds like you’re told a lot of things on a regular basis."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:10:32",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:10:46",
+      "origin": "なにしててもいわれます",
+      "content": "No matter what I'm doing, she says something."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:11:06",
+      "origin": "ええ、その時どんなお気持ちなのでしょうか？",
+      "content": "I see. How do you feel in those moments?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:11:15",
+      "origin": "いやです",
+      "content": "I hate it."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:11:28",
+      "origin": "勉強のことしかいわないし",
+      "content": "She only talks about studying."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:11:37",
+      "origin": "嫌味ばかり",
+      "content": "It's all sarcastic remarks."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:11:49",
+      "origin": "だから喧嘩になります",
+      "content": "That's why we end up fighting."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:12:11",
+      "origin": "そうなのですね。いつもはなんと言い返しているのですか？",
+      "content": "I see. What do you usually say back?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:12:28",
+      "origin": "いまやってんだよ",
+      "content": "\"I'm doing it now!\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:12:34",
+      "origin": "これからやるんだよとか",
+      "content": "Or \"I was just about to do it.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:12:51",
+      "origin": "黙っててもずっと止まらないので",
+      "content": "Even if I stay quiet, she doesn't stop."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:13:08",
+      "origin": "自分の部屋にこもったり",
+      "content": "So I shut myself in my room."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:13:21",
+      "origin": "舌打ちしたり",
+      "content": "Or I click my tongue."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:13:40",
+      "origin": "ええ、聞いていますね",
+      "content": "Yes, I hear you."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:13:46",
+      "origin": "勉強の合間に飲み物取りに行っても言われるんです",
+      "content": "Even when I go to get a drink during a study break, she says something."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:13:57",
+      "origin": "また遊んでるって",
+      "content": "Like, \"You're slacking off again.\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:14:15",
+      "origin": "リビングにいる間はずっと言われてるきがします",
+      "content": "I feel like she's on my case the entire time I'm in the living room."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:14:38",
+      "origin": "そうなのですね。それはきついですよね。",
+      "content": "I see. That must be tough."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:14:43",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:15:23",
+      "origin": "ええ、そう感じるのも自然のことと思います。ちなみに今は受験生なのでしょうか？",
+      "content": "Yes, it’s natural to feel that way. By the way, are you currently preparing for entrance exams?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:15:34",
+      "origin": "いや違います",
+      "content": "No, I'm not."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:15:45",
+      "origin": "中高一貫なので受験はありません",
+      "content": "My school goes from middle to high school, so there are no entrance exams."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:16:09",
+      "origin": "ただ進学校なので周りは頭がいい人がおおいです",
+      "content": "But it's a college-prep school, so a lot of the students around me are smart."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:16:42",
+      "origin": "成績は確かにわるいです",
+      "content": "And my grades are definitely bad."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:17:05",
+      "origin": "そうなのですね。お母さまは成績や勉強に対して物凄い厳しい方なのかと感じましたが、いかがでしょうか？",
+      "content": "I see. I get the sense that your mother is extremely strict about grades and studying. Would you say that’s accurate?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:17:14",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:17:26",
+      "origin": "よく教育ママとか親戚にいわれてます",
+      "content": "Relatives often call her a “tiger mom.”"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:17:39",
+      "origin": "兄弟みんな私立です",
+      "content": "All of us kids go to private school."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:17:53",
+      "origin": "いい大学行きなさいとばかりいわれます",
+      "content": "I’m constantly told to get into a good university."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:18:06",
+      "origin": "そうだったのですね。そういう環境の中、頑張ってこられたのですね。",
+      "content": "I see. You’ve been doing your best in that kind of environment."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:18:26",
+      "origin": "頑張ってるかはわからないです",
+      "content": "I’m not sure I’m really doing my best."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:18:35",
+      "origin": "確かに成績はわるいので",
+      "content": "My grades are bad, after all."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:19:30",
+      "origin": "他の人たちのほうが頑張ってるのかも",
+      "content": "Maybe the other students are trying harder."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:20:25",
+      "origin": "そうなのですね。でも、お母様から色々言われながらも、お家で勉強はされておられるのですよね？",
+      "content": "I see. But even with your mother saying all these things, you are studying at home, aren't you?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:20:36",
+      "origin": "わかんないです",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:20:46",
+      "origin": "一応部屋にはいます",
+      "content": "I stay in my room, at least."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:20:51",
+      "origin": "文句いわれるから",
+      "content": "Because otherwise I get nagged."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:21:09",
+      "origin": "でも勉強してるふりしてゲームしたりもしてます",
+      "content": "But sometimes I just pretend to study and play games."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:21:26",
+      "origin": "全然集中はしてないかもしれません",
+      "content": "I might not be concentrating at all."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:21:53",
+      "origin": "あんまり集中できないんです",
+      "content": "I can’t really concentrate."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:22:42",
+      "origin": "そうなのですね。それはどのようなことから集中できていないと感じますか？周りに「勉強しろ」と言われるからでしょうか？",
+      "content": "I see. What makes you feel that you can't concentrate? Is it because people around you are telling you to \"study\"?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:23:02",
+      "origin": "わからないです",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:23:21",
+      "origin": "机の前に座ってやろうと思ってもすぐ他のことがきになります",
+      "content": "Even when I sit at my desk and try to start, my mind wanders to other things right away."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:23:38",
+      "origin": "漫画読んだりとか",
+      "content": "Like reading manga."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:24:19",
+      "origin": "あんまり宿題とかもできないです",
+      "content": "I can’t really get my homework done either."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:24:54",
+      "origin": "集中力がないっていわれます",
+      "content": "I'm told I lack concentration."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:25:06",
+      "origin": "そうなのですね。それはいつ頃からなのでしょうか？",
+      "content": "I see. Since when has it been like that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:25:32",
+      "origin": "さあどうですかね、、",
+      "content": "Hmm, I'm not sure..."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:25:50",
+      "origin": "でもやっぱり中学から勉強が厳しくなったから",
+      "content": "But schoolwork got a lot harder in middle school."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:26:01",
+      "origin": "中学からとくに言われるようになりました",
+      "content": "So she started saying it more since I entered middle school."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:26:34",
+      "origin": "でも隠れて漫画読んだりは小学生のころからしてました",
+      "content": "But I've been hiding and reading manga since elementary school."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:27:41",
+      "origin": "そうだったのですね。ちなみに学校ではどのように過ごされているのですか？例えば、授業中とかは。。",
+      "content": "I see. By the way, how do you spend your time at school? During class, for example?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:28:00",
+      "origin": "遊んでますね",
+      "content": "I mess around."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:28:12",
+      "origin": "あんまり授業はきいてないです",
+      "content": "I don’t really listen in class."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:28:25",
+      "origin": "内職したり",
+      "content": "I do other things on the side."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:28:41",
+      "origin": "別のことしてます",
+      "content": "I do something else."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:29:21",
+      "origin": "そうなのですね。あなたは勉強というより、他のことに関心があるように感じましたが、いかがでしょうか？",
+      "content": "I see. It seems to me that you're more interested in other things than in studying. What do you think?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:29:50",
+      "origin": "どうですかね",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:30:15",
+      "origin": "まああんまり勉強には関心がないかもですが",
+      "content": "Well, I guess I'm not that interested in studying."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:30:30",
+      "origin": "みんなそんなもんじゃないですか？",
+      "content": "But isn't everyone like that?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:31:40",
+      "origin": "勉強に興味がある中学生なんてガリ勉のごくいちぶじゃないんですかね？",
+      "content": "Aren't middle schoolers who are interested in studying just a handful of nerds?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:32:16",
+      "origin": "ええ、そう感じるのももっともだと思いますよ。しかしながら、ご家族から成績のことや勉強について色々言われてしまうんですよね。",
+      "content": "Yes, I think it's quite reasonable to feel that way. However, your family says a lot to you about your grades and studying, right?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:32:33",
+      "origin": "はい",
+      "content": "Yes."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:32:45",
+      "origin": "成績は悪いので",
+      "content": "Because my grades are bad."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:33:43",
+      "origin": "ええ、成績が悪いことに関してはどう感じてますか？",
+      "content": "Yes, and how do you feel about your grades being bad?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:34:04",
+      "origin": "なんとかしなきゃなと思ってます",
+      "content": "I feel like I have to do something about it."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:34:39",
+      "origin": "高校もあがれないかもしれないと言われたりしてるので",
+      "content": "I've been told I might not be able to advance to high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:35:12",
+      "origin": "そうだったのですね。なんとかできそうでしょうか？",
+      "content": "I see. Do you think you can do something about it?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:35:31",
+      "origin": "んー",
+      "content": "Umm..."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:35:45",
+      "origin": "さあ",
+      "content": "I don't know."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:35:54",
+      "origin": "でもなんとかしないとです",
+      "content": "But I have to do something."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:36:52",
+      "origin": "そうですね。何かわからないけど、やらなきゃ！というお気持ちなのですね",
+      "content": "Right. So you feel like, \"I'm not sure what, but I have to do it!\""
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:37:16",
+      "origin": "はい、進学できないかもなので",
+      "content": "Yes, because I might not be able to advance to high school."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:39:12",
+      "origin": "ええ、そうなのですね。「進学するため」なら勉強も少し頑張れそうですか？",
+      "content": "Yes, I see. If it's \"to advance to high school,\" do you think you could try a little harder with your studies?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:40:17",
+      "origin": "やってはいます",
+      "content": "I am trying."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:41:39",
+      "origin": "勉強できないから怒られるのは当たり前で仕方ないということですか？",
+      "content": "Are you saying it's normal and can't be helped that I get yelled at because I can't study well?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:42:52",
+      "origin": "成績わるいと全部ダメなのですか？",
+      "content": "If my grades are bad, is everything I do wrong?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:43:39",
+      "origin": "成績わるいとなにやっても怒られて当然なんですか？",
+      "content": "Is it natural to be scolded for everything I do just because my grades are bad?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:43:58",
+      "origin": "家事手伝っても成績わるいから怒られて当然なんですか？",
+      "content": "Even if I help with chores, is it still natural to be scolded just because my grades are bad?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:45:19",
+      "origin": "そういうことではないと思います。こちらはあなたが頑張っている姿が伝わってきましたよ。",
+      "content": "I don't think that's the case at all. I can see that you are trying your best."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:46:11",
+      "origin": "じゃあなんで勉強の話ばかりするんですか",
+      "content": "Then why are you only talking about studying?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:46:15",
+      "origin": "成績が悪いから何もかもが正当化されるのは違うと思います。",
+      "content": "I don't think it's right to justify everything that happens to you just because your grades are bad."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:46:22",
+      "origin": "母親と一緒じゃないですか",
+      "content": "You're just like my mother."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:46:47",
+      "origin": "もっと勉強頑張れって",
+      "content": "Telling me to study harder."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:48:04",
+      "origin": "結局勉強できないから仕方ないんですね",
+      "content": "So in the end, it can't be helped because I'm bad at studying."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:48:23",
+      "origin": "怒られるのもハブられるのも",
+      "content": "Getting yelled at and being excluded."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:50:29",
+      "origin": "勉強ができないからではないのではないでしょうか？",
+      "content": "Perhaps it's not because you are bad at studying?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:50:58",
+      "origin": "どういう意味ですか？わからないです",
+      "content": "What do you mean? I don’t understand."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:51:13",
+      "origin": "他にも問題があるということですか？",
+      "content": "Are you saying there's another problem?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:51:35",
+      "origin": "態度が悪いから怒られるのは当然ってことですか？",
+      "content": "Are you saying it's natural for me to get yelled at because I have a bad attitude?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:52:58",
+      "origin": "そういうわけではありませんよ。ご家族はあなたに勉強をしてほしいという気持ちが強すぎるがあまり、あなたが勉強をしていたとしても求めるものがさらに高いのではないのでしょうか？",
+      "content": "That's not what I mean. Isn't it possible that your family's desire for you to study is so strong that even when you are studying, their expectations are just even higher?"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:53:44",
+      "origin": "じゃあどうすればいいんですか",
+      "content": "Then what should I do?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:58:12",
+      "origin": "（すみません。統合まで全くもっていけずに時間がきてしまいました。一旦締めさせていただきます。）",
+      "content": "(I'm sorry. We've run out of time before I could bring this to a proper conclusion. I'll have to wrap things up for now.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:58:39",
+      "origin": "(承知いたしました。よろしくお願いいたします。)",
+      "content": "(Understood. Thank you.)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:59:14",
+      "origin": "そうですよね。お話の途中となってしまいましたが、そろそろ終了の時間となってしまいました。",
+      "content": "I understand. I'm sorry to cut our conversation short, but our time is just about up."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T21:59:27",
+      "origin": "本日はお越しくださり、ありがとうございました。",
+      "content": "Thank you very much for coming in today."
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T21:59:55",
+      "origin": "はい",
+      "content": "Okay."
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-12T22:01:47",
+      "origin": "（ロープレありがとうございました。とても勉強になりました。これにて終了させていただきます）",
+      "content": "(Thank you for the role-play. It was a great learning experience. This concludes our session.)"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-12T22:02:44",
+      "origin": "(少し厳しかったかと思いますが、ご対応いただきありがとうございました！それでは失礼いたします)",
+      "content": "(I think I might have been a bit harsh, but thank you for handling it so well! Goodbye now.)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "家族からのハブられ感とコミュニケーションの問題"
+  },
+  "review_by_client": {
+    "evaluation_id": 4329,
+    "evaluation_created_at": "2022-12-12T23:10:00",
+    "client_id": 345,
+    "counselor_id": 294,
+    "score": 39,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}
