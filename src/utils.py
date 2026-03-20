@@ -23,6 +23,15 @@ def normalize_for_dedup(s: str) -> str:
     return s
 
 
+def str2json(text:str):
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON: {e}")
+        return None
+
+
+
 def ReadDialogue(file_path): # file_path: KokoroChat File Path
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -155,14 +164,15 @@ def InsertTranslation2KokoroChat(
         else:
             print(f"Warning {i}: '{ja}' not found (role={role}). Skipping.")
 
-    # record only untranslated utterances in Miss_Japanese
+    # record only untranslated utterances in MissJapanese
+    MissJapanese = ""
     for i, utt in enumerate(Dialogue.get("dialogue", [])):
         if not (target_language in utt and isinstance(utt[target_language], str)):
             role = utt.get("role")
             ja = utt.get("utterance")
-            Miss_Japanese += f"{role}:{ja}\n"
+            MissJapanese += f"{role}:{ja}\n"
 
-    return Dialogue, Miss_Japanese
+    return Dialogue, MissJapanese
 
 
 # Create Final Dialogue Format
@@ -198,11 +208,11 @@ def SaveHypothesis(
     # and also return any Japanese utterances that failed to find a match for debugging.
     Inserted, MissJapanese = InsertTranslation2KokoroChat(OriginalDialogue, Answer, target_language, use_normalized_fallback=True)
 
-    # Format the dialogue into the final structure 
-    FormattedDialogue = FormatDialogue(OriginalDialogue, Inserted, target_language)
-
     ID = OriginalDialogue['review_by_client_en']['evaluation_id']
     if not MissJapanese:
+        # Format the dialogue into the final structure 
+        FormattedDialogue = FormatDialogue(OriginalDialogue, Inserted, target_language)
+
         with open(f"{save_path}{ID}.json", 'w', encoding='utf-8') as f:
             json.dump(FormattedDialogue, f, ensure_ascii=False, indent=2)
         print(f"Successfully processed file {ID}")

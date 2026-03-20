@@ -25,6 +25,8 @@ def ConfirmExecution(
     print("IDs to process:", IDs)
     print(f"LLM: {LLM}")
     print(f"Target Language: {target_language}")
+    if LLM == "Refine":
+        LLM = "Gemini" # Refine also uses Gemini API key
     print(f"{LLM} API Key: ***{APIKeys[LLM][-4:]}") # Show only last 4 characters of API keys for security
     confirm = input("Execute? Run[y], Cancel[n]").strip().lower()
     if confirm != 'y':

@@ -1,7 +1,8 @@
 import os
+import json
 from openai import OpenAI
 
-from utils import ReadDialogue, CreatePrompt_Hyp, SaveHypothesis
+from utils import str2json, ReadDialogue, CreatePrompt_Hyp, SaveHypothesis
 
 def FetchAnswer_qwen(
     api_key:str,
@@ -102,7 +103,7 @@ def main(
     Dialogue = ReadDialogue(f"../KokoroChat/kokorochat_dialogues/{ID}.json")
     Prompt = CreatePrompt_Hyp(Dialogue)
 
-    Answer = FetchAnswer_qwen(
+    Answer, Thinking = FetchAnswer_qwen(
         api_key=api_key, # Your API key here
         prompt=Prompt,
         instruction=Instructions.strip(),
@@ -111,4 +112,11 @@ def main(
         enable_thinking=True
     )
     
-    SaveHypothesis(Dialogue, Answer, 'Chinese', save_path)
+    print("Thinking Process:\n", Thinking)
+
+    if Answer:
+        Answer = str2json(Answer)
+
+        SaveHypothesis(Dialogue, Answer, 'Chinese', save_path)
+    else:
+        print(f"No valid answer received for file {ID}. Skipping saving hypothesis.")

@@ -76,3 +76,6 @@ From ``src``:
 ```bash
 python main.py
 ```
+Repeat the execution while changing the LLM, language, and IDs as needed.
+Once you have generated three types of hypotheses for each ID, set ``Refine`` to ``RunLLM``.
+By running ``main.py`` in this configuration, you can perform translation using our proposed method.

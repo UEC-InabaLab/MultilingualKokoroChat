@@ -1,7 +1,7 @@
 import json
 import time
 from openai import OpenAI
-from genai import genai
+from google import genai
 
 
 def user_input(message: str) -> str:

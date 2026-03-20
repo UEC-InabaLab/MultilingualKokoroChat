@@ -1,7 +1,8 @@
 import httpx
+import json
 from openai import OpenAI
 
-from utils import ReadDialogue, CreatePrompt_Hyp, SaveHypothesis
+from utils import str2json, ReadDialogue, CreatePrompt_Hyp, SaveHypothesis
 
 def FetchAnswer_grok(
     api_key:str,
@@ -74,4 +75,9 @@ def main(
         modelName="grok-4-0709"
     )
     
-    SaveHypothesis(Dialogue, Answer, 'English', save_path)
+    if Answer:
+        Answer = str2json(Answer)
+    
+        SaveHypothesis(Dialogue, Answer, 'English', save_path)
+    else:
+        print(f"No valid answer received for file {ID}. Skipping saving hypothesis.")

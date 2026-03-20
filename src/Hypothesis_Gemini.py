@@ -5,7 +5,7 @@ import time
 from google import genai
 from google.genai import types
 
-from utils import ReadDialogue, CreatePrompt_Hyp, Save_BatchOutput, SaveHypothesis
+from utils import str2json, ReadDialogue, CreatePrompt_Hyp, Save_BatchOutput, SaveHypothesis
 
 def Retrieve_BatchOutput(
     batch_job,
@@ -41,8 +41,7 @@ def Create_BatchInput(
     DialogueList:list,
     instruction:str,  
     schema:str = None,
-    batch_path:str = 'Batch/English/input_gemini',
-    think_low:bool=False
+    batch_path:str = 'Batch/English/input_gemini'
 )->tuple[list, str]:
     requests = []
     config = {}
@@ -51,8 +50,6 @@ def Create_BatchInput(
             "responseMimeType": "application/json",
             "responseSchema": schema
         }
-    if think_low:
-        config["thinkingConfig"] = {"thinkingLevel": "LOW"}
 
     IDs =[]
     for Dialogue in DialogueList:
@@ -148,16 +145,20 @@ def Extract_Gemini_BatchOutput(
         except json.JSONDecodeError as e:
             print(f"Error decoding JSON: {e}")
             print(batch_output)
+            
             with open(output_file, "r", encoding="utf-8") as f:
                 batch_output = json.load(f)
 
     Answers = {}
     for output in batch_output:
+        if isinstance(output, str):
+            output = str2json(output)
+
+        ID = int(output['key'])
         try:
             content = output["response"]["candidates"][0]["content"]["parts"][0]['text']
             content = json.loads(content)
-            ID = output['key']
-            print(f"{ID}:\n")
+            print(f"{ID}:")
             print(content)
             Answers[ID] = content
         except Exception as e:
@@ -217,7 +218,7 @@ def main(
     
     
     _, batch_file = Create_BatchInput(
-        DialogueList, Instruction, schema=schema, think_low=True,
+        DialogueList, Instruction, schema=schema,
         batch_path=f'Batch/{target_language}/input_gemini'
     )
 
@@ -234,7 +235,7 @@ def main(
     
     for Dialogue in DialogueList:
         ID = Dialogue['review_by_client_en']['evaluation_id']
-        if ID in Answers and Answers[ID]:
+        if Answers[ID]:
             SaveHypothesis(Dialogue, Answers[ID], target_language, save_path)
         else:
             print(f"No valid answer for dialogue ID {ID}. Skipping saving Gemini hypothesis.")

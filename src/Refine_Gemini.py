@@ -5,7 +5,7 @@ from collections import defaultdict, deque
 from typing import Dict, Any, List, Tuple
 
 from Hypothesis_Gemini import FetchAnswer_gemini_batch
-from utils import normalize_for_dedup, ReadDialogue, FormatDialogue
+from utils import str2json, normalize_for_dedup, ReadDialogue, FormatDialogue
 
 # Check if all LLM JSON files exist for this ID
 def Exist_LLMsJson(ID_Range: list, LLMs:list, common_path:str) -> list:
@@ -47,17 +47,17 @@ def Create_InputJson(
 
     # Initialize: Store Japanese original text first
     InputJson = {
-        'ID': Dialogue[LLMs[0]]['review_by_client_en']['evaluation_id'],
-        'dialogue': [{'role': utterance['role'], 'source': utterance['utterance']} for utterance in Dialogue[LLMs[0]]['dialogue']]
+        'ID': Dialogue[LLMs[0]]['review_by_client']['evaluation_id'],
+        'dialogue': [{'role': utterance['role'], 'source': utterance['origin']} for utterance in Dialogue[LLMs[0]]['dialogue']]
     }
     # Add hypotheses for each LLM
     for i, llm in enumerate(LLMs):
         for Turn_idx, utterance in enumerate(Dialogue[llm]['dialogue']):
-            if target_language not in utterance:
-                raise ValueError(f"{llm}'s translation missing for utterance: {utterance['utterance']}")
-            hypothesis = utterance[target_language]
-            if InputJson['dialogue'][Turn_idx]['source'] != utterance['utterance']:
-                raise ValueError(f"Source mismatch for utterance: {utterance['utterance']} in {llm} at turn {Turn_idx}")
+            if 'content' not in utterance:
+                raise ValueError(f"{llm}'s translation missing for utterance: {utterance['origin']} at turn {Turn_idx}")
+            hypothesis = utterance['content']
+            if InputJson['dialogue'][Turn_idx]['source'] != utterance['origin']:
+                raise ValueError(f"Source mismatch for utterance: {utterance['origin']} in {llm} at turn {Turn_idx}")
             InputJson['dialogue'][Turn_idx][f'hypothesis{i+1}'] = hypothesis
     return InputJson
 
@@ -66,8 +66,7 @@ def Create_BatchInput(
     InputList:list,
     instruction:str,  
     batch_path:str = 'Batch/English/input_refine_gemini',
-    schema:str = None,
-    think_low:bool=False
+    schema:str = None
 )->tuple[list, str]:
     requests = []
     config = {}
@@ -76,12 +75,10 @@ def Create_BatchInput(
             "responseMimeType": "application/json",
             "responseSchema": schema
         }
-    if think_low:
-        config["thinkingConfig"] = {"thinkingLevel": "LOW"}
 
     IDs =[]
     for input in InputList:
-        ID = input['review_by_client_en']['evaluation_id']
+        ID = input['ID']
         IDs.append(ID)
         prompt = json.dumps(input['dialogue'], ensure_ascii=False)
         request = {
@@ -130,11 +127,14 @@ def Extract_Refine_BatchOutput(
 
     Answers = {}
     for output in batch_output:
+        if isinstance(output, str):
+            output = str2json(output)
+
+        ID = int(output['key'])
         try:
             content = output["response"]["candidates"][0]["content"]["parts"][0]['text']
             content = json.loads(content)
-            ID = output['key']
-            print(f"{ID}:\n")
+            print(f"{ID}:")
             print(content)
             Answers[ID] = content
         except Exception as e:
@@ -250,10 +250,11 @@ def Save_RefinedTranslation(
         
         if ID in Answers and Answers[ID]:
             Inserted, MissJapanese = InsertTranslation2KokoroChat(OriginalDialogue, Answers[ID], target_language, use_normalized_fallback=True)
-            
-            FormattedDialogue = FormatDialogue(OriginalDialogue, Inserted, target_language)
 
             if not MissJapanese:
+                # Format the dialogue into the final structure 
+                FormattedDialogue = FormatDialogue(OriginalDialogue, Inserted, target_language)
+    
                 with open(f"{save_path}{ID}.json", 'w', encoding='utf-8') as f:
                     json.dump(FormattedDialogue, f, ensure_ascii=False, indent=2)
                 print(f"Successfully processed file {ID}")
@@ -264,6 +265,7 @@ def Save_RefinedTranslation(
 
 
 def main(
+    api_key:str,
     IDs : list,
     target_language:str, # "English" or "Chinese",
     save_path:str,
@@ -305,6 +307,8 @@ def main(
 
     InputList = []
     ExistAllLLMs_IDs = Exist_LLMsJson(IDs, LLMs, common_path=common_path)
+
+    print(f"IDs with existing hypotheses for all LLMs: {ExistAllLLMs_IDs}")
     for ID in ExistAllLLMs_IDs:
         Dialogue = Read_LLMsJson(ID, LLMs, common_path=common_path)
         InputList.append(Create_InputJson(Dialogue, LLMs, target_language))
@@ -336,11 +340,15 @@ def main(
         } 
     }
     _, batch_file = Create_BatchInput(
-        InputList, Instruction, schema=schema, think_low=True,
+        InputList, Instruction, schema=schema,
         batch_path=f'Batch/{target_language}/input_refine_gemini'
     )
 
-    answer = FetchAnswer_gemini_batch(batch_file, model="gemini-2.5-pro")
+    answer = FetchAnswer_gemini_batch(
+        api_key=api_key,
+        batch_file=batch_file, 
+        model="gemini-2.5-pro"
+    )
     if not answer:
         print("Batch processing failed or returned no output.")
         return

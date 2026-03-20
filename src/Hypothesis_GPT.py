@@ -169,7 +169,7 @@ def Extract_GPT_BatchOutput(
         try:
             content = file_output["response"]["body"]["choices"][0]["message"]["content"]
             content = json.loads(content)
-            print(f"{ID}:\n")
+            print(f"{ID}:")
             print(content)
             Answers[ID] = content
     
@@ -231,7 +231,7 @@ def main(
 
     for Dialogue in DialogueList:
         ID = Dialogue['review_by_client_en']['evaluation_id']
-        if ID in Answers and Answers[ID]:
+        if Answers[ID]:
             SaveHypothesis(Dialogue, Answers[ID], target_language, save_path)
         else:
             print(f"No valid answer for dialogue ID {ID}. Skipping saving Gemini hypothesis.")
