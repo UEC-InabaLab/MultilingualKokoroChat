@@ -4,7 +4,7 @@ import json
 from collections import defaultdict, deque
 from typing import Dict, Any, List, Tuple
 
-from Hypothesis_Gemini import FetchAnswer_gemini_batch
+from Hypothesis_Gemini import FetchAnswer_gemini_batch, Extract_Gemini_BatchOutput
 from utils import str2json, normalize_for_dedup, ReadDialogue, FormatDialogue
 
 # Check if all LLM JSON files exist for this ID
@@ -41,8 +41,7 @@ Chinese: (hypothesis1: GPT, hypothesis2: Gemini, hypothesis3: Qwen)
 """
 def Create_InputJson(
     Dialogue: dict, 
-    LLMs: list,
-    target_language: str # English or Chinese
+    LLMs: list
 ) -> dict:
 
     # Initialize: Store Japanese original text first
@@ -110,40 +109,6 @@ def Create_BatchInput(
             f.write(json.dumps(request, ensure_ascii=False) + "\n")
     
     return requests, file
-
-
-def Extract_Refine_BatchOutput(
-    batch_output:dict,
-    output_file:str,
-):
-    if isinstance(batch_output, str):
-        try:
-            batch_output = json.loads(batch_output)
-        except json.JSONDecodeError as e:
-            print(f"Error decoding JSON: {e}")
-            print(batch_output)
-            with open(output_file, "r", encoding="utf-8") as f:
-                batch_output = json.load(f)
-
-    Answers = {}
-    for output in batch_output:
-        if isinstance(output, str):
-            output = str2json(output)
-
-        ID = int(output['key'])
-        try:
-            content = output["response"]["candidates"][0]["content"]["parts"][0]['text']
-            content = json.loads(content)
-            print(f"{ID}:")
-            print(content)
-            Answers[ID] = content
-        except Exception as e:
-            Answers[ID] = None
-            print(f"Error processing output for file {ID}: {e}")
-
-    return Answers
-
-
 
 def InsertTranslation2KokoroChat(
     Dialogue: Dict[str, Any],
@@ -311,7 +276,7 @@ def main(
     print(f"IDs with existing hypotheses for all LLMs: {ExistAllLLMs_IDs}")
     for ID in ExistAllLLMs_IDs:
         Dialogue = Read_LLMsJson(ID, LLMs, common_path=common_path)
-        InputList.append(Create_InputJson(Dialogue, LLMs, target_language))
+        InputList.append(Create_InputJson(Dialogue, LLMs))
     schema = { 
         "type": "OBJECT", 
         "required": ["dialogue"], 
@@ -355,6 +320,6 @@ def main(
     output_file = batch_file.replace("input", "output") + '.json'
     print("Batch output saved to:", output_file)
 
-    Answers = Extract_Refine_BatchOutput(answer, output_file)
+    Answers = Extract_Gemini_BatchOutput(output_file)
 
     Save_RefinedTranslation(InputList, Answers, target_language, save_path=save_path)

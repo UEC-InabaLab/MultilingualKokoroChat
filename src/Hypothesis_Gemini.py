@@ -132,22 +132,10 @@ def FetchAnswer_gemini_batch(
 
 
 def Extract_Gemini_BatchOutput(
-    batch_output:str,
     output_file:str
 ):
-    if not batch_output:
-        print("Batch processing failed or returned no output.")
-        return
-
-    if isinstance(batch_output, str):
-        try:
-            batch_output = json.loads(batch_output)
-        except json.JSONDecodeError as e:
-            print(f"Error decoding JSON: {e}")
-            print(batch_output)
-            
-            with open(output_file, "r", encoding="utf-8") as f:
-                batch_output = json.load(f)
+    with open(output_file, "r", encoding="utf-8") as f:
+        batch_output = json.load(f)
 
     Answers = {}
     for output in batch_output:
@@ -231,7 +219,7 @@ def main(
     output_file = batch_file.replace("input", "output") + '.json'
     print("Batch output saved to:", output_file)
 
-    Answers = Extract_Gemini_BatchOutput(answer, output_file)
+    Answers = Extract_Gemini_BatchOutput(output_file)
     
     for Dialogue in DialogueList:
         ID = Dialogue['review_by_client_en']['evaluation_id']
