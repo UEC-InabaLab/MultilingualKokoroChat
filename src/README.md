@@ -9,7 +9,14 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 2. Prepare directories
+### 2. Prepare KokoroChat
+Clone KokoroChat from the official repository (from the project root):
+
+```bash
+git clone https://github.com/UEC-InabaLab/KokoroChat.git
+```
+
+### 3. Prepare directories
 Move to ``src/`` and create the required directories,
 
 ```bash
