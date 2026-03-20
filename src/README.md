@@ -80,4 +80,4 @@ Repeat the execution while changing the LLM, language, and IDs as needed.
 Once you have generated three types of hypotheses for each ID, set ``Refine`` to ``RunLLM``.
 By running ``main.py`` in this configuration, you can perform translation using our proposed method.
 
-You can also try translation with our proposed method by setting ``common_path='TestHyp/{target_language}/'`` and ``IDs=[4]``.
+You can also try translation with our proposed method by setting ``common_path='TestHyp/{target_language}/'``, ``RunLLM='Refine'`` and ``IDs=[4]``.
