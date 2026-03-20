@@ -29,7 +29,7 @@ mkdir Batch/Chinese
 These directories for saving the raw output and input of batch API processing
 
 ### 4. Configure `config.json`
-Open `config.json` in the project root and set your API keys for each LLM you plan to use.
+Open `config.json` in the project root and set your API keys for each LLM.
 
 ### 5. Configure ``main.py``
 Open ``main.py`` and fill in the following variables:
