@@ -47,17 +47,17 @@ def Create_InputJson(
 
     # Initialize: Store Japanese original text first
     InputJson = {
-        'ID': Dialogue[LLMs[0]]['review_by_client']['evaluation_id'],
-        'dialogue': [{'role': utterance['role'], 'source': utterance['content']} for utterance in Dialogue[LLMs[0]]['dialogue']]
+        'ID': Dialogue[LLMs[0]]['review_by_client_en']['evaluation_id'],
+        'dialogue': [{'role': utterance['role'], 'source': utterance['utterance']} for utterance in Dialogue[LLMs[0]]['dialogue']]
     }
     # Add hypotheses for each LLM
     for i, llm in enumerate(LLMs):
         for Turn_idx, utterance in enumerate(Dialogue[llm]['dialogue']):
             if target_language not in utterance:
-                raise ValueError(f"{llm}'s translation missing for utterance: {utterance['content']}")
+                raise ValueError(f"{llm}'s translation missing for utterance: {utterance['utterance']}")
             hypothesis = utterance[target_language]
-            if InputJson['dialogue'][Turn_idx]['source'] != utterance['content']:
-                raise ValueError(f"Source mismatch for utterance: {utterance['content']}")
+            if InputJson['dialogue'][Turn_idx]['source'] != utterance['utterance']:
+                raise ValueError(f"Source mismatch for utterance: {utterance['utterance']} in {llm} at turn {Turn_idx}")
             InputJson['dialogue'][Turn_idx][f'hypothesis{i+1}'] = hypothesis
     return InputJson
 
@@ -81,7 +81,7 @@ def Create_BatchInput(
 
     IDs =[]
     for input in InputList:
-        ID = input['review_by_client']['evaluation_id']
+        ID = input['review_by_client_en']['evaluation_id']
         IDs.append(ID)
         prompt = json.dumps(input['dialogue'], ensure_ascii=False)
         request = {
@@ -183,7 +183,7 @@ def InsertTranslation2KokoroChat(
         if target_language in utt and isinstance(utt[target_language], str):
             continue
 
-        Japanese = utt['content']
+        Japanese = utt['utterance']
         q = buckets.get(Japanese)
         chosen_key = None
         if q and len(q) > 0:
@@ -211,7 +211,7 @@ def InsertTranslation2KokoroChat(
     #  record only untranslated utterances in Miss_Japanese
     for i, utt in enumerate(Dialogue.get("dialogue", [])):
         if not (target_language in utt and isinstance(utt[target_language], str)):
-            ja = utt.get("content")
+            ja = utt.get("utterance")
             MissJapanese.append(ja)
 
     return Dialogue, MissJapanese

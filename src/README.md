@@ -28,7 +28,10 @@ mkdir Batch/Chinese
 ```
 These directories for saving the raw output and input of batch API processing
 
-### 4. Configure ``main.py``
+### 4. Configure `config.json`
+Open `config.json` in the project root and set your API keys for each LLM you plan to use.
+
+### 5. Configure ``main.py``
 Open ``main.py`` and fill in the following variables:
 
 ・``IDs``:
@@ -37,8 +40,6 @@ The list of evaluation dialogue IDs you want to translate. Example:
 IDs = [4, 7, 8]
 IDs = list(range(4, 10))
 ```
-
-・``api_*_key``: Your API key. Fill out for each LLM API key.
 
 ・``RunLLM``: The LLM name used for translation.
 
@@ -56,7 +57,7 @@ common_path = f"Results/{target_language}/"
 save_path_refine = f"Results/{target_language}/Refine"
 ```
 
-### 5. Create output directories
+### 6. Create output directories
 Create the directories you specified in ``common_path`` and ``save_path_refine``.
 If you use example I indicated before,
 from ``src/``
@@ -69,7 +70,7 @@ mkdir Results/Chinese
 
 Adjust the paths above so that they match your actual ``common_path`` and ``save_path_refine`` values.
 
-### 6. Run the experiment
+### 7. Run the experiment
 From ``src``:
 
 ```bash

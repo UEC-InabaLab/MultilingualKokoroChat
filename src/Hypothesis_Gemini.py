@@ -212,7 +212,8 @@ def main(
     DialogueList = []
     for ID in IDs:
         Dialogue = ReadDialogue(f"../KokoroChat/kokorochat_dialogues/{ID}.json")
-        DialogueList.append(Dialogue)
+        if Dialogue:
+            DialogueList.append(Dialogue)
     
     
     _, batch_file = Create_BatchInput(

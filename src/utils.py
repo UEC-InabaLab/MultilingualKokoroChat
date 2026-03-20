@@ -28,6 +28,7 @@ def ReadDialogue(file_path): # file_path: KokoroChat File Path
         with open(file_path, 'r', encoding='utf-8') as f:
             Dialogue = json.load(f)
         return Dialogue
+    return None
 
 """
 Example Prompt Format:
@@ -120,7 +121,7 @@ def InsertTranslation2KokoroChat(
         elif role == "client":
             role = "クライアント"
 
-        ja = utt.get("content")
+        ja = utt.get("utterance")
         if not (isinstance(role, str) and isinstance(ja, str)):
             continue
 
@@ -158,7 +159,7 @@ def InsertTranslation2KokoroChat(
     for i, utt in enumerate(Dialogue.get("dialogue", [])):
         if not (target_language in utt and isinstance(utt[target_language], str)):
             role = utt.get("role")
-            ja = utt.get("content")
+            ja = utt.get("utterance")
             Miss_Japanese += f"{role}:{ja}\n"
 
     return Dialogue, Miss_Japanese
