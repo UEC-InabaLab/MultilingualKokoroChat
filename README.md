@@ -71,12 +71,12 @@ The table below describes the fields of each utterance object in the `dialogue` 
 | `origin` | String | The original utterance in Japanese.|
 | `content` | String | The translated text of `origin` in the target language. |
 
-## 📄 Ciatation
+## 📄 Citation
 
 If you use this dataset, please cite the following paper:
 
 ```bibtex
-@inproceedings{qi2025kokorochat,
+@inproceedings{suzuki2026multilingualkokorochat,
   title     = {Multilingual KokoroChat: A Multi-LLM Ensemble Translation Method for Creating a Multilingual Counseling Dialogue Dataset},
   author    = {Ryoma Suzuki and Zhiyang Qi and Michimasa Inaba},
   booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference},
@@ -94,3 +94,4 @@ Multilingual KokoroChat is released under the [**Creative Commons Attribution-No
 [cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
+6
